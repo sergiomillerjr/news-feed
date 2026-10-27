@@ -1,312 +1,568 @@
 {
   "version": 2,
-  "generated_at": "2026-10-27T11:13:58-04:00",
-  "edition": "meio-dia",
+  "generated_at": "2026-10-27T15:15:11-04:00",
+  "edition": "tarde",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "eua-2026-10-27-md1",
-      "title": "Trump e Talarico disputam o Texas em comícios rivais",
-      "summary": "O presidente Donald Trump faz comícios nesta terça em Corpus Christi e Lubbock para apoiar o republicano Ken Paxton na disputa pelo Senado no Texas. O democrata James Talarico marcou um comício concorrente em Lubbock na mesma noite, numa corrida considerada empatada.",
+      "id": "tarde-2026-10-27-eua-01",
+      "title": "Trump diz que aceitará resultado das midterms “se a eleição for honesta”",
+      "summary": "A uma semana das eleições de meio de mandato, Donald Trump condicionou o reconhecimento dos resultados a eleições “honestas”. Ele admitiu que os republicanos podem perder as duas casas do Congresso e disse que, nesse caso, vetaria com frequência.",
       "highlights": [
-        "Republicanos têm hoje maioria de 53 a 47 no Senado",
-        "Elon Musk já destinou cerca de US$ 158 milhões a favor de Paxton",
-        "Talarico arrecadou mais de US$ 146 milhões até 14 de outubro"
+        "Trump: “Vou aceitar, se forem eleições honestas”",
+        "Departamento de Justiça processou para barrar certificação no Alasca",
+        "Recompensa de US$ 1 milhão por denúncias de fraude"
       ],
-      "body": "Trump volta ao Texas pela quarta vez desde o Dia do Trabalho para reforçar a campanha de Ken Paxton, procurador-geral do estado, contra o democrata James Talarico, ex-professor de escola pública. Segundo a média de pesquisas da RealClearPolitics citada pelo USA Today, a disputa está empatada, algo raro num estado que não elege um democrata para cargo estadual desde 1994.\n\nO resultado no Texas é visto como decisivo para o controle do Senado. Uma vitória de Talarico reduziria a maioria republicana e poderia ameaçar a agenda legislativa e as nomeações judiciais de Trump nos dois últimos anos de mandato. Trump defende que a guerra com o Irã valeu o custo para impedir Teerã de obter uma arma nuclear, enquanto enfrenta críticas pelos preços altos da gasolina e dos alimentos; segundo a AP, estrategistas republicanos admitem em privado que a guerra virou um peso para o partido.\n\nA campanha está entre as mais caras da história: grupos externos gastaram US$ 153 milhões contra Talarico até 20 de outubro. Musk, que chama Talarico de 'extremista de extrema esquerda', é o principal financiador de Paxton, enquanto membros da família Bush, como Neil e Barbara Bush, declararam apoio ao democrata.",
+      "body": "O presidente Donald Trump afirmou que respeitará os resultados das eleições de 3 de novembro “se forem eleições honestas”, uma ressalva que reacende lembranças de sua recusa em aceitar a derrota em 2020 e do ataque ao Capitólio em 6 de janeiro de 2021.\n\nTrump reconheceu a possibilidade de os republicanos perderem o controle da Câmara e do Senado e disse que, nesse cenário, usaria o veto com frequência. Ele também afirmou ter determinado que o Departamento de Justiça entrasse com uma ação para bloquear a certificação da eleição ao Senado no Alasca caso os republicanos percam — disputa marcada por confusão porque o senador Dan Sullivan tem um adversário com o mesmo nome.\n\nSegundo o USA Today, o governo também anunciou uma recompensa de US$ 1 milhão por informações sobre fraude eleitoral que levem a prisão ou condenação.",
       "category": "eua",
       "source": "USA Today",
-      "url": "https://www.usatoday.com/story/news/politics/elections/2026/10/27/trump-talarico-texas-rallies-lubbock-corpus-christi/92443779007/",
-      "published_at": "2026-10-27T05:05:00-04:00",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/26/USAT/92442572007-20261008-t-092332-z-1581340337-rc-2-pynaonwy-8-rtrmadp-3-usatrump.JPG?crop=5499,3093,x0,y279&width=3200&height=1800&format=pjpg&auto=webp"
-    },
-    {
-      "id": "eua-2026-10-27-md2",
-      "title": "Comey é acusado pela terceira vez pelo governo Trump",
-      "summary": "Promotores federais acusaram o ex-diretor do FBI James Comey de transmitir informações de defesa nacional, num processo mantido sob sigilo desde 5 de outubro e revelado na segunda-feira. A defesa diz que o caso prescreveu e pede o arquivamento.",
-      "highlights": [
-        "Acusação ligada a reportagem do New York Times de 2016",
-        "Não houve indiciamento por grande júri, apenas uma 'information'",
-        "No mesmo dia, juiz mandou reintegrar a filha de Comey ao DOJ"
-      ],
-      "body": "As novas acusações — transmissão e conspiração para transmitir informações de defesa nacional — se baseiam numa reportagem do New York Times de 5 de outubro de 2016 sobre o Yahoo e a vigilância de e-mails. Segundo a promotoria, Comey teria orientado funcionários a falar com o repórter para corrigir uma matéria da Reuters, transferindo informações classificadas de forma ilegal.\n\nOs advogados de Comey argumentam que o prazo de prescrição de dez anos exigia um indiciamento por grande júri, e não uma 'criminal information' apresentada no último dia possível. Comey não pode ser julgado apenas com esse documento sem renunciar ao indiciamento. O Departamento de Justiça afirma que o procedimento serve para suspender a prescrição e é prática reconhecida. O juiz Trevor McFadden determinou a retirada do sigilo.\n\nÉ o terceiro caso contra Comey no segundo mandato de Trump: o primeiro foi arquivado e o segundo, de abril, envolve uma foto de conchas formando '8647'. Em vídeo, Comey chamou a ação de 'abuso estarrecedor' e disse ser inocente. No mesmo dia, um juiz federal decidiu que sua filha, Maurene Comey, foi demitida ilegalmente do Departamento de Justiça e deve ser reintegrada.",
-      "category": "eua",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
-      "published_at": "2026-10-26T17:21:00-04:00",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260430-james-comey-vl-307p-2a39f0.jpg"
-    },
-    {
-      "id": "eua-2026-10-27-md3",
-      "title": "AP: ICE mantém preso há 10 meses homem que seria americano",
-      "summary": "Uma investigação da Associated Press encontrou documentos indicando que Phillip James, homem com doença mental detido pelo ICE desde janeiro, nasceu na Flórida e é cidadão americano. O governo quer deportá-lo para a Jamaica com base nas próprias alegações dele.",
-      "highlights": [
-        "Certidão aponta nascimento no condado de Orange, Flórida, em 1987",
-        "Ele teve passaporte americano por 15 anos",
-        "Jamaica diz não ter registro de seu nascimento"
-      ],
-      "body": "Phillip James, de 39 anos, está detido numa prisão de segurança máxima em Indiana apelidada de 'Speedway Slammer'. Ele afirma ter nascido na Jamaica — algo que médicos que o avaliaram descrevem como delírio ligado à esquizofrenia paranoide. As autoridades de imigração tomaram essa versão como verdadeira, mas a Jamaica nega ter registro dele.\n\nSegundo a AP, a certidão de nascimento apresentada pelos advogados e um documento judicial de 1988 sobre paternidade indicam que ele nasceu de mãe americana no condado de Orange, na Flórida. O Departamento de Segurança Interna alega, sem apresentar provas, que a certidão é fraudulenta e nega que o ICE detenha cidadãos americanos.\n\nA ONG Bronx Defenders, que agora representa James, pediu sua libertação na Justiça federal e recorre da ordem de deportação. O juiz Damon Leichty deve decidir em breve. Especialistas dizem que o caso ilustra como o ICE trata alegações de cidadania num momento de pressão por números de deportação.",
-      "category": "eua",
-      "source": "Associated Press (via Los Angeles Times)",
-      "url": "https://www.latimes.com/world-nation/story/2026-10-27/documents-support-claim-ice-has-detained-mentally-ill-u-s-citizen-since-january",
-      "published_at": "2026-10-27T10:57:00-04:00",
+      "url": "https://www.usatoday.com/story/news/politics/2026/10/27/trump-respect-midterm-election-results-honest/92460614007/",
+      "published_at": "2026-10-27T13:24:56-04:00",
       "image_url": null
     },
     {
-      "id": "eua-2026-10-27-md4",
-      "title": "Voto antecipado passa de 31 milhões a uma semana da eleição",
-      "summary": "Mais de 31 milhões de americanos já votaram antecipadamente para as eleições de meio de mandato de 3 de novembro, segundo dados de 47 estados e do Distrito de Colúmbia. Ao mesmo tempo, o governo Trump trava disputas judiciais para impedir a contagem de milhares de cédulas na Califórnia e em Washington.",
+      "id": "tarde-2026-10-27-eua-02",
+      "title": "Trump e Rubio recebem no Texas o 1º petroleiro venezuelano após acordo",
+      "summary": "O primeiro navio com petróleo da Venezuela desde o acordo energético de agosto chega nesta terça a Corpus Christi, no Texas, com 1 milhão de barris. Trump discursa no porto e segue para um comício em Lubbock.",
       "highlights": [
-        "Carolina do Sul já superou o recorde da última eleição de meio de mandato",
-        "Quase 2 milhões já votaram na Geórgia",
-        "Tribunal rejeitou recurso federal sobre 20 mil cédulas na Califórnia"
+        "Carga de 1 milhão de barris chega a Corpus Christi",
+        "Casa Branca diz que o petróleo foi fornecido “de graça”",
+        "Trump faz campanha no Texas a uma semana das midterms"
       ],
-      "body": "A participação antecipada está em ritmo forte em vários estados. Na Carolina do Sul, o número de votos antecipados já superou o recorde da eleição de meio de mandato anterior, e na Geórgia quase 2 milhões de eleitores já votaram. A candidata democrata ao governo da Geórgia, Keisha Lance Bottoms, disse que o partido está animado, mas não acomodado.\n\nO Departamento de Justiça tentou impedir a Califórnia de contar 20 mil cédulas que, segundo ele, provavelmente seriam de eleitores sem cidadania, mas um tribunal de apelação rejeitou o pedido na segunda-feira. O órgão também pediu ao estado de Washington que separe cédulas de mais de 400 pessoas. O procurador-geral da Califórnia, Rob Bonta, acusou o governo de plantar desconfiança antes de uma possível derrota.\n\nTrump segue em viagem por estados tradicionalmente republicanos, como Mississippi e Texas, enquanto o vice JD Vance tentou responder em Kansas às críticas sobre o preço alto da gasolina ligado à guerra com o Irã, que na quarta-feira completa oito meses.",
+      "body": "O presidente Donald Trump e o secretário de Estado Marco Rubio acompanham nesta terça-feira (27) a chegada do primeiro petroleiro venezuelano aos EUA desde o grande acordo de energia firmado entre os dois países em agosto. Segundo um funcionário da Casa Branca ouvido pelo New York Post, a carga de 1 milhão de barris foi “fornecida aos Estados Unidos de graça, sem custo para o contribuinte” e seria “a primeira de bilhões de barris”.\n\nEm agosto, Trump anunciou um acordo com a presidente interina da Venezuela, Delcy Rodríguez, para obter o controle de 65 bilhões de barris das reservas do país por meio de parcerias com empresas privadas. O acordo veio após a captura e extradição de Nicolás Maduro, em 3 de janeiro, para responder a acusações de narcoterrorismo nos EUA.\n\nDepois do evento no porto, Trump segue para um comício em Lubbock. O republicano Ken Paxton aparece 1,8 ponto atrás do democrata James Talarico na média de pesquisas da RealClearPolitics para o Senado do Texas.",
       "category": "eua",
-      "source": "Spectrum News",
-      "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/10/27/midterm-election-roundup-california-washington-ballots-counting-early-voting",
-      "published_at": "2026-10-27T09:27:00-04:00",
-      "image_url": "https://s7d2.scene7.com/is/image/TWCNews/early_voting_AP_26299720551266_NAT_1027"
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/27/us-news/trump-rubio-expected-to-greet-first-shipment-of-1-million-barrels-of-venezuelan-oil-arriving-in-texas-post-deal-with-us/",
+      "published_at": "2026-10-27T12:49:33-04:00",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-0qhj533dj-1793120692053.jpg?quality=75&strip=all&1793106351&w=1200"
     },
     {
-      "id": "mundo-2026-10-27-md1",
-      "title": "Israel registra comparecimento recorde em eleição decisiva",
-      "summary": "Até as 14h no horário local (8h em Nova York), o comparecimento na eleição israelense era de quase 45%, o mais alto para esse horário desde os anos 1970. O premiê Benjamin Netanyahu luta pela sobrevivência política contra uma coalizão liderada pelo ex-chefe militar Gadi Eisenkot.",
+      "id": "tarde-2026-10-27-eua-03",
+      "title": "Juiz manda reintegrar Maurene Comey, demitida ilegalmente pelo Departamento de Justiça",
+      "summary": "O juiz federal Jesse Furman decidiu que o Departamento de Justiça demitiu ilegalmente a promotora Maurene Comey, filha do ex-diretor do FBI James Comey. Ela deve ser reintegrada e receber salários atrasados.",
       "highlights": [
-        "Primeira eleição geral desde os ataques de 7 de outubro de 2023",
-        "São necessárias 61 das 120 cadeiras do Knesset para maioria",
-        "Urnas fecham às 22h no horário local"
+        "Demissão de julho de 2025 violou a Constituição",
+        "Decisão garante salários atrasados e reintegração",
+        "Departamento de Justiça diz que vai recorrer"
       ],
-      "body": "Os israelenses foram às urnas nesta terça-feira numa eleição apertada que opõe o premiê mais longevo do país, Benjamin Netanyahu, a uma coalizão frouxa de rivais determinados a derrubar seu governo de direita. Segundo o Comitê Central Eleitoral, o comparecimento até o início da tarde foi significativamente maior do que em qualquer eleição geral desde a década de 1970.\n\nO principal adversário é Gadi Eisenkot, ex-chefe do Exército cujo filho morreu na guerra em Gaza. Netanyahu enfrenta acusações criminais de suborno, fraude e quebra de confiança, além de um mandado do Tribunal Penal Internacional. Para governar, um bloco precisa de 61 das 120 cadeiras do Knesset.\n\nMilhões de palestinos que vivem sob ocupação em Jerusalém Oriental, na Cisjordânia e em Gaza não podem votar. O resultado deve definir os rumos de Israel após três anos de guerra e da trégua em Gaza.",
+      "body": "O juiz federal Jesse Furman, de Nova York, decidiu que o Departamento de Justiça agiu ilegalmente ao demitir a promotora Maurene Comey em julho de 2025. Segundo a decisão, a demissão violou a Constituição e o direito ao devido processo, e o órgão deve reintegrá-la e pagar os salários atrasados.\n\nMaurene Comey é filha de James Comey, ex-diretor do FBI e crítico de Donald Trump. O Departamento de Justiça informou à BBC que “vai recorrer no momento oportuno”.",
+      "category": "eua",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ck78px6glw3lo",
+      "published_at": "2026-10-26T15:27:21-04:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
+    },
+    {
+      "id": "tarde-2026-10-27-eua-04",
+      "title": "Suprema Corte se recusa a restaurar regra que permitia suspender processos de deportação",
+      "summary": "A Suprema Corte negou o pedido para restabelecer uma regra de 2024 que permitia a juízes de imigração “arquivar administrativamente” alguns casos de deportação. A norma havia sido derrubada por um acordo judicial entre o Departamento de Justiça e o Texas.",
+      "highlights": [
+        "Regra de 2024 permitia suspender casos de deportação",
+        "Acordo entre governo e Texas derrubou a norma no mesmo dia da ação",
+        "Cidades e grupo de apoio jurídico tiveram legitimidade negada"
+      ],
+      "body": "A Suprema Corte dos EUA recusou nesta terça-feira (27) um pedido para restaurar a regra de 2024 do Escritório Executivo de Revisão de Imigração (EOIR) que permitia o “arquivamento administrativo” — uma suspensão temporária — de alguns processos de deportação.\n\nO Texas processou o governo em junho, em Wichita Falls, e no mesmo dia o juiz Reed O’Connor aprovou um acordo entre o Departamento de Justiça e o estado que anulou a regra e impede uma norma semelhante no futuro. As cidades de Baltimore, New Haven e Columbus, além da organização Centro Legal de la Raza, tentaram intervir, mas tiveram a legitimidade negada; o Tribunal de Apelações do 5º Circuito também recusou o pedido, que chegou à Suprema Corte em 9 de outubro.",
+      "category": "eua",
+      "source": "SCOTUSblog",
+      "url": "https://www.scotusblog.com/2026/10/court-declines-to-restore-biden-era-regulation-allowing-some-deportation-proceedings-to-be-suspe/",
+      "published_at": "2026-10-27T12:49:00-04:00",
+      "image_url": "https://cdn.sanity.io/images/pito4za5/production/774db83ff1a409a4c56d7667ba150197d0545be6-1024x683.jpg?rect=0,75,1024,535&w=1200&h=627&fit=crop"
+    },
+    {
+      "id": "tarde-2026-10-27-eua-05",
+      "title": "Pesquisa NPR/PBS/Marist: democratas lideram por 8 pontos antes das midterms",
+      "summary": "Os candidatos democratas ao Congresso têm 52% contra 44% dos republicanos entre eleitores prováveis. A aprovação de Trump está em 40%, e 44% dizem que seu voto é principalmente contra o presidente.",
+      "highlights": [
+        "Democratas 52% x republicanos 44% entre prováveis eleitores",
+        "Aprovação de Trump em 40%; 59% desaprovam",
+        "Custo de vida (34%) e democracia (33%) lideram preocupações"
+      ],
+      "body": "Uma pesquisa NPR/PBS News/Marist divulgada nesta terça-feira (27) mostra os democratas com 8 pontos de vantagem na intenção de voto para o Congresso: 52% a 44% entre eleitores prováveis. Entre os independentes, a vantagem democrata é de 52% a 39%. Em setembro, a margem entre eleitores registrados era de 12 pontos; agora é de 10.\n\nA aprovação do presidente Donald Trump está em 40% entre eleitores prováveis, com 59% de desaprovação — 53% desaprovam fortemente. Para 44%, o voto deste ano é principalmente contra o presidente; 21% dizem votar a favor dele.\n\nCusto de vida (34%) e preservação da democracia (33%) são os temas mais citados. A pesquisa também aponta que 77% confiam que suas eleições locais serão justas e que 59% veem impacto negativo dos data centers no país. Foram ouvidos 1.289 eleitores registrados entre 19 e 20 de outubro.",
+      "category": "eua",
+      "source": "Marist Poll",
+      "url": "https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/",
+      "published_at": "2026-10-27T05:00:00-04:00",
+      "image_url": null
+    },
+    {
+      "id": "tarde-2026-10-27-eua-06",
+      "title": "Departamento de Justiça enviará 1.000 observadores eleitorais aos 50 estados",
+      "summary": "O Departamento de Justiça planeja enviar cerca de 1.000 monitores para acompanhar a votação de 3 de novembro em todos os 50 estados, mais que o dobro de 2022. Autoridades estaduais demonstram preocupação.",
+      "highlights": [
+        "Cerca de 1.000 monitores em todos os estados",
+        "Mais que o dobro dos 388 enviados em 2022",
+        "Monitores não atuarão nos locais de votação antecipada"
+      ],
+      "body": "O Departamento de Justiça dos EUA pretende enviar cerca de 1.000 observadores para todos os 50 estados no dia da eleição, 3 de novembro — mais que o dobro dos 388 monitores enviados nas midterms de 2022, segundo a PBS NewsHour.\n\nHistoricamente, esses monitores têm papel passivo, apenas observando o cumprimento das leis federais de direito ao voto, e não atuarão nos locais de votação antecipada. Ainda assim, a escala da operação gerou preocupação entre algumas autoridades estaduais.",
+      "category": "eua",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
+      "published_at": "2026-10-23T16:16:57-04:00",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/GettyImages-2299368275-1024x683.jpg"
+    },
+    {
+      "id": "tarde-2026-10-27-eua-07",
+      "title": "DeSantis faz campanha pela Emenda 3, que amplia isenção de imposto sobre imóveis",
+      "summary": "O governador Ron DeSantis, a senadora Ashley Moody e o comissário Wilton Simpson pediram aos eleitores da Flórida que aprovem a Emenda 3. A proposta amplia a isenção de imposto predial para residências principais e precisa de 60% dos votos.",
+      "highlights": [
+        "Isenção subiria para US$ 150 mil e depois US$ 250 mil",
+        "Teto de reajuste de imóveis comerciais cairia de 10% para 5%",
+        "Proposta precisa de 60% dos votos em 3 de novembro"
+      ],
+      "body": "Em evento no condado de Pinellas, o governador Ron DeSantis, a senadora Ashley Moody e o comissário de Agricultura Wilton Simpson defenderam a Emenda 3, proposta de mudança na Constituição da Flórida. Ela ampliaria em etapas a isenção sobre imóveis usados como residência principal (homestead) — US$ 150 mil no primeiro ano e US$ 250 mil no segundo — para todos os impostos locais, exceto os escolares.\n\nA emenda também reduziria de 10% para 5% o teto de aumento anual da avaliação de imóveis comerciais e exigiria que a arrecadação restante fosse usada só em serviços essenciais, como polícia, bombeiros e água. “Não há imposto novo”, disse DeSantis. A medida precisa de pelo menos 60% dos votos.",
+      "category": "eua",
+      "source": "Florida's Voice",
+      "url": "https://flvoicenews.com/desantis-moody-and-simpson-urge-voters-to-back-homestead-tax-amendment/",
+      "published_at": "2026-10-27T12:10:45-04:00",
+      "image_url": "https://flvoicenews.com/wp-content/uploads/2026/06/Untitled-design-4.jpg"
+    },
+    {
+      "id": "tarde-2026-10-27-eua-08",
+      "title": "Cilindro misterioso trazido por tempestade é removido de praia da Flórida",
+      "summary": "Um cilindro não identificado apareceu numa praia do condado de Flagler, na Flórida, após um nor'easter. Uma equipe de materiais perigosos isolou o objeto, que foi entregue ao Departamento de Proteção Ambiental do estado.",
+      "highlights": [
+        "Objeto apareceu após tempestade no condado de Flagler",
+        "Equipe de materiais perigosos de St. Johns isolou o cilindro",
+        "Origem do objeto ainda não foi identificada"
+      ],
+      "body": "Um cilindro misterioso foi levado pelas ondas até uma praia do condado de Flagler, no nordeste da Flórida, durante uma tempestade do tipo nor'easter, informou a UPI.\n\nA equipe de materiais perigosos do condado vizinho de St. Johns isolou o objeto, que foi entregue ao Departamento de Proteção Ambiental da Flórida. As autoridades não identificaram o que é o cilindro.",
+      "category": "eua",
+      "source": "UPI",
+      "url": "https://www.upi.com/Odd_News/2026/10/27/Flagler-county-florida-mysterious-cylinder-beach/6751793112175/",
+      "published_at": "2026-10-27T10:45:00-04:00",
+      "image_url": "https://cdnph.upi.com/ph/st/th/6751793112175/2026/i/17931123393995/v1.5/Hazmat-team-removes-mysterious-cylinder-from-Florida-beach.jpg?lg=5"
+    },
+    {
+      "id": "tarde-2026-10-27-mundo-01",
+      "title": "Netanyahu pressionou por ataque ao Irã antes da eleição, mas Trump recusou, diz CNN",
+      "summary": "Segundo a CNN, Benjamin Netanyahu tentou convencer Donald Trump a realizar um ataque conjunto ao Irã antes das eleições israelenses, sem sucesso. O gabinete do premiê chamou a reportagem de “fake news”.",
+      "highlights": [
+        "Trump não deu sinal verde para ataque antes das eleições",
+        "EUA teriam opções de ataque prontas em até 96 horas",
+        "Ministro da Defesa nega plano e chama relatos de falsos"
+      ],
+      "body": "O primeiro-ministro israelense, Benjamin Netanyahu, vinha pressionando por um ataque conjunto EUA-Israel contra o Irã antes das eleições desta terça-feira (27), mas Donald Trump pediu que qualquer ação fosse adiada, segundo a CNN, citada pelo Times of Israel. Ainda de acordo com a emissora, os EUA prepararam opções de ataque que poderiam ser executadas em até 96 horas após uma ordem.\n\nO Canal 12 de Israel relatou que Netanyahu e o chefe do Estado-Maior, general Eyal Zamir, se desentenderam sobre uma ordem de ação militar que poderia provocar um confronto rápido com o Irã. Netanyahu negou, e o ministro da Defesa, Israel Katz, afirmou que Israel “não tinha intenção de iniciar um ataque” antes da eleição.\n\nNa reta final da campanha, Netanyahu publicou uma imagem gerada por IA de uma explosão nuclear sobre Tel Aviv, alertando os eleitores sobre o programa nuclear iraniano. O opositor Avigdor Liberman pediu à procuradora-geral que investigue o premiê por “traição”.",
       "category": "mundo",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "published_at": "2026-10-27T10:24:00-04:00",
-      "image_url": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-promo-930-2-kbpf/27israel-promo-930-2-kbpf-facebookJumbo.jpg"
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/netanyahu-pushed-for-iran-strike-before-election-but-trump-refused-cnn-says/",
+      "published_at": "2026-10-26T08:29:00-04:00",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26208782971465.jpg"
     },
     {
-      "id": "mundo-2026-10-27-md2",
-      "title": "Comissão da ONU diz que genocídio em Gaza continuou após trégua",
-      "summary": "Uma comissão de inquérito da ONU concluiu que Israel continuou cometendo atos de genocídio em Gaza mesmo após o cessar-fogo de outubro de 2025. O relatório também acusa Israel de crimes contra a humanidade na Cisjordânia; Israel rejeitou as conclusões.",
+      "id": "tarde-2026-10-27-mundo-02",
+      "title": "Enfermeira é morta em ataque durante resposta ao ebola no Congo",
+      "summary": "Uma enfermeira foi morta e outro profissional de saúde ficou gravemente ferido no nordeste da República Democrática do Congo. Jovens locais os acusaram de contaminar fontes de água e espalhar o ebola.",
       "highlights": [
-        "Relatório cobre o período até setembro de 2026",
-        "Acusa 'extermínio', tortura e violência sexual na Cisjordânia",
-        "Israel chama o documento de campanha de desinformação"
+        "Agressores acusaram equipe de espalhar o vírus",
+        "Surto já tem quase 10 mil casos e mais de 4.800 mortes",
+        "Uganda proíbe viagens não essenciais ao Congo"
       ],
-      "body": "O relatório da Comissão Internacional Independente de Inquérito da ONU sobre o Território Palestino Ocupado afirma que autoridades israelenses mantiveram 'atos genocidas com intenção genocida' contra os palestinos de Gaza. Segundo a comissão, as forças israelenses continuaram usando munição pesada, drones, artilharia e atiradores de elite em áreas densamente povoadas durante a trégua, e a chamada 'Linha Amarela' estaria virando uma fronteira de fato.\n\nNa Cisjordânia, o número de palestinos mortos em ataques aéreos passou de seis entre 2008 e outubro de 2023 para 254 desde então, e 34.176 pessoas seguiam deslocadas em agosto de 2026 — o maior deslocamento desde 1967. A comissão também documentou casos de violência sexual contra detentos na prisão militar de Sde Teiman e criticou a Autoridade Palestina por perseguir dissidentes.\n\nA missão israelense em Genebra disse que o relatório faz parte de uma campanha para demonizar Israel e negar seu direito de se defender. Autoridades palestinas dizem que mais de 74 mil pessoas morreram em Gaza desde o início da guerra.",
-      "category": "mundo",
-      "source": "CBC News / Reuters",
-      "url": "https://www.cbc.ca/news/world/israel-gaza-genocide-un-commission-9.7396540",
-      "published_at": "2026-10-26T15:59:00-04:00",
-      "image_url": "https://i.cbc.ca/ais/a7ef2e56-af92-4e67-8e8a-408afec3ba54,1793041173898/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3BResize%3D620"
-    },
-    {
-      "id": "mundo-2026-10-27-md3",
-      "title": "Jordânia bombardeia Síria após ataque a igreja; 7 mortos",
-      "summary": "A Jordânia lançou ataques aéreos no sul da Síria em retaliação ao ataque a tiros contra uma igreja ortodoxa grega em Karak, que matou nove pessoas. Segundo a Defesa Civil síria, sete civis morreram, incluindo três crianças.",
-      "highlights": [
-        "Jordânia diz ter matado 20 militantes do Estado Islâmico",
-        "Síria fechou a passagem de fronteira de Nassib",
-        "Três suspeitos do ataque à igreja foram presos"
-      ],
-      "body": "Os bombardeios atingiram ao menos quatro locais nas províncias de Deraa e Suwayda na noite de segunda-feira. Cinco dos mortos eram de uma mesma família — um homem, uma mulher e três crianças — atingidos numa tenda no vilarejo de Al-Tai. Outros dois homens idosos morreram em ataques separados.\n\nO governo jordaniano afirmou que os ataques mataram 20 combatentes do Estado Islâmico e foram coordenados com Damasco, mas reconheceu vítimas civis. A Síria negou qualquer coordenação, chamou a ação de 'ataque traiçoeiro' e fechou Nassib, única passagem de pessoas e mercadorias entre os dois países.\n\nNa sexta-feira, três homens armados abriram fogo contra participantes de um funeral numa igreja em Karak, cerca de 90 km ao sul de Amã. O rei Abdullah II prometeu punições severas, e forças jordanianas prenderam dois irmãos e um cunhado após um tiroteio de cerca de três horas.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting",
-      "published_at": "2026-10-26T19:50:00-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae020c4-1793073348.jpg?resize=1200%2C630"
-    },
-    {
-      "id": "mundo-2026-10-27-md4",
-      "title": "Vučić admite derrota para movimento estudantil na Sérvia",
-      "summary": "O líder sérvio Aleksandar Vučić reconheceu a derrota de seu partido para a Lista Estudantil nas eleições parlamentares antecipadas. O movimento, nascido de protestos contra a corrupção, obteve 52,7% dos votos contra 39,2% do SNS.",
-      "highlights": [
-        "Lista Estudantil fica com 140 das 250 cadeiras",
-        "Movimento surgiu após tragédia na estação de Novi Sad",
-        "UE diz que 'a porta está aberta' para a Sérvia"
-      ],
-      "body": "'Está claro que perdemos estas eleições', disse Vučić ao reconhecer o resultado. Multidões comemoraram nas ruas de Belgrado, Novi Sad e outras cidades, com danças, buzinaços e fogos de artifício. O Partido Progressista Sérvio (SNS) estava no poder desde 2012.\n\nA Lista Estudantil foi formada há menos de dois anos, após o desabamento de uma marquise na estação de Novi Sad que matou 16 pessoas, tragédia atribuída à corrupção e à negligência. O grupo lançou candidatos de vários setores da sociedade — médicos, atores, acadêmicos e atletas — e prometeu afastar autoridades que reprimiram protestos e libertar a TV pública do controle político.\n\nA comissária europeia para o alargamento, Marta Kos, disse que 'um novo capítulo pode começar'. O Kremlin elogiou Vučić e disse esperar que a nova força política mantenha a cooperação com Moscou. A atenção agora se volta para quem será o primeiro-ministro; eleições presidenciais estão previstas para dezembro.",
+      "body": "Uma enfermeira foi morta e outro agente de saúde ficou gravemente ferido quando atendiam a um alerta de ebola no nordeste da República Democrática do Congo. Segundo a Rádio Okapi, apoiada pela ONU, os dois foram atacados por jovens que os acusavam de contaminar fontes de água e espalhar o vírus. A Organização Mundial da Saúde condenou o ataque.\n\nDesde maio, o surto já causou mais de 4.800 mortes e quase 10 mil infecções no país. Para conter a propagação, a vizinha Uganda proibiu viagens não essenciais de e para o Congo e determinou quarentena de 21 dias para cidadãos que retornam de lá.",
       "category": "mundo",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
-      "published_at": "2026-10-25T17:01:59-04:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.com/news/articles/crx2dyd24188o",
+      "published_at": "2026-10-26T04:16:56-04:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0b16/live/de274990-d133-11f1-be77-d1864d279cb0.jpg"
     },
     {
-      "id": "mundo-2026-10-27-md5",
-      "title": "Irã, Arábia Saudita, Turquia e Paquistão se reúnem em Teerã",
-      "summary": "Os quatro países realizaram em Teerã a primeira reunião quadrilateral de alto nível e concordaram em continuar o diálogo sobre segurança regional. O encontro ocorre enquanto Washington avalia novos ataques ao Irã.",
+      "id": "tarde-2026-10-27-mundo-03",
+      "title": "Cessar-fogo em Oleshky começa antes do previsto e é ampliado na região de Kherson",
+      "summary": "A trégua negociada pelos EUA para a cidade ucraniana de Oleshky começou dois dias antes e teve sua área ampliada para permitir a passagem de comboios humanitários. Enquanto isso, um ataque russo atingiu um dormitório universitário em Kiev.",
       "highlights": [
-        "Pauta incluiu Israel, Palestina e Líbano",
-        "Presidente iraniano Masoud Pezeshkian participou",
-        "Ministro da Defesa saudita e chefe do Exército paquistanês estiveram presentes"
+        "Trégua começou às 4h locais de 27 de outubro",
+        "Área ampliada para garantir passagem de comboios",
+        "Retirada de moradores prevista para 30 de outubro"
       ],
-      "body": "Segundo comunicado conjunto, Turquia, Arábia Saudita, Paquistão e Irã concordaram na segunda-feira em manter conversas para reforçar a cooperação regional, incluindo paz e segurança. A reunião discutiu a segurança na região, as ações de Israel e a situação na Palestina e no Líbano.\n\nO encontro foi organizado pelo secretário do Conselho Supremo de Segurança Nacional do Irã, Mohsen Rezaei, com a presença do presidente Masoud Pezeshkian e do chanceler Abbas Araghchi. A Turquia foi representada pelo chefe de inteligência Ibrahim Kalin, a Arábia Saudita pelo ministro da Defesa, príncipe Khalid bin Salman, e o Paquistão pelo chefe do Exército, Asim Munir.\n\nA reunião abre um canal diplomático num momento de tensão, com a guerra envolvendo o Irã perto de completar oito meses e o governo Trump avaliando se volta a atacar o país.",
+      "body": "O cessar-fogo mediado pelos EUA para a cidade de Oleshky, ocupada pela Rússia na margem do rio Dnipro, começou às 4h locais desta terça-feira (27), dois dias antes do previsto. Segundo a primeira-dama Melania Trump, que intermediou o acordo, a área foi ampliada para além de Oleshky, dentro da região de Kherson, para dar passagem segura aos comboios humanitários.\n\nA remoção de minas começa nesta terça, com comboio e retirada de moradores programados para 30 de outubro. A cidade tinha cerca de 24 mil habitantes antes da invasão; hoje restam entre 1.700 e 2.000 pessoas, em sua maioria idosos, incluindo cerca de 50 crianças.\n\nAo mesmo tempo, ataques aéreos russos atingiram um dormitório universitário e outros locais civis em Kiev, deixando ao menos um morto, segundo a RFE/RL.",
+      "category": "mundo",
+      "source": "RFE/RL",
+      "url": "https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html",
+      "published_at": "2026-10-26T20:54:00-04:00",
+      "image_url": "https://gdb.rferl.org/f7ac9120-8c27-4643-e929-08df13afe2a0_w1200_h630.jpg"
+    },
+    {
+      "id": "tarde-2026-10-27-mundo-04",
+      "title": "Rei Charles III volta às Bahamas após 53 anos em visita histórica",
+      "summary": "O rei Charles III chega às Bahamas para sua primeira visita como monarca do país. A última vez que esteve lá foi em 1973, aos 24 anos, nas comemorações da independência.",
+      "highlights": [
+        "Primeira visita de Charles como rei das Bahamas",
+        "Agenda inclui ato com jovens e festival cultural",
+        "Viagem segue para Guiana e Antígua"
+      ],
+      "body": "O rei Charles III chega nesta terça-feira (27) às Bahamas em sua primeira visita como monarca do país, com dezenas de ruas fechadas em New Providence. Ele esteve lá pela última vez em 1973, como príncipe de Gales de 24 anos, representando a mãe nas celebrações da independência. A rainha Camilla se juntará à viagem mais tarde.\n\nApós cerimônia no Aeroporto Internacional Lynden Pindling, o rei participa à noite de um encontro com cerca de 300 jovens no Clifford Park, o mesmo parque que visitou em 1973. Na quarta, visita a base da Força de Defesa Real em Coral Harbour, o Parque Nacional Bonefish Pond e um festival cultural na Rawson Square, com desfile de Junkanoo na Bay Street.",
+      "category": "mundo",
+      "source": "The Tribune (Bahamas)",
+      "url": "https://www.tribune242.com/news/2026/oct/27/king-returns-after-53-years-for-historic-visit/",
+      "published_at": "2026-10-27T00:00:00-04:00",
+      "image_url": null
+    },
+    {
+      "id": "tarde-2026-10-27-mundo-05",
+      "title": "Cinco potências europeias dizem que Rússia é a ameaça mais grave à Europa",
+      "summary": "Os ministros da Defesa de França, Alemanha, Itália, Polônia e Reino Unido (grupo E5) afirmaram em declaração conjunta que a Rússia é a ameaça mais aguda à segurança europeia. Eles defendem que a Europa assuma mais responsabilidade pela própria defesa.",
+      "highlights": [
+        "Rússia é a “ameaça mais aguda”, dizem os E5",
+        "Europa deve assumir mais responsabilidade na defesa",
+        "EUA seguem como “aliado indispensável”"
+      ],
+      "body": "Os ministros da Defesa de França, Alemanha, Itália, Polônia e Reino Unido divulgaram uma declaração conjunta afirmando que a Rússia representa a ameaça mais aguda à segurança da Europa e que o continente precisa assumir maior responsabilidade pela própria defesa.\n\nO texto, publicado pelo governo britânico, chama os Estados Unidos de “aliado indispensável” e defende modernizar as forças armadas, ampliar a cooperação na indústria de defesa e aumentar a prontidão militar.",
+      "category": "mundo",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/e5-defence-ministers-statement-26-october-2026",
+      "published_at": "2026-10-26T13:44:22-04:00",
+      "image_url": null
+    },
+    {
+      "id": "tarde-2026-10-27-mundo-06",
+      "title": "Ofensiva israelense em Hebron desloca quase 5 mil palestinos",
+      "summary": "Cerca de 4.969 palestinos de 780 famílias foram deslocados de bairros de Hebron, na Cisjordânia ocupada, desde sexta-feira. A operação começou após um tiroteio que matou dois soldados israelenses.",
+      "highlights": [
+        "4.969 deslocados, entre eles 336 bebês e 441 idosos",
+        "Ofensiva começou após morte de dois soldados",
+        "85 palestinos foram presos, segundo a agência Anadolu"
+      ],
+      "body": "A operação militar israelense em Hebron, na Cisjordânia ocupada, deslocou 4.969 palestinos de 780 famílias das áreas de Deir Bahha e Al-Jilda desde sexta-feira, segundo a agência turca Anadolu. Entre os deslocados há 336 bebês e 441 idosos.\n\nO Exército fechou acessos à região depois de um tiroteio que matou dois soldados, e 85 pessoas foram presas. Entradas de Ramallah também foram bloqueadas. Segundo a Al Jazeera, o ministro da Defesa, Israel Katz, disse que não haverá retorno dos moradores “até terminarmos de resolver todas as questões do Hamas”.",
       "category": "mundo",
       "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-pakistan-iran-pledge-continued-cooperation-on-regional-security/4101628",
-      "published_at": "2026-10-26T13:06:27-04:00",
-      "image_url": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_eea143c2a531607130c4843eb7622e2c.jpg"
+      "url": "https://www.aa.com.tr/en/middle-east/thousands-displaced-as-israeli-army-continues-offensive-in-west-bank-s-hebron/4102117",
+      "published_at": "2026-10-27T04:37:51-04:00",
+      "image_url": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/27/thumbs_b_c_4a88d592f53593d4342170ad08f92d31.jpg"
     },
     {
-      "id": "weston-2026-10-27-md1",
-      "title": "Oito escolas de Weston recebem título de excelência",
-      "summary": "Oito das nove escolas públicas de Weston foram nomeadas 'Schools of Excellence' para o ano letivo 2025-26 pelo Conselho Estadual de Educação da Flórida. A única ausente é a Cypress Bay High, que saiu da lista apesar de manter nota A.",
+      "id": "tarde-2026-10-27-mundo-07",
+      "title": "Lula é reeleito com 51,79% e vira o presidente eleito mais velho do Brasil",
+      "summary": "Com 100% das urnas apuradas, Lula (PT) teve 64,2 milhões de votos contra 59,8 milhões de Flávio Bolsonaro (PL) no segundo turno. Ele virou a disputa depois de ficar atrás no primeiro turno e completa 81 anos nesta terça.",
       "highlights": [
-        "Todas as escolas de ensino fundamental e médio (middle) da cidade entraram",
-        "Eagle Point Elementary teve 92% dos pontos possíveis",
-        "Título dá mais autonomia e acesso a verbas extras"
+        "Lula 51,79% x Flávio Bolsonaro 48,21%",
+        "Diferença de 4,39 milhões de votos no 2º turno",
+        "Abstenção de 19,21%, a menor desde 2006"
       ],
-      "body": "A lista inclui as escolas elementares Country Isles, Eagle Point, Everglades, Gator Run, Indian Trace e Manatee Bay, além das middle schools Falcon Cove e Tequesta Trace. Todas tiraram nota A nas avaliações estaduais de 2024, 2025 e 2026.\n\nA Cypress Bay High, única escola pública de ensino médio da cidade, estava na lista do ano anterior, mas ficou de fora desta vez, embora tenha obtido nota A em 2026 com 77% dos pontos. O distrito não explicou por que escolas específicas não se qualificaram. Para receber o título, a escola precisa estar no percentil 80 ou acima entre escolas do mesmo tipo em pelo menos dois dos três anos anteriores.\n\nPara as famílias, nada muda em zoneamento, horários ou calendário. A designação dá às escolas mais flexibilidade administrativa e pedagógica e oportunidades de financiamento adicional, segundo o distrito escolar de Broward.",
+      "body": "O presidente Luiz Inácio Lula da Silva (PT) foi reeleito no domingo (25) com 64.256.232 votos (51,79% dos válidos), contra 59.826.041 (48,21%) de Flávio Bolsonaro (PL). O resultado foi declarado pelo TSE às 21h08, segundo o g1.\n\nNo primeiro turno, Flávio havia ficado à frente, com 47,03% contra 45,16%. Entre os dois turnos, Lula ganhou mais de 10,3 milhões de votos, e a diferença final chegou a 4.392.907 votos. A abstenção caiu para 19,21%, a menor desde 2006.\n\nSegundo o Guardian, Lula completa 81 anos nesta terça-feira (27) e se torna o presidente eleito mais velho da história do país.",
+      "category": "mundo",
+      "source": "g1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml",
+      "published_at": "2026-10-25T20:08:00-04:00",
+      "image_url": null
+    },
+    {
+      "id": "tarde-2026-10-27-weston-01",
+      "title": "Fim de semana em Weston: Halloween no sábado e fim do horário de verão",
+      "summary": "O Halloween cai num sábado e os relógios atrasam uma hora na madrugada de domingo. A cidade de Weston não tem eventos especiais no fim de semana, mas há opções em cidades vizinhas.",
+      "highlights": [
+        "Relógios atrasam 1 hora na madrugada de domingo",
+        "Prefeitura recomenda fantasias claras ou refletivas",
+        "Programação perto: Sunrise, Davie e Wilton Manors"
+      ],
+      "body": "O Halloween cai num sábado (31) este ano, e os relógios atrasam uma hora na madrugada de domingo (1º), com o fim do horário de verão. Segundo o Weston Together, a prefeitura não programou eventos especiais para o fim de semana. Para quem vai pedir doces, a cidade recomenda fantasias claras ou refletivas, usar calçadas e faixas de pedestres e manter os doces longe dos pets.\n\nEntre as opções próximas estão um sarau gratuito para adolescentes na sexta (30), das 18h às 21h, no Sunrise Civic Center Theatre; uma hora do conto no Flamingo Gardens, em Davie, no domingo às 12h30; a comédia “Last of the Red Hot Lovers”, de Neil Simon, no domingo às 14h em Sunrise (US$ 25); e a festa de rua Wicked Manors, na Wilton Drive, no sábado, das 18h às 23h.",
+      "category": "weston",
+      "source": "Weston Together",
+      "url": "https://westontogether.com/2026/10/27/this-weekend-in-weston-october-30-november-1/",
+      "published_at": "2026-10-27T00:00:00-04:00",
+      "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/09/weston-together-2026-10-art15-06.jpg"
+    },
+    {
+      "id": "tarde-2026-10-27-weston-02",
+      "title": "Halloween em Weston: ainda sem horário oficial para pedir doces",
+      "summary": "Até 26 de outubro, nem a prefeitura de Weston nem o Gabinete do Xerife de Broward tinham divulgado horários oficiais para o “doces ou travessuras”. A biblioteca local promove uma caça ao tesouro gratuita no sábado.",
+      "highlights": [
+        "Sem horário oficial de trick-or-treat até 26/10",
+        "Caça ao tesouro grátis na biblioteca no sábado às 10h30",
+        "Nenhum trunk-or-treat em Weston foi anunciado"
+      ],
+      "body": "Segundo o Weston Journal, até 26 de outubro nem a cidade de Weston nem o Gabinete do Xerife de Broward (BSO), que faz o policiamento da cidade, haviam publicado horários oficiais para as crianças pedirem doces no Halloween, que cai no sábado, 31 de outubro. Também não havia eventos de trunk-or-treat ou casas assombradas anunciados na cidade.\n\nA Biblioteca Weston Branch (4205 Bonaventure Blvd.) promove uma caça ao tesouro gratuita de Halloween a partir das 10h30 de sábado, com inscrição obrigatória. Em Davie, o Flamingo Gardens faz um passeio noturno “fantasmagórico” para maiores de 13 anos na sexta (30), das 19h30 às 22h30 (US$ 40).",
       "category": "weston",
       "source": "Weston Journal",
-      "url": "https://westonjournal.com/weston-schools-of-excellence-2026/",
-      "published_at": "2026-10-25T09:00:00-04:00",
-      "image_url": "https://westonjournal.com/img/weston-schools-of-excellence-2026.webp"
+      "url": "https://westonjournal.com/trick-or-treat-hours/",
+      "published_at": "2026-10-26T00:00:00-04:00",
+      "image_url": "https://westonjournal.com/img/trick-or-treat-hours.webp"
     },
     {
-      "id": "weston-2026-10-27-md2",
-      "title": "Saída da I-75 para Royal Palm fecha na noite de 5/11",
-      "summary": "A saída da I-75 sentido sul para a Royal Palm Boulevard sentido oeste, uma das principais entradas de Weston, ficará fechada das 20h de 5 de novembro às 5h de 6 de novembro. O fechamento, antes previsto para 22 de outubro, foi adiado.",
+      "id": "tarde-2026-10-27-weston-03",
+      "title": "Weston sobe alíquota do imposto predial pela primeira vez em 8 anos",
+      "summary": "A Câmara de Weston aprovou alíquota de 3,5046 mills para o ano fiscal de 2027, acima dos 3,3464 mantidos por oito anos. A cidade cita o possível impacto da Emenda 3, que vai a voto em 3 de novembro.",
       "highlights": [
-        "Desvio pela Griffin Road e Weston Road",
-        "Datas reserva: 9 a 12 de novembro",
-        "Obra da FDOT deve terminar na primavera de 2028"
+        "Alíquota passa de 3,3464 para 3,5046 mills",
+        "Novo valor aparece nas contas enviadas em 1º de novembro",
+        "Arrecadação prevista de US$ 45,6 milhões (+10,5%)"
       ],
-      "body": "O fechamento noturno é necessário para a instalação de um braço de semáforo, segundo a cidade de Weston. Motoristas que seguem para o sul na I-75 serão desviados para a Griffin Road sentido oeste, depois a Weston Road sentido norte e, por fim, a Royal Palm Boulevard sentido oeste. Haverá sinalização no local.\n\nA obra faz parte do projeto do Departamento de Transportes da Flórida (FDOT) no trevo da I-75 com a Royal Palm Boulevard, que vai da Griffin Road à SW 14th Street, passando por Southwest Ranches, Davie e Weston. O projeto adiciona uma faixa na I-75, amplia as rampas e a ponte sobre o canal C-11.\n\nQuem voltar tarde para casa nessa noite deve sair na Griffin Road e reservar alguns minutos extras. Se a obra atrasar, o fechamento pode ocorrer em qualquer noite entre 9 e 12 de novembro; vale consultar o FL511 antes de viajar.",
+      "body": "A alíquota municipal do imposto sobre imóveis em Weston vai subir depois de oito anos no mesmo nível, informou o Weston Journal. A Câmara Municipal adotou 3,5046 mills para o ano fiscal de 2027, contra 3,3464 mills antes. O novo valor aparecerá nas contas enviadas em 1º de novembro. Cada mill equivale a US$ 1 de imposto por US$ 1.000 de valor tributável.\n\nA cidade justifica a mudança com a Emenda 3, proposta que estará na cédula de 3 de novembro e que, se aprovada, “afetará significativamente” o fundo geral. A arrecadação prevista é de US$ 45,6 milhões, alta de 10,5%, puxada também pelo crescimento de 5,52% do valor tributável. Os contratos de polícia e bombeiros com o Gabinete do Xerife de Broward sobem 9,33% e 7,23%.",
       "category": "weston",
       "source": "Weston Journal",
-      "url": "https://westonjournal.com/i-75-royal-palm-ramp-closure-nov-5/",
-      "published_at": "2026-10-22T09:00:00-04:00",
-      "image_url": "https://westonjournal.com/img/i-75-royal-palm-ramp-closure-nov-5.webp"
+      "url": "https://westonjournal.com/weston-city-tax-rate-amendment-3/",
+      "published_at": "2026-10-14T20:00:00-04:00",
+      "image_url": "https://westonjournal.com/img/weston-city-tax-rate-amendment-3.webp"
     },
     {
-      "id": "miami-2026-10-27-md1",
-      "title": "Sul da Flórida tem pior alagamento costeiro desde o Irma",
-      "summary": "A combinação de marés rei, ventos fortes do mar e pancadas de chuva provocou nesta terça o pior alagamento costeiro no Sul da Flórida desde o furacão Irma, em 2017. Ruas ficaram inundadas e motoristas ficaram presos em Miami-Dade, Broward e Palm Beach.",
+      "id": "tarde-2026-10-27-weston-04",
+      "title": "Valor das casas em Weston cai pelo sexto mês seguido",
+      "summary": "A casa típica de Weston valia US$ 718.627 em setembro, segundo o índice da Zillow, a sexta queda mensal seguida. Mesmo assim, o recuo foi o menor da série e indica que a desvalorização perdeu força.",
       "highlights": [
-        "Rajadas de vento chegaram a cerca de 64 km/h",
-        "27/10 era o pico anual previsto das marés",
-        "Marés elevadas devem continuar até 12 de novembro"
+        "Casa típica vale US$ 718.627, queda de 1,3% em 12 meses",
+        "Valor está 5,1% abaixo do pico de fevereiro de 2025",
+        "Aluguel típico: US$ 3.414 por mês"
       ],
-      "body": "Os ventos vindos do mar, com rajadas de até 40 mph (cerca de 64 km/h), empurraram ainda mais água para a costa no momento das marés mais altas do ano, inundando ruas e ameaçando imóveis à beira-mar nos três condados do Sul da Flórida, segundo a Local 10 e outros veículos locais.\n\nO Distrito de Gestão da Água do Sul da Flórida havia apontado 27 de outubro como o pico máximo anual previsto da maré, e o Serviço Nacional de Meteorologia alertou para alagamentos costeiros significativos na Flórida e no Sudeste. Comerciantes e moradores relatam várias rodadas de água subindo nos últimos dias.\n\nSegundo o distrito, as marés devem continuar acima do normal até 12 de novembro, o que mantém o risco de novos alagamentos nos horários de maré alta nas próximas semanas.",
+      "body": "A casa típica de Weston valia US$ 718.627 em setembro, US$ 167 a menos que em agosto. Foi a sexta queda mensal consecutiva, mas a menor delas, segundo o índice de valores residenciais da Zillow, citado pelo Weston Journal. Em 12 meses, a queda foi de 1,3% (US$ 9.697).\n\nO valor está 5,1% abaixo do pico de US$ 757.154 de fevereiro de 2025, mas cerca de 56% acima de setembro de 2019. A queda em Weston foi menor que em Davie, Plantation, Pembroke Pines, Sunrise e Tamarac. O aluguel típico pedido na cidade ficou em US$ 3.414 por mês, alta de 1% em um ano.",
+      "category": "weston",
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/weston-home-values-september-2026/",
+      "published_at": "2026-10-17T20:00:00-04:00",
+      "image_url": "https://westonjournal.com/img/weston-home-values-september-2026.webp"
+    },
+    {
+      "id": "tarde-2026-10-27-miami-01",
+      "title": "Ponte de Las Olas fica travada aberta por causa das marés altas",
+      "summary": "A ponte de Las Olas, em Fort Lauderdale, foi mantida aberta devido ao pico das king tides, as marés mais altas do ano. Há previsão de alagamentos nesta semana, com picos por volta das 9h45 e 21h45.",
+      "highlights": [
+        "Ponte travada na posição aberta",
+        "Picos de maré por volta das 9h45 e 21h45",
+        "Estacionamento grátis no Riverwalk Center Garage"
+      ],
+      "body": "A ponte de Las Olas, em Fort Lauderdale, foi travada na posição aberta por causa do pico das king tides, segundo a WLRN. As marés devem atingir o ponto máximo por volta das 9h45 e das 21h45, com risco de alagamentos ao longo da semana.\n\nComo alternativa, a cidade oferece estacionamento gratuito no Riverwalk Center Garage durante a semana. Também há alerta de correntes de retorno nas praias até quarta-feira.",
       "category": "miami",
-      "source": "Local 10 News (WPLG)",
-      "url": "https://www.local10.com/weather/2026/10/27/oct-27-south-florida-hit-with-the-worst-coastal-flooding-since-hurricane-irma-in-2017/",
-      "published_at": "2026-10-27T09:29:23-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/ZVM6A6ZXGBFH5FRLH2CKLR7DDY.jpg?auth=5538de09b666ea5a5147343fa29e64118175bed12961ff44a71e0e9e91fc0d29&width=700"
+      "source": "WLRN",
+      "url": "https://www.wlrn.org/news-in-brief/2026-10-27/las-olas-bridge-closed-due-to-king-tides-peak-flooding-expected-this-week",
+      "published_at": "2026-10-27T13:09:22-04:00",
+      "image_url": "https://npr.brightspotcdn.com/dims4/default/dd98b8a/2147483647/strip/true/crop/1200x630+0+54/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fcf%2F318585fe4abda2324991e77932d2%2F2025-sunny-isles-beach-madely-romero-david-santiago-mh.jpeg"
     },
     {
-      "id": "miami-2026-10-27-md2",
-      "title": "Maioria das cidades do Sul da Flórida evita acordo com ICE",
-      "summary": "Apesar da pressão do governo estadual, a maioria das cidades de Miami-Dade e Broward com polícia própria não aderiu ao programa 287(g), que treina policiais locais para atuar na fiscalização imigratória. Análise do Miami Herald mostra que só cerca de um terço aderiu.",
+      "id": "tarde-2026-10-27-miami-02",
+      "title": "Homem de Miami pode pegar prisão perpétua por morte de bebê por fentanil",
+      "summary": "Richie Jonathan Gregoire, de 20 anos, responde a acusação federal que pode levar à prisão perpétua pela morte por overdose de fentanil de um menino de 18 meses. A mãe da criança é acusada de homicídio culposo agravado.",
       "highlights": [
-        "Mais de 30 municípios, como Fort Lauderdale e Miami Beach, ficaram de fora",
-        "Miami tem apenas 2 policiais treinados; Indian Creek tem 6",
-        "Doral enfrenta protestos de moradores contra o acordo"
+        "Acusação federal prevê pena mínima de 20 anos",
+        "Bebê ingeriu drogas deixadas em quarto destrancado",
+        "Mãe responde a processo estadual, com julgamento em março"
       ],
-      "body": "Entre as cidades que assinaram estão Coral Gables, Hialeah, Davie, Hollywood e Sweetwater. Das 16 cidades com acordos, oito responderam ao Herald e somaram apenas 22 policiais treinados. Indian Creek, enclave de bilionários com menos de 90 moradores, tem seis; Miami, com população quase 6 mil vezes maior, tem dois. Doral e North Bay Village não treinaram ninguém.\n\nDiferentemente dos municípios, xerifes e presídios dos condados são obrigados por lei estadual a participar. O procurador-geral James Uthmeier chegou a ameaçar remover autoridades de cidades que rejeitassem os acordos, mas o próprio estado admitiu em tribunal que a lei não exige a adesão de todos os municípios.\n\nO prefeito de South Miami, Javier Fernandez, avalia que a pressão estadual diminuiu porque a fiscalização imigratória se tornou impopular, inclusive entre hispânicos. O gabinete de Uthmeier nega ter mudado de posição. Em Doral, moradores e ativistas vêm cobrando a saída da cidade do programa.",
+      "body": "Richie Jonathan Gregoire, 20, foi denunciado num indiciamento federal por posse de fentanil com intenção de distribuição, resultando em morte, informou o Miami Herald. Ele já respondia, junto com a mãe da criança, Pearlandria Boujolly, 29, por homicídio culposo agravado na Justiça estadual. A acusação federal prevê pena mínima de 20 anos e máxima de prisão perpétua.\n\nEm 3 de janeiro, o menino de 18 meses foi encontrado inconsciente numa casa perto da NW 91st Street com a 22nd Avenue e morreu no Jackson Memorial. A autópsia encontrou fentanil e traços de cocaína. Segundo os investigadores, a criança ingeriu drogas deixadas num quarto destrancado, cena registrada por uma câmera Ring.\n\nGregoire foi preso em maio, quando a polícia achou 69 gramas de suposto fentanil no quarto dele. O julgamento de Boujolly na Justiça estadual está marcado para 15 de março de 2027.",
       "category": "miami",
       "source": "Miami Herald",
-      "url": "https://www.miamiherald.com/news/local/immigration/article317715066.html",
-      "published_at": "2026-10-27T05:15:00-04:00",
-      "image_url": "https://www.miamiherald.com/public/latest-news/9moveu/picture316270637/alternates/LANDSCAPE_1200/MIA_121Miamimeeting25NEWPPP.JPG"
+      "url": "https://www.miamiherald.com/news/local/crime/article317794673.html",
+      "published_at": "2026-10-27T13:08:00-04:00",
+      "image_url": "https://www.elnuevoherald.com/public/ultimas-noticias/5ckzqs/picture316698604/alternates/LANDSCAPE_1200/gavel.jpg"
     },
     {
-      "id": "miami-2026-10-27-md3",
-      "title": "FBI Miami procura colombiano em esquema de US$ 54 milhões",
-      "summary": "O FBI em Miami procura Victor Julian Duque, colombiano acusado de atuar como 'mula' de dinheiro para o Clan del Golfo. A organização teria lavado mais de US$ 54 milhões por meio de empresas fictícias desde 2021.",
+      "id": "tarde-2026-10-27-miami-03",
+      "title": "Mãe é presa acusada de agredir filho de 5 anos e esconder hematomas com maquiagem",
+      "summary": "Claudia Gonzalez, 33, foi presa em Miami-Dade acusada de bater no filho de 5 anos, cobrir os hematomas com maquiagem e mandá-lo culpar o irmão gêmeo. A criança chegou à escola com marcas.",
       "highlights": [
-        "Recompensa de até US$ 10 mil por informações",
-        "Ele é o único foragido entre nove indiciados",
-        "Seis dos oito presos já foram condenados"
+        "Hematomas foram notados na escola",
+        "Mãe teria mandado o menino culpar o gêmeo",
+        "Fiança fixada em US$ 2.500"
       ],
-      "body": "Segundo os investigadores, Duque (também chamado Victor Julian Duque Tobon) recolhia dinheiro em espécie nos Estados Unidos e depositava em contas ligadas a empresas de fachada. Ele é acusado de ter depositado US$ 459.953 entre setembro de 2022 e março de 2023.\n\nUm mandado de prisão federal foi expedido em 22 de outubro de 2025 pelo Tribunal Distrital do Sul da Flórida, em Miami, por conspiração para lavagem de dinheiro. Nove pessoas foram indiciadas no caso; oito foram presas e seis já condenadas.\n\nO FBI acredita que Duque esteja na Colômbia, com ligações com Pereira, Bogotá e Belén, além de San Antonio, no Texas. Quem tiver informações deve procurar o escritório do FBI mais próximo ou a embaixada americana.",
+      "body": "Claudia Gonzalez, de 33 anos, foi presa na segunda-feira (26), por volta das 17h, no Hammocks District, em Miami-Dade, acusada de agredir o filho de 5 anos, segundo a Local 10. Segundo a polícia, ela cobriu os hematomas do menino com maquiagem e mandou que ele dissesse que o irmão gêmeo era o culpado.\n\nEla responde por abuso infantil, crime grave de terceiro grau, e teve fiança fixada em US$ 2.500.",
+      "category": "miami",
+      "source": "Local 10 (WPLG)",
+      "url": "https://www.local10.com/news/local/2026/10/27/mother-accused-of-abuse-after-5-year-old-son-goes-to-school-with-bruises-in-miami-dade/",
+      "published_at": "2026-10-27T13:14:53-04:00",
+      "image_url": "https://www.local10.com/resizer/v2/7PCWP6M35JE5RDVTMDT2EDBRZA.jpg?auth=835dfa34f665e76e302e78f7182d04d32482f9b51979d7c28f79ac759cfb1a6e&width=700"
+    },
+    {
+      "id": "tarde-2026-10-27-miami-04",
+      "title": "Prefeita de Miami-Dade vai usar agentes penitenciários como seguranças de autoridades",
+      "summary": "Depois que a xerife anunciou o fim das escoltas policiais para a prefeita e os 13 comissários, Daniella Levine Cava planeja usar agentes penitenciários como motoristas e seguranças. Já há 33 agentes treinados.",
+      "highlights": [
+        "Xerife encerra escoltas em 9 de novembro",
+        "33 agentes penitenciários já treinados para a função",
+        "Comissária Raquel Regalado critica o plano"
+      ],
+      "body": "A prefeita de Miami-Dade, Daniella Levine Cava, planeja realocar agentes penitenciários das cadeias do condado para atuarem como motoristas e seguranças de autoridades eleitas, revelou o Miami Herald. A medida responde à decisão da xerife Rosie Cordero-Stutz, em meio a uma disputa orçamentária, de encerrar a partir de 9 de novembro as escoltas para a prefeita e os 13 comissários, serviço que custa US$ 4,1 milhões.\n\nSegundo a prefeita, 33 agentes penitenciários já foram treinados para a função. A comissária Raquel Regalado criticou a ideia: “Usar agentes penitenciários para dirigir para autoridades é uma péssima ideia. Eles deveriam estar nas cadeias. Nossas cadeias estão superlotadas.”",
+      "category": "miami",
+      "source": "Miami Herald",
+      "url": "https://www.miamiherald.com/news/local/community/miami-dade/article317786246.html",
+      "published_at": "2026-10-26T16:34:00-04:00",
+      "image_url": "https://www.miamiherald.com/public/latest-news/austwp/picture317290769/alternates/LANDSCAPE_1200/MIA_142MDBudgetMeet17NEWPPP.JPG"
+    },
+    {
+      "id": "tarde-2026-10-27-miami-05",
+      "title": "Gasolina cai no sul da Flórida: média de US$ 4,07 em Miami-Dade",
+      "summary": "O preço médio da gasolina em Miami-Dade caiu 5 centavos em uma semana, para US$ 4,07 o galão, segundo a AAA. Fort Lauderdale está em US$ 4,10, mas os preços seguem bem acima de um ano atrás.",
+      "highlights": [
+        "Miami-Dade: US$ 4,07 (-5 centavos na semana)",
+        "Fort Lauderdale: US$ 4,10; Keys: US$ 4,33",
+        "Média nacional subiu para US$ 4,26"
+      ],
+      "body": "A gasolina ficou mais barata no sul da Flórida nesta semana. Em Miami-Dade, a média nesta terça-feira (27) é de US$ 4,07 por galão, 5 centavos a menos que há uma semana, segundo a AAA. Fort Lauderdale está em US$ 4,10, West Palm Beach/Boca Raton em US$ 4,21 e o condado de Monroe (Keys) em US$ 4,33.\n\nSegundo a GasBuddy, os preços em Miami e Fort Lauderdale estão 24 centavos abaixo de um mês atrás, mas US$ 1,21 acima de um ano atrás. A média da Flórida é de US$ 4,05, enquanto a nacional subiu 18 centavos, para US$ 4,26. O analista Patrick De Haan disse que a gasolina deve continuar acima de US$ 4 até a eleição, com o petróleo pressionado pela incerteza no Estreito de Ormuz.",
+      "category": "miami",
+      "source": "Miami Herald",
+      "url": "https://www.miamiherald.com/news/business/article317793386.html",
+      "published_at": "2026-10-27T04:50:00-04:00",
+      "image_url": "https://www.miamiherald.com/public/latest-news/k71sxi/picture279195409/alternates/LANDSCAPE_1200/traffic.jpg"
+    },
+    {
+      "id": "tarde-2026-10-27-miami-06",
+      "title": "Haiti x EUA pela Liga das Nações será disputado no Nu Stadium, em Miami",
+      "summary": "A partida entre Haiti e a seleção dos EUA pelas quartas de final da Liga das Nações da Concacaf foi transferida para o Nu Stadium, em Miami. O jogo, antes marcado para a Jamaica, será em 14 de novembro.",
+      "highlights": [
+        "Jogo transferido de Sabina Park, na Jamaica",
+        "Partida em 14 de novembro, às 16h30",
+        "Jogo de ida das quartas de final"
+      ],
+      "body": "O jogo de ida das quartas de final da Liga das Nações da Concacaf entre Haiti e Estados Unidos foi transferido para o Nu Stadium, em Miami, informou a NBC 6. A partida, com mando do Haiti, estava prevista para Sabina Park, na Jamaica, mas foi mudada por questões de segurança ligadas ao Haiti.\n\nO confronto está marcado para 14 de novembro, às 16h30.",
       "category": "miami",
       "source": "NBC 6 South Florida",
-      "url": "https://www.nbcmiami.com/news/local/fbi-miami-searches-for-colombian-fugitive-in-54m-drug-money-laundering-operation/3878091/",
-      "published_at": "2026-10-27T08:13:38-04:00",
-      "image_url": "https://media.nbcmiami.com/2026/10/52235885959-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
+      "url": "https://www.nbcmiami.com/news/local/haiti-vs-u-s-nations-league-match-to-be-played-at-nu-stadium/3878120/",
+      "published_at": "2026-10-27T09:50:49-04:00",
+      "image_url": "https://media.nbcmiami.com/2026/04/Nu-Stadium-Freedom-Park-T51-02-2026-9-38-48-AM.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "id": "tecnologia-2026-10-27-md1",
-      "title": "Apple lança MacBook Pro e iMac com chip M6",
-      "summary": "A Apple apresentou nesta terça o novo MacBook Pro de 14 polegadas e o iMac com o chip M6, com foco em desempenho de IA no próprio aparelho. A pré-venda começa na quarta e as entregas, em 6 de novembro.",
+      "id": "tarde-2026-10-27-miami-07",
+      "title": "Nova organização de doação de órgãos bate recorde no sul da Flórida",
+      "summary": "A South Florida Donor Network retirou 79 órgãos de 24 doadores em junho, recorde mensal na região. O grupo assumiu o serviço após o fechamento da Life Alliance, ordenado pelo governo federal.",
       "highlights": [
-        "MacBook Pro a partir de US$ 1.999; iMac a partir de US$ 1.499",
-        "iMac tem IA até 5 vezes mais rápida que o modelo M4",
-        "Lançamento antecede o evento 'Pro and Tell' de 28/10"
+        "79 órgãos de 24 doadores em junho, recorde regional",
+        "Grupo substituiu a Life Alliance, descredenciada",
+        "Mais de 6 mil pessoas aguardam transplante na Flórida"
       ],
-      "body": "Segundo a Apple, o MacBook Pro com M6 oferece gráficos até 30% mais rápidos e tarefas de IA até 25% mais rápidas que o modelo M5, além de até 24 horas de bateria, a maior já vista num Mac. O notebook também ganha o chip N1, com Wi-Fi 7, Bluetooth 6 e Thread. O preço inicial é de US$ 1.999 com 16 GB de RAM e 1 TB.\n\nO novo iMac usa o M6 com Neural Engine duplo de 16 núcleos, o que, segundo a Apple, entrega até cinco vezes mais desempenho em IA local — para Siri AI, Apple Intelligence e modelos de linguagem locais — que o iMac de 2024 com M4.\n\nOs lançamentos chegam um dia antes do evento 'Pro and Tell' em Los Angeles, em 28 de outubro, onde, segundo a Bloomberg, a Apple deve mostrar seu primeiro MacBook Pro com tela sensível ao toque. A pré-venda vale para 35 países e regiões.",
-      "category": "tecnologia",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/",
-      "published_at": "2026-10-27T10:23:09-04:00",
-      "image_url": "https://www.engadget.com/img/gallery/everything-apple-announced-this-week/l-intro-1793108609.jpg"
+      "body": "A South Florida Donor Network, nova organização responsável pela captação de órgãos para transplante no sul da Flórida e nas Bahamas, retirou 79 órgãos de 24 doadores em junho, o maior volume mensal já registrado na região, segundo o Miami Herald. O grupo inaugurou sua nova sede em Miami Lakes neste mês.\n\nA organização, ligada à Nevada Donor Network, assumiu o serviço em março, depois que reguladores federais descredenciaram a Life Alliance, da Universidade de Miami, alegando anos de práticas inseguras e baixo desempenho. Ela atende mais de 7 milhões de pessoas em seis condados.\n\nNa Flórida, mais de 6 mil pessoas estão na fila por um transplante, e uma nova pessoa entra na lista a cada sete minutos.",
+      "category": "miami",
+      "source": "Miami Herald",
+      "url": "https://www.miamiherald.com/news/health-care/article317745693.html",
+      "published_at": "2026-10-27T05:20:00-04:00",
+      "image_url": "https://www.miamiherald.com/public/latest-news/ga8w9z/picture317780870/alternates/LANDSCAPE_1200/IMG_7260.jpeg"
     },
     {
-      "id": "tecnologia-2026-10-27-md2",
-      "title": "Siri AI chega ao português com o iOS 27.2",
-      "summary": "A Apple liberou o iOS 27.2, que leva a nova Siri AI, em beta, para português, espanhol, francês, japonês e coreano. A assistente agora lembra detalhes de conversas anteriores.",
+      "id": "tarde-2026-10-27-miami-08",
+      "title": "Batida entre ônibus e carro deixa cerca de 10 hospitalizados em Tamarac",
+      "summary": "Cerca de 10 pessoas foram levadas ao hospital após uma colisão entre um ônibus do condado de Broward e um carro em Tamarac, na manhã de segunda-feira.",
       "highlights": [
-        "Siri AI pode usar fotos, agenda, correio de voz e histórico do Safari",
-        "Usuário pode excluir apps da memória da Siri",
-        "Ainda indisponível no iPhone na União Europeia"
+        "Cerca de 10 pessoas levadas ao hospital",
+        "Acidente na Rock Island Road com W Commercial Blvd",
+        "Ônibus do condado colidiu com um hatch azul"
       ],
-      "body": "Com a atualização, a Siri AI — versão totalmente reformulada da assistente, baseada no Apple Intelligence — passa a funcionar em mais idiomas, incluindo o português. Ela pode redigir e-mails, editar e compartilhar fotos, entender o que está na tela e buscar informações atualizadas.\n\nSegundo o TechCrunch, a Siri agora consegue lembrar preferências e detalhes de conversas passadas e acessar fontes como fotos anexadas no Mensagens, participantes de eventos do calendário, correios de voz e o histórico do Safari. O iOS 27.2 também traz suporte ao Apple Pencil no iPhone Duo dobrável e correções de segurança.\n\nA Apple informou que chinês tradicional, norueguês, turco e vietnamita chegam até o fim do ano. Alguns recursos que dependem de servidores têm limites diários de uso, e a empresa diz que acesso ampliado será cobrado no futuro.",
+      "body": "Aproximadamente 10 pessoas foram levadas ao hospital depois de uma batida entre um ônibus do condado e um carro em Tamarac, no condado de Broward, por volta das 9h30 de segunda-feira (26), segundo a Local 10.\n\nO acidente aconteceu no cruzamento da Rock Island Road com a West Commercial Boulevard e envolveu um hatch azul.",
+      "category": "miami",
+      "source": "Local 10 (WPLG)",
+      "url": "https://www.local10.com/news/local/2026/10/26/approximately-10-people-sent-to-hospital-after-crash-between-county-bus-car-in-tamarac/",
+      "published_at": "2026-10-26T11:43:26-04:00",
+      "image_url": "https://www.local10.com/resizer/v2/DOVXRV7UUVAMFARE4TECRR362E.jpg?auth=65b30ccf17846722eca7fa7c2eecf07e4e44411d0e64df59d70fb792cdc56d4e&width=700"
+    },
+    {
+      "id": "tarde-2026-10-27-tecnologia-01",
+      "title": "Google lança Genie 4, modelo de mundos virtuais com áudio e edição em tempo real",
+      "summary": "O Google DeepMind lançou em prévia de pesquisa o Genie 4, que gera mundos interativos mais realistas com áudio sincronizado. O usuário pode digitar comandos no meio da simulação para mudar a cena.",
+      "highlights": [
+        "Gera áudio em tempo real: música, ambiente e diálogos",
+        "Cenas consistentes por até 2 minutos, o dobro do Genie 3",
+        "Gemini atua como “diretor” das simulações"
+      ],
+      "body": "O Google DeepMind lançou nesta terça-feira (27), em prévia de pesquisa, o Genie 4, seu novo modelo de mundo (world model). Ele gera os mundos mais fotorrealistas e interativos da série e permite digitar comandos durante a simulação para mudar o clima, o ângulo da câmera ou adicionar pessoas e objetos. O modelo também cria áudio em tempo real, incluindo música, sons ambientes e diálogos.\n\nO Genie 4 mantém uma cena consistente por até dois minutos, o dobro do Genie 3, com física melhor e personagens mais humanos. O Gemini, modelo de IA do Google, atua como “diretor”, planejando etapas e conferindo quadros enquanto o Genie gera as imagens.\n\nO lançamento acontece em meio à consolidação do setor: a World Labs, de Fei-Fei Li, está sendo comprada pela AMD, e a Amazon negocia a compra da Decart.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "published_at": "2026-10-27T09:54:51-04:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648"
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "published_at": "2026-10-27T12:30:57-04:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675"
     },
     {
-      "id": "tecnologia-2026-10-27-md3",
-      "title": "Anthropic pede registro para IPO na Nasdaq",
-      "summary": "A Anthropic, criadora do Claude, protocolou na SEC o formulário S-1 para sua oferta pública inicial de ações. A empresa pretende listar as ações na Nasdaq com o código 'ANT'.",
+      "id": "tarde-2026-10-27-tecnologia-02",
+      "title": "Anduril e Qualcomm anunciam BlueChip, notebook feito nos EUA",
+      "summary": "A Anduril, de Palmer Luckey, e a Qualcomm apresentaram o BlueChip, um notebook robusto para militares, governo e forças de segurança. Cerca de 90% dos componentes virão dos EUA ou de países aliados.",
       "highlights": [
-        "Quantidade de ações e faixa de preço ainda não definidas",
-        "Goldman Sachs e Morgan Stanley coordenam a oferta",
-        "IPO lidera onda de US$ 235 bilhões em negócios de IA, diz Axios"
+        "Processador Snapdragon X fabricado pela TSMC no Arizona",
+        "Cerca de 90% dos componentes dos EUA ou de aliados",
+        "Pré-venda prevista para 2027"
       ],
-      "body": "Segundo comunicado da própria empresa, a Anthropic PBC registrou o pedido na Comissão de Valores Mobiliários dos EUA (SEC) para oferecer ações Classe A no Nasdaq Global Select Market. O número de ações e a faixa de preço ainda não foram determinados.\n\nO registro ainda não entrou em vigor, então as ações não podem ser vendidas por enquanto. O prospecto preliminar será distribuído pelo Goldman Sachs e pelo Morgan Stanley. A AP descreve a operação como potencialmente o maior IPO da história.\n\nA abertura de capital vai pôr à prova o boom de investimentos em inteligência artificial, num momento em que o setor movimenta centenas de bilhões de dólares em negócios.",
+      "body": "A Anduril, empresa de defesa fundada por Palmer Luckey, e a Qualcomm anunciaram nesta terça-feira (27) o BlueChip, um notebook robusto para militares, governo, socorristas e polícia. O aparelho terá pré-venda em 2027.\n\nO BlueChip usará um processador Snapdragon X fabricado na nova fábrica da TSMC no Arizona. Segundo Luckey, cerca de 90% da lista de componentes já vem dos EUA ou de países aliados, e o plano é chegar a 100% de produção nacional, incluindo telas, metais e ímãs, hoje feitos em grande parte na China.",
       "category": "tecnologia",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "published_at": "2026-10-26T12:00:00-04:00",
-      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+      "published_at": "2026-10-27T09:00:00-04:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Palmer-Luckey.jpg?resize=1200,800"
     },
     {
-      "id": "tecnologia-2026-10-27-md4",
-      "title": "Novo iPad mini ganha tela OLED e chip A20 Pro",
-      "summary": "A Apple anunciou o novo iPad mini com tela OLED de 8,5 polegadas, chip A20 Pro e resistência IP67 à água e poeira. A pré-venda começa em 28 de outubro, com preço a partir de US$ 699.",
+      "id": "tarde-2026-10-27-tecnologia-03",
+      "title": "Apple admite falha na tela interna de alguns iPhone Duo dobráveis",
+      "summary": "A Apple confirmou que um “pequeno número” de unidades do iPhone Duo, seu primeiro celular dobrável, apresenta problema na tela interna. Os aparelhos afetados serão trocados pelo AppleCare.",
       "highlights": [
-        "Corpo cerca de 15% mais fino e leve",
-        "Som sai por trás da tela, sem furos de alto-falante",
-        "Tela continua em 60 Hz, sem ProMotion"
+        "Linhas brilhantes surgem a partir da dobradiça",
+        "Apple promete troca via AppleCare",
+        "Reparo fora da garantia custa US$ 999"
       ],
-      "body": "A Apple chama o modelo de 'a maior atualização do iPad mini'. A tela OLED cresce de 8,3 para 8,5 polegadas, com mais contraste e brilho de até 1.200 nits em HDR, e pode ter acabamento nano-texture antirreflexo por US$ 100 a mais. A câmera frontal passa a ficar na posição horizontal, ideal para videochamadas.\n\nO chip A20 Pro, de 2 nm, oferece até 60% mais desempenho de CPU e até 4,5 vezes mais desempenho de IA que o A17 Pro do modelo anterior. O novo sistema Acoustic Display emite o som por trás da tela, o que ajudou a obter a certificação IP67, inédita no iPad mini. Há ainda carregamento rápido, Wi-Fi 7 e o modem C2 nas versões com celular.\n\nAs entregas começam em 6 de novembro, nas cores Midnight e Starlight. Com o preço inicial de US$ 699, o iPad mini teve o segundo aumento de preço no ano.",
+      "body": "Lançado na sexta-feira (23) com preço a partir de US$ 1.999, o iPhone Duo, primeiro celular dobrável da Apple, recebeu relatos de usuários sobre a tela interna quebrando, com linhas horizontais brilhantes saindo da dobradiça. “Estamos cientes de um problema que afeta a tela interna de um pequeno número de unidades”, disse a Apple à CNBC, orientando os clientes a procurar o AppleCare para a troca.\n\nFora da garantia, o reparo da tela interna custa US$ 999. A iFixit, que desmontou o aparelho, sugeriu que o problema pode estar ligado ao desenho da dobradiça: “Uma variação de fabricação ou um grão de areia pode matar o frágil painel”, escreveu o CEO Kyle Wiens. Segundo o The Verge, o Duo está entre os primeiros aparelhos lançados sob o novo CEO, John Ternus.",
       "category": "tecnologia",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/26/apple-announces-ipad-mini-with-oled-display/",
-      "published_at": "2026-10-26T09:05:24-04:00",
-      "image_url": "https://images.macrumors.com/t/gv1HLtk4s4KiIwN0tHPLUiH0wvU=/2324x/article-new/2026/10/iPad-mini-OLED-feature-1.jpg"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "published_at": "2026-10-26T14:43:25-04:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108452229-1792771288556-gettyimages-2301112643-APPLE_DUO.jpeg?v=1792771325&w=1920&h=1080"
     },
     {
-      "id": "tecnologia-2026-10-27-md5",
-      "title": "Frota de Cybercabs da Tesla cresce 10 vezes em Austin",
-      "summary": "Elon Musk disse que a frota de Cybercabs da Tesla em Austin cresceu dez vezes em cerca de um mês desde o lançamento. A empresa quer começar a vender os robotáxis a clientes até o fim do ano, apesar de uma auditoria federal.",
+      "id": "tarde-2026-10-27-tecnologia-04",
+      "title": "OpenAI lança GPT-6.1 Terra, mais barato e capaz de usar o computador",
+      "summary": "A OpenAI lançou o GPT-6.1 Terra, modelo intermediário que consegue ver a tela e operar aplicativos clicando e digitando. A empresa diz que ele erra muito menos e custa metade do antecessor na API.",
       "highlights": [
-        "Mais de 300 Cybercabs já operam em Austin",
-        "Expansão para Dallas prevista para o próximo mês",
-        "NHTSA audita a autocertificação do veículo sem volante"
+        "Faz “uso do computador”: clica, digita e navega entre apps",
+        "Taxa de erro caiu de 53,6% para 16,7% em teste",
+        "API: US$ 1 por milhão de tokens de entrada"
       ],
-      "body": "'A frota de Cybercabs em Austin cresceu dez vezes desde o lançamento, há cerca de um mês', disse Musk na teleconferência de resultados do terceiro trimestre, comparando o gráfico de quilometragem semanal a 'um foguete indo para a órbita'. O relatório trimestral apontou alta de oito vezes nas milhas acumuladas sem supervisão.\n\nA Tesla começou a oferecer corridas pagas com o Cybercab — veículo sem volante nem pedais — em Austin em 3 de setembro. O chefe de engenharia de veículos, Lars Moravy, disse que a meta é vender Cybercabs a clientes antes do fim do ano, e a Reuters informou planos de expansão para Dallas.\n\nA expansão ocorre sob escrutínio: a agência de segurança viária NHTSA abriu uma auditoria sobre a autocertificação do Cybercab, que não tem controles convencionais. Separadamente, a Tesla obteve aprovação para seu sistema de direção assistida na Letônia e na Eslováquia.",
+      "body": "A OpenAI lançou na segunda-feira (26) o GPT-6.1 Terra, que substitui o GPT-5.6 Terra e fica no meio da linha da empresa, abaixo do Sol e do Astra e acima do Luna. A principal novidade é o “uso do computador”: o modelo consegue entender o que está na tela e agir clicando, digitando e alternando entre aplicativos, por exemplo para lançar notas fiscais num software de contabilidade.\n\nSegundo testes da própria OpenAI, a taxa de erros factuais caiu de 53,6% para 16,7%, e o Terra igualou o GPT-6 Astra em um teste custando um décimo do preço. A empresa diz que ele custa cerca de um nono do Claude Opus 5.5 da Anthropic, dados que não foram verificados de forma independente.\n\nO modelo já está disponível para assinantes Plus, Pro, Enterprise e Edu do ChatGPT e no Codex. Na API, custa US$ 1 por milhão de tokens de entrada e US$ 5 por milhão de saída, metade do preço anterior.",
       "category": "tecnologia",
-      "source": "Benzinga (via Yahoo Finance)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-cybercab-fleet-expands-tenfold-023005579.html",
-      "published_at": "2026-10-26T22:30:05-04:00",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/e189f891214d5a5e57a26446bd7e9e795c8baba1e6adf0f3f950bc8639848d8e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F9e09297c6516459da6de4be739aa6cd9.jpg"
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-gpt-6-1-terra-computer-use",
+      "published_at": "2026-10-26T15:49:19-04:00",
+      "image_url": "https://media.thenextweb.com/2026/10/gpt-6-1-terra-earth-globe-launch-art.jpg"
+    },
+    {
+      "id": "tarde-2026-10-27-tecnologia-05",
+      "title": "Meta vai captar US$ 95 bilhões para investir em IA",
+      "summary": "A Meta anunciou que pretende levantar US$ 95 bilhões com venda de ações para financiar infraestrutura de inteligência artificial e superinteligência. Nvidia, AMD e Broadcom podem comprar até US$ 5 bilhões.",
+      "highlights": [
+        "US$ 35 bi em oferta pública e US$ 60 bi via mercado",
+        "Nvidia, AMD e Broadcom interessadas em até US$ 5 bi",
+        "Investimentos previstos de US$ 135 bi a 145 bi em 2026"
+      ],
+      "body": "A Meta anunciou que planeja levantar US$ 95 bilhões para financiar seus investimentos em infraestrutura de IA e superinteligência: primeiro US$ 35 bilhões em ofertas públicas de ações e depois mais US$ 60 bilhões por um programa de venda gradual no mercado. Nvidia, AMD e Broadcom manifestaram interesse em comprar até US$ 5 bilhões em ações. Os papéis caíram 1,6% após o anúncio.\n\nOs recursos vão apoiar os aplicativos da empresa, seu agente de IA Muse e o negócio de data centers. A Meta prevê investimentos de US$ 135 bilhões a US$ 145 bilhões neste ano e constrói quatro “superclusters” com mais de 1 gigawatt cada. No terceiro trimestre, a receita subiu 26%, para US$ 64,6 bilhões.",
+      "category": "tecnologia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "published_at": "2026-10-26T07:34:42-04:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108039168-1745940414655-108039168-17272881332024-09-25t181332z_2097001546_rc2u7aaih91n_rtrmadp_0_meta-platforms-virtual-reality.jpg?v=1745940424&w=1920&h=1080"
+    },
+    {
+      "id": "tarde-2026-10-27-tecnologia-06",
+      "title": "Musk diz que Tesla venceu Waymo em Austin, mas dados contam outra história",
+      "summary": "Elon Musk comemorou dados que mostram a Tesla à frente da Waymo em quilômetros sem motorista em Austin. O Electrek aponta que a comparação usa a melhor semana da Tesla contra a média da Waymo no 2º trimestre.",
+      "highlights": [
+        "Tesla: 438 mil milhas sem motorista em Austin numa semana",
+        "No país, Waymo roda cerca de 7 vezes mais que a Tesla",
+        "Tesla tem 463 Cybercabs registrados no Texas"
+      ],
+      "body": "Elon Musk reagiu a um gráfico do projeto Robotaxi Tracker escrevendo que “nunca foi uma disputa de verdade”. Na semana encerrada em 18 de outubro, a Tesla registrou 438 mil milhas sem monitor de segurança a bordo em Austin, alta de 30%, contra a média de cerca de 406 mil milhas semanais da Waymo na cidade no segundo trimestre.\n\nSegundo o Electrek, porém, a comparação põe a melhor semana da Tesla contra dados da Waymo de abril a junho. No país inteiro, a Waymo rodou em média 3,9 milhões de milhas por semana no 2º trimestre, cerca de sete vezes mais que a Tesla, e acumula 271,3 milhões de milhas, contra 3,11 milhões da Tesla desde janeiro.\n\nAustin concentra 79% das milhas sem motorista da Tesla. Houston, Tampa, Orlando e Miami juntas somaram cerca de 25 mil milhas. A Tesla já tem 463 Cybercabs registrados no Texas.",
+      "category": "tecnologia",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
+      "published_at": "2026-10-27T10:21:45-04:00",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/image_9eb965.png?resize=1200,628"
+    },
+    {
+      "id": "tarde-2026-10-27-tecnologia-07",
+      "title": "Tesla inicia produção do robô humanoide Optimus na Califórnia",
+      "summary": "A Tesla começou a “produção inicial” do Optimus na fábrica de Fremont, com entregas a clientes previstas para 2027. A linha poderá fabricar 1 milhão de unidades por ano.",
+      "highlights": [
+        "Produção inicial em Fremont; entregas no fim de 2027",
+        "Linha com capacidade para 1 milhão de robôs por ano",
+        "Chip AI5 será integrado ao Optimus em abril"
+      ],
+      "body": "A Tesla iniciou a “produção inicial” do robô humanoide Optimus em Fremont, na Califórnia, e planeja começar as entregas a clientes no ano que vem, disse Elon Musk na teleconferência de resultados do terceiro trimestre, segundo a Manufacturing Dive. A maior parte de uma linha capaz de produzir 1 milhão de unidades por ano já está instalada, mas Musk estima levar “um ano, talvez mais” para atingir esse ritmo.\n\nOs primeiros clientes devem usar o Optimus em tarefas industriais perigosas e repetitivas. Para treinar os robôs, a Tesla quer criar uma “Optimus Academy” com 10 mil a 20 mil unidades. O chip AI5, próprio da empresa, deve ser integrado ao robô em abril.",
+      "category": "tecnologia",
+      "source": "Manufacturing Dive",
+      "url": "https://www.manufacturingdive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872864/",
+      "published_at": "2026-10-27T00:00:00-04:00",
+      "image_url": "https://imgproxy.divecdn.com/YJKYsj6u6xDh1QKUXVMROoYvvPiTFBhGG0NTR0ptz2U/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM5NjYxNjIzLmpwZw==.webp"
+    },
+    {
+      "id": "tarde-2026-10-27-tecnologia-08",
+      "title": "SpaceX e Tesla criam comitês para avaliar possível fusão",
+      "summary": "Elon Musk revelou que os conselhos da SpaceX e da Tesla formaram comitês especiais para discutir uma possível fusão das empresas. Ele disse que não pode participar das conversas por conflito de interesses.",
+      "highlights": [
+        "Comitês de conselheiros independentes analisam fusão",
+        "Musk: “Sou parte conflitada, não posso participar”",
+        "Não foi divulgado quem integra os comitês"
+      ],
+      "body": "Elon Musk revelou na semana passada, durante a teleconferência de resultados da SpaceX, que os conselhos da SpaceX e da Tesla formaram comitês especiais, compostos por conselheiros independentes, para discutir uma possível fusão, informou a Bloomberg Law.\n\n“Como sou parte conflitada, não posso participar das discussões”, disse Musk. “É uma estranha dança kabuki em que dois grupos de pessoas conversam e eu não posso estar na conversa.” Ele não informou quais conselheiros fazem parte dos comitês.",
+      "category": "tecnologia",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-turn-to-boards-cozy-with-musk-to-mull-a-merger",
+      "published_at": "2026-10-27T13:00:00-04:00",
+      "image_url": null
     }
   ]
 }
