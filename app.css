@@ -19,9 +19,9 @@ h3.sec{font-size:22px;font-weight:700;margin:26px 0 12px}
 .thumb{width:92px;height:92px;border-radius:14px;flex:none;background-size:cover;background-position:center}
 .foot{text-align:center;color:#a0a0a5;font-size:12px;margin-top:26px}
 .empty{color:#8a8a8e;text-align:center;padding:40px 0}
-#tabs{position:fixed;left:14px;right:14px;bottom:calc(env(safe-area-inset-bottom) + 10px);height:64px;background:rgba(255,255,255,.88);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:32px;box-shadow:0 6px 28px rgba(0,0,0,.14);display:flex;justify-content:space-around;align-items:center;z-index:10}
-#tabs a{display:flex;flex-direction:column;align-items:center;gap:2px;color:#8a8a8e;text-decoration:none;font-size:10px;font-weight:600;flex:1}
-#tabs a.on{color:#0A66FF}#tabs svg{width:24px;height:24px}
+#tabs{position:fixed;left:10px;right:10px;padding:0 4px;bottom:calc(env(safe-area-inset-bottom) + 10px);height:64px;background:rgba(255,255,255,.88);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:32px;box-shadow:0 6px 28px rgba(0,0,0,.14);display:flex;justify-content:space-around;align-items:center;z-index:10}
+#tabs a{display:flex;flex-direction:column;align-items:center;gap:2px;color:#8a8a8e;text-decoration:none;font-size:9.5px;font-weight:600;flex:1;min-width:0;white-space:nowrap;letter-spacing:-.1px}
+#tabs a.on{color:#0A66FF}#tabs svg{width:22px;height:22px}
 body.detail #tabs{display:none}body.detail #app{padding:0}
 .dhero{position:relative;height:52vh;min-height:330px;background-size:cover;background-position:center;color:#fff}
 .dhero .in{position:absolute;z-index:1;left:20px;right:20px;bottom:44px}.dhero h1{font-size:28px;font-weight:800;line-height:1.15;margin-top:10px;text-shadow:0 1px 8px rgba(0,0,0,.3)}
