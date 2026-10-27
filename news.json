@@ -1,108 +1,280 @@
 {
- "version": 1,
- "generated_at": "2026-10-27T02:30:00-04:00",
- "edition": "madrugada",
- "timezone": "America/New_York",
- "items": [
-  {
-   "id": "pl-reconhece-vitoria-lula",
-   "title": "PL reconhece vitória de Lula",
-   "summary": "O partido de Flávio Bolsonaro reconheceu o resultado proclamado pelo TSE (Lula 51,79% x 48,21%), mas cobrou esclarecimentos; Flávio diz que pedirá a cassação da chapa de Lula.",
-   "category": "brasil",
-   "source": "g1",
-   "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml",
-   "published_at": "2026-10-26",
-   "image_url": null
-  },
-  {
-   "id": "trump-eleicao-brasil-fraudada",
-   "title": "Trump diz, sem provas, que eleição no Brasil pareceu fraudada",
-   "summary": "Trump criticou a prorrogação do horário de votação pelo STF, mas disse que 'gosta do Lula'; menos de 35 mil votos foram registrados nas horas extras.",
-   "category": "eua",
-   "source": "UOL/Reuters",
-   "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/26/trump-afirma-sem-provas-que-a-eleicao-no-brasil-parece-manipulada.htm",
-   "published_at": "2026-10-26T16:54:00-03:00",
-   "image_url": null
-  },
-  {
-   "id": "doj-comey-terceira-acusacao",
-   "title": "Departamento de Justiça busca indiciar Comey pela terceira vez",
-   "summary": "Documentos revelam que o DOJ quer processar o ex-diretor do FBI James Comey por suposta divulgação de informação de segurança nacional em 2016, a uma semana das eleições de meio de mandato.",
-   "category": "eua",
-   "source": "ABC News",
-   "url": "https://abcnews.com/video/137592316/",
-   "published_at": null,
-   "image_url": null
-  },
-  {
-   "id": "servia-vucic-derrota",
-   "title": "Vucic admite derrota e movimento estudantil vence na Sérvia",
-   "summary": "Projeções dão 52% à 'Lista Estudantil' contra 39,3% da coalizão de Vucic, encerrando 14 anos do SNS no poder.",
-   "category": "mundo",
-   "source": "Xinhua",
-   "url": "https://english.news.cn/20261026/fd4a116fa78247a0b0a62e88f4e04c02/c.html",
-   "published_at": "2026-10-26T08:06:15+08:00",
-   "image_url": null
-  },
-  {
-   "id": "houthis-misseis-arabia-saudita",
-   "title": "Destroços de mísseis houthis ferem dois na Arábia Saudita",
-   "summary": "Dois mísseis balísticos disparados do Iêmen foram interceptados; destroços danificaram três prédios e sete veículos no sul do reino.",
-   "category": "mundo",
-   "source": "Anadolu",
-   "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-26-2026/4100631",
-   "published_at": "2026-10-26",
-   "image_url": null
-  },
-  {
-   "id": "bolsas-ipo-anthropic",
-   "title": "Bolsas sobem com IPO da Anthropic; petróleo cai",
-   "summary": "Ações asiáticas avançam puxadas por chips, com a Kospi subindo mais de 4%, enquanto o Brent recua para cerca de US$ 115; mercado aguarda decisão do Fed na quarta.",
-   "category": "economia",
-   "source": "Bloomberg via swissinfo",
-   "url": "https://www.swissinfo.ch/eng/stocks-extend-gains-on-anthropic-ipo,-oil-falls:-markets-wrap/92278978",
-   "published_at": "2026-10-27T04:56:00+02:00",
-   "image_url": null
-  },
-  {
-   "id": "ativos-brasil-caem-eleicao",
-   "title": "Ativos brasileiros caem após reeleição de Lula",
-   "summary": "O resultado do segundo turno provocou uma onda de vendas nos ativos do país, segundo análises de mercado.",
-   "category": "economia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/technology/",
-   "published_at": "2026-10-26",
-   "image_url": null
-  },
-  {
-   "id": "anthropic-pede-ipo-nasdaq",
-   "title": "Anthropic pede IPO na Nasdaq",
-   "summary": "A empresa de IA protocolou o S-1 para listagem sob o ticker ANT; o documento mostra prejuízo de US$ 80 bilhões no primeiro semestre.",
-   "category": "tecnologia",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-   "published_at": "2026-10-26",
-   "image_url": null
-  },
-  {
-   "id": "meta-95-bilhoes-ia",
-   "title": "Meta quer levantar até US$ 95 bilhões para IA",
-   "summary": "A dona do Facebook lança oferta de US$ 35 bi em ações, com Nvidia, AMD e Broadcom como investidoras-âncora, e mais US$ 60 bi via programa 'at-the-market'.",
-   "category": "tecnologia",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-   "published_at": "2026-10-26",
-   "image_url": null
-  },
-  {
-   "id": "microsoft-demissao-voluntaria",
-   "title": "Microsoft oferece demissão voluntária a 60 mil funcionários",
-   "summary": "O programa, para EUA, Reino Unido, Canadá e Índia, atinge cerca de um quarto da força de trabalho em meio a gastos com IA.",
-   "category": "tecnologia",
-   "source": "Front Scoop",
-   "url": "https://frontscoop.com/2026/10/26/",
-   "published_at": "2026-10-26T11:30:00-04:00",
-   "image_url": null
-  }
- ]
+  "version": 2,
+  "generated_at": "2026-10-27T02:45:00-04:00",
+  "edition": "madrugada",
+  "timezone": "America/New_York",
+  "items": [
+    {
+      "id": "comey-acusado-terceira-vez",
+      "title": "Comey é acusado pela terceira vez",
+      "summary": "Promotores federais apresentaram novas acusações contra o ex-diretor do FBI James Comey por transmissão de informações de defesa nacional. O caso tramitava sob sigilo desde 5 de outubro e foi tornado público na segunda-feira.",
+      "highlights": [
+        "Duas acusações ligadas à segurança nacional",
+        "Caso ligado a reportagem do NYT de 2016",
+        "Comey se diz inocente"
+      ],
+      "body": "Promotores federais acusaram o ex-diretor do FBI James Comey de transmitir informações de defesa nacional e de conspirar para isso. É o terceiro processo federal contra Comey, alvo antigo do presidente Donald Trump. O caso corria sob sigilo desde 5 de outubro e foi revelado em documentos judiciais tornados públicos na segunda-feira (26).\n\nAs acusações estão ligadas a uma reportagem do New York Times de 5 de outubro de 2016 sobre o Yahoo e a vigilância de e-mails. Segundo a promotoria, Comey teria orientado funcionários a falar com o repórter sobre imprecisões de uma matéria da Reuters, transferindo informação sigilosa. A acusação veio na forma de 'criminal information', sem indiciamento por grande júri.\n\nEm vídeo, Comey chamou o caso de 'abuso espantoso do Departamento de Justiça' e disse continuar inocente. Sua defesa já pediu o arquivamento, argumentando que o prazo de prescrição de 10 anos exige um indiciamento formal.",
+      "category": "eua",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+      "published_at": "2026-10-26T17:21:00-04:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260430-james-comey-vl-307p-2a39f0.jpg"
+    },
+    {
+      "id": "maurene-comey-demissao-ilegal",
+      "title": "Juiz: demissão de Maurene Comey foi ilegal",
+      "summary": "O juiz federal Jesse Furman decidiu que o Departamento de Justiça demitiu ilegalmente a ex-promotora Maurene Comey, filha de James Comey. Ele determinou reintegração retroativa e pagamento de salários atrasados.",
+      "highlights": [
+        "Demissão ocorreu em julho de 2025",
+        "Reintegração retroativa e salários devidos",
+        "DOJ diz que vai recorrer"
+      ],
+      "body": "O juiz federal Jesse Furman, de Nova York, concluiu que a demissão de Maurene Comey, em julho de 2025, violou a Lei de Reforma do Serviço Público, a separação de poderes, a Lei de Procedimento Administrativo e o direito ao devido processo.\n\nA decisão ordena a reintegração retroativa e o pagamento de salários de 16 de julho a 20 de dezembro de 2025, quando ela assumiu um emprego no setor privado. O Departamento de Justiça afirmou que vai recorrer. A decisão saiu no mesmo dia em que foram reveladas as novas acusações contra seu pai.",
+      "category": "eua",
+      "source": "AP News",
+      "url": "https://apnews.com/article/justice-department-maurene-comey-trump-be7de14f705def3bb6eeadafa7e60805",
+      "published_at": null,
+      "image_url": null
+    },
+    {
+      "id": "voo-united-ameaca-sequestro",
+      "title": "Voo da United volta a Las Vegas após ameaça",
+      "summary": "O voo 1681 da United, de Las Vegas para Newark, retornou logo após a decolagem depois que um passageiro teria escrito em mensagem que iria 'sequestrar' o avião. O homem foi preso e acusado.",
+      "highlights": [
+        "Passageiro de 25 anos de Clifton (NJ)",
+        "Acusado de ameaça terrorista",
+        "Voo partiu na manhã seguinte"
+      ],
+      "body": "Um voo da United Airlines que ia de Las Vegas para Newark voltou ao aeroporto Harry Reid pouco após decolar, depois que um passageiro teria enviado mensagem dizendo que iria 'sequestrar a aeronave'. Segundo relatos, uma comissária de bordo percebeu a ameaça.\n\nO passageiro, Dante Milne, de 25 anos, de Clifton, Nova Jersey, foi preso e acusado de fazer ameaça ou transmitir informação falsa sobre ato de terrorismo. Os cerca de 150 passageiros ficaram retidos durante a noite, e o voo seguiu para Newark na manhã seguinte.",
+      "category": "eua",
+      "source": "AP News",
+      "url": "https://apnews.com/article/las-vegas-flight-turnaround-c557b8a35c691b0559303569d79f3839",
+      "published_at": null,
+      "image_url": null
+    },
+    {
+      "id": "voto-antecipado-recorde-texas",
+      "title": "Voto antecipado bate recordes no Texas",
+      "summary": "Condados do Texas como Dallas, Tarrant e Harris registram recordes de votação antecipada para as eleições de meio de mandato de 3 de novembro. Nacionalmente, o total se aproxima de 30 milhões de votos.",
+      "highlights": [
+        "Quase 30 milhões de votos antecipados no país",
+        "Harris passou de 500 mil votos",
+        "Eleição em 3 de novembro"
+      ],
+      "body": "A votação antecipada para as eleições de meio de mandato está quebrando recordes em condados do Texas, como Dallas, Tarrant e Harris, segundo o Dallas Observer. O condado de Harris superou 500 mil votos na primeira semana.\n\nEm todo o país, mais de 30 milhões de votos já foram depositados em 47 estados, a uma semana da eleição que definirá o controle do Congresso. Enquanto isso, Trump fez comício no Mississippi em meio a sinais de dificuldades para os republicanos.",
+      "category": "eua",
+      "source": "Dallas Observer",
+      "url": "https://www.dallasobserver.com/news/early-voting-for-midterms-sees-records-breaking-across-texas-40727789/",
+      "published_at": null,
+      "image_url": "https://www.dallasobserver.com/wp-content/uploads/sites/3/ww-media/mediaserver/dal/2019-36/votingboothsistock.webp"
+    },
+    {
+      "id": "anthropic-pede-ipo",
+      "title": "Anthropic entra com pedido de IPO",
+      "summary": "A Anthropic protocolou o formulário S-1 na SEC para uma oferta pública inicial na Nasdaq com o código 'ANT'. O prospecto mostra receita de US$ 16,3 bilhões no primeiro semestre de 2026.",
+      "highlights": [
+        "Listagem prevista na Nasdaq como 'ANT'",
+        "Receita de US$ 16,3 bi no 1º semestre",
+        "Prejuízo líquido de US$ 80,7 bi"
+      ],
+      "body": "A empresa de inteligência artificial Anthropic apresentou publicamente o formulário S-1 à SEC para uma oferta pública inicial de ações classe A, a ser listada na Nasdaq sob o código 'ANT'. Goldman Sachs e Morgan Stanley são os coordenadores; ainda não há preço, quantidade de ações nem data.\n\nO prospecto aponta receita de US$ 16,3 bilhões no primeiro semestre de 2026 e prejuízo líquido de US$ 80,7 bilhões, em grande parte por encargos contábeis não monetários ligados a dívida conversível. A AP descreve a oferta como potencialmente a maior da história.",
+      "category": "eua",
+      "source": "AP News",
+      "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
+      "published_at": null,
+      "image_url": null
+    },
+    {
+      "id": "lula-vence-quarto-mandato",
+      "title": "Lula vence e conquista 4º mandato",
+      "summary": "Luiz Inácio Lula da Silva foi declarado vencedor do segundo turno no Brasil contra Flávio Bolsonaro. Bolsonaro rejeitou o resultado e anunciou pedido de anulação.",
+      "highlights": [
+        "Lula teve cerca de 51,8% dos votos válidos",
+        "Diferença de mais de 4 milhões de votos",
+        "Bolsonaro contesta extensão do horário"
+      ],
+      "body": "O Tribunal Superior Eleitoral declarou Lula vencedor do segundo turno, garantindo um inédito quarto mandato não consecutivo. Ele obteve cerca de 51,8% dos votos válidos contra 48,2% de Flávio Bolsonaro, uma margem de mais de 4 milhões de votos.\n\nA votação foi estendida em duas horas por decisão do STF devido a problemas no transporte público e chuvas fortes. Flávio Bolsonaro não reconheceu a derrota e disse que sua equipe jurídica pedirá a anulação do pleito, citando a extensão. No primeiro turno, ele havia ficado à frente.",
+      "category": "mundo",
+      "source": "AP News",
+      "url": "https://apnews.com/article/brazil-election-lula-bolsonaro-runoff-vote-president-e2c9fe8fc4aa3e3675b9a8ec15405d93",
+      "published_at": null,
+      "image_url": null
+    },
+    {
+      "id": "vucic-admite-derrota-servia",
+      "title": "Vucic admite derrota na Sérvia",
+      "summary": "Aleksandar Vucic reconheceu a derrota de seu partido nas eleições parlamentares antecipadas da Sérvia para a Lista Estudantil. O resultado encerra 14 anos de domínio do SNS.",
+      "highlights": [
+        "Lista Estudantil com cerca de 52% (projeções)",
+        "Movimento nasceu de protestos anticorrupção",
+        "Fim de 14 anos de poder do SNS"
+      ],
+      "body": "O ex-presidente sérvio Aleksandar Vucic admitiu que sua lista perdeu as eleições parlamentares antecipadas de domingo. Projeções da Ipsos e da CeSID deram à 'Lista Estudantil' cerca de 52% dos votos, contra 39,3% da coalizão liderada pelo Partido Progressista Sérvio (SNS).\n\nO movimento estudantil surgiu de protestos contra a corrupção. Vucic projetou entre 135 e 140 das 250 cadeiras para os estudantes. Houve comemorações em várias cidades do país.",
+      "category": "mundo",
+      "source": "AP News",
+      "url": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775",
+      "published_at": null,
+      "image_url": null
+    },
+    {
+      "id": "israel-vai-as-urnas",
+      "title": "Israel vota em eleição decisiva para Netanyahu",
+      "summary": "Israelenses votam nesta terça-feira (27) em eleição parlamentar vista como referendo sobre Benjamin Netanyahu. A coalizão do Likud enfrenta oposição liderada pelo ex-chefe militar Gadi Eisenkot.",
+      "highlights": [
+        "São necessárias 61 de 120 cadeiras",
+        "Pesquisas indicam impasse",
+        "Negociações podem levar semanas"
+      ],
+      "body": "Israel realiza eleições para o Knesset nesta terça-feira, consideradas um referendo sobre o primeiro-ministro Benjamin Netanyahu, que tenta sobreviver politicamente. Sua coalizão de direita, liderada pelo Likud, enfrenta um bloco opositor encabeçado pelo ex-chefe do Estado-Maior Gadi Eisenkot.\n\nA maioria das pesquisas indicava que nenhum lado alcançaria as 61 das 120 cadeiras necessárias para governar, o que pode levar a semanas ou meses de negociação. Trump declarou apoio à reeleição de Netanyahu.",
+      "category": "mundo",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+      "published_at": null,
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7651x4304+0+399/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fad%2F99c4e08c4a928de603e31a885436%2Fap26299327514576.jpg"
+    },
+    {
+      "id": "jordania-prende-suspeitos-igreja",
+      "title": "Jordânia prende suspeitos de ataque a igreja",
+      "summary": "Forças de segurança da Jordânia prenderam três suspeitos do ataque a uma igreja em Karak que matou nove pessoas. Os três, da mesma família, ficaram feridos em troca de tiros.",
+      "highlights": [
+        "Ataque deixou nove mortos e dezenas de feridos",
+        "Suspeitos escondidos em casa abandonada",
+        "Um dos presos em estado crítico"
+      ],
+      "body": "As forças de segurança jordanianas prenderam três suspeitos ligados ao ataque a uma igreja em Karak, que matou nove pessoas e feriu dezenas. Eles foram encontrados escondidos em uma casa abandonada em Al-Jadeeda e abriram fogo contra os agentes.\n\nOs três ficaram feridos no confronto, um deles em estado crítico. As autoridades os identificaram como membros da mesma família, de sobrenome Thneibat.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack",
+      "published_at": null,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adeedf700d45-1792994807.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "weston-prefeito-por-um-momento",
+      "title": "Weston abre cadeira do prefeito ao público",
+      "summary": "A Prefeitura de Weston convidou moradores a sentar na cadeira do prefeito na segunda-feira (26), das 15h30 às 17h30. O evento marca a Semana do Governo Municipal da Flórida.",
+      "highlights": [
+        "Evento gratuito e sem agendamento",
+        "Foto no plenário da Comissão",
+        "Biblioteca teve programação na semana"
+      ],
+      "body": "Na segunda-feira, 26 de outubro, qualquer morador podia entrar na Câmara da Comissão, no 17200 Royal Palm Boulevard, sentar no centro da mesa, conhecer o prefeito e sair com uma foto feita pela equipe municipal. O evento 'Mayor for a Moment' foi gratuito e sem campanha política.\n\nA semana também incluiu programas na Biblioteca de Weston, como clube do livro e dicas de Windows 11. O Gator Run Park reabriu em setembro com novo parquinho e quadras de basquete e pickleball.",
+      "category": "weston",
+      "source": "Gold Coast Wave",
+      "url": "https://goldcoastwave.com/news/this-week-weston-mayor-for-a-moment-library-parks-oct-2026/",
+      "published_at": null,
+      "image_url": "https://goldcoastwave.com/assets/img/share/this-week-weston-mayor-for-a-moment-library-parks-oct-2026-144c7d6291.jpg"
+    },
+    {
+      "id": "weston-cantor-encontrado-morto-piscina",
+      "title": "Cantor achado morto em piscina em Weston",
+      "summary": "O BSO identificou o homem encontrado morto em uma piscina em Weston como o cantor venezuelano Gustavo 'Gus' Ormo, de 45 anos. A investigação segue aberta.",
+      "highlights": [
+        "Corpo estava preso a uma corda",
+        "Autópsia vai definir a causa",
+        "Ormo lançara o álbum AGAPE"
+      ],
+      "body": "O Gabinete do Xerife de Broward confirmou que o homem achado morto no quintal de uma casa na Quail Roost Drive, em Weston, é o cantor e compositor venezuelano Gustavo 'Gus' Ormo. Os agentes foram chamados por volta das 9h por um possível afogamento e encontraram o corpo na piscina, preso a uma longa corda.\n\nO Instituto Médico Legal de Broward fará a autópsia, e o BSO diz que a investigação continua 'aberta e ativa'. Ormo, pianista e cantor de 45 anos, divulgava seu novo álbum, AGAPE, no início do mês.",
+      "category": "weston",
+      "source": "Miami Herald",
+      "url": "https://www.miamiherald.com/news/local/crime/article317686920.html",
+      "published_at": "2026-10-19T16:21:00-04:00",
+      "image_url": "https://www.miamiherald.com/public/latest-news/guju7g/picture317688797/alternates/LANDSCAPE_1200/IMG_0342.JPG"
+    },
+    {
+      "id": "weston-swat-homem-entrincheirado",
+      "title": "SWAT atende homem entrincheirado em Weston",
+      "summary": "Agentes do BSO e uma equipe SWAT responderam a um homem que se entrincheirou em uma casa em Weston. A situação foi resolvida com segurança à tarde.",
+      "highlights": [
+        "Chamado por perturbação às 8h45",
+        "Ruas bloqueadas por precaução",
+        "Sem feridos relatados"
+      ],
+      "body": "O Gabinete do Xerife de Broward foi chamado a uma casa no quarteirão 1600 da Southwest 5th Court por volta das 8h45 de quinta-feira (15) para investigar uma perturbação. Quando os agentes tentaram contato, o homem se trancou na casa.\n\nUma equipe SWAT foi acionada e ruas foram bloqueadas. Segundo os agentes, a situação foi resolvida com segurança à tarde; não ficou claro qual foi a perturbação inicial.",
+      "category": "weston",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/weston-barricaded-subject-broward-sheriffs-office-october-15-2026/",
+      "published_at": "2026-10-15T21:03:00-04:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/e4e4a1f4-a6f5-4439-833c-f12809431e06/thumbnail/1200x630/e4a7964324da38bb15eddb94ac6d46d2/cbsmiami-bso-investigation-1.jpg"
+    },
+    {
+      "id": "mare-rei-inunda-sul-da-florida",
+      "title": "Marés rei inundam o litoral do Sul da Flórida",
+      "summary": "As marés rei e ventos fortes provocaram novas inundações de Fort Lauderdale a Miami na segunda-feira. O alerta segue pelo menos até terça-feira.",
+      "highlights": [
+        "Rajadas de até 64 km/h no litoral",
+        "Comércios usam sacos de areia",
+        "Água salgada danifica carros"
+      ],
+      "body": "Moradores e comerciantes do litoral do Sul da Flórida enfrentaram mais uma rodada de inundações costeiras na segunda-feira, que se previa pior que a do fim de semana. A CBS News Miami emitiu alerta por risco de inundação moderada a grave, com ventos de até 40 mph (64 km/h) e chuvas fortes.\n\nEm Hollywood Beach, comerciantes colocaram sacos de areia. As autoridades alertam motoristas para não atravessar áreas alagadas, pois a água salgada pode danificar veículos. As comunidades devem permanecer em alerta ao menos até terça-feira.",
+      "category": "miami",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/king-tide-miami-fort-lauderdale-south-florida-today-october-26-2026/",
+      "published_at": "2026-10-26T23:21:00-04:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/6acf5e20-0335-4388-8095-0839be11d719/thumbnail/1200x630/7909a1aa4e650ac28b0826f659872c06/snapshot-7.jpg"
+    },
+    {
+      "id": "incendio-armazem-opa-locka",
+      "title": "Incêndio atinge armazém em Opa-Locka",
+      "summary": "Mais de 15 unidades dos bombeiros de Miami-Dade combateram um incêndio em um armazém desocupado em Opa-Locka. Ninguém ficou ferido.",
+      "highlights": [
+        "Fogo controlado por 16 unidades",
+        "Segundo alarme por causa do vento",
+        "Havia tanques de acetileno e propano"
+      ],
+      "body": "Equipes foram enviadas pouco antes das 14h de segunda-feira ao armazém no 13990 N.W. 20th Court. Os bombeiros forçaram a entrada e encontraram fogo intenso; 16 unidades controlaram as chamas, e um segundo alarme foi acionado por causa do vento.\n\nNão houve feridos. O local guardava materiais perigosos, como tanques de acetileno e propano. Um investigador apura a causa.",
+      "category": "miami",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/opa-locka-warehouse-fire-miami-dade-october-26-2026/",
+      "published_at": "2026-10-26T17:52:00-04:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/26/0c82558b-35cc-471f-b31a-fec1d0d7dbdf/thumbnail/1200x630/8a2145056b3bb8dbd22474d72c9fb7b5/snapshot.jpg"
+    },
+    {
+      "id": "assalto-banco-centro-miami",
+      "title": "Polícia procura assaltante de banco em Miami",
+      "summary": "Um homem assaltou uma agência do Regions Bank no centro de Miami na segunda-feira e fugiu. A polícia pede informações ao público.",
+      "highlights": [
+        "Agência na 2nd Avenue com SW 1st Street",
+        "Suspeito segue foragido",
+        "Recompensa de até US$ 5 mil"
+      ],
+      "body": "Segundo a polícia de Miami, um homem assaltou a agência do Regions Bank na Second Avenue com a Southwest First Street, no centro, na segunda-feira. Policiais cercaram o local, mas não conseguiram prendê-lo.\n\nInformações podem ser passadas anonimamente ao Miami-Dade Crime Stoppers (305-471-TIPS), com recompensa de até US$ 5 mil.",
+      "category": "miami",
+      "source": "WSVN 7News",
+      "url": "https://wsvn.com/news/local/miami-dade/miami-regions-bank-robbery/",
+      "published_at": null,
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102626-bank-robber-on-the-loose.png"
+    },
+    {
+      "id": "placa-golden-glades-cai",
+      "title": "Placa de Golden Glades desaba sobre via",
+      "summary": "Uma grande placa de Golden Glades presa a uma torre caiu na entrada do Park & Ride no noroeste de Miami-Dade. Não houve feridos.",
+      "highlights": [
+        "Postes de suporte se partiram",
+        "Ruas bloqueadas para limpeza",
+        "Investigação avalia papel do vento"
+      ],
+      "body": "A placa caiu perto do cruzamento da Northwest 160th Street com a Seventh Avenue. Postes de sustentação se partiram e cabos se romperam, deixando destroços na via; agentes do Xerife de Miami-Dade bloquearam as ruas.\n\nNo fim da tarde, as equipes removeram os destroços e liberaram a entrada. As autoridades investigam a causa e se os ventos fortes contribuíram.",
+      "category": "miami",
+      "source": "WSVN 7News",
+      "url": "https://wsvn.com/news/local/miami-dade/golden-glades-signage-tower-falls-on-road-near-park-ride-in-nw-miami-dade/",
+      "published_at": null,
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102626-Sign-comes-crashing-down-in-NWMD.jpg?quality=60&strip=color"
+    },
+    {
+      "id": "levine-cava-agentes-penitenciarios-seguranca",
+      "title": "Prefeita usará agentes penitenciários como seguranças",
+      "summary": "Após a xerife de Miami-Dade anunciar o fim das escoltas de autoridades, a prefeita Daniella Levine Cava planeja usar agentes penitenciários como motoristas e seguranças. A medida gera críticas.",
+      "highlights": [
+        "Xerife retira escoltas a partir de 9/nov",
+        "33 agentes já treinados",
+        "Comissária Regalado critica plano"
+      ],
+      "body": "A xerife Rosie Cordero-Stutz anunciou que deixará de fornecer escoltas à prefeita e aos 13 comissários a partir de 9 de novembro, alegando custo de US$ 4,1 milhões, em meio a disputa orçamentária. Segundo o Miami Herald, Levine Cava pretende substituir esses agentes por cerca de três dezenas de agentes penitenciários; 33 já estariam treinados.\n\nA comissária Raquel Regalado criticou a ideia, dizendo que os agentes deveriam estar nas prisões superlotadas. Não está claro quanto poder de polícia esses agentes teriam na nova função.",
+      "category": "miami",
+      "source": "Miami Herald",
+      "url": "https://www.miamiherald.com/news/local/community/miami-dade/article317786246.html",
+      "published_at": "2026-10-26T16:34:00-04:00",
+      "image_url": "https://www.miamiherald.com/public/latest-news/austwp/picture317290769/alternates/LANDSCAPE_1200/MIA_142MDBudgetMeet17NEWPPP.JPG"
+    }
+  ]
 }
