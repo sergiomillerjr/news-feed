@@ -1,4 +1,4 @@
-const C='news-v1',A=['./','./index.html','./app.css','./app.js','./manifest.webmanifest','./icon-180.png'];
+const C='news-v2',A=['./','./index.html','./app.css','./app.js','./manifest.webmanifest','./icon-180.png'];
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(A)))});
 self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
 self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET'||u.origin!==location.origin)return;
