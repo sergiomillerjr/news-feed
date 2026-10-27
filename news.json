@@ -1,18 +1,108 @@
 {
-  "version": 1,
-  "generated_at": "2026-10-27T01:50:00-04:00",
-  "edition": "teste",
-  "timezone": "America/New_York",
-  "items": [
-    {
-      "id": "teste-1",
-      "title": "Feed de notícias configurado",
-      "summary": "Este é um item de teste. As edições reais chegam 3x ao dia.",
-      "category": "geral",
-      "source": "News bot",
-      "url": "https://github.com/sergiomillerjr/news-feed",
-      "published_at": "2026-10-27T01:50:00-04:00",
-      "image_url": null
-    }
-  ]
+ "version": 1,
+ "generated_at": "2026-10-27T02:30:00-04:00",
+ "edition": "madrugada",
+ "timezone": "America/New_York",
+ "items": [
+  {
+   "id": "pl-reconhece-vitoria-lula",
+   "title": "PL reconhece vitória de Lula",
+   "summary": "O partido de Flávio Bolsonaro reconheceu o resultado proclamado pelo TSE (Lula 51,79% x 48,21%), mas cobrou esclarecimentos; Flávio diz que pedirá a cassação da chapa de Lula.",
+   "category": "brasil",
+   "source": "g1",
+   "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml",
+   "published_at": "2026-10-26",
+   "image_url": null
+  },
+  {
+   "id": "trump-eleicao-brasil-fraudada",
+   "title": "Trump diz, sem provas, que eleição no Brasil pareceu fraudada",
+   "summary": "Trump criticou a prorrogação do horário de votação pelo STF, mas disse que 'gosta do Lula'; menos de 35 mil votos foram registrados nas horas extras.",
+   "category": "eua",
+   "source": "UOL/Reuters",
+   "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/26/trump-afirma-sem-provas-que-a-eleicao-no-brasil-parece-manipulada.htm",
+   "published_at": "2026-10-26T16:54:00-03:00",
+   "image_url": null
+  },
+  {
+   "id": "doj-comey-terceira-acusacao",
+   "title": "Departamento de Justiça busca indiciar Comey pela terceira vez",
+   "summary": "Documentos revelam que o DOJ quer processar o ex-diretor do FBI James Comey por suposta divulgação de informação de segurança nacional em 2016, a uma semana das eleições de meio de mandato.",
+   "category": "eua",
+   "source": "ABC News",
+   "url": "https://abcnews.com/video/137592316/",
+   "published_at": null,
+   "image_url": null
+  },
+  {
+   "id": "servia-vucic-derrota",
+   "title": "Vucic admite derrota e movimento estudantil vence na Sérvia",
+   "summary": "Projeções dão 52% à 'Lista Estudantil' contra 39,3% da coalizão de Vucic, encerrando 14 anos do SNS no poder.",
+   "category": "mundo",
+   "source": "Xinhua",
+   "url": "https://english.news.cn/20261026/fd4a116fa78247a0b0a62e88f4e04c02/c.html",
+   "published_at": "2026-10-26T08:06:15+08:00",
+   "image_url": null
+  },
+  {
+   "id": "houthis-misseis-arabia-saudita",
+   "title": "Destroços de mísseis houthis ferem dois na Arábia Saudita",
+   "summary": "Dois mísseis balísticos disparados do Iêmen foram interceptados; destroços danificaram três prédios e sete veículos no sul do reino.",
+   "category": "mundo",
+   "source": "Anadolu",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-26-2026/4100631",
+   "published_at": "2026-10-26",
+   "image_url": null
+  },
+  {
+   "id": "bolsas-ipo-anthropic",
+   "title": "Bolsas sobem com IPO da Anthropic; petróleo cai",
+   "summary": "Ações asiáticas avançam puxadas por chips, com a Kospi subindo mais de 4%, enquanto o Brent recua para cerca de US$ 115; mercado aguarda decisão do Fed na quarta.",
+   "category": "economia",
+   "source": "Bloomberg via swissinfo",
+   "url": "https://www.swissinfo.ch/eng/stocks-extend-gains-on-anthropic-ipo,-oil-falls:-markets-wrap/92278978",
+   "published_at": "2026-10-27T04:56:00+02:00",
+   "image_url": null
+  },
+  {
+   "id": "ativos-brasil-caem-eleicao",
+   "title": "Ativos brasileiros caem após reeleição de Lula",
+   "summary": "O resultado do segundo turno provocou uma onda de vendas nos ativos do país, segundo análises de mercado.",
+   "category": "economia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/technology/",
+   "published_at": "2026-10-26",
+   "image_url": null
+  },
+  {
+   "id": "anthropic-pede-ipo-nasdaq",
+   "title": "Anthropic pede IPO na Nasdaq",
+   "summary": "A empresa de IA protocolou o S-1 para listagem sob o ticker ANT; o documento mostra prejuízo de US$ 80 bilhões no primeiro semestre.",
+   "category": "tecnologia",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+   "published_at": "2026-10-26",
+   "image_url": null
+  },
+  {
+   "id": "meta-95-bilhoes-ia",
+   "title": "Meta quer levantar até US$ 95 bilhões para IA",
+   "summary": "A dona do Facebook lança oferta de US$ 35 bi em ações, com Nvidia, AMD e Broadcom como investidoras-âncora, e mais US$ 60 bi via programa 'at-the-market'.",
+   "category": "tecnologia",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+   "published_at": "2026-10-26",
+   "image_url": null
+  },
+  {
+   "id": "microsoft-demissao-voluntaria",
+   "title": "Microsoft oferece demissão voluntária a 60 mil funcionários",
+   "summary": "O programa, para EUA, Reino Unido, Canadá e Índia, atinge cerca de um quarto da força de trabalho em meio a gastos com IA.",
+   "category": "tecnologia",
+   "source": "Front Scoop",
+   "url": "https://frontscoop.com/2026/10/26/",
+   "published_at": "2026-10-26T11:30:00-04:00",
+   "image_url": null
+  }
+ ]
 }
