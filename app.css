@@ -1,0 +1,36 @@
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;background:#fff;color:#111;-webkit-font-smoothing:antialiased}
+#app{padding:calc(env(safe-area-inset-top) + 18px) 18px calc(env(safe-area-inset-bottom) + 110px)}
+.head{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:18px}
+.head h1{font-size:34px;font-weight:800;letter-spacing:-.5px}.greet{font-size:17px;font-weight:600;margin-top:4px}.date{color:#8a8a8e;font-size:15px;margin-top:2px}
+.avatar{width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,#0A66FF,#7b5cff);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;margin-top:6px}
+.hero{position:relative;height:250px;border-radius:24px;overflow:hidden;color:#fff;background-size:cover;background-position:center;cursor:pointer;box-shadow:0 8px 24px rgba(0,0,0,.12)}
+.hero:after,.dhero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.05) 20%,rgba(0,0,0,.78))}
+.hero .in{position:absolute;z-index:1;left:20px;right:20px;bottom:18px}.kick{font-size:12px;font-weight:700;letter-spacing:1.2px;opacity:.9}
+.hero h2{font-size:28px;font-weight:800;margin:4px 0}.hero p{font-size:15px;opacity:.92}.hero .min{font-size:13px;margin-top:8px;opacity:.8}
+h3.sec{font-size:22px;font-weight:700;margin:26px 0 12px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.card{background:#f6f6f8;border-radius:18px;padding:12px;cursor:pointer;display:flex;flex-direction:column;gap:7px;min-width:0}
+.card .t{font-weight:700;font-size:15px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.card .s{font-size:13px;color:#555;line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.meta{font-size:12px;color:#8a8a8e;margin-top:auto}
+.pill{align-self:flex-start;display:inline-block;font-size:11px;font-weight:700;padding:4px 9px;border-radius:999px;color:#fff;white-space:nowrap}
+.row{flex-direction:row;gap:12px;margin-bottom:12px}.row .tx{flex:1;display:flex;flex-direction:column;gap:6px;min-width:0}
+.thumb{width:92px;height:92px;border-radius:14px;flex:none;background-size:cover;background-position:center}
+.foot{text-align:center;color:#a0a0a5;font-size:12px;margin-top:26px}
+.empty{color:#8a8a8e;text-align:center;padding:40px 0}
+#tabs{position:fixed;left:14px;right:14px;bottom:calc(env(safe-area-inset-bottom) + 10px);height:64px;background:rgba(255,255,255,.88);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:32px;box-shadow:0 6px 28px rgba(0,0,0,.14);display:flex;justify-content:space-around;align-items:center;z-index:10}
+#tabs a{display:flex;flex-direction:column;align-items:center;gap:2px;color:#8a8a8e;text-decoration:none;font-size:10px;font-weight:600;flex:1}
+#tabs a.on{color:#0A66FF}#tabs svg{width:24px;height:24px}
+body.detail #tabs{display:none}body.detail #app{padding:0}
+.dhero{position:relative;height:52vh;min-height:330px;background-size:cover;background-position:center;color:#fff}
+.dhero .in{position:absolute;z-index:1;left:20px;right:20px;bottom:44px}.dhero h1{font-size:28px;font-weight:800;line-height:1.15;margin-top:10px;text-shadow:0 1px 8px rgba(0,0,0,.3)}
+.btns{position:absolute;z-index:2;top:calc(env(safe-area-inset-top) + 12px);left:16px;right:16px;display:flex;justify-content:space-between}
+.btns button{width:40px;height:40px;border-radius:50%;border:0;background:rgba(0,0,0,.35);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);color:#fff;display:flex;align-items:center;justify-content:center}
+.btns svg{width:20px;height:20px}
+.sheet{position:relative;margin-top:-26px;background:#fff;border-radius:26px 26px 0 0;padding:24px 20px calc(env(safe-area-inset-bottom) + 40px);z-index:3}
+.dmeta{font-size:13px;color:#8a8a8e;margin-bottom:16px}
+.sum{background:#f2f2f7;border-radius:16px;padding:16px;margin-bottom:20px}.sum b{display:block;font-size:15px;margin-bottom:8px}
+.sum ul{padding-left:18px}.sum li{font-size:15px;line-height:1.4;margin:4px 0}.sum p{font-size:15px;line-height:1.45}
+.body p{font-size:17px;line-height:1.6;margin-bottom:16px;color:#222}
+.src{font-size:14px;color:#8a8a8e;margin-top:8px}.orig{display:inline-block;margin-top:12px;color:#0A66FF;font-weight:600;text-decoration:none;font-size:16px}
