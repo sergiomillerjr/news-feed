@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-27T01:50:00-04:00",
+  "edition": "teste",
+  "timezone": "America/New_York",
+  "items": [
+    {
+      "id": "teste-1",
+      "title": "Feed de notícias configurado",
+      "summary": "Este é um item de teste. As edições reais chegam 3x ao dia.",
+      "category": "geral",
+      "source": "News bot",
+      "url": "https://github.com/sergiomillerjr/news-feed",
+      "published_at": "2026-10-27T01:50:00-04:00",
+      "image_url": null
+    }
+  ]
+}
