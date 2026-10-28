@@ -1,328 +1,328 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T07:14:27-04:00",
-  "edition": "manha",
+  "generated_at": "2026-10-28T11:20:17-04:00",
+  "edition": "meio-dia",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "manha-2026-10-28-eua-01",
-      "title": "Irmãos Alexander são condenados a 30 anos de prisão por tráfico sexual",
-      "summary": "Alon, Oren e Tal Alexander receberam, cada um, 30 anos de prisão federal por tráfico sexual. Os três, que moravam em Miami, foram condenados por drogar e estuprar dezenas de mulheres ao longo de mais de uma década.",
+      "id": "meio-dia-2026-10-28-eua-01",
+      "title": "Júri se recusa a indiciar Cassidy Hutchinson, ex-assessora de Trump",
+      "summary": "Um grande júri federal em Washington rejeitou indiciar Cassidy Hutchinson por mentir ao Congresso sobre o 6 de Janeiro. É mais um revés para o Departamento de Justiça, acusado por críticos de conduzir uma campanha de retaliação de Trump.",
       "highlights": [
-        "30 anos de prisão para cada irmão",
-        "Mais 10 anos de liberdade supervisionada",
-        "Vítimas falaram na audiência em Nova York"
+        "Grande júri recusou a acusação de mentir ao Congresso",
+        "Caso envolve depoimento sobre o ataque de 6 de janeiro",
+        "Hutchinson diz que mantém seu testemunho"
       ],
-      "body": "Os irmãos Alon e Oren Alexander, de 39 anos, e Tal Alexander, de 40, foram sentenciados nesta terça-feira (27) a 30 anos de prisão federal cada um por tráfico sexual. Segundo os promotores, eles usaram riqueza, poder e status social para atrair e abusar sexualmente de mulheres, incluindo, segundo a acusação, duas adolescentes.\n\nAs penas incluem ainda 10 anos de liberdade supervisionada. “A sentença de hoje deixa claro que essa conduta covarde e sinistra é extraordinariamente grave”, disse o procurador federal Jamie McDonald.\n\nAlgumas vítimas leram depoimentos no tribunal de Nova York, onde a audiência durou cerca de seis horas. Nova York foi um dos vários locais onde as vítimas disseram ter sido atacadas pelos irmãos.",
+      "body": "Um grande júri federal em Washington se recusou a indiciar Cassidy Hutchinson, ex-assessora da Casa Branca de Donald Trump, sob acusação de mentir ao Congresso em seu depoimento à comissão da Câmara que investigou o ataque ao Capitólio em 6 de janeiro de 2021, segundo fontes ouvidas pela ABC News. O jornal Washington Post foi o primeiro a noticiar a decisão.\n\nA derrota é o mais recente revés para o Departamento de Justiça no que críticos chamam de campanha de retaliação do presidente, que há tempos acusa Hutchinson de mentir sobre suas ações no dia do ataque. Republicanos tentam desacreditar especialmente o relato, ouvido de terceiros, de que Trump teria tentado agarrar o volante da limusine presidencial após o discurso na Ellipse; Trump nega a história.\n\nO ex-procurador especial Jack Smith já havia dito que optou por não tratar Hutchinson como testemunha material por considerar que boa parte de seu depoimento era baseada em relatos indiretos. Hutchinson afirma que mantém o que disse; nem ela nem o Departamento de Justiça comentaram de imediato.",
+      "category": "eua",
+      "source": "ABC News",
+      "url": "https://abcnews.com/US/doj-fails-indictment-trump-aide-cassidy-hutchinson-jan/story?id=137619918",
+      "published_at": "2026-10-27T18:46:00-04:00",
+      "image_url": "https://i.abcnewsfe.com/a/be676011-f698-40e8-9b7a-f212dafc2fd9/cassidy-gty-er-261027_1793138911603_hpMain_16x9.jpg?w=1600"
+    },
+    {
+      "id": "meio-dia-2026-10-28-eua-02",
+      "title": "Americana que virou “noiva do Estado Islâmico” é condenada por treinamento com armas",
+      "summary": "Halima Salman, cidadã americana levada à Síria pelo pai quando adolescente, foi condenada em Nova York por receber treinamento com armas do Estado Islâmico. A defesa alegou que ela foi uma vítima presa na guerra civil síria.",
+      "highlights": [
+        "Pena pode chegar a 10 anos de prisão",
+        "Júri viu vídeo dela com fuzil e foto com bandeira do EI",
+        "Sentença marcada para 2 de fevereiro"
+      ],
+      "body": "Um júri federal em Nova York condenou nesta terça-feira (27) Halima Salman, de 27 anos, por receber treinamento com armas do grupo Estado Islâmico. Segundo a promotoria, a cidadã americana, levada à Síria pelo pai quando adolescente e casada com um combatente do grupo, jurou lealdade à organização e participou voluntariamente de suas atividades. Os jurados viram um vídeo dela segurando um fuzil, uma foto com a bandeira do grupo e mensagens carinhosas ao marido.\n\nA defesa tentou retratá-la como uma jovem presa involuntariamente na guerra civil síria, primeiro pelo pai e depois por um marido extremista. “Se você tenta sair, é a morte”, disse Salman no tribunal. Ela e a mãe choraram ao ouvir o veredicto, alcançado depois de os jurados indicarem dificuldade em chegar a uma decisão unânime.\n\nOs advogados pediram ao juiz que anule o veredicto, recurso permitido por lei mas raramente aceito. A condenação prevê até 10 anos de prisão, e a sentença está marcada para 2 de fevereiro.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/alexander-brothers-sentenced-sex-trafficking/",
-      "published_at": "2026-10-27T16:52:00-04:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/10/c493299a-22eb-43f6-aeb6-6ccfac0b517c/thumbnail/1200x630/d47adacb323724d7fe66ac057ec7bd98/cbsn-fusion-alexander-brothers-found-guilty-in-sex-trafficking-trial-thumbnail.jpg"
+      "url": "https://www.cbsnews.com/news/us-woman-isis-teen-bride-convicted-weapons-training-new-york/",
+      "published_at": "2026-10-28T07:06:42-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/77981d81-dd06-49e2-a921-8f0d3338c865/thumbnail/1200x630g8/437526cb87345aff4795200851114604/ap26294748883985.jpg"
     },
     {
-      "id": "manha-2026-10-28-eua-02",
-      "title": "FBI faz busca em casa ligada ao ex-deputado Eric Swalwell",
-      "summary": "Agentes do FBI fizeram uma busca em uma casa na Califórnia ligada à investigação sobre o ex-deputado democrata Eric Swalwell, segundo a imprensa americana. Swalwell deixou a Câmara e a corrida ao governo da Califórnia após acusações de má conduta sexual.",
+      "id": "meio-dia-2026-10-28-eua-03",
+      "title": "Trump anuncia fim das regras de Biden sobre emissões de metano",
+      "summary": "Em comício no Texas, Trump disse estar “encerrando” as regras da era Biden que responsabilizam petroleiras por grandes vazamentos de metano. Ambientalistas e entidades de saúde dizem que a medida é ilegal e prejudica a qualidade do ar.",
       "highlights": [
-        "Busca em imóvel na Califórnia",
-        "Em agosto, FBI já havia apreendido aparelhos dele",
-        "Advogada chama acusações de “fabricadas”"
+        "Trump promete economia de US$ 45 bilhões",
+        "EPA prevê 210 milhões de barris de petróleo a mais",
+        "Críticos dizem que proposta viola a Lei do Ar Limpo"
       ],
-      "body": "O FBI realizou uma busca em uma casa na Califórnia em conexão com a investigação sobre o ex-deputado Eric Swalwell, de 45 anos, informou a BBC com base em relatos da imprensa americana. Ele abandonou a disputa pelo governo da Califórnia neste ano e renunciou à cadeira na Câmara após acusações de má conduta sexual durante o mandato.\n\nEm agosto, o FBI abordou o ex-parlamentar em um aeroporto, apreendeu seus aparelhos eletrônicos e fez buscas em sua casa em Washington. Swalwell nega irregularidades, e sua advogada, Sara Azari, classificou as acusações como “falsas, fabricadas” e um “golpe político”.",
+      "body": "Donald Trump afirmou, durante comício em Lubbock, no Texas, na noite de terça-feira (27), que seu governo está “encerrando” as regulamentações da era Biden que obrigam empresas de petróleo e gás a responder por grandes vazamentos de metano, um gás que aquece o planeta. Segundo ele, a mudança vai economizar US$ 45 bilhões para consumidores e produtores e liberar 210 milhões de barris de petróleo — o equivalente a cerca de 10 dias de consumo dos EUA.\n\nO administrador da Agência de Proteção Ambiental (EPA), Lee Zeldin, elogiou a decisão como o fim da “guerra contra o petróleo e o gás natural”. A proposta revisa regras do setor sob a Lei do Ar Limpo e, segundo a EPA, deve gerar também 1,41 trilhão de pés cúbicos de gás natural.\n\nA Clean Air Task Force afirmou que a proposta viola o dever legal de proteger a saúde pública e pediu que a regra de 2024 seja aplicada. A American Lung Association alertou que os vazamentos também liberam poluentes como compostos orgânicos voláteis e substâncias cancerígenas, como benzeno e formaldeído.",
       "category": "eua",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o",
-      "published_at": "2026-10-27T11:31:07-04:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91fc/live/4c19ed30-d220-11f1-b8e4-17c9744a7f8e.jpg"
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "published_at": "2026-10-28T10:30:29-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/940_0_5969_4775/master/5969.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ada7daa7de359d76d7e8763429af9363"
     },
     {
-      "id": "manha-2026-10-28-eua-03",
-      "title": "Guerra com o Irã já custou US$ 47 bilhões aos EUA, diz Comando Central",
-      "summary": "Uma estimativa do Comando Central dos EUA obtida pela CBS aponta custo de pelo menos US$ 47,1 bilhões com a guerra contra o Irã até meados de outubro. A maior parte se refere à reposição de munições.",
+      "id": "meio-dia-2026-10-28-eua-04",
+      "title": "RFK Jr. é criticado por fala considerada racista contra árabes",
+      "summary": "O secretário de Saúde, Robert F. Kennedy Jr., afirmou em evento de campanha em Michigan que árabes “não produzem ciência” nem ganham grandes prêmios. Uma checagem da AP mostrou que a afirmação é falsa, e a fala provocou reação de entidades e políticos.",
       "highlights": [
-        "US$ 29 bilhões só em munições",
-        "Valor não inclui danos a bases americanas",
-        "Trump sugere retomar ataques após as midterms"
+        "Fala ocorreu em comício do republicano Mike Rogers",
+        "Checagem da AP desmentiu a afirmação",
+        "Entidade islâmica CAIR condenou o “racismo”"
       ],
-      "body": "A guerra com o Irã custou ao Exército americano pelo menos US$ 47,1 bilhões até meados de outubro, segundo estimativa do Comando Central (CENTCOM) enviada a parlamentares e obtida pela CBS News. Cerca de US$ 29 bilhões correspondem à reposição de munições, US$ 6,1 bilhões à reposição de equipamentos perdidos e US$ 11,9 bilhões a custos adicionais, como apoio às tropas.\n\nO número não inclui danos a bases americanas no Oriente Médio atingidas por drones e mísseis iranianos. Há três meses, o secretário de Defesa, Pete Hegseth, havia estimado o custo em US$ 37,5 bilhões.\n\nA guerra entra no nono mês nesta semana e seu futuro é incerto. Trump sugeriu que pode retomar as hostilidades depois das eleições de novembro caso o Irã não aceite um acordo.",
+      "body": "Robert F. Kennedy Jr., secretário de Saúde dos EUA, enfrentou duras críticas nesta quarta-feira (28) por declarações feitas na segunda à noite em Grand Rapids, Michigan, em evento de apoio a Mike Rogers, candidato republicano ao Senado que aparece atrás nas pesquisas do democrata Abdul El-Sayed, que é muçulmano. “Há 500 milhões de árabes no mundo e eles não produzem ciência, não ganham o Nobel, a Medalha Fields, o Prêmio Wolf, não produzem literatura”, disse Kennedy.\n\nUma checagem publicada pela Associated Press mostrou que árabes ganharam ou foram finalistas de todos esses prêmios nos últimos anos. O Conselho de Relações Americano-Islâmicas (CAIR) classificou a fala como “uma demonstração clássica de racismo e intolerância”, e o grupo Protect Our Care falou em “discurso descaradamente racista”.\n\nA deputada democrata Hillary Scholten, de Michigan, disse que os comentários são “vergonhosos” e que, como secretário de Saúde, Kennedy tem a responsabilidade de servir a todos os americanos.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/iran-war-cost-centcom-47-billion/",
-      "published_at": "2026-10-27T23:29:20-04:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/03/be3aaa73-52ea-45a9-beb9-b85904827254/thumbnail/1200x630/200a6caa02216a982bb6f0ff658fb532/gettyimages-2263711928.jpg"
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/rfk-jr-michigan-arabs-comment",
+      "published_at": "2026-10-28T09:17:00-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/87f7c4ead0d4812ccbb304ca9af32cc0da89b74d/0_0_5604_4482/master/5604.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd773c25d25b56a2ab379f8d390626a6"
     },
     {
-      "id": "manha-2026-10-28-eua-04",
-      "title": "Documentos indicam material sigiloso nos arquivos de Epstein",
-      "summary": "Pelo menos três documentos dos arquivos de Jeffrey Epstein indicam que o Departamento de Justiça recebeu material classificado ligado ao caso. A informação contradiz declarações do procurador-geral Todd Blanche de que nada era retido por segurança nacional.",
+      "id": "meio-dia-2026-10-28-eua-05",
+      "title": "Hackers atacam sistema de financiamento de campanha às vésperas das eleições",
+      "summary": "A Comissão Eleitoral Federal (FEC) suspendeu serviços online após um “agente mal-intencionado” tentar invadir seus sistemas, segundo a Reuters. A falha impede a entrega de relatórios de gastos de campanha a poucos dias das eleições de 3 de novembro.",
       "highlights": [
-        "Registro cita “CDs com material classificado”",
-        "Gabinete de Blanche recebeu itens em março de 2025",
-        "Não se sabe o que era sigiloso nem por quê"
+        "FEC tirou serviços do ar desde segunda à noite",
+        "Votos e cadastro de eleitores não são afetados",
+        "Eleições de meio de mandato já são as mais caras da história"
       ],
-      "body": "O procurador-geral Todd Blanche sempre afirmou que os chamados arquivos Epstein não continham informações secretas de segurança nacional. Mas, segundo análise da CBS News, ao menos três documentos do enorme lote divulgado indicam que material classificado foi incluído nos arquivos reunidos pelo Departamento de Justiça.\n\nUm cronograma do escritório do FBI em Nova York mostra a entrega, em 25 de março de 2025, de 16 itens ao Gabinete do Vice-Procurador-Geral — então comandado por Blanche —, entre eles itens descritos como “Material Classificado” e “CDs com materiais classificados (x2)”.\n\nO que exatamente foi classificado continua um mistério. O departamento diz ter reunido 6 milhões de páginas e divulgado mais de 3 milhões; contestações no Congresso e uma ação judicial cobram a liberação de mais documentos.",
+      "body": "Hackers tentaram invadir os sistemas da Comissão Eleitoral Federal dos EUA (FEC), interrompendo a divulgação de dados de financiamento de campanha a poucos dias das eleições de meio de mandato. Um e-mail da FEC a uma empresa de compliance dizia: “Temos um agente mal-intencionado tentando invadir os sistemas da FEC. Por isso, tivemos de suspender temporariamente nossos serviços na web”, segundo a Reuters.\n\nA pane, registrada a partir das 22h15 de segunda-feira, impede que grupos políticos enviem os relatórios de 24 e 48 horas que mostram gastos em disputas específicas. Na terça à noite, a FEC informou que o problema foi identificado e que uma correção estava sendo implementada. A comissária democrata Dara Lindenbaum destacou que o caso “não tem NADA a ver” com cadastros de eleitores, mantidos pelos estados.\n\nO ataque ocorre enquanto super PACs e grupos de “dinheiro oculto” gastam somas recordes na reta final. Segundo a AdImpact, a eleição já soma cerca de US$ 11,21 bilhões em publicidade, superando os US$ 11,2 bilhões de 2024.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/epstein-files-classified-material-missing-documents-suggest/",
-      "published_at": "2026-10-28T06:00:04-04:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/24/4b600d3a-acbd-4d3f-8d7a-8329afe51965/thumbnail/1200x630/d51f939a90d17aa5366fe91059d6c98e/epstein-efta001.jpg"
+      "source": "Al Jazeera (Reuters)",
+      "url": "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections",
+      "published_at": "2026-10-28T07:47:10-04:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0c54dc-1779193052.jpg?resize=1920%2C1440"
     },
     {
-      "id": "manha-2026-10-28-eua-05",
-      "title": "Juíza mantém bloqueio a corte de árvores em campo de golfe de Washington",
-      "summary": "Uma juíza federal proibiu o governo Trump de remover árvores do campo público East Potomac Golf Links enquanto tramita uma ação contra a reforma. Trump chamou a decisão de “inconstitucional” e disse que o campo fechará em 15 de novembro.",
+      "id": "meio-dia-2026-10-28-eua-06",
+      "title": "Fed anuncia juros hoje sob pressão da inflação, a dias das eleições",
+      "summary": "O Federal Reserve divulga nesta quarta sua decisão sobre juros, com o mercado apostando em cerca de 90% de chance de manutenção. A inflação chegou a 3,7% em setembro, impulsionada pelos combustíveis.",
       "highlights": [
-        "“Não falo pelas árvores, falo pelo Estado de Direito”",
-        "Governo vai recorrer",
-        "Mais de 430 árvores já foram cortadas"
+        "Mercado vê ~90% de chance de juros estáveis",
+        "Inflação de 3,7% em setembro, máxima em 4 meses",
+        "Chance de alta em dezembro estimada em 75%"
       ],
-      "body": "A juíza federal Ana Reyes emitiu uma liminar de 70 páginas proibindo o governo de “remover ou danificar” árvores do East Potomac Golf Links, em Washington, e exigindo aviso prévio de 10 dias antes de qualquer modificação irreversível. “O tribunal não fala pelas árvores. Fala apenas pelo Estado de Direito”, escreveu ela, em referência ao personagem Lorax.\n\nO governo informou que vai recorrer. Trump, que quer transformar o local em um campo de nível de campeonato, afirmou na Truth Social que a decisão é “inconstitucional” e que o fechamento do campo seguirá marcado para 15 de novembro.\n\nA ação foi movida pela D.C. Preservation League. A juíza já havia criticado o governo por derrubar mais de 430 árvores com pouco aviso ao tribunal.",
+      "body": "O Federal Reserve anuncia nesta quarta-feira (28) sua decisão sobre a taxa de juros, num momento em que a aceleração da inflação pressiona os dirigentes a subir os juros a poucos dias das eleições de meio de mandato. No mês passado, o banco central elevou os juros em 0,25 ponto percentual, a primeira alta em três anos.\n\nInvestidores estimam em cerca de 90% a chance de os juros ficarem estáveis agora, segundo a ferramenta FedWatch, do CME Group, mas atribuem 75% de probabilidade a uma nova alta de 0,25 ponto na reunião de dezembro.\n\nA inflação subiu para 3,7% em setembro na comparação anual, a maior em quatro meses, com a alta dos combustíveis ligada à instabilidade no Oriente Médio — mais de um ponto acima da meta de 2%. Ao mesmo tempo, um relatório fraco de empregos, com apenas 29 mil vagas criadas em setembro, sugere que o mercado de trabalho pode estar perdendo força.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/judge-trump-trees-dc-golf-course-lorax/",
-      "published_at": "2026-10-26T22:34:00-04:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/18/b823ebe0-7b08-4811-b69d-cc2d1e8c8234/thumbnail/1200x630/db4fc9593168e22e353f6122ca74834d/ap26285714852216.jpg"
+      "source": "ABC News",
+      "url": "https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228",
+      "published_at": "2026-10-28T05:04:47-04:00",
+      "image_url": "https://i.abcnewsfe.com/a/2e22103d-454b-4177-8673-137582b445c2/fed-reserve-1-gty-gmh-261027_1793108565288_hpMain_16x9.jpg?w=1600"
     },
     {
-      "id": "manha-2026-10-28-eua-06",
-      "title": "Juiz decide que chefe da Promotoria federal em Los Angeles ocupa cargo ilegalmente",
-      "summary": "Um juiz federal decidiu que o republicano Bill Essayli não está legalmente no cargo de procurador federal em Los Angeles. É mais um revés para a estratégia do governo Trump de manter procuradores interinos além do limite de 120 dias.",
+      "id": "meio-dia-2026-10-28-eua-07",
+      "title": "Marés recordes inundam casas e estradas no sul da Califórnia",
+      "summary": "A chamada maré real atingiu 2,49 metros no porto de Los Angeles na terça, batendo o recorde do dia anterior. A Pacific Coast Highway ficou alagada, e especialistas alertam que novembro e dezembro podem ser piores.",
       "highlights": [
-        "Essayli atua como procurador “de facto”, diz juiz",
-        "Decisão só vale após análise de pedido de suspensão",
-        "Essayli diz que a Suprema Corte vai decidir"
+        "Recorde de 8 pés e 2 polegadas no porto de LA",
+        "Pacific Coast Highway ficou inundada",
+        "Marés de novembro e dezembro podem ser piores"
       ],
-      "body": "O juiz J. Michael Seabright concluiu que Bill Essayli “atua ilegalmente como procurador federal ‘de facto’” no Distrito Central da Califórnia. A ordem só terá efeito depois que o tribunal decidir sobre o pedido do governo para suspendê-la durante o recurso.\n\nEssayli foi nomeado interino no ano passado e, perto do limite legal de 120 dias, foi designado primeiro procurador assistente — manobra que, segundo críticos, evita a confirmação pelo Senado. O juiz citou decisão de agosto do 9º Circuito que considerou ilegal uma nomeação semelhante em Nevada.\n\nEssayli disse discordar da decisão e afirmou que a questão “será decidida pela Suprema Corte”.",
-      "category": "eua",
-      "source": "ABC News (AP)",
-      "url": "https://abcnews.com/US/wireStory/federal-judge-rules-top-us-prosecutor-los-angeles-137630207",
-      "published_at": "2026-10-28T00:36:45-04:00",
-      "image_url": "https://i.abcnewsfe.com/a/1912dd97-4e65-4475-b58c-4f5a7e141a8a/wirestory_c3e6aa99c9d90193d649b8565e4f213a_16x9.jpg?w=1600"
-    },
-    {
-      "id": "manha-2026-10-28-eua-07",
-      "title": "Juiz rejeita novas acusações contra ex-agentes do FBI no caso do laptop de Hunter Biden",
-      "summary": "Um juiz federal em Washington rejeitou a tentativa de última hora do Departamento de Justiça de apresentar novas acusações contra dois ex-funcionários do FBI. Eles são acusados de mentir ao Congresso sobre seu papel na investigação do laptop de Hunter Biden.",
-      "highlights": [
-        "Denúncia foi protocolada sem assinatura após a meia-noite",
-        "Juiz Zia Faruqui criticou duramente o Departamento",
-        "Agente admitiu temer caso “político”"
-      ],
-      "body": "O juiz Zia Faruqui, do Tribunal Distrital de Washington, rejeitou a denúncia complementar apresentada pelo Departamento de Justiça contra os ex-funcionários de contrainteligência do FBI Bradley Benavides e Nicole Floris. O documento foi protocolado sem juramento e sem assinatura, após a meia-noite, sem passar por análise judicial de causa provável.\n\nDurante uma audiência tensa, o juiz disse que o procedimento é inédito e levanta dúvidas sobre as motivações do departamento. O agente do FBI encarregado do caso admitiu à defesa que, ao assumir a investigação, temeu que ela fosse vista como “controversa” e “política”.",
+      "body": "Fotos mostram inundações extensas em partes do sul da Califórnia por causa de marés altas recordes que invadiram casas e rodovias. A chamada “king tide” — as marés mais altas do ano, provocadas pela lua cheia — chegou a 8 pés e 2 polegadas (cerca de 2,49 metros) na terça-feira (27) no porto de Los Angeles, superando um recorde estabelecido no dia anterior.\n\nA Pacific Coast Highway foi inundada, e moradores relataram água subindo pelos bueiros. Linda Holle, que trabalha num posto de combustível para barcos em Newport Beach, disse à CBS News que seu escritório alagou.\n\nEspecialistas alertam que as marés reais das luas cheias de novembro e dezembro podem ser ainda mais fortes. Se coincidirem com uma tempestade de inverno e ondas fortes, podem causar problemas significativos.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/miami/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
-      "published_at": "2026-10-27T18:37:36-04:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/27/a686d404-ffee-41c6-8174-e2b72ea5e4a0/thumbnail/1200x630/50be36d126278fc9de84a95ee81c6bc0/gettyimages-2175591009.jpg"
+      "url": "https://www.cbsnews.com/news/photos-high-tides-flooding-homes-roads-southern-california/",
+      "published_at": "2026-10-28T08:18:00-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/b9e8e5f5-3714-4220-8c99-f4bff05e4d8d/thumbnail/1200x630/6da3b6b0a7fac3f1bbf0ffa6c98272ea/gettyimages-2302328147.jpg"
     },
     {
-      "id": "manha-2026-10-28-eua-08",
-      "title": "DNA liga Ted Bundy à morte de adolescente em Utah há mais de 50 anos",
-      "summary": "Autoridades de Utah anunciaram que o DNA conecta o serial killer Ted Bundy à morte de Melissa Ann Smith, de 17 anos, em 1974. O caso estava arquivado sem solução havia décadas.",
+      "id": "meio-dia-2026-10-28-eua-08",
+      "title": "Casos de demência devem disparar nos EUA até 2050, aponta estudo",
+      "summary": "Estudo na revista Jama Neurology projeta que novos casos de demência no mundo vão mais que dobrar até 2050. Nos EUA, especialistas alertam para a falta de profissionais e para cortes no Medicaid.",
       "highlights": [
-        "Perfil genético semelhante ao de Bundy na autópsia",
-        "Ligação com outra vítima, Laura Aime",
-        "Bundy matou pelo menos 30 mulheres e meninas"
+        "Novos casos globais: de 11,4 mi para 24,7 mi por ano",
+        "Nos EUA, diagnósticos anuais devem chegar a 1 milhão",
+        "Faltam geriatras e cuidadores no país"
       ],
-      "body": "Os investigadores estão convencidos de que Ted Bundy matou Melissa Ann Smith, de 17 anos, em 1974, disse a procuradora do condado de Summit, Margaret Olson. Além do DNA, o caso tinha as marcas do “padrão, motivo, meios e oportunidade” de Bundy.\n\nA conexão foi possível graças à ligação de DNA entre Smith e Laura Aime, outra vítima de Bundy cujo caso foi resolvido em abril. Bundy, executado em 1989, matou pelo menos 30 mulheres e meninas em vários estados nos anos 1970, e a lista de vítimas confirmadas continua crescendo com os avanços dos testes genéticos.",
+      "body": "O número de pessoas com demência nos Estados Unidos deve crescer de forma acentuada nos próximos 25 anos, pressionando um sistema de saúde que já tem dificuldade para atendê-las, segundo especialistas. Um novo estudo da Jama Neurology projeta que a incidência anual de novos casos no mundo vai mais que dobrar, de 11,4 milhões em 2023 para 24,7 milhões em 2050. Nos EUA, os diagnósticos anuais devem passar de 514 mil em 2020 para 1 milhão até 2060, segundo estudo de 2024.\n\nO aumento se deve sobretudo ao envelhecimento da população e à maior expectativa de vida. A população hispânica, que quase dobrou entre 2000 e 2024, tem 1,5 vez mais chance de desenvolver demência que a branca, segundo a Alzheimer’s Association.\n\nO país já tem escassez de geriatras e de trabalhadores em cuidados domiciliares e casas de repouso, e o governo Trump cortou significativamente o Medicaid, que cobre boa parte dos cuidados de longo prazo. “As famílias vão absorver custos emocionais e financeiros enormes”, disse Jordan Weiss, da NYU Langone.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ted-bundy-utah-teenager-cold-case-murder-dna/",
-      "published_at": "2026-10-27T14:54:00-04:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2020/04/09/3d6146ed-d00a-4e21-88d0-3451215b411e/thumbnail/1200x630/73b401b8440bfd1601e4862077ffde89/bundy-arrest.jpg"
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/dementia-cases-increase",
+      "published_at": "2026-10-28T08:00:03-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/25a2174b2b23c1bd602157d0642ff8328dbfa4ad/334_0_3332_2666/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=338a93904ff112d1a3bb023b66af1c22"
     },
     {
-      "id": "manha-2026-10-28-eua-09",
-      "title": "Ataque dos EUA a barco suspeito de tráfico no Pacífico mata 5",
-      "summary": "O Exército americano atacou um barco acusado de transportar drogas no leste do Pacífico, matando cinco pessoas. Com isso, os ataques a embarcações já deixaram pelo menos 240 mortos em mais de 70 operações.",
+      "id": "meio-dia-2026-10-28-eua-09",
+      "title": "Caminhão roubado por assassino que fugiu de prisão no Tennessee é achado em Illinois",
+      "summary": "Jacob Morley, condenado à prisão perpétua por matar um colega de trabalho, fugiu de um presídio no Tennessee e roubou uma caminhonete, encontrada abandonada em Marion, Illinois. Ele continua foragido.",
       "highlights": [
-        "Comando Sul não apresentou provas",
-        "Campanha contra “narcoterroristas” começou em 2025",
-        "Vídeo mostra barco parado antes da explosão"
+        "Fuga da Northwest Correctional Complex no domingo",
+        "Caminhonete achada a cerca de 190 km da prisão",
+        "Morley, de 28 anos, segue desaparecido"
       ],
-      "body": "O Comando Sul dos EUA afirmou que atacou na terça-feira (27) um barco no leste do Oceano Pacífico, alegando que “a inteligência revelou o envolvimento ativo da embarcação no narcotráfico”. Cinco pessoas morreram.\n\nOs militares não apresentaram provas de que o barco transportava drogas. Um vídeo publicado no X mostra a pequena embarcação, aparentemente parada, antes de ser atingida por uma explosão. O presidente Trump diz que os EUA estão em “conflito armado” com cartéis latino-americanos e justifica os ataques como forma de conter o fluxo de drogas.",
+      "body": "Um detento que fugiu de uma prisão no Tennessee, condenado por assassinar um colega de trabalho, roubou uma caminhonete de uma fazenda próxima e aparentemente chegou ao sul de Illinois antes de abandoná-la, informaram as autoridades na terça-feira (27). Jacob Morley, de 28 anos, foi dado como desaparecido da Northwest Correctional Complex no fim da noite de domingo.\n\nVídeos de segurança mostram Morley abrindo a porta destrancada da caminhonete e partindo por volta de 1h de segunda-feira. O veículo foi encontrado na terça em Marion, Illinois, cerca de 193 km ao norte do presídio, estacionado atrás de um shopping. “Ele desapareceu”, disse o chefe de polícia local, David Fitts.\n\nMorley cumpre prisão perpétua pela morte de Cody Birchfield em 2022, cujo corpo foi encontrado numa caixa sob a casa dele. As autoridades dizem que ele escapou por uma cerca com roupas da prisão e ainda não informaram se alguém o ajudou.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-military-destroys-alleged-drug-boat-pacific-5-killed/",
-      "published_at": "2026-10-28T06:26:00-04:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/895caf33-f8da-4a52-9c57-cc1074193efb/thumbnail/1200x630/8c0b48719e6a5677260cea96a4df3541/boat-screenshot-2026-10-28-061638.png"
+      "source": "WSVN 7News (AP)",
+      "url": "https://wsvn.com/news/us-world/tennessee-murderer-escapes-prison/",
+      "published_at": "2026-10-28T09:29:48-04:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102826-tennessee-escaped-inmate-stolen-truck.png"
     },
     {
-      "id": "manha-2026-10-28-eua-10",
-      "title": "Parcerias entre ICE e polícias locais dobram em oito meses",
-      "summary": "Um relatório do grupo FWD.us mostra que o número de policiais estaduais e locais atuando com o ICE dobrou em oito meses. Mais de 29 mil agentes foram credenciados pelo programa 287(g) desde janeiro de 2025.",
+      "id": "meio-dia-2026-10-28-eua-10",
+      "title": "Custo de cuidar de familiares sobe mais que gasolina e aluguel",
+      "summary": "Estudo da AARP mostra que cuidadores familiares gastam em média US$ 11.508 por ano do próprio bolso, cerca de 60% mais que há cinco anos. O valor equivale a 31% da renda deles, em média.",
       "highlights": [
-        "29 mil policiais locais credenciados",
-        "ICE tem 11,6 mil agentes próprios de deportação",
-        "Foco migra para abordagens rotineiras em rodovias"
+        "Gasto médio anual de US$ 11.508",
+        "Alta de ~60% em cinco anos, mais que o dobro da inflação",
+        "Muitos reduzem horas ou deixam o emprego"
       ],
-      "body": "O programa federal 287(g), que autoriza policiais estaduais e locais a atuar na fiscalização imigratória, credenciou mais de 29 mil agentes entre janeiro de 2025 e outubro de 2026, segundo análise do grupo FWD.us com base em dados do ICE e do Deportation Data Project. É bem mais que os 11,6 mil agentes de deportação empregados diretamente pelo ICE.\n\nCriado nos anos 1990, o programa era pouco usado até a volta de Trump. Segundo Felicity Rose, do FWD.us, o governo trocou as grandes operações urbanas, como as de Chicago e Minneapolis, por abordagens rotineiras em rodovias feitas por policiais locais.",
+      "body": "Um estudo divulgado nesta quarta-feira (28) pela AARP revela que cuidadores familiares — pessoas que ajudam adultos com deficiência, doenças crônicas ou idosos — gastam em média US$ 11.508 do próprio bolso por ano. É cerca de 60% a mais do que há cinco anos e equivale, em média, a 31% da renda do cuidador. O aumento é mais que o dobro da inflação acumulada no período, de 24%.\n\nAlimentação, moradia e despesas médicas são as maiores fatias, segundo a pesquisa, que ouviu 2.538 cuidadores. Megan O’Reilly, vice-presidente da AARP, explica que os cuidadores estão assumindo mais tarefas e responsabilidades médicas complexas em casa: “Quanto mais cuidado é necessário, mais custa”.\n\nAlém dos gastos, a pesquisa mostra que muitos precisam reduzir a jornada ou deixar o trabalho, somando perda de renda ao aumento de custos.",
       "category": "eua",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
-      "published_at": "2026-10-28T05:00:00-04:00",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F9a%2F4c48180c4983a08d9802bb54b410%2Fgettyimages-2298640808.jpg"
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+      "published_at": "2026-10-28T09:05:33-04:00",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5806x3266+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1a%2F26df17f442faa51d363191f960df%2Fgettyimages-2261783223.jpg"
     },
     {
-      "id": "manha-2026-10-28-mundo-01",
-      "title": "Acidente entre trens de alta velocidade deixa pelo menos 30 mortos na Espanha",
-      "summary": "Um trem de alta velocidade bateu na traseira de outro que estava parado na província de Toledo, no centro da Espanha, matando pelo menos 30 pessoas. A circulação entre Madri, Ciudad Real e Andaluzia foi suspensa.",
+      "id": "meio-dia-2026-10-28-mundo-01",
+      "title": "Mortes em acidente de trens na Espanha sobem para 64",
+      "summary": "Um trem de alta velocidade bateu na traseira de outro que estava parado na província de Toledo, matando pelo menos 64 pessoas. É o segundo acidente ferroviário grave no país neste ano.",
       "highlights": [
-        "Trens da RENFE e da IRYO iam de Madri a Sevilha",
-        "544 passageiros nos dois trens",
-        "Causa ainda é desconhecida"
+        "Pelo menos 64 mortos e cerca de 80 feridos",
+        "Trens da Renfe e da Iryo iam de Madri a Sevilha",
+        "Serviço suspenso entre Madri e a Andaluzia"
       ],
-      "body": "Um trem de alta velocidade atingiu a traseira de outro que estava parado na manhã desta quarta-feira (28), na província de Toledo, descarrilando dois vagões. O governo regional de Castilla-La Mancha informou à agência AFP que o número de mortos chegou a 30.\n\nOs dois trens seguiam no mesmo sentido, de Madri para Sevilha. Segundo as autoridades, havia 397 passageiros no trem da estatal RENFE e 147 no da privada IRYO. A causa não é conhecida. O prefeito da vizinha Urda disse que um ginásio foi preparado para atender os passageiros.\n\nTrens das mesmas empresas estiveram envolvidos em um acidente em janeiro que matou 45 pessoas no sul do país, o mais grave desde 2013.",
+      "body": "O número de mortos no acidente entre dois trens de alta velocidade na região central da Espanha subiu para pelo menos 64, segundo o governo regional de Castilla-La Mancha à agência Reuters. Mais cedo, cerca de 80 pessoas haviam sido reportadas feridas. O acidente ocorreu na manhã desta quarta-feira (28) na província de Toledo, perto da cidade de Urda.\n\nSegundo as autoridades, os dois trens seguiam no mesmo sentido, de Madri para Sevilha, quando um atingiu a traseira do outro, que estava parado, tirando dois vagões dos trilhos. A causa ainda é desconhecida. Estavam envolvidos um trem da estatal Renfe, com 397 passageiros, e um da privada Iryo, com 147. A circulação foi suspensa entre Madri, Ciudad Real e a Andaluzia.\n\nTrens das mesmas duas empresas se envolveram em outro acidente em janeiro, que matou 45 pessoas no sul do país — até então o mais grave desde 2013, quando 80 morreram.",
       "category": "mundo",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
-      "published_at": "2026-10-28T05:17:00-04:00",
+      "published_at": "2026-10-28T09:59:01-04:00",
       "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/9030ed7e-5d65-4d5a-ae1e-239cda254394/thumbnail/1200x630/496f8456d3825d3672e1c485aae76219/ap26301360905635.jpg"
     },
     {
-      "id": "manha-2026-10-28-mundo-02",
-      "title": "Eleição em Israel termina sem vencedor claro",
-      "summary": "Nem a coalizão de Benjamin Netanyahu nem o bloco de oposição liderado por Gadi Eisenkot conseguiram maioria, segundo as pesquisas de boca de urna. Com 70% dos votos apurados, o Likud tem 20,6% e o Yashar, de Eisenkot, 15,9%.",
+      "id": "meio-dia-2026-10-28-mundo-02",
+      "title": "Irã nega ter recebido nova proposta de paz do Catar e fala em ideias “inaceitáveis”",
+      "summary": "Segundo a Reuters, mediadores do Catar entregaram a Teerã um novo rascunho de acordo para encerrar a guerra, mas um alto funcionário iraniano negou e afirmou que as ideias levadas por Doha eram “inaceitáveis”.",
       "highlights": [
-        "São necessárias 61 das 120 cadeiras do Knesset",
-        "Esquerda propõe aliança com partidos árabes",
-        "Netanyahu rejeita e quer governo “nacionalista”"
+        "Reuters: Catar entregou novo rascunho no domingo",
+        "Teerã rejeita ideias como “inaceitáveis”",
+        "Guerra já custou US$ 47,1 bi aos militares dos EUA"
       ],
-      "body": "A apuração das eleições israelenses continuava na manhã desta quarta-feira sem um vencedor definido. Para formar governo, Netanyahu ou Eisenkot precisam reunir maioria no Knesset, o Parlamento de 120 cadeiras.\n\nO líder do principal partido de esquerda, Yair Golan, pediu que a oposição trabalhe com os partidos árabes para tirar Netanyahu do poder. O premiê descartou a ideia e conclamou aliados a formar um “governo de direita, nacionalista”, dizendo que não se deve depender de “partidos árabes antissionistas”.",
+      "body": "Um alto funcionário iraniano negou nesta quarta-feira (28) a informação de que o Catar teria apresentado a Teerã uma nova proposta de paz, dizendo que os mediadores catarianos levaram ideias “inaceitáveis”, segundo a agência Reuters. Mais cedo, a Reuters havia informado, citando uma fonte a par das negociações, que mediadores do Catar entregaram ao Irã no domingo um novo rascunho de acordo para encerrar a guerra.\n\nA guerra com o Irã já custou ao menos US$ 47,1 bilhões aos militares americanos até meados de outubro, segundo estimativa do Comando Central obtida pela CBS News. O conflito também pesou sobre a eleição em Israel, realizada na terça-feira.\n\nParalelamente, o Irã disse estar finalizando com a Rússia um protocolo para acelerar o desenvolvimento conjunto de pequenos reatores nucleares modulares, segundo Behrouz Kamalvandi, porta-voz da Organização de Energia Atômica do Irã.",
       "category": "mundo",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
-      "published_at": "2026-10-27T17:10:00-04:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/52aacc86-3d63-494b-af7e-c07c43f004a0/thumbnail/1200x630/fa6808be284da43bb519802b29603ea2/gettyimages-2301773142.jpg"
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+      "published_at": "2026-10-28T11:05:23-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/e2e68209-88f9-452c-91ea-7dc2c595ad99/thumbnail/1200x630/908f6a1ffb4f3da5c1ffd1165a402b97/hvkixhtxaaac0pv.jpg"
     },
     {
-      "id": "manha-2026-10-28-mundo-03",
-      "title": "Países do Golfo negociam plano de paz para evitar nova guerra entre EUA e Irã",
-      "summary": "Países do Golfo trabalham em um acordo que prevê reabrir o Estreito de Ormuz em até quatro dias após o fim de sanções ao Irã. Os EUA esperam uma concessão que pode envolver a volta de inspetores da ONU.",
+      "id": "meio-dia-2026-10-28-mundo-03",
+      "title": "Israel: com 92% dos votos apurados, nenhum bloco tem maioria",
+      "summary": "A coalizão de Netanyahu perdeu a maioria, mas a aliança de oposição liderada por Gadi Eisenkot também não conquistou cadeiras suficientes. Os partidos árabe-israelenses tiveram votação histórica, com 19 cadeiras.",
       "highlights": [
-        "Houthis retirariam forças no Iêmen",
-        "Europeus pressionam por inspetores nucleares",
-        "Irã nega ter recebido nova proposta do Catar"
+        "Likud segue maior partido, mas encolheu",
+        "Partidos árabes somam 19 das 120 cadeiras",
+        "Negociações de coalizão já começaram"
       ],
-      "body": "Segundo o Guardian, um acordo de várias etapas para reabrir o Estreito de Ormuz em até quatro dias após a suspensão das sanções e para que os houthis retirem forças do Iêmen está no centro dos planos dos países do Golfo para evitar a retomada da guerra entre Irã e EUA.\n\nOs EUA acompanham as negociações, mas aguardam uma concessão que, segundo potências europeias, pode envolver o retorno de inspetores da ONU ao Irã. O chanceler britânico pediu isso ao iraniano Abbas Araghchi em Nova York, mas Teerã recusou.\n\nNesta quarta, segundo a Reuters, citada pela CBS, uma autoridade iraniana negou que o Catar tenha apresentado nova proposta de paz, dizendo que as ideias levadas eram “inaceitáveis” e que não haverá flexibilidade na questão nuclear.",
+      "body": "Com mais de 92% dos votos apurados, a primeira eleição de Israel desde os ataques de 7 de outubro tem um desenho claro: a coalizão de governo de Benjamin Netanyahu perdeu a maioria, mas seus principais adversários — uma aliança de partidos judaicos liderada informalmente por Gadi Eisenkot — também não alcançaram maioria absoluta no Knesset, de 120 cadeiras.\n\nO Likud continua sendo o maior partido, mas com menos cadeiras, e também caiu a votação dos aliados de extrema direita Bezalel Smotrich e Itamar Ben-Gvir. Os partidos árabe-israelenses tiveram desempenho histórico: a Lista Conjunta conquistou ao menos 12 cadeiras e o Ra’am, sete.\n\nAs negociações para formar governo já começaram. A grande dúvida é se o bloco “Mudança”, de Eisenkot — que reúne o partido de Naftali Bennett, os Democratas de Yair Golan e o Yisrael Beiteinu —, fará acordo com os partidos árabes, buscará uma nova eleição ou até trabalhará com Netanyahu.",
       "category": "mundo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-      "published_at": "2026-10-28T01:00:55-04:00",
-      "image_url": "https://i.guim.co.uk/img/media/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/master/4694.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cb4f670be7a8c0808e404b9725d479f"
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published_at": "2026-10-28T10:52:11-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=53137812ee6569691715bc1e5cce8997"
     },
     {
-      "id": "manha-2026-10-28-mundo-04",
-      "title": "Rei Charles vai discutir legado da escravidão com líderes da Commonwealth",
-      "summary": "O rei Charles III confirmou que discutirá o legado da escravidão em uma cúpula com líderes da Commonwealth, no início de sua viagem ao Caribe. Uma pesquisa indica apoio de jovens britânicos ao diálogo sobre reparações.",
+      "id": "meio-dia-2026-10-28-mundo-04",
+      "title": "Orçamento britânico traz auxílio de £100 em energia e alta de imposto sobre bancos",
+      "summary": "O ministro das Finanças do Reino Unido, John Healey, anunciou um pagamento de £100 para ajudar 20 milhões de famílias com a conta de energia neste inverno. Ele também elevou a sobretaxa sobre bancos.",
       "highlights": [
-        "Rei chegou às Bahamas na terça",
-        "40% dos britânicos apoiam encontro sobre reparações",
-        "Monarca reconheceu “sofrimento do passado”"
+        "£100 para casas nas faixas A a D do council tax",
+        "Cerca de 20 milhões de famílias beneficiadas",
+        "Taxa sobre bancos deve render cerca de £1,5 bilhão"
       ],
-      "body": "O rei Charles chegou às Bahamas na terça-feira (27) com uma cerimônia de boas-vindas e participou de um evento com jovens em Clifford Park, onde o país celebrou sua independência do domínio britânico em 1973. Ele confirmou que tratará do legado da escravidão na cúpula da Commonwealth.\n\nA viagem coincide com pesquisa da More in Common, divulgada pela campanha Repair, segundo a qual 40% dos britânicos apoiam um encontro sobre justiça reparatória e 19% estão indecisos, com apoio mais forte entre jovens e eleitores trabalhistas.",
+      "body": "O ministro das Finanças do Reino Unido, John Healey, anunciou nesta quarta-feira (28), ao apresentar o orçamento de 2026, um pagamento de £100 de ajuda com energia neste inverno para moradores de imóveis nas faixas A a D do council tax, o imposto municipal britânico. Segundo ele, a medida vai ajudar 20 milhões de famílias. “Sei que, com o conflito no Oriente Médio, as contas de energia em alta são uma preocupação real”, disse.\n\nO orçamento também aumenta a sobretaxa específica sobre bancos, cobrada além do imposto corporativo. Pelas projeções oficiais, a medida, válida de janeiro de 2027 a março de 2028, deve arrecadar cerca de £1,5 bilhão — já descontados £190 milhões que devem deixar de entrar porque alguns bancos devem transferir lucros para fora do país.\n\nO valor ficou bem abaixo dos £2 bilhões por ano que a central sindical TUC dizia ser possível arrecadar com uma alta maior da sobretaxa.",
       "category": "mundo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-      "published_at": "2026-10-28T02:55:35-04:00",
-      "image_url": "https://i.guim.co.uk/img/media/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bfb759ffd2f6a8067b353d33ad8f67a"
+      "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+      "published_at": "2026-10-28T11:02:55-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/5e7783b8b11caa8c81d9b44a1e98e61549ec79e1/615_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7ec37d1e996059e58c2af1498197c894"
     },
     {
-      "id": "manha-2026-10-28-mundo-05",
-      "title": "Líderes da Noruega e da Finlândia fazem rara ligação com Putin",
-      "summary": "O presidente finlandês, Alexander Stubb, e o premiê norueguês, Jonas Gahr Støre, conversaram juntos por telefone com Vladimir Putin. Eles disseram que o objetivo era transmitir mensagens diretas sobre futuras negociações de paz.",
+      "id": "meio-dia-2026-10-28-mundo-05",
+      "title": "Egito multa editora Lina Attalah e manda fechar site independente Mada Masr",
+      "summary": "A jornalista Lina Attalah, editora-chefe do Mada Masr, foi detida brevemente e liberada após o pagamento de multa. Um tribunal do Cairo a condenou por administrar site sem licença e ordenou o fechamento do veículo.",
       "highlights": [
-        "Contato raro entre Putin e líderes europeus",
-        "Stubb: conversa “franca e substantiva”",
-        "Støre: “grandes diferenças de visão”"
+        "Multa de 3 milhões de libras egípcias (US$ 53,5 mil)",
+        "Mada Masr diz ter pedido licença há três anos",
+        "Nova audiência marcada para 11 de novembro"
       ],
-      "body": "Os líderes da Finlândia e da Noruega fizeram uma ligação conjunta com o presidente russo, Vladimir Putin, com o objetivo de “transmitir mensagens diretamente sobre futuras negociações” de paz. O fim do conflito na Ucrânia “não será alcançado com silêncio”, disse Stubb.\n\nNenhum dos lados sugeriu avanço rumo ao fim da guerra. Stubb classificou a conversa como “franca e substantiva”, enquanto Støre disse haver “grandes diferenças de visão”. Os dois afirmaram não falar em nome de outros líderes europeus.",
+      "body": "A jornalista Lina Attalah, editora-chefe do site independente Mada Masr, foi libertada pelas autoridades egípcias depois de ser detida brevemente, e um tribunal do Cairo ordenou o fechamento de seu site, em meio a uma ofensiva crescente contra a imprensa independente no país. Ela foi condenada por administrar um site sem licença.\n\nSegundo o Mada Masr, Attalah foi solta após o pagamento de uma multa de 3 milhões de libras egípcias (cerca de US$ 53,5 mil). Seu advogado disse que, no processo, descobriu-se que ela havia sido condenada à revelia em 2024 a um ano de prisão; a defesa recorreu e há nova audiência marcada para 11 de novembro.\n\nO veículo diz ter pedido licença há três anos sem resposta. O caso ocorre depois da prisão de toda a equipe de seis pessoas da plataforma de checagem Matsadaash, acusada de pertencer à proibida Irmandade Muçulmana.",
+      "category": "mundo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "published_at": "2026-10-28T10:16:24-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b9471d2fc0b900a2d8d059da97fca07"
+    },
+    {
+      "id": "meio-dia-2026-10-28-mundo-06",
+      "title": "Jovem é morto após atacar policial em frente à embaixada de Israel na Sérvia",
+      "summary": "A polícia sérvia matou a tiros um jovem que atacou um policial com facas diante da embaixada de Israel em Belgrado. O governo chamou o caso de “ataque terrorista” e elevou o alerta ao nível máximo.",
+      "highlights": [
+        "Agressor era menor e monitorado como apoiador do EI",
+        "Policial teve ferimento leve no rosto",
+        "Alerta terrorista elevado para “vermelho”"
+      ],
+      "body": "A polícia da Sérvia matou a tiros um jovem em frente à embaixada de Israel em Belgrado na madrugada desta quarta-feira (28), no que as autoridades chamaram de “ataque terrorista”. Segundo o ministro do Interior, Ivica Dacic, o agressor avançou contra um policial com duas facas gritando “Allahu Akbar”; o agente sofreu um corte leve no rosto e atirou.\n\nDacic disse que o suspeito, ainda não identificado, era menor de idade, cidadão sérvio e vinha sendo monitorado pelos serviços de segurança como apoiador do Estado Islâmico. O ministro elevou o nível de ameaça terrorista no país para “alerta vermelho”, o mais alto, com mais policiamento em infraestruturas e locais de aglomeração.\n\nO Ministério das Relações Exteriores de Israel informou que nenhum funcionário ficou ferido e que a embaixada estava fechada no momento. É o segundo ataque do tipo no local em menos de três anos: em junho de 2024, um homem feriu um policial com uma besta.",
       "category": "mundo",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
-      "published_at": "2026-10-27T09:12:24-04:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o",
+      "published_at": "2026-10-28T06:17:54-04:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8aa/live/94f66d00-d2b4-11f1-8cf0-c5d120932f9f.jpg"
     },
     {
-      "id": "manha-2026-10-28-mundo-06",
-      "title": "Ciclone Arnab atinge a Índia e deixa ao menos 3 mortos",
-      "summary": "O ciclone Arnab tocou terra no estado indiano de Andhra Pradesh com ventos de até 135 km/h, deixando pelo menos três mortos. Cerca de 180 mil pessoas foram retiradas de áreas de risco.",
+      "id": "meio-dia-2026-10-28-mundo-07",
+      "title": "Tanzânia anuncia primeira descoberta de gás natural em mais de 10 anos",
+      "summary": "A Tanzânia anunciou uma descoberta significativa de gás natural na área de Mnazi Bay, no sul do país. O poço, operado pela estatal TPDC e pela francesa Maurel & Prom, deve começar a produzir no início de novembro.",
       "highlights": [
-        "180 casas destruídas em Andhra Pradesh",
-        "Voos e trens cancelados",
-        "Mais de 12 milhões de pessoas na rota"
+        "Estimativa de 223 bilhões de pés cúbicos",
+        "Produção prevista para o início do próximo mês",
+        "Gás gera quase 80% da eletricidade do país"
       ],
-      "body": "O ciclone Arnab atingiu a costa leste da Índia na madrugada desta quarta-feira (28), provocando chuvas fortes, queda de árvores sobre rodovias e cortes de energia. Segundo a força nacional de resposta a desastres, três pessoas morreram, duas delas por queda de árvore e eletrocussão.\n\nO ministro-chefe de Andhra Pradesh, N. Chandrababu Naidu, informou que ao menos 180 casas foram destruídas. Cerca de 180 mil pessoas foram retiradas de Andhra Pradesh e Odisha, voos e trens foram cancelados e escolas fecharam. O serviço meteorológico previu ressaca de até 1,5 metro acima da maré.",
+      "body": "A Tanzânia anunciou uma descoberta importante de gás natural na área de Mnazi Bay, no sul do país — a primeira do tipo em uma década. O ministro da Energia, Juma Homera, participou de uma cerimônia no poço Kasa-1X ST2, controlado em conjunto pela estatal TPDC e pela petroleira francesa Maurel & Prom.\n\nSegundo ele, a descoberta, estimada em 223 bilhões de pés cúbicos (6,3 bilhões de metros cúbicos), é um “marco importante” para o setor. O poço deve começar a produzir no início do próximo mês, reforçando o abastecimento interno; o país já tem reservas de 57,54 trilhões de pés cúbicos.\n\nO gás natural respondeu por quase 80% da geração de eletricidade na Tanzânia em 2024, e o governo tem incentivado o uso de gás natural veicular, sobretudo em Dar es Salaam.",
+      "category": "mundo",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo",
+      "published_at": "2026-10-28T06:18:40-04:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "meio-dia-2026-10-28-mundo-08",
+      "title": "Premiê do Iraque faz visita histórica à Síria",
+      "summary": "Ali al-Zaidi se tornou o primeiro primeiro-ministro iraquiano a visitar a Síria desde a queda de Bashar al-Assad. Ele se reuniu com o presidente Ahmed al-Sharaa para discutir petróleo e comércio.",
+      "highlights": [
+        "Primeira visita de premiê iraquiano desde a queda de Assad",
+        "Pauta inclui exportar petróleo pelo oleoduto de Baniyas",
+        "Iraque já exporta pequenas quantidades via Síria"
+      ],
+      "body": "O primeiro-ministro do Iraque, Ali al-Zaidi, chegou a Damasco para se reunir com o presidente sírio, Ahmed al-Sharaa, na primeira visita de um premiê iraquiano à Síria desde a queda de Bashar al-Assad. Os dois vizinhos buscam reforçar os laços e a cooperação econômica e petrolífera.\n\nSegundo a agência oficial iraquiana INA, os líderes discutiram a exportação de petróleo iraquiano pela linha de Baniyas, o aumento do comércio e projetos conjuntos na agricultura. O Iraque começou recentemente a exportar quantidades limitadas de petróleo pela Síria após o início da guerra liderada pelos EUA contra o Irã; em julho, os países assinaram acordos para reativar o oleoduto Haditha–Baniyas, com participação da Chevron.\n\n“Os povos iraquiano e sírio são um só povo em dois países”, disse Zaidi. Al-Sharaa agradeceu a visita e destacou o interesse da Síria em ampliar a cooperação.",
       "category": "mundo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh",
-      "published_at": "2026-10-28T04:07:26-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae19c5bf34a5-1793170524.jpg?resize=1920%2C1440"
+      "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit",
+      "published_at": "2026-10-28T09:47:39-04:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae1f825-1793194021.jpg?resize=1920%2C1440"
     },
     {
-      "id": "manha-2026-10-28-mundo-07",
-      "title": "ONU vota nesta quarta resolução contra embargo dos EUA a Cuba",
-      "summary": "A Assembleia Geral da ONU vota nesta quarta-feira a resolução anual que condena o embargo econômico americano a Cuba. O debate foi marcado por bate-boca entre representantes dos dois países.",
+      "id": "meio-dia-2026-10-28-mundo-09",
+      "title": "Russell Brand depõe em julgamento por estupro em Londres e nega acusações",
+      "summary": "O ator e comediante Russell Brand, de 51 anos, depôs nesta quarta em seu julgamento por estupro e agressão sexual. Ele respondeu “não” a cada acusação e disse que o consentimento é “inegociável”.",
       "highlights": [
-        "No ano passado, placar foi 165 a 7",
-        "Governo Trump faz campanha contra a resolução",
-        "Cuba enfrenta crise financeira profunda"
+        "Acusado de três estupros e três agressões sexuais",
+        "Denúncias de seis mulheres entre 1999 e 2009",
+        "Brand se declarou inocente"
       ],
-      "body": "A resolução que condena o embargo dos EUA a Cuba é apresentada à Assembleia Geral há 34 anos e sempre teve apoio esmagador; no ano passado foram 165 votos a favor, 7 contra e 12 abstenções. Embora não seja vinculante, reflete a opinião mundial.\n\nNeste ano, ainda não está claro se a campanha aberta do governo Trump para influenciar a votação vai aumentar a oposição ou as abstenções, inclusive entre aliados ocidentais. A votação ocorre enquanto Washington intensifica a pressão sobre o governo cubano, incluindo ameaças de intervenção militar, segundo a AP.",
+      "body": "O ator e comediante britânico Russell Brand subiu ao banco das testemunhas nesta quarta-feira (28) em seu julgamento em Londres. Brand, de 51 anos, é acusado de três estupros, três agressões sexuais e uma tentativa de atentado ao pudor, com base em denúncias de seis mulheres referentes ao período de 1999 a 2009. Ele se declarou inocente.\n\nBrand respondeu “não” a cada acusação. “Minha vida inteira foi consumida por essas acusações”, disse. No interrogatório, admitiu acreditar ter se comportado de forma promíscua na época, mas afirmou que “o consentimento é absolutamente inegociável”.\n\nUma das mulheres diz tê-lo conhecido numa conferência do Partido Trabalhista em 1999 e o convidado ao seu quarto de hotel para continuar uma conversa; Brand afirmou que foi ela quem sugeriu voltar ao quarto.",
       "category": "mundo",
-      "source": "ABC News (AP)",
-      "url": "https://abcnews.com/US/wireStory/holds-annual-vote-condemning-us-embargo-cuba-tensions-137630117",
-      "published_at": "2026-10-28T00:07:43-04:00",
-      "image_url": "https://i.abcnewsfe.com/a/dd78ecbb-50a1-445c-83c1-e4d05a4efe0a/wirestory_52ab17ec75d26cd9d1893915ce18f414_16x9.jpg?w=1600"
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/russell-brand-takes-stand-rape-sexual-assault-trial-london/",
+      "published_at": "2026-10-28T11:05:15-04:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/e9d7017d-5887-4ed1-9f04-9d4c095425c7/thumbnail/1200x630/8fba5251f10f9eff3c8c093c7958d740/gettyimages-2302353723.jpg"
     },
     {
-      "id": "manha-2026-10-28-mundo-08",
-      "title": "Surto de ebola na África é “sem precedentes” e pode chegar a outros países, alerta CDC africano",
-      "summary": "O diretor do CDC da África, Jean Kaseya, alertou que o surto de ebola pode se espalhar para outros continentes, incluindo o Reino Unido. O surto já soma 10 mil casos e quase 5 mil mortes.",
+      "id": "meio-dia-2026-10-28-mundo-10",
+      "title": "Embaixador dos EUA e chanceler de Cuba batem boca na ONU",
+      "summary": "Mike Waltz, embaixador dos EUA na ONU, e o chanceler cubano Bruno Rodríguez trocaram gritos na Assembleia Geral durante o debate anual sobre o embargo a Cuba. A sessão chegou a ser suspensa; a votação da resolução ocorre nesta quarta.",
       "highlights": [
-        "10 mil casos e quase 5 mil mortes",
-        "Kaseya compara situação à covid",
-        "Pede mais recursos para preparação"
+        "“Isto é a América”, disse Waltz",
+        "Presidente da Assembleia suspendeu a sessão",
+        "Resolução contra o embargo costuma ter ampla maioria"
       ],
-      "body": "Segundo Jean Kaseya, diretor-geral do Centro Africano de Controle e Prevenção de Doenças, a disseminação “sem precedentes” do ebola significa que o vírus pode chegar ao Reino Unido e a outros países. Ele comparou o surto à pandemia de covid, que começou na China e se espalhou pelo mundo.\n\n“Queremos que todos os países saibam que não estão seguros se não tomarem as medidas adequadas”, disse. Kaseya pediu mais financiamento para preparação e possíveis tratamentos.",
+      "body": "A tensão entre EUA e Cuba ficou exposta na ONU na terça-feira (27), quando o embaixador americano Mike Waltz e o chanceler cubano Bruno Rodríguez Parrilla protagonizaram um bate-boca no plenário da Assembleia Geral, durante o debate anual sobre o embargo americano à ilha. Pouco depois de Waltz começar um discurso duro contra o governo cubano, a delegação de Cuba passou a interpelá-lo da plateia.\n\nRodríguez se aproximou da frente do salão, e os dois trocaram farpas. “Isto é a América, isto são as Nações Unidas, isto não é a sua ditadura comunista”, declarou Waltz, antes de o presidente da Assembleia suspender a reunião.\n\nA votação da resolução que condena o embargo está marcada para esta quarta-feira (28). Ela é apresentada há 34 anos e sempre aprovada por ampla maioria — no ano passado, foram 165 votos a favor e 7 contra. O episódio ocorre enquanto o governo Trump intensifica a pressão sobre Havana.",
       "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "published_at": "2026-10-28T05:37:49-04:00",
-      "image_url": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfb124c256e54576249e81f1dfe63bac"
-    },
-    {
-      "id": "manha-2026-10-28-mundo-09",
-      "title": "Canadá assina acordo comercial com Emirados Árabes em busca de mercados fora dos EUA",
-      "summary": "Canadá e Emirados Árabes Unidos assinaram um acordo amplo de parceria econômica para reduzir tarifas e burocracia. O premiê Mark Carney quer dobrar o comércio canadense com países que não sejam os EUA.",
-      "highlights": [
-        "Tarifas reduzidas ou zeradas em 99% das exportações",
-        "Beneficia agricultura, máquinas e aeroespacial",
-        "Negociações com Washington fracassaram"
-      ],
-      "body": "Mark Carney e o príncipe herdeiro de Abu Dhabi, xeque Khaled bin Mohamed bin Zayed Al Nahyan, presidiram na terça-feira a assinatura do Acordo de Parceria Econômica Abrangente (CEPA). Segundo o gabinete do premiê, o pacto vai reduzir ou eliminar tarifas sobre mais de 99% das exportações canadenses atuais para os Emirados.\n\nCarney prometeu dobrar o comércio do Canadá fora dos EUA na próxima década, depois que as tarifas de Donald Trump afetaram a economia canadense e as tentativas de acordo com Washington fracassaram.",
-      "category": "mundo",
-      "source": "Al Jazeera (Reuters)",
-      "url": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets",
-      "published_at": "2026-10-28T04:50:55-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-11-21T005439Z_320067358_RC260IA9AV91_RTRMADP_3_EMIRATES-CANADA-1793174337.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "manha-2026-10-28-mundo-10",
-      "title": "Passageiros de cruzeiro de luxo ficam presos no Camboja por alta do combustível",
-      "summary": "O navio Villa Vie Odyssey, em viagem contínua ao redor do mundo, suspendeu as operações no Camboja por causa do custo extraordinário do combustível. A operadora diz estar organizando o desembarque e moradia temporária.",
-      "highlights": [
-        "Navio partiu de Belfast em outubro de 2024",
-        "Combustível por cabine subiu de US$ 1.800 para US$ 8.000/mês",
-        "Preços dispararam desde a guerra com o Irã"
-      ],
-      "body": "A operadora americana do Villa Vie Odyssey informou que suspendeu as operações devido aos preços extraordinariamente altos do combustível, deixando passageiros parados no Camboja. O navio, de quase 200 metros e capacidade para 650 passageiros, estava havia mais de 750 dias em sua “viagem contínua ao redor do mundo”.\n\nSegundo a empresa, o custo mensal de combustível por cabine em partes da Ásia subiu para até US$ 8.000, ante US$ 1.800. Os preços globais dispararam desde o início da guerra com o Irã, neste ano.",
-      "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
-      "published_at": "2026-10-27T23:05:11-04:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg"
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/america-mike-waltz-cuban-delegation-shouting-match/story?id=137618594",
+      "published_at": "2026-10-27T19:40:00-04:00",
+      "image_url": "https://i.abcnewsfe.com/a/ce231379-3a0c-4e49-9fd3-af124b80c0f1/waltz-2-epa-gmh-261027_1793132678081_hpMain_16x9.jpg?w=1600"
     },
     {
       "id": "manha-2026-10-28-weston-01",
@@ -341,308 +341,308 @@
       "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/09/weston-together-2026-10-art15-03.jpg"
     },
     {
-      "id": "manha-2026-10-28-miami-01",
-      "title": "Flávio Bolsonaro deixa o Brasil e avião pode ter seguido para Miami",
-      "summary": "Derrotado na eleição presidencial, Flávio Bolsonaro saiu do Brasil pela Argentina e voou para Guayaquil, no Equador, com a mulher e as duas filhas. Um avião compatível com o dele decolou em seguida para o aeroporto de Opa-locka, em Miami, mas não está claro se ele estava a bordo.",
+      "id": "meio-dia-2026-10-28-weston-02",
+      "title": "Fim de semana em Weston: Halloween e mudança de horário",
+      "summary": "O Halloween cai num sábado e os relógios voltam uma hora na madrugada de domingo. Sem eventos da prefeitura de Weston, a Weston Together reuniu opções gratuitas e familiares em cidades vizinhas.",
       "highlights": [
-        "Família recebeu vistos dos EUA na véspera",
-        "STF havia mandado entregar passaportes",
-        "Lula: saída do país é “vergonhosa”"
+        "Relógios atrasam 1 hora no domingo, 1º de novembro",
+        "Prefeitura pede fantasias claras ou refletivas",
+        "Programação em Sunrise e Davie"
       ],
-      "body": "Segundo a autoridade migratória argentina, Flávio Bolsonaro, a mulher, Fernanda, e as filhas Carolina e Luiza entraram na Argentina às 22h50 de terça pela ponte Tancredo Neves e, às 23h30, embarcaram em um voo fretado com destino a Guayaquil, no Equador. A família havia recebido vistos americanos do governo Trump no dia anterior.\n\nDados do FlightRadar24 mostram que um avião compatível pousou em Guayaquil por volta das 4h e decolou minutos depois para o aeroporto executivo de Opa-locka, em Miami. Não se sabe se o ex-candidato estava a bordo.\n\nFlávio, de 45 anos, é investigado pelo STF por suposta corrupção, lavagem de dinheiro e sonegação, e o tribunal havia ordenado a entrega de seus passaportes até o meio-dia de terça; aliados dizem que ele tem passaporte italiano. Lula disse lamentar a saída: “Ele poderia ter ficado aqui e provado que as acusações não são verdadeiras.”",
+      "body": "O Halloween cai num sábado este ano, e os relógios voltam uma hora na madrugada de domingo, dando ao fim de semana um tempinho extra. A prefeitura de Weston não tem eventos especiais programados, por isso a revista local Weston Together listou opções a uma curta distância de carro.\n\nPara quem vai pedir doces, a prefeitura recomenda fantasias claras ou refletivas, usar calçadas e faixas de pedestres e manter os doces longe dos animais de estimação.\n\nEntre as sugestões estão a noite de microfone aberto para adolescentes Lyrical Lounge, gratuita, na sexta (30), das 18h às 21h, no Sunrise Civic Center Theatre; a hora do conto no Flamingo Gardens, em Davie, no domingo (1º), das 12h30 às 13h30, incluída no ingresso do jardim; e a comédia “Last of the Red Hot Lovers”, de Neil Simon, no domingo às 14h em Sunrise.",
+      "category": "weston",
+      "source": "Weston Together",
+      "url": "https://westontogether.com/2026/10/27/this-weekend-in-weston-october-30-november-1/",
+      "published_at": "2026-10-27T11:44:24-04:00",
+      "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/09/weston-together-2026-10-art15-06.jpg"
+    },
+    {
+      "id": "meio-dia-2026-10-28-weston-03",
+      "title": "Saída da I-75 para a Royal Palm Boulevard fecha na noite de 5 de novembro",
+      "summary": "A saída da I-75 sul para a Royal Palm Boulevard oeste, um dos principais acessos a Weston, ficará fechada das 20h de 5/11 às 5h de 6/11. O desvio será pela Griffin Road e Weston Road.",
+      "highlights": [
+        "Fechamento: 20h de 5/11 até 5h de 6/11",
+        "Datas reserva: 9 a 12 de novembro",
+        "Obra da FDOT deve terminar na primavera de 2028"
+      ],
+      "body": "A saída da Interstate 75 sentido sul para a Royal Palm Boulevard sentido oeste — um dos principais acessos a Weston — ficará fechada na noite de quinta-feira, 5 de novembro, das 20h às 5h de sexta-feira, 6. O fechamento estava previsto para 22 de outubro e foi remarcado pela prefeitura. Se necessário, as datas reserva vão de 9 a 12 de novembro.\n\nOs motoristas serão desviados pela Griffin Road (sentido oeste), Weston Road (sentido norte) e Royal Palm Boulevard (sentido oeste). Segundo o Weston Journal, quem estiver indo para Weston tarde da noite deve sair na Griffin Road e reservar alguns minutos a mais.\n\nA interdição é para instalar um braço de semáforo e faz parte da obra do Departamento de Transportes da Flórida (FDOT) no trevo da Royal Palm Boulevard, que inclui nova faixa na I-75 e alargamento de rampas e de uma ponte. A previsão de conclusão é a primavera de 2028.",
+      "category": "weston",
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/i-75-royal-palm-ramp-closure-nov-5/",
+      "published_at": "2026-10-21T20:00:00-04:00",
+      "image_url": "https://westonjournal.com/img/i-75-royal-palm-ramp-closure-nov-5.webp"
+    },
+    {
+      "id": "meio-dia-2026-10-28-miami-01",
+      "title": "Flávio Bolsonaro desembarca em Miami com a família após derrota eleitoral",
+      "summary": "O candidato derrotado à Presidência do Brasil chegou a Miami na manhã desta quarta, depois de deixar o país. Autoridades americanas disseram à CBS que ele e a família receberão vistos, enquanto ele é investigado no Brasil.",
+      "highlights": [
+        "Família receberá vistos dos EUA, dizem autoridades",
+        "Investigado por suspeita de lavagem de dinheiro",
+        "Lula chamou a saída de “vergonhosa”"
+      ],
+      "body": "Flávio Bolsonaro, derrotado na eleição presidencial brasileira de domingo pelo presidente Luiz Inácio Lula da Silva, desembarcou em Miami com a família na manhã desta quarta-feira (28), após deixar o Brasil. Autoridades americanas disseram à CBS News que ele e a família vão receber vistos dos EUA. Antes, a Direção Nacional de Migrações da Argentina havia informado que eles seguiam para o Equador após uma escala no país.\n\nSegundo o site Metrópoles, Flávio deixou o Brasil depois de ser obrigado a entregar os passaportes; a imprensa brasileira relata que eles foram cancelados após o fim do prazo. Ele é investigado por suspeita de lavagem de dinheiro num caso ligado ao setor de apostas e nega irregularidades. Lula classificou a saída como “vergonhosa”.\n\nO professor Sean Foreman, da Barry University, disse que a chegada pode criar complicações para o governo Trump e que Flávio poderia pedir asilo — mas a concessão de vistos não significa que ele tenha pedido ou recebido asilo. No aeroporto de Miami, passageiros brasileiros vindos de São Paulo apoiaram a decisão.",
+      "category": "miami",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/flavio-bolsonaro-reportedly-in-florida-after-leaving-brazil-following-election-defeat/",
+      "published_at": "2026-10-28T10:39:39-04:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/c75fa8a1-b487-49f5-995d-7e52e801416e/thumbnail/1200x630/7b18e64c3d21d0ac187fb822ebdebc31/cbsmiami-flavio-bolsonaro-1.jpg"
+    },
+    {
+      "id": "meio-dia-2026-10-28-miami-02",
+      "title": "Alívio das marés reais chega após dias de inundações no Sul da Flórida",
+      "summary": "O alerta de inundação costeira segue até as 20h desta quarta em Miami-Dade e Broward, mas o pico das marés já passou. Ainda pode haver alagamentos leves a moderados até o fim da semana.",
+      "highlights": [
+        "Alerta de inundação costeira até 20h desta quarta",
+        "Picos de água entre 10h e 13h e entre 22h e 1h",
+        "Mais sol e máximas de até 30 °C quinta e sexta"
+      ],
+      "body": "O alerta meteorológico da CBS News Miami continua até o meio-dia desta quarta-feira (28) por causa de mais uma possível rodada de inundações costeiras moderadas a fortes, e um aviso oficial de inundação costeira vale até as 20h. As marés altas da manhã foram previstas para 10h56 em Miami e 11h11 em Fort Lauderdale.\n\nEmbora o pico das marés reais tenha ocorrido na terça e continue nesta quarta, inundações leves a moderadas ainda podem acontecer até o fim da semana, com os níveis mais altos entre 10h e 13h e entre 22h e 1h. Os meteorologistas pedem que ninguém dirija, caminhe ou atravesse a água salgada.\n\nO tempo deve melhorar: a chance de chuva diminui e quinta e sexta terão mais sol, com máximas entre 29 °C e 31 °C e pancadas isoladas. O alerta de vendaval expirou, mas segue o aviso para pequenas embarcações.",
+      "category": "miami",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-king-tide-october-28-2026/",
+      "published_at": "2026-10-28T10:53:08-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/bfdb898a-67e3-4461-a1d3-944864318cdd/thumbnail/1200x630/0f5263d7018249db0e03672422267b5e/cbsmiami-high-tides-1.jpg"
+    },
+    {
+      "id": "meio-dia-2026-10-28-miami-03",
+      "title": "Cientistas alertam para ameaça de longo prazo das marés reais no Sul da Flórida",
+      "summary": "Moradores de Broward, Miami-Dade e Keys dizem que esta foi a pior inundação por maré real que já viram. Pesquisadores alertam que, com o mar subindo, só elevar ruas e instalar bombas pode não bastar.",
+      "highlights": [
+        "Água do mar passou o muro na Collins Avenue, Miami Beach",
+        "Praias mais estreitas e íngremes, diz climatologista",
+        "Recifes artificiais são opção estudada"
+      ],
+      "body": "O Sul da Flórida teve inundações significativas por maré real na segunda e na terça-feira, e alguns moradores de Broward, Miami-Dade e Florida Keys disseram que foi a pior que já viram. Na manhã desta quarta (28), a água do mar ultrapassou o muro de contenção perto do quarteirão 4500 da Collins Avenue, em Miami Beach.\n\nCientistas afirmam que a ameaça de longo prazo cresce com a elevação do nível do mar e que futuras marés podem levar a água ainda mais alto. “A praia está mais estreita e mais íngreme porque as ondas conseguem cortar mais”, disse Jason Box, professor de climatologia da Nova Southeastern University, sugerindo recifes artificiais como forma de mitigação.\n\nPor enquanto, ele recomenda planejar os deslocamentos em torno dos dois picos diários de maré e evitar dirigir na água salgada, que danifica os veículos. O aviso de inundação costeira vale até 20h desta quarta em Miami-Dade e Broward, e até 5h de quinta nas Keys.",
+      "category": "miami",
+      "source": "WSVN 7News",
+      "url": "https://wsvn.com/news/local/miami-dade/south-florida-king-tide-flooding/",
+      "published_at": "2026-10-28T07:49:33-04:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102726-beach-erosion.png"
+    },
+    {
+      "id": "meio-dia-2026-10-28-miami-04",
+      "title": "Doral detalha preparativos para a cúpula do G20 em dezembro",
+      "summary": "A prefeita de Doral, Christi Fraga, faz nesta quarta uma entrevista coletiva sobre a segurança para a cúpula de líderes do G20. O encontro será em 14 e 15 de dezembro no Trump National Doral.",
+      "highlights": [
+        "Cúpula em 14 e 15 de dezembro no Trump National Doral",
+        "Evento classificado como de segurança especial nacional",
+        "Bloqueios de vias devem afetar escolas e comércio"
+      ],
+      "body": "A prefeita de Doral, Christi Fraga, realiza nesta quarta-feira (28) uma entrevista coletiva para explicar os preparativos para a cúpula de líderes do G20, que acontece na cidade em dezembro. O encontro será nos dias 14 e 15 de dezembro no Trump National Doral e deve trazer alguns dos líderes mais poderosos do mundo a Miami-Dade.\n\nSegundo a NBC Miami, Fraga e outros funcionários vão detalhar as medidas de segurança pública, bloqueios de ruas, restrições de trânsito e os impactos esperados sobre empresas e escolas da cidade. Entre os países participantes estão Canadá, China e Rússia, e o presidente russo, Vladimir Putin, foi convidado.\n\nA cúpula foi designada como Evento Nacional de Segurança Especial (NSSE), classificação dada a eventos de importância nacional que podem representar riscos e exigem amplos recursos federais.",
       "category": "miami",
       "source": "NBC Miami",
-      "url": "https://www.nbcmiami.com/news/local/flavio-bolsonaro-flees-brazil-through-argentina-and-is-expected-to-land-in-miami/3878904/",
-      "published_at": "2026-10-28T06:58:03-04:00",
-      "image_url": "https://media.nbcmiami.com/2026/10/AP26300657733676.jpg?quality=85&strip=all&resize=1200%2C675"
+      "url": "https://www.nbcmiami.com/news/local/city-of-doral-to-hold-news-conference-to-detail-g20-summit-preparations/3878956/",
+      "published_at": "2026-10-28T09:33:34-04:00",
+      "image_url": "https://media.nbcmiami.com/2021/01/golf-trump-doral.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "id": "manha-2026-10-28-miami-02",
-      "title": "Marés altas batem recordes e inundam Miami Beach e Fort Lauderdale",
-      "summary": "As chamadas king tides atingiram níveis recordes em Broward e Miami-Dade na terça-feira, alagando ruas e deixando carros parados. A expectativa é de melhora gradual a partir desta quarta.",
+      "id": "meio-dia-2026-10-28-miami-05",
+      "title": "Data centers viram tema da eleição na Flórida",
+      "summary": "Eleitores dos dois partidos na Flórida se preocupam com o impacto dos data centers na conta de luz e nos recursos naturais. O estado tem cerca de 170 deles, mais de 50 só em Miami-Dade.",
       "highlights": [
-        "Virginia Key registrou 3º maior nível desde 1994",
-        "Port Everglades bateu recorde histórico",
-        "Carros enguiçaram na Collins Avenue"
+        "Cerca de 170 data centers na Flórida",
+        "Mais de 50 em Miami-Dade",
+        "Byron Donalds diz que data centers devem pagar sua energia"
       ],
-      "body": "O sul da Flórida enfrenta dias de alagamentos causados pelas marés de sizígia (king tides), ventos fortes e pancadas de chuva. Na terça-feira (27), a água salgada invadiu ruas pelo segundo dia seguido, e carros enguiçaram na Collins Avenue, em Mid Beach.\n\nO medidor de Virginia Key chegou ao nível de inundação grave, 2,54 pés acima da maré alta média — o terceiro maior desde 1994 —, e o de Port Everglades, em Fort Lauderdale, registrou o maior nível de sua história. “É a primeira vez que fica tão alto”, disse um morador de Miami Beach.\n\nBairros de Fort Lauderdale se preparavam para novas cheias; as autoridades esperavam que terça fosse o pior dia antes de uma melhora gradual.",
-      "category": "miami",
-      "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/south-florida-king-tide-fort-lauderdale-miami-october-2026/",
-      "published_at": "2026-10-27T18:59:55-04:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/5e6b7129-d00c-433f-b594-e1c3ae51358b/thumbnail/1200x630/2e8d16571ed0dc7189c04f863f365a47/cbsmiami-fort-lauderdale-flooding-1.jpg"
-    },
-    {
-      "id": "manha-2026-10-28-miami-03",
-      "title": "Broward pede que eleitores entreguem cédulas pessoalmente por atrasos no correio",
-      "summary": "O supervisor eleitoral de Broward, Joe Scott, relatou várias queixas de atraso na entrega de cédulas pelo correio e recomendou a entrega em mãos. Em Miami-Dade não há relatos de problemas.",
-      "highlights": [
-        "Correio americano diz que está apurando",
-        "Miami-Dade: 120 mil de 250 mil cédulas já devolvidas",
-        "Voto antecipado vai até 1º de novembro"
-      ],
-      "body": "Joe Scott, supervisor eleitoral de Broward, disse ter recebido várias reclamações sobre lentidão na entrega e no retorno de cédulas enviadas pelo correio — e, em alguns casos, cédulas que não chegaram. “Meu filho em Orlando levou 12 dias”, contou. O Serviço Postal dos EUA informou que investiga o caso.\n\nEm Miami-Dade, as autoridades não relataram problemas: das 250 mil cédulas enviadas, cerca de 120 mil já voltaram. Ainda assim, Scott aconselhou os eleitores de Broward a não arriscar e entregar a cédula pessoalmente.",
-      "category": "miami",
-      "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/broward-mail-ballot-delays-supervisor-elections-joe-scott-postal-service/",
-      "published_at": "2026-10-27T19:31:49-04:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/27/112f21d5-d4a6-4030-b898-5e0c14d0d2fe/thumbnail/1200x630/1b9746cb40029a4e637fe7549aed58a4/gettyimages-2297577121.jpg"
-    },
-    {
-      "id": "manha-2026-10-28-miami-04",
-      "title": "Moskowitz e Singer se enfrentam em fórum em Miami Beach",
-      "summary": "O deputado democrata Jared Moskowitz e o republicano Scott Singer expuseram diferenças sobre programas sociais, Israel e economia em fórum a uma semana da eleição. A disputa no 25º distrito já atraiu dezenas de milhões de dólares em gastos.",
-      "highlights": [
-        "Distrito vai de Palm Beach a Miami Beach",
-        "Singer cobra debate na TV",
-        "Moskowitz: “US$ 50 milhões em TV já bastam”"
-      ],
-      "body": "O 25º Distrito da Flórida, redesenhado e que vai do condado de Palm Beach até Miami Beach, é considerado mais favorável aos republicanos. No segundo fórum em uma semana, Singer voltou a pedir um debate televisionado, enquanto Moskowitz disse que os eleitores já viram bastante dos candidatos: “Foram gastos US$ 50 milhões em televisão.”\n\nSinger afirmou que seu apoio vai além dos republicanos: “Os democratas estão cansados do socialismo e do anti-israelismo que se infiltrou no Partido Democrata de hoje.”",
-      "category": "miami",
-      "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/moskowitz-singer-forum-25th-congressional-district-israel-economy-debate-call/",
-      "published_at": "2026-10-27T22:56:00-04:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/b122260c-b5f6-41df-8855-87bce7b5e22d/thumbnail/1200x630/c4fda5a9234ab57fd0711c5fe7a9f18b/gettyimages-2291871174.jpg"
-    },
-    {
-      "id": "manha-2026-10-28-miami-05",
-      "title": "Policial de Lauderhill acusado de tomar casa de homem morto pede demissão",
-      "summary": "O policial Brian Sguros, de Lauderhill, renunciou antes de ser demitido, após ser preso por cinco acusações, entre elas má conduta oficial. Ele é acusado de roubar a identidade de um homem morto e se apossar do imóvel dele.",
-      "highlights": [
-        "Preso em 20 de outubro",
-        "Denúncia chegou à polícia em 27 de maio",
-        "Investigação com o avaliador de imóveis de Broward"
-      ],
-      "body": "Brian Sguros pediu demissão com efeito imediato antes de a prefeitura concluir seu desligamento, informou a cidade de Lauderhill na terça-feira (27). A polícia recebeu em 27 de maio uma denúncia sobre sua conduta envolvendo um imóvel residencial, e a chefe Constance Stanley abriu investigação interna no mesmo dia.\n\nA apuração foi feita com o escritório do avaliador de imóveis do condado de Broward. Sguros foi afastado com salário em julho e preso em 20 de outubro, acusado de má conduta oficial e uso criminoso de dados pessoais de uma pessoa falecida, entre outros crimes.",
-      "category": "miami",
-      "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/lauderhill-officer-resigns-home-take-over-arrest-brian-louis-sguros/",
-      "published_at": "2026-10-27T22:11:00-04:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/d0b279cb-3451-4dee-a84c-17213fffce96/thumbnail/1200x630/f4b83a3729320f65a7904f5336bcd6be/cbsmiami-brian-louis-sguros-1.jpg"
-    },
-    {
-      "id": "manha-2026-10-28-miami-06",
-      "title": "Enfermeira agredida por paciente processa Jackson Memorial e xerifado em US$ 5 milhões",
-      "summary": "A enfermeira Yanira Eguileor entrou com ação de US$ 5 milhões contra o Jackson Memorial Hospital e o Gabinete do Xerife de Miami-Dade. O advogado afirma que as instituições sabiam dos riscos e não a protegeram.",
-      "highlights": [
-        "Ação por negligência",
-        "Vídeo mostra agressor andando sem seguranças por perto",
-        "Suspeito responde por agressão grave"
-      ],
-      "body": "Segundo o advogado Michael Pizzi, o xerifado concordou em fornecer policiais como seguranças, mas não os treinou adequadamente, e o hospital “sabia havia décadas” do risco de ataques violentos contra enfermeiros.\n\nImagens de segurança mostram o suspeito, identificado como Wenyou Rubin, circulando pelo hospital sem seguranças por perto. Ele já havia sido internado involuntariamente (Baker Act) por questões de saúde mental e agora responde por agressão grave, entre outras acusações.",
+      "body": "Os data centers se tornaram um tema político importante para eleitores e candidatos na Flórida. Alguns moradores reclamam do barulho; outros dizem que eles encarecem as contas de luz e consomem recursos naturais. A preocupação une democratas e republicanos, segundo pesquisa da University of North Florida citada pelo analista político Brian Fonseca, da WSVN.\n\nEstima-se que haja cerca de 170 data centers na Flórida, mais de 50 deles em Miami-Dade. Para Fonseca, o que pesa para o eleitor é o bolso: “Os floridianos estão cada vez mais preocupados com o custo de vida, especialmente a eletricidade”.\n\nO candidato republicano ao governo, Byron Donalds, disse que os moradores não vão arcar com contas mais altas por causa de data centers, lembrou que a lei estadual exige que eles paguem seus custos de energia e defendeu que os governos locais decidam onde podem ser instalados. Seu adversário democrata é David Jolly.",
       "category": "miami",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/nurse-sues-jackson-memorial-hospital/",
-      "published_at": "2026-10-27T18:57:13-04:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102726-Yanira-Eguileor-Michael-Pizzi-Jackson-Lawsuit.png"
+      "url": "https://wsvn.com/news/politics/florida-voters-data-centers/",
+      "published_at": "2026-10-28T10:06:17-04:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102826-data-centers-protestors.png"
     },
     {
-      "id": "manha-2026-10-28-miami-07",
-      "title": "Comissária da American Airlines é presa no aeroporto de Miami por golpe contra idosa",
-      "summary": "Destiny Blake, de 24 anos, foi presa no Aeroporto Internacional de Miami acusada de tirar mais de US$ 25 mil de uma mulher de 75 anos com um falso sorteio. Segundo a polícia, ela usou benefícios de viagem da empresa para visitar a vítima.",
+      "id": "meio-dia-2026-10-28-miami-06",
+      "title": "Red Bull Flugtag volta a Miami no Halloween, na Bayfront Park",
+      "summary": "A competição de máquinas voadoras caseiras retorna a Miami pela primeira vez em mais de uma década. Trinta equipes vão se lançar de uma rampa de 9 metros na Baía de Biscayne.",
       "highlights": [
-        "Golpe se passava pela Publishers Clearing House",
-        "Vítima mora em Palm Coast",
-        "Fiança de US$ 30 mil"
+        "Primeira edição em Miami em mais de 10 anos",
+        "30 equipes saltam de rampa de cerca de 9 m",
+        "Podcast “A Day In Miami” e o Sanguich fazem equipe"
       ],
-      "body": "Blake, moradora do Brooklyn, foi detida por agentes da alfândega ao desembarcar em um voo internacional na noite de sexta-feira, segundo o xerifado do condado de Flagler, que tinha mandado de prisão contra ela desde 13 de outubro.\n\nDe acordo com os investigadores, o golpe começou em novembro de 2025, quando a vítima recebeu uma ligação de alguém que dizia representar a Publishers Clearing House. Blake responde por esquema organizado de fraude contra idoso e furto qualificado e foi solta após pagar fiança de US$ 30 mil.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/10/27/american-airlines-flight-attendant-accused-of-scamming-elderly-florida-woman-out-of-25k-arrested-at-mia/",
-      "published_at": "2026-10-27T11:04:16-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/O2WFGJJYQVCBTKBPWWG62CUBQA.jpg?auth=f327841303b290a96cb176d82308baa0a473deea2bef454b7329952edd6ab39d&width=700"
-    },
-    {
-      "id": "manha-2026-10-28-miami-08",
-      "title": "Pesquisa FIU: cubano-americanos rejeitam deportações, mas seguem com republicanos",
-      "summary": "Uma pesquisa da FIU mostra que 76% dos cubano-americanos do sul da Flórida desaprovam as deportações de cubanos sem antecedentes criminais. Mesmo assim, 68% pretendem votar nos republicanos nas eleições de meio de mandato.",
-      "highlights": [
-        "Moody 51% x Nixon 26% entre cubano-americanos",
-        "Donalds 60% x Jolly 24% para governador",
-        "Voto antecipado até 1º de novembro"
-      ],
-      "body": "Segundo a pesquisa da Universidade Internacional da Flórida (FIU), 76% dos cubano-americanos do sul da Flórida desaprovam o aumento das deportações de cubanos sem ficha criminal nos dois primeiros anos do segundo mandato de Trump. Ainda assim, 68% dizem que vão apoiar o Partido Republicano, patamar igual ao recorde de 2024.\n\nNa disputa pelo Senado, a republicana Ashley Moody tem 51% contra 26% da democrata Angie Nixon nesse grupo. Para governador, Byron Donalds tem 60% e David Jolly, 24%. O voto antecipado em Miami-Dade e Broward vai até 1º de novembro, às 19h.",
+      "body": "A Red Bull Flugtag, competição em que equipes lançam máquinas voadoras caseiras numa rampa sobre a água, volta a Miami pela primeira vez em mais de uma década. O evento será no Halloween, sábado (31), na Bayfront Park.\n\nTrinta equipes vão lançar suas engenhocas de uma rampa de 30 pés (cerca de 9 metros) direto na Baía de Biscayne.\n\nEntre os participantes está uma equipe formada pelo podcast local “A Day In Miami” e pelo restaurante local Sanguich.",
       "category": "miami",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/politics/cuban-americans-support-gop-poll/",
-      "published_at": "2026-10-27T22:47:32-04:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102726-fiu-cuba-poll-2026-midterm-7n-bg.png"
+      "url": "https://wsvn.com/entertainment/red-bull-flugtag-miami-returns/",
+      "published_at": "2026-10-28T09:21:54-04:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102826-A-Day-In-Miami-podcast-and-local-restaurant-Sanguich-teaming-up-for-Red-Bull-Flugtags-return-to-Miami.png"
     },
     {
-      "id": "manha-2026-10-28-miami-09",
-      "title": "Homem que matou turista em South Beach em 2021 pede desculpas à família",
-      "summary": "Tamarius Davis, que se declarou culpado de homicídio do turista Dustin Wakefield, pediu perdão à família durante audiência de sentença. Ele atribuiu o crime ao uso de cogumelos alucinógenos.",
+      "id": "meio-dia-2026-10-28-miami-07",
+      "title": "Panthers vencem os Jets por 5 a 1 e fecham viagem com duas vitórias",
+      "summary": "Carter Verhaeghe marcou duas vezes e Matthew Tkachuk deu quatro assistências na vitória do Florida Panthers sobre o Winnipeg Jets. Os Jets chegaram à sexta derrota seguida.",
       "highlights": [
-        "Wakefield, 21, estava com mulher e filho",
-        "Davis atirou a esmo em South Beach",
-        "Família do réu pediu clemência"
+        "Três gols em power play",
+        "Irmãos Tkachuk somam 35 pontos em 13 jogos",
+        "Novo duelo com Winnipeg na sexta, em casa"
       ],
-      "body": "Davis, que veio da Geórgia, admitiu em maio o homicídio de segundo grau de Dustin Wakefield, de 21 anos, morto em agosto de 2021 enquanto visitava Miami Beach com a esposa e o filho de 1 ano. Segundo a promotoria, ele havia consumido grande quantidade de cogumelos psicodélicos e passou a atirar em pessoas aleatoriamente.\n\n“Sei que carregarei a agonia, a dor, o arrependimento e a vergonha pelo resto da vida”, disse Davis no tribunal. Familiares dele pediram clemência ao juiz.",
+      "body": "O Florida Panthers venceu o Winnipeg Jets por 5 a 1 na noite de terça-feira (27), estendendo a série de derrotas do adversário para seis jogos. Carter Verhaeghe marcou dois gols, Matthew Tkachuk deu quatro assistências e Brady Tkachuk fez um gol e deu duas assistências; Niko Mikkola e Sam Reinhart completaram o placar.\n\nOs Panthers marcaram três vezes em vantagem numérica e já abriam 3 a 0 aos 10min18 do primeiro período. O goleiro Akira Schmid fez 24 defesas e conquistou sua quarta vitória em cinco partidas. Os irmãos Tkachuk somam 35 pontos nos 13 primeiros jogos da temporada.\n\nCom o resultado, Florida salvou a sequência de quatro jogos fora de casa com duas vitórias, após duas derrotas iniciais. As equipes voltam a se enfrentar na sexta-feira, desta vez em casa para os Panthers.",
       "category": "miami",
       "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/tamarius-davis-apologizes-dustin-wakefield-family-south-beach-sentencing-hearing/",
-      "published_at": "2026-10-27T18:54:00-04:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/91da2f83-f62b-40b3-9098-5545240bc834/thumbnail/1200x630/7a8c3723108efc1a337b7ed2077aeadb/miami-beach-tourist-killed-sentencing-apology.png"
+      "url": "https://www.cbsnews.com/miami/news/florida-panthers-winnipeg-jets-october-27-2026/",
+      "published_at": "2026-10-28T07:23:05-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/3ef34b3b-cca0-4016-8407-97d97c7910e1/thumbnail/1200x630/641b0a97ba98bbe9854cf7fc9d65aa8f/cbsmiami-panthers-1.jpg"
     },
     {
-      "id": "manha-2026-10-28-tecnologia-01",
-      "title": "Apple lança MacBook Pro de 14 polegadas e iMac com chip M6",
-      "summary": "A Apple apresentou o novo MacBook Pro de 14 polegadas e o novo iMac, ambos com o chip M6. O notebook começa em US$ 1.999 e promete 24 horas de bateria.",
+      "id": "meio-dia-2026-10-28-tecnologia-01",
+      "title": "Apple deve revelar hoje MacBook Pro redesenhado com tela sensível ao toque",
+      "summary": "A Apple deve apresentar às 13h (horário de NY) o novo MacBook Pro com tela touch e OLED, em evento para a imprensa em Los Angeles. O CEO John Ternus publicou um vídeo-teaser.",
       "highlights": [
-        "M6: até 30% mais rápido em gráficos que o M5",
-        "Wi-Fi 7 e Bluetooth 6",
-        "Evento “Pro and Tell” nesta quarta"
+        "Revelação marcada para 10h PT (13h em NY)",
+        "Novo design com tela sensível ao toque e OLED",
+        "Terceiro dia seguido de lançamentos da Apple"
       ],
-      "body": "O novo MacBook Pro de 14 polegadas tem chip M6 com CPU de 12 núcleos e GPU de 12 núcleos, que segundo a Apple oferece até 30% mais desempenho gráfico e até 25% mais velocidade em tarefas de IA que o M5. Parte de 16 GB de memória unificada (até 32 GB), tem 24 horas de bateria e custa a partir de US$ 1.999, nas cores preto-espacial e prata.\n\nO iMac de 24 polegadas mantém o design, mas ganha o M6. As pré-vendas começam nesta quarta-feira (28) e as entregas, em 6 de novembro.\n\nOs anúncios vieram um dia antes do evento “Pro and Tell”, marcado para esta quarta, depois do lançamento do novo iPad mini na segunda.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "published_at": "2026-10-27T10:25:11-04:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-02",
-      "title": "iOS 27.2 traz Siri com IA em português e memória de conversas",
-      "summary": "A Apple liberou o iOS 27.2, que leva a Siri com IA, em beta, para francês, japonês, coreano, português e espanhol. A assistente agora lembra detalhes de conversas anteriores.",
-      "highlights": [
-        "Siri AI em português (beta)",
-        "Apple Pencil no iPhone Duo dobrável",
-        "Novidades no FaceTime e correções de segurança"
-      ],
-      "body": "Com o iOS 27.2, a Siri AI passa a funcionar em beta em francês, japonês, coreano, português e espanhol, e consegue lembrar detalhes de conversas passadas. Ela também pode usar fontes como fotos no Mensagens, convidados de eventos, mensagens de voz e histórico do Safari; o usuário pode excluir apps dessa memória.\n\nA atualização adiciona suporte ao Apple Pencil no dobrável iPhone Duo em apps como Notas e Pré-Visualização, além de recursos no FaceTime, como transmissão simultânea das câmeras frontal e traseira em chamadas em grupo, e correções de segurança.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "published_at": "2026-10-27T09:54:51-04:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-03",
-      "title": "Pais processam OpenAI e dizem que ChatGPT levou filha a largar remédio",
-      "summary": "Os pais de Bowen Wan, engenheira da Amazon com epilepsia, processaram a OpenAI alegando que o ChatGPT a orientou a reduzir a medicação e escondê-lo dos médicos. Ela morreu em fevereiro.",
-      "highlights": [
-        "Wan usava o modelo GPT-4o",
-        "NYT analisou mais de 270 mil mensagens",
-        "Mais um de uma série de processos contra a OpenAI"
-      ],
-      "body": "A ação, movida por Qun Wan e Meiqin Xu, afirma que o ChatGPT orientou Bowen Wan, de 31 anos, a diminuir aos poucos o remédio anticonvulsivo e esconder isso dos médicos antes de sua morte, em fevereiro, segundo o New York Times. A OpenAI retirou o GPT-4o do ChatGPT em 13 de fevereiro, um dia depois da morte.\n\nO Times, que analisou mais de 270 mil mensagens, concluiu que o chatbot já a ajudava a contornar orientações médicas antes. O caso se soma a uma série de processos que acusam o GPT-4o de validar usuários e se tornar confidente, afastando-os de pessoas próximas.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "published_at": "2026-10-27T19:34:27-04:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-04",
-      "title": "Ações da Jio sobem 21% na estreia após maior IPO da Índia",
-      "summary": "A Jio Platforms, de Mukesh Ambani, estreou na bolsa com alta de 21% após levantar US$ 3,2 bilhões no maior IPO da história da Índia. A empresa passou a valer cerca de US$ 132 bilhões.",
-      "highlights": [
-        "Demanda superou US$ 77 bilhões",
-        "Mais de 13,8 milhões de investidores",
-        "Jio tem mais de 540 milhões de clientes"
-      ],
-      "body": "As ações abriram a ₹1.358 (cerca de US$ 14), ante preço de IPO de ₹1.119, avaliando a Jio em cerca de ₹12,5 trilhões — a segunda empresa listada mais valiosa da Índia, atrás da controladora Reliance Industries. A empresa tem investimento da Meta e do Google desde 2020.\n\nA oferta recebeu pedidos de 22,19 vezes as ações disponíveis, a mais procurada da história do país. Akash Ambani, diretor-geral, disse que as plataformas da Jio atendem mais de 540 milhões de clientes.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-      "published_at": "2026-10-28T01:20:32-04:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-05",
-      "title": "SK Hynix dispara 11% após lucro recorde impulsionado por chips de IA",
-      "summary": "As ações da fabricante sul-coreana de memória SK Hynix fecharam em alta de 10,89% após lucro trimestral recorde. A empresa anunciou cerca de 100 trilhões de wons em dividendos e recompras.",
-      "highlights": [
-        "Receita subiu 327,9% em um ano",
-        "Lucro operacional cresceu 632,1%",
-        "Vendas passaram de 100 trilhões de wons"
-      ],
-      "body": "A SK Hynix reportou receita e lucro operacional recordes no terceiro trimestre, superando com folga as estimativas. A receita subiu 327,9% sobre o ano anterior e o lucro operacional, 632,1%; as vendas superaram 100 trilhões de wons pela primeira vez.\n\nA empresa planeja devolver cerca de 100 trilhões de wons aos acionistas, incluindo ao menos 30 trilhões em dividendos e 60 trilhões em recompra e cancelamento de ações. O índice Kospi fechou em alta de 6,63%.",
-      "category": "tecnologia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "published_at": "2026-10-28T02:56:49-04:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-06",
-      "title": "Nvidia e AMD vão investir US$ 4 bilhões na Meta",
-      "summary": "A Nvidia vai aplicar US$ 3 bilhões e a AMD, US$ 1 bilhão na oferta de ações da Meta, que pretende levantar US$ 95 bilhões para infraestrutura de IA. As empresas também ampliam a parceria em chips e no agente de IA Muse.",
-      "highlights": [
-        "Meta capta US$ 35 bi iniciais + US$ 60 bi",
-        "Mais chips Vera Rubin nos data centers da Meta",
-        "Jensen Huang: agentes são “novo paradigma”"
-      ],
-      "body": "A Meta anunciou na segunda-feira que levantará inicialmente US$ 35 bilhões em ofertas públicas de ações e mais US$ 60 bilhões em um programa de venda gradual. Na terça, a Nvidia informou que investirá US$ 3 bilhões, e a AMD, US$ 1 bilhão.\n\nSegundo a Nvidia, a Meta vai ampliar o uso dos processadores Vera Rubin e Vera, e as duas aprofundarão a parceria no Muse, agente de IA lançado pela Meta no mês passado. “Agentes de IA representam um novo paradigma de computação”, disse o CEO Jensen Huang.",
-      "category": "tecnologia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "published_at": "2026-10-27T10:19:36-04:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-07",
-      "title": "Waymo amplia robotáxis em quase 250 milhas quadradas em cinco cidades",
-      "summary": "A Waymo anunciou a ampliação de sua área de cobertura de robotáxis em cerca de 250 milhas quadradas em cinco cidades onde já opera sem motorista. Os novos mapas já estão no app.",
-      "highlights": [
-        "Expansão inclui Los Angeles, San Diego e Bay Area",
-        "Ligação com estação do BART em San Jose",
-        "Empresa não informou quantos carros vai adicionar"
-      ],
-      "body": "Segundo a Electrek, a expansão anunciada no blog da Waymo equivale a quase toda a área do robotáxi da Tesla em Houston. Em Los Angeles, o serviço desce pela costa até Manhattan Beach, Redondo Beach e Torrance; em San Diego, chega a La Jolla; na Bay Area, liga San Francisco a San Jose e Campbell, incluindo a estação Berryessa do BART.\n\nA empresa não detalhou a área por cidade nem quantos veículos vai acrescentar.",
-      "category": "tecnologia",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/27/waymo-expansion-250-square-miles-five-cities/",
-      "published_at": "2026-10-27T15:55:12-04:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/waymo-250-square-miles-five-cities-expansion.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-08",
-      "title": "Polícia da Coreia indicia 80 motoristas de Tesla por desbloqueio ilegal do FSD",
-      "summary": "A polícia de Seul indiciou 80 motoristas de Tesla por usar dispositivos ilegais para ativar o Full Self-Driving. É a maior ação até agora contra os “jailbreaks” do FSD.",
-      "highlights": [
-        "Dispositivos vieram da Europa e da China",
-        "Pena de até 2 anos de prisão",
-        "Polícia diz que riscos à segurança foram confirmados"
-      ],
-      "body": "Segundo a Agência de Polícia Metropolitana de Seul, os suspeitos importaram módulos de desbloqueio da Europa e da China ou fabricaram os próprios — um deles, profissional de TI, usou informações do GitHub. Eles também trocavam dicas para impedir que o carro registrasse a ativação.\n\nEles respondem pela Lei de Gestão de Veículos da Coreia, que proíbe alterações de software que afetem a segurança, com pena de até dois anos de prisão ou multa de até 20 milhões de wons (cerca de US$ 15 mil). A investigação continua.",
-      "category": "tecnologia",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
-      "published_at": "2026-10-27T11:43:32-04:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-09",
-      "title": "Musk diz que militares ucranianos violaram termos do Starlink; Kiev nega",
-      "summary": "Elon Musk afirmou que as Forças Armadas da Ucrânia violaram os termos de serviço do Starlink ao usá-lo em ataques ofensivos com drones. Autoridades ucranianas negam e dizem que isso nem é tecnicamente possível.",
-      "highlights": [
-        "Musk: “brecha foi fechada na semana passada”",
-        "Ucrânia acusa SpaceX de limitar o serviço",
-        "Kiev diz usar Starshield em missões ofensivas"
-      ],
-      "body": "“Os militares da Ucrânia violaram os termos de serviço do Starlink e o usaram para ataques ofensivos com drones para matar pessoas. Essa brecha foi fechada na semana passada”, escreveu Musk. A declaração vem quase duas semanas depois de autoridades ucranianas acusarem a SpaceX de impor limites que atrapalharam missões com drones.\n\nKiev diz usar o Starlink para comunicações, logística e defesa contra drones, e o Starshield, versão controlada pelos militares americanos, em missões ofensivas. Um assessor de Zelensky, Serhii Beskrestnov, contestou Musk, afirmando que os sistemas do Starlink só se conectam a aparelhos dentro de certos limites de velocidade.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-      "published_at": "2026-10-27T15:24:06-04:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-    },
-    {
-      "id": "manha-2026-10-28-tecnologia-10",
-      "title": "Apple ganha acesso ampliado a provas em processo contra OpenAI",
-      "summary": "O juiz Edward Davila adotou uma definição negociada de “informação originada na Apple”, ampliando o acesso da empresa a provas no processo por segredos comerciais contra a OpenAI. A Apple acusa dois ex-funcionários de usar dados confidenciais no hardware da OpenAI.",
-      "highlights": [
-        "Processo envolve OpenAI e io Products",
-        "Ex-funcionários Chang Liu e Tang Tan são réus",
-        "Apple pede liminar contra uso dos segredos"
-      ],
-      "body": "A Apple processou dois ex-funcionários, Chang Liu e Tang Tan, além da OpenAI e da io Products, acusando-os de acessar ou usar indevidamente informações confidenciais para acelerar o desenvolvimento de hardware de consumo da OpenAI.\n\nNo início do mês, o juiz concedeu parte do pedido de produção antecipada de provas, mas considerou ampla demais a definição de “Apple Originated Information”. As partes chegaram a uma definição mais restrita, que agora foi adotada pelo juiz com modificações, segundo o 9to5Mac.",
+      "body": "A Apple deve revelar nesta quarta-feira (28), às 10h no horário do Pacífico (13h em Nova York), o aguardado redesenho do MacBook Pro, com tela sensível ao toque, OLED e outras novidades, segundo o 9to5Mac. Antes do anúncio, o CEO John Ternus publicou um vídeo-teaser que mostra um holofote em forma de maçã iluminando uma parede retangular, lembrando um MacBook.\n\nO site especula que o teaser pode indicar a volta do logotipo iluminado da Apple, como em gerações antigas — assim como o vídeo de Ternus antes do iPhone 18 Pro havia antecipado a abertura variável da câmera.\n\nSerá o terceiro dia seguido de lançamentos: na segunda a Apple apresentou um novo iPad mini e, na terça, MacBook Pro e iMac com chip M6. Desta vez, porém, a empresa reuniu a imprensa em Los Angeles em vez de apenas divulgar comunicados.",
       "category": "tecnologia",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
-      "published_at": "2026-10-27T20:54:43-04:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-01.jpg?quality=82&strip=all&resize=1200,628"
+      "url": "https://9to5mac.com/2026/10/28/john-ternus-posts-teaser-video-ahead-of-macbook-pro-redesign-unveiling/",
+      "published_at": "2026-10-28T09:03:42-04:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-02",
+      "title": "Amazon lança porta-retrato com Alexa, novo Echo Show 16 e Echo Dot redesenhado",
+      "summary": "Em evento em Nova York, a Amazon apresentou a nova linha Echo, incluindo o Alexa Photo Frame, o despertador Echo Time e o Echo Show 16 com oito alto-falantes de graves. ",
+      "highlights": [
+        "Alexa Photo Frame: “o porta-retrato mais inteligente do mundo”",
+        "Echo Show 16 roda o Fire TV completo por toque",
+        "Echo Dot totalmente redesenhado"
+      ],
+      "body": "A Amazon apresentou sua nova linha de aparelhos Echo em um pequeno evento para jornalistas no distrito financeiro de Nova York, com atualizações da assistente Alexa Plus, baseada em IA e disponível para todos nos EUA desde fevereiro. O destaque deste ano são as telas: aparelhos com telas grandes — e outros sem nenhuma.\n\nEntre as novidades estão o Alexa Photo Frame, que o chefe de dispositivos Panos Panay chama de “o porta-retrato mais inteligente do mundo” e que também funciona como alto-falante com Alexa; o despertador inteligente Echo Time; o Echo Studio com câmera doméstica, sem tela; um Echo Dot totalmente redesenhado; e o novo carro-chefe Echo Show 16, com oito woofers e a experiência completa do Fire TV por toque.\n\nNeste ano, a Amazon trocou o grande evento de outono por lançamentos menores ao longo de outubro, que já incluíram novos Fire TV, Kindles, o Alexa Tablet Pro 12 e a primeira fechadura inteligente da Ring.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+      "published_at": "2026-10-28T08:20:40-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Show_16_JTuohy_0046.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-03",
+      "title": "Nvidia lança modelo aberto de transcrição de voz em 40 idiomas",
+      "summary": "A Nvidia lançou o Nemotron 3.5 Transcribe, modelo gratuito e de pesos abertos que transcreve áudio em até 40 idiomas e distingue até oito falantes. A empresa também lançou a versão 2 do conjunto de dados Granary.",
+      "highlights": [
+        "Transcreve até 40 idiomas e traduz 31 de/para o inglês",
+        "Grava até uma hora e separa até 8 falantes",
+        "30 bilhões de parâmetros, roda em um único chip"
+      ],
+      "body": "A Nvidia lançou nesta quarta-feira (28) o Nemotron 3.5 Transcribe, um modelo de IA gratuito e de pesos abertos que transcreve áudio em até 40 idiomas, além da versão 2 do Granary, seu conjunto de dados de fala de código aberto. Segundo a empresa, o modelo traduz 31 idiomas de e para o inglês, processa gravações de até uma hora e distingue até oito falantes, superando rivais em rankings como o Open ASR Leaderboard, do Hugging Face.\n\nAs ferramentas miram desenvolvedores de aplicativos para reuniões corporativas e transcrição médica, que podem ser ajustados ao jargão de cada setor. Uma limitação: o Transcribe funciona com áudio gravado, não com transmissões ao vivo.\n\nCom 30 bilhões de parâmetros, o modelo pode rodar em um único chip, do controlador robótico Jetson AGX Thor aos chips Blackwell de data center. O lançamento ocorre num período movimentado para a IA de voz, com novidades recentes de Mistral, ElevenLabs e Salesforce.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "published_at": "2026-10-28T11:00:00-04:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-04",
+      "title": "xAI oferece comprar casas de vizinhos que desistirem de processo contra data center",
+      "summary": "Uma subsidiária da xAI, de Elon Musk, está oferecendo comprar casas em Southaven, no Mississippi, desde que os moradores abram mão de ações contra seu data center e usina. Um corretor falou em 418 imóveis.",
+      "highlights": [
+        "Oferta exige renúncia a ações judiciais",
+        "Corretor fala em plano de comprar 418 casas",
+        "Inquilinos relatam aviso de 60 dias para sair"
+      ],
+      "body": "A MZX, subsidiária da xAI de Elon Musk, está oferecendo comprar casas num bairro de Southaven, no Mississippi, com a condição de que os moradores não participem de um processo contra o data center e a usina de energia da empresa nas proximidades, segundo reportagem do Guardian citada pelo The Verge. Um corretor que bateu de porta em porta teria dito a um morador que a xAI planeja comprar 418 casas e que 18 proprietários já pretendem vender.\n\nUma carta recebida por várias famílias, publicada pelo Mississippi Free Press, diz que a MZX nega as acusações, mas oferece comprar os imóveis em troca, entre outras coisas, da renúncia a todas as reivindicações relacionadas ao processo — inclusive a ação movida por moradores sobre a usina de Southaven.\n\nInquilinos da região relatam que já estão sendo forçados a sair, com aviso de 60 dias, depois que os proprietários aceitaram vender.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "published_at": "2026-10-28T10:44:00-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&strip=all&crop=0%2C10.738447150137%2C100%2C78.523105699726&w=1200"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-05",
+      "title": "Tesla confirma chegada ao Vietnã para enfrentar a VinFast",
+      "summary": "A Tesla começou a contratar no Vietnã, e um recrutador da empresa disse que ela está “oficialmente chegando” ao país. O desafio é grande: a local VinFast vende cerca de 36% dos carros novos vietnamitas.",
+      "highlights": [
+        "Cinco vagas abertas, incluindo projetos de recarga",
+        "Tesla Motors Vietnam registrada em setembro",
+        "VinFast tem ~36% do mercado local"
+      ],
+      "body": "A Tesla começou a contratar no Vietnã, e um de seus recrutadores, Ricky Ip, publicou no X que a empresa está “oficialmente chegando” ao país. As cinco vagas incluem gerente de vendas, gerente de serviços, parceiro de RH, gerente de compras e desenvolvedor de projetos de recarga — sinal, segundo o Electrek, de que a marca pretende instalar Superchargers.\n\nA empresa já havia registrado discretamente a Tesla Motors Vietnam LLC em Ho Chi Minh em 11 de setembro, com capital de cerca de 77,7 bilhões de dong (aproximadamente US$ 3 milhões) e atividades de importação e venda de carros. Na Tailândia e nas Filipinas, a Tesla abriu pedidos poucos meses após começar a contratar.\n\nO mercado é difícil: a montadora local VinFast, só de elétricos, vendeu cerca de 36% de todos os carros novos do Vietnã neste ano, mais que os cinco concorrentes seguintes somados. Ainda não há informações sobre preços, modelos ou lojas.",
+      "category": "tecnologia",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/28/tesla-vietnam-entry-vinfast/",
+      "published_at": "2026-10-28T10:28:21-04:00",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Vietnam.jpeg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-06",
+      "title": "Tesla Semi pega fogo sem colisão e fecha rodovia na Califórnia por 10 horas",
+      "summary": "Um caminhão elétrico Tesla Semi pegou fogo na Interstate 880, em Hayward, na terça à noite, sem ter batido. A bateria queimou por tanto tempo que a pista sul ficou fechada por cerca de 10 horas.",
+      "highlights": [
+        "Motorista saiu ileso; nenhum outro veículo envolvido",
+        "Pistas reabertas por volta das 3h30 de quarta",
+        "É o segundo incêndio de Semi a fechar rodovia na Califórnia"
+      ],
+      "body": "Um Tesla Semi pegou fogo na Interstate 880, em Hayward, na Califórnia, por volta das 17h35 (horário do Pacífico) de terça-feira (27), sem ter se envolvido em acidente. A polícia rodoviária (CHP) fechou a via nos dois sentidos por risco de fumaça química perigosa; o motorista saiu ileso e disse não saber o que causou o fogo.\n\nO sentido norte foi liberado ainda na terça, mas o sul ficou fechado por cerca de 10 horas, até as 3h30 de quarta. A CHP chegou a alertar que a bateria poderia queimar por 15 a 18 horas. A causa está sendo investigada, e a Tesla, que não tem assessoria de imprensa, não comentou.\n\nÉ o segundo incêndio de um Tesla Semi a fechar uma rodovia interestadual na Califórnia: em agosto de 2024, um caminhão operado pela própria Tesla pegou fogo na I-80, perto de Emigrant Gap.",
+      "category": "tecnologia",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+      "published_at": "2026-10-28T08:34:10-04:00",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-07",
+      "title": "Google passa a vender seus chips de IA por meio de parceiros como a Oracle",
+      "summary": "Pela primeira vez, clientes poderão acessar as TPUs, chips de IA do Google, fora da infraestrutura da empresa, por meio da Oracle. A mudança amplia a disputa com a Nvidia no mercado de chips.",
+      "highlights": [
+        "Oracle vai oferecer as TPUs do Google",
+        "Receita do Google Cloud deve subir ~90%",
+        "Alphabet divulga resultados nesta quarta"
+      ],
+      "body": "O Google mudou sua estratégia de nuvem e está levando seus chips de inteligência artificial para fora de casa para alcançar mais clientes. Na véspera de divulgar os resultados do terceiro trimestre, a Alphabet anunciou que a Oracle vai oferecer as TPUs (unidades de processamento tensorial), chips que o Google desenvolve desde 2013 — a primeira vez que clientes poderão acessá-los fora da infraestrutura do Google.\n\nO movimento, liderado pelo chefe de nuvem Thomas Kurian, ex-executivo da Oracle por mais de 20 anos, busca construir um negócio maior num mercado dominado pela Nvidia. “É muito possível que eles acabem tomando participação de mercado da Nvidia”, disse Chris Ballard, da Check Capital Management.\n\nAnalistas esperam que a receita do Google Cloud salte cerca de 90% em relação ao ano anterior, após alta de 82% no segundo trimestre, com as TPUs contribuindo para o crescimento.",
+      "category": "tecnologia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "published_at": "2026-10-28T07:00:01-04:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107057013-1651802316939-gettyimages-1135937160-GOOGLE_CLOUD_CONFERENCE.jpeg?v=1651802401&w=1920&h=1080"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-08",
+      "title": "Meta lança Waddle World, app de bichinho virtual com IA",
+      "summary": "A Meta lançou nas Filipinas o Waddle World, um app no estilo Tamagotchi com inteligência artificial. O usuário cria um bichinho virtual, que também funciona como diário e “aprende” sobre a pessoa.",
+      "highlights": [
+        "Lançado nas Filipinas para iOS e Android",
+        "Meta diz que “não é um chatbot”",
+        "Recomendado para maiores de 18 anos"
+      ],
+      "body": "Seguindo seus experimentos rápidos com apps de IA, a Meta lançou o Waddle World, que funciona basicamente como um Tamagotchi com inteligência artificial. O app, disponível nas Filipinas para iOS e Android, permite escolher, criar, alimentar e brincar com um bichinho virtual. Segundo o TechCrunch, pode ser um teste ou um prenúncio de um aparelho no estilo Tamagotchi que a empresa desenvolveria.\n\n“Não é um chatbot. Não é um assistente. Não é uma ferramenta de produtividade. É um bichinho, e um lugar”, diz a descrição. A Meta afirma que não quer que o app vire hábito — não há sequências diárias nem pontuação — e o indica para maiores de 18 anos.\n\nO app também funciona como diário: o usuário conta sobre o dia por voz ou texto, e o bichinho escreve uma anotação com desenho na própria voz. Há minijogos e um e-mail semanal com base no que o app aprendeu sobre o usuário.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "published_at": "2026-10-28T09:53:31-04:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-09",
+      "title": "Apple aumenta de novo o preço do MacBook Neo para estudantes",
+      "summary": "O MacBook Neo agora custa a partir de US$ 649 na loja educacional da Apple, US$ 150 a mais que o preço inicial para estudantes. A alta é atribuída sobretudo à escassez de memória RAM e componentes.",
+      "highlights": [
+        "Preço educacional: de US$ 499 para US$ 649",
+        "Desconto para estudantes caiu para US$ 50",
+        "Rumores de novo MacBook Neo com mais RAM em 2027"
+      ],
+      "body": "O MacBook Neo, notebook mais barato da Apple, agora parte de US$ 649 na Education Store, loja voltada a estudantes — US$ 150 a mais que o preço educacional inicial de US$ 499. Segundo o MacRumors, o desconto recebeu um aumento de US$ 50 nos últimos dias, depois de outro de US$ 100 em junho.\n\nCom isso, estudantes têm só US$ 50 de desconto sobre o preço normal de US$ 699, em vez dos habituais US$ 100. A configuração de entrada tem 256 GB de armazenamento, 8 GB de RAM e não inclui Touch ID.\n\nO preço baixo era o maior atrativo do Neo no lançamento, em março, mas vem sendo corroído principalmente pela falta de memória RAM e outros componentes. Há rumores de um novo MacBook Neo, possivelmente com mais RAM, no início do próximo ano.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
+      "published_at": "2026-10-28T10:47:28-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": "meio-dia-2026-10-28-tecnologia-10",
+      "title": "Kodiak fecha primeiro contrato comercial de caminhões autônomos para rodovias",
+      "summary": "A Kodiak AI vai entregar 75 caminhões autônomos à transportadora DTL Transport a partir de 2028. É o primeiro contrato vinculante da empresa para caminhões sem motorista em rodovias públicas.",
+      "highlights": [
+        "75 caminhões autônomos para a DTL a partir de 2028",
+        "Rotas Dallas–El Paso e Dallas–Atlanta",
+        "Serviço sem motorista com a Ikea começa em dezembro"
+      ],
+      "body": "A Kodiak AI vai fornecer 75 caminhões autônomos à transportadora DTL Transport a partir de 2028, anunciou a empresa nesta quarta-feira (28). É o primeiro contrato comercial vinculante da Kodiak para caminhões sem motorista que vão rodar em rodovias públicas.\n\nA DTL, transportadora da Califórnia que leva hortifrútis e mercadorias a redes de supermercado, vai usar os veículos em rotas interestaduais, começando por Dallas–El Paso, no Texas, e pela Interstate 20 entre Dallas e Atlanta, onde a Kodiak já fez testes.\n\nO acordo chega pouco antes de outro marco: em dezembro, a empresa planeja retirar os operadores de segurança da cabine e iniciar um serviço sem motorista transportando cargas da Ikea na I-45, entre Dallas e Houston. As ações da Kodiak, que abriu capital em setembro de 2025, caíram 87% desde a estreia.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+      "published_at": "2026-10-28T09:00:00-04:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Kodiak_DTL.jpg?resize=1200,675"
     }
   ]
 }
