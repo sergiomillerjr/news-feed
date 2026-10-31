@@ -1,328 +1,280 @@
 {
   "version": 2,
-  "generated_at": "2026-10-31T11:08:01-04:00",
-  "edition": "meio-dia",
+  "generated_at": "2026-10-31T15:10:57-04:00",
+  "edition": "tarde",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "meio-dia-2026-10-31-eua-01",
-      "title": "Briga entre democratas agita disputa ao Senado em Michigan",
-      "summary": "O candidato democrata ao Senado por Michigan, Abdul El-Sayed, pediu que sua ex-rival nas primárias, a deputada Haley Stevens, não compareça aos últimos eventos de campanha antes da eleição de terça-feira. O racha público acontece em uma das disputas mais acirradas do país.",
+      "id": "tarde-2026-10-31-eua-01",
+      "title": "Virgínia e Washington processam governo para barrar arco de Trump",
+      "summary": "O Distrito de Columbia e o estado da Virgínia entraram neste sábado com uma ação na Justiça federal contra o arco monumental planejado pelo presidente Donald Trump. Já são três processos tentando impedir a obra, que o governo diz poder começar já na próxima semana.",
       "highlights": [
-        "Pedido foi feito antes de um evento conjunto previsto para domingo",
-        "Stevens cobrou desculpas de El-Sayed por declarações sobre Israel",
-        "Republicano Mike Rogers tenta atrair eleitores democratas moderados"
+        "Arco teria 76 metros, mais alto que a Estátua da Liberdade",
+        "Procuradores alegam caos no trânsito e poluição no rio Potomac",
+        "Juíza Tanya Chutkan já analisa pedido para suspender o projeto"
       ],
-      "body": "O democrata Abdul El-Sayed, candidato ao Senado por Michigan, pediu à deputada Haley Stevens — sua adversária nas primárias do partido — que fique longe de todos os eventos de campanha restantes antes da eleição de terça-feira, segundo duas fontes ouvidas pela CBS News. Os dois entraram em atrito na sexta-feira, antes de um evento marcado para domingo em que apareceriam juntos.\n\nStevens exigiu que El-Sayed, crítico ferrenho da ajuda americana a Israel, se desculpasse por ter dito durante a campanha que \"Israel é a razão pela qual Michigan não consegue pagar escolas, saúde e creches\". Ela também pediu que ele condenasse um anúncio de um comitê externo, o Rebellion PAC, que considerou antissemita. A campanha de El-Sayed afirmou não ter qualquer ligação com o anúncio.\n\nEm nota, El-Sayed disse que Stevens \"parece determinada a reabrir uma primária que terminou há três meses\". A disputa interna ocorre enquanto o republicano Mike Rogers tenta conquistar eleitores democratas de centro em uma das corridas mais disputadas pelo controle do Senado.",
+      "body": "Os desafios judiciais ao arco memorial proposto pelo presidente Trump estão se acumulando. O Distrito de Columbia e a Virgínia processaram o governo federal neste sábado, enquanto a administração afirma que a construção pode começar já na próxima semana. O monumento teria cerca de 76 metros (250 pés) de altura, em um gramado junto à ponte sobre o rio Potomac que liga a capital ao Cemitério Nacional de Arlington — 30 metros a mais que a Estátua da Liberdade.\n\nOs procuradores-gerais Brian Schwalb, de Washington, e Jay Jones, da Virgínia, argumentam que, assim que as obras começarem, haverá “dano irreparável” às duas jurisdições: durante os três anos de construção, o projeto travaria o trânsito numa artéria importante, geraria poluição e escoamento de água no Potomac e atrapalharia serviços de emergência. Eles pedem uma ordem de restrição temporária. A juíza federal Tanya Chutkan já analisa um pedido semelhante, feito por três veteranos da Guerra do Vietnã e um historiador de arquitetura, e prometeu agir com rapidez.\n\nA Casa Branca defendeu o projeto, chamando Trump de “Construtor-Chefe”. O governo pretende buscar a aprovação final na reunião de quinta-feira da Comissão Nacional de Planejamento da Capital e, possivelmente, iniciar as obras no mesmo dia. O plano de 106 páginas apresentado na sexta prevê uma estrutura de mais de 12 andares, com uma estátua de bronze de uma Liberdade alada segurando uma tocha com chama eterna, além de mirante e escritórios internos.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/abdul-el-sayed-haley-stevens-feud-michigan-senate/",
-      "published_at": "2026-10-30T20:17:00-04:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/04/1d9befa1-8616-4220-90f0-ba7370f33b5f/thumbnail/1200x630g2/3fa0e6eb952c96010caba5af5cf42c54/el-sayed-stevens.jpg"
+      "url": "https://www.cbsnews.com/news/trump-arch-lawsuits-virginia-dc-politics/",
+      "published_at": "2026-10-31T13:42:22-04:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/10/a27c059a-1639-4627-806f-99b856f5e9d1/thumbnail/1200x630/7944a0486c6287aab05638561b6e5ae6/screenshot-2026-04-10-at-2-22-13-pm.png"
     },
     {
-      "id": "meio-dia-2026-10-31-eua-02",
-      "title": "Justiça dos EUA quer separar cédulas no Alasca e confirma investigação criminal",
-      "summary": "O Departamento de Justiça pediu a um tribunal que isole cédulas no Alasca que ranqueiem o candidato Dan J. Sullivan, homônimo do senador republicano, para investigar possível confusão de eleitores. Autoridades federais também confirmaram uma investigação criminal sobre a candidatura.",
+      "id": "tarde-2026-10-31-eua-02",
+      "title": "Tiroteio em loja Spirit Halloween na Califórnia deixa 1 morto e 6 feridos",
+      "summary": "Um tiroteio dentro de uma loja de fantasias Spirit Halloween em Fairfield, na Califórnia, matou uma pessoa e feriu outras seis na noite de sexta-feira, véspera do Halloween. A polícia acredita que o ataque foi direcionado e envolveu um único suspeito.",
       "highlights": [
-        "Disputa é entre o senador Dan Sullivan e a democrata Mary Peltola",
-        "Reportagem do NYT apontou envolvimento da campanha de Peltola no recrutamento",
-        "Governo também quer bloquear a certificação se o senador perder"
+        "Ataque ocorreu no shopping Solano Town Center, em Fairfield",
+        "Pelo menos três feridos estão em estado crítico",
+        "Polícia ainda busca identificar o atirador"
       ],
-      "body": "O Departamento de Justiça dos EUA pediu na sexta-feira uma ordem judicial para isolar determinadas cédulas no Alasca, enquanto autoridades federais confirmaram a existência de uma investigação criminal envolvendo um candidato ao Senado que tem o mesmo nome do senador republicano Dan Sullivan. A eleição, no sistema de voto ranqueado, acontece na terça-feira e opõe Sullivan à ex-deputada democrata Mary Peltola, em uma das disputas que devem definir o controle do Senado.\n\nO procurador federal no Alasca, Michael Heyman, disse que a investigação ocorre há meses, mas que reportagens recentes do New York Times — segundo as quais a campanha de Peltola teria se envolvido no recrutamento do professor aposentado Dan J. Sullivan — levaram a um \"aumento significativo de agentes\" no estado. Um empresário de Petersburg, cidade natal do candidato, contou à AP que foi visitado por um agente do FBI que queria saber se ele havia sido enganado; ele disse que não.\n\nNo processo civil aberto na semana passada, o governo quer que todas as cédulas que ranqueiem Daniel J. Sullivan sejam preservadas e separadas, e apresentou perguntas que pretende obrigar a campanha de Peltola e o comitê de campanha democrata do Senado a responder. A ação busca bloquear a certificação do resultado caso o senador perca; o presidente Donald Trump disse ter mandado o departamento entrar com o caso.",
+      "body": "Uma loja da rede Spirit Halloween no shopping Solano Town Center, em Fairfield, na Califórnia, foi palco de um tiroteio na noite de sexta-feira que deixou uma pessoa morta e seis feridas. Todas as sete vítimas foram atingidas por disparos; os feridos foram levados a hospitais, e pelo menos três estavam em estado crítico.\n\nSegundo a polícia de Fairfield, informações preliminares indicam que o ataque foi direcionado e envolveu um único suspeito dentro da loja. Os detetives seguem ouvindo testemunhas para identificar o responsável e ainda não divulgaram a identidade da vítima fatal. “Esta ainda é uma cena de crime muito ativa”, disse a corporação. Fairfield fica a cerca de 60 km a nordeste de Sacramento.\n\nNo mesmo dia, a polícia de Michigan relatou outro tiroteio em uma loja Spirit Halloween, em Madison Heights, envolvendo dois homens de 21 anos. A vítima morreu, e o suposto atirador está hospitalizado.",
       "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/spirit-halloween-store-shooting-fairfield-california/",
+      "published_at": "2026-10-31T10:18:00-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/25/6cdbd361-3101-46a0-aff9-df00272fb6e9/thumbnail/1200x630/03eba56ba61de9b28a281ffd57eaff1c/gettyimages-2247565902.jpg"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-03",
+      "title": "Mais de 50 milhões de americanos já votaram antecipadamente",
+      "summary": "A votação antecipada para as eleições de meio de mandato bateu recorde: mais de 50,5 milhões de votos foram depositados até a manhã de sábado, quase 5 milhões a mais que o total antecipado de 2022. Os números sugerem forte mobilização, sobretudo de democratas registrados.",
+      "highlights": [
+        "10,7 milhões de democratas registrados votaram, contra 7,8 milhões de republicanos",
+        "No Texas, mais de 7 milhões já foram às urnas",
+        "Votação antecipada subiu 83% na Carolina do Sul e 34% no Kansas"
+      ],
+      "body": "Faltando três dias para a eleição de terça-feira, mais de 50,5 milhões de votos antecipados haviam sido registrados nos EUA até a manhã de sábado, segundo análise da Universidade da Flórida — quase 5 milhões a mais que todo o voto antecipado das eleições de meio de mandato de 2022. O entusiasmo parece maior entre os democratas: 10,7 milhões de eleitores registrados no partido já votaram nos estados que divulgam esse dado, contra 7,8 milhões de republicanos. A filiação, porém, não indica em quem a pessoa votou.\n\nOs republicanos defendem maioria de 53 a 47 no Senado num mapa de disputas que se ampliou, com democratas mirando estados tradicionalmente conservadores como Texas, Alasca e até Kansas. No Texas, onde Ken Paxton enfrenta James Talarico pelo Senado, mais de 7 milhões já votaram — 1,5 milhão a mais que em 2022. No condado de Harris, que inclui Houston, a participação antecipada saltou de 564,5 mil para 862,7 mil no mesmo ponto da campanha.\n\nEm outras disputas apertadas, a votação antecipada cresceu 83% na Carolina do Sul, 34% no Kansas, 44% no Maine e 32% em Michigan. O pleito definirá a composição da Câmara e do Senado nos dois últimos anos do segundo mandato de Trump, em meio à alta do custo de vida, à guerra com o Irã e a preocupações com corrupção.",
+      "category": "eua",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "published_at": "2026-10-31T12:13:17-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/5be30a14eb0d454a08ebdb9b506b0bd380833fdb/2_0_6348_5081/master/6348.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56651adc3c20e44ad4d15e474f85fcfa"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-04",
+      "title": "Lista do governo de supostos eleitores estrangeiros na Califórnia tem erros graves",
+      "summary": "Mais de 40% dos nomes apontados pelo Departamento de Justiça como possíveis eleitores não cidadãos na Califórnia nem constam do cadastro eleitoral do estado, segundo análise de pesquisadores da UCLA. O estudo também encontrou cidadãos americanos na lista.",
+      "highlights": [
+        "8.880 dos 20.930 nomes não correspondem a nenhum eleitor registrado",
+        "Pelo menos 22 pessoas da lista são cidadãs americanas",
+        "Vários juízes já rejeitaram a exigência de separar essas cédulas"
+      ],
+      "body": "Mais de quatro em cada dez nomes apontados pelo governo Trump como possíveis eleitores não cidadãos na Califórnia não aparecem sequer no cadastro eleitoral do estado, segundo um documento apresentado à Justiça neste sábado por um grupo de defesa de imigrantes. É a primeira análise independente da lista que o Departamento de Justiça tem usado para ameaçar processar autoridades eleitorais.\n\nDois cientistas de dados do Projeto de Direitos de Voto da UCLA analisaram os 20.930 nomes cujas cédulas o departamento exigiu que fossem separadas na apuração do dia da eleição. Eles concluíram que 8.880 nomes — 42% da lista — não correspondem a ninguém no cadastro atual, e que pelo menos 22 são de cidadãos americanos, com possivelmente muitos outros. O documento foi coassinado por Xavier Becerra, candidato democrata ao governo da Califórnia.\n\nVários juízes já rejeitaram a exigência do governo como inconstitucional e uma ameaça à democracia, e autoridades locais afirmam que a lista está cheia de erros. A administração Trump havia se oposto a compartilhar a relação, chamando o pedido de “pescaria” e alegando que ela continha informações sensíveis.",
+      "category": "eua",
+      "source": "Local 10 / AP",
+      "url": "https://www.local10.com/news/politics/2026/10/31/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter-rolls-analysis/",
+      "published_at": "2026-10-31T14:46:50-04:00",
+      "image_url": "https://www.local10.com/resizer/v2/NZ654DWYPUD4XALNCY7KGMAQJI.jpg?auth=942b1b04ba982f72288d0a2b32e030d0a71bbba72a95d1449f8d977b29ba81ca&width=700"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-05",
+      "title": "Kamala Harris pede comparecimento “grande demais para ser fraudado”",
+      "summary": "Na reta final da campanha, a ex-vice-presidente Kamala Harris percorreu sete estados atacando Donald Trump e pedindo aos democratas que transformem a raiva em votos. Ela também defendeu mudanças estruturais, como a ampliação da Suprema Corte.",
+      "highlights": [
+        "Harris chamou Trump de “decorador-chefe” por reformas na Casa Branca",
+        "Defendeu ampliar a Suprema Corte e dar status de estado a D.C. e Porto Rico",
+        "Ela ainda avalia se vai concorrer de novo à Presidência"
+      ],
+      "body": "Dois anos depois de perder a eleição presidencial para Donald Trump, Kamala Harris continua animando doadores e militantes democratas com críticas ao presidente, a quem chamou de “insensível, corrupto e incompetente” e de “decorador-chefe” pelas reformas e adornos dourados na Casa Branca. “Este é o momento de transformar essa raiva em ação”, repetiu ela durante a maratona de campanha em sete estados, encerrada com dois dias na Geórgia.\n\nHarris passou por estados que tradicionalmente abrem as primárias presidenciais, como Nevada, New Hampshire e Michigan, e também pelo Mississippi, em apoio ao candidato ao Senado Scott Colom. “O Sul está em jogo”, disse. Ela pediu que os democratas governem de forma agressiva e defendeu “trabalho estrutural” para revigorar a democracia: ampliação da Suprema Corte, status de estado para Washington e Porto Rico e revisão do Colégio Eleitoral.\n\nNa Geórgia, Harris acusou a Suprema Corte de “racismo pela porta dos fundos” por enfraquecer a Lei de Direitos de Voto. Alertando que Trump pode tentar interferir na eleição de terça-feira, ela usou um bordão do próprio presidente para incentivar o voto: é preciso comparecer em números “grandes demais para serem fraudados”.",
+      "category": "eua",
+      "source": "Local 10 / AP",
+      "url": "https://www.local10.com/news/politics/2026/10/31/kamala-harris-urges-a-too-big-to-rig-turnout-for-the-midterms-and-tees-off-on-trump/",
+      "published_at": "2026-10-31T11:14:18-04:00",
+      "image_url": "https://www.local10.com/resizer/v2/HHEJ36NSFSB4WOE2A2BPPDQUJU.jpg?auth=dfc7c93dd07b54576ddd09572c8a6cdcbca347c8e76387fd3542bc8740a3ec6d&width=700"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-06",
+      "title": "Juíza vai investigar se governo mentiu sobre campo de golfe em Washington",
+      "summary": "Uma juíza federal anunciou uma investigação formal para apurar se advogados do governo enganaram o tribunal no caso do East Potomac Golf Course, campo público de Washington que Trump quer fechar e reformar. Ela pretende nomear um perito especial para conduzir a apuração.",
+      "highlights": [
+        "Juíza Ana Reyes apura possíveis violações éticas de advogados do governo",
+        "Governo cortou mais de 400 árvores após aviso dado na véspera de feriado",
+        "Trump anunciou fechamento do campo para 15 de novembro, contrariando o que foi dito no tribunal"
+      ],
+      "body": "A juíza federal Ana Reyes, de Washington, afirmou na sexta-feira que o tribunal abrirá uma “investigação formal” para apurar se funcionários e advogados de órgãos federais, inclusive do Departamento de Justiça, fizeram declarações falsas ou violaram regras éticas no caso do East Potomac Golf Course. O campo público histórico, às margens do Potomac, é alvo de um plano de Trump para transformá-lo em um campo de padrão de campeonato.\n\nO processo foi aberto em fevereiro pela DC Preservation League. Durante a ação, o governo se comprometeu a avisar a entidade antes de qualquer alteração permanente no campo. O aviso veio às 16h55 da sexta-feira anterior ao feriado prolongado do Dia de Colombo, e na manhã seguinte mais de 400 árvores foram cortadas. Além disso, o procurador-geral associado Stanley Woodward disse ao tribunal em 19 de outubro que “não há plano” de fechar o campo em 15 de novembro — mas, uma semana depois, Trump publicou que o fechamento ocorreria exatamente nessa data.\n\nNa terça-feira, Reyes já havia emitido uma decisão de 70 páginas concluindo que o governo provavelmente violou leis ambientais. “Raramente, ou nunca, o Departamento de Justiça pediu a um tribunal federal que não acreditasse no presidente em exercício”, escreveu. Ela determinou que o governo avise o tribunal com 10 dias úteis de antecedência antes de qualquer modificação irreversível.",
+      "category": "eua",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/judge-court-investigate-government-officials-dc-golf-case/story?id=137723824",
+      "published_at": "2026-10-31T13:27:31-04:00",
+      "image_url": "https://i.abcnewsfe.com/a/2a2f443d-65c4-4f44-9bc1-2a7094858280/east-potomac-watch-20261030-ap-jh_1793405130651_hpMain_16x9.jpg?w=1600"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-07",
+      "title": "Horário de verão termina nesta madrugada: relógios atrasam uma hora",
+      "summary": "O horário de verão de 2026 acaba às 2h da madrugada de domingo, quando a maior parte dos EUA atrasa os relógios em uma hora. Um projeto para tornar o horário de verão permanente está parado no Senado e pode expirar em janeiro.",
+      "highlights": [
+        "Relógios voltam uma hora às 2h de domingo, 1º de novembro",
+        "Sunshine Protection Act passou na Câmara em julho, mas travou no Senado",
+        "Trump apoia o projeto e criticou o senador Tom Cotton por bloqueá-lo"
+      ],
+      "body": "Milhões de americanos ganharão uma hora de sono neste fim de semana: o horário de verão termina às 2h da madrugada de domingo, quando a maior parte do país “volta” os relógios em uma hora. Como o fim do horário coincide com a noite de Halloween, quem estiver festejando terá uma hora extra.\n\nO horário de verão vai de março ao início de novembro e “transfere” uma hora de luz da manhã para o fim do dia. Os EUA o adotaram pela primeira vez em 1918, durante a Primeira Guerra Mundial, para economizar combustível; experiências com horário de verão o ano inteiro, na Segunda Guerra e na crise do petróleo dos anos 1970, não duraram.\n\nNeste ano, o Sunshine Protection Act, que tornaria o horário de verão permanente e permitiria que estados optassem por sair dele, foi aprovado pela Câmara em julho e seguiu para o Senado. Trump, que apoia a proposta, acusou o senador republicano Tom Cotton de travá-la e chegou a divulgar o que disse ser o celular do parlamentar. Cotton lembrou que o país já tentou a mudança antes e desistiu por causa dos “nasceres do sol absurdamente tardios” no inverno. Se o Senado não agir até o início de janeiro, o projeto expira e o processo terá de recomeçar.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/",
+      "published_at": "2026-10-31T15:00:23-04:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/5f221908-b562-40c0-aaf6-8da1f60c74ee/thumbnail/1200x630g2/9f68a62c127257ddd4b96b20d39da100/grand-central-clock-2290036403.jpg"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-08",
+      "title": "Operação na Flórida prende 281, incluindo 17 funcionários da Disney e da Universal",
+      "summary": "Uma operação contra tráfico humano e predadores sexuais de crianças no condado de Polk, na Flórida, terminou com 281 presos, entre eles 13 funcionários da Disney World e 4 da Universal Studios. Segundo o xerife, 31 suspeitos viajaram ao condado para tentar fazer sexo com uma criança.",
+      "highlights": [
+        "Operação conjunta durou sete dias no condado de Polk",
+        "Entre os presos estão um técnico de time infantil e um militar da Marinha",
+        "Disney colaborou com a polícia e demitiu os funcionários"
+      ],
+      "body": "O Gabinete do Xerife do Condado de Polk anunciou na sexta-feira a prisão de 281 suspeitos em uma operação de sete dias voltada a predadores que tentam encontrar crianças para atividade sexual e ao tráfico humano. Entre eles estão 17 funcionários de parques temáticos: 13 da Disney World e 4 da Universal Studios, segundo o xerife Grady Judd.\n\nDe acordo com Judd, 31 suspeitos viajaram até o condado para tentar fazer sexo com uma criança, 24 levaram armas de fogo aos encontros e nove estavam em liberdade condicional. Outros 32 eram imigrantes sem documentos, e 16 deles já foram entregues ao ICE. Entre os presos estão o técnico principal do time infantil Davenport Titans, que treina crianças de 11 a 14 anos, um militar da ativa da Marinha e um ex-funcionário da Disney que trabalhava como personagem Mickey Mouse.\n\n“É extremamente perturbador encontrar predadores como esses, tão ansiosos para fazer sexo com crianças. É por isso que realizamos esse tipo de operação disfarçada”, disse Judd. Segundo o xerife, a Disney colaborou com as autoridades e informou ter demitido todos os funcionários envolvidos.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/disney-universal-employees-sex-trafficking-sting/",
+      "published_at": "2026-10-31T11:45:00-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/09/320a961c-2543-4592-8e38-f421250b9302/thumbnail/1200x630/98fb4b1370d018f457ddcaef8db6fb13/gettyimages-1046030828.jpg"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-09",
+      "title": "Anúncios sobre caso Epstein inundam a TV na reta final da eleição",
+      "summary": "Candidatos democratas e grupos aliados estão gastando dezenas de milhões de dólares em anúncios que acusam republicanos de “proteger” Jeffrey Epstein por terem votado contra a divulgação dos arquivos do caso. Republicanos rebatem que quase todos votaram a favor da lei de transparência.",
+      "highlights": [
+        "Gastos com anúncios sobre Epstein passam de US$ 35 milhões, segundo a CNN",
+        "Alvos incluem Jeff Crank, Ashley Hinson, Mike Collins e Jimmy Patronis",
+        "Peças omitem que quase todos os republicanos votaram pela lei final"
+      ],
+      "body": "Em disputas por todo o país, candidatos democratas e grupos que os apoiam lançaram anúncios acusando republicanos de proteger pedófilos por terem votado contra a divulgação dos arquivos de Jeffrey Epstein. Uma análise da CNN calcula mais de US$ 35 milhões gastos nessas peças; o Washington Post estimou mais de US$ 40 milhões só em seis disputas-chave ao Senado.\n\nNo Colorado, familiares de Virginia Giuffre, sobrevivente dos abusos de Epstein, acusam o republicano Jeff Crank de ter “encoberto” os crimes para proteger Trump. Em Iowa, a candidata ao Senado Ashley Hinson respondeu em anúncio: “Tive de explicar aos meus filhos: não, a mamãe não protege pedófilos”. Mike Collins, na Geórgia, e Jimmy Patronis, na Flórida, também são alvos.\n\nMuitos anúncios omitem que quase todos os deputados republicanos votaram a favor da Lei de Transparência dos Arquivos Epstein quando ela chegou ao plenário — depois que Trump, sob pressão de aliados, passou a apoiá-la. As peças se referem às tentativas anteriores de forçar a votação por meio de uma petição, às quais a maioria republicana se opôs, alinhada ao presidente.",
+      "category": "eua",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate",
+      "published_at": "2026-10-31T11:00:45-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/0bd9a7c72e36f34bac2827b73743f2b6a7646857/346_0_2496_1997/master/2496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea092c366586088d1307578078aa51dc"
+    },
+    {
+      "id": "tarde-2026-10-31-eua-10",
+      "title": "Decisão a favor de Maurene Comey pode frear demissões políticas, dizem juristas",
+      "summary": "Um juiz federal decidiu que a demissão sem justa causa da promotora Maurene Comey, filha do ex-diretor do FBI James Comey, foi ilegal. Especialistas veem na sentença um precedente importante contra demissões politizadas no governo Trump.",
+      "highlights": [
+        "Juiz Jesse Furman rejeitou tese de poder ilimitado para demitir promotores",
+        "Comey atuou nos casos de Ghislaine Maxwell e Sean “Diddy” Combs",
+        "Governo deve recorrer, e o caso pode chegar à Suprema Corte"
+      ],
+      "body": "O juiz federal Jesse Furman decidiu nesta semana que a demissão da promotora federal Maurene Comey, sem justa causa, pelo Departamento de Justiça foi ilegal. Comey, filha do ex-diretor do FBI James Comey — alvo frequente de Donald Trump —, conduziu casos de grande repercussão no Distrito Sul de Nova York, incluindo as condenações de Ghislaine Maxwell e Sean “Diddy” Combs.\n\nO departamento argumentava que o artigo II da Constituição daria ao presidente e ao procurador-geral o direito de demitir promotores de carreira, que não são cargos políticos. Furman rejeitou a tese, afirmando que ela “contraria quase dois séculos de precedentes da Suprema Corte” e que a demissão violou a Lei de Reforma do Serviço Civil.\n\nPara juristas ouvidos pelo Guardian, a decisão é motivo de otimismo cauteloso: pode enviar uma mensagem forte e influenciar outros juízes em casos semelhantes. O governo deve recorrer ao Tribunal de Apelações do Segundo Circuito e, depois, possivelmente à Suprema Corte, que decidirá se aceita ou não julgar o caso.",
+      "category": "eua",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications",
+      "published_at": "2026-10-31T11:00:45-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/15ab0326398b6e47250a497bef9f4ae884fde8d1/432_0_4524_3620/master/4524.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e60be8219dcffacfc8481673fd29abe"
+    },
+    {
+      "id": "tarde-2026-10-31-mundo-01",
+      "title": "Ebola já matou mais de 5 mil pessoas na RD Congo, o pior surto da história do país",
+      "summary": "O surto de ebola na República Democrática do Congo ultrapassou 5 mil mortes e 10,3 mil casos confirmados, segundo dados do governo. A taxa de letalidade é de 48,6%, e não há vacina nem tratamento para a cepa Bundibugyo, responsável pela epidemia.",
+      "highlights": [
+        "Oito das 26 províncias congolesas estão afetadas",
+        "Casos também foram confirmados no Quênia, na Nigéria e em Uganda",
+        "Profissionais de saúde vêm sendo atacados durante a resposta"
+      ],
+      "body": "Mais de 5 mil pessoas morreram no surto de ebola em curso na República Democrática do Congo, segundo dados do governo. Oito das 26 províncias estão afetadas, com mais de 10,3 mil casos confirmados. A epidemia, iniciada em maio, tornou-se em agosto a mais mortal da história do país e tem taxa de letalidade de 48,6%. O epicentro continua na província de Ituri, no nordeste, uma zona de conflito, o que dificulta a contenção.\n\nÉ o 17º surto da história da RD Congo e o segundo maior já registrado no mundo, atrás apenas da epidemia da África Ocidental de 2014 a 2016, que matou mais de 11 mil pessoas. A cepa Bundibugyo, responsável pelo surto atual, ainda não tem tratamento nem vacina aprovados, embora testes clínicos estejam em andamento. A ONU alerta que o vírus está “tirando vidas em ritmo muito mais rápido”.\n\nCasos foram confirmados também no Quênia (nove casos e duas mortes), em Uganda e na Nigéria, que identificou dois casos suspeitos neste sábado. A resposta tem sido marcada por violência: nesta semana, uma enfermeira foi morta em um ataque, e no mês passado um político foi espancado até a morte após promover medidas contra o vírus. O risco para a Europa é considerado “muito baixo”.",
+      "category": "mundo",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
+      "published_at": "2026-10-31T10:48:49-04:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
+    },
+    {
+      "id": "tarde-2026-10-31-mundo-02",
+      "title": "Quase 140 presos em protesto contra proibição do Palestine Action em Londres",
+      "summary": "A polícia de Londres prendeu 139 pessoas em um protesto em frente à embaixada dos EUA contra a classificação do grupo Palestine Action como organização terrorista. Foi a maior manifestação do tipo sob o governo do premiê Andy Burnham.",
+      "highlights": [
+        "Cerca de 400 pessoas participaram, segundo os organizadores",
+        "Mais de 4 mil prisões já foram feitas desde o início da proibição",
+        "Suprema Corte britânica julga recurso contra a proibição em 4 de novembro"
+      ],
+      "body": "Quase 140 pessoas foram presas neste sábado na maior manifestação, desde que Andy Burnham assumiu como primeiro-ministro britânico, contra a proibição do grupo Palestine Action. Centenas se reuniram diante da embaixada dos EUA em Battersea, no sul de Londres, com cartazes dizendo “Sou contra o genocídio, apoio o Palestine Action”. Também houve vigília em frente ao consulado americano em Edimburgo.\n\nA Polícia Metropolitana havia avisado que os participantes poderiam ser presos, já que apoiar uma organização proscrita é crime. “Todos que vêm a este evento sabem que é ilegal — estão se reunindo propositalmente para cometer um crime”, disse o comandante Adam Slonecki. O grupo Defend Our Juries, organizador do ato, estimou cerca de 400 participantes e afirmou que mais de 4 mil pessoas já foram presas por apoiar o Palestine Action desde que a proibição entrou em vigor.\n\nEntre os manifestantes estavam aposentados e religiosos, como o reverendo Bill White, de 72 anos, que deixou o Partido Trabalhista após a proibição. Os protestos acontecem às vésperas do julgamento de um recurso na Suprema Corte do Reino Unido contra a designação do grupo como terrorista, marcado para 4 de novembro.",
+      "category": "mundo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+      "published_at": "2026-10-31T14:28:30-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/6807820322847a216baf62975e1cb66f78e36b30/808_0_4041_3233/master/4041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12dc3fa176d41f8e8c796dac4f17ecfa"
+    },
+    {
+      "id": "tarde-2026-10-31-mundo-03",
+      "title": "França tem confrontos após terceiro sábado de protestos contra o custo de vida",
+      "summary": "Cerca de 320 mil pessoas marcharam pela França neste sábado na terceira onda de protestos contra o custo de vida e a piora dos serviços públicos. Atos majoritariamente pacíficos terminaram com confrontos entre a polícia e grupos mascarados em Paris, Lyon e outras cidades.",
+      "highlights": [
+        "Participação caiu de 410 mil para 320 mil, segundo o governo",
+        "Em Paris, mascarados atiraram pedras e um coquetel molotov na polícia",
+        "Estudantes prometem novos bloqueios e ato com sindicatos em 5 de novembro"
+      ],
+      "body": "Confrontos eclodiram em Paris, Marselha e outras cidades francesas depois que dezenas de milhares de manifestantes — alguns fantasiados de Halloween — marcharam na terceira onda de protestos contra o custo de vida e a deterioração dos serviços públicos. Segundo o Ministério do Interior, cerca de 320 mil pessoas participaram, abaixo das 410 mil do fim de semana anterior; em Paris foram 70 mil, em um trajeto que evitou o centro da cidade.\n\nNo fim da tarde, grupos mascarados se juntaram aos atos. Perto da Porte de Charenton, em Paris, dezenas de pessoas vestidas de preto arrancaram pedras do calçamento e as atiraram contra policiais, que reagiram com gás lacrimogêneo e cargas de cassetete; a prefeitura de polícia relatou um “núcleo duro de várias centenas de arruaceiros” e o uso de coquetel molotov. Em Lyon também houve gás lacrimogêneo, e em Toulouse a polícia usou canhões de água. O governo havia mobilizado 70 mil policiais e gendarmes.\n\nOs protestos reúnem estudantes secundaristas, sindicatos e “coletes amarelos”, irritados com o custo de vida, a desigualdade e o governo de Emmanuel Macron. Estudantes prometem novos bloqueios de escolas e universidades na terça e na quinta-feira e participação no ato sindical de 5 de novembro. Na Alemanha, a polícia também usou canhões de água contra manifestantes ao fim de protestos liderados por jovens.",
+      "category": "mundo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+      "published_at": "2026-10-31T14:23:56-04:00",
+      "image_url": "https://i.guim.co.uk/img/media/3546bec1281afb0dcb3d211110686c453d00fa3e/0_0_4914_3933/master/4914.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25ae1ad153c484c45e16ebb69be0175e"
+    },
+    {
+      "id": "tarde-2026-10-31-mundo-04",
+      "title": "Geração Z leva milhares às ruas de Berlim e de mais de 30 cidades alemãs",
+      "summary": "A Alemanha virou o mais novo país europeu atingido pela onda de protestos estudantis. Organizados pelo movimento Gen Z Regelt, os atos reúnem jovens irritados com o custo de vida, cortes na educação e o serviço militar obrigatório.",
+      "highlights": [
+        "Quase 180 mil pessoas se inscreveram para protestos em 34 cidades",
+        "Em Colônia, houve tumulto entre manifestantes e a polícia",
+        "Jovens criticam gastos bilionários com defesa enquanto a educação sofre cortes"
+      ],
+      "body": "Milhares de pessoas se reuniram neste sábado em Berlim e em mais de 30 cidades alemãs, à medida que a Alemanha se torna o mais recente país europeu a ser atingido pela onda de protestos estudantis que varre o continente. Na capital, a concentração foi na Platz des 18 März, junto ao Portão de Brandemburgo, com estudantes fantasiados de Halloween, ativistas antifascistas e as “avós contra a direita”.\n\nOs atos foram convocados pela aliança Gen Z Regelt (“a Geração Z resolve”). Até a manhã de sábado, quase 180 mil pessoas haviam se inscrito para participar em 34 cidades, incluindo Frankfurt, Colônia e Munique; em Berlim eram quase 12 mil. A tarde foi tranquila na capital, mas em Colônia houve tumulto entre manifestantes e a polícia, que cercou uma passeata.\n\nOs organizadores listaram seis reivindicações, entre elas o custo de vida, os cortes na educação e o serviço militar obrigatório. Estudantes disseram à Al Jazeera estar revoltados porque o governo do chanceler Friedrich Merz corta verbas de educação e serviços sociais enquanto investe bilhões nas Forças Armadas — mas também se dizem esperançosos ao ver protestos semelhantes em outros países europeus.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities",
+      "published_at": "2026-10-31T12:28:04-04:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/Jan-left-and-Phil-1793461706.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "tarde-2026-10-31-mundo-05",
+      "title": "Ataques israelenses matam ao menos quatro palestinos em Gaza",
+      "summary": "Pelo menos quatro palestinos morreram neste sábado em Gaza, incluindo um professor atingido em bombardeio ao campo de refugiados de Nuseirat, apesar do cessar-fogo em vigor há mais de um ano. Desde a trégua, 1.580 pessoas foram mortas, segundo o Ministério da Saúde local.",
+      "highlights": [
+        "Professor morreu em bombardeio no campo de Nuseirat",
+        "Duas meninas morreram após incêndio em barraca em al-Mawasi",
+        "ONU alerta para deslocamento forçado e risco de limpeza étnica"
+      ],
+      "body": "Ao menos quatro palestinos foram mortos em Gaza neste sábado, enquanto Israel continua atacando o território apesar do chamado cessar-fogo em vigor há mais de um ano. Entre os mortos está o professor Diaa Abu al-Rous, atingido no bombardeio ao campo de refugiados de Nuseirat, segundo o Hospital al-Awda. Outro homem, Arafat al-Arair, morreu em decorrência de ferimentos sofridos dias antes, quando um veículo foi atingido em Tel al-Hawa, a sudoeste da Cidade de Gaza.\n\nDuas meninas também morreram no sábado após um incêndio na barraca onde estavam, em um acampamento de deslocados em al-Mawasi, Khan Younis; a causa do fogo não está clara. Segundo o Ministério da Saúde de Gaza, seis palestinos foram mortos nas últimas 48 horas, elevando para 1.580 o total desde o cessar-fogo de outubro de 2025, com 5.711 feridos.\n\nO Escritório de Direitos Humanos da ONU alertou na sexta-feira que as forças israelenses continuam deslocando palestinos para uma área cada vez menor, o que levanta preocupações de limpeza étnica. As negociações para encerrar definitivamente a guerra, sob o plano de paz de Donald Trump, estão paralisadas: o Hamas diz que não se desarmará até a retirada total de Israel, que, por sua vez, afirma que não sairá enquanto o grupo não entregar as armas.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue",
+      "published_at": "2026-10-31T13:49:23-04:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae613d18df9-1793463249.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "tarde-2026-10-31-mundo-06",
+      "title": "Partido Comunista Chinês expulsa 33 dirigentes em reunião-chave em Pequim",
+      "summary": "O Partido Comunista da China encerrou sua reunião mais importante do ano, o quinto plenário, confirmando a expulsão de 33 altos membros em meio à campanha anticorrupção de Xi Jinping. Analistas veem o encontro como preparação para um possível quarto mandato de Xi.",
+      "highlights": [
+        "Só 279 dos 376 membros do Comitê Central compareceram",
+        "Entre os expulsos estão o general Zhang Youxia e o diplomata Liu Jianchao",
+        "General Zhang Shengmin, peça da campanha anticorrupção, foi promovido ao Politburo"
+      ],
+      "body": "O Partido Comunista da China concluiu na quinta-feira o quinto plenário, sua reunião política mais importante do ano, confirmando a expulsão de 33 membros de alto escalão. Dos 376 integrantes titulares e suplentes do Comitê Central nomeados em 2022, apenas 279 compareceram — mais de um quarto ausente, muitos supostamente sob investigação.\n\nEntre os expulsos estão Zhang Youxia, até então o general mais graduado da China, e Liu Jianchao, diplomata cotado para ser o próximo chanceler. Segundo Neil Thomas, do Asia Society Policy Institute, a cúpula militar foi “quase completamente expurgada” nos últimos anos. Já o general Zhang Shengmin, peça-chave da campanha anticorrupção nas Forças Armadas, foi promovido ao Politburo. Desde 2012, 7,9 milhões de pessoas foram punidas, incluindo mais de 960 altos funcionários.\n\nPara o professor Joseph Torigian, da American University, Xi está preparando o terreno para o congresso do partido no próximo ano, em meio à especulação de que buscará um quarto mandato. Thomas avalia que o foco em disciplina interna indica que Xi dificilmente arriscaria usar a força em temas como Taiwan e o Mar do Sul da China antes de se sentir mais seguro com o partido que comanda.",
+      "category": "mundo",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-      "published_at": "2026-10-31T09:50:58-04:00",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1800x1013+0+94/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F23%2Fc930c03f4b42967e4f2cfe53a1df%2Fap26303582385359.jpg"
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+      "published_at": "2026-10-31T14:42:33-04:00",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Faa%2F00209429492ba03523634db38c54%2Fap26303093614138.jpg"
     },
     {
-      "id": "meio-dia-2026-10-31-eua-03",
-      "title": "No Texas, democrata leva campanha ao ringue para atrair homens latinos",
-      "summary": "A candidata democrata ao governo do Texas, Gina Hinojosa, vai exibir um anúncio durante a luta de Canelo Álvarez neste sábado para alcançar eleitores hispânicos, especialmente homens. Ela enfrenta o governador republicano Greg Abbott, que busca o quarto mandato.",
+      "id": "tarde-2026-10-31-mundo-07",
+      "title": "Chelsea vence o Manchester United e aumenta pressão sobre Carrick",
+      "summary": "O Manchester United perdeu por 2 a 0 para o Chelsea em Stamford Bridge e segue sem vencer há nove jogos, apenas um ponto acima da zona de rebaixamento da Premier League. Lisandro Martínez foi expulso e cometeu o pênalti do segundo gol.",
       "highlights": [
-        "Anúncio de 30 segundos se chama \"No Te Dejes\" e vai ao ar na DAZN",
-        "Estratégia repete a do senador Ruben Gallego no Arizona em 2024",
-        "Abbott também mira latinos com anúncio em espanhol contra Hinojosa"
+        "Morgan Rogers abriu o placar aos 5 minutos do segundo tempo",
+        "Cole Palmer converteu o pênalti após expulsão de Martínez",
+        "United enfrenta a Roma pela Champions na terça-feira"
       ],
-      "body": "A poucos dias da eleição, a candidata democrata ao governo do Texas, Gina Hinojosa, vai veicular um anúncio de 30 segundos durante a luta do astro mexicano do boxe Canelo Álvarez contra Christian Mbilli, neste sábado, transmitida pela plataforma DAZN. O alvo são os eleitores hispânicos, sobretudo homens latinos, que tiveram papel importante na vitória de Donald Trump em 2024.\n\nO anúncio se chama \"No Te Dejes\" (algo como \"não se deixe intimidar\") e repete o lema central da campanha: \"reaja\". Segundo a campanha, a peça contrapõe as propostas de Hinojosa — proteger escolas públicas, restringir a expansão de data centers e reduzir impostos — ao que ela descreve como a prioridade do governador republicano Greg Abbott a grandes doadores e empresas.\n\nA tática segue o caminho do democrata Ruben Gallego, que em 2024 conquistou uma vaga no Senado pelo Arizona com eventos como sessões de boxe e rodeios, mesmo com Trump vencendo no estado. Abbott, por sua vez, lançou um anúncio em espanhol que retrata Hinojosa como liberal demais para o Texas.",
-      "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/texas-hinojosa-abbott-boxing-ad-latino-voters/",
-      "published_at": "2026-10-31T08:04:00-04:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/31/ca02e9ab-b62f-4ce1-ad1c-0de4a66dac84/thumbnail/1200x630g2/c62a3fda9a0661500ad9ad0702959c0d/gettyimages-2301881463.jpg"
-    },
-    {
-      "id": "meio-dia-2026-10-31-eua-04",
-      "title": "Deputado negro desafia mapa redesenhado para favorecer republicanos no Alabama",
-      "summary": "Depois que a Suprema Corte enfraqueceu a Lei dos Direitos de Voto, o Legislativo do Alabama redesenhou o 2º distrito para facilitar uma vitória republicana. O deputado democrata Shomari Figures, porém, mantém a disputa competitiva e atrai atenção nacional.",
-      "highlights": [
-        "Gastos com anúncios de TV no distrito saltaram para quase US$ 10 milhões",
-        "Figures enfrenta Rhett Marques, deputado estadual apoiado por Trump",
-        "Senador Cory Booker fez campanha ao lado de Figures"
-      ],
-      "body": "Quando a Suprema Corte dos EUA esvaziou a Lei dos Direitos de Voto neste ano, o deputado Shomari Figures sabia que seria alvo. O Legislativo do Alabama, controlado por republicanos, redesenhou o 2º Distrito Congressional — um dos dois do estado representados por democratas — para facilitar a vitória do partido. Figures, um dos vários parlamentares negros que tiveram seus distritos alterados, tem complicado esse plano.\n\nEle tem mobilizado eleitores negros em cidades como Montgomery e Tuskegee, marcadas pela luta pelos direitos civis, e também conversado com eleitores em áreas conservadoras sobre a alta nos preços de alimentos, combustível e fertilizantes. Segundo a AdImpact, os gastos com anúncios de TV no distrito passaram de quase nada para cerca de US$ 10 milhões em sete semanas, com grupos democratas gastando mais que os republicanos.\n\nA disputa contra Rhett Marques, deputado estadual apoiado pelo presidente Donald Trump, é vista como mais um sinal de possíveis dificuldades para os republicanos manterem a maioria no Congresso, e virou ponto de mobilização de eleitores negros insatisfeitos com o redesenho de distritos no Sul.",
-      "category": "eua",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/news/politics/2026/10/31/alabama-republicans-thought-they-had-drawn-a-safe-us-house-seat-a-black-congressman-had-other-ideas/",
-      "published_at": "2026-10-31T07:48:18-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/7BTNZBLBWOV3AX62N3N2OPUHPI.jpg?auth=f708212c095af9407879636fbd01bed1a5e2ad4f1985b5daf2f16c0bbd554611&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-eua-05",
-      "title": "Os socialistas democráticos que devem chegar ao Congresso",
-      "summary": "Um pequeno grupo de candidatos alinhados à ala mais à esquerda do Partido Democrata, ou membros dos Socialistas Democráticos da América, deve vencer em 3 de novembro. Vários derrubaram veteranos nas primárias e podem trazer energia nova — e desafios — à liderança democrata.",
-      "highlights": [
-        "Maioria concorre em redutos democratas seguros",
-        "Eles se juntariam a dois socialistas democráticos já na Câmara",
-        "Inclui Darializa Avila Chevalier, que derrotou Adriano Espaillat em Nova York"
-      ],
-      "body": "Fala-se muito de socialismo nesta campanha de meio de mandato, mas apenas um punhado de candidatos ao Congresso se alinha de fato à ala mais à esquerda do Partido Democrata ou se declara parte dos Socialistas Democráticos da América. A maioria vem de redutos democratas, e vários derrotaram parlamentares experientes em primárias acirradas. Eles devem vencer em 3 de novembro e se juntar a dois socialistas democráticos que já estão na Câmara.\n\nSegundo a AP, os novatos podem trazer energia ao partido, mas também desafios para a liderança, independentemente de quem controlar a Câmara nos dois últimos anos do mandato de Donald Trump. A eleição do prefeito de Nova York, Zohran Mamdani, a ascensão de Alexandria Ocasio-Cortez e a influência de Bernie Sanders são citadas como sinais de mudança na política americana.\n\nEntre os nomes está Darializa Avila Chevalier, organizadora comunitária que trabalhou na campanha de Mamdani e derrotou o veterano deputado Adriano Espaillat em uma vitória surpreendente no norte de Manhattan e no Bronx. Ela centrou a campanha na ideia de que o governo abandonou a classe trabalhadora.",
-      "category": "eua",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/news/politics/2026/10/31/meet-the-socialist-progressive-democrats-likely-on-their-way-to-congress/",
-      "published_at": "2026-10-31T08:26:30-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/PPD4RIILLYYBAAGYLZ4NOSJNOM.jpg?auth=f964824ee637075ed39f95adabd494d7bf528374e8ff2ddaa1772166964dd2d7&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-eua-06",
-      "title": "Custos de saúde preocupam eleitores mais velhos às vésperas da eleição",
-      "summary": "O aumento dos gastos com Medicare, remédios e cuidados de longa duração pesa no orçamento dos americanos mais velhos e pode ter peso político na terça-feira. Segundo pesquisa da AARP, 83% dos eleitores acima de 50 anos estão extremamente motivados para votar.",
-      "highlights": [
-        "Período de inscrição do Medicare começou em meados de outubro",
-        "Mudanças para 2027 incluem fim de subsídios temporários à Parte D",
-        "Em alguns estados, seguradoras limitaram ou retiraram planos Advantage"
-      ],
-      "body": "Para os americanos mais velhos, a alta dos custos de saúde atinge diretamente o bolso. A AP conta o caso de Barbara Weigand, de 83 anos, de Ohio, que mesmo após planejar a aposentadoria precisou sacar US$ 4.000 da conta de aposentadoria para cobrir despesas de um tratamento de câncer de bexiga. Segundo pesquisa da AARP do início de outubro, 83% dos eleitores acima de 50 anos dizem estar extremamente motivados para votar nas eleições de meio de mandato.\n\nO período de inscrição aberta do Medicare começou em meados de outubro, e os beneficiários enfrentam várias mudanças que entram em vigor em 2027, como tetos maiores de gastos na Parte D, o fim de subsídios federais temporários aos prêmios dessa parte e novas negociações de preços de medicamentos. Em alguns estados, seguradoras limitaram vagas em planos Medicare Advantage, saíram de mercados ou eliminaram planos.\n\nJuliette Cubanski, da KFF, disse que o período de inscrição é uma oportunidade para avaliar a cobertura e buscar opções melhores e possivelmente mais baratas. Com a acessibilidade no centro do debate, o tema deve pesar na decisão desse grupo de eleitores fiéis.",
-      "category": "eua",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/business/2026/10/31/rising-health-costs-and-coverage-changes-are-big-concerns-for-older-adults-as-election-day-nears/",
-      "published_at": "2026-10-31T08:22:08-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/M4BHRF5TWS7BG63HIHBXSL6ZDA.jpg?auth=cf31877144f2d41e8c9756d5584f20c811c75578d262501a940e468568f3aedb&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-eua-07",
-      "title": "Setor cripto despeja mais de US$ 200 milhões nas eleições de meio de mandato",
-      "summary": "Organizações ligadas a criptomoedas já contribuíram com mais de US$ 200 milhões neste ciclo eleitoral, superando os setores de apostas online e data centers, segundo a Public Citizen. O objetivo é eleger parlamentares favoráveis a regras amigáveis ao setor.",
-      "highlights": [
-        "Super PAC Fairshake apoia 33 candidatos à Câmara: 19 republicanos e 14 democratas",
-        "Seis deputados recebem pelo menos US$ 1 milhão cada",
-        "Coinbase doou US$ 25 milhões ao Fairshake em 2025"
-      ],
-      "body": "O maior grupo de super PACs de causa única da história dos EUA está despejando milhões de dólares em disputas pelo Congresso. Segundo a organização Public Citizen, grupos ligados a criptomoedas superaram os de apostas online e de data centers em gastos políticos corporativos federais neste ciclo, com mais de US$ 200 milhões em contribuições. O setor quer repetir o sucesso de 2024, quando super PACs gastaram US$ 250 milhões para eleger parlamentares pró-cripto.\n\nO Fairshake e seus PACs afiliados apoiam 33 candidatos à Câmara — 19 republicanos e 14 democratas — e priorizam seis deputados com pelo menos US$ 1 milhão cada, entre eles os republicanos Bryan Steil, French Hill e Bill Huizenga e os democratas Janelle Bynum, Derek Tran e Steven Horsford.\n\nA corretora Coinbase, uma das maiores doadoras corporativas da história recente, doou US$ 25 milhões ao Fairshake em 2025. \"O objetivo final é trazer nosso sistema financeiro do século 20 para o século 21\", disse Ryan VanGrack, vice-presidente da empresa, à CNBC.",
-      "category": "eua",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-      "published_at": "2026-10-31T09:04:29-04:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108469669-1793118395942-gettyimages-2298096962-090a3608_uxr0mcdg.jpeg?v=1793118900&w=1920&h=1080"
-    },
-    {
-      "id": "meio-dia-2026-10-31-eua-08",
-      "title": "Eleitores da fronteira do Texas se afastam dos partidos em meio à crise econômica",
-      "summary": "No Vale do Rio Grande, região latina que em 2024 se inclinou para Donald Trump, muitos eleitores reavaliam o voto por causa de tarifas, combustível caro e operações de imigração. Republicanos e democratas disputam a região voto a voto.",
-      "highlights": [
-        "Trump venceu em 14 dos 18 condados da fronteira em 2024",
-        "Republicanos miram cadeiras de Vicente Gonzalez e Henry Cuellar",
-        "Democratas apostam na alta desaprovação de Trump entre latinos"
-      ],
-      "body": "No Vale do Rio Grande, no sul do Texas, o comerciante Jesus Robles, que vende touros mecânicos, votou em Donald Trump em 2024 esperando um impulso econômico. Agora diz ter perdido muitos negócios por causa das tarifas e da alta dos combustíveis: o custo do frete dobrou e alguns clientes foram afetados por operações de imigração. Sua mudança de posição, disse ele à Al Jazeera, mostra que nenhum partido deve dar como certos os votos da região.\n\nA região, de maioria latina e historicamente democrata, virou um campo de batalha dentro do campo de batalha. Em 2024, Trump venceu em 14 dos 18 condados ao longo da fronteira com o México, e os republicanos tentam agora tomar ao menos duas cadeiras democratas, dos deputados Vicente Gonzalez e Henry Cuellar, além de manter a de Monica de la Cruz.\n\nOs democratas, por sua vez, apostam na alta desaprovação de Trump entre os latinos para recuperar terreno na reta final da campanha.",
-      "category": "eua",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes",
-      "published_at": "2026-10-31T06:24:21-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_0404-1793408667.jpeg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-10-31-eua-09",
-      "title": "Nova orientação médica sobre sintomas da menopausa reforça terapia hormonal",
-      "summary": "Pela primeira vez em 12 anos, o Colégio Americano de Obstetras e Ginecologistas (ACOG) atualizou suas recomendações sobre ondas de calor, suores noturnos e problemas de sono na menopausa. A entidade destaca a terapia hormonal e também apresenta alternativas não hormonais.",
-      "highlights": [
-        "Mais da metade das mulheres na menopausa relatam ondas de calor e suores noturnos",
-        "Alertas federais de segurança sobre hormônios foram retirados",
-        "FDA tem tomado medidas para garantir oferta adequada, dizem autoridades"
-      ],
-      "body": "O Colégio Americano de Obstetras e Ginecologistas (ACOG) atualizou, pela primeira vez em uma dúzia de anos, suas orientações para o manejo de ondas de calor, suores noturnos, alterações do sono e outros sintomas comuns da menopausa. Os médicos ressaltaram a importância das terapias hormonais, que muitas mulheres voltaram a considerar depois da retirada de alertas federais de segurança. Na sexta-feira, autoridades disseram que a FDA vem tomando medidas para garantir oferta adequada.\n\nSegundo o ACOG, mais da metade das mulheres na menopausa relatam problemas como ondas de calor e suores noturnos, até dois terços têm o sono afetado e mais de um terço das mulheres na peri e pós-menopausa relatam sintomas depressivos. Nos EUA, a menopausa costuma ocorrer por volta dos 50 anos.\n\nPara a médica JoAnn Manson, da Faculdade de Medicina de Harvard, sintomas moderados a graves devem ter a terapia hormonal como primeira linha de tratamento, embora ela não seja adequada para todas. As novas diretrizes também descrevem opções não hormonais.",
-      "category": "eua",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/health/2026/10/31/theres-new-guidance-on-menopause-symptoms-like-hot-flashes-what-women-need-to-know/",
-      "published_at": "2026-10-31T08:02:33-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/6D4KBH7J5PR2FB2JGDRYOHZ4RI.jpg?auth=582c51e7a0b72f37788e26464aec76a89b7603273b4f84ab198764094fb39d21&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-eua-10",
-      "title": "Por que é tão difícil se livrar das mensagens de texto políticas",
-      "summary": "Às vésperas das eleições de terça-feira, celulares nos EUA são inundados por mensagens de campanha — mesmo de quem nunca doou a candidatos. Mensagens políticas são isentas das regras da lista de \"não ligue\", e no meio delas há golpes.",
-      "highlights": [
-        "Estimativa informal aponta 25 bilhões a 30 bilhões de textos políticos neste ano",
-        "Decisão da Suprema Corte de 2021 facilitou envios em massa sem consentimento",
-        "Responder \"stop\" ou denunciar como spam ajuda, mas pouco antes de terça"
-      ],
-      "body": "Mensagens como pedidos insistentes de doação de US$ 1 ou alertas de \"grande anúncio\" de candidatos fazem parte de uma enxurrada de textos que chega aos celulares antes das eleições de meio de mandato de terça-feira. A empresa Robokiller calculou 15 bilhões de textos políticos em 2022, ajudados por uma decisão da Suprema Corte de 2021 que facilitou certos envios em massa sem consentimento. O CEO da YouMail, Alex Quilici, estima informalmente entre 25 bilhões e 30 bilhões neste ano.\n\nSegundo Teresa Murray, da organização de defesa do consumidor PIRG, a má notícia é que ligações e mensagens políticas são isentas das regras da lista nacional de \"não ligue\"; a boa é que, poucos dias depois da eleição, elas devem parar. Ela alerta que, em meio às mensagens legítimas, também há golpes.\n\nA medida mais simples é responder \"stop\" ou bloquear e denunciar o número como spam, o que avisa a operadora. Mas, segundo o The Verge, isso provavelmente não vai reduzir muito o fluxo antes de terça-feira.",
-      "category": "eua",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-      "published_at": "2026-10-31T08:00:00-04:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-01",
-      "title": "Moradores retirados de Oleshky, cidade ocupada pela Rússia, chegam à Ucrânia",
-      "summary": "Moradores evacuados da devastada cidade de Oleshky, ocupada pela Rússia, cruzaram para a região ucraniana de Chernihiv, confirmou o presidente Volodymyr Zelensky. Muitos estavam sem comida, água e luz e chegaram a cozinhar ervas daninhas para sobreviver.",
-      "highlights": [
-        "Retirada foi possível graças a um cessar-fogo local intermediado pelos EUA",
-        "Evacuados passaram pela Rússia e por Belarus antes de entrar na Ucrânia",
-        "O mais velho tinha 94 anos e o mais novo, 1 ano"
-      ],
-      "body": "Pessoas retiradas da cidade de Oleshky, na linha de frente e ocupada pela Rússia, cruzaram neste sábado para a região ucraniana de Chernihiv, confirmou o presidente Volodymyr Zelensky. Houve cenas emocionantes de reencontro com parentes que não se viam havia anos; alguns idosos estavam tão fracos que foram carregados em macas.\n\nOs moradores estavam presos sem comida, água e eletricidade, e muitos recorreram a ervas do quintal para se alimentar. Os evacuados foram levados pela Rússia e por Belarus antes de entrar pela fronteira norte da Ucrânia. Segundo o ombudsman ucraniano Dmytro Lubinets, o mais velho tinha 94 anos e o mais novo, 1.\n\nZelensky agradeceu à primeira-dama dos EUA, Melania Trump, pelos esforços para intermediar o cessar-fogo local que permitiu a retirada. Uma trégua humanitária entrou em vigor na terça-feira na região de Kherson, trazendo os primeiros dias de paz na área em quatro anos.",
-      "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
-      "published_at": "2026-10-31T07:18:14-04:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-02",
-      "title": "Irã vê aceno dos EUA como 'passo positivo', mas descarta reunião por ora",
-      "summary": "O chanceler iraniano Abbas Araghchi disse à Al Jazeera que a tentativa dos EUA de abrir diálogo é \"um passo positivo\", mas que não há planos de encontros com autoridades americanas. Uma delegação iraniana está em Doha para consultas com mediadores do Catar.",
-      "highlights": [
-        "Irã analisou carta enviada pelo vice-presidente JD Vance",
-        "Teerã estabeleceu condições para reabrir o Estreito de Ormuz",
-        "Mediadores do Catar e do Paquistão seguem nas negociações"
-      ],
-      "body": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, afirmou neste sábado que o esforço dos EUA para abrir diálogo com Teerã é \"um passo positivo\", mas advertiu que, se o objetivo da carta enviada por Washington for \"semear discórdia\", seria mais um erro. Segundo ele, o Irã estudou em reuniões de alto nível a carta do vice-presidente JD Vance e definiu suas condições para reabrir o Estreito de Ormuz, o que abriria caminho para novas negociações.\n\nAraghchi minimizou a possibilidade de encontros entre os dois lados, classificando os rumores como \"especulação da mídia\". \"Não vemos necessidade de nos reunir com os americanos nesta fase\", disse. Segundo ele, mediadores do Catar e do Paquistão continuam as consultas, e propostas sobre o dossiê nuclear estão sendo analisadas.\n\nUma delegação iraniana viajou a Doha um dia depois de mediadores do Catar estarem em Teerã, em aparente tentativa de reviver o cessar-fogo entre EUA e Irã. O chanceler disse que os catarianos propuseram encurtar para cinco dias o prazo de implementação da proposta iraniana sobre Ormuz.",
+      "body": "A permanência de Michael Carrick no comando do Manchester United pode não durar muito depois da derrota por 2 a 0 para o Chelsea neste sábado, em Stamford Bridge. O United desperdiçou várias chances no primeiro tempo — Bruno Fernandes, de volta ao time, chutou por cima, e Matheus Cunha teve um gol anulado por impedimento —, mas desabou na etapa final.\n\nAos 50 minutos, Morgan Rogers arrancou do meio-campo e encobriu o goleiro Senne Lammens. Pouco depois, Lisandro Martínez levou dois cartões amarelos em sequência; no segundo, após revisão do VAR, foi marcado pênalti, convertido por Cole Palmer. O brasileiro Estêvão ainda teve um terceiro gol anulado por impedimento.\n\nSem vitória há nove partidas, o United está apenas um ponto acima da zona de rebaixamento e corre risco de terminar a rodada entre os três últimos. A diretoria tem outra decisão importante antes do confronto de terça-feira contra a Roma, em Old Trafford, pela Liga dos Campeões — o clube perdeu dois de seus três jogos europeus até agora.",
       "category": "mundo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks",
-      "published_at": "2026-10-31T10:31:37-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a1761d78f-1779917271.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-03",
-      "title": "Líder supremo do Irã promete resposta 'sem limites geográficos' se o país for atacado",
-      "summary": "O líder supremo Mojtaba Khamenei ordenou às Forças Armadas \"máxima dissuasão\" e preparo para uma resposta imediata, sem restrição geográfica, a qualquer novo ataque. O recado vem enquanto mediadores tentam evitar uma nova guerra entre Irã e EUA.",
-      "highlights": [
-        "Há relatos de que EUA e Israel se preparam para novos ataques",
-        "Khamenei não é visto em público desde que sucedeu o pai, em março",
-        "Trump negou ter ordenado novas negociações de paz"
-      ],
-      "body": "O líder supremo do Irã, Mojtaba Khamenei, emitiu uma mensagem dura às Forças Armadas, segundo seu gabinete, ao se reunir com altos comandantes e dar \"diretrizes estratégicas importantes\". Ele exigiu \"máxima dissuasão\" e prontidão para \"uma resposta imediata e eficaz, sem restrição geográfica\" caso o país seja atacado novamente, em meio a relatos de que EUA e Israel preparam novos ataques.\n\nKhamenei não é visto nem ouvido publicamente desde que substituiu o pai, o aiatolá Ali Khamenei, assassinado em março. A mensagem surge dias depois de o vice-presidente dos EUA, JD Vance, enviar uma carta a Teerã, na qual teria pedido compromissos nucleares, incluindo inspeções internacionais e uma definição sobre o urânio altamente enriquecido do país.\n\nDiplomatas do Catar fizeram longas conversas em Teerã na sexta-feira, com novas rodadas previstas para sábado. O presidente Donald Trump negou ter ordenado novas negociações e disse, sem dar detalhes, que a carta tratava da entrada de suprimentos médicos no Irã.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace",
-      "published_at": "2026-10-31T08:13:42-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adf96615801-1793037921.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-04",
-      "title": "Premiê britânico admite pedido formal de desculpas pela escravidão, mas rejeita reparações",
-      "summary": "O primeiro-ministro britânico, Andy Burnham, abriu a porta para um pedido oficial de desculpas pelo papel do Reino Unido no tráfico transatlântico de escravizados, mas descartou reparações financeiras. O anúncio antecede a cúpula da Commonwealth em Antígua e Barbuda, no domingo.",
-      "highlights": [
-        "Burnham propôs diálogo estruturado com países afetados pela escravidão",
-        "Ele sugeriu, em vez de reparações, alívio da dívida de países pobres",
-        "Gordon Brown vai ajudar na iniciativa sobre dívidas"
-      ],
-      "body": "O primeiro-ministro do Reino Unido, Andy Burnham, sinalizou em artigo no Guardian que está aberto a um pedido formal de desculpas pelo papel britânico no tráfico transatlântico de escravizados. Ele ofereceu diálogos estruturados com países e grupos afetados e expressou \"tristeza e pesar\" pelo sofrimento de milhões de pessoas escravizadas, às vésperas da cúpula de líderes da Commonwealth em Antígua e Barbuda, no domingo.\n\nBurnham, porém, rejeitou compensações financeiras, afirmando que os britânicos de hoje não podem ser responsabilizados por erros históricos cometidos em outra época e sob outras leis — posição que mantém a de governos anteriores. Em vez disso, propôs um esforço internacional para aliviar a dívida de nações pobres, com prazos maiores e juros menores, com ajuda do ex-premiê Gordon Brown.\n\nA primeira-ministra de Barbados, Mia Mottley, saudou a abertura para conversas, mas reiterou a posição de seu governo a favor de reparações. O anfitrião da cúpula, o premiê de Antígua, Gaston Browne, elogiou a iniciativa sobre dívidas.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade",
-      "published_at": "2026-10-31T09:19:23-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-30T112207Z_1284782824_RC2MDOAHVCWM_RTRMADP_3_BRITAIN-POLITICS-1793447416.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-05",
-      "title": "Nova onda de combates no Iêmen desloca 290 mil pessoas, diz ONU",
-      "summary": "Pelo menos 290 mil pessoas foram deslocadas no Iêmen desde que a guerra voltou a se intensificar em agosto, segundo o escritório humanitário da ONU. Entre os deslocados há 6.100 grávidas, 600 delas prestes a dar à luz.",
-      "highlights": [
-        "Combates entre governo e houthis se concentram em Taiz e no litoral",
-        "Arábia Saudita diz ter derrubado drone 'hostil' perto de Riad",
-        "Houthis negam ter lançado drones contra território saudita"
-      ],
-      "body": "Ao menos 290 mil pessoas foram deslocadas no Iêmen desde que a guerra voltou a eclodir em agosto, segundo o Escritório de Coordenação de Assuntos Humanitários da ONU (OCHA). Os combates entre forças do governo reconhecido internacionalmente e os rebeldes houthis se intensificaram, sobretudo na província de Taiz e em áreas costeiras, com milhares de mortos relatados.\n\nO relatório da OCHA alerta que 65 mil refugiados e solicitantes de asilo no país enfrentam uma situação que piora rapidamente, com serviços interrompidos e alta nos preços de alimentos e combustível. Entre os deslocados estão 6.100 grávidas, 600 delas com parto previsto para as próximas duas semanas. Equipes móveis e parteiras foram enviadas, e a ajuda já chegou a cerca de 249 mil pessoas.\n\nO conflito também atravessou a fronteira: neste sábado, a coalizão liderada pela Arábia Saudita disse ter interceptado um drone \"hostil\" na região de Riad, o segundo em dois dias. Os houthis negaram ter lançado drones contra o território saudita e chamaram as acusações de \"mentiras\".",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk",
-      "published_at": "2026-10-31T08:45:49-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26281548641547-1792068158.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-06",
-      "title": "ONU encerra missão política na Somália após mais de três décadas",
-      "summary": "A Missão de Assistência de Transição da ONU na Somália (UNTMIS) encerrou suas operações neste sábado, após uma transição de dois anos pedida pelo governo somali. A saída ocorre em meio a divisões políticas profundas e à violência do grupo al-Shabab.",
-      "highlights": [
-        "Responsabilidades foram transferidas a instituições somalis e agências da ONU",
-        "Governo de Hassan Sheikh Mohamud pediu a retirada em 2024",
-        "Oposição contesta permanência do presidente no cargo até 2027"
-      ],
-      "body": "A ONU encerrou neste sábado sua missão política na Somália, pondo fim a mais de três décadas de esforços para ajudar o país a se reconstruir após a guerra civil. A Missão de Assistência de Transição da ONU na Somália (UNTMIS) concluiu uma transição de dois anos solicitada pelo governo, e suas funções foram transferidas gradualmente a instituições somalis, a agências da ONU e ao escritório que apoia as tropas da União Africana.\n\nO secretário-geral António Guterres elogiou o progresso do país, mas pediu apoio internacional contínuo. A relação entre os governos somalis e a missão foi por vezes tensa, com acusações de interferência na política interna; o governo do presidente Hassan Sheikh Mohamud pediu formalmente a retirada em 2024.\n\nA saída ocorre enquanto o apoio internacional à Somália diminui e o país enfrenta divisões profundas: a oposição rejeita a tese de que mudanças constitucionais permitem ao presidente e ao Parlamento ficar no poder até 2027, e o grupo al-Shabab, ligado à al-Qaeda, segue combatendo as forças do governo.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement",
-      "published_at": "2026-10-31T07:37:21-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T003012Z_1511557306_RC2RPNAVAYE6_RTRMADP_3_UN-ASSEMBLY-1793439984.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-07",
-      "title": "Síria avalia entrar em pacto de defesa com Arábia Saudita, Turquia e Paquistão",
-      "summary": "O chanceler sírio, Asaad al-Shaibani, disse que Damasco está avaliando aderir à aliança de defesa mútua de Meca, assinada em agosto por Arábia Saudita, Turquia e Paquistão. O acordo prevê que um ataque a um dos países seja considerado um ataque a todos.",
-      "highlights": [
-        "Anúncio foi feito na conferência Diálogo de Manama, no Bahrein",
-        "Pacto tem sido comparado à Otan",
-        "Arábia Saudita, sob ataques dos houthis, é aliada do governo sírio"
-      ],
-      "body": "A Síria está avaliando entrar em um pacto de defesa mútua com Arábia Saudita, Turquia e Paquistão, afirmou o ministro das Relações Exteriores sírio, Asaad al-Shaibani, na conferência Diálogo de Manama, no Bahrein, neste sábado. \"Estão em andamento discussões para avaliar a entrada da Síria na aliança de Meca\", disse.\n\nO Acordo de Defesa Conjunta de Meca, assinado em agosto, estabelece que um ataque a um dos países será considerado um ataque aos três, e tem sido comparado à Otan. Paquistão e Turquia prometeram apoio militar a Riad diante dos ataques dos houthis no Iêmen, mas nenhum dos dois anunciou ofensivas contra o grupo. A Arábia Saudita é uma das principais apoiadoras do governo sírio de Ahmed al-Sharaa.\n\nAl-Shaibani disse que a região precisa \"mais do que nunca\" de sistemas conjuntos de dissuasão e defesa. Ele também afirmou que Israel realizou mais de mil ataques contra a Síria em menos de dois anos.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister",
-      "published_at": "2026-10-31T10:20:23-04:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae5e2b050ad-1793450672.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-08",
-      "title": "França tem terceiro fim de semana de protestos liderados por jovens",
-      "summary": "Milhares de manifestantes, em sua maioria jovens, saíram às ruas na França neste sábado no terceiro fim de semana seguido de atos contra o custo de vida e a situação da educação. Cerca de 70 mil policiais foram mobilizados, e houve atos também na Alemanha e na Itália.",
-      "highlights": [
-        "Ministro do Interior alertou para 'risco muito alto' de distúrbios no Halloween",
-        "Marchas em Paris foram desviadas para a periferia da capital",
-        "Milhares foram presos após tumultos em 17 e 24 de outubro"
-      ],
-      "body": "Milhares de manifestantes, em sua maioria jovens, foram às ruas em toda a França neste sábado, no terceiro fim de semana consecutivo de protestos contra o custo de vida e problemas na educação. Cerca de 70 mil policiais e gendarmes foram mobilizados, e as marchas em Paris foram desviadas para as bordas da capital. Também houve atos liderados por jovens na Alemanha e na Itália.\n\nO ministro do Interior, Laurent Nuñez, alertou para um \"risco muito alto\" de desordem, principalmente após o anoitecer do Halloween. Milhares de pessoas foram presas após tumultos e saques que marcaram as marchas, em grande parte pacíficas, de 17 e 24 de outubro.\n\nO movimento começou no mês passado com estudantes do ensino médio protestando contra prédios malcuidados, falta de professores e um sistema de admissão universitária visto como injusto. Sindicatos e outros grupos insatisfeitos com o presidente Emmanuel Macron aderiram com diversas reivindicações.",
-      "category": "mundo",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/news/2026/10/31/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/",
-      "published_at": "2026-10-31T10:36:04-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/5LALYE2K7PZC4H5JS33RCWROVM.jpg?auth=f407bc9c8631de3132eab018083cd5308bde973da4cd4422c015458bbccb5130&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-09",
-      "title": "Reunião de chanceleres do G20 em Atlanta termina sem consenso",
-      "summary": "Os chefes da diplomacia do G20 encerram neste sábado dois dias de conversas em Atlanta sem acordo sobre temas-chave de segurança global, sobretudo a guerra da Rússia na Ucrânia. Não haverá comunicado conjunto, apenas uma declaração do presidente do encontro, Marco Rubio.",
-      "highlights": [
-        "Foto oficial foi cancelada após objeções europeias à presença de Lavrov",
-        "Rubio chamou o primeiro dia de 'muito produtivo'",
-        "Cúpula de líderes do G20 será no mês que vem, na Flórida"
-      ],
-      "body": "Os principais diplomatas das 20 maiores economias do mundo encerram neste sábado dois dias de reuniões em Atlanta sem consenso sobre vários temas críticos de segurança global, depois que divisões — principalmente sobre a guerra da Rússia contra a Ucrânia — marcaram o início do encontro. Por isso, o grupo não divulgará um comunicado conjunto, e sim uma declaração do presidente da reunião, o secretário de Estado Marco Rubio.\n\nRubio havia aberto as conversas com um apelo à união, mas cancelou a tradicional foto de grupo depois que diplomatas europeus se opuseram à presença do chanceler russo, Sergey Lavrov. O chanceler polonês, Radosław Sikorski, disse não se surpreender: \"Temos guerras em andamento e participantes dessas guerras à mesa\".\n\nApesar disso, Rubio classificou o primeiro dia como \"muito produtivo\" e conduziu no sábado uma discussão sobre cadeias de suprimentos e liberdade de navegação em Ormuz e nos mares Vermelho, Negro e do Sul da China. Segundo diplomatas, todos concordaram em trabalhar pelo sucesso da cúpula de líderes do G20 que Donald Trump sediará na Flórida no mês que vem.",
-      "category": "mundo",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/news/world/2026/10/31/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/",
-      "published_at": "2026-10-31T09:47:24-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/EO3JG73BYIDS3T6QWOI3VEOCOY.jpg?auth=70a19b47201bb0b5cb70b60024b4d577c2199e0713390630704a3771d2d4319e&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-mundo-10",
-      "title": "Fuga de Flávio Bolsonaro para os EUA vira enxurrada de memes no Brasil",
-      "summary": "A saída de Flávio Bolsonaro do Brasil após perder a eleição presidencial para Lula provocou uma explosão de memes nas redes sociais, muitos turbinados por inteligência artificial. Ele chegou a Miami na quarta-feira e se declarou \"verdadeiro presidente eleito\", alegando fraude sem provas.",
-      "highlights": [
-        "Memes mostram Flávio como o personagem 'Onde está Wally?'",
-        "Flávio é investigado por lavagem de dinheiro e corrupção",
-        "Ele comparou a si mesmo a Charles de Gaulle em carta publicada no X"
-      ],
-      "body": "Os memes políticos explodiram no Brasil desde a eleição de domingo, em que o presidente Luiz Inácio Lula da Silva derrotou Flávio Bolsonaro, que reagiu à derrota deixando o país. Investigado por lavagem de dinheiro e corrupção, Flávio disse na segunda-feira que não pretendia sair do Brasil e partiu pouco depois. A sequência de acontecimentos levou a famosa máquina brasileira de memes a todo vapor, com ajuda da inteligência artificial.\n\n\"Onde está Flávio?\", perguntaram muitos internautas, retratando o filho mais velho do ex-presidente Jair Bolsonaro como o Wally do livro infantil. Outro meme, \"Qual fantasia você usaria para fugir?\", o mostrava vestido de rastafári, Mario, Ronaldo e John Lennon; outro trazia \"Flyvio Bolsonaro\" como comandante da \"Fly 22 Airlines\". Segundo a professora Carolina Terra, da USP, os brasileiros tratam temas sérios com leveza, ironia e humor.\n\nFlávio, aliado de Donald Trump, desembarcou em Miami na quarta-feira e publicou no X uma carta em que se declarou \"verdadeiro presidente eleito do Brasil\" — termo depois suavizado para \"líder\" — e disse, sem apresentar provas, que a eleição foi fraudada. Na carta, ele se comparou a Charles de Gaulle.",
-      "category": "mundo",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/news/world/2026/10/31/flavio-bolsonaros-departure-to-the-us-sparks-a-flurry-of-viral-brazilian-memes/",
-      "published_at": "2026-10-31T09:39:42-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/PY4K7BJGBA725VKYAGXYR6KNBU.jpg?auth=4c264c7621a6a27ace7b4db8ae6c0d54dc32ee13de0f017cadc3ccbf388586ac&width=700"
+      "url": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller",
+      "published_at": "2026-10-31T11:09:59-04:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2302843347-1793455926.jpg?resize=1200%2C675"
     },
     {
       "id": "manha-2026-10-30-weston-01",
@@ -405,308 +357,228 @@
       "image_url": "https://westonjournal.com/img/i-75-royal-palm-ramp-closure-nov-5.webp"
     },
     {
-      "id": "meio-dia-2026-10-31-miami-01",
-      "title": "Votação antecipada entra na reta final no Sul da Flórida",
-      "summary": "A votação antecipada termina na noite deste sábado no condado de Monroe, enquanto eleitores de Broward e Miami-Dade têm até domingo à noite para votar. Quem tem cédula pelo correio deve entregá-la diretamente em um local seguro de votação.",
+      "id": "tarde-2026-10-31-miami-01",
+      "title": "Homem e mulher em estado gravíssimo após atropelamento em Midtown Miami",
+      "summary": "Um homem e uma mulher ficaram em “estado extremamente crítico” depois de serem atropelados neste sábado no Biscayne Boulevard, em Midtown Miami. Ambos foram levados ao centro de trauma do Jackson Memorial.",
       "highlights": [
-        "Monroe encerra a votação antecipada neste sábado à noite",
-        "Broward e Miami-Dade vão até domingo à noite",
-        "Cédulas pelo correio precisam chegar até terça, às 19h"
+        "Atropelamento ocorreu no número 3050 do Biscayne Boulevard",
+        "Vítimas foram levadas ao Ryder Trauma Center",
+        "Polícia de Miami investiga as circunstâncias"
       ],
-      "body": "Começou a reta final da votação antecipada no Sul da Flórida. No condado de Monroe (Florida Keys), o período termina na noite deste sábado, enquanto os eleitores dos condados de Broward e Miami-Dade têm até a noite de domingo para votar antes da eleição de terça-feira.\n\nAs autoridades recomendam que quem tem cédula de voto pelo correio a entregue diretamente em um local seguro de votação, em vez de enviá-la pelos Correios. As cédulas pelo correio precisam ser recebidas até as 19h de terça-feira.",
-      "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/south-florida-early-voting-ends/",
-      "published_at": "2026-10-31T08:58:24-04:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/103126-Early-Voting-Ending-Saturday-Monroe-County.jpg?quality=60&strip=color"
-    },
-    {
-      "id": "meio-dia-2026-10-31-miami-02",
-      "title": "Briga em festa em Hialeah termina com homem baleado no rosto",
-      "summary": "Uma confraternização em um apartamento de Hialeah terminou em violência na noite de sexta-feira, deixando dois homens feridos. Segundo a polícia, um convidado que assediava mulheres agrediu outro homem com um vaso e acabou baleado no rosto durante a luta pela arma.",
-      "highlights": [
-        "Polícia foi chamada às 23h46 de sexta, no bloco 6100 da West 22nd Court",
-        "Homem que atirou agiu em legítima defesa e não será acusado",
-        "Agressor, de 42 anos, foi acusado de agressão agravada"
-      ],
-      "body": "A polícia de Hialeah foi chamada por volta das 23h46 de sexta-feira ao bloco 6100 da West 22nd Court após relatos de uma briga violenta envolvendo uma arma em um complexo de apartamentos. Segundo os investigadores, várias pessoas estavam reunidas em um apartamento do segundo andar quando Jonatan De Jesus Dzul Aguilar, de 42 anos, começou a se comportar de forma agressiva com as convidadas, agarrando-as repetidamente.\n\nIdalberto Garcia Cardenas interveio e pediu que ele parasse; Aguilar então o atingiu na cabeça com um vaso de cerâmica, segundo a polícia. Na briga que se seguiu, Cardenas sacou uma arma, que disparou durante a disputa e atingiu Aguilar no rosto. Aguilar foi levado de helicóptero ao Ryder Trauma Center do Jackson Memorial, e Cardenas, ao Palmetto General; nenhum dos ferimentos é considerado risco de vida.\n\nDepois de ouvir testemunhas, os detetives concluíram que Cardenas agiu em legítima defesa, com base na lei \"Stand Your Ground\" da Flórida, e ele não será acusado. Aguilar foi indiciado por agressão agravada.",
+      "body": "Um homem e uma mulher ficaram em “estado extremamente crítico” após serem atingidos por um motorista neste sábado no número 3050 do Biscayne Boulevard, no bairro de Midtown, em Miami, segundo os socorristas. Equipes do Corpo de Bombeiros de Miami responderam a relatos de pelo menos dois pedestres atropelados.\n\nAs vítimas, cujas idades e identidades não foram divulgadas, foram levadas ao Ryder Trauma Center, do Hospital Jackson Memorial. A Polícia de Miami investiga as circunstâncias do acidente, e não foram divulgados detalhes sobre o motorista.",
       "category": "miami",
       "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/10/31/police-hialeah-apartment-complex-shooting-leaves-2-injured-1-arrested/",
-      "published_at": "2026-10-31T07:07:14-04:00",
-      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F10-31-2026%2Ft_c8cc330f7ebd4ce4b1810ba2f87180a4_name_49346110976_hdtv.jpg?auth=35c66e19b7fa4da6154a2e45d707b06e53211e8592d40d2bfda79431c8528ab3&width=700"
+      "url": "https://www.local10.com/news/local/2026/10/31/man-woman-in-extremely-critical-condition-after-being-struck-by-driver-in-midtown-miami-first-responders-say/",
+      "published_at": "2026-10-31T14:27:54-04:00",
+      "image_url": "https://www.local10.com/resizer/v2/SOCYRVNZTJDJNCVH6G4F7BVUNA.jpg?auth=77615ccebbbb12713690d9b9bf529a2eacbce3467840d2a573de598675a73ce5&width=700"
     },
     {
-      "id": "meio-dia-2026-10-31-miami-03",
-      "title": "Acidente fatal fecha pistas da Turnpike em Davie",
-      "summary": "Um acidente fatal na Florida's Turnpike, em Davie, fechou as pistas sentido sul perto da Griffin Road e provocou grandes congestionamentos desde cerca das 4h deste sábado. A Patrulha Rodoviária da Flórida confirmou a morte, mas não deu mais detalhes.",
+      "id": "tarde-2026-10-31-miami-02",
+      "title": "Miami-Dade muda temporariamente locais de votação de 19 seções",
+      "summary": "O Departamento Eleitoral de Miami-Dade alterou temporariamente alguns locais de votação para o dia da eleição, terça-feira, afetando 19 seções. Eleitores podem conferir o local atualizado no site do órgão.",
       "highlights": [
-        "Pistas sentido sul fechadas perto da Griffin Road",
-        "Congestionamento desde por volta das 4h de sábado",
-        "Motoristas devem evitar a área e buscar rotas alternativas"
+        "Mudanças ocorrem por disponibilidade de instalações e outros motivos",
+        "Novos locais incluem escolas, igrejas e parques do condado",
+        "Urnas abrem das 7h às 19h no dia da eleição"
       ],
-      "body": "Um acidente fatal na Florida's Turnpike, em Davie, vizinha de Weston, fechou as pistas sentido sul perto da Griffin Road e causou grandes atrasos no trânsito, com filas desde aproximadamente as 4h deste sábado. A Patrulha Rodoviária da Flórida (FHP) confirmou que houve vítima fatal.\n\nA FHP ainda não informou quantos veículos ou pessoas estavam envolvidos, nem as circunstâncias da colisão. A recomendação é evitar a região e usar rotas alternativas enquanto as autoridades investigam e liberam a via; a identidade dos envolvidos e a causa do acidente ainda não foram divulgadas.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/traffic/2026/10/31/fatal-crash-causes-major-turnpike-delays-in-davie-troopers-say/",
-      "published_at": "2026-10-31T08:16:29-04:00",
-      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F10-31-2026%2Ft_4e0c1303b4004a398e28b836c9957283_name_49346937833_hdtv.jpg?auth=2b93afa8a085a999a828da847ed12b457149191d280d3585f65071a07bbc499e&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-miami-04",
-      "title": "Jovem de 18 anos é morto a tiros em frente a McDonald's no noroeste de Miami-Dade",
-      "summary": "Nathan Bentley, de 18 anos, estudante do Miami Dade College, foi morto a tiros na noite de sexta-feira em frente a um McDonald's no noroeste de Miami-Dade, segundo a mãe dele. O suspeito continua foragido.",
-      "highlights": [
-        "Bentley havia se formado recentemente na Hallandale High School",
-        "Detetives do Gabinete do Xerife passaram cerca de oito horas no local",
-        "Informações podem ser passadas ao Crime Stoppers: 305-471-8477"
-      ],
-      "body": "Uma mãe contou ao Local 10 que seu filho de 18 anos, Nathan Bentley, foi baleado e morto na noite de sexta-feira do lado de fora de um McDonald's no noroeste de Miami-Dade. Segundo Nohely Bogert, Bentley era aluno do Miami Dade College e recém-formado na Hallandale High School, e pouco antes assistia com ela a um jogo de futebol americano em um campo do outro lado da rua.\n\nConhecido como \"G Baby\", ele gostava de rap e era um irmão mais velho dedicado. \"Ele era a estrela da família, o que dava o exemplo de boas decisões\", disse a mãe. Ela afirmou que o suspeito continua foragido.\n\nDetetives do Gabinete do Xerife de Miami-Dade passaram cerca de oito horas investigando o local e recolheram provas, incluindo um celular indicado por uma testemunha. As autoridades ainda não divulgaram o que motivou os disparos. Quem tiver informações pode ligar para o Miami-Dade Crime Stoppers no 305-471-8477.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/10/31/mother-identifies-18-year-old-son-killed-in-reported-shooting-in-northwest-miami-dade/",
-      "published_at": "2026-10-31T08:53:29-04:00",
-      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F10-31-2026%2Ft_903d4e634dc948a0816a1d0a350fb418_name_49347394749_hdtv.jpg?auth=6fd4e3322725b4af3ff1f6367b2e43c4b86324677a58c76304515e3730b2237b&width=700"
-    },
-    {
-      "id": "meio-dia-2026-10-31-miami-05",
-      "title": "Halloween molhado: chuva e tempestades no Sul da Flórida",
-      "summary": "O Sul da Flórida terá um Halloween chuvoso, com pancadas vindas do Atlântico ao longo do dia e tempestades mais fortes à tarde e no começo da noite. Há risco de alagamentos e de inundação costeira na maré alta.",
-      "highlights": [
-        "Acumulados de uma polegada ou mais no litoral de Broward",
-        "Maré alta pode causar inundação costeira de Fort Lauderdale a Key West",
-        "Relógios atrasam uma hora nesta noite"
-      ],
-      "body": "A equipe de meteorologia da CBS News Miami prevê um Halloween bastante molhado no Sul da Flórida. Pancadas de chuva vindas do Atlântico vão atingir a região ao longo do dia, com acumulados de uma polegada (cerca de 2,5 cm) ou mais nas áreas costeiras de Broward, e há risco de nível 1 de enchentes repentinas na região metropolitana.\n\nAs marés altas do início da tarde devem causar mais inundações costeiras de água salgada de Fort Lauderdale a Key West. As tempestades se intensificam à tarde e no começo da noite, afetando o horário das gostosuras ou travessuras, mas sem estragar totalmente a festa.\n\nA chuva deve aumentar no domingo e na segunda-feira e recuar no dia da eleição, terça-feira. E não se esqueça: os relógios atrasam uma hora nesta noite, com o fim do horário de verão.",
+      "body": "Algumas seções eleitorais do condado de Miami-Dade terão locais de votação diferentes no dia da eleição, terça-feira. O escritório da Supervisora de Eleições informou nas redes sociais que as mudanças temporárias se devem à disponibilidade de instalações e a outras circunstâncias, e afetam 19 seções.\n\nEntre os novos locais estão o Gateway Park, em Sunny Isles (seção 002), a West Miami Middle School (seções 404 e 424), a Miami Senior High School (seções 548 e 670), a Miami Lakes United Methodist Church (305 e 372), a Glendale Baptist Church (801 e 805) e o South Dade Government Center (825 e 836). A forma mais fácil de confirmar o local é acessar o site do departamento eleitoral e informar seus dados.\n\nAs urnas funcionam das 7h às 19h no dia da eleição, e o eleitor deve votar obrigatoriamente na seção a que está designado.",
       "category": "miami",
       "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/south-florida-halloween-forecast-10-31-2026/",
-      "published_at": "2026-10-31T09:18:00-04:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/31/6bce211e-28a8-45b1-ac78-09d5033148ee/thumbnail/1200x630/3753ebbf3cba8ba804eb18e138f86f32/trick-or-treat-forecast-2026.png"
+      "url": "https://www.cbsnews.com/miami/news/miami-dade-polling-locations-temporary-change-10-31-2026/",
+      "published_at": "2026-10-31T14:21:31-04:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/10/f2cb38e2-04ff-48e0-9f67-528d2a5393fc/thumbnail/1200x630/1443efd6cc179e645c9ae98f59fe9c23/gettyimages-1435654726.jpg"
     },
     {
-      "id": "meio-dia-2026-10-31-miami-06",
-      "title": "Foragido de acidente que matou três, incluindo a própria mãe, é preso em Boca Raton",
-      "summary": "A Patrulha Rodoviária da Flórida prendeu Jean S. Dorisca, de 48 anos, acusado de causar um acidente em 2024 no condado de Osceola que matou três pessoas, entre elas sua mãe. Ele foi localizado em Boca Raton após mais de dois anos foragido.",
+      "id": "tarde-2026-10-31-miami-03",
+      "title": "Jovem de 18 anos morre baleado perto do campus norte do Miami Dade College",
+      "summary": "Nathan Bentley, de 18 anos, morreu após ser baleado durante uma discussão em um restaurante de fast-food perto do campus norte do Miami Dade College, na noite de sexta-feira. O atirador fugiu e ainda não foi identificado.",
       "highlights": [
-        "Acidente ocorreu em 16 de julho de 2024 na State Road 60",
-        "Dorisca, haitiano com residência permanente, responde por três homicídios culposos no trânsito",
-        "Pode pegar até 45 anos de prisão e perder o status de residente"
+        "Crime ocorreu pouco depois das 23h na NW 27th Ave com NW 108th St",
+        "Discussão entre a vítima e o suspeito terminou em disparos",
+        "Crime Stoppers oferece recompensa de até US$ 5 mil por informações"
       ],
-      "body": "A Patrulha Rodoviária da Flórida (FHP) anunciou na sexta-feira a prisão de Jean S. Dorisca, de 48 anos, pela sua equipe de captura de estrangeiros (CAAT). Dorisca, cidadão haitiano e residente permanente legal nos EUA, é acusado de causar um acidente que matou três pessoas — incluindo sua própria mãe — em 16 de julho de 2024, na State Road 60, perto da divisa entre os condados de Polk e Osceola.\n\nSegundo a FHP, ele tentou ultrapassar um caminhão em local proibido e bateu em veículos que vinham no sentido contrário. Depois do acidente, fugiu da Justiça. Os agentes o encontraram em uma casa em Boca Raton e ele foi preso sem resistência no dia seguinte.\n\nDorisca foi levado à prisão do condado de Palm Beach e aguarda transferência para Osceola, onde responde a três acusações de homicídio veicular. Se condenado, pode pegar até 45 anos de prisão e ter o status de residente permanente revogado.",
+      "body": "O Gabinete do Xerife de Miami-Dade (MDSO) investiga a morte de um jovem de 18 anos baleado perto do campus norte do Miami Dade College na noite de sexta-feira. O crime aconteceu pouco depois das 23h em um restaurante de fast-food na região da Northwest 27th Avenue com a Northwest 108th Street.\n\nOs agentes encontraram Nathan Bentley com ferimentos de bala; ele foi levado a um hospital, mas não resistiu. A investigação inicial indica que houve uma discussão entre Bentley e o suspeito, que sacou uma arma e atirou, fugindo antes da chegada da polícia.\n\nComo havia muitas testemunhas no local, o MDSO pede que qualquer pessoa com informações entre em contato pelo telefone 305-471-2400 ou de forma anônima pelo Crime Stoppers (305-471-8477). Dicas que levem a uma prisão podem render recompensa de até US$ 5 mil.",
       "category": "miami",
       "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/florida-fhp-fugitive-deadly-crash-arrest-10-31-2026/",
-      "published_at": "2026-10-31T08:36:14-04:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/31/a837e9d9-9448-4bb6-8fc7-647f32d6f7f5/thumbnail/1200x630/f5f2cf26e6ea078a9a908e6d7084a799/dorisca.jpg"
+      "url": "https://www.cbsnews.com/miami/news/deadly-shooting-mdso-miami-dade-college-north-campus-10-31-2026/",
+      "published_at": "2026-10-31T13:15:28-04:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/31/740a147e-b1bf-4e7c-9677-f9fa8a13a0a3/thumbnail/1200x630/dd6be58660228bc1cebc456d25bf8dac/a1f5c1b45de1b6109a8bea7ed6603172.jpg"
     },
     {
-      "id": "meio-dia-2026-10-31-miami-07",
-      "title": "Bombeiros de Miami-Dade dão dicas de segurança para o Halloween",
-      "summary": "O Corpo de Bombeiros de Miami-Dade pede que pais e motoristas tomem cuidados extras nas comemorações de Halloween deste sábado. Crianças devem usar itens refletivos e lanternas, e motoristas devem reduzir a velocidade em ruas residenciais.",
+      "id": "tarde-2026-10-31-miami-04",
+      "title": "Polícia de Miami procura idosa de 75 anos desaparecida em Model City",
+      "summary": "A Polícia de Miami pede ajuda para localizar Althea Payne Frederick, de 75 anos, vista pela última vez na manhã de sexta-feira no bairro de Model City. A unidade de vítimas especiais conduz as buscas.",
       "highlights": [
-        "Crianças devem usar acessórios refletivos e levar lanterna",
-        "Máscaras e fantasias grandes demais podem ser perigosas",
-        "Motoristas devem dirigir devagar em áreas residenciais"
+        "Ela foi vista pela última vez por volta das 8h de sexta-feira",
+        "Mede 1,55 m, pesa cerca de 50 kg e tem cabelos brancos",
+        "Vestia blusa de pijama cinza e calça preta"
       ],
-      "body": "Autoridades do Corpo de Bombeiros de Miami-Dade (MDFR) estão pedindo que pais e motoristas tomem precauções durante as comemorações de Halloween neste sábado. A orientação é que as crianças usem roupas ou acessórios refletivos, levem lanternas e consigam enxergar bem.\n\n\"Todos têm um papel para manter o Halloween seguro\", disse a porta-voz Erika Benitez, lembrando que máscaras e fantasias muito grandes podem ser perigosas para os pequenos, que precisam ver claramente e andar com conforto. Os motoristas também devem reduzir a velocidade e redobrar a atenção nas ruas residenciais.",
+      "body": "A Unidade de Vítimas Especiais do Departamento de Polícia de Miami pede ajuda do público para encontrar uma idosa desaparecida. Segundo as autoridades, Althea Payne Frederick, de 75 anos, foi vista pela última vez por volta das 8h de sexta-feira no número 1301 da NW 65th Street, no bairro de Model City.\n\nEla tem cerca de 1,55 m de altura, pesa aproximadamente 50 kg, tem cabelos brancos e olhos castanhos, e usava uma blusa de pijama cinza e calça preta. Quem tiver informações deve ligar para o detetive M. Brenes ou qualquer detetive de plantão da unidade pelo telefone (305) 603-6300.",
       "category": "miami",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/mdfr-officials-urge-parents-drivers-to-follow-safety-tips-during-halloween-festivities/",
-      "published_at": "2026-10-31T07:30:27-04:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/103126-Halloween-Trick-or-Treating.png"
+      "url": "https://wsvn.com/news/local/miami-dade/search-underway-for-missing-75-year-old-woman-from-miami/",
+      "published_at": "2026-10-31T15:02:55-04:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/103126-Althea-Payne.png"
     },
     {
-      "id": "meio-dia-2026-10-31-miami-08",
-      "title": "DeSantis suspende prefeita de Kissimmee após prisão por fraude",
-      "summary": "O governador Ron DeSantis suspendeu a prefeita de Kissimmee, Jackie Espinosa, presa em 21 de outubro sob acusação de fraude e furto qualificado ligados a um programa de subsídios para pequenas empresas. A vice-prefeita Angela Eady assume o cargo.",
+      "id": "tarde-2026-10-31-miami-05",
+      "title": "Mulher desaparecida em North Lauderdale é encontrada morta",
+      "summary": "Vilma Sanabria, de 65 anos, que estava desaparecida desde segunda-feira em North Lauderdale, foi encontrada morta na noite de sexta-feira perto de onde havia sido vista pela última vez. A polícia não suspeita de crime.",
       "highlights": [
-        "Caso envolve o programa Boost 2.0, financiado com verba federal da pandemia",
-        "Acusações podem render até 15 e 30 anos de prisão",
-        "Espinosa admitiu violar a lei de ética estadual em acordo com comissão"
+        "Corpo foi encontrado no quarteirão 1700 da Southwest 70th Way",
+        "Alerta de desaparecimento havia sido emitido na própria sexta-feira",
+        "Legista do condado de Broward vai determinar a causa da morte"
       ],
-      "body": "O governador da Flórida, Ron DeSantis, suspendeu a prefeita de Kissimmee, Eva Jacqulyn \"Jackie\" Espinosa, depois que ela passou a ser investigada por supostas violações da lei de ética estadual e foi presa por acusações de fraude e furto qualificado. A vice-prefeita Angela Eady assume a prefeitura até que a suspensão seja revogada ou o mandato termine.\n\nA prefeita, de origem porto-riquenha, foi presa em 21 de outubro sob acusações ligadas a subsídios recebidos por empresas vinculadas a ela e a familiares por meio do programa Boost 2.0, financiado com recursos federais para ajudar pequenos negócios afetados pela Covid-19. Segundo registros, ela responde por furto qualificado entre US$ 20 mil e US$ 100 mil e fraude organizada de US$ 50 mil ou mais, crimes que podem render até 15 e 30 anos de prisão, respectivamente.\n\nEm 23 de outubro, a Comissão de Ética da Flórida aceitou um acordo em que Espinosa admitiu ter violado a lei de ética estadual; ela terá de pagar multa de US$ 2.000 e fazer um pedido público de desculpas.",
+      "body": "Uma mulher de 65 anos dada como desaparecida em North Lauderdale no início da semana foi encontrada morta na noite de sexta-feira, informou o Gabinete do Xerife de Broward (BSO). Vilma Sanabria foi localizada no quarteirão 1700 da Southwest 70th Way, perto de onde tinha sido vista pela última vez, por volta das 5h de segunda-feira.\n\nA unidade de pessoas desaparecidas do BSO havia emitido um alerta na sexta. Detetives da Divisão de Homicídios investigam as circunstâncias da morte, mas, por ora, não há suspeita de crime. O Instituto Médico Legal do condado de Broward vai determinar a causa e as circunstâncias do óbito.",
       "category": "miami",
-      "source": "NBC 6 South Florida",
-      "url": "https://www.nbcmiami.com/news/local/florida-governor-suspends-kissimmee-mayor-jackie-espinosa/3881221/",
-      "published_at": "2026-10-31T10:23:21-04:00",
-      "image_url": "https://media.nbcmiami.com/2026/10/Screenshot-2026-10-21-at-9.09.47-AM.png?resize=1200%2C675&quality=85&strip=all"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/10/31/north-lauderdale-woman-reported-missing-found-dead-days-later-deputies-say/",
+      "published_at": "2026-10-31T13:36:52-04:00",
+      "image_url": "https://www.local10.com/resizer/v2/HMMZBAKXGZFRRHMY2FOTHGNNAQ.jpg?auth=99b3ad6b0ffb059490df2687fb01462b8cb616a7139eaa5728c8320b11856dac&width=700"
     },
     {
-      "id": "meio-dia-2026-10-31-miami-09",
-      "title": "Astro dos Hurricanes constrói planador para o Red Bull Flugtag Miami",
-      "summary": "Malachi Toney, estrela do time de futebol americano Miami Hurricanes, se uniu a engenheiros da Universidade de Miami para construir um planador caseiro para o Red Bull Flugtag Miami. O evento acontece neste sábado no Bayfront Park.",
+      "id": "tarde-2026-10-31-miami-06",
+      "title": "Guarda Costeira busca barco com 3 pessoas desaparecido a oeste de Key West",
+      "summary": "A Guarda Costeira dos EUA procura uma embarcação de 36 pés com três pessoas a bordo após receber um pedido de socorro na sexta-feira, cerca de 80 km a oeste de Key West. As equipes ainda não conseguiram localizar nem contatar o barco.",
       "highlights": [
-        "Equipe levou um mês e meio para construir a aeronave caseira",
-        "Projeto usou ferramentas bem básicas, parte da graça do evento",
-        "Evento começa às 10h no Bayfront Park"
+        "Barco se chama “Two Girls” e é um modelo Bandit de 36 pés",
+        "Pedido de socorro foi recebido na tarde de sexta-feira",
+        "Informações podem ser passadas pelo telefone 888-245-9727"
       ],
-      "body": "Malachi Toney, astro do Miami Hurricanes, trabalhou com engenheiros da Universidade de Miami para criar um planador próprio para o Red Bull Flugtag Miami, competição em que equipes lançam aeronaves caseiras.\n\n\"Usamos ferramentas bem básicas, e essa é a graça do Flugtag: trabalhar com coisas rudimentares\", disse Toney. A construção levou um mês e meio. O evento começa às 10h deste sábado, no Bayfront Park, em Miami.",
+      "body": "A Guarda Costeira dos EUA está procurando um barco de 36 pés (cerca de 11 metros) com três pessoas a bordo, depois de receber um pedido de socorro da tripulação a oeste de Key West. Segundo o Setor Key West da corporação, o alerta chegou na tarde de sexta-feira, vindo da embarcação “Two Girls”, um modelo Bandit.\n\nO barco foi localizado pela última vez a cerca de 50 milhas (80 km) a oeste de Key West. As equipes de resgate foram imediatamente para a área, mas não conseguiram encontrá-lo nem contatar os ocupantes, cujas identidades não foram divulgadas. A Guarda Costeira pede que quem tenha visto o barco ou feito contato por rádio ligue para o Centro de Comando de Key West pelo 888-245-9727.",
       "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/sports/college/miami-hurricanes/hurricanes-star-malachi-toney-works-with-um-engineers-to-create-glider-for-red-bull-flugtag-miami/",
-      "published_at": "2026-10-31T09:25:49-04:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/103126-Malachi-Toney-Flugtag.png"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/10/31/coast-guard-searching-for-3-people-aboard-missing-boat-west-of-key-west/",
+      "published_at": "2026-10-31T11:15:17-04:00",
+      "image_url": "https://www.local10.com/resizer/v2/ZVXHEHHUXN4VGRZBUPEZL5OHCU.jpg?auth=09557922c46a1d2938667cd98af586874ab23b0c7123658ccc506c82949835dd&width=700"
     },
     {
-      "id": "meio-dia-2026-10-31-tecnologia-01",
-      "title": "iPhone Duo nas férias: o novo aparelho da Apple conquistou a repórter do TechCrunch",
-      "summary": "Uma repórter do TechCrunch levou o novo iPhone Duo e o iPhone 17 Pro Max em uma viagem de cinco dias. Apesar de frustrações iniciais, como apps com problemas e a volta do Touch ID, ela acabou preferindo o Duo.",
+      "id": "tarde-2026-10-31-miami-07",
+      "title": "Veterano do Exército de Doral ganha carro novo e bolsa de estudos",
+      "summary": "O veterano do Exército Roy Mora, que serviu no Afeganistão, foi surpreendido durante um jogo do Miami Heat com um carro novo e uma bolsa de dois anos no Miami Dade College. Ele é pai de cinco filhos e faz trabalho voluntário com famílias em dificuldade.",
       "highlights": [
-        "Aparelho foi emprestado pela Apple para teste",
-        "Preço gira em torno de US$ 2 mil",
-        "Formato curto e compacto cabe no bolso, mesmo com capa"
+        "Homenagem ocorreu no jogo do Miami Heat de sexta-feira",
+        "Presentes vieram de parceria entre Lithia Motors, fundação militar e Chase",
+        "Mora serviu quatro anos no Exército, com missão no Afeganistão em 2012"
       ],
-      "body": "A repórter do TechCrunch passou cinco dias de férias com o novo iPhone Duo, emprestado pela Apple, e levou também seu iPhone 17 Pro Max como \"rede de segurança\". Ela admite que, várias vezes, pensou em voltar ao aparelho antigo por causa de apps que não funcionavam bem, gestos desconhecidos — incluindo o retorno do Touch ID — e dúvidas sobre a câmera.\n\nNo fim da viagem, porém, não queria mais voltar. Ela conta que chegou a fazer as contas para conseguir pagar os cerca de US$ 2 mil que o aparelho custa, mas hesitou não só pelo preço: o Duo é muito diferente de um iPhone tradicional, com formato curto e mais \"quadrado\".\n\nA preocupação com o tamanho da tela e com o bolso se mostrou exagerada: o aparelho coube nos bolsos da frente e de trás, mesmo com capa, e resistiu a ser sentado em cima. Com o passar dos dias, ela usou o Duo mais do que o 17 Pro Max.",
+      "body": "Um especialista aposentado do Exército dos EUA e voluntário de Doral recebeu uma surpresa de Halloween que vai mudar a rotina da família: um carro novo e uma bolsa de estudos de dois anos no Miami Dade College. Roy Mora foi homenageado em uma apresentação surpresa durante o jogo do Miami Heat na sexta-feira, numa parceria entre a Lithia Motors, a Military Warrior Support Foundation e o banco Chase.\n\nMora serviu quatro anos no Exército, incluindo uma missão no Afeganistão em 2012, e recebeu várias condecorações. Casado há 15 anos, é pai de cinco filhos, que educa em casa, e atua como voluntário em organizações que ajudam famílias em situações difíceis. “Estamos muito felizes e gratos a todos que se uniram para tornar isso possível; um carro confiável tira um grande peso dos nossos ombros”, disse.",
+      "category": "miami",
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/10/31/local-army-veteran-surprised-with-new-car-college-scholarship/",
+      "published_at": "2026-10-31T12:48:00-04:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F10-31-2026%2Ft_3d3052c17cf744f0a01ff53452b2e9a1_name_49350745796_hdtv.jpg?auth=2959941f57f4f49b5269436defd3131bb6fb9215ddb3330fb42c7aaf62932745&width=700"
+    },
+    {
+      "id": "tarde-2026-10-31-miami-08",
+      "title": "Humane Society de Broward apresenta gata e cadela para adoção no Halloween",
+      "summary": "A Humane Society do condado de Broward apresentou a gatinha Mummy, de 6 meses, e a cadela Aja, de 6 anos, que procuram um novo lar. A taxa de adoção de Aja foi coberta por um programa parceiro.",
+      "highlights": [
+        "Mummy é uma gata de pelo longo e personalidade carinhosa",
+        "Aja foi entregue ao abrigo depois que a família perdeu a casa",
+        "Interessados podem se candidatar em humanebroward.com"
+      ],
+      "body": "A Humane Society do condado de Broward, em Fort Lauderdale, quer encontrar lares para dois animais: Mummy, uma gata de 6 meses, e Aja, uma cadela de 6 anos. Cherie Wachter, do abrigo, apresentou os dois em um quadro com tema de Halloween neste sábado. Mummy tem pelo longo e macio e, apesar de nervosa na TV, costuma ser dócil e gosta de colo; a recomendação é dar tempo para que gatos se adaptem à nova casa.\n\nAja, uma cadela do tipo bully, foi entregue ao abrigo depois que sua família perdeu a casa. Ela adora buscar a bolinha e brincar com brinquedos, convive bem com crianças e outros cães, mas deve se dar melhor em um lar sem gatos. Graças ao programa Dolly’s Dream, a taxa de adoção de Aja está paga, e ela ainda ganhará compras na loja do abrigo. Os interessados podem preencher a pré-inscrição em humanebroward.com; o canil de adoção abre às 11h.",
+      "category": "miami",
+      "source": "Local 10",
+      "url": "https://www.local10.com/pets/2026/10/31/humane-society-of-broward-county-introduces-cats-and-dogs-available-for-adoption/",
+      "published_at": "2026-10-31T12:30:01-04:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F10-31-2026%2Ft_16d78658220a4a6c909e2e76227d1474_name_49350365028_hdtv.jpg?auth=8887feddc829bb726cc9a50bc3a5c60e7a5273c54937020512ff95fd27b2afa8&width=700"
+    },
+    {
+      "id": "tarde-2026-10-31-tecnologia-01",
+      "title": "OpenAI reduz meta de nova rodada de investimentos, dizem jornais",
+      "summary": "A OpenAI teria reduzido de US$ 30 bilhões para US$ 20 bilhões a meta de sua nova rodada de captação antes do IPO, segundo o Financial Times. O Wall Street Journal informa que a empresa garantiu US$ 11 bilhões até agora, com resposta “morna” de grandes investidores.",
+      "highlights": [
+        "Meta anterior era de US$ 30 bilhões com avaliação de até US$ 1,4 trilhão",
+        "Rodada seria liderada por investidores dos Emirados Árabes Unidos",
+        "Investidores estão cautelosos com gastos pesados em infraestrutura de IA"
+      ],
+      "body": "A nova rodada de investimentos da OpenAI não está correspondendo às expectativas, segundo diversos veículos. A empresa vinha tentando levantar US$ 30 bilhões com avaliação de US$ 1,4 trilhão — depois reduzida para US$ 1,25 trilhão — antes de um IPO planejado. Mas o Financial Times informou na sexta-feira que a meta caiu para US$ 20 bilhões, com um primeiro fechamento ainda menor.\n\nDe acordo com o FT, a rodada será liderada por investidores dos Emirados Árabes Unidos, e uma oferta posterior a pessoas físicas de alta renda pode completar o valor. O Wall Street Journal acrescentou que a OpenAI garantiu US$ 11 bilhões até agora e que a captação encontrou resposta “morna” de alguns grandes investidores.\n\nAs dificuldades podem ser atribuídas, em parte, ao momento: Wall Street ficou desconfiada dos gastos pesados com infraestrutura de inteligência artificial, o que provocou forte venda de ações de tecnologia. O IPO planejado pela Anthropic também pode enfrentar obstáculos, segundo o TechCrunch, que procurou a OpenAI para comentar.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "published_at": "2026-10-31T10:00:00-04:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675"
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published_at": "2026-10-31T12:12:55-04:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
     },
     {
-      "id": "meio-dia-2026-10-31-tecnologia-02",
-      "title": "Humanos ainda fazem parte do trabalho por trás de agentes de IA",
-      "summary": "Agentes de IA da Meta, da OpenAI e de outras empresas ainda têm dificuldade com tarefas do mundo real, como fazer ligações e agendar serviços. Startups como Dazzle AI e Duckbill recorrem a pessoas de verdade para completar esses pedidos.",
+      "id": "tarde-2026-10-31-tecnologia-02",
+      "title": "Binance cobre 90% do roubo recorde de US$ 6,3 bilhões e retoma saques no domingo",
+      "summary": "A Binance, maior corretora de criptomoedas do mundo, diz ter reposto até 90% dos cerca de US$ 6,3 bilhões roubados de suas carteiras no maior ataque hacker da história do setor. A empresa promete arcar com todo o prejuízo e retomar os saques no domingo.",
       "highlights": [
-        "Dazzle AI, de Marissa Mayer, repassa algumas tarefas a prestadores humanos",
-        "Duckbill lançou API que conecta agentes a trabalhadores humanos",
-        "Muse, da Meta, e Dots, da OpenAI, ainda esbarram em obstáculos"
+        "Bitcoin, Ether, USDT, BNB, Solana e outros estão 100% lastreados",
+        "Restante são tokens menos líquidos, fora do top 10",
+        "TRM Labs aponta hackers norte-coreanos como prováveis autores"
       ],
-      "body": "Da próxima vez que um agente de IA tentar ligar para negociar a conta da TV a cabo, quem conversa com o atendimento pode ser um humano. Segundo a CNBC, os agentes baseados nos modelos mais avançados ainda não conseguem executar ações na web de forma confiável, especialmente quando envolvem telefonemas.\n\nA ex-CEO do Yahoo Marissa Mayer, hoje à frente da startup Dazzle AI, diz que os modelos de ponta são ótimos para sugerir serviços, mas podem falhar na hora de agendar e contratar, e por isso a empresa encaminha certas tarefas a prestadores humanos. Meghan Joyce, CEO da Duckbill, afirma que tarefas que exigem julgamento do mundo real ainda são melhor feitas por pessoas.\n\nA Duckbill lançou uma API para que empresas que criam assistentes pessoais possam delegar tarefas a trabalhadores humanos contratados, num modelo que Joyce compara ao da Uber, dividindo pedidos em pequenas etapas. Agentes como o Muse, da Meta, e o Dots, da OpenAI, já fazem muito na web, mas a tecnologia ainda está no começo.",
+      "body": "A Binance afirmou neste sábado que já cobriu até 90% dos cerca de US$ 6,3 bilhões em tokens roubados de suas “hot wallets” no ataque anunciado na quinta-feira — o maior roubo de criptomoedas já registrado. A corretora diz que continuará comprando os ativos restantes no mercado e em operações de balcão até atingir 100% de cobertura. “A Binance vai absorver o impacto financeiro desses fundos roubados, não nossos usuários”, declarou.\n\nSegundo a empresa, BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD e ZEC estão 100% lastreados; os 10% pendentes são tokens fora do top 10, menos líquidos. Para repor os ativos, a Binance usa seu fundo de proteção ao usuário (SAFU), parte do fundo de seguro de futuros e o caixa corporativo. O próximo passo é retomar os saques no domingo, sujeito a verificações de segurança.\n\nAinda não está claro como o ataque ocorreu. A empresa inicialmente citou o notebook comprometido de um engenheiro de DevOps, mas o co-CEO Richard Teng disse depois que o processo foi mais complexo. A empresa de inteligência em blockchain TRM Labs aponta hackers da Coreia do Norte como prováveis responsáveis, citando semelhanças com os ataques à Bybit e à KelpDAO.",
       "category": "tecnologia",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
-      "published_at": "2026-10-31T08:00:01-04:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108373383-1791299845415-gettyimages-2296215889-META_CONNECT.jpeg?v=1791299900&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "published_at": "2026-10-31T12:03:24-04:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106907103-1625597281111-gettyimages-1233700528-porzycki-binancep210628_npNRz.jpeg?v=1680785353&w=1920&h=1080"
     },
     {
-      "id": "meio-dia-2026-10-31-tecnologia-03",
-      "title": "Rivian e Ford apostam em impressão 3D para cortar custos e acelerar produção",
-      "summary": "Montadoras como Ford e Rivian estão ampliando o uso de impressão 3D para fabricar peças, acessórios e ferramentas. A Rivian diz que as máquinas costumam se pagar em menos de um ano.",
+      "id": "tarde-2026-10-31-tecnologia-03",
+      "title": "Divisão de IA da SpaceX perde tentativa de arquivar processo por poluição em data centers",
+      "summary": "Um juiz federal no Mississippi negou o pedido da SpaceXAI, divisão de inteligência artificial da SpaceX de Elon Musk, para arquivar um processo da NAACP. A ação acusa a empresa de violar a Lei do Ar Limpo ao usar turbinas a gás para abastecer data centers na região de Memphis.",
       "highlights": [
-        "Rivian já gastou mais de US$ 5 milhões em impressoras 3D",
-        "Custo com materiais chega a cerca de US$ 1,7 milhão por ano",
-        "Fábrica de Normal, Illinois, terá impressoras para funcionários"
+        "Processo cita 27 turbinas a gás instaladas sem licença em Southaven",
+        "Juiz rejeitou tese de que as turbinas seriam fontes “móveis”",
+        "Há duas semanas, o tribunal já havia negado pedido do Departamento de Justiça para encerrar o caso"
       ],
-      "body": "Montadoras como Ford e Rivian estão apostando na impressão 3D, também chamada de manufatura aditiva, para reduzir custos e ganhar velocidade. A tecnologia existe há décadas, mas está se tornando comum no setor, usada para produzir peças, acessórios, ferramentas para as linhas de montagem e protótipos de testes.\n\nA Rivian afirma ter gasto mais de US$ 5 milhões em máquinas, com custos de materiais que chegam a cerca de US$ 1,7 milhão por ano. Segundo Jared Beck, chefe de manufatura aditiva da empresa, os equipamentos costumam se pagar em um ano, reduzindo custos com ferramentas de fornecedores e logística e cortando o tempo de produção de peças de semanas para dias ou até horas.\n\n\"Vamos democratizar a impressão 3D para toda a empresa\", disse Beck. A expansão inclui máquinas que fabricam peças flexíveis de silicone e um conjunto de impressoras na fábrica de Normal, Illinois, para que funcionários imprimam peças sob demanda.",
+      "body": "A SpaceXAI, divisão de inteligência artificial do conglomerado aeroespacial de Elon Musk, perdeu a tentativa de arquivar um processo movido pela NAACP, que seguirá na Justiça federal do Mississippi, segundo decisão divulgada na sexta-feira à noite. A ação alega violação da Lei do Ar Limpo pelo uso de turbinas de combustão a gás para alimentar os enormes data centers Colossus, na região de Memphis, e uma usina que a empresa constrói em Southaven, no Mississippi.\n\nSegundo o processo, movido em abril pelo Southern Environmental Law Center e pela Earthjustice, a xAI e sua subsidiária MZX Tech instalaram e operaram 27 turbinas a gás em Southaven entre agosto e dezembro de 2025 sem licença ambiental, emitindo poluentes que formam smog e material particulado. A empresa alegou que as turbinas eram “móveis” e isentas de licença, que a NAACP não poderia processar e que esse tipo de ação seria inconstitucional.\n\nO juiz rejeitou todos os argumentos e permitiu que o caso prossiga. A decisão vem cerca de duas semanas depois de o mesmo tribunal negar um pedido do Departamento de Justiça para encerrar o processo. A SpaceX não respondeu de imediato ao pedido de comentário da CNBC.",
       "category": "tecnologia",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-      "published_at": "2026-10-31T08:00:01-04:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108410434-1792008079105-IMG_6557.jpeg?v=1793391159&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "published_at": "2026-10-31T14:56:21-04:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080"
     },
     {
-      "id": "meio-dia-2026-10-31-tecnologia-04",
-      "title": "Telescópio Swift, da NASA, está prestes a cair na Terra após resgate fracassado",
-      "summary": "O telescópio Swift, da NASA, está perdendo altitude depois que uma missão de resgate falhou, e a Força Espacial dos EUA prevê sua reentrada por volta de sexta-feira. A maior parte das 1,5 tonelada deve queimar na atmosfera.",
+      "id": "tarde-2026-10-31-tecnologia-04",
+      "title": "Apple Maps passa a borrar bases da NASA, da Força Espacial e da Aeronáutica",
+      "summary": "O Apple Maps começou a borrar imagens de satélite de várias instalações militares e espaciais dos EUA, como Cabo Canaveral e Vandenberg. A Apple não anunciou a mudança, e o Google Maps não fez o mesmo.",
       "highlights": [
-        "Peças de tungstênio e partes de espelhos podem sobreviver à reentrada",
-        "Robô Link, da Katalyst Space, não conseguiu alcançar o telescópio",
-        "Em 22 anos, Swift registrou mais de 2 mil explosões de raios gama"
+        "Cabo Canaveral, Vandenberg e Wallops estão entre os locais borrados",
+        "Área 51 e o Laboratório de Los Alamos também foram ocultados",
+        "Kennedy Space Center e várias bases da Marinha seguem visíveis"
       ],
-      "body": "Um antigo telescópio da NASA está por um fio no espaço depois de uma tentativa de resgate fracassada. A Força Espacial dos EUA prevê que o Observatório Swift cairá por volta de sexta-feira. A maior parte do equipamento, de 1,5 tonelada, deve queimar na atmosfera, mas algumas peças de tungstênio e partes dos espelhos podem sobreviver, segundo o cientista-chefe da missão, Brad Cenko. Os destroços devem cair provavelmente no oceano, embora partes da África, Austrália, Índia, Sudeste Asiático e Américas Central e do Sul estejam na zona de reentrada.\n\nA intensa atividade solar dos últimos anos acelerou a queda do Swift. A NASA contratou a Katalyst Space para um resgate às pressas, mas o robô de três braços Link teve problemas após o lançamento em julho, não chegou a menos de 12 a 15 km do telescópio e caiu na Terra em setembro.\n\nLançado em 20 de novembro de 2004, o Swift passou 22 anos em órbita e registrou mais de 2.000 explosões de raios gama e 1.400 estrelas em explosão, além de cometas, asteroides e buracos negros destruindo estrelas. No fim de outubro, já estava baixo demais para observar e teve seus sistemas desligados.",
+      "body": "Uma mudança recente no Apple Maps passou a borrar imagens de satélite de alguns dos locais mais sensíveis dos EUA, impedindo que usuários vejam caças em pistas ou foguetes em plataformas de lançamento. Entre os locais ocultados estão a Estação da Força Espacial de Cabo Canaveral, a Base de Vandenberg, na Califórnia, o Centro Espacial Stennis e a instalação de Wallops, da NASA, além da Área 51 e do Laboratório Nacional de Los Alamos.\n\nA seleção chama atenção: a Base Aérea de Whiteman, sede dos bombardeiros furtivos B-2, foi borrada, assim como Ellsworth, uma das bases dos B-1B — mas Dyess e Barksdale continuam visíveis. Grandes instalações da Marinha, como Pearl Harbor e Norfolk, e o Centro Espacial Kennedy, com as históricas plataformas 39A e 39B, também seguem sem alteração.\n\nA Apple não fez anúncio oficial sobre a mudança, e o Google Maps não borrou nenhum desses locais. O site Space Explored presume que a Apple deva ampliar a medida a outras bases, mas não está claro se ela se limitará a instalações altamente sensíveis.",
       "category": "tecnologia",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/tech/2026/10/31/nasa-telescope-is-on-the-verge-of-plunging-back-to-earth-after-failed-rescue-mission/",
-      "published_at": "2026-10-31T08:03:18-04:00",
-      "image_url": "https://www.local10.com/resizer/v2/MBRKYZME44WKPVY3XZIY5YCZSE.jpg?auth=d54a7fe75af0115ad1bd5c290217a9183f359916c0d8a2020feca2bf405a7b88&width=700"
+      "source": "Space Explored",
+      "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
+      "published_at": "2026-10-30T21:24:25-04:00",
+      "image_url": "https://spaceexplored.com/wp-content/uploads/sites/10/2026/10/CleanShot-2026-10-30-at-8.12.12-PM@2x-2.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "id": "meio-dia-2026-10-31-tecnologia-05",
-      "title": "Tesla deixa de premiar indicações de carros e passa a pagar em FSD",
-      "summary": "A Tesla lançou nos EUA um novo programa de indicações que recompensa os donos com o Full Self-Driving (Supervised), em vez de premiar a venda de carros. Comprar um Tesla com código de um amigo já não dá benefício a nenhum dos dois.",
+      "id": "tarde-2026-10-31-tecnologia-05",
+      "title": "Windows 11 testa nova busca com filtros e atalhos no modo Xbox",
+      "summary": "A versão mais recente do Windows 11 para participantes do programa Insider traz uma busca reformulada, com filtros, ações e controle do celular, além de atalhos rápidos no modo de jogos do Xbox.",
       "highlights": [
-        "Indicado ganha um mês grátis de FSD",
-        "Quem indica recebe um mês grátis ou crédito de US$ 99, até 12 vezes por ano",
-        "Benefício para compradores agora vale só para painéis solares"
+        "Busca permite filtrar por arquivos, ações ou resultados da web",
+        "Dá para ajustar brilho e volume ou fazer ligações pelo celular conectado",
+        "No modo Xbox, Bluetooth, Wi-Fi e energia ficam acessíveis sem sair do jogo"
       ],
-      "body": "A Tesla lançou nos Estados Unidos um novo programa de indicações que paga os donos em FSD (Supervised). Quem é indicado ganha um mês grátis do sistema, e quem indicou recebe um mês grátis ou um crédito de US$ 99 se a pessoa passar a pagar a assinatura. O limite é de 12 recompensas por ano, ou seja, até um ano de FSD ou US$ 1.188 em créditos.\n\nPara compartilhar o link é preciso assinar o FSD mensalmente ou tê-lo comprado antes de a Tesla parar de vendê-lo; quem recebeu o recurso por meio de uma concessão de um ano não participa. O indicado precisa ter um Tesla compatível e não pode ter pago pelo FSD nos últimos 12 meses.\n\nA mudança maior está nos termos do programa \"Refer and Earn\": nenhum veículo aparece mais como compra que gera recompensa. Os benefícios para compradores agora valem só para painéis solares, e a Tesla não anunciou a alteração.",
-      "category": "tecnologia",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/",
-      "published_at": "2026-10-30T14:02:35-04:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2019/03/Screen-Shot-2019-03-21-at-5.04.33-PM.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "meio-dia-2026-10-31-tecnologia-06",
-      "title": "Satélite de IA do Google envia sua primeira resposta do espaço: um haicai",
-      "summary": "O satélite do Project Suncatcher, do Google, ligou com sucesso seus chips TPU em órbita e o modelo Gemma 4 a bordo escreveu um haicai sobre estar no espaço. O projeto pode, no futuro, levar data centers de IA para o espaço.",
-      "highlights": [
-        "Satélite foi lançado no começo deste mês",
-        "Próximos testes avaliarão calor e radiação em órbita",
-        "Google planeja dois satélites interligados em 2027"
-      ],
-      "body": "O satélite equipado com chips de IA do Google gerou sua primeira resposta a partir do espaço. Em um post publicado na sexta-feira, a empresa disse que ligou com sucesso as Unidades de Processamento Tensorial (TPUs) a bordo, permitindo que o modelo Gemma 4 atendesse a um pedido para criar um haicai sobre estar no espaço.\n\nO teste faz parte do Project Suncatcher, iniciativa experimental que pode, um dia, colocar data centers de IA em órbita. O satélite foi lançado no início deste mês, e o Google também testou outros pedidos com temas espaciais e de telemetria.\n\nSegundo a empresa, os próximos passos incluem testes para avaliar como as TPUs se comportam sob estresse térmico e exposição à radiação, abrindo caminho para o próximo marco: dois satélites interligados em 2027.",
+      "body": "A mais nova versão de testes do Windows 11 traz recursos poderosos de busca e configurações rápidas para o modo Xbox. Os atalhos do Xbox permitem controlar Bluetooth, Wi-Fi e opções de energia sem sair do modo de jogos.\n\nA reformulação da busca é ampla: agora é possível filtrar resultados por arquivos, ações ou web, usar a caixa de pesquisa para mudar o brilho ou o volume da tela e até executar ações em um celular conectado, como fazer ligações. Os resultados também ficam mais detalhados, mostrando, por exemplo, quando um arquivo foi modificado e por quem, ou exibindo gráficos de ações e previsão do tempo. O usuário pode ainda treinar a busca com botões de “gostei” e “não gostei”. As builds Beta 26220.9836 e Experimental 26340.9843 já estão disponíveis para os Windows Insiders.",
       "category": "tecnologia",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "published_at": "2026-10-30T14:21:38-04:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0%2C1.4420367390612%2C100%2C97.115926521878&w=1200"
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "published_at": "2026-10-31T11:12:19-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&strip=all&crop=0%2C8.2713403922147%2C100%2C83.457319215571&w=1200"
     },
     {
-      "id": "meio-dia-2026-10-31-tecnologia-07",
-      "title": "OpenAI, Google, Microsoft e Anthropic apoiam novo padrão para bloquear coleta de dados por IA",
-      "summary": "As maiores empresas de IA vão adotar um sinal comum, colocado no arquivo robots.txt, para que sites recusem a coleta de seu conteúdo para treinar IA. Hoje, cada site precisa configurar a preferência separadamente para cada empresa.",
+      "id": "tarde-2026-10-31-tecnologia-06",
+      "title": "De guia de restaurantes a pagamentos: TikTok avança para virar “superapp”",
+      "summary": "O TikTok lançou nesta semana um guia de restaurantes dentro do aplicativo e desenvolve um recurso para enviar dinheiro por mensagens diretas. Os movimentos indicam a ambição de se tornar um “superapp”, no modelo do chinês WeChat.",
       "highlights": [
-        "Proposta de \"policy token\" foi apresentada à IETF por Kevin Kelley, da Anthropic",
-        "As quatro empresas dizem que vão respeitar o sinal",
-        "Meta apoia a ideia, mas não diz se vai cumpri-la"
+        "Recurso “Must Eat” reúne recomendações de mais de 40 milhões de posts",
+        "TikTok Pay pode permitir transferências por mensagem direta",
+        "App, agora sob controle majoritariamente americano, já tem loja, mapa e jogos"
       ],
-      "body": "OpenAI, Google, Microsoft e Anthropic afirmam que vão adotar um novo padrão que permite aos sites recusarem a coleta de conteúdo para IA. Com ele, os editores podem aplicar suas preferências de treinamento de IA a várias empresas de uma vez, em vez de configurá-las uma a uma.\n\nO sinal compartilhado, chamado de \"policy token\", foi proposto por Kevin Kelley, líder técnico de padrões da Anthropic, no âmbito da Internet Engineering Task Force (IETF), e ficará no arquivo robots.txt dos sites. As quatro empresas dizem que seus robôs deixarão de acessar páginas que exibirem o sinal.\n\nO chefe de comunicação da Meta, Andy Stone, também manifestou apoio, mas não disse se a empresa vai respeitá-lo. A Microsoft promete controles detalhados para recusar o treinamento ou o uso como fonte de respostas, mantendo os sites nos resultados do Bing.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "published_at": "2026-10-30T16:26:10-04:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "id": "meio-dia-2026-10-31-tecnologia-08",
-      "title": "Sam Altman diz que é melhor a memória RAM estar em data centers do que no seu computador",
-      "summary": "Questionado sobre a escassez de memória RAM, o CEO da OpenAI, Sam Altman, disse que é \"péssimo\" do ponto de vista global ter RAM parada em computadores pessoais. A declaração foi feita no podcast Cheeky Pint.",
-      "highlights": [
-        "Altman diz que a RAM em PCs é usada só 5% do tempo",
-        "Samsung e SK Hynix reservaram boa parte da produção para a nuvem",
-        "Disputa por chips encarece notebooks e celulares"
-      ],
-      "body": "No podcast Cheeky Pint, o CEO da OpenAI, Sam Altman, foi questionado sobre a falta de memória RAM no mercado e disse que, do ponto de vista da alocação global, é \"bastante terrível\" que todos tenham parte da oferta limitada de DRAM do mundo em seus próprios computadores, sendo usada apenas cerca de 5% do tempo. Para ele, a utilização máxima deve estar na nuvem.\n\nSegundo o The Verge, fabricantes de memória como Samsung e SK Hynix têm contratos de longo prazo com operadores de nuvem e projetos como o Stargate, da OpenAI, que reservaram boa parte da produção dos próximos anos. Os bilhões investidos nesses chips ajudam a explicar por que notebooks, celulares e outros aparelhos estão ficando mais caros.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "published_at": "2026-10-30T16:48:43-04:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200"
-    },
-    {
-      "id": "meio-dia-2026-10-31-tecnologia-09",
-      "title": "S&P rebaixa perspectiva da Meta por gastos com IA e fluxo de caixa negativo",
-      "summary": "A S&P Global Ratings mudou a perspectiva de crédito da Meta de AA- estável para AA- negativa, citando incerteza sobre os altos investimentos em IA e o fluxo de caixa livre negativo. A Meta discordou da avaliação.",
-      "highlights": [
-        "Meta prevê investimentos de US$ 135 bi a US$ 145 bi no ano",
-        "Fluxo de caixa livre ficou negativo em US$ 2,12 bi pela primeira vez",
-        "Ações caíram 15% em outubro, pior mês em quatro anos"
-      ],
-      "body": "A S&P Global Ratings revisou para baixo a perspectiva da Meta, de AA- estável para AA- negativa, citando \"incerteza\" sobre os gastos elevados e o fluxo de caixa livre negativo da empresa. A agência questionou a capacidade da Meta de monetizar seus investimentos em IA em comparação com concorrentes, e disse não estar claro quando produtos como o app de agente Muse vão gerar receita superior aos custos.\n\nUm porta-voz da Meta disse que a empresa \"discorda respeitosamente\" da avaliação. No balanço do terceiro trimestre, a Meta projetou investimentos de US$ 135 bilhões a US$ 145 bilhões no ano e registrou fluxo de caixa livre negativo de US$ 2,12 bilhões, pela primeira vez no vermelho.\n\nAs ações terminaram outubro em queda de 15%, o pior mês em quatro anos. Na segunda-feira, a empresa anunciou planos de levantar US$ 95 bilhões para financiar suas iniciativas de IA, começando com US$ 35 bilhões em ofertas públicas de ações.",
-      "category": "tecnologia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-      "published_at": "2026-10-30T17:44:57-04:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080"
-    },
-    {
-      "id": "meio-dia-2026-10-31-tecnologia-10",
-      "title": "Ollie, assistente de IA focado em privacidade, vai encerrar as atividades",
-      "summary": "A startup Ollie, que oferecia um assistente de IA com foco em privacidade para famílias, vai encerrar o app em 6 de novembro. O CEO Bill Lennon disse que a empresa não conseguiu acompanhar a concorrência de rivais como Muse e Instinct.",
-      "highlights": [
-        "App sai do ar em 6 de novembro",
-        "Startup havia captado US$ 7,5 milhões com a Khosla Ventures",
-        "Clientes receberão instruções para exportar dados e reembolsos"
-      ],
-      "body": "A Ollie, startup que prometia um assistente de IA respeitoso com a privacidade dos usuários, vai encerrar suas atividades em uma semana. O cofundador e CEO Bill Lennon anunciou no X, na sexta-feira, que o app sai do ar oficialmente em 6 de novembro.\n\nA Ollie havia captado uma rodada seed de US$ 7,5 milhões liderada pela Khosla Ventures e funcionava por assinatura, ajudando famílias a se organizar com acesso a e-mail e calendário, agendamentos, planejamento de refeições e pagamento de contas. Foi um dos primeiros apps populares a obter a certificação de privacidade SOC 2.\n\n\"Chegamos perto, mas no fim não conseguimos acompanhar\", disse Lennon, citando a entrada de concorrentes como Muse e Instinct. Os clientes receberão nos próximos dias instruções para exportar seus dados e obter reembolso.",
+      "body": "O TikTok anunciou nesta semana um guia de restaurantes dentro do aplicativo, mais um passo na expansão da plataforma para além das redes sociais. Chamado “Must Eat”, o recurso usa mais de 40 milhões de posts e comentários para reunir recomendações e listas de restaurantes, que podem ser filtradas por cidade, culinária, preço, avaliação e localização — colocando o app em concorrência mais direta com Yelp e Google Maps.\n\nA empresa também foi flagrada desenvolvendo uma função para enviar dinheiro por mensagens diretas, usando o TikTok Pay, já disponível no Sudeste Asiático para compras no TikTok Shop, segundo a Bloomberg. Em março, a Reuters informou que o TikTok pediu autorização ao Banco Central do Brasil para operar como fintech, oferecendo empréstimos e pagamentos.\n\nNos últimos anos, o aplicativo — que passou para controle majoritariamente americano em janeiro — adicionou loja, mapa de descobertas locais, busca mais robusta e jogos. A estratégia lembra o modelo dos superapps chineses como o WeChat, que reúne rede social, mensagens, pagamentos e loja de aplicativos em uma só plataforma; resta saber se o formato funcionará fora da China.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "published_at": "2026-10-30T18:56:13-04:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847"
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "published_at": "2026-10-31T11:41:57-04:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
     }
   ]
 }
