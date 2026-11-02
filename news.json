@@ -1,312 +1,344 @@
 {
   "version": 2,
-  "generated_at": "2026-11-01T15:11:59-05:00",
-  "edition": "tarde",
+  "generated_at": "2026-11-02T07:13:32-05:00",
+  "edition": "manha",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "tarde-2026-11-01-eua-01",
-      "title": "Senador Chris Murphy é hospitalizado após sofrer AVC",
-      "summary": "O senador democrata Chris Murphy, de Connecticut, foi hospitalizado no sábado depois de sofrer um acidente vascular cerebral, informou seu gabinete neste domingo. Segundo a chefe de gabinete, ele está acordado, alerta e responde bem ao tratamento.",
+      "id": "manha-2026-11-02-eua-01",
+      "title": "Trump encerra campanha com comícios em Iowa e Kansas",
+      "summary": "Donald Trump fechou o último fim de semana da campanha de meio de mandato com comícios em Dubuque, Iowa, e Salina, Kansas, estados onde republicanos enfrentam desafios fortes dos democratas. Nesta segunda-feira, ele fará o discurso final da campanha no espelho d'água do Lincoln Memorial, em Washington.",
       "highlights": [
-        "Murphy sentiu dormência no braço durante jogo de hóquei do filho",
-        "Foi transferido para o hospital Johns Hopkins para monitoramento",
-        "Equipe está otimista com recuperação total"
+        "Discurso em Iowa durou cerca de duas horas",
+        "Mais de 54 milhões de votos já foram depositados antecipadamente",
+        "Trump fez mais de duas dezenas de comícios em 19 estados desde 1º de outubro"
       ],
-      "body": "O senador Chris Murphy, democrata de Connecticut, foi levado a um hospital no sábado após sofrer um AVC, segundo comunicado divulgado neste domingo por sua chefe de gabinete, Allison Herwitt. De acordo com ela, Murphy começou a sentir dormência no braço na tarde de sábado, enquanto assistia a um jogo de hóquei do filho, e foi levado a um hospital local, onde o derrame foi diagnosticado.\n\nHerwitt disse que o senador foi transferido para o Johns Hopkins “para monitoramento adicional” e que está “respondendo bem ao tratamento”. “Os médicos estão animados com o progresso, ele está acordado e alerta, e estamos otimistas de que ele terá uma recuperação completa”, afirmou.\n\nMurphy, de 53 anos, representa Connecticut no Senado desde 2013, depois de três mandatos na Câmara. Visto como possível pré-candidato à Casa Branca em 2028, ele vinha percorrendo o país nas últimas semanas para apoiar candidatos democratas nas eleições de meio de mandato.",
+      "body": "O presidente Donald Trump encerrou o turbulento fim de semana final da campanha de meio de mandato com comícios em dois estados que venceu com folga no passado: Iowa e Kansas. Em ambos, os republicanos tentam conter desafios robustos dos democratas, o que ameaça a maioria do partido no Senado, enquanto a da Câmara já está em risco. Em Dubuque, Trump afirmou que os republicanos estão perto de vitórias amplas na terça-feira, num discurso de cerca de duas horas.\n\nNo Kansas, ele chegou atrasado; o Air Force One fez um sobrevoo teatral antes de pousar para um comício ao ar livre no aeroporto. Centenas de pessoas começaram a sair no meio do discurso de quase 90 minutos, que só terminou perto das 22h no horário local. Desde 1º de outubro, Trump fez mais de duas dezenas de comícios em 19 estados.\n\nCom mais de 54 milhões de votos já depositados, as viagens refletem a postura defensiva do Partido Republicano, num pleito que virou um referendo sobre o segundo mandato de Trump. Segundo a AP, eleitores, incluindo ex-apoiadores, questionam os efeitos econômicos das tarifas e da guerra com o Irã. Trump fará seu discurso final nesta segunda-feira no espelho d'água do Lincoln Memorial, em Washington.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/chris-murphy-stroke-hospitalized/",
-      "published_at": "2026-11-01T12:51:00-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/01/1ecf1c7f-4989-453e-bdf1-8e510231dafe/thumbnail/1200x630/58cbceecef5c5a2849f0f8c3d13a0d81/gettyimages-2289530066.jpg"
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/01/trump-rallies-in-iowa-and-kansas-as-republicans-fight-to-keep-senate-and-house-control/",
+      "published_at": "2026-11-01T23:25:29-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/OCS4EZLHGSTFLAOGDJF7C5YQGM.jpg?auth=aedeca2860ed2979713bd659e1db7ba6c9704561f17d2f4b2aa2cedb2e487cc6&width=700"
     },
     {
-      "id": "tarde-2026-11-01-eua-02",
-      "title": "Juíza rejeita ação do governo Trump sobre eleição no Alasca",
-      "summary": "Uma juíza federal no Alasca rejeitou neste domingo a ação do Departamento de Justiça que pedia para barrar a certificação do resultado da eleição para o Senado caso o republicano Dan Sullivan perca. Segundo ela, o governo não tinha legitimidade para propor o processo.",
+      "id": "manha-2026-11-02-eua-02",
+      "title": "Democratas chamam apoio de Haley Stevens a republicano de “traição”",
+      "summary": "O apoio de última hora da deputada Haley Stevens ao republicano Mike Rogers na disputa ao Senado em Michigan provocou forte reação no Partido Democrata. Chuck Schumer chamou a decisão de “traição desprezível”, e o presidente do partido no estado disse que ela não é mais filiada.",
       "highlights": [
-        "Juíza Sharon Gleason assinou decisão de 20 páginas",
-        "Ação alegava que outro candidato chamado Daniel J. Sullivan confundiria eleitores",
-        "Campanha democrata de Mary Peltola nega envolvimento"
+        "Stevens perdeu a primária democrata para Abdul El-Sayed",
+        "Pelosi e o prefeito de Nova York, Zohran Mamdani, também criticaram",
+        "Briga começou por anúncio de grupo externo sobre apoio dos EUA a Israel"
       ],
-      "body": "A juíza federal Sharon L. Gleason rejeitou a ação movida pelo governo Trump para impedir a certificação dos resultados da disputa ao Senado no Alasca se o senador republicano Dan Sullivan for derrotado. Em decisão de 20 páginas, ela concluiu que o Departamento de Justiça não demonstrou ter legitimidade processual para entrar com o caso. A ação argumentava que a presença na cédula de um professor chamado Daniel J. Sullivan, com o mesmo nome e partido do senador, buscava confundir eleitores e beneficiaria a democrata Mary Peltola.\n\nNa decisão, Gleason escreveu que o governo “não apresenta nenhum plano viável” para separar os votos dados a Daniel J. Sullivan no dia da eleição e conduzir uma “investigação” desses votos preservando o sigilo do voto. A ação havia sido ampliada na quinta-feira com base em reportagem do New York Times sobre supostos esforços de pessoas ligadas à campanha de Peltola para recrutar candidatos que tirassem votos do senador.\n\nA campanha de Peltola afirma não ter “nenhum envolvimento com nenhuma das campanhas Sullivan”, e a candidata disse não ter interesse em “enganar eleitores”. O Departamento de Justiça não respondeu de imediato a pedidos de comentário.",
+      "body": "O anúncio surpresa de Haley Stevens, que perdeu por pouco a primária democrata ao Senado em Michigan para Abdul El-Sayed, de que apoia o republicano Mike Rogers gerou uma onda de críticas dentro do partido. A decisão veio após uma briga com a campanha de El-Sayed por causa de um anúncio de um grupo externo que atribuía o alto custo de vida ao apoio dos EUA a Israel; Stevens havia dito que participaria de um evento se ele denunciasse o anúncio, e acabou desconvidada.\n\nO líder da minoria no Senado, Chuck Schumer, classificou a atitude como “uma traição desprezível” e disse que os democratas estão unidos em torno de El-Sayed. Nancy Pelosi afirmou que Stevens “traiu perigosamente” as famílias de Michigan, e o prefeito de Nova York, Zohran Mamdani, disse que ela endossou “o mesmo republicano contra quem dizia querer concorrer”.\n\nCurtis Hertel, presidente do Partido Democrata de Michigan, afirmou que Stevens não é membro do partido “nem será no futuro”. A deputada Debbie Dingell disse que os eleitores do estado estão focados em custo de vida, saúde e moradia, “não nos esforços contínuos da deputada Stevens para chamar atenção”.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/",
-      "published_at": "2026-11-01T13:39:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/3375f8fe-9dad-415e-8815-649c695c1025/thumbnail/1200x630/c1c6754a2d2ec1db4685058b876cdbe8/ap26305115849912.jpg"
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+      "published_at": "2026-11-02T06:00:41-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/31c63c0ba4fc6d0a1748446810f3064540a2ef62/308_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33e86651ab87f39f7d87c0664b79593b"
     },
     {
-      "id": "tarde-2026-11-01-eua-03",
-      "title": "Democrata Haley Stevens apoia republicano no Senado em Michigan",
-      "summary": "A deputada democrata Haley Stevens declarou apoio ao republicano Mike Rogers na disputa ao Senado em Michigan, contra seu ex-rival de primárias Abdul El-Sayed, a menos de 48 horas da eleição. O anúncio surpreendeu, apesar de semanas de atritos públicos entre os dois.",
+      "id": "manha-2026-11-02-eua-03",
+      "title": "Departamento de Justiça pede sanções contra análise de lista de “eleitores não cidadãos”",
+      "summary": "O Departamento de Justiça defendeu a precisão de uma lista de mais de 20 mil supostos não cidadãos registrados para votar na Califórnia e sugeriu que um juiz avalie acusações de desacato contra um grupo de imigrantes. O grupo publicou uma análise segundo a qual mais de 40% dos nomes não aparecem no cadastro eleitoral do estado.",
       "highlights": [
-        "Stevens apareceu ao lado de Rogers em uma igreja de Detroit",
-        "Ela disse que El-Sayed afirmou que ela não era bem-vinda na campanha",
-        "El-Sayed respondeu que “nada disso importa” para os eleitores"
+        "Juiz James Boasberg havia liberado o acesso aos dados com restrições",
+        "Análise identificou 22 pessoas provavelmente naturalizadas na lista",
+        "Projeto de Direitos de Voto da UCLA diz ter cumprido as ordens do tribunal"
       ],
-      "body": "Depois de meses declarando apoio à chapa democrata, a deputada Haley Stevens anunciou neste domingo que apoia o republicano Mike Rogers para o Senado em Michigan. “Nosso candidato democrata ao Senado, Abdul, disse que eu não era mais bem-vinda em sua campanha e que deveria ficar longe, e ele está certo. Por isso estou apoiando Mike Rogers”, disse ela em vídeo nas redes sociais, após aparição surpresa ao lado de Rogers em uma igreja em Detroit.\n\nStevens disse que “não está ao lado de Hasan Piker”, streamer com quem El-Sayed fez campanha nas primárias, e vinha criticando o democrata por não fazer o suficiente para tranquilizar eleitores judeus e negros que a apoiaram. As tensões aumentaram depois que seu noivo, Jason Turkish, disse que votaria em Rogers, e após ela pedir que El-Sayed condenasse um anúncio de Cenk Uygur que culpava Israel pelos altos preços dos alimentos nos EUA.\n\nDo lado de fora de um evento “Souls to the Polls” em Detroit, El-Sayed disse a repórteres que não pensa em Stevens e que os eleitores também não. “Nada disso importa”, afirmou, dizendo que as famílias estão preocupadas com escolas, comida e contas médicas.",
+      "body": "O Departamento de Justiça defendeu neste domingo a precisão de uma lista do que afirma serem mais de 20 mil não cidadãos registrados para votar na Califórnia. O órgão também sugeriu que um juiz federal avalie se a Coalition for Humane Immigrant Rights (CHIRLA) e seus advogados devem responder por desacato, depois de publicarem uma análise dos nomes.\n\nNa sexta-feira, o juiz-chefe James Boasberg, de Washington, permitiu que o grupo acessasse os dados, mas proibiu a divulgação de nomes e limitou o uso à discussão sobre a legitimidade processual dos autores. No sábado, os advogados apresentaram documentos mostrando que mais de 40% das pessoas da lista não aparecem no cadastro de eleitores do estado, e que 22 delas provavelmente são cidadãos naturalizados.\n\nO Departamento de Justiça argumentou que a análise não tinha relação com a legitimidade do grupo e violava a ordem judicial, sugerindo encaminhar o caso para investigação por possível desacato criminal. Um porta-voz do Projeto de Direitos de Voto da UCLA, que fez a análise, afirmou que os advogados e especialistas “cumpriram integralmente as ordens do tribunal”.",
+      "category": "eua",
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/01/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims/",
+      "published_at": "2026-11-01T18:01:12-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/RDIKLIW3Q2B2UCCC4PHWAMT4ZY.jpg?auth=05f528ed4c151ec4574a8b4dd29808a856f76e971fef52b367d2ebc38370969d&width=700"
+    },
+    {
+      "id": "manha-2026-11-02-eua-04",
+      "title": "ICE volta a prender imigrantes soltos por decisão judicial",
+      "summary": "Imigrantes libertados após vencerem pedidos de habeas corpus estão sendo rapidamente presos de novo pelo ICE, segundo levantamento do Guardian. O jornal identificou ao menos 20 casos no último ano em todo o país.",
+      "highlights": [
+        "Imigrantes já apresentaram mais de 91 mil pedidos de habeas corpus",
+        "Em Minnesota, sete foram detidos antes mesmo de sair do prédio",
+        "Advogados dizem que prisões violam ordens de tribunais federais"
+      ],
+      "body": "Imigrantes que conseguiram ser soltos da detenção ao vencer pedidos de habeas corpus na Justiça estão sendo presos novamente pelo Serviço de Imigração e Alfândega (ICE). O Guardian identificou pelo menos 20 casos do tipo em todo o país no último ano, com base em registros judiciais, advogados e reportagens.\n\nO aumento das prisões levou imigrantes a apresentar mais de 91 mil pedidos de habeas corpus, segundo pesquisa da ProPublica — mais desde 25 de janeiro do que nos três governos anteriores somados. “Vimos um aumento muito, muito acentuado de pessoas soltas por habeas corpus que são rapidamente detidas de novo, muitas vezes violando a ordem do tribunal federal”, disse a advogada Bridget Pranzatelli, do National Immigration Project.\n\nEntre os casos, está o de Akram Mahmoud Omar, palestino de 77 anos que sofreu um infarto enquanto estava detido em uma unidade do ICE na prisão de Angola, na Louisiana, e foi preso de novo menos de dez dias após ser solto. Em Minnesota, sete imigrantes foram detidos novamente antes mesmo de deixar o prédio federal Whipple, nos arredores de Minneapolis.",
+      "category": "eua",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/immigrants-released-after-court-petitions-ice-arrest",
+      "published_at": "2026-11-02T07:00:39-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/a8b63cacc27b4147733723643dfa63b6783e6504/344_0_2358_1887/master/2358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e0ab01b2dedae4a75fa799062363f54"
+    },
+    {
+      "id": "manha-2026-11-02-eua-05",
+      "title": "Paxton cancela evento no Álamo na véspera da eleição no Texas",
+      "summary": "A campanha do republicano Ken Paxton ao Senado pelo Texas não fará mais o evento anunciado no Álamo na véspera da eleição. A agenda desta segunda inclui atos em Conroe e Allen, a centenas de quilômetros de San Antonio.",
+      "highlights": [
+        "Turnê de ônibus “Come and Take It” terminaria no Álamo",
+        "Site do monumento proíbe atividades políticas",
+        "Pesquisas recentes mostram o democrata James Talarico levemente à frente"
+      ],
+      "body": "A campanha de Ken Paxton, candidato republicano ao Senado pelo Texas, não realizará mais o evento previsto para a véspera da eleição no Álamo, como havia sido anunciado. A campanha não comentou publicamente a mudança, mas a agenda de segunda-feira inclui eventos em Conroe e Allen, ambos a centenas de quilômetros de San Antonio; o ato em Allen começa às 18h30 (horário central), o que não daria tempo de chegar ao Álamo.\n\nNo mês passado, a campanha havia anunciado uma turnê de ônibus de duas semanas pelo estado, chamada “Come and Take It”, em referência às palavras de abertura da Revolução do Texas, que terminaria em 2 de novembro no Álamo. O forte, sitiado pelo exército mexicano por 13 dias em 1836, é hoje Patrimônio Mundial e museu, e seu site informa que atividades políticas são proibidas.\n\nPaxton disputa a vaga com o democrata James Talarico. O Texas não elege um democrata para o Senado desde 1988, mas pesquisas recentes mostram Talarico levemente à frente, e a CBS News classifica a disputa como indefinida.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ken-paxton-alamo-event-called-off-james-talarico-texas-senate-race/",
+      "published_at": "2026-11-01T20:43:34-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/02/1fe41c0c-960a-4cf3-96d6-87a8f0dd0f13/thumbnail/1200x630/676fd0b677a87e80f2ca0fa2528dcc9f/gettyimages-2302417033.jpg"
+    },
+    {
+      "id": "manha-2026-11-02-eua-06",
+      "title": "Crianças migrantes presas em abrigos perdem esperança de ficar nos EUA",
+      "summary": "Quase 1.900 crianças estavam em setembro em abrigos do Escritório de Reassentamento de Refugiados, que, segundo a reportagem, foi reconfigurado pelo governo Trump para apoiar a campanha de deportações. Famílias e advogados relatam crianças mantidas por meses longe dos parentes.",
+      "highlights": [
+        "Menina salvadorenha de 9 anos ficou mais de sete meses em abrigo perto de Houston",
+        "Mãe dela foi presa pela imigração ao tentar recuperar a guarda",
+        "Crianças estariam sendo usadas para localizar familiares"
+      ],
+      "body": "Uma menina de 9 anos de El Salvador escreveu neste verão uma carta à mãe em um abrigo para crianças migrantes na região de Houston: “Quero ficar com você logo”. Segundo seu advogado, ela estava havia mais de sete meses no abrigo administrado pelo governo e implorava para sair. Enquanto a mãe, Carmen, tentava recuperar a guarda, agentes de imigração a prenderam e a enviaram a um centro de detenção na Louisiana, embora ela tivesse um pedido de asilo pendente e nenhum antecedente criminal.\n\nEm setembro, a menina estava entre quase 1.900 crianças mantidas em abrigos supervisionados pelo Escritório de Reassentamento de Refugiados, do Departamento de Saúde, criado pelo Congresso para cuidar de menores desacompanhados separadamente da fiscalização migratória.\n\nDe acordo com a reportagem da KFF Health News, publicada pela CBS, o segundo governo Trump reconfigurou o órgão para ajudar na campanha de deportações, mantendo crianças em vez de reuni-las com familiares nos EUA e, muitas vezes, usando-as para chegar a parentes, segundo entrevistas com famílias, advogados e defensores de crianças, além de documentos judiciais.",
+      "category": "eua",
+      "source": "CBS News / KFF Health News",
+      "url": "https://www.cbsnews.com/news/migrant-children-stranded-us-shelters/",
+      "published_at": "2026-11-02T05:00:19-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/29/48a4689b-d47d-4156-92a2-429c21f7b621/thumbnail/1200x630/59b1ef3ebbb21ed96888350426587d4a/orr-02-crop.jpg"
+    },
+    {
+      "id": "manha-2026-11-02-eua-07",
+      "title": "Seis pontos para acompanhar na noite da eleição",
+      "summary": "A NPR listou os principais sinais a observar na apuração das eleições de meio de mandato desta terça-feira. Entre eles, os primeiros resultados em Indiana, Kentucky e Flórida, o voto latino e o desempenho republicano entre independentes.",
+      "highlights": [
+        "Distritos 22 e 27 da Flórida são indicadores iniciais",
+        "Republicanos costumam vencer quando têm ao menos 46% dos independentes",
+        "Comparecimento de eleitores negros é chave em Michigan"
+      ],
+      "body": "Com tantas disputas em jogo — governos estaduais, Senado, Câmara e legislativos —, a NPR destacou seis pontos para entender como a noite pode terminar. Os primeiros resultados chegam de Indiana e Kentucky às 18h (horário de Nova York), e muitos resultados de distritos da Flórida aparecem a partir das 19h, embora disputas estaduais só possam ser projetadas a partir das 20h.\n\nOs distritos 5 de Indiana e 6 de Kentucky, hoje republicanos, estão mais competitivos do que no início do ciclo; se estiverem apertados, podem indicar baixo comparecimento republicano e uma onda democrata maior. Na Flórida, o distrito 22, democrata, foi redesenhado para favorecer republicanos, e o 27, de maioria latina e vencido por Trump por dois dígitos, pode mostrar como esse eleitorado vai votar.\n\nOutro termômetro é o voto independente: na era Trump, os republicanos têm se saído bem quando conquistam ao menos 46% desse grupo. A NPR também aponta o comparecimento de eleitores negros em estados-chave, como Michigan, cuja disputa ao Senado é crucial para o controle da Casa.",
       "category": "eua",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-      "published_at": "2026-11-01T14:49:15-05:00",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2614x1470+0+135/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F9b%2F8dd4ff984429b0392a7b2129803a%2Fap26305624303454.jpg"
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+      "published_at": "2026-11-02T05:00:00-05:00",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6700x3769+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2Faa%2F6aa1a3614392a76b9f39577196ea%2Fgettyimages-2303052744.jpg"
     },
     {
-      "id": "tarde-2026-11-01-eua-04",
-      "title": "Tiroteios no Halloween deixam mortos em Dallas e Birmingham",
-      "summary": "Uma série de tiroteios no bairro de Deep Ellum, em Dallas, deixou quatro mortos e 15 feridos na noite de Halloween. Foi um entre vários episódios violentos no país no fim de semana, incluindo um ataque após jogo de futebol americano em Birmingham, no Alabama.",
+      "id": "manha-2026-11-02-eua-08",
+      "title": "Kamala Harris volta à campanha e diz não ter decidido sobre 2028",
+      "summary": "Dois anos após a derrota presidencial, Kamala Harris foi recebida como estrela em uma universidade historicamente negra de Atlanta durante a reta final das eleições de meio de mandato. Ela ainda não descartou uma nova candidatura à indicação democrata.",
       "highlights": [
-        "Três tiroteios em Dallas ocorreram em 1h15; polícia apura se estão ligados",
-        "Em Birmingham, 1 morto e 8 feridos perto do estádio Legion Field",
-        "Seis baleados perto da Universidade de Delaware"
+        "Evento foi na Clark Atlanta University, na quinta-feira",
+        "Harris pediu que jovens não deixem ninguém tirar seu poder",
+        "Partido Democrata ainda não definiu quem vai liderá-lo"
       ],
-      "body": "Quatro pessoas morreram e 15 ficaram feridas em tiroteios separados no bairro de Deep Ellum, em Dallas, na noite de Halloween, segundo a polícia. O chefe de polícia, Daniel Comeaux, disse que três tiroteios ocorreram num intervalo de uma hora e 15 minutos e que ainda não se sabe se estão relacionados. Algumas pessoas foram presas, mas ele não informou quantas nem as acusações. A área, um distrito de entretenimento, já tinha reforço policial antes dos ataques.\n\nEm Birmingham, no Alabama, uma pessoa morreu e oito ficaram feridas em um tiroteio do lado de fora do estádio Legion Field, após o tradicional jogo “Magic City Classic” no sábado à noite. Segundo o chefe de polícia, Michael Pickett, a maioria do público já havia deixado o estádio, e os disparos ocorreram perto de vendedores na Graymont Avenue. Uma pessoa foi detida para interrogatório e “várias armas” foram apreendidas.\n\nEm Newark, Delaware, seis pessoas foram baleadas perto do campus da Universidade de Delaware no sábado à noite, e todas foram levadas a hospitais. Em Bloomington, Illinois, um tiroteio na madrugada de domingo deixou uma jovem de 19 anos morta e outra mulher em estado crítico.",
+      "body": "Kamala Harris foi recebida com entusiasmo na Clark Atlanta University, na Geórgia, em um evento de campanha na quinta-feira, dois anos depois de sua derrota na eleição presidencial de 2024. Estudantes da instituição, uma universidade historicamente negra, celebraram a ex-vice-presidente, também formada em uma HBCU, como uma das suas.\n\n“Vim aqui lembrar vocês: nunca deixem ninguém tirar o seu poder”, disse Harris. Ela reconheceu o impacto de sua derrota sobre muitas jovens negras, citando sentimentos de raiva, tristeza, frustração e impotência no último ano e meio.\n\nSegundo o Guardian, mesmo disputando as eleições desta semana, o Partido Democrata ainda não definiu quem pode levá-lo de volta ao poder. Harris, que fez a campanha presidencial mais curta da história moderna dos EUA após a desistência de Joe Biden, não descartou disputar novamente a indicação do partido, mas afirma que ainda não tomou uma decisão sobre 2028.",
       "category": "eua",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham",
-      "published_at": "2026-11-01T11:24:18-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/42439b0539cb73ee4d2bde455a05ca0b24f8a53a/358_0_2084_1667/master/2084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b343ddc223e28c4d737368dc5f64365e"
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/kamala-harris-campaign-midterms",
+      "published_at": "2026-11-02T05:00:38-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/138558be062436be84a1fcb8f6583c19614fc190/500_138_4828_3862/master/4828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0676d7ffba2fea331177ec2bb6b02cbf"
     },
     {
-      "id": "tarde-2026-11-01-eua-05",
-      "title": "Shapiro pede que políticos “deem o exemplo” contra retórica violenta",
-      "summary": "O governador da Pensilvânia, Josh Shapiro, disse no programa “Face the Nation” que autoridades precisam “liderar pelo exemplo” diante de uma retórica de campanha que ele chamou de perigosa. Ele falou sobre ameaças contra ele e sua família.",
+      "id": "manha-2026-11-02-eua-09",
+      "title": "Corredora esfaqueada no Brooklyn segue em estado crítico",
+      "summary": "A polícia de Nova York pede informações sobre o ataque a uma corredora de 28 anos esfaqueada na sexta-feira à beira-mar do Brooklyn. Katie Suarez está internada com aparelhos no NYU Langone Hospital-Brooklyn.",
       "highlights": [
-        "Shapiro citou o ataque incendiário à residência oficial em 2025",
-        "Disse que ameaças aumentaram por causa de sua religião",
-        "Ele busca a reeleição na terça-feira"
+        "Ataque ocorreu por volta das 20h na Shore Parkway",
+        "Vítima sofreu múltiplas facadas no pescoço",
+        "Caso ainda está em desenvolvimento"
       ],
-      "body": "O governador da Pensilvânia, Josh Shapiro, afirmou neste domingo que os políticos devem “liderar pelo exemplo” em meio à retórica de campanha que se intensificou com a proximidade da eleição. “Tentar trazer de volta a gentileza diante da crueldade que vemos deste presidente”, disse ele ao programa “Face the Nation”, da CBS.\n\nShapiro, eleito em 2022 e candidato à reeleição, lembrou o ataque incendiário à residência do governador em 2025, depois que sua família celebrou o Pessach com um Seder no local. “Isso pesa sobre mim, mas não me controla”, afirmou. Segundo ele, desde então ainda mais pessoas ameaçaram ele, a esposa e a família “com base em como eu pratico minha fé”.\n\nQuestionado sobre o tom da campanha em lugares como Michigan, onde ocorre uma disputa decisiva ao Senado, Shapiro disse: “É perigoso. É odioso.” Ele contou que a família concordou que ele deveria seguir na disputa: “Não podemos deixar os vilões vencerem.”",
+      "body": "O Departamento de Polícia de Nova York (NYPD) informou que busca mais informações sobre o ataque a faca contra uma corredora de 28 anos no Brooklyn, que continua em estado crítico. Segundo a emissora WABC, afiliada da ABC, Katie Suarez está internada e respirando com ajuda de aparelhos no NYU Langone Hospital-Brooklyn.\n\nDe acordo com a polícia, ela foi atacada na sexta-feira, por volta das 20h, enquanto corria pela Shore Parkway, perto dos bairros de Bath Beach e Bensonhurst. Em comunicado nas redes sociais, o NYPD disse que a vítima “sofreu múltiplas facadas no pescoço”. A ABC News informa que o caso ainda está em desenvolvimento.",
       "category": "eua",
+      "source": "ABC News",
+      "url": "https://abcnews.com/US/nypd-seeks-info-jogger-stabbed-brooklyn-waterfront-critical/story?id=137764034",
+      "published_at": "2026-11-02T06:46:42-05:00",
+      "image_url": "https://i.abcnewsfe.com/a/d38d3cd1-b915-4ece-aefa-3b902df055de/nypd-1-as-gmh-240122_1705943823746_hpMain_2_16x9.jpg?w=1600"
+    },
+    {
+      "id": "manha-2026-11-02-eua-10",
+      "title": "Futuros dos EUA sobem e petróleo cai quase 4% com esperança de acordo com o Irã",
+      "summary": "Os índices futuros americanos avançaram nesta segunda-feira, depois de a bolsa ter na sexta-feira seu pior dia desde junho, puxado por ações de tecnologia e IA. O petróleo recuava cerca de 4% com a expectativa de avanços diplomáticos entre EUA e Irã.",
+      "highlights": [
+        "Apple divulga resultados trimestrais nesta segunda",
+        "Kioxia despencou 15,8% em Tóquio; Kospi subiu 2,2%",
+        "Investidores temem bolha nos gastos com IA"
+      ],
+      "body": "As bolsas globais tiveram desempenho misto nesta segunda-feira, enquanto os preços do petróleo caíam quase 4% diante de esperanças renovadas de progresso nos esforços diplomáticos entre Estados Unidos e Irã. Os futuros de Wall Street subiram depois de os índices americanos terem, na sexta-feira, seu pior dia desde junho, com investidores vendendo ações ligadas à inteligência artificial e outras de tecnologia.\n\nNa Ásia, o Nikkei 225, do Japão, caiu 0,3%, com queda de 1,6% da SoftBank, investidora da OpenAI, e tombo de 15,8% da fabricante de memórias Kioxia após previsões decepcionantes. O Kospi, da Coreia do Sul, subiu 2,2%, com alta da Samsung e da SK Hynix.\n\nA Apple divulga seus resultados trimestrais ainda nesta segunda. Na semana passada, os balanços da Alphabet e da Amazon levantaram novas dúvidas sobre se os enormes gastos com IA trarão retorno tão rápido quanto o esperado. “Algumas rachaduras apareceram”, disse Sunil Tirumalai, do UBS, para quem a questão será se todo esse dinheiro pode gerar retornos financeiros adequados.",
+      "category": "eua",
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/business/2026/11/02/asian-shares-are-mixed-and-us-futures-advance-while-oil-prices-retreat/",
+      "published_at": "2026-11-02T04:46:47-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/IWOAZBD7AZ7UQX2YEHNTR6YUIU.jpg?auth=42a156d8c6f527b5d8b7aeec2889e7c88be65e08e8b72c88c4468ed10a3043b0&width=700"
+    },
+    {
+      "id": "manha-2026-11-02-mundo-01",
+      "title": "Chanceler do Irã espera “racionalidade” dos EUA para evitar volta da guerra",
+      "summary": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, disse que as consultas com mediadores continuam e que o desfecho depende das respostas dos EUA às “questões iranianas”. Negociadores iranianos estão no Catar discutindo uma proposta que poderia reabrir o Estreito de Ormuz.",
+      "highlights": [
+        "Irã diz não haver conversas diretas com os EUA",
+        "Trump relatou “conversa muito boa” com Netanyahu sobre a guerra",
+        "Ataques israelenses em Gaza mataram oito pessoas, incluindo um menino de 4 anos"
+      ],
+      "body": "O principal diplomata do Irã, Abbas Araghchi, afirmou que espera “racionalidade” do lado americano enquanto esforços diplomáticos tentam evitar o retorno a uma guerra total. Em entrevista divulgada em seu canal no Telegram, ele disse que o Irã está pronto tanto para a defesa quanto para a diplomacia e que o resultado final depende das respostas de Washington às “questões iranianas”.\n\nNo sábado, Araghchi havia dito que negociadores iranianos estavam no Catar para discutir uma proposta que poderia reabrir o Estreito de Ormuz em dois dias se os EUA cumprirem várias condições, ressaltando que não há conversas diretas com Washington. O presidente Donald Trump disse ter tido uma “conversa muito boa” com o premiê israelense Benjamin Netanyahu sobre a guerra no Irã, sem dar detalhes.\n\nEm Gaza, ataques israelenses mataram oito pessoas no domingo, incluindo um menino de 4 anos, segundo hospitais locais. A estatal de gás do Catar também informou que uma de suas embarcações foi atingida no Golfo Pérsico.",
+      "category": "mundo",
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/business/2026/11/01/irans-top-diplomat-hopes-us-shows-rationality-and-other-mideast-news/",
+      "published_at": "2026-11-01T16:40:21-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/ZQBLTOWO7ZONAQ5JWXEZOT5ZLA.jpg?auth=a3fa1c510b2cff365b8a304d6eb9a2edf6db33a319076a8406af1aa86a451a21&width=700"
+    },
+    {
+      "id": "manha-2026-11-02-mundo-02",
+      "title": "Quatro americanos estão entre os 69 mortos em acidente de trem na Espanha",
+      "summary": "Quatro cidadãos dos EUA estão entre as pelo menos 69 vítimas do choque entre dois trens de alta velocidade em Urda, na província de Toledo, na semana passada. Quase todas as vítimas já foram identificadas.",
+      "highlights": [
+        "Trem da estatal RENFE atingiu a traseira de um trem da IRYO a até 200 km/h",
+        "Ministro culpa controlador de tráfego; sindicatos citam falta de pessoal",
+        "É o segundo grande acidente na linha Madri–Sevilha neste ano"
+      ],
+      "body": "Quatro cidadãos americanos estão entre as pelo menos 69 pessoas mortas quando um trem de alta velocidade bateu na traseira de outro, parado, no centro da Espanha, informaram autoridades no domingo. Segundo o órgão espanhol responsável pela identificação de vítimas, também morreram cidadãos do Canadá, Japão, Argentina, México, Tunísia e República Tcheca, além de um francês, um português e 54 espanhóis. Todas as vítimas, exceto três, foram identificadas.\n\nO acidente ocorreu na manhã de 28 de outubro em Urda, na província de Toledo, e deixou 58 feridos. Os dois trens, com mais de 540 pessoas a bordo, seguiam de Madri para Sevilha. Investigadores independentes dizem que o trem da estatal RENFE estava entre 160 e 200 km/h quando atingiu o trem da empresa privada IRYO.\n\nO ministro dos Transportes, Óscar Puente, atribui grande parte do erro a um controlador de tráfego, mas sindicatos ferroviários citam a deterioração das condições de trabalho e o excesso de carga sobre poucos controladores. Foi o segundo grande acidente na linha neste ano: em janeiro, um descarrilamento matou 46 pessoas.",
+      "category": "mundo",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/josh-shapiro-pennsylvania-threats-campaign-rhetoric/",
-      "published_at": "2026-11-01T11:07:24-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/01/ad256bd4-10b6-4959-b24a-d826ca21df0d/thumbnail/1200x630/343a529868b8f82804576d2a1f64b883/1793549040752.png"
+      "url": "https://www.cbsnews.com/news/americans-urda-spain-train-crash/",
+      "published_at": "2026-11-01T19:58:27-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/8ea89795-886d-480c-ac11-3cfebf9a7cf7/thumbnail/1200x630/b15d7c8cdf5321671d0f836dbdf2fb10/gettyimages-2302150353.jpg"
     },
     {
-      "id": "tarde-2026-11-01-eua-06",
-      "title": "Enchentes repentinas forçam evacuações no Arizona e no Colorado",
-      "summary": "Chuvas intensas provocaram enchentes repentinas e ordens de evacuação obrigatória em uma ampla área do sudoeste dos EUA neste domingo. Em Pagosa Springs, no Colorado, autoridades alertaram para uma enchente potencialmente “catastrófica”.",
+      "id": "manha-2026-11-02-mundo-03",
+      "title": "Hackers enviam falsos alertas de radiação em apps de emergência da Ucrânia e da Rússia",
+      "summary": "Aplicativos de alerta de emergência da Ucrânia e da Rússia foram alvo de ataques cibernéticos no domingo, e usuários em Kiev receberam avisos falsos de radiação perigosamente alta. Um grupo chamado Hitcore teria assumido a autoria, o que não foi confirmado.",
       "highlights": [
-        "Rio San Juan pode passar de 19 pés, acima do recorde de 1911",
-        "Sedona, no Arizona, mandou moradores deixarem áreas perto do Oak Creek",
-        "Alertas de enchente cobrem quase todo o Arizona e partes de estados vizinhos"
+        "Alertas falsos citavam radiação, ameaça química e distúrbios em Kiev",
+        "App ucraniano foi restabelecido durante a madrugada",
+        "Força Aérea ucraniana diz que operações de defesa não foram afetadas"
       ],
-      "body": "Novas chuvas fortes provocaram enchentes repentinas e evacuações obrigatórias no sudoeste dos EUA neste domingo. Em Pagosa Springs, cidade das Montanhas Rochosas no Colorado, autoridades alertaram para uma enchente “potencialmente catastrófica”, com previsão de que o rio San Juan chegasse a mais de 19 pés (5,8 metros) por volta das 23h. Na enchente devastadora de 1911, o rio atingiu cerca de 17,8 pés.\n\nEm Sedona, no Arizona, moradores de áreas próximas ao Oak Creek receberam ordem para sair imediatamente, com a água subindo rápido e várias pessoas presas em casa. A vizinha Camp Verde também emitiu ordem de evacuação. “Estamos recebendo dois ou três meses de chuva em poucos dias”, disse um meteorologista do Serviço Nacional de Meteorologia em Tucson, onde houve resgates de barco.\n\nA rodada de chuvas começou no sábado à noite e deve continuar até segunda-feira, com até 4 polegadas (10 cm) previstas. Há alertas de enchente para quase todo o Arizona e partes de Utah, Colorado, Novo México e Nevada.",
-      "category": "eua",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/news/national/2026/11/01/flash-floods-trigger-evacuations-in-arizona-and-colorado-amid-heavy-rains-in-southwest/",
-      "published_at": "2026-11-01T14:59:53-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/DEQKSA47HTCLPM3MZC77QOS3SI.jpg?auth=49d1723c7b51473b42583b78f6037539e10967fae30b171aedbaf79e208b207e&width=700"
-    },
-    {
-      "id": "tarde-2026-11-01-eua-07",
-      "title": "Começa inscrição do Obamacare com preços mais altos para 2027",
-      "summary": "O período de inscrição aberta do Affordable Care Act (Obamacare) começou neste domingo na maioria dos estados e vai até 15 de janeiro. Quem for contratar seguro deve esperar prêmios mais altos, menos opções e menos ajuda financeira.",
-      "highlights": [
-        "Preço médio deve subir 13% em 2027, segundo a KFF",
-        "Subsídios agora são restritos para muitos grupos",
-        "Cerca de 19,2 milhões estavam inscritos em fevereiro"
-      ],
-      "body": "O período de inscrição aberta no marketplace do Affordable Care Act, conhecido como Obamacare, começou neste domingo na maioria dos estados e vai até 15 de janeiro. As mudanças para 2027 incluem fim de parte da ajuda financeira, aumento de preços, possíveis atrasos com corretores, novas restrições a imigrantes e verificações mais rigorosas na inscrição.\n\nSegundo análise da organização KFF com dados do CMS, o preço médio dos planos deve subir 13% em 2027. Cynthia Cox, da KFF, atribui a alta principalmente ao aumento dos custos de saúde e à concentração do mercado hospitalar. Os mais afetados serão os que não têm direito a subsídio; muitos já migraram para os planos bronze, os mais baratos.\n\nO custo do seguro disparou para muitos no segundo mandato de Trump, depois que republicanos se opuseram a estender os subsídios da era da Covid, o que resultou em 1,2 milhão de inscrições a menos. Em fevereiro, cerca de 19,2 milhões de pessoas estavam inscritas em planos do ACA.",
-      "category": "eua",
-      "source": "AP / Local 10",
-      "url": "https://www.local10.com/business/2026/11/01/what-to-know-about-the-affordable-care-acts-open-enrollment-period-now-underway/",
-      "published_at": "2026-11-01T12:11:40-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/X64JERVOAR2G5VJKBTIGUXSJC4.jpg?auth=59e87629ae3293bc6d3e35d4100129a0ae80364618ab8f166d4b68a7deae8f82&width=700"
-    },
-    {
-      "id": "tarde-2026-11-01-eua-08",
-      "title": "Trump critica contrato de US$ 50 mi de ex-advogada com família de banqueiro perdoado",
-      "summary": "Donald Trump criticou sua ex-advogada Alina Habba Mildon por assinar contrato de mais de US$ 50 milhões com a família de um banqueiro venezuelano que ele depois perdoou. O acordo foi assinado quando ela ainda trabalhava no Departamento de Justiça.",
-      "highlights": [
-        "Trump chamou o acordo de “ultrajante” e “inaceitável”",
-        "Contrato previa salário anual de US$ 10 milhões",
-        "Banqueiro Julio Herrera Velutini recebeu perdão em 15 de janeiro"
-      ],
-      "body": "O presidente Donald Trump criticou sua ex-advogada Alina Habba Mildon por ter assinado um contrato de mais de US$ 50 milhões com a família do banqueiro venezuelano Julio Herrera Velutini, a quem Trump depois concedeu perdão. “Achei totalmente desagradável e ultrajante, e não é aceitável”, disse Trump a repórteres em Mar-a-Lago, na Flórida, no sábado.\n\nSegundo o New York Times, Habba Mildon assinou em outubro de 2025 um contrato de quatro anos com uma empresa da família de Herrera, com salário anual de US$ 10 milhões e bônus, quando era procuradora interina dos EUA em Nova Jersey. Herrera era acusado de subornar a ex-governadora de Porto Rico Wanda Vázquez em troca da remoção de um regulador que investigava seu banco.\n\nEla deixou o cargo em dezembro, após decisão judicial, e passou a assessora sênior da procuradora-geral; em 1º de janeiro começou a trabalhar para a família do banqueiro, ainda empregada pelo governo. Duas semanas depois, Trump concedeu o perdão. Habba Mildon nega ter tido qualquer papel na obtenção do perdão.",
-      "category": "eua",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family",
-      "published_at": "2026-11-01T10:50:19-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae74fe7ae021-1793544167.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "tarde-2026-11-01-eua-09",
-      "title": "Votação antecipada bate recordes antes das eleições de terça",
-      "summary": "Eleitores americanos estão votando antecipadamente em números recordes antes das eleições de meio de mandato de terça-feira, especialmente em estados com disputas apertadas pelo Senado. Democratas lideram a participação no voto antecipado.",
-      "highlights": [
-        "Texas teve 7,6 milhões de votos antecipados, recorde para meio de mandato",
-        "Democratas somam 43% dos votos antecipados, contra 31% dos republicanos",
-        "Pesquisa PBS/NPR/Marist mostra 52% a 44% a favor dos democratas"
-      ],
-      "body": "A participação no voto antecipado atingiu níveis recordes em vários estados antes das eleições de 3 de novembro, o que, segundo analistas, pode indicar insatisfação com os republicanos e com Donald Trump. Na Carolina do Norte, o recorde de votos antecipados em uma eleição de meio de mandato foi quebrado, com mais de 1 milhão de democratas votando, contra 679 mil republicanos. No Texas, 7,6 milhões votaram antecipadamente; na Carolina do Sul, quase 1 milhão; na Geórgia, mais de 2,8 milhões.\n\nEm todo o país, democratas responderam por 43% dos votos antecipados, contra 31% dos republicanos e 25% de eleitores sem partido, segundo o laboratório eleitoral da Universidade da Flórida. O cientista político Michael McDonald disse que isso pode refletir um “referendo sobre Trump”.\n\nUma pesquisa PBS News/NPR/Marist indica que 52% dos eleitores pretendem apoiar o candidato democrata ao Congresso em seu distrito, contra 44% para o republicano.",
-      "category": "eua",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
-      "published_at": "2026-11-01T13:19:54-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/45bf68aa4d3743cdc1f62a79cb15e0633c1a6b42/152_0_4383_3507/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e067da3d2d5984c7fa13d522f8aa7083"
-    },
-    {
-      "id": "tarde-2026-11-01-mundo-01",
-      "title": "Negociadores do Golfo “preparados para o pior” em conversas EUA-Irã",
-      "summary": "Autoridades de países do Golfo dizem estar “preparadas para o pior” enquanto aguardam a resposta de Washington a uma proposta iraniana que poderia reabrir o estreito de Ormuz antes das eleições americanas. As conversas indiretas em Doha chegaram ao terceiro dia.",
-      "highlights": [
-        "Catar tenta liberar mais de US$ 6 bilhões em ativos iranianos",
-        "Irã aceitou encurtar cronograma de sete para dois dias",
-        "Trump diz que ainda precisa “cuidar” de um ou dois alvos no Irã"
-      ],
-      "body": "Negociações indiretas em Doha entraram no terceiro dia neste domingo, com o Catar tentando negociar a liberação de mais de US$ 6 bilhões em ativos iranianos, o que poderia levar à reabertura do estreito de Ormuz e à retomada das negociações sobre o programa nuclear do Irã. O enviado dos Emirados Árabes Unidos, Anwar Gargash, disse que uma nova escalada não interessa a ninguém na região: “Também estamos, como já mostramos, preparados para o pior.”\n\nA mediação continuou apesar de mísseis não identificados terem atingido na sexta-feira um navio-tanque de GNL do Catar que seguia para o Paquistão perto de Ormuz, horas depois de receber autorização de passagem de Teerã. O Catar busca um plano que comprima o processo em que os EUA suspendem sanções e o Irã reabre o estreito; segundo o Guardian, o Irã aceitou reduzir o prazo de sete para dois dias.\n\nO chanceler iraniano, Abbas Araghchi, disse esperar que os EUA escolham “a diplomacia” e que não há planos de conversas diretas. Trump afirmou no sábado que as negociações para encerrar a guerra, iniciada por EUA e Israel em fevereiro, “vão bem, mas eles não são muito confiáveis”.",
-      "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
-      "published_at": "2026-11-01T12:49:28-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/75595a1f74415be71c080524ca6d4e1d0a54626c/199_0_6398_5119/master/6398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68e22b20ddbe0032ee5dab6f842949df"
-    },
-    {
-      "id": "tarde-2026-11-01-mundo-02",
-      "title": "Ucrânia desafia Trump e retoma ataques a refinarias russas",
-      "summary": "A Ucrânia voltou a atacar refinarias de petróleo russas, contrariando a pressão de Donald Trump antes das eleições americanas. Drones ucranianos incendiaram a refinaria de Kstovo, segundo a mídia estatal russa.",
-      "highlights": [
-        "Ataques atingiram refinarias em Nizhny Novgorod e Samara",
-        "Kyiv nega ter aceitado pausa de 30 dias pedida por Jared Kushner",
-        "Zelensky diz que Rússia teve recorde de 54,4 mil baixas em outubro"
-      ],
-      "body": "A mídia estatal russa informou neste domingo que drones de longo alcance ucranianos incendiaram durante a noite a refinaria de Kstovo, na região de Nizhny Novgorod, pouco depois de um grande ataque a outra refinaria da estatal Rosneft na região de Samara. O Wall Street Journal havia relatado que a Ucrânia cedera à pressão da Casa Branca para parar de bombardear a infraestrutura energética russa, mas autoridades ucranianas disseram nunca ter aceitado o pedido de Jared Kushner de uma pausa de 30 dias.\n\nTrump culpa Zelensky pela alta global dos combustíveis e, no mês passado, suspendeu sanções americanas ao diesel russo. Zelensky não comentou os ataques às refinarias; disse, em vez disso, que suas forças atingiram uma fábrica de mísseis na região russa de Rostov, e justificou a retaliação pela campanha de Moscou contra instalações de energia ucranianas.\n\nQuatro regiões ucranianas foram atingidas durante a noite, deixando centenas de milhares de casas sem luz, e Kiev teve cortes de oito a dez horas após danos a uma usina térmica. Zelensky afirmou que a Rússia sofreu 54.400 baixas em outubro, recorde mensal desde o início da invasão em larga escala.",
-      "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
-      "published_at": "2026-11-01T12:20:18-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/e521bd30aafd13837c587fdc1c0f6c632ad8d0fd/1585_152_2231_1784/master/2231.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09673a80783ed613f95ef861202aeab8"
-    },
-    {
-      "id": "tarde-2026-11-01-mundo-03",
-      "title": "Bocas de urna indicam vitória de Iliana Yotova na Bulgária",
-      "summary": "Pesquisas de boca de urna indicam que a presidente Iliana Yotova venceu o segundo turno na Bulgária, com cerca de 52% dos votos. Se confirmado, ela será a primeira mulher eleita chefe de Estado do país.",
-      "highlights": [
-        "Rival Andrey Gyurov, pró-Ocidente, teria cerca de 44%",
-        "Yotova tem apoio do partido do premiê Rumen Radev, visto como próximo de Moscou",
-        "Observadores temem concentração de poder"
-      ],
-      "body": "Pesquisas de boca de urna na Bulgária apontam a presidente Iliana Yotova como provável vencedora do segundo turno presidencial deste domingo, com cerca de 52% dos votos, segundo vários institutos. O ex-primeiro-ministro interino Andrey Gyurov, apoiado por partidos reformistas pró-Ocidente, aparece com cerca de 44%. Resultados oficiais parciais eram esperados para a noite.\n\nA votação foi o primeiro grande teste para o partido Progressive Bulgaria, do premiê Rumen Radev, considerado amigável a Moscou, que conquistou maioria absoluta no Parlamento em abril. Observadores dizem que a vitória de Yotova manteria a Presidência nas mãos da maioria governista, o que poderia enfraquecer os freios e contrapesos.\n\nYotova, de 62 anos, assumiu a Presidência em janeiro, quando Radev renunciou para disputar o Parlamento. Ela deve manter a Bulgária no caminho europeu, mas defendendo melhores relações com a Rússia e o fim das sanções.",
+      "body": "Autoridades da Ucrânia e da Rússia informaram que seus aplicativos de alerta de emergência foram alvo de ataques cibernéticos na noite de domingo. Na Ucrânia, usuários receberam avisos falsos de níveis perigosamente altos de radiação, ameaça química e distúrbios públicos em Kiev. O canal oficial de alertas antiaéreos disse que “partes não autorizadas” interferiram no aplicativo, que foi suspenso temporariamente e restabelecido durante a madrugada.\n\nAs mensagens estavam em inglês com erros de ortografia e numa mistura de russo e ucraniano, e uma delas mencionava o grupo hacker Hitcore. O canal russo Mash, ligado aos serviços de segurança, disse que representantes do grupo assumiram a autoria, o que não pôde ser verificado de forma independente. Um porta-voz da Força Aérea ucraniana afirmou que o ataque não afetou as operações de defesa, pois o app é separado dos sistemas militares.\n\nNa Rússia, autoridades disseram nesta segunda-feira que hackers enviaram alertas falsos após invadir o aplicativo do Ministério de Emergências. O ministério não identificou os autores e garantiu que o sistema público de alertas, que inclui SMS, transmissões e sirenes, funciona normalmente.",
       "category": "mundo",
       "source": "AP / Local 10",
-      "url": "https://www.local10.com/business/2026/11/01/exit-polls-suggest-that-yotova-wins-runoff-to-become-bulgarias-first-elected-female-president/",
-      "published_at": "2026-11-01T13:34:21-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/SBLTFXC4SNK3UYRJP7E56JSEXI.jpg?auth=1d4e31e53aeb4e0114ff597e6f5ff25313d5badc2a8364456a9efd8542b2a97f&width=700"
+      "url": "https://www.local10.com/news/world/2026/11/02/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattack-targets-apps/",
+      "published_at": "2026-11-02T05:22:59-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/FWJOO5CQR6KMNV3KAEKBSIAKL4.jpg?auth=9b68005cdbf82d7de5edb6f8e48282c65d6e02291887cdd07c085a97dfda0605&width=700"
     },
     {
-      "id": "tarde-2026-11-01-mundo-04",
-      "title": "Polícia detém 325 pessoas em protesto pró-Palestine Action em Londres",
-      "summary": "A polícia de Londres prendeu 325 pessoas em um protesto em frente à embaixada dos EUA contra a proibição do grupo Palestine Action. A maioria foi detida por supostamente demonstrar apoio a uma organização banida pela Lei Antiterrorismo.",
+      "id": "manha-2026-11-02-mundo-04",
+      "title": "Fim de cessar-fogo local em Kherson deixa civis à espera da volta da guerra",
+      "summary": "Moradores da região de Kherson, na Ucrânia, se prepararam no domingo para o fim de um cessar-fogo localizado, a trégua mais significativa entre Kiev e Moscou desde o início da invasão em larga escala. A Casa Branca diz que a primeira-dama Melania Trump ajudou a intermediar o acordo.",
       "highlights": [
-        "Suprema Corte britânica analisa a proibição na quarta-feira",
-        "Total de presos desde o banimento chega a 4.200, diz grupo organizador",
-        "Cerca de 2.500 foram acusados, mas julgamentos estão suspensos"
+        "Trégua permitiu evacuar moradores da cidade sitiada de Oleshky",
+        "Cerca de 2.000 civis estavam em Oleshky quando a pausa começou",
+        "Zelensky diz que Rússia segue atacando o sistema de energia"
       ],
-      "body": "A Polícia Metropolitana de Londres informou neste domingo que 325 pessoas foram presas no sábado em uma manifestação em frente à embaixada dos EUA, em Battersea, contra a proscrição do grupo Palestine Action. Segundo a polícia, 320 foram detidas por supostamente expressar apoio a uma organização banida pela Lei Antiterrorismo.\n\nAs prisões ocorreram antes da contestação à proibição na Suprema Corte, marcada para quarta-feira. O Palestine Action foi o primeiro grupo de ação direta proscrito sob a lei, em julho do ano passado. O grupo Defend Our Juries, que organiza a campanha de desobediência civil, diz que o total de presos desde o banimento chegou a 4.200, a maioria por segurar cartazes com os dizeres “Eu me oponho ao genocídio, apoio o Palestine Action”.\n\nCerca de 2.500 pessoas foram acusadas, mas todos os julgamentos foram adiados até uma decisão definitiva sobre a legalidade da proibição. Os protestos foram os maiores contra o banimento desde que Andy Burnham se tornou primeiro-ministro.",
-      "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-action-protest-at-us-embassy-in-london",
-      "published_at": "2026-11-01T12:29:20-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/b554e6b6f1cab919f6b32ed7a3c17f6c8a73e122/478_0_4390_3513/master/4390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cb6bcdc047810125cef0f5330cea6b6"
-    },
-    {
-      "id": "tarde-2026-11-01-mundo-05",
-      "title": "Dezenas de milhares protestam contra governo Modi em Délhi",
-      "summary": "Dezenas de milhares de apoiadores da oposição se reuniram em Délhi em protesto contra o governo de Narendra Modi. A revolta gira em torno de uma revisão do cadastro eleitoral que apagou 130 milhões de nomes.",
-      "highlights": [
-        "Oposição pede renúncia e impeachment do chefe da comissão eleitoral",
-        "Rahul Gandhi acusou Gyanesh Kumar do “maior crime”",
-        "Público ficou abaixo do milhão previsto pelo Congresso"
-      ],
-      "body": "Liderada pelo Partido do Congresso, a aliança de oposição da Índia reuniu apoiadores de todo o país em Délhi neste domingo, em meio à crescente revolta contra uma ampla revisão do cadastro eleitoral que eliminou 130 milhões de nomes. A oposição afirma que o processo favorece o partido governista BJP e pede a renúncia e o impeachment do chefe da comissão eleitoral, Gyanesh Kumar. O BJP nega.\n\nDiante de dezenas de milhares de pessoas, o líder oposicionista Rahul Gandhi disse que Kumar “cometeu o maior crime” e “tentou silenciar a voz do povo”. Foi uma das maiores demonstrações de força da oposição em anos, em meio a um ressurgimento de protestos, incluindo o movimento jovem que se autodenomina “Baratas”, que forçou a renúncia de um ministro no verão.\n\nO Congresso havia previsto um milhão de participantes, mas o público ficou na casa das dezenas de milhares, com cadeiras vazias visíveis. Líderes do movimento “Baratas” manifestaram apoio, mas não compareceram.",
-      "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
-      "published_at": "2026-11-01T11:11:50-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/85ebfc268b05d8953c7e260e77d281e7aeb8c85e/0_0_3588_2871/master/3588.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6f3f486276c3037ac6788d8e5cc1651"
-    },
-    {
-      "id": "tarde-2026-11-01-mundo-06",
-      "title": "Rússia detém adolescente por suposto plano de ataque após alerta dos EUA",
-      "summary": "Autoridades russas detiveram um adolescente suspeito de planejar um ataque em um parque popular de Moscou, após receberem um alerta dos Estados Unidos. O FSB agradeceu publicamente ao “lado americano” pela informação.",
-      "highlights": [
-        "Suspeito postou fotos no TikTok com balaclava e aparente arma automática",
-        "Embaixada dos EUA alertou para “ameaça crível” no parque Tsaritsyno",
-        "Parque foi fechado temporariamente no sábado"
-      ],
-      "body": "O Serviço Federal de Segurança da Rússia (FSB) deteve um adolescente suspeito de planejar um ataque no Museu-Reserva Tsaritsyno, um popular complexo de palácio e parque no sul de Moscou, segundo a agência Interfax. O suspeito, cidadão russo não identificado, publicou fotos no TikTok usando balaclava e roupas táticas e segurando o que parecia ser uma arma automática, além de imagens do parque com a legenda “Encontrei um lugar”.\n\nSegundo o FSB, a busca na casa do jovem encontrou as roupas das fotos, e o celular tinha pesquisas sobre atentados e assassinatos em massa, além de inscrição em um canal neonazista no Telegram. A detenção ocorreu após a embaixada dos EUA em Moscou emitir no sábado um alerta sobre “ameaça crível de um evento com vítimas em massa” no local.\n\n“Somos gratos ao lado americano por fornecer a informação”, disse o FSB. Os EUA já haviam alertado a Rússia em março de 2024, semanas antes do ataque a uma casa de shows em Moscou que matou mais de 140 pessoas.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning",
-      "published_at": "2026-11-01T11:24:16-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae75dc9-1793547721.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "tarde-2026-11-01-mundo-07",
-      "title": "Carney relata progresso em negociação comercial com Trump",
-      "summary": "O primeiro-ministro do Canadá, Mark Carney, disse ter tido uma conversa construtiva com Donald Trump sobre um possível acordo comercial. As equipes vão trabalhar nas próximas semanas para fechar o acordo.",
-      "highlights": [
-        "Canadá abandonou negociações em agosto e EUA impuseram tarifas de 50%",
-        "Discussões envolvem alívio de tarifas sobre aço e automóveis",
-        "Guerra comercial pesa nas eleições em Michigan e Maine"
-      ],
-      "body": "O primeiro-ministro canadense, Mark Carney, afirmou neste domingo que teve uma conversa construtiva com o presidente Donald Trump sobre um possível acordo comercial e que os negociadores trabalharão nas próximas semanas para chegar a um entendimento. Segundo ele, o acordo criaria empregos, reduziria custos para as famílias e protegeria as línguas, a cultura e a soberania do Canadá.\n\nO tom otimista marca uma mudança em relação a agosto, quando o Canadá deixou as negociações após rejeitar exigências dos EUA que, segundo Carney, ameaçavam a soberania do país, a proteção ao francês e a indústria automotiva. Trump respondeu com tarifas de 50% sobre cerca de US$ 20 bilhões em produtos canadenses, e o Canadá retaliou.\n\nOs dois lados discutem alívio das tarifas sobre aço e automóveis, sem detalhes anunciados. A guerra comercial virou tema nas eleições de meio de mandato, especialmente em Michigan e Maine. Paralelamente, Canadá e União Europeia lançaram na sexta-feira uma nova aliança econômica e de segurança.",
+      "body": "Civis da região de Kherson, no sudeste da Ucrânia, se prepararam no domingo para o fim de um cessar-fogo localizado que representou a trégua mais significativa entre Kiev e Moscou desde o início da invasão russa em larga escala, há quase cinco anos. Segundo a Casa Branca, a primeira-dama Melania Trump ajudou a intermediar a pausa, que começou na terça-feira e deveria terminar na noite de domingo.\n\nA trégua permitiu a evacuação de moradores da cidade sitiada de Oleshky, na linha de frente, em uma rara operação conjunta encerrada no sábado. Cerca de 2.000 civis estavam na cidade quando o cessar-fogo começou; eles puderam escolher entre ir para território controlado pela Ucrânia ou pela Rússia, ou permanecer com suprimentos de comida e remédios reabastecidos.\n\nEm outras regiões, porém, os ataques aéreos continuaram. O presidente Volodymyr Zelensky disse que a Rússia segue mirando o sistema de energia ucraniano antes do inverno e que centenas de milhares de famílias ficaram sem luz durante a noite, aproveitando a escassez de interceptores de mísseis balísticos.",
       "category": "mundo",
       "source": "AP / Local 10",
-      "url": "https://www.local10.com/business/2026/11/01/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-us-midterms/",
-      "published_at": "2026-11-01T13:39:11-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/2G4UQ33L2ZZ72NI2YNECNIUN74.jpg?auth=3d41124f410cf60020831222cad8abde6ea8a41dedc1083b0ddb2e6c48318020&width=700"
+      "url": "https://www.local10.com/business/2026/11/01/civilians-in-ukraines-kherson-prepare-for-the-return-of-war-as-localized-ceasefire-ends/",
+      "published_at": "2026-11-01T22:05:20-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/4M5BLCH6FYSNWIIMFBMPLBVYLI.jpg?auth=8f09d58a500cd968268601fcf7941076bfd6142ae1ad7e3e5c1d22ecd8ec9899&width=700"
     },
     {
-      "id": "tarde-2026-11-01-mundo-08",
-      "title": "Rede elétrica do Sudão à beira do colapso após ataques de drones",
-      "summary": "Ataques de drones derrubaram subestações em duas cidades do norte do Sudão neste domingo, na mais recente de uma série de ofensivas contra estações de energia atribuídas às Forças de Apoio Rápido (RSF). As quedas afetam hospitais, água e comércio.",
+      "id": "manha-2026-11-02-mundo-05",
+      "title": "Autoridades de Israel dizem que eleição será mantida após Netanyahu acusar árabes de fraude",
+      "summary": "As autoridades eleitorais de Israel afirmaram que o resultado da votação da semana passada não será anulado, mesmo que acusações de interferência estrangeira sejam comprovadas. O partido Likud, de Netanyahu, alega sem provas que partidos árabes “roubaram” a eleição.",
       "highlights": [
-        "Al-Dabbah e Abu Hamad ficaram sem energia",
-        "15 subestações foram atacadas desde o início de outubro",
-        "Médicos alertam para risco a diálise, bancos de sangue e vacinas"
+        "Bloco de Netanyahu caiu para 53 das 120 cadeiras do Knesset",
+        "Bloco de Gadi Eisenkot e partidos árabes somam maioria",
+        "Juiz libertou suspeitos em caso de suposta compra de votos"
       ],
-      "body": "Ataques de drones destruíram subestações de energia em Al-Dabbah, no estado do Norte, e em Abu Hamad, no estado do Rio Nilo, deixando as duas cidades sem eletricidade neste domingo. O governo sudanês e um grupo de direitos humanos culparam a força paramilitar RSF. Segundo o grupo Emergency Lawyers, 15 subestações foram atacadas desde o início de outubro, deixando a rede dependente de poucas usinas.\n\nEm Al-Dabbah, que abriga milhares de deslocados, moradores acordaram com uma explosão pouco depois das 4h; o vigia da subestação, Mohammed al-Nour, morreu. A falta de energia fechou mercados, hospitais e padarias, e não há diesel para geradores. A Rede de Médicos do Sudão alertou que as quedas colocam em risco hospitais, centros de diálise, bancos de sangue e a refrigeração de remédios e vacinas.\n\nAgricultores enfrentam ameaça ainda maior no início da safra de inverno, já que a irrigação depende de eletricidade. Em Abu Hamad, o ataque destruiu a subestação, mas não deixou vítimas.",
+      "body": "Os esforços do primeiro-ministro israelense Benjamin Netanyahu para questionar a eleição da semana passada perderam força no domingo. O chefe do comitê eleitoral apareceu ao lado da procuradora-geral e do chefe do Shin Bet em um pronunciamento para deixar claro que, mesmo que as alegações de interferência estrangeira sejam comprovadas, o resultado será mantido.\n\nO Likud afirma, sem apresentar provas, que partidos liderados por árabes “roubaram” a eleição, citando, entre outros casos, a prisão de ativistas com envelopes de dinheiro, supostamente para comprar votos. A polícia ligou os suspeitos ao partido islamista Ra'am, que nega envolvimento. No domingo, um juiz questionou ou rejeitou pedidos de restrições adicionais: um suspeito foi solto sob condições, outro ficou em prisão domiciliar por oito dias e a detenção de um terceiro foi prorrogada por dois dias.\n\nO bloco de Netanyahu caiu para 53 das 120 cadeiras do Knesset, ante um pico de 68 no Parlamento que se encerra. O bloco liderado por seu principal rival, Gadi Eisenkot, conquistou 48 cadeiras, e os partidos árabes, 19. Juntos, os dois blocos de oposição têm votos suficientes para formar governo, embora não esteja claro se chegarão a um acordo.",
       "category": "mundo",
       "source": "AP / Local 10",
-      "url": "https://www.local10.com/news/world/2026/11/01/sudans-power-grid-nears-collapse-as-drone-strikes-blamed-on-rsf-target-electric-stations/",
-      "published_at": "2026-11-01T12:36:41-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/NJ34NKRDAE43SZLKM3JGULPRUI.jpg?auth=5a1c94da3bb07821a6fd1c6c969a781a26ad28e6f734e4ebfeda74dc964d7764&width=700"
+      "url": "https://www.local10.com/business/2026/11/01/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed/",
+      "published_at": "2026-11-01T16:54:19-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/5CBI7KITUNIO7K4XFRFZZQSKME.jpg?auth=ce8b12718b44230c0ef4035cea86e008cc3b5ef748bc138aeb562c1a68005373&width=700"
     },
     {
-      "id": "tarde-2026-11-01-mundo-09",
-      "title": "Reino Unido vai exigir até 10 ou 15 anos para residência permanente",
-      "summary": "A ministra do Interior britânica, Shabana Mahmood, anunciará na segunda-feira novas regras que farão a maioria dos migrantes legais esperar uma década pela residência permanente, e alguns até 15 anos. Cuidadores já no país devem ter alguma exceção.",
+      "id": "manha-2026-11-02-mundo-06",
+      "title": "Missão de paz da ONU no Saara Ocidental termina após 35 anos",
+      "summary": "A missão de paz da ONU no disputado Saara Ocidental encerrou as operações no domingo, após um impasse entre EUA e Rússia no Conselho de Segurança. O fim da missão levanta preocupações sobre a estabilidade na região.",
       "highlights": [
-        "Prazo padrão para residência dobraria de 5 para 10 anos",
-        "Espera poderia cair com sistema de pontos ou renda mais alta",
-        "Críticos comparam as regras às políticas da era Windrush"
+        "Rússia vetou proposta americana favorável à soberania do Marrocos",
+        "Proposta russa para estender a missão também foi rejeitada",
+        "Marrocos comemorou; Frente Polisário e Argélia criticaram"
       ],
-      "body": "Shabana Mahmood apresentará aos parlamentares na segunda-feira a resposta do governo à consulta sobre a reforma das regras de assentamento (indefinite leave to remain). Pelo plano, o prazo padrão para obter residência permanente dobraria de cinco para dez anos, e trabalhadores em ocupações abaixo do nível de graduação, como cuidadores, poderiam esperar até 15 anos, sujeitos a exceções.\n\nMinistros, incluindo Angela Rayner, haviam manifestado preocupação com o efeito sobre cuidadores que já estão no país, e a resposta deve trazer alguma isenção para eles. Mahmood propôs que a espera possa ser reduzida para quem comprovar contribuição à comunidade, via sistema de pontos, ou renda mais alta. O Home Office concedeu cerca de 200 mil vistos de saúde e cuidados nos últimos cinco anos.\n\nEm carta vista pelo Guardian, parlamentares e organizações de trabalhadores migrantes e de saúde descrevem as propostas como “uma versão das políticas da era Windrush”, escândalo revelado em 2017.",
+      "body": "A missão de paz das Nações Unidas no Saara Ocidental encerrou suas operações no domingo, depois de 35 anos, em consequência de um impasse entre Estados Unidos e Rússia na sede da ONU sobre o futuro do território. “Este 1º de novembro de 2026 marca o início do período de liquidação”, disse o porta-voz do secretário-geral, Stéphane Dujarric; uma equipe menor cuidará do transporte de equipamentos dos países que contribuíram com tropas.\n\nNa sexta-feira, a Rússia vetou no Conselho de Segurança uma proposta dos EUA que apoiaria a reivindicação de soberania do Marrocos sobre o território e encerraria a missão no ano que vem. Em seguida, uma resolução rival russa para estender o mandato foi derrotada, o que levou ao fim abrupto da força, criada em 1991.\n\nO palácio real marroquino comemorou a não renovação, chamando a missão de “instrumento para internacionalizar a disputa”. A Frente Polisário, apoiada pela Argélia, classificou a decisão como “inaceitável”. Rico em minerais e pesca, o Saara Ocidental, antiga colônia espanhola, é a disputa territorial mais longa da África.",
       "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
-      "published_at": "2026-11-01T14:47:35-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/f1f16c15b5e42d5c5465fdf412d325d0b806220f/311_0_3090_2472/master/3090.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0488705576166b0ab71736530376dffe"
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+      "published_at": "2026-11-02T02:19:35-05:00",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8351x4697+0+435/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F4e%2Fde1f3e074a53adb6510217f3e291%2Fap26305659609431.jpg"
     },
     {
-      "id": "tarde-2026-11-01-mundo-10",
-      "title": "Policiais armados com fuzis passam a patrulhar Sydney",
-      "summary": "Policiais fortemente armados começaram a patrulhar as ruas de Sydney como parte de medidas de segurança após o ataque a tiros em Bondi Beach no ano passado. A nova unidade atuará em áreas turísticas, grandes eventos e locais de culto.",
+      "id": "manha-2026-11-02-mundo-07",
+      "title": "Uganda começa a retirar tropas da Somália após 20 anos",
+      "summary": "Uganda iniciou a retirada de seus soldados da Somália depois de quase duas décadas de envolvimento militar no combate ao grupo al-Shabab. Todas as forças, incluindo as da missão da União Africana, devem sair até o fim de 2027.",
       "highlights": [
-        "Ataque em Bondi em dezembro matou 15 pessoas durante evento de Hanukkah",
-        "Unidade terá 250 policiais",
-        "Anistia Internacional critica “militarização” do policiamento"
+        "Primeiro grupo de 109 soldados deixou Mogadíscio na sexta-feira",
+        "Somália deve assumir a responsabilidade total pela segurança",
+        "Cerca de 4.500 soldados atuam na missão da União Africana"
       ],
-      "body": "A polícia de Nova Gales do Sul lançou o Armed Response Command (ARC), com policiais especialmente treinados portando fuzis em áreas turísticas movimentadas de Sydney, uma cena pouco familiar para a maioria dos moradores. Segundo a polícia, os agentes também vão patrulhar grandes eventos esportivos e locais de culto para “prevenir, dissuadir e responder rapidamente a ameaças graves”.\n\nA medida responde ao ataque de 14 de dezembro em Bondi Beach, quando dois atiradores abriram fogo contra um evento de Hanukkah e mataram 15 pessoas, incluindo uma menina de 10 anos. Foi o pior tiroteio em massa da Austrália em quase três décadas e levou a reformas nas leis de armas e a medidas contra discursos de ódio.\n\nComunidades judaicas saudaram a operação, que terá 250 policiais. Já a Anistia Internacional Austrália disse estar preocupada com a “militarização do policiamento” e pediu garantias de que a unidade não será usada contra protestos pacíficos.",
+      "body": "Uganda começou a retirar suas tropas da Somália após quase duas décadas de presença militar no país. O porta-voz interino do Exército ugandense, Chris Magezi, disse nesta segunda-feira que o primeiro grupo enviado por acordo bilateral já voltou para casa e que outros seguirão nos próximos dias, com saída total, incluindo as forças da missão da União Africana, até o fim de 2027.\n\nUganda foi o primeiro país africano a enviar soldados à Somália pela missão Amisom, criada em 2007 para proteger o governo de transição de ataques de militantes islamistas. “Depois de 20 anos de muito sangue e sacrifício, estamos entregando a segurança aos nossos irmãos somalis”, escreveu o chefe do Exército, general Muhoozi Kainerugaba.\n\nA retirada ocorre após uma visita do presidente somali, Hassan Sheikh Mohamud, a Kampala, onde ele teria tentado convencer Uganda a prolongar sua presença militar. Atualmente, cerca de 4.500 soldados estão na Somália pela missão da União Africana, além de aproximadamente 2.000 em acordos bilaterais.",
       "category": "mundo",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
-      "published_at": "2026-11-01T12:56:47-05:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
+      "published_at": "2026-11-02T03:40:35-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c17/live/01b6a350-d68f-11f1-b7fe-13bd08d80ad6.jpg"
+    },
+    {
+      "id": "manha-2026-11-02-mundo-08",
+      "title": "Índia retira milhares de pessoas antes do segundo ciclone em uma semana",
+      "summary": "Autoridades do estado indiano de Andhra Pradesh começaram a retirar moradores de áreas costeiras com a aproximação do ciclone Murasu. A tempestade deve tocar a costa perto de Ongole na noite desta segunda-feira, com ventos de 100 a 110 km/h.",
+      "highlights": [
+        "Cerca de 2.000 retirados até agora; meta é 30 mil",
+        "Escolas fechadas em Andhra Pradesh, Tamil Nadu e Odisha",
+        "Região ainda se recupera do ciclone Arnab, que matou seis"
+      ],
+      "body": "Autoridades de Andhra Pradesh, no sul da Índia, começaram a evacuar moradores de áreas costeiras baixas com a aproximação do ciclone Murasu, numa região que ainda se recupera de um ciclone mortal na semana passada. Cerca de 2.000 pessoas haviam sido retiradas até segunda-feira, e a previsão é chegar a 30 mil, segundo a autoridade estadual de gestão de desastres.\n\nO Departamento Meteorológico da Índia prevê que o ciclone atravesse a costa sul de Andhra Pradesh, perto de Ongole, entre a noite de segunda e a madrugada de terça, como tempestade ciclônica severa com ventos de 100 a 110 km/h e rajadas de 120 km/h. O governo estadual estima que de 6.000 a 8.000 postes de energia possam ser danificados.\n\nEquipes nacionais e estaduais de resposta a desastres foram posicionadas com antecedência, pescadores foram orientados a não sair ao mar e escolas foram fechadas em Andhra Pradesh, Tamil Nadu e Odisha. O Murasu deve ser menos intenso que o ciclone Arnab, que atingiu a mesma costa na quarta-feira.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week",
+      "published_at": "2026-11-02T03:29:29-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae82c93-1793600659.jpg?resize=1200%2C630"
+    },
+    {
+      "id": "manha-2026-11-02-mundo-09",
+      "title": "Sudão denuncia Etiópia à ONU por ataques de drones",
+      "summary": "O Sudão apresentou queixas contra a Etiópia no Conselho de Segurança da ONU e na União Africana, acusando as RSF de usar território etíope para lançar ataques de drones. Segundo Cartum, 484 civis foram mortos ou feridos desde fevereiro.",
+      "highlights": [
+        "Relatório cita 70 ataques com 187 drones entre fevereiro e outubro",
+        "Bases apontadas incluem o aeroporto de Asosa e Bahir Dar",
+        "Guterres disse estar “estarrecido” com os ataques no Sudão"
+      ],
+      "body": "O Sudão apresentou uma queixa contra a Etiópia no Conselho de Segurança da ONU e no Conselho de Paz e Segurança da União Africana após uma série de ataques mortais com drones neste ano. Em nota divulgada no domingo, o Ministério das Relações Exteriores acusou o grupo paramilitar Forças de Apoio Rápido (RSF) de usar território etíope para lançar uma “agressão descarada” contra locais civis e usinas de energia.\n\nUm relatório do Conselho Soberano de Transição, liderado pelo Exército, aponta 70 ataques entre 15 de fevereiro e 27 de outubro, envolvendo 187 drones, que mataram ou feriram 484 civis e mataram 176 soldados. O documento cita pontos de lançamento no aeroporto de Asosa, na região fronteiriça de Kurmuk-Gizen e na base aérea de Bahir Dar, e menciona um ataque em 9 de outubro contra famílias deslocadas que matou 30 civis.\n\nO Exército sudanês acusa a Etiópia de ajudar as RSF, contra quem luta numa guerra civil desde abril de 2023; a Etiópia, por sua vez, acusa os militares sudaneses de apoiar rebeldes ligados à Frente de Libertação do Povo Tigré, o que Cartum nega. No sábado, o secretário-geral da ONU disse estar “estarrecido” com o impacto dos ataques de drones no país.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree",
+      "published_at": "2026-11-02T05:25:22-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260812__C4GH963__v1__MidRes__SudanConflictDroneKhartoum-1793611389.jpg?resize=1200%2C630"
+    },
+    {
+      "id": "manha-2026-11-02-mundo-10",
+      "title": "Executiva americana criada em Miami assume comunicação do Vaticano",
+      "summary": "Maria Montserrat Alvarado, executiva de mídia de 39 anos, assume nesta semana a chefia da comunicação do Vaticano, sendo a primeira leiga a comandar um “ministério” da Santa Sé. Nascida no México, ela cresceu em Miami.",
+      "highlights": [
+        "Será também a primeira não italiana no cargo",
+        "Era presidente e diretora de operações da EWTN News desde 2023",
+        "Nomeação foi uma escolha direta do papa Leão XIV"
+      ],
+      "body": "Maria Montserrat “Montse” Alvarado, executiva de mídia americana de 39 anos, torna-se nesta semana a nova chefe do Dicastério para a Comunicação do Vaticano, a primeira leiga a dirigir um “ministério” da Santa Sé. Mexicana-americana, ela também será a primeira pessoa não italiana a comandar o departamento, que reúne a TV, a rádio, os veículos impressos e a sala de imprensa do Vaticano.\n\nAnalistas veem na nomeação, anunciada em junho, um sinal de que o papa Leão XIV enxerga o papel das mulheres de forma diferente de seus antecessores. Alvarado disse que não se candidatou ao cargo e que foi “uma nomeação do Santo Padre”. Desde 2023, ela era presidente e diretora de operações da EWTN News, braço jornalístico da maior rede de TV católica dos EUA.\n\nNascida no México, Alvarado chegou aos Estados Unidos ainda criança e cresceu em Miami, antes de se mudar para Washington para estudar. Trabalhou por 14 anos no Becket Fund for Religious Liberty, escritório sem fins lucrativos que defende a liberdade religiosa.",
+      "category": "mundo",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/maria-alvarado-us-executive-vatican-key-job-first-laywoman-ministry/",
+      "published_at": "2026-11-02T06:13:14-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/346925c2-c6c0-4f6e-9a6e-75ea35eade9c/thumbnail/1200x630/3f186421bbc6f2ca4f55997ad858d473/gettyimages-2289092816.jpg"
+    },
+    {
+      "id": "manha-2026-11-02-weston-01",
+      "title": "Weston vai discutir rezoneamento de terreno de 16 acres em Cascade Terrace",
+      "summary": "A Comissão Municipal de Weston publicou aviso de audiência pública sobre uma lei que muda o zoneamento de um terreno de 16 acres em Cascade Terrace, de agrícola para residencial unifamiliar. A reunião e a primeira leitura serão em 16 de novembro, na prefeitura.",
+      "highlights": [
+        "Mudança de “Agricultural Estate (AE)” para “Single Family Residential Moderate (R2)”",
+        "Área fica ao sul da Manatee Isles Drive e a oeste da SW 196th Avenue",
+        "Reunião em 16/11, às 19h, na prefeitura (17200 Royal Palm Blvd.)"
+      ],
+      "body": "A Comissão Municipal de Weston publicou um aviso de audiência pública sobre uma proposta de lei que muda o zoneamento de um terreno de 16 acres brutos (cerca de 6,5 hectares), formado por uma única parcela em Cascade Terrace. A área fica, de modo geral, ao sul da Manatee Isles Drive e a oeste da SW 196th Avenue, e passaria do distrito Agricultural Estate (AE) para Single Family Residential Moderate (R2), de residências unifamiliares.\n\nA comissão, na função de Agência de Planejamento Local, fará uma reunião pública na segunda-feira, 16 de novembro de 2026, às 19h, na prefeitura de Weston (17200 Royal Palm Boulevard), para analisar a proposta e fazer recomendações. Logo em seguida, no mesmo local, haverá a audiência pública e a primeira leitura da lei.\n\nSegundo o aviso, a comissão pode adiar a audiência para nova data anunciada durante a sessão, e o texto completo da lei pode ser consultado no gabinete da secretaria municipal em horário comercial.",
+      "category": "weston",
+      "source": "NoticeRegistry / Cidade de Weston",
+      "url": "https://www.noticeregistry.com/florida/notice/public-hearing-weston-11727049",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "image_url": "https://www.noticeregistry.com/og.jpg"
     },
     {
       "id": "meio-dia-2026-11-01-weston-01",
@@ -389,22 +421,6 @@
       "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/09/weston-together-2026-10-art15-03.jpg"
     },
     {
-      "id": "meio-dia-2026-10-28-weston-02",
-      "title": "Fim de semana em Weston: Halloween e mudança de horário",
-      "summary": "O Halloween cai num sábado e os relógios voltam uma hora na madrugada de domingo. Sem eventos da prefeitura de Weston, a Weston Together reuniu opções gratuitas e familiares em cidades vizinhas.",
-      "highlights": [
-        "Relógios atrasam 1 hora no domingo, 1º de novembro",
-        "Prefeitura pede fantasias claras ou refletivas",
-        "Programação em Sunrise e Davie"
-      ],
-      "body": "O Halloween cai num sábado este ano, e os relógios voltam uma hora na madrugada de domingo, dando ao fim de semana um tempinho extra. A prefeitura de Weston não tem eventos especiais programados, por isso a revista local Weston Together listou opções a uma curta distância de carro.\n\nPara quem vai pedir doces, a prefeitura recomenda fantasias claras ou refletivas, usar calçadas e faixas de pedestres e manter os doces longe dos animais de estimação.\n\nEntre as sugestões estão a noite de microfone aberto para adolescentes Lyrical Lounge, gratuita, na sexta (30), das 18h às 21h, no Sunrise Civic Center Theatre; a hora do conto no Flamingo Gardens, em Davie, no domingo (1º), das 12h30 às 13h30, incluída no ingresso do jardim; e a comédia “Last of the Red Hot Lovers”, de Neil Simon, no domingo às 14h em Sunrise.",
-      "category": "weston",
-      "source": "Weston Together",
-      "url": "https://westontogether.com/2026/10/27/this-weekend-in-weston-october-30-november-1/",
-      "published_at": "2026-10-27T11:44:24-04:00",
-      "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/09/weston-together-2026-10-art15-06.jpg"
-    },
-    {
       "id": "meio-dia-2026-10-28-weston-03",
       "title": "Saída da I-75 para a Royal Palm Boulevard fecha na noite de 5 de novembro",
       "summary": "A saída da I-75 sul para a Royal Palm Boulevard oeste, um dos principais acessos a Weston, ficará fechada das 20h de 5/11 às 5h de 6/11. O desvio será pela Griffin Road e Weston Road.",
@@ -421,196 +437,308 @@
       "image_url": "https://westonjournal.com/img/i-75-royal-palm-ramp-closure-nov-5.webp"
     },
     {
-      "id": "tarde-2026-11-01-miami-01",
-      "title": "Tempestades e risco de alagamento no sul da Flórida neste domingo",
-      "summary": "A equipe de meteorologia da CBS Miami prevê um domingo de tempestades fortes e chuva intensa no sul da Flórida, com intensidade crescente à tarde e à noite. Há risco nível 2 de alagamento repentino em todo o condado de Broward e no norte de Miami-Dade.",
+      "id": "manha-2026-11-02-miami-01",
+      "title": "Queda de jatinho no condado de Palm Beach mata as nove pessoas a bordo",
+      "summary": "Um Learjet 60 que saiu de Austin, no Texas, rumo às Bahamas caiu perto de casas no condado de Palm Beach na tarde de domingo, matando os nove ocupantes. Ninguém em solo ficou ferido, mas cerca de 600 pessoas foram retiradas de um parque de casas móveis.",
       "highlights": [
-        "Acumulados de 5 a 7,5 cm, podendo chegar a 12,7 cm em pontos isolados",
-        "Torcedores dos Dolphins no Hard Rock Stadium devem ter cautela",
-        "Chuva continua na segunda e pode atingir o dia da eleição"
+        "Avião caiu pouco antes das 13h perto de Cresthaven",
+        "Piloto relatou descida de 20 mil pés por minuto: “Vamos cair”",
+        "NTSB enviou equipe para investigar o acidente"
       ],
-      "body": "Ventos de leste trazem tempestades fortes e pancadas de chuva intensas a toda a região metropolitana ao longo do domingo, com frequência e intensidade aumentando durante a tarde e a noite, segundo a NEXT Weather Team da CBS Miami. Alertas e avisos de alagamento repentino são prováveis, especialmente na divisa entre Broward e Miami-Dade.\n\nO acumulado deve ficar entre 2 e 3 polegadas (5 a 7,5 cm), com áreas isoladas podendo receber até 5 polegadas (12,7 cm). Há ameaça nível 2 de alagamento repentino para todo o condado de Broward — incluindo Weston — e o norte de Miami-Dade. Torcedores a caminho do Hard Rock Stadium para o jogo dos Dolphins devem esperar várias rodadas de tempestades antes, durante e depois da partida.\n\nAs chances de chuva aumentam na segunda-feira e diminuem na terça, com tempo mais seco até o próximo fim de semana. Os modelos indicam pancadas espalhadas ao longo do dia da eleição, terça-feira.",
+      "body": "Um jato executivo com nove pessoas a bordo caiu de bico e explodiu perto de residências no condado de Palm Beach, na Flórida, na tarde de domingo, matando todos os ocupantes. Segundo o governador Ron DeSantis, ninguém em solo ficou ferido. Cerca de 600 pessoas foram retiradas da área do acidente, próxima a um parque de casas móveis em Cresthaven.\n\nDe acordo com a FAA, o Learjet 60 caiu pouco antes das 13h; a aeronave havia partido do Aeroporto Internacional Austin-Bergstrom, no Texas, com destino às Bahamas. “Foi como um míssil caindo e uma explosão enorme, com destroços por toda parte”, disse DeSantis. O secretário de Transportes, Sean Duffy, confirmou a morte dos nove ocupantes.\n\nÁudios do controle de tráfego aéreo registraram o piloto dizendo que descia 10 mil pés por minuto e, depois, ao declarar emergência, gritando que a aeronave estava em sobrevelocidade, descendo 20 mil pés por minuto. “Vamos cair... Estamos sem tempo”, disse ele. O NTSB enviou uma equipe para investigar as causas, que ainda não foram divulgadas.",
       "category": "miami",
       "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/south-florida-sunday-storms-11-1-2026/",
-      "published_at": "2026-11-01T11:18:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/8bdc40a6-38fb-42e9-bbe4-862fd609194f/thumbnail/1200x630/5826106b2768134729f263ec7baa1cd5/hour-by-hour-today-1.png"
+      "url": "https://www.cbsnews.com/miami/news/texas-jet-florida-crash-11-1-2026/",
+      "published_at": "2026-11-01T15:43:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/0ec03c54-cdab-4f09-a050-3a39861875ac/thumbnail/1200x630/4be0ad9d1abfbf1e2c72769a632d724e/snapshot-27.jpg"
     },
     {
-      "id": "tarde-2026-11-01-miami-02",
-      "title": "Jato cai em avenida de Palm Beach County e provoca explosão",
-      "summary": "Um jato executivo Learjet 60 caiu sobre uma avenida movimentada perto de Greenacres, em Palm Beach County, por volta de 12h50 deste domingo, provocando explosão e incêndio. A Military Trail foi fechada nos dois sentidos.",
+      "id": "manha-2026-11-02-miami-02",
+      "title": "Homem é preso após sacar arma durante briga no Dolphin Mall",
+      "summary": "Um homem foi detido depois de sacar uma arma durante uma briga no Dolphin Mall, em Sweetwater, na noite de domingo. A polícia confirmou que nenhum tiro foi disparado.",
       "highlights": [
-        "Avião teria decolado de Austin, no Texas, com destino às Bahamas",
-        "Ainda não há confirmação de feridos ou de quantas pessoas estavam a bordo",
-        "Bombeiros chamam a ocorrência de “incidente prolongado”"
+        "Chamado por possível tiroteio chegou por volta das 19h30",
+        "Vídeo exclusivo mostra a briga e o momento em que a arma aparece",
+        "Motivo da confusão ainda não está claro"
       ],
-      "body": "Um jato caiu sobre um trecho movimentado da South Military Trail, perto da Marilyn Drive, na região de Greenacres, por volta de 12h50 deste domingo, provocando uma explosão cujo estrondo foi ouvido a quilômetros e um grande incêndio, segundo a CBS12. Vídeos mostram chamas ao longo da via, asfalto danificado e destroços espalhados. Houve relatos de falta de energia nos arredores.\n\nA aeronave foi identificada como um Learjet 60, jato executivo bimotor registrado em nome da empresa LR60271 LLC, de Wilmington, Delaware. Segundo o rastreador Flightradar, o avião decolou de Austin, no Texas, e seguia para as Bahamas.\n\nO Gabinete do Xerife de Palm Beach County interditou todas as faixas da Military Trail entre o Cresthaven Boulevard e a 10th Avenue North até novo aviso, e os bombeiros pediram que motoristas evitem a área. Autoridades ainda não confirmaram se houve feridos nem quantas pessoas estavam a bordo; a causa está sob investigação.",
+      "body": "Um vídeo de celular obtido com exclusividade pelo Local 10 mostra uma confusão no Dolphin Mall, em Sweetwater, que terminou com um homem sacando uma arma na noite de domingo. Nas imagens, uma briga começa enquanto outro homem tenta contê-lo; em seguida, ele puxa a arma, e o vídeo é interrompido. Outras imagens mostram policiais correndo para o local.\n\nA polícia de Sweetwater confirmou que nenhum tiro foi disparado e que o suspeito está sob custódia. O chamado sobre um possível tiroteio foi recebido por volta das 19h30. Ainda não se sabe o que provocou a briga; frequentadores disseram ter ficado assustados, especialmente pela presença de crianças e famílias no shopping.",
       "category": "miami",
-      "source": "CBS12",
-      "url": "https://cbs12.com/news/local/explosion-fire-shut-down-military-trail-in-both-directions-military-trail-s-military-trail-diamond-road-explosion-fire-loud-boom-boom-heard-for-miles-road-closure-traffic-alert-road-damage-broken-pavement-debris",
-      "published_at": "2026-11-01T14:03:09-05:00",
-      "image_url": "https://cbs12.com/resources/media2/16x9/1290/1320/0x150/90/5049a722-7589-4434-bfc1-82a2cd23d881-Image36.jpg"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/11/01/man-in-custody-after-pulling-gun-during-fight-at-dolphin-mall-police-say/",
+      "published_at": "2026-11-01T22:19:06-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-02-2026%2Ft_ed87178638414647bb0b4309587a3771_name_49380019684_hdtv.jpg?auth=da4de96bdfaa6f4a1ce57d0fb0ed53de52f50a67a17dd74a7ac851d8fc08dcb3&width=700"
     },
     {
-      "id": "tarde-2026-11-01-miami-03",
-      "title": "Rubio diz que EUA não facilitaram ida de Flávio Bolsonaro a Miami",
-      "summary": "O secretário de Estado Marco Rubio afirmou que o governo Trump não facilitou a saída de Flávio Bolsonaro do Brasil para os EUA após sua derrota eleitoral para Lula. Bolsonaro chegou a Miami na quarta-feira.",
+      "id": "manha-2026-11-02-miami-03",
+      "title": "Votação antecipada termina em Miami-Dade e Broward; eleição é nesta terça",
+      "summary": "A votação antecipada das eleições de meio de mandato terminou às 19h de domingo nos condados de Miami-Dade e Broward. No dia da eleição, nesta terça-feira, os locais de votação funcionam das 7h às 19h.",
       "highlights": [
-        "“Não facilitamos nada”, disse Rubio em Atlanta, durante reunião do G20",
-        "Departamento de Estado havia dito que Bolsonaro e família receberiam vistos",
-        "Bolsonaro é investigado no Brasil e teve ordem de entregar o passaporte"
+        "Eleitores enfrentaram chuva intermitente para votar",
+        "Também houve entrega de cédulas de voto pelo correio",
+        "Seções abrem das 7h às 19h na terça"
       ],
-      "body": "O secretário de Estado dos EUA, Marco Rubio, disse no sábado que o governo Trump não facilitou a partida de Flávio Bolsonaro, candidato derrotado à Presidência do Brasil, para os Estados Unidos. “Não facilitamos nada”, afirmou Rubio a jornalistas em Atlanta, onde estavam reunidos chanceleres do G20. “Soubemos que ele havia chegado aos EUA. Ele já tinha visto, e o presidente decidiu permitir sua entrada.”\n\nBolsonaro chegou a Miami na quarta-feira, um dia depois de o Departamento de Estado dizer que ele e a família receberiam vistos americanos após a derrota para o presidente Luiz Inácio Lula da Silva. Rubio disse ter se encontrado com o chanceler brasileiro, Mauro Vieira, em Atlanta na sexta e no sábado.\n\nBolsonaro se recusou a reconhecer a derrota e chamou a eleição de fraudulenta, sem apresentar provas. Ele é investigado no Brasil por corrupção, lavagem de dinheiro e sonegação, e havia recebido ordem de entregar o passaporte por risco de fuga. Seu pai, o ex-presidente Jair Bolsonaro, cumpre pena de 27 anos por tentativa de golpe.",
+      "body": "A votação antecipada das eleições de meio de mandato terminou às 19h de domingo nos condados de Miami-Dade e Broward. Eleitores enfrentaram chuva intermitente para votar em locais como o bairro de Westchester, em Miami-Dade, e a região de Pembroke Pines, em Broward.\n\nMuitos moradores também aproveitaram para entregar suas cédulas de voto pelo correio. No dia da eleição, nesta terça-feira, os locais de votação funcionam das 7h às 19h.",
       "category": "miami",
-      "source": "NBC 6 South Florida",
-      "url": "https://www.nbcmiami.com/news/local/rubio-says-the-u-s-government-did-not-facilitate-bolsonaros-flight-to-miami/3881348/",
-      "published_at": "2026-11-01T12:37:05-05:00",
-      "image_url": "https://media.nbcmiami.com/2026/10/bolsonaro.png?resize=1200%2C675&quality=85&strip=all"
+      "source": "Local 10",
+      "url": "https://www.local10.com/this-week-in-south-florida/2026/11/01/early-voting-to-end-in-hours-in-miami-dade-broward-counties/",
+      "published_at": "2026-11-01T16:05:16-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-01-2026%2Ft_a0a35bcb5cc444cebf553e847d16bfcd_name_file_960x540_1600_v4_.jpg?auth=e19e634d84e8fcf6e2d1a48f02f53f8f7c5f59316f370feb7d29c04139ed2950&width=700"
     },
     {
-      "id": "tarde-2026-11-01-miami-04",
-      "title": "Acidente com três veículos na I-75 em Broward deixa 2 mortos",
-      "summary": "Uma jovem de 18 anos e um homem de 29, ambos de Fort Myers, morreram no sábado à noite em um acidente envolvendo três veículos na Interstate 75, em Broward. Três pessoas ficaram feridas, segundo a Florida Highway Patrol.",
+      "id": "manha-2026-11-02-miami-04",
+      "title": "Segunda-feira chuvosa: alerta de inundação em Broward e Miami-Dade",
+      "summary": "A semana começa molhada no sul da Flórida, com alerta de inundação (Flood Watch) até as 19h desta segunda em Broward e Miami-Dade. Faixas de chuva forte devem atravessar a região ao longo do dia.",
       "highlights": [
-        "Motorista de um Toyota Camry perdeu o controle por volta de 21h50",
-        "Carro bateu em um caminhão U-Haul e em um BMW X5",
-        "Feridos têm 19, 37 e 40 anos"
+        "Flood Watch vale até as 19h",
+        "Aviso de inundação costeira para a maré alta da tarde",
+        "Aviso de ondas altas em Broward até as 7h"
       ],
-      "body": "Segundo a Florida Highway Patrol (FHP), a jovem de 18 anos dirigia um Toyota Camry 2018 quando perdeu o controle do veículo pouco depois das 21h50 de sábado nas pistas no sentido leste da I-75, no condado de Broward. O homem de 29 anos, também de Fort Myers, era passageiro do carro. Os dois morreram.\n\nO Camry colidiu com um caminhão Ford E-450 da U-Haul, modelo 2014, e com um BMW X5 2019. Ficaram feridos o motorista do BMW, de 19 anos, uma passageira do BMW, de 37 anos, e o motorista do caminhão, de 40 anos. A FHP não divulgou mais detalhes sobre as causas.",
+      "body": "A segunda-feira começa chuvosa no sul da Flórida. Está em vigor um alerta de inundação (Flood Watch) até as 19h para os condados de Broward e Miami-Dade.\n\nHá também um aviso de inundação costeira para a próxima maré alta, no fim da tarde, e um aviso de ondas altas em Broward até as 7h. Faixas de chuva forte devem chegar ao longo do dia, por isso a recomendação é sair com guarda-chuva e capa.",
       "category": "miami",
-      "source": "Local 10 News",
-      "url": "https://www.local10.com/news/florida/2026/11/01/2-dead-3-injured-after-3-vehicle-crash-on-i-75-in-broward/",
-      "published_at": "2026-11-01T12:52:56-05:00",
-      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-01-2026%2Ft_cb3445a6219f499cbd2137dfa5b619a3_name_49371677007_hdtv.jpg?auth=32b3a3f71e0f8da5c4227e3cb2fa8484bb35d500b80de1d0061820246cb230aa&width=700"
+      "source": "Local 10",
+      "url": "https://www.local10.com/weather/2026/11/02/nov-2-soggy-setup-as-we-start-the-week/",
+      "published_at": "2026-11-02T06:33:44-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/ZVM6A6ZXGBFH5FRLH2CKLR7DDY.jpg?auth=5538de09b666ea5a5147343fa29e64118175bed12961ff44a71e0e9e91fc0d29&width=700"
     },
     {
-      "id": "tarde-2026-11-01-miami-05",
-      "title": "Polícia procura homem de 60 anos desaparecido em Homestead",
-      "summary": "O Gabinete do Xerife de Miami-Dade pede ajuda para encontrar Edwin Velazquez, de 60 anos, desaparecido em Homestead. Ele foi visto pela última vez no sábado dirigindo um quadriciclo (ATV).",
+      "id": "manha-2026-11-02-miami-05",
+      "title": "Dolphins desperdiçam vantagem e perdem para os Patriots",
+      "summary": "O Miami Dolphins perdeu por 24 a 19 para o New England Patriots no domingo, no Hard Rock Stadium, depois de ir para o intervalo vencendo por 13 a 3. Com a derrota, o time caiu para 1 vitória e 6 derrotas.",
       "highlights": [
-        "Último local: State Road 9336 com Aerojet Road",
-        "Ele é calvo, tem olhos castanhos, 1,70 m e cerca de 77 kg",
-        "Informações: 305-715-3300 ou Crime Stoppers 305-471-TIPS"
+        "Patriots marcaram 21 pontos seguidos no segundo tempo",
+        "Dolphins vinham da primeira vitória da temporada, sobre os Jets",
+        "Guarda Kadyn Proctor ficou fora por concussão"
       ],
-      "body": "Segundo o Gabinete do Xerife de Miami-Dade, Edwin Velazquez, de 60 anos, foi visto pela última vez no sábado na região da Florida State Road 9336 com a Aerojet Road, em Homestead, enquanto dirigia seu quadriciclo (ATV).\n\nVelazquez é calvo, tem olhos castanhos, mede 1,70 m (5 pés e 7 polegadas) e pesa cerca de 77 kg (170 libras). Ele usava uma camiseta dri-fit azul-escura e bermuda cinza. Quem tiver informações deve ligar para o deputy A. Madrigal no 305-715-3300 ou 305-715-3214, ou para o Crime Stoppers no 305-471-TIPS (8477).",
+      "body": "O Miami Dolphins não conseguiu dar sequência à primeira vitória da temporada e perdeu por 24 a 19 para o New England Patriots, num domingo chuvoso no Hard Rock Stadium, em Miami Gardens. O time foi para o intervalo vencendo por 13 a 3, mas os Patriots dominaram o segundo tempo, marcaram 21 pontos seguidos e só então os Dolphins voltaram a pontuar.\n\nNa semana anterior, Miami havia vencido o New York Jets por 28 a 25. Desta vez, a defesa teve dificuldade para conter o quarterback Drake Maye após o intervalo. O time também não contou com o guarda Kadyn Proctor, sua escolha de primeira rodada no draft de 2026, afastado por concussão. Com o resultado, os Dolphins estão com 1 vitória e 6 derrotas.",
       "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/missing-man-homestead/",
-      "published_at": "2026-11-01T12:14:03-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-01-121034.png"
+      "source": "Local 10",
+      "url": "https://www.local10.com/sports/local/2026/11/01/dolphins-blow-double-digit-lead-in-loss-to-patriots-fall-to-1-6/",
+      "published_at": "2026-11-01T19:30:11-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/NDKLX2NNK5DPNEDMN7PCI5HWTI.jpg?auth=fa4dc113a6a2dd8e2203c064770153833ae62a168f4a77d6bffd189aa7705ec6&width=700"
     },
     {
-      "id": "tarde-2026-11-01-tecnologia-01",
-      "title": "Binance retoma saques após ataque hacker de US$ 6,3 bilhões",
-      "summary": "A corretora de criptomoedas Binance começou a liberar saques de forma gradual neste domingo, após congelar depósitos e retiradas depois do roubo de US$ 6,3 bilhões em cripto. A empresa diz que já cobriu 95% dos ativos roubados.",
+      "id": "manha-2026-11-02-miami-06",
+      "title": "Messi dá assistência e faz o gol da virada do Inter Miami sobre o Revolution",
+      "summary": "Lionel Messi deu uma assistência e marcou o gol da vitória por 2 a 1 do Inter Miami sobre o New England Revolution, no domingo à noite. O time subiu para o segundo lugar da Conferência Leste, a uma rodada do fim da temporada regular.",
       "highlights": [
-        "Binance promete arcar com todo o prejuízo, sem repassar aos usuários",
-        "Saques de Bitcoin e Ethereum ainda aparecem como parcialmente suspensos",
-        "FBI atribui o ataque ao grupo norte-coreano TraderTraitor"
+        "Messi chegou a 26 gols e lidera a artilharia da liga",
+        "Germán Berterame empatou aos 69 minutos",
+        "Inter Miami recebe o Charlotte FC no sábado"
       ],
-      "body": "A Binance anunciou no início deste domingo que voltaria a permitir saques em um processo por fases, dependendo da rede e do tipo de ativo. A empresa havia congelado todos os depósitos e saques após hackers roubarem o equivalente a US$ 6,3 bilhões de suas carteiras. Segundo a atualização, 95% dos ativos roubados já foram cobertos, e a empresa ainda está comprando os “ativos afetados restantes”, menos líquidos no mercado.\n\n“Nosso compromisso permanece o mesmo: a Binance arcará com o impacto financeiro dos fundos roubados. Essas perdas não serão repassadas aos usuários”, disse a empresa. Na manhã de domingo, a página de status mostrava uma mistura de redes normais, parcialmente e totalmente suspensas; saques de Bitcoin e Ethereum estavam parcialmente suspensos. Usuários devem esperar atrasos.\n\nA Binance já havia culpado hackers da Coreia do Norte, e no sábado o FBI apontou o grupo TraderTraitor como responsável, dizendo que os ativos estão sendo convertidos principalmente em Ethereum. A empresa promete publicar um relatório detalhado ao fim da investigação.",
+      "body": "Lionel Messi deu uma assistência no segundo tempo e depois marcou o gol da vitória, e o Inter Miami venceu de virada o New England Revolution por 2 a 1, no domingo à noite, em Foxborough. Com o resultado, o Inter Miami (16 vitórias, 6 derrotas e 11 empates) passou o New England por um ponto e assumiu o segundo lugar da Conferência Leste, com uma partida restante na temporada regular.\n\nDániel Gazdag abriu o placar para o Revolution aos 53 minutos. Messi e Telasco Segovia armaram o gol de empate de Germán Berterame aos 69, e Messi garantiu a vitória aos 83, com seu 26º gol na temporada, o que o mantém na liderança da artilharia, novamente com assistência de Segovia.\n\nFoi a 10ª vitória do Inter Miami como visitante na temporada, três a mais que qualquer outro time. A equipe encerra a temporada regular recebendo o Charlotte FC no sábado.",
+      "category": "miami",
+      "source": "WSVN / AP",
+      "url": "https://wsvn.com/sports/inter-miami-cf/lionel-messi-has-goal-assist-to-rally-inter-miami-to-2-1-victory-over-revolution/",
+      "published_at": "2026-11-01T22:29:28-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/07/072626-inter-miami-1.png"
+    },
+    {
+      "id": "manha-2026-11-02-miami-07",
+      "title": "Família pede justiça após jovem de 18 anos ser morto em assalto em Miami-Dade",
+      "summary": "A família de Nathan Bentley, 18 anos, busca respostas sobre o assalto à mão armada que terminou com a morte do jovem na sexta-feira, no noroeste de Miami-Dade. Segundo a mãe, ele foi seguido, cercado e baleado ao tentar fugir.",
+      "highlights": [
+        "Crime ocorreu por volta das 23h perto da NW 108th Street com a 27th Avenue",
+        "Jovem havia ido a um jogo de futebol americano escolar",
+        "Família fez vigília à luz de velas no domingo"
+      ],
+      "body": "A família de um jovem de 18 anos procura respostas sobre o assalto à mão armada que levou à sua morte na sexta-feira. Segundo o Gabinete do Xerife de Miami-Dade, o tiroteio aconteceu por volta das 23h, perto da Northwest 108th Street com a 27th Avenue, no noroeste do condado.\n\nDe acordo com a mãe, Nohely Bogert, Nathan Bentley tinha acabado de comprar comida em um McDonald's quando passou a ser seguido. “Os suspeitos o cercaram, sacaram a arma e pediram que ele entregasse o que tinha. Meu filho correu e foi baleado”, contou. Segundo a família, ele havia ido a um jogo de futebol americano escolar com amigos.\n\nNo domingo à noite, parentes e amigos fizeram uma vigília à luz de velas no local, onde deixaram balões, ursos de pelúcia e cartazes. A família espera que alguém ajude a fazer justiça.",
+      "category": "miami",
+      "source": "WSVN",
+      "url": "https://wsvn.com/news/local/miami-dade/family-seeks-answers-after-18-year-old-nathan-bentley-killed-in-gunpoint-robbery/",
+      "published_at": "2026-11-01T18:20:07-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110126-Family-seeks-answers-after-18-year-old-Nathan-Bentley-killed-in-gunpoint-robbery.jpg?quality=60&strip=color"
+    },
+    {
+      "id": "manha-2026-11-02-miami-08",
+      "title": "Motorista escapa de SUV que afundou em canal de Davie",
+      "summary": "Um motorista conseguiu sair de um SUV que caiu em um canal em Davie, no domingo, antes da chegada da polícia. Ele não se feriu.",
+      "highlights": [
+        "Motorista teria perdido o controle do veículo",
+        "Carro ficou quase totalmente submerso",
+        "Mergulhadores da polícia checaram se não havia outras pessoas na água"
+      ],
+      "body": "Um motorista escapou de um veículo que afundava em um canal em Davie, no condado de Broward, no domingo. Segundo a WSVN, ele teria perdido o controle do SUV, que caiu na água; o motorista saiu sozinho antes de a polícia chegar e não ficou ferido.\n\nO carro ficou quase totalmente submerso. Mergulhadores da polícia verificaram se não havia mais ninguém na água antes de ajudar a prender o veículo a um guincho para retirá-lo do canal.",
+      "category": "miami",
+      "source": "WSVN",
+      "url": "https://wsvn.com/news/local/broward/driver-escapes-sinking-suv-after-plunging-into-davie-canal/",
+      "published_at": "2026-11-01T20:28:40-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110126-Driver-escapes-sinking-SUV-after-plunging-into-Davie-canal.png"
+    },
+    {
+      "id": "manha-2026-11-02-miami-09",
+      "title": "Torneio de padel em Miami arrecada fundos para pesquisa contra o câncer",
+      "summary": "A segunda edição do Moonlight Open, torneio de padel beneficente inspirado em um sobrevivente de câncer do sul da Flórida, acontece nesta sexta-feira em Miami. A primeira edição arrecadou quase US$ 1 milhão para o Sylvester Comprehensive Cancer Center.",
+      "highlights": [
+        "Evento é inspirado em Charlie Moon, que venceu o câncer cinco vezes",
+        "Será no Reserve Miami Seaplane, no Watson Island Park",
+        "Portões abrem às 16h; jogos começam às 16h30"
+      ],
+      "body": "A luta pessoal de um morador do sul da Flórida que venceu o câncer cinco vezes virou um movimento para ajudar outros pacientes. A segunda edição do Moonlight Open volta a Miami nesta sexta-feira, reunindo alguns dos melhores jogadores de padel do mundo em uma noite de competição e arrecadação de fundos para pesquisa contra o câncer. O evento foi inspirado em Charlie Moon, que voltará às quadras neste ano.\n\nA edição inaugural arrecadou quase US$ 1 milhão em apenas 12 dias, valor destinado à pesquisa no Sylvester Comprehensive Cancer Center, da Universidade de Miami. O torneio será no Reserve Miami Seaplane, no Watson Island Park; os portões abrem às 16h e os jogos começam às 16h30. A renda dos ingressos irá para o Sylvester.",
+      "category": "miami",
+      "source": "Local 10",
+      "url": "https://www.local10.com/features/2026/11/02/south-florida-cancer-survivor-inspires-miami-padel-tournament-benefiting-cancer-research/",
+      "published_at": "2026-11-02T07:01:18-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-02-2026%2Ft_c733f543a96d42728a5246430056182a_name_49387241849_hdtv.jpg?auth=9c4b72f193f444c61bb28c529968fc31cf1e9b7e7161b16b56d84e6de7f29fc3&width=700"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-01",
+      "title": "OpenAI fecha acordos em Abu Dhabi em meio a rodada de US$ 20 bilhões",
+      "summary": "A OpenAI assinou acordos nos setores de energia, investimento e governo nos Emirados Árabes Unidos enquanto busca recursos de investidores da região. A empresa tenta levantar US$ 20 bilhões numa nova rodada co-liderada por investidores dos Emirados.",
+      "highlights": [
+        "Sam Altman se reuniu com o príncipe herdeiro de Abu Dhabi",
+        "ADNOC e G42 vão implantar a tecnologia da OpenAI",
+        "Governo usará IA para traduzir normas em formato legível por máquina"
+      ],
+      "body": "A OpenAI assinou acordos que abrangem energia, investimentos e governo nos Emirados Árabes Unidos, enquanto busca financiamento de investidores da região. O CEO Sam Altman se reuniu com o xeque Khaled bin Mohamed bin Zayed Al Nahyan, príncipe herdeiro de Abu Dhabi, segundo o escritório de mídia do emirado. A CNBC informou no sábado que a empresa tenta levantar US$ 20 bilhões numa nova rodada co-liderada por investidores dos Emirados.\n\nPelos acordos, a petroleira ADNOC e a G42 vão implantar tecnologia de ponta da OpenAI, enquanto o fundo soberano Mubadala e a Inception42 aplicarão IA à análise de investimentos. O governo de Abu Dhabi anunciou uma iniciativa para traduzir políticas e regulamentos em formato legível por máquinas, e a Inception42 fechou um acordo de cinco anos para levar IA a governo, empresas e educação.\n\nO Oriente Médio virou um polo importante de IA, com grandes empresas americanas construindo enormes data centers na região, embora o conflito em curso tenha testado esse apelo. O fundo MGX, de Abu Dhabi, já apoiou tanto a OpenAI quanto a Anthropic.",
+      "category": "tecnologia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+      "published_at": "2026-11-02T06:02:08-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108469839-1793120706479-Screenshot_2026-10-27_at_125651_PM.png?v=1793120747&w=1920&h=1080"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-02",
+      "title": "Coreia do Sul aposta em IA soberana em orçamento recorde",
+      "summary": "O presidente sul-coreano Lee Jae Myung apresentou o maior orçamento da história do país, com 4,7 trilhões de wons para desenvolver um modelo de IA soberano de “desempenho máximo mundial”. Os gastos totais de 2027 sobem 12,8%, para 820,9 trilhões de wons.",
+      "highlights": [
+        "21,3 trilhões de wons para chips, IA física e data centers",
+        "Plano prevê formar 2.000 especialistas em semicondutores",
+        "Exportações bateram recorde de US$ 115,3 bilhões em outubro"
+      ],
+      "body": "O presidente da Coreia do Sul, Lee Jae Myung, apresentou nesta segunda-feira o maior orçamento da história do país, prometendo “investir com ousadia em IA e em futuros motores de crescimento”. Segundo ele, os gastos totais de 2027 vão subir 12,8%, para 820,9 trilhões de wons (US$ 610 bilhões), incluindo 21,3 trilhões de wons para semicondutores, IA física e data centers de IA — quase o dobro do nível de 2026.\n\nOutros 4,7 trilhões de wons irão para o desenvolvimento de um modelo de IA soberano com o que Lee chamou de “desempenho mais alto do mundo”. O governo também pretende formar 2.000 especialistas em projeto de chips e ampliar a educação em IA para estudantes, quem procura emprego e trabalhadores.\n\nO plano chega num momento de forte crescimento: o FMI prevê alta de 3,3% para a economia sul-coreana em 2026, e as exportações saltaram 93,7% em outubro, para o recorde de US$ 115,3 bilhões, impulsionadas pelos semicondutores. O gasto com defesa sobe 8,2%, para 73,3 trilhões de wons.",
+      "category": "tecnologia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "published_at": "2026-11-02T01:02:03-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108366594-1790123780346-gettyimages-2296079881-AA_22092026_2963049.jpeg?v=1790123812&w=1920&h=1080"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-03",
+      "title": "Apple deve lançar três novos iPads no início de 2027",
+      "summary": "Depois do novo iPad mini com tela OLED, a Apple prepara novos iPad Air, iPad básico e iPad Pro para o primeiro semestre do ano que vem, segundo Mark Gurman, da Bloomberg.",
+      "highlights": [
+        "iPad Air deve ganhar tela OLED",
+        "iPad básico terá chip A19 e 8 GB de RAM, com Apple Intelligence",
+        "iPad Pro deve ganhar câmara de vapor para resfriamento"
+      ],
+      "body": "Depois de estrear o iPad mini renovado com tela OLED na semana passada, a Apple tem mais novidades na fila para o primeiro semestre do ano que vem: um novo iPad Air, um novo iPad básico e um novo iPad Pro, de acordo com Mark Gurman, da Bloomberg.\n\nO iPad Air também deve ganhar tela OLED, provavelmente mantendo 60 Hz e o Touch ID; o 9to5Mac considera provável a troca do chip M4 pelo M5 e um preço maior. O iPad básico, atualizado pela última vez no início de 2025, deve receber o chip A19 e 8 GB de RAM, o que finalmente permitirá o Apple Intelligence no iPad mais barato da marca.\n\nJá o iPad Pro deve ganhar uma câmara de vapor para resfriamento, recurso que a Apple estreou no iPhone 17 Pro, além de um novo chip. Hoje, o iPad Pro custa a partir de US$ 1.199 (11 polegadas) e US$ 1.499 (13 polegadas).",
+      "category": "tecnologia",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
+      "published_at": "2026-11-01T21:12:39-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/ipad-guide.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-04",
+      "title": "Usuários sacam US$ 3,6 bilhões da Binance após maior ataque hacker cripto da história",
+      "summary": "Clientes da Binance retiraram US$ 3,6 bilhões em ativos da maior corretora de criptomoedas do mundo quando ela reabriu no domingo, após o que é considerado o maior roubo cripto da história. O FBI e outras organizações acusam a Coreia do Norte pelo ataque.",
+      "highlights": [
+        "Ataque afetou US$ 6,3 bilhões em ativos digitais",
+        "Binance diz já ter coberto cerca de 95% do que foi roubado",
+        "Saída líquida equivale a pouco mais de 2% dos ativos sob gestão"
+      ],
+      "body": "Clientes da Binance sacaram US$ 3,6 bilhões em ativos da maior corretora de criptomoedas do mundo quando ela reabriu no domingo, depois do que se acredita ser o maior ataque hacker da história. A empresa havia suspendido todas as transações após o incidente, que atingiu US$ 6,3 bilhões em ativos digitais. Organizações como o FBI acusam a Coreia do Norte pelo ataque.\n\nSegundo a Binance, entre 6h e 15h30 (GMT) de 1º de novembro foram processados US$ 4,649 bilhões em saques e US$ 1,01 bilhão em depósitos, com saída líquida de cerca de US$ 3,64 bilhões — pouco mais de 2% dos US$ 171 bilhões sob sua gestão. A empresa disse ter coberto cerca de 95% dos ativos roubados e que os saques, após um pico inicial, estão se estabilizando.\n\nA Chainalysis, que trabalha com a empresa e governos para recuperar o dinheiro, afirma que os fundos ligados ao ataque continuam sendo lavados ativamente, espalhados por milhares de endereços.",
+      "category": "tecnologia",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+      "published_at": "2026-11-01T19:26:30-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-05",
+      "title": "OpenAI pode rebatizar data centers como “campi de computação de IA”",
+      "summary": "A OpenAI prepara uma ofensiva de relações públicas para depois das eleições de meio de mandato, segundo o Axios. Entre as propostas está rebatizar os impopulares data centers como “campi de computação de IA”.",
+      "highlights": [
+        "Chris Lehane vê as eleições como “trailer” de 2028",
+        "Propostas incluem “limites de velocidade” para a IA",
+        "Amazon e Microsoft deixaram de usar NDAs com governos locais"
+      ],
+      "body": "Os data centers são profundamente impopulares — e a OpenAI estuda chamá-los de outra coisa. Segundo o Axios, a empresa prepara uma “blitz de relações públicas” para depois das eleições de meio de mandato desta terça-feira, nas quais os democratas parecem ter chance de retomar a Câmara e, possivelmente, o Senado.\n\nO diretor de assuntos globais da OpenAI, Chris Lehane, disse ao Axios que as eleições serão “um trailer do que você vai ver em 2028”, quando ele espera que a IA seja “o” tema da disputa presidencial. Entre as propostas discutidas estão “limites de velocidade” para a IA, formas de mostrar como a tecnologia empodera as pessoas no dia a dia, um papel dos EUA na criação de padrões globais e o rebatismo dos data centers como “campi de computação de IA”.\n\nLehane classificou como “boa e saudável” a discussão sobre data centers, que levou Amazon e Microsoft a abandonar acordos de confidencialidade nas negociações com governos locais. “As comunidades devem responsabilizar as empresas para que realmente obtenham um benefício transformador desses projetos”, afirmou.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "published_at": "2026-11-01T11:20:10-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800"
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published_at": "2026-11-01T16:55:23-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
     },
     {
-      "id": "tarde-2026-11-01-tecnologia-02",
-      "title": "HomeView da Apple pode ganhar função de câmera de segurança",
-      "summary": "Trechos de código encontrados no software HomeView 27.2 sugerem que a Apple pode transformar seu hub de casa inteligente em câmera de segurança com HomeKit Secure Video. A Apple não comentou.",
+      "id": "manha-2026-11-02-tecnologia-06",
+      "title": "Ford lança “promessa de privacidade” sobre dados dos carros conectados",
+      "summary": "A Ford anunciou um compromisso público de proteger os dados de veículos dos clientes e dar a eles controle sobre o que compartilham. A montadora também lançou um site que explica como, onde e por que usa essas informações.",
       "highlights": [
-        "Modo teria detecção de movimento, transmissão ao vivo e gravação",
-        "Luz indicadora e som avisariam quando a câmera estiver sendo vista",
-        "Opções mudariam conforme o morador está em casa, fora ou dormindo"
+        "Iniciativa antecede nova geração de carros mais conectados",
+        "Só 14% dos clientes dizem entender totalmente os dados coletados",
+        "GM fechou acordo de US$ 220 milhões com 36 estados na semana passada"
       ],
-      "body": "Um usuário do Reddit identificado como pdfu encontrou referências no código do HomeView 27.2 indicando que a Apple pode adicionar recursos de câmera de segurança ao seu hub de casa inteligente. As linhas descrevem um modo de câmera com detecção de movimento, transmissão ao vivo e gravação, além de funções de privacidade; uma tela de configuração diria: “Seu HomeView pode ser usado como câmera de segurança com o HomeKit Secure Video.”\n\nSegundo as descobertas, as imagens só seriam visíveis para membros da casa, e o aparelho acenderia uma luz e emitiria um som quando alguém estivesse assistindo ou quando começasse a gravar. Membros também receberiam notificações sempre que as configurações fossem alteradas, com opções personalizáveis conforme a pessoa esteja em casa, fora ou dormindo.\n\nA Apple não indicou que os recursos estão a caminho. O Verge avalia que, dada a importância da privacidade no marketing da empresa, ela pode estar refinando a função antes de lançá-la.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "published_at": "2026-11-01T12:16:07-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "id": "tarde-2026-11-01-tecnologia-03",
-      "title": "IA impulsiona nova onda de startups de carros autônomos",
-      "summary": "O setor de veículos autônomos vive um boom ainda maior que o de 2016, segundo a gestora Trucks VC, que recebeu propostas de 81 novas startups do ramo em 2026. Modelos de IA de base estão barateando e acelerando o desenvolvimento.",
-      "highlights": [
-        "Número de startups é dois terços maior que no ano passado",
-        "Modelos abertos como o Alpamayo, da Nvidia, reduzem barreiras",
-        "Muitas startups querem competir diretamente com a Waymo"
-      ],
-      "body": "A gestora de venture capital Trucks VC, especializada em estágio inicial, recebeu em 2026 propostas de 81 novas startups de veículos autônomos, dois terços a mais que no ano passado e o suficiente para superar os anos de euforia de uma década atrás, segundo o boletim TechCrunch Mobility. A firma argumenta que o setor vive uma segunda onda, ainda maior, impulsionada pela inteligência artificial.\n\n“Os modelos de base agora oferecem uma arquitetura técnica que torna possíveis os sistemas de ponta a ponta”, disse o sócio Puneeth Meruva. Esses modelos generalizam bem entre ambientes e cenários, o que pode tornar os autônomos mais baratos e rápidos de implantar. Modelos abertos como o Alpamayo, da Nvidia, e os modelos visão-linguagem-ação da Qwen facilitam ainda mais a entrada de novas empresas, algumas operando em poucos meses com menos de US$ 1 milhão.\n\nAlém de aplicações em construção, armazéns, agricultura e mineração, chama atenção o número crescente de startups propondo serviços de robotáxi, muitas se posicionando como concorrentes diretas da Waymo.",
+      "body": "Enquanto se prepara para lançar uma nova geração de carros conectados, a Ford apresentou nesta segunda-feira o que chama de “promessa de privacidade”, um “compromisso explícito” de manter seguros os dados dos veículos dos clientes e dar a eles controle sobre o que compartilham. A empresa também lançou um site para explicar como, onde e por que usa esses dados e como mudar as configurações.\n\nOs controles já existiam, mas a Ford quer comunicá-los com mais clareza, sobretudo antes de veículos mais conectados, como os da futura plataforma “universal electric vehicle”. “É superimportante deixar muito claro para os clientes quais são nossas práticas de dados”, disse a diretora de privacidade, Kristin Jones, ao TechCrunch.\n\nSegundo pesquisas citadas pelo site, só 14% dos consumidores americanos dizem entender totalmente quais dados seus veículos coletam. Essa falta de clareza abriu espaço para a venda de dados a terceiros, prática que colocou a General Motors em problemas com a FTC e resultou num acordo de US$ 220 milhões com 36 estados na semana passada.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "published_at": "2026-11-01T12:04:00-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1200,1058"
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "published_at": "2026-11-02T06:00:00-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1200,900"
     },
     {
-      "id": "tarde-2026-11-01-tecnologia-04",
-      "title": "Flock ignora pedidos de cidades para cancelar câmeras de vigilância",
-      "summary": "Cada vez mais cidades americanas cancelam contratos com a Flock Safety, empresa de câmeras leitoras de placas, mas várias relatam dificuldade para encerrar o serviço. Em alguns casos, a empresa reinstalou câmeras sem autorização.",
+      "id": "manha-2026-11-02-tecnologia-07",
+      "title": "Plataforma de IA da Palantir não é usada por hospitais listados como beneficiados pelo NHS",
+      "summary": "Os 29 grupos hospitalares que o NHS England diz estarem “colhendo benefícios” da plataforma de dados da Palantir afirmam que o sistema não está ativo ou que não usam seus aplicativos, revelou o Guardian. O contrato de £ 330 milhões está sob pressão política.",
       "highlights": [
-        "Chefe de polícia de Plymouth (Minnesota) desligou as câmeras por conta própria",
-        "Em Dayton, câmeras foram reconectadas contra ordem da cidade",
-        "Caso semelhante ocorreu em faculdade de Illinois"
+        "Um alto funcionário da saúde chamou a divergência de “muito enganosa”",
+        "Parlamentares pedem que a ministra Yvette Cooper cancele o contrato",
+        "Palantir diz que cancelar seria “pôr a política acima dos pacientes”"
       ],
-      "body": "O conselho municipal de Plymouth, em Minnesota, votou em setembro pelo fim do contrato com a Flock, mas a empresa não respondeu ao pedido da cidade. Por mais de um mês as câmeras seguiram instaladas, até que o chefe de polícia Eric Fadden mandou desconectar os cabos de energia. “Depois de mais de uma semana sem resposta, orientei a equipe a desligar as câmeras para garantir que não estivessem gravando placas”, disse ele ao site The Drive.\n\nEm Dayton, também em Minnesota, a Flock reconheceu o pedido de cancelamento e disse que levaria até 60 dias para retirar os equipamentos, mas reconectou duas câmeras na cidade sem autorização, apesar de a polícia ter pedido que a ordem de serviço não fosse executada.\n\nO episódio segue um caso semelhante em Illinois, onde a empresa se recusou a retirar câmeras na Elgin Community College após a instituição tentar cancelar o contrato. A Flock não respondeu de imediato ao pedido de comentário.",
+      "body": "Mais de duas dezenas de grupos hospitalares que o NHS, o sistema público de saúde inglês, afirma terem se beneficiado da plataforma de dados médicos da Palantir não usam toda ou a maior parte da tecnologia, revelou o Guardian. Os 29 grupos listados publicamente pelo NHS England como “colhendo benefícios” da plataforma federada de dados, de £ 330 milhões, disseram que o sistema não está ativo ou que não utilizam nenhum de seus aplicativos.\n\nUm alto funcionário da saúde classificou a divergência como “muito enganosa”. A ministra da Saúde, Yvette Cooper, enfrenta pedidos de parlamentares e ativistas para cancelar o contrato com a empresa americana, que tem como objetivo conectar prontuários dispersos, acelerar altas hospitalares e melhorar o agendamento de cirurgias.\n\nO CEO da Palantir para Reino Unido e Europa, Louis Mosley, disse que encerrar o contrato seria “pôr a política acima dos pacientes”. O NHS England afirma que os grupos que usam a plataforma realizaram 117.539 cirurgias a mais em um ano, mas admitiu neste verão que não consegue provar relação de causa e efeito.",
+      "category": "tecnologia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
+      "published_at": "2026-11-02T05:19:46-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/ba117415b0ce5a84437694933b4777aa0c31cd19/493_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2e61772be9e934562ca82b471371626"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-08",
+      "title": "Robôs disputam corrida montanha acima no Monte Tai, na China",
+      "summary": "Dezenas de robôs encararam mais de 3.000 degraus do Monte Tai, uma das montanhas mais famosas da China, numa corrida para testar a resistência das máquinas no mundo real. Alguns carregavam ovos e melancias até o topo.",
+      "highlights": [
+        "Cão-robô de subsidiária da Unitree venceu em 43min41s",
+        "Humanoide mais rápido fez percurso menor em 27min26s",
+        "Cerca de 90 equipes participaram"
+      ],
+      "body": "Dezenas de robôs subiram mais de 3.000 degraus do Monte Tai, o pico mais alto da província de Shandong, no leste da China, nesta segunda-feira, muitos carregando ovos e melancias, numa corrida que os organizadores apresentaram como teste de resistência das máquinas no mundo real. O terreno acidentado foi duro: um robô humanoide desabou no caminho e precisou de reparos, e outro rolou escada abaixo.\n\nO World Mountain Robot Challenge, organizado pelo estatal China Media Group, teve percurso de cerca de 3,9 km com mais de 600 metros de subida e reuniu cerca de 90 equipes, que competiam em velocidade ou no transporte de cargas frágeis até o cume. Um cão-robô da Beijing Lingyi Technology, subsidiária da Unitree, completou o trajeto em 43 minutos e 41 segundos e venceu a categoria de quadrúpedes; a maioria dos turistas leva pelo menos duas horas.\n\nO humanoide mais rápido, da equipe Zhishen Lingyue, de Pequim, completou um percurso menor em 27 minutos e 26 segundos. Os organizadores chamaram o terreno rochoso de “campo natural de testes extremos” para preparar robôs para uso real.",
+      "category": "tecnologia",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/robots-race-china-mountain-eggs-watermelons/",
+      "published_at": "2026-11-02T04:54:00-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/02/2e93ab95-3ebe-47ed-aef7-7ab144da861d/thumbnail/1200x630/8b448a9b0a6fb13caa1491d9a16f43cb/gettyimages-2303076313.jpg"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-09",
+      "title": "Robotaxi da Tesla começa a operar em Fort Worth",
+      "summary": "O serviço de transporte autônomo Robotaxi, da Tesla, abre para passageiros em Fort Worth, no Texas, nesta segunda-feira, com corridas a partir das 6h. É a quarta cidade texana atendida, depois de Austin, Dallas e Houston.",
+      "highlights": [
+        "Área inicial é centrada no centro de Fort Worth",
+        "Tesla ampliou a área de Houston em 26 de outubro",
+        "Musk disse que acesso às praias chega em breve às zonas de Miami e Tampa"
+      ],
+      "body": "A Tesla anunciou no domingo à noite, pela conta oficial do Robotaxi, que seu serviço de transporte por aplicativo começa a atender passageiros em Fort Worth, no Texas, nesta segunda-feira, com corridas a partir das 6h. É a quarta cidade do estado no serviço, depois de Austin, Dallas e Houston. O Robotaxi usa o software de direção autônoma da empresa dentro de uma área delimitada, reservada pelo app Tesla Robotaxi.\n\nO mapa divulgado mostra uma única zona centrada no centro de Fort Worth, chegando ao norte perto de Saginaw, a oeste além de White Settlement e a sudoeste rumo a Benbrook. Nas últimas semanas, a Tesla ampliou bastante a área de Houston, estendeu o horário de operação para das 6h às 2h e lançou recursos como compartilhamento de viagem e câmera traseira durante as corridas.\n\nFora do Texas, Elon Musk disse a passageiros da Flórida que o acesso às praias chegará em breve às zonas de Miami e Tampa.",
+      "category": "tecnologia",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/11/01/tesla-robotaxi-fort-worth-launch/",
+      "published_at": "2026-11-02T01:17:19-05:00",
+      "image_url": "https://cdn.teslanorth.com/wp-content/uploads/2026/11/robotaxi-fort-worth-1920.jpg"
+    },
+    {
+      "id": "manha-2026-11-02-tecnologia-10",
+      "title": "Jackery lança sua menor estação de energia portátil",
+      "summary": "A Jackery anunciou a Explorer 100D, sua menor estação de energia portátil, com bateria de lítio-ferro-fosfato de 96 Wh que cabe na bagagem de mão. Ela chega ao Walmart em 15 de novembro por US$ 99.",
+      "highlights": [
+        "Pesa cerca de 850 g e mede 11,7 x 8,6 x 8,6 cm",
+        "Duas portas USB-C de 140 W e uma USB-A de 18 W",
+        "Baterias LFP projetadas para até 8 anos e 3.000 ciclos"
+      ],
+      "body": "A Jackery anunciou uma nova estação de energia portátil que usa baterias de lítio-ferro-fosfato (LFP), mais seguras e duráveis. O destaque da Explorer 100D é ser o menor modelo da marca até hoje: mede 4,6 x 3,4 x 3,4 polegadas (cerca de 11,7 x 8,6 x 8,6 cm) e pesa 1,87 libra (cerca de 850 g). Com 96 Wh (30.000 mAh), pode ir na bagagem de mão e carregar vários aparelhos em voos longos.\n\nO aparelho estará à venda a partir de 15 de novembro no Walmart, por US$ 99; já está disponível na Costco, mas só em kit com duas unidades por US$ 179,99. Segundo a Jackery, as células LFP são projetadas para até oito anos de uso regular, com vida útil de 3.000 ciclos.\n\nNa frente, há duas portas USB-C de 140 W e uma USB-A de 18 W, com saída total máxima de 158 W. A 100D aceita até 100 W de entrada solar direta, o que recarrega a bateria até 80% em cerca de uma hora e meia.",
       "category": "tecnologia",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "published_at": "2026-11-01T14:58:02-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "id": "tarde-2026-11-01-tecnologia-05",
-      "title": "Como uma pequena cidade de Wisconsin barrou data center secreto de IA",
-      "summary": "Reportagem do Guardian mostra como Menomonie, cidade de 17 mil habitantes em Wisconsin, derrubou um projeto sigiloso de data center de IA de US$ 1,6 bilhão. A empresa por trás da obra usava uma empresa de fachada e acordos de confidencialidade.",
-      "highlights": [
-        "Projeto ocuparia 320 acres e usaria cerca de 75 mil galões de água por dia",
-        "Desenvolvedora era a Balloonist LLC, empresa de fachada de Delaware",
-        "Em Beaver Dam, a mesma Balloonist foi ligada depois à Meta"
-      ],
-      "body": "Na primavera de 2025, a vereadora recém-eleita Sydney Brennan, de 22 anos, foi convidada a uma reunião com consultores que apresentavam um campus de data center de IA em hiperescala de US$ 1,6 bilhão nos arredores de Menomonie. O projeto previa um terreno de 320 acres e uso estimado de 75 mil galões de água por dia — o maior empreendimento na história de quase 150 anos da cidade. A identidade da empresa era mantida em segredo.\n\nA desenvolvedora era a Balloonist LLC, empresa de fachada registrada em Delaware, e apenas duas autoridades locais, que assinaram acordos de confidencialidade, sabiam quem financiava o projeto. Críticos dizem que gigantes de tecnologia têm usado empresas de fachada e NDAs para aprovar megaprojetos em cidades com dificuldades financeiras; em Beaver Dam, onde também houve NDAs com a Balloonist, a empresa por trás do data center de US$ 1 bilhão revelou-se ser a Meta.\n\nBrennan questionou os consultores sobre consumo de água, ruído e impacto na rede elétrica. A empresa prometia custear melhorias e projetava até mil empregos temporários na construção e de 50 a 75 vagas permanentes bem pagas, mas o projeto acabou barrado pela cidade.",
-      "category": "tecnologia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
-      "published_at": "2026-11-01T12:31:24-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/61be171119618d6d06feb21e32b64fd03ce80952/0_1049_2403_1922/master/2403.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df1c0873f79204d752450382f26fdc00"
-    },
-    {
-      "id": "tarde-2026-11-01-tecnologia-06",
-      "title": "Eli prepara microcarro elétrico mais rápido para o salão EICMA",
-      "summary": "A Eli Electric Vehicles anunciou que vai revelar o Eli ZERO MX, nova versão de seu microcarro elétrico na categoria europeia L7e, no salão EICMA, em Milão. A empresa também mostrou uma edição especial “Race Edition”.",
-      "highlights": [
-        "Versão atual L6e chega a 45 km/h",
-        "Site italiano da Eli lista versão L7e de 85 km/h e 200 km de autonomia",
-        "Revelação no EICMA, de 3 a 8 de novembro"
-      ],
-      "body": "Em teaser no Instagram antes do salão EICMA, em Milão, a Eli Electric Vehicles anunciou o Eli ZERO MX, descrito como um novo veículo da categoria L7e em sua linha, e também uma edição especial Race Edition, com arte promocional mostrando um ZERO escuro e esportivo com detalhes vermelhos e cabine aberta nas laterais.\n\nO Eli ZERO europeu atual é um quadriciclo leve L6e, com velocidade máxima de 45 km/h, o que limita seu uso em vias mais rápidas. Veículos L7e normalmente chegam a 80-90 km/h. O site italiano da Eli já lista um ZERO L7e capaz de 85 km/h e com autonomia de até 200 km, mas não está confirmado se esses números correspondem ao ZERO MX.\n\nA empresa diz que a revelação será no EICMA, de 3 a 8 de novembro, no Pavilhão 22, estande B40. Ainda não está claro se a Race Edition traz mais desempenho ou apenas um pacote visual.",
-      "category": "tecnologia",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/11/01/eli-teases-the-launch-of-a-much-faster-electric-microcar/",
-      "published_at": "2026-11-01T14:32:34-05:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/05/eli-zero-microcar-header.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "tarde-2026-11-01-tecnologia-07",
-      "title": "Reino Unido terá maior subestação do país perto de data center de IA",
-      "summary": "A National Grid deu um passo para construir a maior subestação de eletricidade do Reino Unido em Teesside, que poderia abastecer um enorme data center de IA planejado ao lado. A empresa concordou em comprar 29,5 hectares de terra.",
-      "highlights": [
-        "Terreno fica em Dorman Point, área da parceria Teesworks",
-        "Local poderá ter até 3,2 GW de capacidade",
-        "Data centers enfrentam forte oposição em várias regiões britânicas"
-      ],
-      "body": "A National Grid concordou na semana passada em comprar 29,5 hectares (73 acres) em Dorman Point, em um terreno da Teesworks, parceria público-privada local, para construir a maior subestação elétrica do Reino Unido. O negócio foi revelado pela Sky News e segue reportagens de que o governo escolheu Teesworks para um novo data center de inteligência artificial, com projeto de quase 500 mil metros quadrados.\n\n“Todo mundo que tentou construir um data center neste país sabe que o maior problema é levar energia suficiente ao local rapidamente”, disse Ben Houchen, prefeito da autoridade combinada de Tees Valley. Segundo ele, ter até 3,2 GW de capacidade permitirá competir por projetos que hoje vão para os EUA, o Golfo e partes da Europa.\n\nNa semana passada, o governo publicou um rascunho de política nacional que descreve data centers como “tão fundamentais para a economia quanto as ferrovias e as redes elétricas”. A rápida expansão desses projetos, porém, enfrenta forte oposição de grupos de moradores em várias partes do país.",
-      "category": "tecnologia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-      "published_at": "2026-11-01T13:37:42-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/6454f44555fa48a5f38d1d066c370cb6e7376a80/0_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3344baddc279d10a63ba366fdf49d2d"
+      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200"
     }
   ]
 }
