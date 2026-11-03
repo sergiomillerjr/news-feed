@@ -1,744 +1,696 @@
 {
   "version": 2,
-  "generated_at": "2026-11-02T15:12:15-05:00",
-  "edition": "tarde",
+  "generated_at": "2026-11-03T07:18:07-05:00",
+  "edition": "manha",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "tarde-2026-11-02-eua-01",
-      "title": "Trump encerra campanha: 'Demos uma chance muito forte'",
-      "summary": "Em seu último discurso programado antes das eleições de meio de mandato, Donald Trump falou no espelho d'água do Lincoln Memorial e admitiu que o partido do presidente costuma perder nessas disputas. Mais de 57 milhões de americanos já votaram antecipadamente.",
+      "id": "manha-2026-11-03-eua-01",
+      "title": "Americanos vão às urnas nas eleições de meio de mandato",
+      "summary": "Os eleitores dos EUA votam nesta terça-feira (3) nas eleições de meio de mandato, vistas como um referendo sobre o segundo mandato de Donald Trump. O controle da Câmara e do Senado, hoje nas mãos dos republicanos, está em jogo.",
       "highlights": [
-        "Trump: 'o presidente em exercício não costuma vencer as midterms'",
-        "Boa parte do discurso exaltou a reforma do espelho d'água",
-        "Mais de 57 milhões de votos antecipados, segundo a Universidade da Flórida"
+        "Câmara e Senado estão em disputa",
+        "Pesquisas favorecem democratas na Câmara",
+        "Texas e Kansas estão entre as disputas-chave"
       ],
-      "body": "O presidente Donald Trump fez nesta segunda-feira, diante do espelho d'água do Lincoln Memorial, em Washington, seu último discurso programado da campanha de 2026, além de telecomícios. Depois de falar longamente sobre a reforma do monumento e outros projetos na capital, ele voltou-se para a eleição e afirmou que os democratas querem pessoas em situação irregular no país para que possam votar — alegação sem comprovação.\n\n'Por alguma razão, o presidente em exercício não vence as midterms', disse Trump. 'Mas demos a isso uma chance muito forte.' Ele também afirmou que todos os recordes de seu governo não importarão 'se formos tolos e deixarmos pessoas que odeiam nosso país vencerem uma eleição' e disse que o país está 'bombando como nunca'.\n\nA CBS observa que não ficou claro por que o presidente escolheu dar tanto destaque ao espelho d'água na véspera da votação. Segundo o Voting Lab da Universidade da Flórida, mais de 57 milhões de americanos já votaram antecipadamente para a eleição desta terça-feira, 3 de novembro.",
+      "body": "Os americanos estão votando nesta terça-feira em eleições de meio de mandato amplamente vistas como um referendo sobre a segunda presidência de Donald Trump. Democratas e republicanos fizeram nos últimos dias seus apelos finais, com o controle do Senado e da Câmara dos Representantes — ambos atualmente republicanos — em jogo.\n\nTrump dominou a campanha e pediu à sua base que votasse como se o nome dele estivesse na cédula. Historicamente, o partido que ocupa a Casa Branca perde cadeiras nas eleições de meio de mandato, e os democratas esperam aproveitar a queda de popularidade do presidente para conquistar as duas casas.\n\nAs pesquisas indicam que os democratas estão bem posicionados na Câmara; no Senado, a tarefa é mais difícil. Uma última rodada de pesquisas do New York Times/Siena colocou candidatos democratas à frente em cinco de sete disputas decisivas, incluindo Texas e Kansas.",
+      "category": "eua",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
+      "published_at": "2026-11-03T02:00:43-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/1e8f9b2593e2553ba85b5f08c026ee4a75bd54ac/179_0_2280_1825/master/2280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67105ef976bb7638aa69003b5ddaede6"
+    },
+    {
+      "id": "manha-2026-11-03-eua-02",
+      "title": "Horários de votação: primeiras urnas fecham às 18h (hora de NY)",
+      "summary": "Os horários de abertura e fechamento das urnas variam por estado. As primeiras fecham às 18h (hora de Nova York) em partes de Indiana e Kentucky; na maior parte da Flórida, a votação termina às 19h.",
+      "highlights": [
+        "Vermont abriu já às 5h",
+        "Mais de 57 milhões votaram antecipadamente",
+        "Quem estiver na fila no horário pode votar"
+      ],
+      "body": "A votação presencial começou às 5h (hora de Nova York) em Vermont, seguida por estados como Nova York, Nova Jersey e Virgínia às 6h. As últimas urnas a abrir são as do Havaí, ao meio-dia (hora de NY).\n\nAs primeiras urnas fecham às 18h nas partes orientais de Indiana e Kentucky. Às 19h fecham Geórgia, Carolina do Sul, Vermont, Virgínia e a maior parte da Flórida; Carolina do Norte, Ohio e Virgínia Ocidental vêm às 19h30. Os resultados começam a ser divulgados depois do fechamento em cada estado.\n\nSegundo a CBS News, mais de 57 milhões de eleitores já votaram antecipadamente neste ano. Quem estiver na fila antes do horário de fechamento tem o direito de permanecer e votar.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
-      "published_at": "2026-11-02T14:50:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/8aaa6aad-0a2b-4238-b535-be857fdfc569/thumbnail/1200x630/87030e3fea98ef08f7a9e487703d4f15/gettyimages-2302749137.jpg"
+      "url": "https://www.cbsnews.com/news/when-polls-open-close-2026-midterm-elections/",
+      "published_at": "2026-11-03T04:30:01-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/02/fd132b41-940f-4ec0-9f47-bb0e258def17/thumbnail/1200x630/e962f84a442e9fbcb07881705860ec69/gettyimages-2302595202.jpg"
     },
     {
-      "id": "tarde-2026-11-02-eua-02",
-      "title": "Último dia de campanha: disputas no Texas, Michigan e Nova York",
-      "summary": "Republicanos e democratas fazem os últimos comícios antes da eleição de terça-feira, com pesquisas apontando disputa apertada pelo Congresso. No Texas, o democrata James Talarico aparece ligeiramente à frente de Ken Paxton na corrida ao Senado.",
+      "id": "manha-2026-11-03-eua-03",
+      "title": "Eleitores decidem 145 propostas, de aborto a redistritamento",
+      "summary": "Além de Congresso e governos estaduais, os eleitores votam 145 propostas de leis e emendas constitucionais. Aborto, mapas eleitorais e exigência de documento para votar estão entre os temas.",
       "highlights": [
-        "Trump diz que, se perder o Senado, será o 'Sr. Veto'",
-        "Vance fez comício no norte de Nova York por cadeira antes de Elise Stefanik",
-        "Abdul El-Sayed percorre Michigan; Talarico e Hinojosa fazem ato em Austin"
+        "Missouri vota nova proibição do aborto",
+        "Idaho, Nevada e Virgínia votam direito ao aborto",
+        "Nove estados já usam novos mapas eleitorais"
       ],
-      "body": "Os republicanos tentam manter as maiorias no Senado e na Câmara apesar da baixa aprovação de Trump e de pesquisas que indicam que a guerra com o Irã, os preços altos de energia e a crise do custo de vida podem render uma noite forte para os democratas. Em entrevista ao podcast Pod Force One, do New York Post, Trump disse que, caso tenha de conviver com um Congresso democrata, vai se tornar o 'Sr. Veto'.\n\nO vice-presidente JD Vance foi a Rome, no estado de Nova York, apoiar os candidatos republicanos à Câmara Anthony Constantino e Kailee Buller. Constantino disputa a vaga de Elise Stefanik, que não concorre à reeleição, e uma pesquisa do Siena Research Institute indica disputa apertada apesar da vantagem republicana de cerca de 80 mil eleitores registrados.\n\nEm Michigan, o democrata Abdul El-Sayed faz seu último dia de campanha ao Senado com atos em Ypsilanti, Flint, Royal Oak e Detroit. No Texas, James Talarico (Senado) e Gina Hinojosa (governo) fazem comício conjunto em Austin; as pesquisas mostram Talarico levemente à frente do republicano Ken Paxton, enquanto a vantagem do governador Greg Abbott sobre Hinojosa diminuiu.",
+      "body": "Uma batalha sobre o direito ao aborto se desenrola em vários estados nesta terça-feira, em que os eleitores decidem 145 propostas de leis e emendas constitucionais, segundo a Associated Press. Algumas medidas testam prioridades de Trump, como a redefinição de distritos eleitorais, limites a atletas transgênero e regras mais rígidas de identificação do eleitor.\n\nNo Missouri, que em 2024 aprovou uma emenda derrubando a proibição do aborto, os eleitores decidem agora se revogam esse direito e adotam uma nova proibição, com algumas exceções. Em Idaho e Nevada, medidas protegeriam o direito ao aborto; na Virgínia, uma emenda garantiria o aborto nos dois primeiros trimestres.\n\nNove estados já usam novos mapas congressionais nesta eleição, após uma rara onda de redistritamento no meio da década incentivada por Trump. No Missouri, o novo mapa depende de referendo; em Maryland, uma emenda pode abrir caminho para novos distritos.",
       "category": "eua",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms",
-      "published_at": "2026-11-02T12:07:14-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26306154593328-1793594631.jpg?resize=1920%2C1440"
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/03/trumps-agenda-meets-the-ballot-box-as-states-vote-on-abortion-redistricting-and-voter-id-mandates/",
+      "published_at": "2026-11-03T02:41:06-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/DJDPOU2GMONQMVJ62SVGKFVEZ4.jpg?auth=41c0558a4455c944926be18c1841252ccc2857f0b29c65311cba5a6076aee055&width=700"
     },
     {
-      "id": "tarde-2026-11-02-eua-03",
-      "title": "Governo Trump pede à Suprema Corte que separe 20 mil votos na Califórnia",
-      "summary": "O Departamento de Justiça pediu à Suprema Corte que obrigue a Califórnia a separar cédulas enviadas pelo correio por mais de 20 mil pessoas que o governo diz não serem cidadãs americanas. Tribunais inferiores já negaram o pedido, e autoridades estaduais questionam a precisão da lista.",
+      "id": "manha-2026-11-03-eua-04",
+      "title": "Resultado pode demorar: controle do Congresso talvez não saia hoje",
+      "summary": "Especialistas alertam que o controle da Câmara e do Senado pode não ficar claro na noite da eleição. A demora, dizem, é normal e não indica fraude.",
       "highlights": [
-        "Tribunal de apelações (9º Circuito) negou o pedido por 2 a 1 na sexta",
-        "Mais de 6 milhões de votos por correio já foram devolvidos no estado",
-        "Juiz David Carter falou em 'alegações infundadas' e lista 'cheia de erros'"
+        "“Se soubermos, é sinal de uma onda”",
+        "Desinformação tende a crescer na espera",
+        "Trump diz aceitar resultado “se for honesto”"
       ],
-      "body": "O pedido de medida de emergência foi apresentado nesta segunda-feira, depois que um tribunal federal de apelações se recusou, na sexta, a ordenar que autoridades da Califórnia segregassem as cédulas de pessoas incluídas numa lista do governo de supostos não cidadãos. O procurador-geral D. John Sauer argumentou que, uma vez misturadas às cédulas válidas, 'não há como recuperar' as contestadas, e que separá-las agora seria um 'remédio modesto'.\n\nA disputa começou quando o Departamento de Justiça enviou à secretária de Estado da Califórnia e ao principal responsável eleitoral do condado de Los Angeles uma lista de 20 mil pessoas que, segundo ele, estariam registradas para votar sem serem cidadãs, exigindo que seus votos não fossem apurados até a verificação. As autoridades estaduais manifestaram preocupação com a precisão da lista e com o risco de eleitores legítimos serem privados do voto.\n\nNa quarta-feira, o juiz federal David Carter rejeitou o pedido de ordem de restrição, afirmando que eleitores que cumpriram as exigências da lei californiana 'não devem ser privados de um direito fundamental por causa de alegações infundadas decorrentes de um procedimento repleto de incertezas e erros'. A Califórnia tem mais de 23 milhões de eleitores registrados e já recebeu mais de 6 milhões de votos pelo correio.",
-      "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-supreme-court-california-ballots-alleged-noncitizens/",
-      "published_at": "2026-11-02T11:47:00-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/7b9e0928-0fe9-4b59-b691-af962cdd36a3/thumbnail/1200x630/ca3fa401b6f044dc2aed345a6d3a5eeb/gettyimages-2300813289.jpg"
-    },
-    {
-      "id": "tarde-2026-11-02-eua-04",
-      "title": "Suprema Corte julga exclusão de pré-escolas católicas de programa do Colorado",
-      "summary": "A Suprema Corte ouve nesta terça-feira o caso St. Mary Catholic Parish v. Roy, sobre se o Colorado pode excluir escolas católicas de seu programa universal de pré-escola. As escolas se recusam a matricular alunos de famílias que não seguem os ensinamentos da Igreja sobre casamento e sexualidade.",
-      "highlights": [
-        "Programa reembolsa 15 horas semanais, mais de US$ 6 mil por ano",
-        "Regra estadual proíbe discriminação por orientação sexual e identidade de gênero",
-        "Nenhuma das 34 pré-escolas da Arquidiocese de Denver participa"
-      ],
-      "body": "Os eleitores do Colorado aprovaram em 2020 uma medida para financiar um programa que tornaria a pré-escola gratuita e amplamente disponível para todas as crianças de 4 anos. As famílias recebem reembolso de 15 horas semanais — mais de US$ 6 mil por ano — e escolas públicas, privadas, religiosas e laicas podem participar, desde que cumpram padrões de qualidade e uma regra de não discriminação que inclui orientação sexual e identidade de gênero.\n\nA Arquidiocese de Denver, que supervisiona 34 pré-escolas católicas, pediu isenção religiosa porque só admite famílias alinhadas aos ensinamentos da Igreja. O estado negou, e nenhuma dessas escolas participa do programa. Em 2023, a arquidiocese, duas paróquias e pais de crianças entraram na Justiça alegando violação da liberdade religiosa garantida pela Constituição.\n\nSe os autores vencerem, a decisão se somará a uma série de julgamentos recentes em que a Suprema Corte, de maioria conservadora de 6 a 3, deu razão a instituições religiosas excluídas de programas estaduais, abrindo caminho para que mais dinheiro público chegue a escolas religiosas. O caso é o mais recente choque entre liberdade religiosa e proteções a pessoas gays e transgênero.",
+      "body": "O controle da Câmara e do Senado pode não ficar imediatamente claro na noite desta terça-feira, e algumas disputas vão levar mais tempo para serem definidas, segundo a CBS News. Isso não é incomum nem indício de fraude, ressaltam especialistas em eleições.\n\nDavid Becker, do Center for Election Innovation & Research, disse duvidar que os americanos saibam na mesma noite quem controla as casas: “Se soubermos, então há uma onda muito grande acontecendo”. Questionado se aceitaria o resultado, Trump respondeu: “Aceitarei, se forem eleições honestas”.\n\nLawrence Norden, do Brennan Center for Justice, afirma que a desinformação “floresce” no intervalo entre a votação e os resultados, e que esse período será mais longo quanto mais apertada for a disputa.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/supreme-court-religious-liberty-colorado-preschools-st-mary-catholic-parish-v-roy/",
-      "published_at": "2026-11-02T13:03:32-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/06/eb8f5239-86c0-44df-807c-6dbb11056d00/thumbnail/1200x630g2/afbd872ee6a85de5e876d80d0e70093f/gettyimages-2298696665.jpg"
+      "url": "https://www.cbsnews.com/news/2026-midterm-elections-race-call-timing/",
+      "published_at": "2026-11-03T06:00:14-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/343dca04-c3c9-4bda-ae81-fdb029e24b6a/thumbnail/1200x630/f01263d3fb446c9488165ba76918dcfa/ap26289523858830.jpg"
     },
     {
-      "id": "tarde-2026-11-02-eua-05",
-      "title": "Caso Lindsay Clancy: promotoria quer novo julgamento, possivelmente em março",
-      "summary": "Atualização: na audiência desta segunda-feira, a promotoria disse pela primeira vez que Lindsay Clancy provavelmente será julgada de novo pela morte dos três filhos. O juiz indicou março como data realista, mas ainda não se sabe quais acusações ela enfrentará.",
+      "id": "manha-2026-11-03-eua-05",
+      "title": "Musk gasta US$ 446 milhões; eleição deve ser a mais cara da história",
+      "summary": "A campanha de meio de mandato deve custar quase US$ 12 bilhões, segundo projeção da Open Secrets. O maior doador individual é Elon Musk, com quase meio bilhão de dólares em apoio a republicanos.",
       "highlights": [
-        "Primeiro julgamento terminou com júri sem consenso em 4 de setembro",
-        "Defesa quer saber se a acusação será de homicídio em primeiro grau",
-        "Promotoria pediu ordem de silêncio contra declarações do advogado"
+        "Gasto total projetado de US$ 11,9 bilhões",
+        "Super PACs respondem por cerca de US$ 5,5 bi",
+        "Musk concentrou recursos no Texas"
       ],
-      "body": "Em seu primeiro julgamento, a defesa de Clancy admitiu que ela matou Cora, de 5 anos, Dawson, de 3, e Callan, de 8 meses, em sua casa em Duxbury, Massachusetts, em 24 de janeiro de 2023, mas sustentou que ela não era criminalmente responsável por estar supermedicada e sofrendo de psicose pós-parto. A promotoria afirma que ela sabia distinguir o certo do errado e planejou o crime. O júri não chegou a um veredicto.\n\nNa audiência no Tribunal Superior de Plymouth, a promotora Jennifer Sprague disse que 'isto seria um novo julgamento', mas que a acusação ainda não decidiu 'como isso vai ficar' e não quer marcar data antes de o juiz William Sullivan decidir sobre moções pendentes. O advogado Kevin Reddington protestou contra a demora e lembrou a aposentadoria próxima de Sullivan, que ele quer como juiz do caso: 'Não vou deixar esta mulher presa por mais um, dois ou três anos. Quero um julgamento nesta primavera.'\n\nSullivan disse estar inclinado a marcar o novo julgamento para março, tema da próxima audiência, em 16 de novembro. A promotoria também pediu uma ordem de silêncio, argumentando que declarações 'calculadas' de Reddington podem contaminar o grupo de potenciais jurados.",
+      "body": "A eleição de meio de mandato de 2026 caminha para ser a mais cara já registrada, com custo total projetado em quase US$ 12 bilhões, segundo a Open Secrets, organização independente que acompanha o financiamento de campanhas — cerca de 30% a mais que em 2022. Grande parte vem de grupos externos, como os Super PACs, que podem receber doações ilimitadas.\n\nO maior doador individual é Elon Musk, que gastou cerca de US$ 446 milhões apoiando candidatos republicanos, sobretudo no Texas, segundo levantamento da BBC Verify.\n\nPelos registros na Comissão Eleitoral Federal até meados de outubro, mais de US$ 9,5 bilhões já haviam sido gastos neste ciclo. Segundo o Brennan Center, os 40 maiores doadores somam US$ 2,4 bilhões.",
+      "category": "eua",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+      "published_at": "2026-11-02T15:54:44-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2968/live/e7b09290-d76a-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "manha-2026-11-03-eua-06",
+      "title": "Suprema Corte rejeita pedido de Trump para separar votos na Califórnia",
+      "summary": "A Suprema Corte negou, sem dissidências, o pedido de última hora do governo Trump para obrigar a Califórnia a separar cédulas de 20 mil supostos não cidadãos. Um juiz já havia dito que a lista do governo era “cheia de incertezas e erros”.",
+      "highlights": [
+        "Decisão de uma linha, sem votos contrários",
+        "Mais de 6 milhões de cédulas já devolvidas",
+        "Casos confirmados de voto de não cidadãos são raros"
+      ],
+      "body": "A Suprema Corte dos EUA rejeitou na segunda-feira (2) o esforço de última hora do governo Trump para exigir que a Califórnia separasse cédulas enviadas pelo correio por cerca de 20 mil pessoas que o governo afirma não serem cidadãs americanas. Em uma ordem de uma linha, sem assinatura, a corte negou o pedido sem dissidências registradas.\n\nAntes, o juiz federal David Carter havia afirmado que o processo do governo para identificar os supostos não cidadãos era “cheio de incertezas e erros”.\n\nA votação na Califórnia está em andamento desde outubro, e mais de 6 milhões de cédulas pelo correio já foram devolvidas. Trump repete que muitos não cidadãos votam, embora casos confirmados sejam raros.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/lindsay-clancy-hearing-new-second-trial/",
-      "published_at": "2026-11-02T13:49:45-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/765208f8-3ed3-4678-99aa-60750c8001cd/thumbnail/1200x630/2ae770a4c70e1dac8ceda5ae7e435cc4/clancy.jpg"
+      "url": "https://www.cbsnews.com/news/supreme-court-rejects-trump-california-mail-ballots-alleged-noncitizens/",
+      "published_at": "2026-11-02T18:01:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/aad939c7-d4b0-4c6e-a37b-3b8772fd5d4e/thumbnail/1200x630/fdc1f7acb35cb9b0b3e5854af848e4cb/gettyimages-2299615599.jpg"
     },
     {
-      "id": "tarde-2026-11-02-eua-06",
-      "title": "Telescópio Swift, da NASA, deve cair na Terra na quarta-feira",
-      "summary": "O observatório Swift, de 1,5 tonelada, deve reentrar na atmosfera por volta das 3h30 de 4 de novembro, após uma tentativa de resgate fracassada. A NASA calcula em cerca de 1 em 2.100 o risco de alguém ser atingido por destroços.",
+      "id": "manha-2026-11-03-eua-07",
+      "title": "Criança morre de sarampo em NY, primeira morte no estado em 30 anos",
+      "summary": "Uma criança morreu de sarampo no condado de Lewis, no norte do estado de Nova York. A governadora Kathy Hochul culpou Washington por minar a proteção vacinal.",
       "highlights": [
-        "Previsão da Força Espacial tem incerteza de 11 horas",
-        "Peças de tungstênio e partes de espelhos podem sobreviver à reentrada",
-        "Em 22 anos, Swift registrou mais de 2.000 explosões de raios gama"
+        "Primeira morte por sarampo em NY em 30 anos",
+        "EUA somam 4.588 casos em 2026",
+        "Pensilvânia já registrou 6 mortes"
       ],
-      "body": "Segundo a NASA, a maior parte do telescópio deve queimar na atmosfera, mas algumas peças de tungstênio — mais denso que o chumbo — e partes de espelhos podem sobreviver. Os destroços devem cair provavelmente no oceano, mas faixas da África, Austrália, Índia, Sudeste Asiático e Américas Central e do Sul estão dentro da zona de reentrada. A agência considera 'improvável' que alguém seja ferido.\n\nA intensa atividade solar dos últimos anos puxou o Swift para baixo mais rápido que o normal. A NASA contratou a Katalyst Space para uma missão de resgate às pressas, mas o robô de três braços da empresa, chamado Link, teve problemas após o lançamento em julho, não chegou a menos de 11 a 14 km do telescópio e caiu de volta à Terra em setembro. No fim de outubro, o Swift estava baixo demais para observações e foi desligado.\n\nLançado em 20 de novembro de 2004 para estudar as maiores explosões do universo, o Swift registrou mais de 2.000 explosões de raios gama e 1.400 estrelas explodindo, além de cometas, asteroides e buracos negros destruindo estrelas. Ele funcionava como 'primeiro socorrista' para telescópios como Hubble e Webb, e os cientistas ainda buscam formas de preencher essa lacuna.",
-      "category": "eua",
-      "source": "CBS News / AP",
-      "url": "https://www.cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth/",
-      "published_at": "2026-11-02T14:00:07-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/fbcc0008-f8f4-459d-b34b-3af63b2fbd9b/thumbnail/1200x630/37d6f9be233f356b1a623629316a25f2/swift-cq5dam-thumbnail-319-319.png"
-    },
-    {
-      "id": "tarde-2026-11-02-eua-07",
-      "title": "E. Jean Carroll contesta pedido de Trump para anular indenização de US$ 83 milhões",
-      "summary": "Os advogados de E. Jean Carroll pediram à Suprema Corte que rejeite o recurso de Donald Trump contra a indenização de US$ 83 milhões por difamação. Trump alega imunidade presidencial por declarações feitas em 2019, quando chamou a escritora de mentirosa.",
-      "highlights": [
-        "Júri concedeu o valor em janeiro de 2024",
-        "Defesa de Carroll: 'a Presidência não precisa' da ajuda da Corte",
-        "Trump desistiu em setembro de recorrer do primeiro veredicto, de US$ 5 milhões"
-      ],
-      "body": "O júri concedeu a Carroll a indenização em 26 de janeiro de 2024, menos de um ano depois de ela vencer um processo de US$ 5 milhões por abuso sexual e difamação contra Trump, que sempre negou as acusações. Em 30 de outubro, a equipe de Carroll protocolou sua oposição ao pedido de Trump para que a Suprema Corte analise o caso.\n\nOs advogados de Trump argumentam que a imunidade presidencial o protege de responsabilidade por condutas durante o mandato e que uma responsabilidade pessoal de quase US$ 100 milhões 'inibiria o exercício do poder executivo por futuros presidentes'. A defesa de Carroll, liderada por Roberta Kaplan, lembra que o veredicto foi mantido repetidamente por instâncias inferiores e que as declarações de Trump desencadearam milhares de ameaças de morte e de violência sexual contra ela.\n\n'Embora este presidente possa querer a ajuda desta Corte, a Presidência não precisa dela', escreveram. Um porta-voz da equipe jurídica de Trump chamou o caso de 'farsa financiada por democratas'. O processo decorre da acusação de Carroll de que Trump a atacou num provador de uma loja de departamentos em Manhattan décadas atrás.",
+      "body": "Uma criança da zona rural do norte do estado de Nova York morreu após contrair sarampo, a primeira morte pela doença no estado em 30 anos, anunciaram autoridades. O caso ocorreu no condado de Lewis.\n\n“Este é um lembrete devastador do que está em jogo quando Washington deliberadamente destrói décadas de progresso na proteção dos americanos contra doenças evitáveis”, disse a governadora Kathy Hochul.\n\nO CDC registrou 4.588 casos de sarampo no país em 2026, mais que o dobro de 2025. Só a Pensilvânia contabiliza seis mortes e 1.338 casos.",
       "category": "eua",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/e-jean-carroll-trump-supreme-court",
-      "published_at": "2026-11-02T11:37:00-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/5e3e70eaa659a1afe65d763c488d14b2edad56da/230_0_4911_3928/master/4911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=722910b67018e4bdc9a5d87fc979e6d8"
+      "url": "https://www.theguardian.com/society/2026/nov/03/new-york-child-measles-death-first-in-30-years",
+      "published_at": "2026-11-03T00:48:26-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/0c0f5ef421a6a7c09fa31bb84d36f66283e98e83/1408_0_5616_4496/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed5d5a013b9e4542cb0ac57a44c99ee3"
     },
     {
-      "id": "tarde-2026-11-02-eua-08",
-      "title": "Israel está no centro da guinada de Haley Stevens em Michigan, diz análise",
-      "summary": "A deputada democrata Haley Stevens, que perdeu a primária ao Senado para Abdul El-Sayed, passou a apoiar o republicano Mike Rogers. Análise do Guardian mostra que a questão de Israel atravessa quase todas as etapas da ruptura.",
+      "id": "manha-2026-11-03-eua-08",
+      "title": "Morador de Washington morre de gripe aviária, 1ª morte nos EUA em um ano",
+      "summary": "Um morador do condado de Yakima, no estado de Washington, morreu de gripe aviária H5N1 após exposição a gado leiteiro infectado. Não há transmissão conhecida entre pessoas.",
       "highlights": [
-        "Aipac e grupos ligados gastaram cerca de US$ 30 milhões na primária dela",
-        "Schumer chamou a decisão de 'traição desprezível'",
-        "Partido democrata de Michigan diz que ela não é mais membro"
+        "Vírus H5N1 contraído em fazenda leiteira",
+        "33 rebanhos da região infectados",
+        "Mais de 70 casos humanos desde 2024"
       ],
-      "body": "Stevens, que antes chamava Rogers de 'carimbo' da agenda de Trump, anunciou apoio a ele no domingo, aparentemente porque o democrata vencedor da primária não compartilha sua posição sobre Israel. Neste ano, a Aipac — maior lobby pró-Israel dos EUA — e grupos afiliados gastaram cerca de US$ 30 milhões para tentar garantir a vitória dela na primária, seu maior investimento numa única disputa, mas ela perdeu mesmo assim.\n\nStevens deveria aparecer no domingo ao lado de El-Sayed e do veterano Jim Clyburn numa igreja de Detroit, numa demonstração de unidade. Em vez disso, divulgou um comunicado atacando El-Sayed por suposto antissemitismo e foi informada de que não era mais bem-vinda em eventos da campanha. Em entrevista à CNN, não conseguiu explicar claramente o que mudou entre suas garantias aos colegas e o apoio a Rogers.\n\nA reação democrata foi unânime: o líder da minoria no Senado, Chuck Schumer, falou em 'traição desprezível', e o presidente do partido em Michigan, Curtis Hertel, declarou que ela não é mais membro da legenda. Muitos também questionam a influência de seu noivo, o advogado pró-Israel Jason Turkish, que passou a apoiar Rogers e outros republicanos.",
+      "body": "Um morador do condado de Yakima, no estado de Washington, morreu de complicações da gripe aviária após ser exposto a gado leiteiro infectado, a primeira morte pela doença nos EUA em um ano, informou a Associated Press.\n\nO CDC confirmou que a infecção foi pelo vírus H5N1. Autoridades locais relatam 33 rebanhos leiteiros infectados na região.\n\nMais de 70 infecções humanas foram registradas no país desde 2024, mas não há transmissão conhecida entre pessoas. Trabalhadores rurais em contato com animais são considerados os de maior risco.",
+      "category": "eua",
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/health/2026/11/02/washington-state-resident-dies-from-bird-flu-following-exposure-to-infected-cattle/",
+      "published_at": "2026-11-02T18:19:15-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/UXFCWR2Y4JCY52MNZMMZOEBMC4.jpg?auth=3e99a8adbc16c5aa315511d9662b4aac18cfc19a70e2e549e3daa9f2e5a803d3&width=700"
+    },
+    {
+      "id": "manha-2026-11-03-eua-09",
+      "title": "ICE planeja deportar afegãos via Paquistão",
+      "summary": "O governo Trump planeja deportar cerca de 200 afegãos enviando-os primeiro ao Paquistão, de onde seriam levados ao Afeganistão do Talibã. Defensores temem perseguição contra quem colaborou com os EUA.",
+      "highlights": [
+        "Voo previsto para esta terça, de Alexandria (Louisiana)",
+        "EUA não têm relações com o Talibã",
+        "Afegão que revelou o plano foi solto"
+      ],
+      "body": "O governo Trump fez planos para deportar cerca de 200 afegãos enviando-os primeiro ao Paquistão, de onde seriam devolvidos ao Afeganistão controlado pelo Talibã, segundo a CBS News.\n\nEm declaração juramentada de 30 de outubro, o oficial do ICE Sergio Aguilar informou que um voo de deportação partiria de Alexandria, na Louisiana, nesta terça-feira (3). A informação surgiu no processo Sadat v. Mullin, no tribunal do juiz Michael Nachmanoff.\n\nDefensores alertam que a medida pode expor à perseguição afegãos ligados ao esforço de guerra americano. Said Sadat, autor da ação, foi retirado do voo e libertado.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ice-deportation-afghans-through-pakistan/",
+      "published_at": "2026-11-02T21:27:18-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/affbf438-7d45-486b-839a-d439cf5398e4/thumbnail/1200x630/0d27c5753c4093711bb5f8e6b61d95ba/gettyimages-95670973.jpg"
+    },
+    {
+      "id": "manha-2026-11-03-eua-10",
+      "title": "Ex-chefe do FBI em Chicago processa Departamento de Justiça",
+      "summary": "Douglas DePodesta, que chefiou o FBI em Chicago até julho, acusa o governo Trump de pressioná-lo por investigações políticas. Ele diz ter sido feito de bode expiatório após o fracasso do caso “Broadview Six”.",
+      "highlights": [
+        "Processo cita Kash Patel e Todd Blanche",
+        "Caso contra manifestantes anti-ICE desmoronou",
+        "Ligado à operação Midway Blitz"
+      ],
+      "body": "O ex-chefe do escritório do FBI em Chicago Douglas DePodesta, que ocupou o cargo de 2024 a julho de 2026, abriu processo contra o governo Trump. Ele afirma ter sido pressionado a investigar opositores do presidente e transformado em bode expiatório depois que um caso federal contra manifestantes anti-ICE desmoronou.\n\nA ação cita o diretor do FBI, Kash Patel, Todd Blanche e o procurador federal Andrew Boutros. O caso envolve os chamados “Broadview Six”, ativistas processados durante a operação de imigração Midway Blitz, em Chicago, cuja acusação acabou ruindo.",
       "category": "eua",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
-      "published_at": "2026-11-02T14:15:23-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/f932b51b933c2fca6cf2379630495e5e5a69568d/293_0_3239_2593/master/3239.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f0e226db5e6564002d141264d9a6658"
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
+      "published_at": "2026-11-02T15:59:53-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/92b311eb24936c630f33e5a6c4522072b953955f/510_0_5102_4083/master/5102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b12340f2a3fb9a9beb5471eef14f51a"
     },
     {
-      "id": "tarde-2026-11-02-eua-09",
-      "title": "Gasolina cai às vésperas da eleição, mas segue bem acima de um ano atrás",
-      "summary": "O galão de gasolina comum custa em média US$ 4,17 nos EUA, 12 centavos a menos que na semana passada, segundo a AAA. O preço caiu com a esperança de acordo para encerrar a guerra com o Irã, mas há um ano era de US$ 3,04.",
+      "id": "manha-2026-11-03-mundo-01",
+      "title": "EUA atacam ilha iraniana de Qeshm após disparos contra aeronave",
+      "summary": "Os EUA realizaram ataques à ilha iraniana de Qeshm, no Estreito de Ormuz, descritos como limitados e defensivos. A Guarda Revolucionária diz ter derrubado três drones americanos.",
       "highlights": [
-        "Diesel recua para US$ 6,29 o galão",
-        "Petróleo caiu cerca de 6% nesta segunda",
-        "GasBuddy vê média nacional abaixo de US$ 4 na próxima semana"
+        "Resposta a disparos contra aeronave dos EUA",
+        "Trump diz não ter “pressa” para escalar",
+        "Netanyahu pressionaria por mais ataques"
       ],
-      "body": "Os preços da gasolina recuaram com os esforços diplomáticos para encerrar a guerra dos EUA e de Israel contra o Irã, mas continuam altos às vésperas das eleições, com o custo de vida no centro das preocupações dos eleitores. O preço médio está 23 centavos abaixo do de um mês atrás; em 28 de fevereiro, quando EUA e Israel atacaram o Irã pela primeira vez, era de US$ 2,98. Segundo análise do Financial Times, a média do segundo mandato de Trump deve superar US$ 3,46, recorde para um governo.\n\n'Os mercados de petróleo caíram significativamente depois que Trump sinalizou preferir negociações a novos ataques', disse Patrick De Haan, do GasBuddy, prevendo que a média nacional pode ficar abaixo de US$ 4 o galão na próxima semana, salvo mudança de rumo. Uma pesquisa AP-NORC mostrou que 78% dos republicanos e 89% dos democratas querem que o Congresso priorize o custo de vida.\n\nA Casa Branca afirmou que, quando o conflito terminar, 'os preços da gasolina vão cair drasticamente'. Em Wall Street, ações de petrolíferas como ConocoPhillips, Chevron e ExxonMobil recuavam, enquanto os principais índices subiam.",
-      "category": "eua",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs",
-      "published_at": "2026-11-02T13:32:30-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae8bfb8-1793638328.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "tarde-2026-11-02-eua-10",
-      "title": "Savannah Guthrie faz novo apelo por informações sobre a mãe desaparecida",
-      "summary": "A apresentadora do Today publicou um desenho antigo da filha e uma foto da mãe, Nancy Guthrie, de 84 anos, que as autoridades acreditam ter sido sequestrada em fevereiro em Tucson, no Arizona. 'Não conseguimos seguir em frente', escreveu.",
-      "highlights": [
-        "Família mantém recompensa de US$ 1 milhão; FBI oferece US$ 100 mil",
-        "Bilhetes de resgate pediram US$ 4 milhões em criptomoedas",
-        "Ninguém foi preso e não se sabe se ela está viva"
-      ],
-      "body": "No domingo, Savannah Guthrie compartilhou o desenho de sua filha com a frase 'sei que pode não parecer, mas eu realmente preciso da minha mamãe' e escreveu: 'Sentimos a falta dela, clamamos por respostas, não conseguimos seguir em frente. Precisamos que alguém nos ajude, nos diga o que sabe.' O novo apelo vem três meses depois de outro, em agosto, em que pediu que 'alguém se apresente'.\n\nNancy Guthrie foi dada como desaparecida de sua casa em Tucson em 1º de fevereiro. Investigadores encontraram gotas de sangue na varanda e DNA numa luva achada a 3 km da casa, mas a luva foi depois descartada como pista por pertencer a um funcionário de restaurante. O FBI procura um homem de cerca de 1,75 m a 1,78 m, de porte médio.\n\nEm julho, as autoridades divulgaram dois bilhetes de resgate enviados a uma emissora de Tucson: o primeiro, de 2 de fevereiro, dizia que ela estava ilesa e exigia US$ 4 milhões em criptomoedas; o segundo, quatro dias depois, afirmava que ela havia morrido logo após o sequestro. Ninguém foi preso até agora.",
-      "category": "eua",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/savannah-guthrie-mother-nancy-new-post",
-      "published_at": "2026-11-02T14:59:30-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/fd6376bf17c25fb682eeb058f457a6736ffec2d2/291_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9228a5a405d801ae8a08c6ebfddc2816"
-    },
-    {
-      "id": "tarde-2026-11-02-mundo-01",
-      "title": "Bombardeio russo mata 24 em centro de ajuda humanitária na Ucrânia",
-      "summary": "Pelo menos 24 pessoas morreram quando bombas aéreas russas atingiram um centro de distribuição de ajuda na vila de Komyshuvakha, na região de Zaporíjia. Zelensky chamou o ataque de 'absolutamente horrível'.",
-      "highlights": [
-        "Ao menos nove bombas de 3.000 kg atingiram a vila",
-        "Entre os mortos, dois socorristas e quatro policiais",
-        "Dia de luto em toda a região de Zaporíjia nesta terça"
-      ],
-      "body": "Segundo o chefe regional Mykhailo Semikin, cinco pessoas ficaram feridas e 27 foram inicialmente dadas como desaparecidas. Zelensky afirmou que, após o primeiro ataque à escola local 'usada para fins humanitários', houve um segundo ataque ao lugar onde as pessoas se abrigavam. Os russos 'não podiam desconhecer que os moradores recebiam ajuda humanitária ali toda semana', escreveu.\n\nO presidente ucraniano lembrou a recente operação conjunta russo-ucraniana para retirar civis de Oleshky durante um cessar-fogo mediado pela primeira-dama americana Melania Trump, quando 'houve um momento em que os próximos passos poderiam mostrar que a paz é possível'. 'Com essas mortes, a Rússia envia o sinal exatamente oposto', disse.\n\nO serviço de emergência ucraniano elevou o número de mortos de 18 para 24. As equipes de resgate tiveram de interromper o trabalho várias vezes por causa de ataques de drones russos na área. Os militares russos não comentaram publicamente.",
+      "body": "Os EUA realizaram ataques à ilha de Qeshm, no Estreito de Ormuz, segundo autoridades americanas. As ações foram descritas como limitadas e defensivas, em resposta a disparos da Guarda Revolucionária iraniana contra uma aeronave americana.\n\nA Guarda Revolucionária afirmou ter derrubado dois drones MQM-170 e um MQ-9. Trump disse estar “sem pressa” para intensificar os ataques, mas mencionou a possibilidade de atingir Pickaxe Mountain, sítio subterrâneo ligado ao programa nuclear iraniano.\n\nA guerra começou em fevereiro, com um ataque de EUA e Israel ao Irã. Segundo relatos, o premiê israelense Benjamin Netanyahu tem pressionado por novos ataques.",
       "category": "mundo",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-      "published_at": "2026-11-02T13:01:13-05:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+      "published_at": "2026-11-02T22:39:08-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "tarde-2026-11-02-mundo-02",
-      "title": "Apps de alerta da Ucrânia e da Rússia são hackeados com falsos avisos nucleares",
-      "summary": "Os aplicativos de alerta de emergência da Ucrânia e da Rússia foram invadidos com poucas horas de diferença na noite de domingo, disparando mensagens falsas sobre radiação, ataques químicos e nucleares. Na Rússia, os avisos chegaram a usuários de 33 regiões.",
+      "id": "manha-2026-11-03-mundo-02",
+      "title": "EUA vão mediar novas conversas entre Ucrânia e Rússia em Abu Dhabi",
+      "summary": "O enviado especial Steve Witkoff anunciou conversas técnicas entre Ucrânia e Rússia nos dias 10 e 11 de novembro, em Abu Dhabi. Os EUA também vão se reunir com aliados europeus e da Otan.",
       "highlights": [
-        "App ucraniano Air Alert alertou falsamente até sobre combates em Kiev",
-        "Força Aérea ucraniana desmentiu em 10 minutos",
-        "Rússia diz que hackers exploraram falha no painel administrativo"
+        "Encontro em Abu Dhabi, 10 e 11 de novembro",
+        "Reunião prévia com aliados europeus",
+        "Trégua em Kherson terminou no domingo"
       ],
-      "body": "Às 22h47 locais, o Air Alert — app ucraniano desenvolvido pela Ajax Systems e pela Stfalcon com apoio do Ministério da Transformação Digital — começou a enviar alertas falsos de radiação, ameaça química, ataque nuclear e até combates de rua em Kiev. A Força Aérea confirmou às 23h02 que as notificações eram falsas e pediu calma. Muitos ucranianos usam o app para decidir se vão para abrigos.\n\nHoras depois, às 2h45 em Moscou, o aplicativo do Ministério de Emergências da Rússia também foi invadido. Segundo a mídia estatal russa, as mensagens falavam de 'ogivas nucleares' lançadas contra o país e mandavam moradores estocar comida para três semanas e se abrigar em porões. O ministério desconectou e isolou os serviços afetados.\n\nOs ataques coincidiram com o fim, às 22h59 de domingo, do cessar-fogo temporário em Oleshky, cidade do sul da Ucrânia ocupada pela Rússia desde 2022. Um porta-voz da Força Aérea ucraniana disse que o ataque não afetou as operações de segurança e que o app não está ligado aos sistemas de comando militar.",
+      "body": "Os EUA vão mediar conversas em nível técnico entre autoridades ucranianas e russas nos dias 10 e 11 de novembro, em Abu Dhabi, anunciou o enviado especial Steve Witkoff, segundo a CBS News.\n\nAntes, negociadores americanos devem se reunir com representantes de aliados europeus e da Otan para discutir os próximos passos.\n\nO anúncio vem após o fim, no domingo, de um raro cessar-fogo local em Kherson, cujo mérito foi atribuído à primeira-dama Melania Trump e ao papa Leão.",
       "category": "mundo",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-war-app-hack-cyberattack-fake-nuclear-chemical-alerts/",
-      "published_at": "2026-11-02T12:26:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/31da9f09-3fa7-486f-be44-b6c05a7eae07/thumbnail/1200x630/8294f79cda394e0287e4ab73b0afb919/ukraine-air-alert-2302699498.jpg"
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-ceasefire-talks-witkoff/",
+      "published_at": "2026-11-03T06:16:00-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/59157633-7c00-4858-a0a2-e15ee8c65be8/thumbnail/1200x630/256dd5231769ffde84fc3445b00be5bb/ukraine-russia-war-2302862136.jpg"
     },
     {
-      "id": "tarde-2026-11-02-mundo-03",
-      "title": "Combates voltam a Kherson após o cessar-fogo mais longo da guerra",
-      "summary": "Os combates foram retomados na região de Kherson após uma trégua de seis dias que permitiu a retirada de centenas de pessoas presas em Oleshky. Kiev acusa Moscou de ter usado a pausa para reforçar posições.",
+      "id": "manha-2026-11-03-mundo-03",
+      "title": "Mortos em ataque a centro de ajuda na Ucrânia chegam a 31",
+      "summary": "O número de mortos no ataque russo a um ponto de distribuição de ajuda humanitária em Zaporizhzhia subiu para 31, com mais de 45 desaparecidos. Foram decretados três dias de luto.",
       "highlights": [
-        "Rússia atingiu instalação médica no centro de Kherson",
-        "Kremlin diz que Oleshky foi 'caso isolado'",
-        "Trégua foi mediada por Melania Trump"
+        "Ataque atingiu o vilarejo de Komyshuvakha",
+        "Mais de 45 pessoas seguem desaparecidas",
+        "Zelensky liga ofensiva às eleições dos EUA"
       ],
-      "body": "Na manhã desta segunda-feira, autoridades locais confirmaram a retomada dos ataques, incluindo um bombardeio a uma instalação médica no centro de Kherson e um ataque de drone que feriu dois idosos num carro. O Estado-Maior ucraniano afirmou que as forças russas aproveitaram a pausa humanitária para fazer rodízio de unidades, ampliar equipamentos antidrone e entregar munição; o porta-voz do Kremlin, Dmitry Peskov, disse ser 'razoável supor' que o lado ucraniano também se reagrupou.\n\nO cessar-fogo, o mais longo desde a invasão em larga escala de 2022, foi acompanhado pelos ombudsmen de direitos humanos dos dois países, que visitaram Oleshky juntos e pediram que a iniciativa seja repetida. A Ucrânia disse estar disposta a observar tréguas semelhantes em nível nacional.\n\nO Kremlin, porém, descartou a ideia: 'Não há planos ou iniciativas semelhantes', reiterou Peskov. Segundo a BBC, a observância da trégua pode ter sido ligada ao envolvimento de Melania Trump, já que violá-la arriscaria a relação de Moscou com o presidente americano.",
+      "body": "O número de mortos no ataque russo a um local de distribuição de ajuda humanitária no vilarejo de Komyshuvakha, na região de Zaporizhzhia, subiu para 31 nesta terça-feira (3), com mais de 45 moradores ainda desaparecidos, segundo a Associated Press. Foram declarados três dias de luto.\n\nO presidente Volodymyr Zelensky afirmou que a nova onda de bombardeios russos coincidiu com as eleições americanas.",
       "category": "mundo",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo",
-      "published_at": "2026-11-02T12:33:19-05:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg"
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/news/world/2026/11/03/death-toll-hits-29-after-russian-strike-on-ukrainian-aid-site-with-48-still-missing/",
+      "published_at": "2026-11-03T05:56:12-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/FK4LOGAVCTMHQZDTWSPGLWL3IY.jpg?auth=40ebdd192866b79ce237ba1e5fd57ce5a881e533c744f155c16144f0ae1b13a9&width=700"
     },
     {
-      "id": "tarde-2026-11-02-mundo-04",
-      "title": "Irã diz que seu plano de paz pode ser aplicado em dois dias; 'a bola está com os EUA'",
-      "summary": "Atualização: Teerã afirmou que seu plano de sete etapas para encerrar a guerra foi condensado e pode ser executado em dois dias, com reabertura do Estreito de Ormuz e retomada das negociações nucleares. Trump disse que a guerra acabará 'muito em breve, de um jeito ou de outro'.",
+      "id": "manha-2026-11-03-mundo-04",
+      "title": "Rússia bombardeia hospital em Kharkiv e usinas; 73 feridos",
+      "summary": "Um ataque russo noturno com centenas de drones e mísseis atingiu um hospital em Kharkiv e usinas de energia em várias regiões. Ao menos 73 pessoas ficaram feridas.",
       "highlights": [
-        "Líder supremo Mojtaba Khamenei teria dado 'poderes' ao governo para acelerar",
-        "Exigências incluem fim do bloqueio naval e das sanções",
-        "Catar e Paquistão mediam conversas indiretas"
+        "289 drones, 17 mísseis balísticos e 59 de cruzeiro",
+        "Ala de cardiologia danificada",
+        "180 mil sem energia em Zhytomyr"
       ],
-      "body": "O porta-voz da chancelaria iraniana, Esmaeil Baghaei, disse que a proposta apresentada no mês passado continua a mesma, mas agora pode ser implementada em dois dias, em vez de sete. 'Se as demandas do Irã forem atendidas, é possível restaurar a segurança no Estreito de Ormuz e iniciar o processo de negociação em pouco tempo. Tudo depende de como o lado americano quer proceder', afirmou.\n\nSegundo a agência estatal IRNA, o líder supremo Mojtaba Khamenei concedeu 'poderes' ao governo para acelerar as conversas. O chanceler Abbas Araghchi disse que Teerã está pronto tanto para a diplomacia quanto para o confronto militar. As condições iranianas incluem o fim do bloqueio naval aos portos, a revogação de sanções, garantia de fim dos ataques e um cessar-fogo regional completo, sobretudo no Líbano.\n\nNada indica que Teerã tenha mudado suas exigências ou que Washington tenha aceitado a proposta. Trump disse que as negociações estão 'indo bem', mas sugeriu várias vezes que os EUA podem atacar o Irã depois das eleições de 3 de novembro.",
+      "body": "Ao menos 73 pessoas ficaram feridas depois que a Rússia bombardeou um hospital ucraniano e usinas de energia durante a noite, segundo a Al Jazeera. Em Kharkiv, o departamento de cardiologia foi danificado e mais de mil janelas foram quebradas.\n\nNo total, a Rússia lançou 289 drones, 17 mísseis balísticos e 59 mísseis de cruzeiro. Na região de Zhytomyr, 180 mil pessoas ficaram sem energia.",
       "category": "mundo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
-      "published_at": "2026-11-02T13:49:26-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae8b325-1793635110.jpg?resize=1920%2C1440"
+      "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants",
+      "published_at": "2026-11-03T05:18:18-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae9a305-1793696517.jpg?resize=1920%2C1440"
     },
     {
-      "id": "tarde-2026-11-02-mundo-05",
-      "title": "Petróleo cai ao menor nível em duas semanas com esperança de fim da guerra",
-      "summary": "O Brent caiu mais de 6,5%, chegando a US$ 105,55 o barril, o menor nível desde 16 de outubro, após sinais de que os contatos entre Irã e EUA continuam. Ações de companhias aéreas subiram e os juros de títulos públicos recuaram.",
+      "id": "manha-2026-11-03-mundo-05",
+      "title": "Tropas europeias vão ensaiar envio à Ucrânia em caso de paz",
+      "summary": "Reino Unido e França vão liderar na Polônia, neste mês, um exercício com cerca de 3 mil militares de 12 países. O objetivo é testar uma força multinacional para a Ucrânia após um eventual acordo de paz.",
       "highlights": [
-        "Catar tentou liberar mais de US$ 6 bilhões em ativos iranianos",
-        "United Airlines subiu 7% em Nova York; IAG, 4,2% em Londres",
-        "Trump havia ameaçado dar 'o martelo' ao Irã"
+        "Cerca de 3 mil militares de 12 países",
+        "Exercício ocorre na Polônia",
+        "Liderança de Reino Unido e França"
       ],
-      "body": "Os preços caíram depois que o chanceler iraniano Abbas Araghchi disse que as consultas por meio de mediadores estão 'muito intensas' e que tudo depende da 'racionalidade política de Washington'. No fim de semana, autoridades do Catar tentaram negociar a liberação de mais de US$ 6 bilhões em ativos iranianos para que Teerã permita a reabertura do Estreito de Ormuz.\n\nNo domingo, em comício no Iowa, Trump havia adotado tom belicoso, dizendo que, 'em algum momento, vamos ter que dar o martelo' ao Irã caso não haja progresso. Mas os investidores se animaram com relatos de que o líder supremo concedeu poderes ao governo para negociar. 'Ainda há o risco de Trump tentar uma última jogada depois das midterms', alertou Chris Beauchamp, da IG.\n\nA queda do petróleo reacendeu esperanças de alívio nas pressões inflacionárias globais. O rendimento do título britânico de 10 anos caiu 0,1 ponto percentual, ao menor nível desde 22 de setembro.",
+      "body": "Reino Unido e França vão liderar um exercício militar para testar a capacidade de uma força multinacional de se deslocar para a Ucrânia caso haja um acordo de paz, segundo a BBC. Cerca de 3 mil militares de 12 países participarão do ensaio na Polônia neste mês.\n\nO secretário de Defesa britânico, Wes Streeting, e o tenente-general Tom Bateman comentaram os planos da chamada coalizão de países dispostos a apoiar a Ucrânia no pós-guerra.",
+      "category": "mundo",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
+      "published_at": "2026-11-02T19:07:05-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e34/live/47a8cf70-d75a-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "manha-2026-11-03-mundo-06",
+      "title": "EUA vão excluir África do Sul e Ruanda de acordo comercial Agoa",
+      "summary": "Os EUA vão retirar África do Sul e Ruanda do programa comercial Agoa a partir de 1º de janeiro de 2027. O programa permite exportar produtos aos EUA sem tarifas.",
+      "highlights": [
+        "Exclusão vale a partir de janeiro de 2027",
+        "Anúncio feito por Jamieson Greer",
+        "África do Sul chama decisão de “lamentável”"
+      ],
+      "body": "O governo Trump vai retirar a África do Sul e Ruanda da Lei de Crescimento e Oportunidades para a África (Agoa), que permite a países africanos elegíveis exportar milhares de produtos aos EUA sem tarifas, a partir de 1º de janeiro de 2027, segundo a BBC. A medida foi comunicada pelo representante comercial Jamieson Greer.\n\nO ministro do Comércio sul-africano, Parks Tau, classificou a decisão como “lamentável”.",
+      "category": "mundo",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
+      "published_at": "2026-11-02T14:33:10-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg"
+    },
+    {
+      "id": "manha-2026-11-03-mundo-07",
+      "title": "Reino Unido e UE fecham acordo que elimina checagens do Brexit em alimentos",
+      "summary": "Reino Unido e União Europeia concluíram o acordo que remove controles do Brexit sobre alimentos e produtos de origem animal. A medida deve entrar em vigor no primeiro trimestre de 2028.",
+      "highlights": [
+        "Exportações britânicas de alimentos à UE caíram um terço",
+        "Vigência prevista para 2028",
+        "Cúpula UE-Reino Unido em 20 de novembro"
+      ],
+      "body": "A UE e o Reino Unido finalizaram o acordo sanitário e fitossanitário que elimina checagens do Brexit sobre alimentos e produtos de origem animal, segundo o Guardian.\n\nO acordo deve beneficiar exportadores britânicos, cujas vendas de alimentos à UE caíram cerca de um terço desde o Brexit. A implementação, porém, só deve ocorrer no primeiro trimestre de 2028; a próxima cúpula UE-Reino Unido está marcada para 20 de novembro.",
       "category": "mundo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
-      "published_at": "2026-11-02T12:14:23-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/5aa655482ec1b18379bdd2373abb83196044c4d5/1261_325_3461_2770/master/3461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09658148a0329748dbe3937cb2803e88"
+      "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
+      "published_at": "2026-11-03T04:19:21-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/c94c4b33407080b30f1e77beed314e6729df9f54/232_0_3167_2533/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af9dea917d8431367ca8dd8394232d80"
     },
     {
-      "id": "tarde-2026-11-02-mundo-06",
-      "title": "Sindicato IG Metall lança onda de greves na Alemanha",
-      "summary": "O maior sindicato alemão ampliou as greves numa disputa salarial que envolve cerca de 3,7 milhões de trabalhadores das indústrias metalúrgica e eletroeletrônica. Audi, Mercedes-Benz e Tata Steel foram afetadas.",
+      "id": "manha-2026-11-03-mundo-08",
+      "title": "Ciclone Murasu atinge a costa leste da Índia",
+      "summary": "O ciclone Murasu tocou terra perto de Ongole, no estado de Andhra Pradesh, por volta de 1h (hora local). É o segundo ciclone a atingir a região em uma semana.",
       "highlights": [
-        "Sindicato pede reajuste de 5% e proteção de empregos",
-        "Patrões ofereceram abono de 1% em 2027 e aumento de 1,3% em 2028",
-        "Protestos por custo de vida se espalham pela Europa"
+        "Segundo ciclone em uma semana, após o Arnab",
+        "30 mil retiradas planejadas",
+        "Nenhuma morte relatada até agora"
       ],
-      "body": "A IG Metall pede aumento de 5% diante da alta do custo de vida, além de medidas para proteger empregos e unidades produtivas e participação nos lucros em setores com bom desempenho. Os empregadores propuseram um pagamento único equivalente a 1% do salário em julho de 2027, seguido de reajuste de 1,3% a partir de julho de 2028 — oferta que o sindicato rejeitou por representar, segundo ele, corte salarial real.\n\nAs greves devem continuar durante toda a semana, e o sindicato divulgará números de adesão na sexta-feira. Na rodada anterior de negociações, em 2024, mais de 100 mil trabalhadores participaram nos dias de pico.\n\nA mobilização ocorre em meio a uma onda de protestos na Europa contra o custo de vida, os preços da moradia e políticas de educação, com episódios de forte agitação na Bélgica, França e Espanha. No sábado, milhares de pessoas foram às ruas em Berlim e em mais de 30 cidades alemãs.",
+      "body": "O ciclone Murasu tocou terra na costa leste da Índia perto de Ongole, no distrito de Prakasam, em Andhra Pradesh, por volta de 1h desta terça-feira (hora local), segundo a Al Jazeera. É o segundo ciclone a atingir a costa em uma semana, depois do Arnab.\n\nAs autoridades planejavam retirar cerca de 30 mil pessoas. Até o momento, não há relatos de mortes.",
       "category": "mundo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures",
-      "published_at": "2026-11-02T13:47:24-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae8c71e-1793640222.jpg?resize=1920%2C1440"
+      "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast",
+      "published_at": "2026-11-03T04:33:18-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae99c66a413-1793694822.jpg?resize=1920%2C1440"
     },
     {
-      "id": "tarde-2026-11-02-mundo-07",
-      "title": "Estudantes franceses voltam a bloquear escolas; greve geral marcada para quinta",
-      "summary": "Dezenas de liceus na França foram bloqueados novamente nesta segunda-feira, na volta das férias, em protesto contra as condições das escolas e o custo de vida. O ministro da Educação diz que o ano letivo de muitos alunos está 'em risco'.",
+      "id": "manha-2026-11-03-mundo-09",
+      "title": "Sérvia vive onda de prisões e renúncias após derrota de Vucic",
+      "summary": "Depois que Aleksandar Vucic foi derrotado nas urnas por uma lista estudantil, a Sérvia vê uma sucessão de prisões, renúncias e investigações. Entre os detidos estão o chefe de polícia Marko Kricak e o dono do Alta Bank.",
       "highlights": [
-        "Bloqueios começaram em setembro e ignoram apelo de Macron",
-        "Sindicatos convocam grande greve para quinta-feira",
-        "Prisão de enfermeira escolar em Montpellier gerou críticas"
+        "Lista dos Estudantes venceu em 25 de outubro",
+        "Chefe de polícia Marko Kricak foi preso",
+        "Dono do Alta Bank, Davor Macura, detido"
       ],
-      "body": "Desde cedo, em Paris e subúrbios e em cidades como Lille, Toulouse e Marselha, estudantes que pedem mais professores substitutos e reformas nos prédios barricaram entradas com latões de lixo; policiais tentaram retirá-los e fizeram prisões. Universitários planejam bloqueios nas faculdades nesta terça, e sindicatos convocaram uma grande greve na quinta-feira, com ferroviários, professores e trabalhadores do setor privado.\n\nO ministro da Educação, Édouard Geffray, disse que centenas de milhares de alunos que farão o baccalauréat estão sem aulas há quatro ou cinco semanas e que os bloqueios são 'ilegais'. Já líderes estudantis consideram insuficientes as medidas anunciadas na semana passada, como limitar o tamanho de algumas turmas.\n\nEm Montpellier, um senador socialista acusou o governo de 'provocação' após vídeo mostrar uma enfermeira escolar de 53 anos sendo derrubada, algemada e detida perto de uma barricada. O movimento é um dos maiores protestos e crises sociais da presidência de Emmanuel Macron.",
+      "body": "Detenções, renúncias e investigações abalam a Sérvia desde a derrota do presidente Aleksandar Vucic, em 25 de outubro, para a Lista dos Estudantes, movimento nascido dos protestos estudantis, segundo a Associated Press.\n\nEntre os presos está o chefe de polícia Marko Kricak. Davor Macura, dono do Alta Bank, também foi detido.",
       "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
-      "published_at": "2026-11-02T13:17:33-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/a2e2132d3e04846091f71be5fa7932ef1dcd20b9/0_0_4069_3255/master/4069.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb65f325120aae04753c577fd6963d56"
+      "source": "AP / Local 10",
+      "url": "https://www.local10.com/news/world/2026/11/03/detentions-resignations-probes-shake-serbia-after-students-toppled-strongman-vucic-in-election/",
+      "published_at": "2026-11-03T05:34:06-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/CA6HUU4QORMDAXPSGBKZBGPCZA.jpg?auth=3a94755f6a0f0bca7fbfeb303862003b10fe55229b23a5b047fcb5c9d8499863&width=700"
     },
     {
-      "id": "tarde-2026-11-02-mundo-08",
-      "title": "Reino Unido suaviza regras de residência para cuidadores, mas mantém endurecimento",
-      "summary": "A ministra do Interior britânica, Shabana Mahmood, recuou do plano de fazer cuidadores esperarem 15 anos pela residência permanente, após reação dentro do gabinete. Mas a maioria das novas regras continua, inclusive espera de até 30 anos para quem chegou de forma irregular.",
+      "id": "manha-2026-11-03-mundo-10",
+      "title": "Coreia do Norte nega ataque hacker de US$ 6,3 bi à Binance",
+      "summary": "A Coreia do Norte negou estar por trás do roubo de US$ 6,3 bilhões em criptomoedas da corretora Binance. Kim Yo Jong chamou as acusações de “retórica absurda”.",
       "highlights": [
-        "Cuidadores poderão pedir residência após cinco anos",
-        "Quem ganha menos de £ 50 mil esperará 10 anos",
-        "Law Society vê ameaça ao Estado de direito com regras retroativas"
+        "Maior roubo de criptomoedas já registrado",
+        "Suspeita recai sobre o grupo TraderTraitor/Lazarus",
+        "Grupo é ligado ao roubo de US$ 1,5 bi da Bybit"
       ],
-      "body": "Pressionada pelo gabinete e por sindicatos da saúde, Mahmood ofereceu uma exceção para que cuidadores possam pedir a residência por tempo indeterminado após cinco anos. Ainda assim, disse aos deputados que a residência 'deve ser conquistada' e que muitos migrantes terão de esperar o dobro do tempo previsto. Conservadores e Nigel Farage, do Reform UK, falaram em 'capitulação'.\n\nPara quem ganha menos de £ 50 mil por ano, a espera dobrará para 10 anos — o que deputados trabalhistas criticaram por atingir profissionais como cientistas e chefs. Refugiados também terão de esperar 10 anos, com penalidade adicional de 10 anos para quem não entrou legalmente, como pelos pequenos barcos.\n\nA Law Society afirmou que a mudança retroativa compromete a segurança jurídica de famílias e empregadores. A ex-ministra-sombra Diane Abbott alertou para o risco de um novo escândalo Windrush. As novas políticas não exigem votação no Parlamento.",
+      "body": "A Coreia do Norte negou ter orquestrado o ataque hacker de US$ 6,3 bilhões contra a corretora de criptomoedas Binance. Kim Yo Jong, irmã do líder Kim Jong Un, classificou as acusações como “retórica absurda”, segundo a BBC.\n\nInvestigadores atribuem o ataque ao grupo TraderTraitor, ligado ao Lazarus, apontado como responsável pelo roubo de US$ 1,5 bilhão da corretora Bybit em 2025.",
       "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
-      "published_at": "2026-11-02T14:06:40-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/bbc951985bd4272646be615bc6af45a47f60b818/286_0_2623_2098/master/2623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=439d4a1320abb5b57a9a7e15851d96fc"
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+      "published_at": "2026-11-02T19:56:43-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"
     },
     {
-      "id": "tarde-2026-11-02-mundo-09",
-      "title": "Drones atingem subestações no Sudão; 18 ataques à rede elétrica em uma semana",
-      "summary": "Ataques de drones atingiram três subestações de energia no leste e no norte do Sudão nesta segunda-feira, causando apagões generalizados. O governo militar acusa a Etiópia de ajudar o grupo paramilitar RSF.",
+      "id": "manha-2026-11-03-weston-01",
+      "title": "Weston elege hoje dois membros da Comissão Municipal",
+      "summary": "Os eleitores de Weston escolhem nesta terça-feira (3) os ocupantes dos assentos 3 e 4 da Comissão Municipal, na mesma cédula da eleição geral. As urnas ficam abertas das 7h às 19h.",
       "highlights": [
-        "Alvos em New Halfa e Aroma (Kassala) e no Estado do Norte",
-        "Sudão apresentou queixas contra a Etiópia na ONU e na União Africana",
-        "Exército relata novas deserções da RSF no Nilo Azul"
+        "Assento 3: Patricia C. Bernardini x German Melo",
+        "Assento 4: Jaime A. Herrero x Alfredo Ortega",
+        "Eleitos tomam posse em 16 de novembro"
       ],
-      "body": "As instalações de New Halfa e Aroma, no estado de Kassala, foram atingidas na madrugada, assim como a subestação de al-Ghazali, no Estado do Norte, segundo a mídia local. Vídeos nas redes sociais pareciam mostrar incêndios, com equipes da defesa civil tentando apagá-los; a Al Jazeera não conseguiu verificá-los de imediato. Com isso, chegam a 18 os ataques à rede elétrica do país na última semana.\n\nNo domingo, o governo sudanês apresentou queixas contra a Etiópia ao Conselho de Segurança da ONU e ao Conselho de Paz e Segurança da União Africana, acusando Adis Abeba de envolvimento na campanha contra infraestrutura civil. O Exército luta contra as Forças de Apoio Rápido (RSF) desde abril de 2023.\n\nO Exército também informou que um grupo de membros da RSF se rendeu em Damazin, capital do estado do Nilo Azul, após a deserção do comandante Siddiq Ander. Segundo os militares, ele forneceu informações sobre as operações na região, incluindo o 'apoio etíope' ao grupo paramilitar.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system",
-      "published_at": "2026-11-02T12:26:32-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae8a42f48f8-1793631279.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "tarde-2026-11-02-mundo-10",
-      "title": "China intensifica diplomacia no Oriente Médio com reuniões com Irã e Omã",
-      "summary": "O chanceler chinês Wang Yi recebeu um alto funcionário iraniano em Pequim, enquanto Xi Jinping fez a primeira visita de Estado de um sultão de Omã à China desde 1978. Pequim defende o diálogo como 'único caminho viável' para o conflito.",
-      "highlights": [
-        "Enviado especial chinês visitará Irã, Omã e Arábia Saudita",
-        "China e Omã assinaram 14 acordos, incluindo IA e energia verde",
-        "Declaração conjunta pede reabertura segura de Ormuz"
-      ],
-      "body": "Wang Yi disse a Ali Bagheri Kani, vice-secretário do Conselho Supremo de Segurança Nacional do Irã, que diálogo e negociação são 'o único caminho viável', já que os conflitos na região 'se arrastam e ameaçam se espalhar'. A China é o maior parceiro comercial do Irã e o maior comprador de seu petróleo, e culpa os EUA e Israel pelo início da guerra. Segundo a correspondente Katrina Yu, Pequim está frustrada com a falta de avanços após semanas de pouca atividade diplomática.\n\nO Ministério das Relações Exteriores anunciou que o enviado especial Zhai Jun visitará Irã, Omã e Arábia Saudita neste mês. Xi recebeu o sultão Haitham bin Tariq e afirmou que o Golfo 'não deve se tornar arena de rivalidade entre grandes potências'.\n\nChina e Omã assinaram 14 documentos de cooperação, em áreas como inteligência artificial, energia verde e cadeias de suprimentos, além de um acordo de swap cambial. Omã, que fica em frente ao Irã no Estreito de Ormuz e tem vários portos fora do estreito, é peça-chave para as importações de energia chinesas.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings",
-      "published_at": "2026-11-02T11:03:52-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T054014Z_875293397_RC2FFOA843QO_RTRMADP_3_CHINA-OMAN-1793602839.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "meio-dia-2026-11-02-weston-01",
-      "title": "Jaffe e Molina-Macfie deixam a Comissão de Weston em 16 de novembro",
-      "summary": "Os comissários Byron L. Jaffe e Mary Molina-Macfie, que ocupam as Cadeiras 3 e 4 da Comissão Municipal de Weston, deixam o cargo neste mês. Os sucessores serão escolhidos na eleição desta terça-feira e tomam posse em 16 de novembro.",
-      "highlights": [
-        "Cadeira 3: Patricia C. Bernardini x German Melo",
-        "Cadeira 4: Jaime A. Herrero x Alfredo Ortega",
-        "Urnas abertas de 7h às 19h na terça, 3 de novembro"
-      ],
-      "body": "Dois dos cinco membros da Comissão Municipal de Weston vão deixar o cargo. Nenhum dos dois é candidato, e a cidade homenageou ambos em sua página de notícias, informando que 12 de outubro foi a última reunião da comissão de que participaram. Eles continuam no cargo até a posse dos eleitos, na segunda-feira, 16 de novembro. As disputas são apartidárias, e todos os eleitores de Weston podem votar nas duas cadeiras; o voto é apenas no local de votação designado.\n\nJaffe mora em Weston desde 1990 e participou do movimento de moradores que levou à emancipação da cidade em 1996. Venceu uma eleição especial para a Cadeira 3 em março de 2017 e foi eleito para mandatos completos em 2018 e 2022. Fora da cidade, atuou na Broward Metropolitan Planning Organization e foi piloto comercial de 1985 até se aposentar, em 2025, como comandante baseado no Aeroporto Internacional de Miami.\n\nMolina-Macfie mora em Weston desde 1991 e começou sua militância cobrando do Conselho Escolar de Broward ações contra mofo e má qualidade do ar nas escolas. Eleita em 2018, fundou o Veterans of Weston, organizou as primeiras distribuições municipais de alimentos e criou o 'Commissioner's Corner', com atendimentos individuais a moradores. Os resultados extraoficiais serão publicados em browardvotes.gov após o fechamento das urnas.",
+      "body": "A eleição municipal de Weston acontece hoje, junto com a eleição geral. Estão em disputa os assentos 3 e 4 da Comissão Municipal, deixados por Byron Jaffe e Mary Molina-Macfie. As disputas são apartidárias, e todos os eleitores da cidade votam nos dois assentos, segundo o guia do Weston Journal.\n\nConcorrem ao assento 3 Patricia C. Bernardini e German Melo; ao assento 4, Jaime A. Herrero e Alfredo Ortega. Os vencedores tomam posse em 16 de novembro. Na mesma cédula estão emendas constitucionais da Flórida e questões do condado de Broward, como o aumento de um quarto de ponto no imposto sobre vendas e a renovação do imposto de um mill do Conselho Escolar.\n\nAs urnas ficam abertas das 7h às 19h, e no dia da eleição só é possível votar no local designado. Entre os locais em Weston estão o Weston Community Center, o Town Center Club, a Weston Branch Library, o Vacation Village Social Center, a Saint Paul Lutheran e as escolas Everglades Elementary, Eagle Point Elementary e Tequesta Trace Middle. Os resultados sairão em browardvotes.gov.",
       "category": "weston",
       "source": "Weston Journal",
-      "url": "https://westonjournal.com/weston-commissioners-jaffe-molina-macfie/",
-      "published_at": "2026-11-01T00:00:00-05:00",
-      "image_url": "https://westonjournal.com/img/weston-commissioners-jaffe-molina-macfie.webp"
+      "url": "https://westonjournal.com/voting/",
+      "published_at": "2026-11-01T00:00:00-04:00",
+      "image_url": "https://westonjournal.com/img/voting.webp"
     },
     {
-      "id": "meio-dia-2026-11-02-weston-02",
-      "title": "'Black Furrday': Humane Society de Broward terá adoções grátis e com desconto",
-      "summary": "A Humane Society of Broward County promove o 'Black Furrday' na sexta-feira, 27 de novembro, com taxas de adoção isentas ou pela metade para cães e gatos a partir de 7 meses. O abrigo vai abrir mais cedo para o evento.",
+      "id": "manha-2026-11-03-weston-02",
+      "title": "Weston sobe alíquota do imposto municipal após 8 anos, citando a Emenda 3",
+      "summary": "A Comissão de Weston adotou alíquota de 3,5046 mills para o ano fiscal de 2027, acima dos 3,3464 mantidos por oito anos. A cidade atribui o aumento ao possível impacto da Emenda 3, votada hoje.",
       "highlights": [
-        "Das 8h às 11h: taxa de adoção isenta para pets de 7 meses ou mais",
-        "Das 11h às 17h: taxa pela metade",
-        "Há taxa administrativa de US$ 25 nas adoções isentas"
+        "Nova alíquota: 3,5046 mills",
+        "Contas de imposto enviadas em 1º de novembro",
+        "Emenda 3 precisa de 60% dos votos"
       ],
-      "body": "Normalmente, a adoção custa US$ 200 para cães e US$ 80 para gatos com 7 meses ou mais. No Black Furrday, quem chegar entre 8h e 11h não paga a taxa, e das 11h às 17h o valor cai pela metade. Ao longo do dia, alguns animais selecionados, chamados de 'Cuddle Busters', também terão taxa isenta.\n\nToda adoção inclui castração, vacinas adequadas à idade, microchip, teste de dirofilariose para cães com mais de 7 meses e de leucemia felina para gatos, um saco de ração Purina ONE (enquanto durar o estoque) e um plano de saúde limitado de 14 dias da VCA Animal Hospitals.\n\nOs interessados devem preencher uma solicitação de pré-adoção antes da visita; os formulários e fotos dos animais estão em humanebroward.com. A Humane Society of Broward County é uma organização privada sem fins lucrativos, mantida por doações.",
-      "category": "weston",
-      "source": "Weston Together",
-      "url": "https://westontogether.com/2026/11/02/black-furrday-is-back-at-the-humane-society-of-broward-county/",
-      "published_at": "2026-11-02T08:49:02-05:00",
-      "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/11/weston-together-2026-11-art14-01.jpg"
-    },
-    {
-      "id": "manha-2026-11-02-weston-01",
-      "title": "Weston vai discutir rezoneamento de terreno de 16 acres em Cascade Terrace",
-      "summary": "A Comissão Municipal de Weston publicou aviso de audiência pública sobre uma lei que muda o zoneamento de um terreno de 16 acres em Cascade Terrace, de agrícola para residencial unifamiliar. A reunião e a primeira leitura serão em 16 de novembro, na prefeitura.",
-      "highlights": [
-        "Mudança de “Agricultural Estate (AE)” para “Single Family Residential Moderate (R2)”",
-        "Área fica ao sul da Manatee Isles Drive e a oeste da SW 196th Avenue",
-        "Reunião em 16/11, às 19h, na prefeitura (17200 Royal Palm Blvd.)"
-      ],
-      "body": "A Comissão Municipal de Weston publicou um aviso de audiência pública sobre uma proposta de lei que muda o zoneamento de um terreno de 16 acres brutos (cerca de 6,5 hectares), formado por uma única parcela em Cascade Terrace. A área fica, de modo geral, ao sul da Manatee Isles Drive e a oeste da SW 196th Avenue, e passaria do distrito Agricultural Estate (AE) para Single Family Residential Moderate (R2), de residências unifamiliares.\n\nA comissão, na função de Agência de Planejamento Local, fará uma reunião pública na segunda-feira, 16 de novembro de 2026, às 19h, na prefeitura de Weston (17200 Royal Palm Boulevard), para analisar a proposta e fazer recomendações. Logo em seguida, no mesmo local, haverá a audiência pública e a primeira leitura da lei.\n\nSegundo o aviso, a comissão pode adiar a audiência para nova data anunciada durante a sessão, e o texto completo da lei pode ser consultado no gabinete da secretaria municipal em horário comercial.",
-      "category": "weston",
-      "source": "NoticeRegistry / Cidade de Weston",
-      "url": "https://www.noticeregistry.com/florida/notice/public-hearing-weston-11727049",
-      "published_at": "2026-11-02T00:00:00-05:00",
-      "image_url": "https://www.noticeregistry.com/og.jpg"
-    },
-    {
-      "id": "meio-dia-2026-11-01-weston-01",
-      "title": "WestonNights traz show gratuito da banda FLAVOR em 14 de novembro",
-      "summary": "A série de concertos ao ar livre WestonNights volta no sábado, 14 de novembro, com show gratuito da banda FLAVOR no Weston Regional Park. O evento, para toda a família, vai das 19h às 21h30 e terá food trucks no local.",
-      "highlights": [
-        "Entrada gratuita no palco do Weston Regional Park (20200 Saddle Club Road)",
-        "Repertório mistura pop, R&B, funk, rock e ritmos latinos",
-        "Cães não são permitidos no parque"
-      ],
-      "body": "A série WestonNights Outdoor Concert, da prefeitura de Weston, retorna no sábado, 14 de novembro, com uma noite de música ao vivo no palco de eventos do Weston Regional Park, na 20200 Saddle Club Road. A atração é a banda FLAVOR, conhecida por shows enérgicos e um repertório que vai dos sucessos atuais aos clássicos, misturando pop, R&B, funk, rock e ritmos latinos.\n\nO concerto, gratuito e voltado para toda a família, acontece das 19h às 21h30. Os moradores são incentivados a levar cadeiras de praia ou cangas e chegar cedo para garantir lugar. Haverá food trucks com comida à venda, e as famílias também podem levar seu próprio piquenique.\n\nNeste ano, a série já recebeu as bandas MANTRAP e Coyote Wild. A prefeitura lembra que cães não são permitidos no Regional Park. Mais informações no site WestonFL.org ou no Weston Community Center.",
-      "category": "weston",
-      "source": "Our City Media",
-      "url": "https://ourcitymedia.com/westonnights-brings-music-under-the-stars-back-to-weston",
-      "published_at": "2026-10-29T21:38:41-05:00",
-      "image_url": "https://ourcitymedia.com/wp-content/uploads/2026/10/westonnights-flavor.jpg"
-    },
-    {
-      "id": "meio-dia-2026-11-01-weston-02",
-      "title": "Café da manhã em homenagem a veteranos em Weston já está lotado",
-      "summary": "O 12º Veterans Day Salute, café da manhã gratuito para veteranos promovido pela YMCA com a prefeitura de Weston, acontece na sexta, 6 de novembro, no Bonaventure Town Center Club. As inscrições para 2026 já estão esgotadas.",
-      "highlights": [
-        "Evento das 8h30 às 11h, exclusivo e gratuito para veteranos",
-        "Palestra do capitão Charlie Plumb, ex-piloto da Marinha e prisioneiro no Vietnã",
-        "Cerca de 500 veteranos e convidados costumam participar"
-      ],
-      "body": "O 12º Veterans Day Salute será realizado das 8h30 às 11h de sexta-feira, 6 de novembro, no Bonaventure Town Center Club, na 16690 Saddle Club Road, em Weston. O café da manhã é oferecido pela YMCA do Sul da Flórida e pelo Weston YMCA Family Center, em parceria com a prefeitura, e é gratuito e exclusivo para veteranos. Segundo a YMCA, o evento já atingiu a capacidade máxima e as inscrições foram encerradas.\n\nO palestrante deste ano é o capitão Charlie Plumb, ex-piloto da Marinha que pilotou o F-4 Phantom, ajudou a criar a escola de armas de caça conhecida como Top Gun e passou 2.103 dias como prisioneiro de guerra no Vietnã. Entre suas condecorações estão a Silver Star, a Bronze Star e dois Purple Hearts.\n\nO evento reúne cerca de 500 veteranos, líderes comunitários e parceiros. Cada veterano recebe um presente com uma moeda comemorativa e uma camiseta, e a renda ajuda famílias de veteranos a usar os programas da YMCA. Quem quiser participar em 2027 deve acompanhar a página do evento na YMCA.",
+      "body": "A alíquota do imposto predial municipal de Weston vai subir após oito anos no mesmo patamar. A Comissão Municipal adotou 3,5046 mills para o ano fiscal de 2027, contra 3,3464 mills, segundo o Weston Journal. As contas de imposto foram enviadas em 1º de novembro.\n\nA justificativa da cidade é a Emenda 3, que está na cédula desta terça-feira e ampliaria a isenção de imóveis residenciais (homestead) — para US$ 150 mil em 2027 e US$ 250 mil em 2028, segundo análise publicada pela Our City Media. Se aprovada, a emenda reduziria a arrecadação municipal.\n\nPela análise do avaliador de imóveis de Broward citada pela Our City Media, a economia para proprietários em Weston ficaria em torno de US$ 1.000 por ano no início, chegando a cerca de US$ 2.000 depois. A emenda precisa de pelo menos 60% dos votos.",
       "category": "weston",
       "source": "Weston Journal",
-      "url": "https://westonjournal.com/veterans-day-salute/",
-      "published_at": "2026-10-10T11:00:00-05:00",
-      "image_url": "https://westonjournal.com/img/veterans-day-salute.webp"
+      "url": "https://westonjournal.com/weston-city-tax-rate-amendment-3/",
+      "published_at": "2026-10-15T00:00:00-04:00",
+      "image_url": "https://westonjournal.com/img/weston-city-tax-rate-amendment-3.webp"
     },
     {
-      "id": "manha-2026-10-30-weston-01",
-      "title": "Winter Wonderland volta ao Flamingo Gardens, em Davie, de 21 de novembro a 30 de dezembro",
-      "summary": "O Hoffman's Chocolates Winter Wonderland retorna ao Flamingo Gardens, jardim botânico e santuário de vida selvagem em Davie, vizinho a Weston. Dez acres ficarão iluminados com milhares de luzes de Natal, e os ingressos já estão à venda.",
+      "id": "manha-2026-11-03-weston-03",
+      "title": "Broward vota imposto para escolas e alta do imposto sobre vendas",
+      "summary": "Os eleitores de Broward, incluindo Weston, decidem hoje se renovam um imposto predial de um mill para as escolas públicas e se elevam o imposto sobre vendas de 7% para 7,25%. A verba extra manteria exames de saúde preventivos gratuitos.",
       "highlights": [
-        "Árvore de Natal de 35 pés (cerca de 10,7 m) e música ao vivo todas as noites",
-        "Ingressos: US$ 24 (12+ anos) e US$ 17 (3 a 11 anos)",
-        "Funciona das 17h30 às 21h30, exceto 26/11, 24/12 e 25/12"
+        "Renovação, não criação, do imposto escolar",
+        "Imposto sobre vendas subiria por 5 anos",
+        "Auditoria questiona exames em quem não tem sintomas"
       ],
-      "body": "Dez acres do Flamingo Gardens vão brilhar com milhares de luzes nesta temporada com a volta do Hoffman's Chocolates Winter Wonderland ao jardim botânico e santuário de vida selvagem de Davie, de 21 de novembro a 30 de dezembro. Patrocinado pela Amazon, o evento noturno tem árvore de Natal de 35 pés, palco com música natalina ao vivo, o trenzinho Rudolph's Holiday Singalong Express, um lote de árvores com temas do sul da Flórida e visitas ao Papai Noel e à Mamãe Noel.\n\nO palco Sounds of the Season terá shows todas as noites, das 17h45 às 21h30, incluindo a Florida Symphony Orchestra na abertura, em 21 de novembro, e o flautista Nestor Torres, vencedor do Grammy Latino, em 11 de dezembro. Haverá ainda s'mores, sorvetes e uma loja pop-up da Hoffman's Chocolates.\n\nO evento funciona das 17h30 às 21h30, com última entrada às 20h30, exceto no Dia de Ação de Graças (26/11), na véspera de Natal e no Natal. Os ingressos custam US$ 24 para adultos e crianças a partir de 12 anos e US$ 17 de 3 a 11 anos; menores de 2 anos não pagam, sócios têm 25% de desconto e o estacionamento é gratuito. O Flamingo Gardens fica na 3750 S. Flamingo Road, em Davie, e a renda apoia seus programas de educação e conservação.",
+      "body": "Além das disputas para governador, Senado e Congresso, os eleitores de Broward decidem nesta terça-feira questões do condado. Uma delas pergunta se o condado deve renovar um imposto predial de um mill que financia as Escolas Públicas de Broward; não é um novo tributo, mas a continuação de um já existente.\n\nOutra proposta eleva o imposto sobre vendas de Broward de 7% para 7,25% por cinco anos, para manter um programa que oferece exames preventivos gratuitos, como testes de doenças cardíacas, a moradores elegíveis. O prefeito do condado, Mark Bogen, apoia a medida; uma auditoria do condado, porém, apontou que exames em pacientes sem sintomas não são consenso na medicina.\n\nOs eleitores de Broward também votam a Emenda 3, a disputa para o Distrito 6 do Conselho Escolar (Adam Cervera x Roberto Fernandez III) e a manutenção de juízes. As urnas fecham às 19h.",
       "category": "weston",
-      "source": "Weston Together",
-      "url": "https://westontogether.com/2026/10/29/hoffmans-chocolates-winter-wonderland-returns-to-flamingo-gardens/",
-      "published_at": "2026-10-29T15:31:28-04:00",
-      "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/10/weston-together-2026-11-winter-wonderland-flamingo-gardens-01.jpg"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/03/vote-2026-nov-3-general-election-results-in-broward-county/",
+      "published_at": "2026-11-03T06:11:31-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/JGVCITZ745AZFOHFLPT3XNIELU.png?auth=aa25807f2b410e591a1eeea9673e8ca37c9e0b3fb388512ff922f4c85c2f991f&width=700"
     },
     {
-      "id": "tarde-2026-10-28-weston-01",
-      "title": "Morador de Weston é preso por filmar menina de 11 anos pela janela do banheiro",
-      "summary": "Joel Luis Rivera, de 27 anos, foi preso sob acusação de voyeurismo digital após uma menina ver um celular apontado para a janela do seu banheiro. Câmeras de segurança ajudaram a identificá-lo.",
+      "id": "manha-2026-11-03-miami-01",
+      "title": "Flórida escolhe governador: Byron Donalds contra David Jolly",
+      "summary": "Os eleitores da Flórida escolhem hoje o sucessor de Ron DeSantis. O republicano Byron Donalds enfrenta o ex-republicano e hoje democrata David Jolly em uma disputa centrada no custo de vida.",
       "highlights": [
-        "Suspeito de 27 anos morava no mesmo bairro",
-        "Imagens mostram aproximações também em 21 e 24 de outubro",
-        "Acusado de voyeurismo digital e invasão"
+        "Democratas não governam a Flórida há mais de 30 anos",
+        "Moradia e seguro residencial dominaram a campanha",
+        "Donalds fez campanha em Little Havana"
       ],
-      "body": "Um homem de 27 anos foi preso em Weston sob acusação de usar o celular para filmar secretamente uma menina de 11 anos pela janela do banheiro enquanto ela se preparava para o banho, segundo depoimento juramentado do Gabinete do Xerife de Broward (BSO). Os policiais foram chamados no domingo, por volta das 21h30, depois que a vítima viu um celular apontado para dentro pela janela do chuveiro e gritou, alertando a família.\n\nImagens de câmeras mostraram um homem vestido de preto caminhando em direção à casa com um celular e, minutos depois, fugindo. Os investigadores identificaram Joel Luis Rivera, morador do mesmo bairro, a partir das gravações e de uma picape vista nelas. Segundo o BSO, ele admitiu ser o homem de bicicleta nas imagens, disse que entrou no quintal para “ir até o lago” e que fugiu ao ouvir o grito porque “se assustou”.\n\nGravações de 21 e 24 de outubro mostraram um homem com a descrição de Rivera se aproximando repetidamente da mesma casa com um celular. Ele foi preso na segunda-feira e acusado de voyeurismo digital e invasão.",
-      "category": "weston",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/broward/weston-man-arrested-digital-voyeurism/",
-      "published_at": "2026-10-28T12:07:26-04:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/Joel-Luis-Rivera.png"
-    },
-    {
-      "id": "manha-2026-10-28-weston-01",
-      "title": "Oito escolas de Weston recebem título de “Escola de Excelência” da Flórida",
-      "summary": "O Conselho Estadual de Educação da Flórida nomeou oito escolas públicas de Weston como Escolas de Excelência do ano letivo 2025/26. Em todo o condado de Broward, 50 escolas entraram na lista.",
-      "highlights": [
-        "Exige ficar acima do percentil 80 do estado",
-        "Título dá mais autonomia e acesso a verbas",
-        "Cooper City também teve escolas premiadas"
-      ],
-      "body": "Oito escolas públicas de Weston receberam o título de Escola de Excelência da Flórida para 2025/26, anunciado pelas Escolas Públicas do Condado de Broward em 22 de outubro. Ao todo, 50 escolas do condado foram reconhecidas, incluindo a Cooper City Elementary e a Cooper City High, na cidade vizinha.\n\nPara obter o título, a escola precisa estar no percentil 80 ou acima entre as de seu nível em pelo menos dois dos últimos três anos, com base nas notas escolares do estado. As premiadas ganham mais liberdade administrativa e pedagógica e podem buscar financiamento extra.\n\nA Prefeitura de Weston parabenizou as escolas em seu boletim de 27 de outubro: “Esse reconhecimento é um testemunho do trabalho e da dedicação de nossos alunos, professores, funcionários e gestores.”",
-      "category": "weston",
-      "source": "Weston Together",
-      "url": "https://westontogether.com/2026/10/27/weston-schools-of-excellence-2026/",
-      "published_at": "2026-10-27T11:44:47-04:00",
-      "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/09/weston-together-2026-10-art15-03.jpg"
-    },
-    {
-      "id": "meio-dia-2026-10-28-weston-03",
-      "title": "Saída da I-75 para a Royal Palm Boulevard fecha na noite de 5 de novembro",
-      "summary": "A saída da I-75 sul para a Royal Palm Boulevard oeste, um dos principais acessos a Weston, ficará fechada das 20h de 5/11 às 5h de 6/11. O desvio será pela Griffin Road e Weston Road.",
-      "highlights": [
-        "Fechamento: 20h de 5/11 até 5h de 6/11",
-        "Datas reserva: 9 a 12 de novembro",
-        "Obra da FDOT deve terminar na primavera de 2028"
-      ],
-      "body": "A saída da Interstate 75 sentido sul para a Royal Palm Boulevard sentido oeste — um dos principais acessos a Weston — ficará fechada na noite de quinta-feira, 5 de novembro, das 20h às 5h de sexta-feira, 6. O fechamento estava previsto para 22 de outubro e foi remarcado pela prefeitura. Se necessário, as datas reserva vão de 9 a 12 de novembro.\n\nOs motoristas serão desviados pela Griffin Road (sentido oeste), Weston Road (sentido norte) e Royal Palm Boulevard (sentido oeste). Segundo o Weston Journal, quem estiver indo para Weston tarde da noite deve sair na Griffin Road e reservar alguns minutos a mais.\n\nA interdição é para instalar um braço de semáforo e faz parte da obra do Departamento de Transportes da Flórida (FDOT) no trevo da Royal Palm Boulevard, que inclui nova faixa na I-75 e alargamento de rampas e de uma ponte. A previsão de conclusão é a primavera de 2028.",
-      "category": "weston",
-      "source": "Weston Journal",
-      "url": "https://westonjournal.com/i-75-royal-palm-ramp-closure-nov-5/",
-      "published_at": "2026-10-21T20:00:00-04:00",
-      "image_url": "https://westonjournal.com/img/i-75-royal-palm-ramp-closure-nov-5.webp"
-    },
-    {
-      "id": "tarde-2026-11-02-miami-01",
-      "title": "NTSB: jato que caiu em Greenacres já se partia antes do impacto",
-      "summary": "Atualização: partes do jato executivo que caiu no domingo em Greenacres, matando as nove pessoas a bordo, parecem ter se soltado antes da queda, segundo o NTSB. A mãe de uma das pilotas, de 20 anos, identificou a filha entre as vítimas.",
-      "highlights": [
-        "Destroços podem ser encontrados longe do local do impacto",
-        "Cerca de 77 casas móveis foram evacuadas, sem previsão de retorno",
-        "Avião partiu de Austin, no Texas, com destino às Bahamas"
-      ],
-      "body": "'Temos alguns indícios de que a aeronave estava se desintegrando antes do impacto', disse nesta segunda-feira Tom Chapman, membro do Conselho Nacional de Segurança nos Transportes (NTSB), acrescentando que partes do avião podem ser achadas a certa distância do local da queda. Vídeos gravados por pessoas que passavam mostraram o jato despencando e explodindo em Greenacres, cerca de 11 km a sudoeste de West Palm Beach.\n\nO comissário do condado de Palm Beach Joel G. Flores disse que o condado 'não tem ideia' de quando os moradores do entorno poderão voltar para casa. Havia cerca de 77 casas móveis na área, e os moradores foram levados para um abrigo. As autoridades não divulgaram os nomes dos mortos, e o gabinete do xerife disse que a investigação está em estágio inicial.\n\nCamila Corteleti contou ao New York Post e ao New York Times que sua filha, Nathalia Gadelha Filgueiras, de 20 anos, era a copiloto do Learjet. Ela tirou o brevê em 2023, aos 17 anos, quando cursava a academia de aviação da West Boca Raton Community High School, paga pelo distrito escolar. Sua licença permitia voar aquele modelo, mas não comandar o voo.",
+      "body": "A Flórida escolhe nesta terça-feira seu próximo governador. O deputado federal republicano Byron Donalds e o ex-congressista republicano que se tornou democrata David Jolly disputam a sucessão de Ron DeSantis.\n\nA campanha girou em torno de temas do dia a dia, como preço da moradia, seguro residencial, educação e economia. Donalds defendeu crescimento econômico, segurança pública e oposição ao socialismo, inclusive em visita ao Museu da Baía dos Porcos, em Little Havana. Jolly focou em custo de vida, seguro, saúde e educação pública.\n\nA eleição vai definir se os republicanos mantêm o domínio de décadas sobre o governo estadual ou se os democratas voltam ao cargo pela primeira vez em mais de 30 anos.",
       "category": "miami",
-      "source": "WSVN 7News / AP",
-      "url": "https://wsvn.com/news/local/florida/bahamas-bound-jet-crash-florida/",
-      "published_at": "2026-11-02T14:16:58-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11226-Evidence-indicates-parts-of-jet-broke-off-before-Florida-crash-that-killed-9-investigators-say.jpg?quality=60&strip=color"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/03/florida-governors-race-byron-donalds-david-jolly-face-off-in-midterm-election/",
+      "published_at": "2026-11-03T06:21:04-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/CSRBSU3YG5GG7OXAV2U5W4KNOM.jpg?auth=e89d5e876694cfdd99fbe00c1873f801c1cc4602031791b2478f1adb47eeeca9&width=700"
     },
     {
-      "id": "tarde-2026-11-02-miami-02",
-      "title": "Centenas seguem fora de casa após queda de jato em Greenacres",
-      "summary": "Cerca de 600 pessoas foram deslocadas porque a área do acidente bloqueou a entrada de bairros vizinhos, e não há previsão de quando poderão voltar. Uma missa de Dia de Finados em Royal Palm Beach homenageou as nove vítimas.",
+      "id": "manha-2026-11-03-miami-02",
+      "title": "Senado: Ashley Moody tenta manter cadeira contra Angie Nixon",
+      "summary": "A senadora republicana Ashley Moody, nomeada em 2025 para a vaga de Marco Rubio, enfrenta as urnas pela primeira vez. A adversária é a deputada estadual democrata Angie Nixon.",
       "highlights": [
-        "Cerca de 35 pessoas passaram a noite em abrigo montado perto do local",
-        "Moradores não puderam retirar os carros para ir trabalhar",
-        "Bispo: 'Podemos não saber seus nomes, mas Deus os conhece'"
+        "Moody foi procuradora-geral da Flórida",
+        "Nixon critica política de deportações",
+        "Neil Gillespie concorre sem partido"
       ],
-      "body": "Uma missa de 'Día de los Muertos' em Royal Palm Beach, celebrada nesta segunda-feira pelo bispo Manuel de Jesús Rodríguez, homenageou as nove pessoas mortas na queda do jato particular que seguia para as Bahamas. 'Rezamos também pelas famílias que acordaram com planos e foram dormir com luto', disse ele.\n\nPerto do local, as autoridades montaram um abrigo onde cerca de 35 pessoas passaram a noite. Joseph Santana, que mora numa comunidade de casas móveis ao lado do local da queda, contou em espanhol que ouviu um estrondo que sacudiu a casa inteira e que a cena parecia de filme de terror; ele correu para ajudar, mas não havia ninguém a salvar.\n\nMuitos moradores pegaram documentos e roupas em poucos minutos, mas não puderam mover os carros para trabalhar na segunda de manhã. Eles disseram estar desconfortáveis, mas gratos por estarem vivos. Como há uma investigação federal em andamento, não se sabe quando poderão voltar para casa.",
+      "body": "A senadora Ashley Moody, republicana, foi nomeada em 2025 para ocupar a cadeira de Marco Rubio, que virou secretário de Estado. Agora pede aos eleitores que a mantenham em Washington, com o slogan “a lutadora America First da Flórida” e políticas alinhadas às de Trump.\n\nA adversária, a deputada estadual Angie Nixon, de 42 anos, de Jacksonville, fez campanha sobre custo de vida e críticas às políticas de imigração de Trump, e diz ter se reunido com comunidades preocupadas com deportações e com o futuro do TPS.\n\nTambém está na cédula o candidato sem partido Neil Gillespie. Os resultados começam a sair depois das 19h.",
       "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/florida/private-jet-crash-greenacres-fatalities/",
-      "published_at": "2026-11-02T13:11:46-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11226-Hundreds-remain-indefinitely-displaced-after-deadly-plane-crash-near-mobile-home-community-in-Greenacres.png"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/03/republican-moody-seeks-to-keep-senate-seat-faces-challenge-from-democrat-nixon/",
+      "published_at": "2026-11-03T06:23:38-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/GX64OKTPGJE2TA6XY4SRUGABCI.jpg?auth=138b83e3d42a4f16de3294225bc5aeb2d301d0e9e91d6646add988a57f3aef7d&width=700"
     },
     {
-      "id": "tarde-2026-11-02-miami-03",
-      "title": "Eleição é amanhã: Miami-Dade mudou 13 locais de votação",
-      "summary": "As urnas abrem das 7h às 19h nesta terça-feira, e, ao contrário do voto antecipado, cada eleitor deve ir à sua seção. Em Miami-Dade, 13 locais de votação mudaram temporariamente, afetando 19 seções.",
+      "id": "manha-2026-11-03-miami-03",
+      "title": "Emenda 3, que muda o imposto predial, divide autoridades da Flórida",
+      "summary": "A Emenda 3 amplia a isenção de imóveis residenciais sobre impostos não escolares e precisa de 60% dos votos. Apoiadores falam em alívio às famílias; críticos alertam para perdas bilionárias aos governos locais.",
       "highlights": [
-        "Centenas de milhares de eleitores do sul da Flórida já votaram",
-        "Jolly (D) e Donalds (R) disputam o governo da Flórida",
-        "Moody (R) tenta manter a cadeira no Senado contra Angie Nixon (D)"
+        "Exige supermaioria de 60%",
+        "Avaliador e xerife de Miami-Dade apoiam",
+        "Prefeita Levine Cava e xerife Grady Judd se opõem"
       ],
-      "body": "Faltando menos de 24 horas para o dia da eleição, os eleitores devem conferir seu local de votação no site do Supervisor de Eleições do condado antes de sair de casa. Em Miami-Dade, 13 locais de votação foram transferidos temporariamente, o que afeta 19 seções eleitorais.\n\nOs dois candidatos a governador fazem campanha pelo estado nas últimas horas: o democrata David Jolly era esperado no condado de Broward na noite desta segunda, e o republicano Byron Donalds, no condado de Lee. 'Há uma crise econômica agora', disse Jolly, citando custos de moradia e saúde. Donalds afirmou que é preciso 'baixar os custos de seguro' e tornar a moradia mais acessível.\n\nA outra disputa de destaque é para o Senado dos EUA. A senadora Ashley Moody, nomeada para a vaga depois que Marco Rubio virou secretário de Estado, tenta mantê-la, enquanto a democrata Angie Nixon tenta virar o assento. Nixon também era esperada em Broward na noite de segunda.",
+      "body": "A Emenda 3, que está na cédula desta terça-feira, elevaria a isenção do imposto predial sobre imóveis residenciais (homestead) para impostos não escolares. Como toda emenda constitucional na Flórida, precisa de pelo menos 60% dos votos.\n\nA proposta dividiu as autoridades. Entre os apoiadores estão o avaliador de imóveis de Miami-Dade, Tomás Regalado, e a xerife do condado, Rosie Cordero-Stutz. Entre os opositores, a prefeita de Miami-Dade, Daniella Levine Cava, e o xerife do condado de Polk, Grady Judd.\n\nOs defensores dizem que a medida dá alívio a proprietários pressionados pelo custo de vida; os críticos afirmam que governos locais podem perder bilhões e ter de cortar serviços.",
       "category": "miami",
-      "source": "CBS Miami",
-      "url": "https://www.cbsnews.com/miami/news/election-day-tuesday-miami-dade-polling-places-moved-jolly-donalds-nixon-moody/",
-      "published_at": "2026-11-02T13:09:09-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/b5f31578-a090-4ec1-bcdf-a1338481fd67/thumbnail/1200x630/ef9f9c10e909b7a6c949fd8513436b48/gettyimages-2151496322.jpg"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/03/voters-to-decide-on-amendment-3-radically-changing-floridas-property-tax-system/",
+      "published_at": "2026-11-03T06:32:26-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/3GZBA6JG45C7ZOA44BAM25K2M4.png?auth=f07dc01bf6ce0444e29befee390375af4e58c214716774bb53426711862a106b&width=700"
     },
     {
-      "id": "tarde-2026-11-02-miami-04",
-      "title": "Cidadão há 16 anos, morador de Miami Beach vai votar pela primeira vez",
-      "summary": "Nicolas Mantovani, de 48 anos, que imigrou da Argentina ainda criança, vai votar pela primeira vez na eleição de 3 de novembro. Ele diz que dúvidas sobre o sistema eleitoral e o peso de um único voto o mantiveram longe das urnas.",
+      "id": "manha-2026-11-03-miami-04",
+      "title": "Distrito 27: María Elvira Salazar enfrenta Eliott Rodriguez",
+      "summary": "No 27º Distrito Congressional, em Miami-Dade, a deputada republicana María Elvira Salazar enfrenta o democrata Eliott Rodriguez. Os dois são ex-jornalistas de TV filhos de cubanos.",
       "highlights": [
-        "Naturalizou-se americano em 2010",
-        "Achava que seu voto 'não fazia diferença'",
-        "Agora quer incentivar jovens a votar"
+        "Ambos são jornalistas aposentados",
+        "Rodriguez critica Salazar por apoio ao ICE",
+        "Salazar arrecadou mais: US$ 2,5 mi x US$ 1,56 mi"
       ],
-      "body": "Mantovani estudou boa parte da vida nos EUA com visto de estudante antes de se tornar residente permanente e, em 2010, cidadão naturalizado. 'Em 2010 ganhei o privilégio de votar', disse. 'É um privilégio que nunca usei.' Ele conta que nunca se sentiu informado o suficiente sobre o sistema político e duvidava que seu voto pudesse influenciar uma eleição, sobretudo as presidenciais, decididas pelo Colégio Eleitoral.\n\nNeste ano, decidiu mudar de postura: está pesquisando candidatos e se preparando para depositar seu primeiro voto, como forma de se envolver mais com a comunidade onde vive.\n\nA experiência também o motivou a incentivar os eleitores mais jovens. 'Você não precisa ser engenheiro para votar. Se estiver perdido como eu estava e não souber exatamente quem são os candidatos, há muita informação online', afirmou.",
+      "body": "Na eleição para o 27º Distrito Congressional da Flórida, os eleitores escolhem entre a deputada republicana María Elvira Salazar, de 64 anos, no cargo desde 2021, e o democrata Eliott Rodriguez, de 69. Ambos são jornalistas de TV aposentados, filhos de pais nascidos em Cuba, mas divergem sobre Donald Trump.\n\n“Ela votou para financiar o ICE e ficou calada quando o Alligator Alcatraz estava aqui”, disse Rodriguez à Local 10. Até 14 de outubro, segundo a Comissão Eleitoral Federal, Salazar havia arrecadado mais de US$ 2,5 milhões, contra mais de US$ 1,56 milhão de Rodriguez.\n\nRodriguez, nascido no Bronx, trabalhou no Miami Herald e foi âncora no sul da Flórida, inclusive na Local 10. Salazar, nascida em Miami, fez carreira na TV em espanhol e entrevistou Fidel Castro em 1995.",
       "category": "miami",
-      "source": "CBS Miami",
-      "url": "https://www.cbsnews.com/miami/news/miami-beach-man-first-time-voter-2026-midterm-elections/",
-      "published_at": "2026-11-02T14:31:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/02/1d862b75-ab91-4a71-bfb0-aa32e8443f26/thumbnail/1200x630/65e6614345508ef518b88704819926d9/cbsmiami-miami-beach-voter-1.jpg"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/politics/2026/11/03/midterm-elections-floridas-27th-congressional-district-is-between-republican-rep-maria-elvira-salazar-and-democrat-eliott-rodriguez/",
+      "published_at": "2026-11-03T06:28:16-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F08-19-2026%2Ft_991d85b7acba4fc1acf40db624843ba6_name_47852043377_hdtv.jpg?auth=1e5ba54247204bebc2746d4af5d3818eb77fe9896f15f376f2423564f25848b1&width=700"
     },
     {
-      "id": "tarde-2026-11-02-miami-05",
-      "title": "Estudante da FIU vota pela primeira vez motivada por deportação da tia",
-      "summary": "Sofía Lumbre, de 21 anos, estudante de enfermagem da FIU que se tornou cidadã americana no ano passado, vai votar pela primeira vez nesta terça. Imigração, aborto e custo de vida estão entre suas principais preocupações.",
+      "id": "manha-2026-11-03-miami-05",
+      "title": "DeSantis decreta emergência em 7 condados por enchentes no dia da eleição",
+      "summary": "Chuvas torrenciais levaram DeSantis a declarar estado de emergência em sete condados da Flórida, permitindo mudar locais de votação alagados. A Brightline suspendeu o trecho Orlando–West Palm Beach.",
       "highlights": [
-        "Tia foi detida pelo ICE em julho e deportada para Lima, no Peru",
-        "Nascida na Espanha, de pais peruanos que vivem em Miami há 19 anos",
-        "Reclama do preço da gasolina: 'nunca vi o de US$ 3,20'"
+        "Ordem permite novos locais de votação",
+        "Brevard fechou escolas na segunda e na terça",
+        "Trecho West Palm–Miami da Brightline opera normal"
       ],
-      "body": "Lumbre se registrou para votar ainda no escritório do Serviço de Cidadania e Imigração (USCIS), logo após se naturalizar. 'Sinto que tenho uma responsabilidade comigo, com minha família e com meu país', disse. Mas ela não esperava que a primeira eleição fosse tão pessoal: segundo ela, a tia passou um mês num centro de detenção em Nova Orleans antes de ser deportada. 'Desde que minha tia foi deportada, tenho medo. Meus pais sempre me dizem para andar com o passaporte', contou.\n\nComo futura enfermeira, ela considera o direito ao aborto fundamental, sobretudo após a decisão da Suprema Corte que derrubou Roe v. Wade em 2022. O custo de vida também pesa: ela comprou um Honda recentemente e se frustra com o preço para encher o tanque. 'Quando comprei o carro, a gasolina já estava a US$ 4', disse.",
+      "body": "O governador Ron DeSantis declarou na segunda-feira (2) estado de emergência nos condados de Brevard, DeSoto, Hardee, Highlands, Indian River, Martin e St. Lucie, depois que chuvas torrenciais alagaram estradas e fecharam escolas. A ordem permite que os supervisores eleitorais designem novos locais de votação onde os originais estiverem inseguros ou inacessíveis.\n\nBrevard cancelou as aulas na segunda e na terça-feira. A Brightline suspendeu o serviço entre Orlando e West Palm Beach por causa da água sobre os trilhos em Brevard, mas o trecho West Palm Beach–Miami opera normalmente. Em Sunrise, perto de Weston, uma tempestade lenta despejou cerca de 8 polegadas (20 cm) de chuva e alagou a área da Amerant Bank Arena.\n\nPara o sul da Flórida, a previsão desta terça é de tempo um pouco mais seco, mas pancadas ainda podem causar alagamentos, já que o solo está encharcado. Uma frente fria deve chegar na sexta-feira.",
       "category": "miami",
-      "source": "CBS Miami",
-      "url": "https://www.cbsnews.com/miami/news/miami-first-time-voter-fiu-2026-midterms-immigration-abortion-economy/",
-      "published_at": "2026-11-02T12:23:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/c0e9823c-d1de-43ab-a0a7-f64e40c2ce83/thumbnail/1200x630/c067646028636112a30fafe0d74a02ac/cbsmiami-fiu-student-voters-1.jpg"
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/desantis-state-of-emergency-seven-counties-flooding-election-day-polling-places/",
+      "published_at": "2026-11-03T06:24:25-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/03/43f61449-e0ac-4c3a-ba13-87e28b23d06d/thumbnail/1200x630/5a5fe65cd536e427a3d3b36417feb5b4/election-day-flooding.png"
     },
     {
-      "id": "tarde-2026-11-02-miami-06",
-      "title": "Homem é preso após tumulto no aeroporto de Miami e cuspir em enfermeira",
-      "summary": "Lucas J. Cote, de 26 anos, causou tumulto no Aeroporto Internacional de Miami embriagado e depois cuspiu numa enfermeira que ajudava a contê-lo no hospital, segundo o gabinete do xerife. A fiança foi fixada em US$ 2.800.",
+      "id": "manha-2026-11-03-miami-06",
+      "title": "Guarda Costeira retém navio MSC Poesia no Porto de Miami",
+      "summary": "O navio de cruzeiro MSC Poesia está retido com passageiros a bordo no Porto de Miami enquanto a Guarda Costeira faz uma inspeção. A partida foi adiada.",
       "highlights": [
-        "Foi encontrado num bar perto do portão D14",
-        "Disse acreditar estar num barco e num avião ao mesmo tempo",
-        "Acusado de agressão a profissional de saúde de emergência"
+        "Inspeção começou no domingo",
+        "Navio comporta mais de 3.200 passageiros",
+        "MSC diz cooperar com as autoridades"
       ],
-      "body": "Segundo o boletim de ocorrência, um policial atendeu no domingo a chamados sobre um homem violento causando confusão na central de remarcação da American Airlines. Cote foi encontrado sentado no bar de um restaurante Chili's perto do portão D14, aparentemente muito embriagado, e se recusou a obedecer às ordens; foi detido com ajuda de agentes da Alfândega e Proteção de Fronteiras (CBP).\n\nDesorientado, ele foi levado ao Jackson Memorial Hospital West para avaliação sob a Lei Marchman. Lá, continuou gritando e tentando se levantar, e cuspiu numa enfermeira do pronto-socorro enquanto a equipe tentava sedá-lo.\n\nApós receber alta, foi levado ao centro correcional Turner Guilford Knight e acusado de agressão a profissional de atendimento médico de emergência, embriaguez desordeira e conduta desordeira. Um juiz encontrou causa provável e fixou a fiança em US$ 2.800.",
+      "body": "O navio de cruzeiro MSC Poesia está retido com passageiros a bordo no Porto de Miami, e seu itinerário está suspenso enquanto a Guarda Costeira inspeciona a embarcação, segundo a CBS News. O setor Miami da Guarda Costeira deteve o navio no domingo para verificar o cumprimento de normas internacionais e regulamentos americanos.\n\nA MSC Cruises disse que a partida foi adiada, que coopera com a inspeção e que mantém os hóspedes informados. O navio tem capacidade para mais de 3.200 passageiros e mais de mil tripulantes, mas não se sabe quantas pessoas estão a bordo.",
       "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-airport-arrest-spat-nurse/",
-      "published_at": "2026-11-02T13:08:01-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Lucas-J.-Cote.png"
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/coast-guard-detains-msc-poesia-cruise-ship-miami/",
+      "published_at": "2026-11-02T21:44:00-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/ad15be72-f99b-40bc-a48e-4ce6f4801a5c/thumbnail/1200x630/dff2dbd9bf5e9a9fc4e7820fb811fa44/gettyimages-2225247975.jpg"
     },
     {
-      "id": "tarde-2026-11-02-miami-07",
-      "title": "Mulher é presa após vídeo mostrá-la invadindo apartamento de vizinho com criança",
-      "summary": "Uma moradora de Miami foi presa na sexta-feira depois que câmeras flagraram ela e um dos filhos pequenos arrombando a porta dos fundos de um vizinho e arrastando pertences para o pátio do prédio. O Departamento de Crianças e Famílias foi acionado.",
+      "id": "manha-2026-11-03-miami-07",
+      "title": "Famílias identificam as vítimas da queda de jato em Palm Beach",
+      "summary": "As famílias das vítimas da queda do Learjet perto de Greenacres divulgaram nota identificando os passageiros, entre eles um casal de Austin e seus dois filhos pequenos. A copiloto, de 20 anos, era de Boca Raton.",
       "highlights": [
-        "Nicole Bottiglierivega, 42, responde por furto qualificado e outras acusações",
-        "Ela havia se mudado para o apartamento vizinho em 15 de outubro",
-        "Na prisão, conseguiu soltar os pulsos das algemas na cela"
+        "Nove mortos, incluindo crianças de 4 e 2 anos",
+        "Copiloto tirou brevê antes da carteira de motorista",
+        "Piloto relatou gelo antes do “Mayday”"
       ],
-      "body": "De acordo com o boletim, a polícia de Miami foi chamada por volta das 15h de quinta-feira, depois que um casal voltou do trabalho e encontrou o apartamento revirado, com pertences espalhados pela área comum e pelo estacionamento. As imagens de segurança mostraram Bottiglierivega forçando a porta dos fundos, quebrando fechadura e batente, e retirando móveis e objetos com a ajuda de uma das crianças; uma câmera Ring de outro vizinho confirmou a invasão. Uma testemunha disse que ela usava drogas com frequência.\n\nComo havia menores no apartamento, a polícia acionou o Departamento de Crianças e Famílias da Flórida (DCF). Na sexta, por volta das 16h, policiais voltaram com funcionários do DCF; um sargento ouviu gritos e viu sangue, e os agentes arrombaram a porta. Ela resistiu à prisão e foi levada à delegacia norte da polícia de Miami.\n\nEla é acusada de furto qualificado de terceiro grau, contribuir para a delinquência ou dependência de menor, dano criminal e resistência à prisão sem violência.",
+      "body": "Nove pessoas morreram quando um jato executivo que partiu de Austin, no Texas, rumo às Bahamas caiu em um bairro do condado de Palm Beach no domingo. Em nota conjunta, as famílias identificaram os passageiros: Adam Robinson e Helen Sharp, seus filhos Emma, de 4 anos, e Charlie, de 2; Rachael Reed e Charmi Fehr; e Anita Maria Cetina, que cuidava das crianças.\n\nA copiloto era Nathalia Filgueiras, de 20 anos, de Boca Raton, que obteve a licença de piloto antes da carteira de motorista. O comandante foi identificado como Jeffrey Gregory, de 55 anos.\n\nEm gravações, o piloto disse “estamos lidando com o gelo” pouco antes de declarar “Mayday”. O NTSB lidera a investigação.",
       "category": "miami",
-      "source": "CBS Miami",
-      "url": "https://www.cbsnews.com/miami/news/miami-woman-arrested-neighbor-apartment-burglary-child-welfare-dcf/",
-      "published_at": "2026-11-02T11:43:16-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/a936f42d-8cc4-484f-83e7-426d6ba31504/thumbnail/1200x630/529f8ecf9be5911db435df94f651243e/gettyimages-1180153924.jpg"
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/jet-crash-victims-palm-beach-county-florida/",
+      "published_at": "2026-11-02T17:36:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/603a69f4-9d5a-4aa0-a2a6-0faa2b8aacf7/thumbnail/1200x630/91f33ac192abed762bb3d39e5e4aa352/screenshot-2026-11-02-at-5-25-45-pm.png"
     },
     {
-      "id": "tarde-2026-11-02-tecnologia-01",
-      "title": "Snap faz acordo e evita julgamento sobre vício de adolescentes em redes",
-      "summary": "A Snap, dona do Snapchat, fechou acordo num processo de dois adolescentes que acusavam a empresa de projetar a plataforma para ser viciante, contribuindo para depressão, ansiedade e transtornos alimentares. Os autores já haviam feito acordos com Meta, TikTok e YouTube.",
+      "id": "manha-2026-11-03-miami-08",
+      "title": "Doncic marca 42 e Lakers vencem o Heat por 138 a 117",
+      "summary": "Luka Doncic teve 42 pontos e 13 assistências na vitória dos Lakers sobre o Miami Heat em Los Angeles. Giannis Antetokounmpo fez 30 pontos, mas o Heat sofreu a quinta derrota em sete jogos.",
       "highlights": [
-        "Seria o primeiro julgamento da Snap numa onda de processos",
-        "CEO Evan Spiegel deveria depor",
-        "Autores citaram rolagem infinita e reprodução automática"
+        "Heat abriu sequência de 5 jogos fora",
+        "Giannis: 30 pontos e 12 rebotes",
+        "Próximo jogo: Clippers, na quarta"
       ],
-      "body": "O julgamento seria o primeiro da Snap numa ampla onda de litígios sobre o impacto das redes sociais nos jovens, e a empresa já havia resolvido os outros casos marcados para julgamento. O CEO Evan Spiegel deveria testemunhar. Os termos não foram divulgados; o acordo foi noticiado primeiro pela Reuters.\n\nOs autores disseram ter começado a usar o YouTube aos 3 anos e outras redes por volta dos 9, desenvolvendo hábitos compulsivos que atribuem a recursos como reprodução automática e rolagem infinita. 'As partes estão satisfeitas por terem resolvido a questão de forma amigável', disse um porta-voz da Snap, acrescentando que a empresa segue comprometida em fortalecer a segurança e o bem-estar dos usuários.\n\nAs gigantes das redes sociais enfrentam milhares de processos em tribunais federais e estaduais que as acusam de projetar plataformas para fisgar jovens e alimentar uma crise de saúde mental.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "published_at": "2026-11-02T14:11:49-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
+      "body": "Luka Doncic marcou 42 pontos, deu 13 assistências e pegou sete rebotes na vitória do Los Angeles Lakers por 138 a 117 sobre o Miami Heat na noite de segunda-feira (2). Foi o quinto jogo seguido em que ele fez pelo menos 37 pontos.\n\nGiannis Antetokounmpo teve 30 pontos, 12 rebotes e sete assistências pelo Heat, que abriu uma série de cinco jogos na Costa Oeste com a quinta derrota em sete partidas na temporada de estreia do astro grego em Miami. Klay Thompson fez 19 pontos e Bam Adebayo, 16.\n\nO Heat volta à quadra na quarta-feira, contra o Los Angeles Clippers.",
+      "category": "miami",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/luka-doncic-scores-42-points-in-another-brilliant-game-leading-the-lakers-past-the-heat-138-117/",
+      "published_at": "2026-11-03T00:47:00-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/2462e295-812f-439c-92b0-09dfe50bc0b4/thumbnail/1200x630/41587287f8876fba34bbd3596c7bfb0d/ap26307150522796.jpg"
     },
     {
-      "id": "tarde-2026-11-02-tecnologia-02",
-      "title": "New York Times processa o navegador Brave por raspagem de conteúdo para IA",
-      "summary": "O New York Times acusa a Brave de copiar seu conteúdo protegido e distribuí-lo a clientes como Anthropic, Perplexity, Mistral, xAI e Cohere. Daily News, Chicago Tribune e Orlando Sentinel abriram processo semelhante.",
+      "id": "manha-2026-11-03-miami-09",
+      "title": "Casal é preso por deixar crianças em Jeep enquanto jogava em cassino",
+      "summary": "Um homem de Broward e a namorada foram acusados de deixar três crianças, a mais nova com 1 ano, dentro de um Jeep fechado enquanto jogavam no Seminole Classic Casino, em Hollywood.",
       "highlights": [
-        "Jornal compara a Brave a um 'receptador' de conteúdo roubado",
-        "Índice da Brave teria mais de 30 bilhões de páginas",
-        "Ação mira também recurso que contorna paywalls"
+        "Crianças estavam suando, sem água ou comida",
+        "Acusação de negligência infantil",
+        "Crianças foram examinadas e estão bem"
       ],
-      "body": "As duas ações foram apresentadas nesta segunda-feira no tribunal federal de Manhattan. O Times, que também processa a OpenAI e a Perplexity por alegações semelhantes, descreve a Brave como 'fornecedora, traficante e distribuidora de conteúdo protegido roubado' para empresas de IA: 'Age tanto como um ladrão que se apropria do conteúdo dos editores quanto como um receptador de IA que vende o conteúdo roubado a terceiros'.\n\nSegundo o processo, a Brave montou um índice de mais de 30 bilhões de páginas com um rastreador não identificado, que os editores não conseguem bloquear. A ação também ataca um recurso do navegador que contorna paywalls e a prática de bloquear anúncios dos editores enquanto vende os próprios.\n\nFundada em 2015, a Brave já captou cerca de US$ 250 milhões. O Times pede uma liminar e indenização; a empresa não respondeu de imediato.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "published_at": "2026-11-02T14:19:17-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800"
+      "body": "Terrence Wright e Lillian Munn foram acusados de negligência infantil e de deixar crianças sozinhas em um veículo depois que a polícia encontrou os três enteados de Wright dentro de um Jeep com as janelas fechadas no Seminole Classic Casino, em Hollywood. Fazia cerca de 24 °C do lado de fora.\n\nSegundo os boletins, as crianças estavam conscientes e suando, sem acesso a comida, água ou telefone. Munn disse que o carro desligou e que entrou para buscar as chaves com Wright, mas câmeras mostraram o casal jogando, segundo a polícia.\n\nMunn ficou presa sem fiança por estar em liberdade condicional; a fiança de Wright foi fixada em US$ 22.500. As crianças não tiveram ferimentos.",
+      "category": "miami",
+      "source": "CBS News Miami",
+      "url": "https://www.cbsnews.com/miami/news/man-girlfriend-kids-in-car-seminole-classic-casino-hollywood/",
+      "published_at": "2026-11-02T19:50:49-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/0df59845-2e14-46c6-a5f6-5de3bada2f97/thumbnail/1200x630/ae1aebef86be72d60a5a9a60b2998245/cbsmiami-seminole-classic-casino.jpg"
     },
     {
-      "id": "tarde-2026-11-02-tecnologia-03",
-      "title": "Squarespace demite 19% dos funcionários em meio à revolução da IA",
-      "summary": "A plataforma de criação de sites Squarespace vai cortar cerca de 300 empregos, aproximadamente 19% de sua força de trabalho global. O setor vem sendo transformado por criadores de sites baseados em IA generativa.",
+      "id": "manha-2026-11-03-miami-10",
+      "title": "Mais de 50 gatos correm risco com demolição de parque em Little Havana",
+      "summary": "O Silver Court Mobile Home Park, em Little Havana, será demolido para dar lugar a um novo empreendimento. Voluntários correm contra o prazo para encontrar lares para mais de 50 gatos que vivem no local.",
       "highlights": [
-        "Empresa diz que quer 'simplificar' a operação e andar mais rápido",
-        "Concorrente Wix comprou a Base44; Lovable vale US$ 13,3 bilhões",
-        "Squarespace prepara o Forma, plataforma nativa de IA"
+        "Parque tem 65 anos e cerca de 200 unidades",
+        "Metade dos cerca de 100 gatos já foi realocada",
+        "Restam só cerca de 30 moradores"
       ],
-      "body": "'A Squarespace está reestruturando sua organização e reduzindo sua força de trabalho global em cerca de 19%, o que representa aproximadamente 300 funcionários', confirmou o porta-voz Jeff Seedman. Segundo ele, as mudanças pretendem simplificar a operação, afinar prioridades e preparar a empresa para a próxima fase de crescimento.\n\nOs criadores de sites por 'vibe coding', que geram interfaces funcionais a partir de comandos simples, abalaram o setor. A rival Wix comprou a Base44 por US$ 80 milhões no ano passado, e a Lovable levantou US$ 400 milhões em agosto, com avaliação de US$ 13,3 bilhões. A Squarespace lançou a ferramenta de IA Blueprint em 2024 e anunciou o Forma.\n\nFundada em 2004, a empresa abriu capital em 2021 avaliada em US$ 10 bilhões, mas voltou a ser privada em 2024 num negócio de US$ 7 bilhões com um fundo de private equity.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "published_at": "2026-11-02T14:25:59-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675"
+      "body": "O Silver Court Mobile Home Park, em Little Havana, com 65 anos de existência, 10 acres e cerca de 200 unidades, deve ser demolido para dar lugar a um novo empreendimento. A maioria dos moradores já saiu, mas mais de 50 gatos continuam no terreno.\n\nQuando as entidades de resgate começaram a atuar, no verão, eram cerca de 100 gatos; metade já foi realocada. “Temos um prazo, muitos gatos e precisamos de muita ajuda”, disse Tia Williams, da Street Cat Clinic. Os voluntários procuram lares temporários e organizações de resgate.\n\nSegundo a Local 10, a incorporadora Urban Group oferece incentivos financeiros para a saída dos moradores desde março, e hoje há mais gatos do que pessoas no local.",
+      "category": "miami",
+      "source": "Local 10",
+      "url": "https://www.local10.com/pets/2026/11/02/more-than-50-cats-at-risk-of-losing-their-homes-as-little-havana-mobile-home-park-faces-demolition/",
+      "published_at": "2026-11-02T17:57:06-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-02-2026%2Ft_ea77dfb6097a42e598b20e99d029ffbd_name_49397029279_hdtv.jpg?auth=f34b189fc18ce948ac083c6996a278a3f059ab51462a45b911b34efccba7436c&width=700"
     },
     {
-      "id": "tarde-2026-11-02-tecnologia-04",
-      "title": "Anthropic impede o Claude Code de clonar videogames existentes",
-      "summary": "A Anthropic atualizou as instruções de sistema do Claude Code para impedir que a ferramenta recrie jogos existentes. Jogos originais e de gênero continuam permitidos.",
+      "id": "manha-2026-11-03-tecnologia-01",
+      "title": "Apple tem receita recorde de US$ 114,5 bi no 1º balanço sob Ternus",
+      "summary": "A Apple faturou US$ 114,5 bilhões no quarto trimestre fiscal, alta de 12% e recorde para o período. O ano fiscal de 2026 fechou com receita recorde de US$ 479 bilhões.",
       "highlights": [
-        "Mudança vale para o Claude Code com o modelo Opus 5.5",
-        "Usar o Claude para violar propriedade intelectual fere a política de uso",
-        "Cena de games retrô está repleta de ports feitos por IA"
+        "iPhone fatura US$ 57,58 bilhões no trimestre",
+        "Serviços atingem máxima histórica",
+        "Primeiro balanço com John Ternus como CEO"
       ],
-      "body": "Na semana passada, um usuário do X publicou uma captura de tela que mostraria duas novas frases no prompt de sistema do Claude Code: crie jogos originais, de gênero ou a partir dos próprios designs do usuário, mas não recrie um jogo específico existente, 'mesmo que seja nomeado ou chamado de original'. A mudança foi noticiada pelo Tom's Hardware.\n\nAddy Osmani, da Anthropic, não confirmou o texto exato, mas disse que a empresa acrescentou duas frases ao prompt do Claude Code no Opus 5.5 para afastá-lo de recriar o jogo de outra pessoa, 'porque usar o Claude para infringir propriedade intelectual é contra nossa política de uso'. Ele afirmou que a empresa vai continuar ajustando o equilíbrio e pediu que usuários o procurem se o Claude recusar algo que seja deles.\n\nO cenário de games retrô vive uma enxurrada de descompilações, recompilações e ports feitos com IA.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "published_at": "2026-11-02T13:56:02-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "id": "tarde-2026-11-02-tecnologia-05",
-      "title": "OpenAI promete usinas de data centers como reserva para a rede elétrica",
-      "summary": "A OpenAI vai testar seu 'Grid Protectors Program' num futuro data center no condado de Effingham, na Geórgia, prometendo liberar até 1.000 megawatts em emergências ou clima extremo. A quantidade daria para alimentar aparelhos de ar-condicionado de cerca de 700 mil casas.",
-      "highlights": [
-        "Empresa passou a chamar data centers de 'compute campuses'",
-        "Oposição a data centers cresce nos EUA",
-        "Vários estados proíbem repassar custos de energia aos moradores"
-      ],
-      "body": "O anúncio chega num momento em que a oposição a data centers se espalha pelos EUA. Em Utah, moradores protestaram depois que o condado de Box Elder aprovou um projeto que deve consumir mais que o dobro do pico de demanda elétrica do estado em 2025. Estados como Tennessee, Flórida, Oklahoma e Oregon aprovaram leis para impedir que empresas de IA repassem custos de energia aos moradores.\n\nA OpenAI agora apresenta as usinas que alimentam seus data centers como 'um recurso que as concessionárias podem acionar quando as comunidades mais precisam'. Segundo a empresa, a demanda constante ao longo do ano ajuda a diluir os custos fixos da rede, enquanto a flexibilidade permite reduzir o consumo nos momentos de pico.\n\nAlém da Geórgia, a OpenAI constrói os data centers 'Stargate' com Oracle e SoftBank em locais como o condado de Shackelford, no Texas.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "published_at": "2026-11-02T13:01:30-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200"
-    },
-    {
-      "id": "tarde-2026-11-02-tecnologia-06",
-      "title": "Robô doméstico da Apple pode ficar para 2028, diz The Information",
-      "summary": "Atualização: segundo o The Information, a Apple adiou o lançamento de seu robô de mesa para casa inteligente para, no mínimo, o próximo ano, possivelmente 2028. O hardware estaria pronto há dois anos, mas o software não.",
-      "highlights": [
-        "Codinome J595; pode se chamar 'HomeView Ultra'",
-        "Preço estimado em cerca de US$ 1.000 ou mais",
-        "Tela de 9 polegadas num braço robótico giratório"
-      ],
-      "body": "De acordo com a publicação, a equipe de software pressionou pelo adiamento e tentou enxugar recursos, concentrando o produto em funções ligadas ao FaceTime e à automação de tarefas domésticas, como acender uma luz.\n\nEx-funcionários preveem que o aparelho, de codinome J595, se chame 'HomeView Ultra', em referência ao HomeView lançado no mês passado. Ele deve custar bem mais, cerca de US$ 1.000, possivelmente mais por causa da alta nos preços de memória RAM e outros componentes.\n\nEm 2024, Mark Gurman, da Bloomberg, disse que o robô teria um design de mesa lembrando a famosa luminária da Pixar. O The Information diz que ele terá tela de 9 polegadas num braço robótico, com câmeras e sensores para, por exemplo, seguir o usuário durante uma chamada de FaceTime.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-      "published_at": "2026-11-02T12:06:10-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "id": "tarde-2026-11-02-tecnologia-07",
-      "title": "Apple divulga hoje resultado do 4º trimestre, o primeiro com Ternus como CEO",
-      "summary": "A Apple apresenta seus resultados do quarto trimestre fiscal de 2026 meia hora após o fechamento do mercado, com teleconferência às 17h (horário de NY). Será a primeira de John Ternus como CEO, após suceder Tim Cook em setembro.",
-      "highlights": [
-        "Previsão de receita entre US$ 111,69 bi e US$ 113,74 bi",
-        "Escassez de memória e alta de componentes devem dominar a conversa",
-        "Trimestre atual inclui iPhone Duo, MacBook Pro com tela sensível ao toque e HomeView"
-      ],
-      "body": "Ternus e o diretor financeiro Kevan Parekh devem explicar como a Apple lidou com mais um trimestre de escassez de memória e alta nos custos de componentes, e como esses desafios devem afetar o desempenho na temporada de fim de ano, a primeira sob o novo CEO.\n\nNa teleconferência anterior, a Apple projetou crescimento de receita de 9% a 11% em relação ao ano anterior, apesar de restrições de oferta no iPhone, no Mac e no iPad. Se a previsão se confirmar, a receita trimestral ficará entre US$ 111,69 bilhões e US$ 113,74 bilhões. Os números incluem só alguns dias de vendas do iPhone 18 Pro e Pro Max, lançados em 18 de setembro.\n\nAnalistas devem prestar atenção especial à projeção para o trimestre atual. A teleconferência será transmitida ao vivo pelo site de Relações com Investidores da Apple.",
+      "body": "A Apple reportou receita de US$ 114,5 bilhões no trimestre encerrado em setembro, alta de 12% sobre um ano antes e acima da faixa projetada pela própria empresa. Foi o primeiro balanço desde que John Ternus substituiu Tim Cook como CEO, em setembro.\n\nO iPhone bateu recorde para um trimestre de setembro, com US$ 57,58 bilhões, e Serviços chegaram à máxima histórica. “Encerramos o ano com nossa linha mais ambiciosa”, disse a empresa, citando o dobrável iPhone Duo, os iPhone 18 Pro e Pro Max e a nova Siri com IA.\n\nNo ano fiscal de 2026, a receita recorde foi de US$ 479 bilhões. A Apple gerou US$ 28 bilhões em caixa operacional no trimestre e devolveu o mesmo valor aos acionistas.",
       "category": "tecnologia",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/02/heres-how-to-listen-live-to-apples-q4-2026-earnings-call/",
-      "published_at": "2026-11-02T12:13:36-05:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-chairs.jpg?quality=82&strip=all&resize=1200,628"
+      "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
+      "published_at": "2026-11-02T16:32:54-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "id": "tarde-2026-11-02-tecnologia-08",
-      "title": "iOS 27.2: 'Ações Sugeridas' no Mensagens podem ser personalizadas",
-      "summary": "O iOS 27.2, lançado na semana passada, trouxe ao app Mensagens as 'Ações Sugeridas', que transformam informações de uma mensagem em ação com um toque. O usuário pode ativar ou desativar cada um dos cinco tipos de sugestão.",
+      "id": "manha-2026-11-03-tecnologia-02",
+      "title": "Ações da Apple caem com previsão de margens menores por memória e Siri",
+      "summary": "As ações da Apple recuavam 3,8% no pré-mercado após a empresa prever margem bruta de 45% a 46% no trimestre de festas. O custo da memória e a nova Siri com IA pesam no lucro.",
       "highlights": [
-        "Categorias: Calendário, Lembretes, Notas, Mapas e Voos e Pacotes",
-        "Ajuste em Ajustes > Apps > Mensagens > Ações Sugeridas",
-        "Recurso exige iPhone compatível com Apple Intelligence"
+        "Margem bruta caiu para 47,9%",
+        "Siri com IA eleva custos de nuvem",
+        "Falta de memória pode limitar Mac e iPad"
       ],
-      "body": "Sempre que uma mensagem contém informação acionável — um evento para o calendário ou uma tarefa para lembrar —, o Mensagens mostra uma 'Ação Sugerida' logo abaixo dela. As sugestões são pequenas e discretas e não poluem a interface.\n\nEm Ajustes > Apps > Mensagens > Ações Sugeridas, é possível ligar ou desligar cinco tipos de sugestão: Adicionar ao Calendário, Adicionar aos Lembretes, Adicionar às Notas, Mostrar no Mapas e Voos e Pacotes. Por padrão, todas vêm ativadas.\n\nO 9to5Mac elogiou o nível de controle oferecido logo no lançamento. O recurso usa a Apple Intelligence, portanto só funciona em iPhones compatíveis.",
+      "body": "Apesar da receita recorde, as ações da Apple caíam 3,8% no pré-mercado desta terça-feira (3), segundo a CNBC. A empresa ficou abaixo das estimativas em vendas de iPad e decepcionou investidores com a projeção de margem bruta de 45% a 46% para o trimestre de dezembro.\n\nA margem bruta já havia caído para 47,9% no quarto trimestre fiscal. Segundo o diretor financeiro, Kevan Parekh, a pressão vem sobretudo do custo maior da memória e do lançamento da Siri com IA, que aumenta gastos com nuvem e obriga a Apple a diferir parte da receita dos aparelhos.\n\nAnalistas afirmam que a escassez de memória também deve limitar a oferta de Macs e iPads. As ações da Apple sobem 25% em 2026, o que, segundo a analista Violeta Todorova, deixa “pouco espaço para decepções”.",
+      "category": "tecnologia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "published_at": "2026-11-03T04:21:17-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108475780-1793209300413-gettyimages-2301899342-AFP_D4QA3ZT.jpeg?v=1793209389&w=1920&h=1080"
+    },
+    {
+      "id": "manha-2026-11-03-tecnologia-03",
+      "title": "Ternus não sabe quando a oferta do iPhone Duo vai normalizar",
+      "summary": "O CEO da Apple, John Ternus, disse que a empresa não consegue prever quando oferta e demanda do dobrável iPhone Duo vão se equilibrar. Algumas encomendas só serão entregues em 2027.",
+      "highlights": [
+        "iPhone Duo custa US$ 1.999",
+        "Pré-vendas esgotaram rapidamente",
+        "Telas trincadas: “porcentagem muito pequena”"
+      ],
+      "body": "A Apple não tem previsão para o fim das restrições de oferta do iPhone Duo, seu primeiro celular dobrável. “Estamos trabalhando muito para levá-lo ao maior número possível de clientes, o mais rápido possível, mas não conseguimos prever quando oferta e demanda estarão em equilíbrio”, disse Ternus à Reuters.\n\nLançado no mês passado por US$ 1.999, com tela externa de 5,4 polegadas e interna de 7,6, o aparelho teve as pré-vendas esgotadas, com algumas entregas previstas só para 2027. Ternus disse que “uma porcentagem muito pequena” das unidades foi devolvida por telas trincadas e está sendo substituída.\n\n“O que estamos vendo com os preços da memória agora é sem precedentes”, afirmou Ternus, prevendo custos ainda maiores no trimestre de dezembro, em parte compensados por aumentos recentes de preços.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "published_at": "2026-11-02T17:56:11-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": "manha-2026-11-03-tecnologia-04",
+      "title": "Apple Watch testa IA que “rebobina” e resume conversas",
+      "summary": "Os recursos de “Audio Intelligence” do Apple Watch entraram em beta para desenvolvedores no iOS 27.3. Entre eles está o Live Rewind, que mostra em texto os últimos 15 segundos de fala.",
+      "highlights": [
+        "Quatro recursos opcionais de IA",
+        "Para o Apple Watch Series 12",
+        "Funções que ouvem conversas geram debate"
+      ],
+      "body": "A tecnologia de “Audio Intelligence” do Apple Watch, anunciada no evento de setembro, começou a ser testada em beta por desenvolvedores na atualização iOS 27.3, segundo o TechCrunch. São quatro recursos opcionais para o Apple Watch Series 12: detecção de sons importantes, identificação de músicas, recapitulação de conversas e anotações.\n\nO reconhecimento de sons ajuda pessoas surdas ou com deficiência auditiva a identificar sirenes, alarmes e campainhas, e o de músicas usa o Shazam. Os mais polêmicos são o Live Rewind e o Siri Recaps, que ouvem conversas.\n\nCom o Live Rewind, um duplo clique na coroa digital mostra o que foi dito nos últimos 15 segundos — útil para instruções de caminho ou a lista de pratos do dia em um restaurante. Diante da reação contra gravadores de IA, a Apple diz ter desenhado os recursos para respeitar a privacidade de quem está por perto.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "published_at": "2026-11-03T02:20:00-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+    },
+    {
+      "id": "manha-2026-11-03-tecnologia-05",
+      "title": "Anthropic indica estar perto de IA capaz de se autoaperfeiçoar",
+      "summary": "No documento revisado para sua abertura de capital, a Anthropic sugere estar perto do “autoaperfeiçoamento recursivo” (RSI), quando a IA passa a acelerar o próprio desenvolvimento. A empresa trata isso como promessa e risco.",
+      "highlights": [
+        "Alerta está no formulário S-1/A revisado",
+        "Receita dispara, mas despesas também",
+        "Tema coberto pela Política de Escalonamento Responsável"
+      ],
+      "body": "Além dos números atualizados — receita em forte alta, mas despesas também —, o formulário S-1/A revisado que a Anthropic apresentou na segunda-feira (2) traz um alerta: a empresa estaria perto de criar um modelo capaz de autoaperfeiçoamento recursivo (RSI), ponto em que a IA fica tão boa em treinar a si mesma que acelera drasticamente suas capacidades, segundo o TechCrunch.\n\n“Usar IA para ajudar a construir IA mais capaz também pode representar um risco de segurança considerável, especialmente se acelerar muito o ritmo do progresso”, diz o documento, acrescentando que o tema é coberto por sua Política de Escalonamento Responsável.\n\nPara críticos, o RSI representa o risco de uma IA escapar ao controle humano; para entusiastas, a promessa de produtividade e descobertas sem precedentes.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "published_at": "2026-11-02T17:14:50-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600"
+    },
+    {
+      "id": "manha-2026-11-03-tecnologia-06",
+      "title": "OpenAI contrata ex-secretário do Exército dos EUA Dan Driscoll",
+      "summary": "A OpenAI contratou Dan Driscoll, ex-secretário do Exército americano, para o novo cargo de conselheiro sênior de modernização da segurança nacional. Ele vai ajudar aliados dos EUA a adotar IA.",
+      "highlights": [
+        "Cargo criado para segurança nacional",
+        "Foco em “IA democrática” e cibersegurança",
+        "Driscoll deixou o Exército após atritos com Hegseth"
+      ],
+      "body": "A OpenAI contratou o ex-secretário do Exército dos EUA Dan Driscoll como conselheiro sênior para modernização da segurança nacional, cargo recém-criado. Ele vai trabalhar em como a IA pode fortalecer a segurança nacional e a cibersegurança americanas, com foco em ajudar aliados a adotar a tecnologia de forma responsável.\n\nSam Altman disse que os EUA têm “uma oportunidade extraordinária de trabalhar com outros países para difundir a adoção da IA democrática”. “Os requisitos de segurança nacional estão mudando mais rápido do que em qualquer momento dos últimos 50 anos”, afirmou Driscoll.\n\nVeterano da guerra do Iraque, Driscoll deixou o comando do Exército neste ano após meses de tensões relatadas com o secretário de Defesa, Pete Hegseth.",
+      "category": "tecnologia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+      "published_at": "2026-11-02T21:17:10-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108507325-1793668688549-gettyimages-2277281978-ag_westpoint_41.jpeg?v=1793668738&w=1920&h=1080"
+    },
+    {
+      "id": "manha-2026-11-03-tecnologia-07",
+      "title": "OpenAI vai aposentar o app ChatGPT Classic em janeiro",
+      "summary": "A OpenAI vai desativar o aplicativo ChatGPT Classic para desktop em 30 de janeiro de 2027. A empresa também começará a testar uma experiência que une as abas Chat e Work no novo app.",
+      "highlights": [
+        "Fim do app em 30 de janeiro de 2027",
+        "Histórico de conversas será mantido",
+        "Teste de Chat + Work começa com poucos usuários"
+      ],
+      "body": "Uma mensagem exibida aos usuários do ChatGPT Classic informa que o aplicativo será aposentado em 30 de janeiro de 2027, com convite para baixar o novo app de desktop, que reúne ChatGPT, Work e Codex. “Todo o seu histórico de conversas vem junto”, diz o aviso.\n\nO novo app foi criticado por trocar a versão nativa para macOS por uma baseada em Electron e pela interface confusa. O Classic, por sua vez, ficou menos confiável à medida que novos modelos passaram a depender de recursos exclusivos do app novo.\n\nEm e-mail, a OpenAI anunciou que nas próximas semanas um pequeno grupo testará uma experiência combinada de Chat e Work, permitindo, por exemplo, pedir ao ChatGPT que crie um site ou uma apresentação na mesma interface.",
       "category": "tecnologia",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
-      "published_at": "2026-11-02T14:56:12-05:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+      "published_at": "2026-11-02T15:07:21-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?resize=1200,628"
     },
     {
-      "id": "tarde-2026-11-02-tecnologia-09",
-      "title": "BYD vende mais elétricos em outubro do que os EUA em todo o trimestre",
-      "summary": "A BYD vendeu um recorde de 305.743 carros 100% elétricos em outubro, alta de 37% em um ano e pela primeira vez acima de 300 mil. Nos EUA, foram vendidos pouco mais de 262.500 elétricos em todo o terceiro trimestre, segundo a Kelley Blue Book.",
+      "id": "manha-2026-11-03-tecnologia-08",
+      "title": "Apple alerta usuários em 99 países sobre spyware mercenário",
+      "summary": "A Apple enviou uma nova onda de alertas a usuários de 99 países que podem ter sido alvo de spyware mercenário. Na Alemanha, parlamentares e autoridades estão entre os notificados.",
       "highlights": [
-        "Total de veículos de nova energia: 490.168, alta de 11%",
-        "Híbridos plug-in caíram 17%, para 177.382 unidades",
-        "BYD exportou 170.194 veículos no mês"
+        "Ataque usaria falha “zero clique”",
+        "Agência alemã: “presuma que o aparelho não é seguro”",
+        "Autoria dos ataques é desconhecida"
       ],
-      "body": "Outubro foi o sexto mês seguido de crescimento das vendas da BYD e o terceiro seguido de alta nos elétricos. No acumulado do ano, a montadora vendeu 1.953.700 veículos elétricos, 6% a mais que no mesmo período de 2025; os elétricos responderam por cerca de 63% das vendas do mês.\n\nA empresa já exportou mais de 1,5 milhão de veículos elétricos e híbridos plug-in em 2026, quase o dobro do ano anterior, e espera chegar a cerca de 2 milhões de embarques ao exterior até o fim do ano e mais de 2,5 milhões em 2027, com foco em Europa, Sudeste Asiático e Américas Central e do Sul.\n\nPara o Electrek, embora os EUA venham do melhor trimestre do ano em vendas de elétricos, o desempenho da BYD mostra o quanto a China está à frente na transição. A China responde por mais da metade dos carros elétricos vendidos no mundo.",
+      "body": "A Apple enviou uma nova leva de notificações a usuários que podem ter sido alvo de spyware mercenário, desta vez em 99 países, segundo relatos do Financial Times e do TechCrunch reunidos pelo 9to5Mac. A empresa não revela quem estaria por trás nem confirma se os aparelhos foram comprometidos.\n\nNa Alemanha, parlamentares e funcionários do governo começaram a receber os alertas na quinta-feira passada, e o Escritório Federal de Segurança da Informação recomendou que os destinatários “presumam que o aparelho não é mais seguro”. Segundo o FT, os ataques exploraram uma falha “zero clique”, que dispensa qualquer interação da vítima.\n\nA Apple recomenda que quem receber o alerta busque ajuda especializada e considere ativar o Modo de Isolamento (Lockdown Mode).",
+      "category": "tecnologia",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks/",
+      "published_at": "2026-11-02T21:19:39-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "manha-2026-11-03-tecnologia-09",
+      "title": "Powerwall 3 da Tesla passa a acionar bombas de calor com sobra solar",
+      "summary": "A Tesla liberou na Europa um recurso que faz a Powerwall 3 reforçar bombas de calor quando há sobra de energia solar ou eletricidade barata. O calor fica guardado em tanques de água para as horas caras.",
+      "highlights": [
+        "Disponível só na Europa por enquanto",
+        "Usa o padrão alemão SG-Ready",
+        "Libera a bateria para outras cargas"
+      ],
+      "body": "A Tesla lançou na Europa a “Heat Pump Optimization” para a Powerwall 3: a bateria acompanha o preço da eletricidade e a produção solar e envia à bomba de calor um sinal para operar normalmente ou em modo reforçado, aquecendo água além do necessário em um tanque. Esse calor armazenado abastece a casa nas horas de energia cara.\n\nO recurso usa o padrão SG-Ready, criado na Alemanha em 2012, conectado por fio à bomba de calor, sem integração em nuvem. Segundo a Electrek, um tanque de 300 litros aquecido em mais 30 °C guarda cerca de 10,5 kWh de energia térmica gastando só 3,5 kWh de eletricidade, poupando os 13,5 kWh da Powerwall.\n\nA Tesla não anunciou planos para EUA ou Canadá, onde o padrão quase não existe. A concorrente sonnen oferece função semelhante desde 2023.",
       "category": "tecnologia",
       "source": "Electrek",
-      "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
-      "published_at": "2026-11-02T12:24:44-05:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-EV-sales-October-record.jpeg?quality=82&strip=all&resize=1200,628"
+      "url": "https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/",
+      "published_at": "2026-11-02T15:30:29-05:00",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/08/tesla-powerwall-backup-lease.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "id": "tarde-2026-11-02-tecnologia-10",
-      "title": "Ford promete nunca vender dados de direção a corretores de dados",
-      "summary": "A Ford se comprometeu a nunca vender dados de condução dos clientes a corretores de dados, numa tentativa de se diferenciar de concorrentes. A promessa vem após a GM aceitar pagar US$ 220 milhões para encerrar acusações de venda ilegal desses dados.",
+      "id": "manha-2026-11-03-tecnologia-10",
+      "title": "Google desmonta botnet de 1,3 milhão de aparelhos Android TV",
+      "summary": "O Google diz que a fabricante chinesa Videostrong instalou de propósito um backdoor em 1,3 milhão de aparelhos, transformando-os em uma botnet. A empresa foi banida de produzir dispositivos Android certificados.",
       "highlights": [
-        "Ford promete agregar e anonimizar dados",
-        "Clientes poderão ajustar quanto querem compartilhar",
-        "Mozilla chamou carros conectados de pior categoria em privacidade"
+        "Acesso ao backdoor era vendido a criminosos",
+        "Fraude de anúncios e roubo de dados",
+        "Ação deve cortar acesso a mais 10 milhões de aparelhos"
       ],
-      "body": "Pela nova promessa, a Ford diz que vai proteger os dados com técnicas de agregação e anonimização, oferecer informações claras sobre o uso de dados pessoais e permitir que os clientes ajustem quanto desejam compartilhar, embora continue usando dados para melhorar a segurança. 'Sabemos que a confiança se conquista', escreveu Kristin Jones, diretora de privacidade da Ford.\n\nO acordo da General Motors, de US$ 220 milhões, exige que a empresa limite os dados de direção coletados e obtenha 'consentimento expresso' dos motoristas. Um estudo recente com 21 marcas de veículos concluiu que todas transmitiam dados para ao menos um domínio de terceiros via Wi-Fi.\n\nUm relatório da Mozilla classificou os carros conectados como 'a pior categoria de produtos em privacidade' já analisada: 92% das montadoras dão pouco ou nenhum controle aos motoristas sobre seus dados, e 84% compartilham dados com terceiros.",
+      "body": "O Google afirma que um de seus parceiros de fabricação, a Videostrong Technology, de Shenzhen, construiu secretamente um backdoor em 1,3 milhão de dispositivos e os transformou em uma botnet. A empresa diz ter desmontado o backdoor, “cortado laços” com a fabricante e a banido de produzir ou vender aparelhos Android certificados.\n\nOs aparelhos infectados — em sua maioria set-top boxes Android TV, mas também dispositivos de telemedicina, karaokê e sinalização digital — eram usados sem conhecimento dos donos para fraude de anúncios, roubo de dados e tráfego de rede não autorizado. Segundo o Google, a Videostrong vendia acesso a afiliados criminosos.\n\nAo derrubar os servidores de comando desses afiliados, o Google estima ter cortado o acesso a pelo menos 10 milhões de outros aparelhos comprometidos.",
       "category": "tecnologia",
       "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "published_at": "2026-11-02T14:05:46-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26_FRD_BRO_70973_Connectivity_Package_15.jpg?quality=90&strip=all&crop=0%2C9.2765210458939%2C100%2C81.446957908212&w=1200"
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "published_at": "2026-11-02T15:37:49-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=12.458333333333%2C0%2C87.541666666667%2C100&w=1200"
     }
   ]
 }
