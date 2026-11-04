@@ -1,632 +1,632 @@
 {
   "version": 2,
-  "generated_at": "2026-11-04T11:06:33-05:00",
-  "edition": "meio-dia",
+  "generated_at": "2026-11-04T15:16:21-05:00",
+  "edition": "tarde",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "meiodia-2026-11-04-eua-01",
-      "title": "Mike Johnson não vai disputar liderança republicana na Câmara",
-      "summary": "O presidente da Câmara, Mike Johnson, disse a assessores que não concorrerá a líder da minoria no novo Congresso, segundo fonte ouvida pela CBS News. A decisão vem após as amplas derrotas republicanas nas eleições de meio de mandato.",
+      "id": "tarde-2026-11-04-eua-01",
+      "title": "Jeffries promete foco no custo de vida após vitória democrata",
+      "summary": "O líder democrata na Câmara, Hakeem Jeffries, chamou o resultado das eleições de \"tsunami americano\" e disse que o partido espera ter pelo menos 255 cadeiras. Ele prometeu um esforço incansável para tornar a vida mais acessível aos americanos.",
       "highlights": [
-        "Anúncio foi feito em telefonema na manhã de quarta",
-        "Steve Scalise e Jim Jordan são cotados para o cargo",
-        "Eleição interna republicana está marcada para 10 de novembro"
+        "Democratas esperam ao menos 255 cadeiras na Câmara",
+        "Jeffries deve ser o primeiro presidente negro da Câmara",
+        "Ameaça de veto de Trump pode travar novas leis"
       ],
-      "body": "O presidente da Câmara dos EUA, Mike Johnson, disse a sua equipe que não vai concorrer a líder da minoria no novo Congresso, segundo uma fonte familiarizada com o assunto ouvida pela CBS News. Ele deixa o posto após as extensas perdas do Partido Republicano nas eleições de meio de mandato; a CBS projeta que os democratas assumirão a Câmara em janeiro com ampla maioria.\n\nO líder da maioria, Steve Scalise, e o presidente do Comitê Judiciário, Jim Jordan, são considerados prováveis candidatos à função. Os republicanos planejam realizar as eleições de sua liderança em 10 de novembro, uma semana após o dia da eleição.\n\nEm outubro, Johnson havia dito à CBS que pretendia continuar como líder do partido mesmo se perdesse a maioria, mas já tinha alimentado especulações ao sugerir que poderia voltar para Shreveport e abrir um negócio de jardinagem. Ele foi eleito presidente da Câmara em outubro de 2023, após a destituição de Kevin McCarthy.",
+      "body": "Em entrevista coletiva nesta quarta-feira, Jeffries comemorou a vitória que deu aos democratas o controle das duas casas do Congresso. \"Não foi simplesmente uma onda azul. Foi um tsunami americano\", disse. Segundo ele, \"o povo americano escolheu o bom senso em vez da corrupção, do caos e da crueldade\".\n\nJeffries, que deve se tornar o primeiro presidente negro da Câmara quando o novo Congresso tomar posse em janeiro, afirmou que os democratas vão se concentrar em resultados, e não em vingança contra Trump. \"Fizemos campanha pela acessibilidade, vencemos pela acessibilidade e agora é nosso trabalho governar pela acessibilidade\", disse.\n\nO partido prometeu reduzir o custo de alimentos, combustível, moradia e saúde. Mas, com as ameaças de Trump de vetar projetos aos quais se opõe, os democratas podem ter dificuldade para aprovar novas leis mesmo com maioria; Jeffries citou um projeto bipartidário de moradia aprovado em julho como exemplo do que é possível.",
+      "category": "eua",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win",
+      "published_at": "2026-11-04T14:30:41-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeb7d449f3d-1793817924.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "tarde-2026-11-04-eua-02",
+      "title": "Vance culpa guerra com o Irã pela derrota republicana",
+      "summary": "O vice-presidente JD Vance disse que os republicanos perderam o controle das duas casas do Congresso por causa da oposição dos eleitores à guerra com o Irã. Ele sugeriu que o conflito pode não ter valido a perda do Senado.",
+      "highlights": [
+        "\"A razão de termos perdido é a guerra\", escreveu Vance no X",
+        "Ele citou quatro motivos, incluindo o fim da guerra e o custo de vida",
+        "Eleitores de Trump em 2024 votaram em democratas em 2026"
+      ],
+      "body": "Em seus primeiros comentários públicos desde a derrota, Vance afirmou que o partido precisa ser honesto sobre o impacto da guerra nas campanhas para definir o caminho a seguir. \"A razão de termos perdido é a guerra. O próprio presidente disse isso ontem à noite\", escreveu.\n\n\"Se você quer argumentar que valeu a pena, que perder o Senado pelos próximos seis anos valeu a pena, então faça isso. Concordando ou não, ao menos é honesto. Mas todos sabem por que perdemos\", acrescentou o vice-presidente.\n\nSegundo a CBS News, Vance disse ainda que muitos eleitores que apoiaram a chapa Trump-Vance em 2024 votaram em democratas em 2026 por quatro razões: acabar com a guerra com o Irã, focar no custo de vida e na inflação, colocar os EUA em primeiro lugar e mudar a relação do país com Israel.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/house-speaker-mike-johnson-minority-leader-gop-loses/",
-      "published_at": "2026-11-04T10:16:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/16/a1d41ad9-b88b-480b-ba35-a9ae41b4c42b/thumbnail/1200x630/57d4e0e958766a5d0b2b2b460d957096/gettyimages-2295034341.jpg"
+      "url": "https://www.cbsnews.com/news/jd-vance-2026-midterms-iran/",
+      "published_at": "2026-11-04T11:41:41-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/04/92d2644e-a1aa-48d1-b2aa-5d377e70d85f/thumbnail/1200x630g2/362836108017839740c85c53fa77ffe0/gettyimages-2303150469.jpg"
     },
     {
-      "id": "meiodia-2026-11-04-eua-02",
-      "title": "Bolsas disparam após democratas assumirem o Congresso",
-      "summary": "O mercado de ações dos EUA subiu forte nesta quarta-feira enquanto investidores avaliavam a vitória ampla dos democratas nas eleições. O Dow Jones chegou a avançar mais de 1.200 pontos logo após a abertura.",
+      "id": "tarde-2026-11-04-eua-03",
+      "title": "Trump pergunta a assessores se Hegseth deve deixar o Pentágono",
+      "summary": "Após as perdas republicanas, o presidente Trump tem perguntado a assessores se o secretário de Defesa, Pete Hegseth, deve continuar no cargo, segundo fontes ouvidas pela CBS News. Outras fontes dizem que ele ainda não decidiu substituí-lo.",
       "highlights": [
-        "Dow sobe 2,4%; S&P 500 avança 1,7% e Nasdaq 2,1%",
-        "Analistas veem impasse político como positivo para ações",
-        "S&P 500 subiu em média 15,5% seis meses após midterms"
+        "Trump diz que Hegseth faz \"ótimo trabalho\"",
+        "Democratas já tentavam o impeachment de Hegseth",
+        "Casa Branca diz ter \"total confiança\" no secretário"
       ],
-      "body": "As bolsas americanas dispararam na quarta-feira com os investidores digerindo o impacto das vitórias democratas nas eleições legislativas. O Dow Jones subiu mais de 1.200 pontos, ou 2,4%, pouco depois da abertura, enquanto o S&P 500 e o Nasdaq avançavam 1,7% e 2,1%, respectivamente.\n\nSegundo a CBS News, a mudança no cenário político pode afetar temas como o ritmo de construção de data centers, a regulação de criptomoedas e propostas para limitar juros de cartão de crédito. Ainda assim, analistas não esperam que o resultado descarrile um mercado movido mais pelos lucros das empresas e pelo crescimento econômico.\n\nInvestidores também esperam mais impasse no Congresso, com os democratas no controle das duas casas e Trump ameaçando usar o veto. Historicamente, isso tende a favorecer os mercados ao limitar grandes mudanças fiscais; de acordo com a Edward Jones, o S&P 500 subiu em média 15,5% nos seis meses seguintes às últimas 14 eleições de meio de mandato desde 1970.",
+      "body": "Segundo múltiplas fontes, Trump vem consultando assessores pessoalmente e por telefone sobre o futuro de Hegseth depois das perdas \"catastróficas\" de terça-feira. Alguns assessores da Casa Branca preveem que parte da culpa recaia sobre o almirante Brad Cooper, chefe do Comando Central, e o general Dan Caine, chefe do Estado-Maior Conjunto, que tiveram papel central na guerra com o Irã.\n\nAntes da eleição, os democratas já tentavam o impeachment de Hegseth, e a chance de um processo aumenta com as amplas maiorias do partido nas duas casas. Uma fonte disse que o governador da Flórida, Ron DeSantis, tem sido cogitado como possível substituto.\n\nQuestionado nesta quarta-feira se pensava em substituir Hegseth, Trump respondeu: \"Não, acho que ele está fazendo um ótimo trabalho\". Em nota, a porta-voz da Casa Branca Anna Kelly afirmou que o presidente \"tem total confiança no secretário Hegseth\" e elogiou as operações militares no Irã e na Venezuela.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
-      "published_at": "2026-11-04T10:05:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2020/03/13/c46f66e3-4071-46d5-beda-11c48b506b53/thumbnail/1200x630/fc6138ad06131f845fae976bedda162f/rts35udd.jpg"
+      "url": "https://www.cbsnews.com/news/trump-hegseth-midterm-election-losses/",
+      "published_at": "2026-11-04T11:39:00-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/0d53b8b2-e2e8-4b80-b3c4-8f638bae5834/thumbnail/1200x630g2/3aab36402a919a1acbde9f81732bf96e/gettyimages-2302338438.jpg"
     },
     {
-      "id": "meiodia-2026-11-04-eua-03",
-      "title": "Tiroteio deixa 3 mortos e 2 policiais em estado grave no estado de Washington",
-      "summary": "Um tiroteio seguido de troca de tiros com a polícia deixou três mortos, incluindo o suspeito, no condado de Spokane, no leste do estado de Washington. Dois policiais da equipe SWAT ficaram gravemente feridos.",
+      "id": "tarde-2026-11-04-eua-04",
+      "title": "Após derrota, Trump exalta salão de baile da Casa Branca",
+      "summary": "Em sua primeira aparição desde as pesadas perdas republicanas, Trump reuniu jornalistas e operários no salão de baile em construção na Casa Branca. O evento celebrou a instalação da última viga de aço da estrutura.",
       "highlights": [
-        "Mulher disse a vizinho que foi baleada pelo irmão",
-        "Equipe SWAT foi recebida a tiros ao tentar entrar na casa",
-        "Os dois policiais feridos têm filhos pequenos"
+        "Trump chamou a obra de \"coisa linda\"",
+        "Disse que será o salão mais bonito do mundo",
+        "Contraste com a nova realidade política em Washington"
       ],
-      "body": "Um tiroteio e o confronto que se seguiu com policiais deixaram três pessoas mortas, incluindo o suspeito, e dois policiais gravemente feridos no condado de Spokane, no leste do estado de Washington, na terça-feira. Os agentes foram chamados a uma casa por volta das 14h30 depois que uma mulher contou a um vizinho que havia sido baleada pelo irmão.\n\n\"Membros da equipe SWAT e policiais se aproximaram da casa, tentaram arrombar a porta e foram recebidos a tiros\", disse o xerife John Nowels. Uma pessoa foi encontrada morta dentro da casa e outra no quintal; o suspeito, que tinha um mandado de prisão por crime grave em aberto, também morreu.\n\nA mulher baleada tem ferimentos que não ameaçam sua vida. Os nomes das vítimas e do suspeito não foram divulgados. \"É um dia muito trágico no condado de Spokane\", afirmou o xerife, ao contar que os dois policiais lutam pela vida.",
+      "body": "O presidente usou o evento para elogiar o salão de baile e o novo heliponto do complexo da Casa Branca, afirmando que seu governo \"embelezou\" Washington. \"Esta é uma estrutura especial. Vai ser não só um dos maiores, mas o salão de baile mais bonito, eu acho, de qualquer lugar do mundo\", disse.\n\nTrump elogiou a qualidade da construção e os recursos de segurança do prédio, dizendo que presidentes queriam um grande espaço para eventos havia décadas, mas não conseguiram. Segundo a CBS News, o tom comemorativo contrastou fortemente com a nova realidade política do presidente, que enfrentará um Congresso controlado pelos democratas.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/3-dead-including-suspect-2-deputies-critically-injured-shooting-washington/",
-      "published_at": "2026-11-04T10:53:18-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/1e6ae70f-612d-41a1-b745-833461941637/thumbnail/1200x630/9fa7b5a9697fa9583838ca3fae4125d0/police-lights-night.jpg"
+      "url": "https://www.cbsnews.com/news/trump-2026-midterms-republicans-white-house-ballroom/",
+      "published_at": "2026-11-04T14:08:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/04/1ef3369d-f8fd-46b4-b6bf-460c2d1b6193/thumbnail/1200x630/445b39c67a636ff6dc1670d74cf94dff/ap26308640453254.jpg"
     },
     {
-      "id": "meiodia-2026-11-04-eua-04",
-      "title": "Peggy Flanagan vence em Minnesota e será a primeira indígena eleita senadora",
-      "summary": "A democrata Peggy Flanagan derrotou a republicana Michele Tafoya na disputa pelo Senado em Minnesota, projeta a CBS News. Ela será a primeira mulher indígena eleita para o Senado dos EUA.",
+      "id": "tarde-2026-11-04-eua-05",
+      "title": "Democratas preparam longa lista de investigações contra o governo Trump",
+      "summary": "Com maioria na Câmara e no Senado, os democratas terão todo o poder investigativo do Congresso, incluindo intimações e depoimentos obrigatórios. O provável novo presidente da Comissão de Supervisão resumiu: \"Arrumem advogados\".",
       "highlights": [
-        "Flanagan, 47 anos, é vice-governadora do estado",
-        "Tafoya é ex-apresentadora esportiva",
-        "Vitória fecha uma das poucas chances de ganho republicano"
+        "Pouca legislação deve virar lei com Trump na Casa Branca",
+        "Caso Epstein está entre os principais alvos",
+        "Robert Garcia deve comandar a Comissão de Supervisão da Câmara"
       ],
-      "body": "A democrata Peggy Flanagan venceu Michele Tafoya na corrida pelo Senado em Minnesota, segundo projeção da CBS News, mantendo a cadeira com o partido depois que a senadora Tina Smith decidiu não buscar a reeleição. Com a vitória, Flanagan, de 47 anos, vice-governadora e ex-deputada estadual, deve se tornar a primeira mulher indígena eleita para o Senado.\n\nFlanagan fez campanha com propostas progressistas como o Medicare for All. Tafoya, de 61 anos, ex-apresentadora esportiva, prometeu restaurar a responsabilização diante dos casos de fraude milionária que abalaram o estado.\n\nA repressão migratória do governo Trump em Minnesota, após a morte de dois cidadãos americanos baleados por agentes federais em Minneapolis em janeiro, pesou sobre a disputa, assim como a guerra com o Irã e as tarifas. A vitória fecha uma das poucas oportunidades de ganho para os republicanos.",
+      "body": "Segundo a NPR, com Trump ainda na Casa Branca, o próximo Congresso dificilmente aprovará grandes leis, mas deve intensificar a fiscalização. Corrupção e falhas de liderança estiveram entre as principais preocupações dos eleitores.\n\nAs novas maiorias darão aos democratas o poder de intimar documentos e obrigar pessoas a depor. O deputado Robert Garcia, da Califórnia, cotado para presidir a Comissão de Supervisão da Câmara, foi direto em comunicado: \"ARRUMEM ADVOGADOS\".\n\nEntre os principais alvos, segundo assessores de comissões, está a forma como o governo lidou com os escândalos ligados ao criminoso sexual Jeffrey Epstein. Os democratas afirmam que muitos documentos liberados após pressão bipartidária foram incompletos.",
+      "category": "eua",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+      "published_at": "2026-11-04T12:38:36-05:00",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7930x4461+0+413/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2F4b%2Ffdb054e64aa0889d47c5d95552ea%2Fgettyimages-2302266084.jpg"
+    },
+    {
+      "id": "tarde-2026-11-04-eua-06",
+      "title": "Klobuchar será a primeira mulher a governar Minnesota",
+      "summary": "A senadora democrata Amy Klobuchar derrotou a republicana Lisa Demuth e vai suceder Tim Walz no governo de Minnesota, segundo projeção da CBS News. A disputa foi marcada por um escândalo de fraude em programas sociais do estado.",
+      "highlights": [
+        "Klobuchar derrotou a presidente da Câmara estadual, Lisa Demuth",
+        "Walz desistiu de buscar um terceiro mandato em janeiro",
+        "Promotores estimam que a fraude pode superar US$ 9 bilhões"
+      ],
+      "body": "Klobuchar entrou na disputa depois que o governador Tim Walz, ex-candidato a vice-presidente, anunciou em janeiro que não buscaria um terceiro mandato inédito, menos de quatro meses após lançar a campanha de reeleição. Walz enfrentava acusações relacionadas a fraudes em programas estaduais, que seu gabinete diz estar combatendo.\n\nDezenas de pessoas já foram condenadas por desviar centenas de milhões de dólares de programas de alimentação, abrigo, saúde e creches, segundo a Associated Press. A CBS News informou que promotores federais estimam que o total pode passar de US$ 9 bilhões.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/minnesota-2026-senate-flanagan-tafoya/",
-      "published_at": "2026-11-04T00:17:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/04/9cf8efb2-5240-43e7-aaea-5e46162608bd/thumbnail/1200x630/98f87e8f7d14ad1889a7e7ac3eab747c/gettyimages-2302750451.jpg"
+      "url": "https://www.cbsnews.com/news/klobuchar-wins-minnesota-governor-race-cbs-news-projects/",
+      "published_at": "2026-11-04T00:12:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/04/002a077e-b8cf-4e0e-84e0-42c248a21440/thumbnail/1200x630/dfda5c22f404070ef4e4ddc5022b4a3c/gettyimages-2303431383.jpg"
     },
     {
-      "id": "meiodia-2026-11-04-eua-05",
-      "title": "Disputa pelo Senado no Mississippi segue indefinida por poucas dezenas de votos",
-      "summary": "A disputa pelo Senado no Mississippi continua sem resultado nesta quarta-feira, com o democrata Scott Colom muito próximo da senadora republicana Cindy Hyde-Smith. Com 96% dos votos apurados, poucas dezenas de votos separavam os dois.",
+      "id": "tarde-2026-11-04-eua-07",
+      "title": "Progressista derrota republicano Tom Barrett em distrito-chave de Michigan",
+      "summary": "O progressista William Lawrence venceu o deputado republicano Tom Barrett no 7º distrito de Michigan, uma das disputas mais acompanhadas do país, segundo projeção da CBS News. Lawrence fez campanha contra o custo de vida e contra data centers.",
       "highlights": [
-        "Trump venceu no Mississippi por 20 pontos em 2024",
-        "Estado não elege democrata ao Senado desde 1982",
-        "Colom diz que os resultados estão a seu favor"
+        "Lawrence é cofundador do Sunrise Movement",
+        "Barrett votou para encerrar a guerra com o Irã sem aval do Congresso",
+        "Distrito fica na região de Lansing"
       ],
-      "body": "A corrida pelo Senado no Mississippi, estado fortemente republicano, seguia indefinida na manhã de quarta-feira, com o democrata Scott Colom fazendo uma disputa surpreendentemente acirrada contra a senadora Cindy Hyde-Smith. Com 96% dos votos apurados, apenas algumas dezenas de votos separavam os candidatos.\n\nHyde-Smith, de 67 anos, está no Senado desde 2018. Colom, de 43 anos, promotor distrital e mississipiano de sétima geração, fez campanha sobre custo de vida e saúde. \"Os resultados estão todos tendendo a nosso favor\", disse ele a apoiadores na madrugada.\n\nTrump venceu no estado por 20 pontos em 2024, e o Mississippi não elege um democrata ao Senado desde 1982. Junto com o Alasca, a disputa ainda em aberto deixa indefinido o tamanho da nova maioria democrata.",
+      "body": "Barrett, eleito em 2024 ao virar o distrito para os republicanos, foi um dos primeiros deputados do partido a romper com Trump ao votar a favor de resoluções para encerrar a guerra com o Irã. Mesmo assim, fez campanha ao lado do presidente no verão e tinha seu apoio.\n\nLawrence, ativista climático e ex-integrante dos Socialistas Democráticos da América (DSA), venceu as primárias democratas contra dois moderados que dividiram os votos. Ele disse ter deixado a filiação ao DSA expirar antes das primárias e centrou a campanha no custo de vida e na oposição a data centers.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
-      "published_at": "2026-11-04T10:02:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/fcb281c4-4540-4310-a779-29fcb2008eff/thumbnail/1200x630g2/e523bab69f2674145699bd6d8f50cab5/colom-hyde-smith.jpg"
+      "url": "https://www.cbsnews.com/news/michigan-7th-district-results-tom-barrett-william-lawrence/",
+      "published_at": "2026-11-04T14:47:13-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/03/1631566c-aa33-469d-ae2d-4ac804e9c2b7/thumbnail/1200x630/d65537cbea5c13bd85413f8cf12b19a7/gettyimages-2301744633.jpg"
     },
     {
-      "id": "meiodia-2026-11-04-eua-06",
-      "title": "Resultado no Alasca pode levar semanas, com dois candidatos chamados Dan Sullivan",
-      "summary": "A disputa pelo Senado no Alasca entre o republicano Dan Sullivan e a democrata Mary Peltola segue indefinida. O sistema de voto ranqueado pode estender a apuração por semanas.",
+      "id": "tarde-2026-11-04-eua-08",
+      "title": "Último republicano que votou pelo impeachment de Trump perde reeleição",
+      "summary": "O deputado republicano David Valadao perdeu no 22º distrito da Califórnia para o democrata progressista Randy Villegas, segundo projeção da CBS News. Com isso, todos os republicanos que votaram pelo impeachment de Trump após o 6 de janeiro perderam ou se aposentaram.",
       "highlights": [
-        "Cerca de três quartos dos votos apurados",
-        "Um candidato independente também se chama Daniel J. Sullivan",
-        "Contagem ranqueada só ocorre 15 dias após a eleição"
+        "Valadao foi um dos 10 republicanos a votar pelo impeachment",
+        "Villegas superou um moderado apoiado pela cúpula democrata",
+        "Distrito fica no Vale Central da Califórnia"
       ],
-      "body": "A corrida pelo Senado no Alasca continuava sem resultado na quarta-feira. Concorrem o senador republicano Dan Sullivan e a democrata Mary Peltola, além do professor aposentado e independente Daniel J. Sullivan e do republicano Gerald Heikes. Com cerca de três quartos dos votos apurados, a disputa segue empatada, segundo estimativas da CBS News.\n\nO Alasca usa voto ranqueado: se nenhum candidato tiver mais de 50% das primeiras preferências, a contagem vai para uma segunda rodada, que só acontece na última apuração de cédulas, 15 dias após a eleição.\n\n\"Não vai ser em horas nem em dias, vai ser em semanas\", disse Peltola. Sullivan também afirmou aos apoiadores que provavelmente terão \"algumas longas semanas\" pela frente.",
+      "body": "Valadao foi eleito pela primeira vez em 2012, perdeu em 2018 e recuperou a cadeira em 2020. Foi um dos 10 deputados republicanos que votaram pelo impeachment de Trump pela invasão do Capitólio em 6 de janeiro de 2021; só dois continuavam no Congresso — ele e Dan Newhouse, de Washington, que vai se aposentar.\n\nVillegas, progressista, superou um democrata moderado nas primárias apartidárias de dois turnos, numa derrota constrangedora para o establishment do partido, que interveio na disputa para fortalecer o moderado.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/senate-race-unresolved-in-alaska-as-candidates-expect-weekslong-process/",
-      "published_at": "2026-11-04T10:32:00-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/04/31d11b80-cc53-4705-8036-5ca06b4ca5a7/thumbnail/1200x630/85de20397d29e8846ee9c9aeb092cacf/sullivan-peltola2.jpg"
+      "url": "https://www.cbsnews.com/news/california-22nd-district-results-david-valadao-randy-villegas/",
+      "published_at": "2026-11-04T14:41:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/03/1b542901-9907-4061-b55a-9a68ffe42d3d/thumbnail/1200x630/ea230922e01943d5746dd68a6c6e50c8/gettyimages-2303182946.jpg"
     },
     {
-      "id": "meiodia-2026-11-04-eua-07",
-      "title": "Pesquisas de boca de urna mostram como os democratas venceram",
-      "summary": "As pesquisas de boca de urna da CBS News indicam que a frustração com a economia ajudou os democratas a reconquistar grupos que Trump havia atraído em 2024. A eleição foi vista como um referendo sobre o presidente.",
+      "id": "tarde-2026-11-04-eua-09",
+      "title": "Democratas tomam a Câmara do Texas e ampliam poder nos estados",
+      "summary": "Os democratas conquistaram o controle da Câmara estadual do Texas, em poder dos republicanos desde 2002, em meio a vitórias históricas para governador e Senado. O partido passou a ter controle total em pelo menos cinco estados onde antes dividia o poder.",
       "highlights": [
-        "Maioria disse que tarifas prejudicaram a economia",
-        "Jovens, latinos e mulheres voltaram aos democratas",
-        "Mulheres brancas apoiaram democratas por pequena margem"
+        "Republicanos controlavam a Câmara do Texas desde 2002",
+        "Controle total em pelo menos mais cinco estados",
+        "Pressão para entregar resultados contra o custo de vida"
       ],
-      "body": "Os mesmos temas econômicos que levaram Trump à vitória em 2024 derrubaram seu partido em 2026, segundo as pesquisas de boca de urna da CBS News. Quem avaliou a economia como ruim votou nos democratas para a Câmara, e foi a segunda eleição seguida em que a maioria disse que a inflação era um sacrifício.\n\nNacionalmente, a maioria afirmou que as tarifas prejudicaram a economia, que a política de imigração do governo foi longe demais e que a ação militar contra o Irã foi um erro. Jovens, latinos e mulheres, grupos em que Trump avançou em 2024, apoiaram majoritariamente os democratas; os homens dividiram seus votos e as mulheres brancas apoiaram os democratas por pequena margem.\n\nO eleitorado, porém, se mostrou pessimista: pouco mais da metade tinha visão desfavorável do Partido Democrata, embora tenha dado ao partido vantagem sobre os republicanos na economia.",
+      "body": "A vitória no Texas fez parte de uma série de ganhos amplos dos democratas nos governos estaduais, com a conquista de várias assembleias e mudanças no equilíbrio de poder em estados-pêndulo e tradicionalmente republicanos, segundo a Associated Press.\n\nOs resultados aumentam a pressão para que o partido responda a um eleitorado irritado com o custo de vida, os preços da gasolina, a inflação e a falta de moradia acessível. Governos estaduais definem impostos, direitos ao aborto, educação, data centers e uso de inteligência artificial e de câmeras de vigilância. \"Agora é hora de entregar\", disse o presidente do Partido Democrata de Wisconsin, Devin Remiker.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/cbs-news-exit-polls-2026-midterms-democrats/",
-      "published_at": "2026-11-04T10:01:00-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/04/91b6269b-f7f4-42e3-ae3a-8c09b829d54f/thumbnail/1200x630g4/68b0daa595cfa6f646e242d20fa16c43/gettyimages-2302952754.jpg"
+      "source": "Associated Press (via Local 10)",
+      "url": "https://www.local10.com/news/politics/2026/11/04/democrats-sweeping-state-government-gains-will-shift-power-and-bring-pressure-to-deliver-results/",
+      "published_at": "2026-11-04T14:44:43-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/SOP4KWMQJNRHMQKDY37KU64Q5E.jpg?auth=0a5b12763ce86f9796ebd0489fe30e3e957aac9db9fb7059c1ade1ae2a5f6b84&width=700"
     },
     {
-      "id": "meiodia-2026-11-04-eua-08",
-      "title": "CVS Health vai separar rede de farmácias do negócio de seguros",
-      "summary": "A CVS Health anunciou que vai separar suas 9.000 farmácias em uma empresa chamada CVS Pharmacy. A CVS Health ficará com a seguradora Aetna e a gestora de benefícios Caremark.",
+      "id": "tarde-2026-11-04-eua-10",
+      "title": "Tiroteio em complexo do Citibank em Tampa deixa dois mortos",
+      "summary": "Duas pessoas morreram, incluindo o suspeito, após relatos de tiros nesta quarta-feira no grande complexo do Citibank na região de Tampa, na Flórida. O xerife disse acreditar que foi um ataque direcionado.",
       "highlights": [
-        "Conglomerado é avaliado em US$ 117 bilhões",
-        "Faturou mais de US$ 400 bilhões no ano passado",
-        "Pressão de reguladores contra gigantes da saúde motivou o debate"
+        "Mais de 360 agentes foram mobilizados",
+        "Funcionários foram retirados em longas filas dos prédios",
+        "Citigroup diz cooperar com as autoridades"
       ],
-      "body": "A CVS Health, maior conglomerado de saúde dos EUA, avaliado em US$ 117 bilhões, anunciou nesta quarta-feira planos de separar sua rede de farmácias dos negócios de seguro e benefícios. As 9.000 farmácias, clínicas e o serviço de remédios pelo correio formarão a CVS Pharmacy.\n\nA outra empresa manterá o nome CVS Health e reunirá a seguradora Aetna e a gestora de benefícios farmacêuticos Caremark, além de serviços de atendimento domiciliar e atenção primária a idosos. O presidente-executivo David Joyner comandará essa parte.\n\nSegundo o Guardian, a companhia vem sendo pressionada por legisladores e reguladores preocupados com o domínio de gigantes como CVS, UnitedHealth e Cigna, que controlam cerca de 80% do mercado. Arkansas e Tennessee aprovaram leis para impedir que essas empresas administrem benefícios e operem farmácias ao mesmo tempo.",
+      "body": "O Gabinete do Xerife do Condado de Hillsborough informou que respondeu a uma \"ameaça ativa\" e fez varredura nos prédios. Imagens de TV mostraram longas filas de funcionários deixando os edifícios. Ainda não se sabia se havia outros feridos.\n\n\"Acreditamos que este é um incidente direcionado\", publicou o xerife Chad Chronister no X. O campus do Citibank no subúrbio de Tampa tem quatro prédios de três andares que abrigam milhares de funcionários; policiais encontraram pessoas abrigadas em salas e armários trancados e as escoltaram para fora.",
       "category": "eua",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
-      "published_at": "2026-11-04T10:20:24-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/1ebcef503646c218494ed04a856037e72199a84f/447_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95328f1f5620f67d8009354c33deddbc"
+      "source": "Associated Press (via Local 10)",
+      "url": "https://www.local10.com/news/florida/2026/11/04/florida-sheriff-says-2-dead-including-suspect-as-witnesses-report-shooting-at-tampa-office-complex/",
+      "published_at": "2026-11-04T14:55:56-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/XLSBNYYWAIY77ZIDQILLKBCCT4.jpg?auth=84a17dd82133b4a60baa70c525bbdf4571e852900453702734d91187b3de051b&width=700"
     },
     {
-      "id": "meiodia-2026-11-04-eua-09",
-      "title": "Democratas alertam autoridades de Trump a preservar documentos",
-      "summary": "Deputados democratas enviaram carta a chefes de departamentos do governo Trump pedindo a preservação de registros conforme a lei federal, sob risco de punição criminal. O gesto indica que o partido pretende investigar o governo.",
+      "id": "tarde-2026-11-04-mundo-01",
+      "title": "OMS aprova testes de duas novas vacinas contra o ebola",
+      "summary": "A Organização Mundial da Saúde aprovou ensaios clínicos de duas vacinas desenvolvidas especificamente contra a cepa Bundibugyo do ebola. O surto, o maior da história da República Democrática do Congo, já matou mais de 5.300 pessoas desde maio.",
       "highlights": [
-        "Carta assinada por Bobby Scott foi enviada a 10 órgãos",
-        "Prazo para confirmação vai até 18 de novembro",
-        "Destruição de documentos pode render até três anos de prisão"
+        "Cepa Bundibugyo tem letalidade de cerca de 50%",
+        "Resultados dos testes são esperados no início de 2027",
+        "Vacina foi desenvolvida por Oxford, Serum Institute e Moderna"
       ],
-      "body": "Um grupo de parlamentares democratas pediu a líderes do governo Trump que preservem documentos de acordo com a Lei de Registros Federais, sob risco de penalidades criminais, depois que os eleitores deram ao partido o controle do Congresso, informou o Guardian com exclusividade.\n\nNa carta enviada na manhã de quarta-feira, Bobby Scott, principal democrata do comitê de educação e trabalho da Câmara e cotado para presidi-lo no ano que vem, pediu garantia por escrito até 18 de novembro de que os documentos foram preservados. Ele advertiu que quem ocultar ou destruir registros pode ser multado ou preso por até três anos.\n\nA carta foi enviada a dez departamentos e agências, incluindo os de Educação, Agricultura e Trabalho, o Departamento de Saúde e o Conselho Nacional de Relações Trabalhistas. Com as novas maiorias, os democratas terão poder de intimação para investigar o governo.",
-      "category": "eua",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-warn-trump-officials-preserve-records",
-      "published_at": "2026-11-04T10:00:37-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/3cfdc54c1d52a73e69c838d45553fcd5e9fb5274/467_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b14b4ef564ca3b8dabc7f38c49e2524a"
-    },
-    {
-      "id": "meiodia-2026-11-04-eua-10",
-      "title": "Keisha Lance Bottoms conta como soube que foi eleita governadora da Geórgia",
-      "summary": "A ex-prefeita de Atlanta Keisha Lance Bottoms será a primeira mulher negra a governar um estado americano. Ela disse à CBS que soube da vitória quando o marido a cutucou enquanto escrevia o discurso.",
-      "highlights": [
-        "Será a primeira governadora negra da história dos EUA",
-        "Vencia Rick Jackson por cerca de 360 mil votos",
-        "Prioridades: custo de vida, Medicaid e educação"
-      ],
-      "body": "Quando assumir o governo da Geórgia em janeiro, Keisha Lance Bottoms será a primeira mulher negra a governar um estado nos EUA. Ela contou ao programa CBS Mornings que estava com fones de ouvido trabalhando no discurso quando o marido a cutucou para avisar: \"Anunciaram\".\n\nCom 99% dos votos apurados na manhã de quarta-feira, Bottoms vencia o republicano Rick Jackson por cerca de 360 mil votos. Ela sucederá o republicano Brian Kemp, no cargo desde 2019.\n\nBottoms disse que suas prioridades são o custo de vida e a educação, incluindo permitir que governos locais suspendam o imposto sobre alimentos, expandir o Medicaid e financiar integralmente a pré-escola. Ela também será a primeira governadora da Geórgia e uma das 17 mulheres em governos estaduais, um recorde.",
-      "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/keisha-lance-bottoms-georgia-governor/",
-      "published_at": "2026-11-04T09:35:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/fc1d7390-28d5-47f3-99e3-ababdecda384/thumbnail/1200x630/67b019eec7108d1c85686f06e1b0f842/1793800692624.png"
-    },
-    {
-      "id": "meiodia-2026-11-04-mundo-01",
-      "title": "Zelensky condecora Melania Trump após cessar-fogo em Oleshky",
-      "summary": "O presidente ucraniano Volodymyr Zelensky concedeu a Melania Trump a mais alta condecoração do país para mulheres. A homenagem ocorre após um cessar-fogo que permitiu retirar centenas de pessoas da cidade ocupada de Oleshky.",
-      "highlights": [
-        "Melania recebeu a Ordem da Princesa Olga, 1ª Classe",
-        "Delegações russa e ucraniana vão à Casa Branca nesta quinta",
-        "Casa Branca diz que Melania intermediou o cessar-fogo"
-      ],
-      "body": "O presidente da Ucrânia, Volodymyr Zelensky, concedeu à primeira-dama dos EUA, Melania Trump, a Ordem da Princesa Olga, 1ª Classe, a mais alta honraria do país para mulheres, por sua \"significativa contribuição pessoal ao apoio humanitário à Ucrânia\", segundo decreto presidencial.\n\nA condecoração vem após o fim de um cessar-fogo na região de Kherson, no sul, que permitiu a retirada de várias centenas de pessoas da cidade de Oleshky, ocupada pela Rússia. A Casa Branca afirmou que Melania \"iniciou de forma independente o contato entre as duas nações em guerra\" e garantiu a trégua.\n\nDelegações da Rússia e da Ucrânia, incluindo os ombudsmen de direitos humanos Dmytro Lubinets e Yana Lantratova, o deputado ucraniano Davyd Arakhamia e o russo Kirill Dmitriev, devem se reunir na Casa Branca nesta quinta-feira a convite de Melania, segundo a BBC.",
-      "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no",
-      "published_at": "2026-11-04T10:01:10-05:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "meiodia-2026-11-04-mundo-02",
-      "title": "Hungria abre ao público arquivos da polícia secreta comunista",
-      "summary": "A Hungria abriu ao público os arquivos da polícia secreta da era comunista, cumprindo promessa de campanha do primeiro-ministro Péter Magyar. Críticos dizem que a medida chega tarde e pode causar divisões.",
-      "highlights": [
-        "Data lembra a invasão soviética de 4 de novembro de 1956",
-        "Governos anteriores cogitaram, mas recusaram a abertura",
-        "Muitos arquivos foram destruídos em 1988-89"
-      ],
-      "body": "A Hungria abriu ao público os arquivos da polícia secreta comunista, em uma medida polêmica que o governo diz que ajudará a sociedade a curar os traumas de 45 anos de regime comunista. A data é simbólica: em 4 de novembro de 1956, tanques soviéticos entraram em Budapeste para esmagar a revolução húngara.\n\n\"Peço que todos tratem esta publicação há muito esperada com dignidade e humanidade\", disse o primeiro-ministro Péter Magyar, que fez da abertura uma promessa central da campanha que o levou à vitória esmagadora em abril. \"Muitas famílias vão se deparar com informações difíceis.\"\n\nCríticos afirmam que a abertura chega tarde demais, que os arquivos estão incompletos e que pode causar sofrimento desnecessário às famílias. Desde 1998 era possível solicitar a própria ficha, mas muitos nomes eram tarjados, e muitos documentos foram triturados quando o Partido Comunista perdeu o poder em 1988-89.",
-      "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
-      "published_at": "2026-11-04T10:28:18-05:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"
-    },
-    {
-      "id": "meiodia-2026-11-04-mundo-03",
-      "title": "Objetos cortantes são achados em doces de Halloween em três países europeus",
-      "summary": "Agulhas, pregos e outros objetos metálicos foram encontrados em doces distribuídos no Halloween na Alemanha, Áustria e Hungria. A polícia pediu que os pais verifiquem o que os filhos receberam.",
-      "highlights": [
-        "Menina de 9 anos feriu a língua com alfinete de 5 cm na Alemanha",
-        "Hungria abriu investigação criminal",
-        "Ministro austríaco chamou casos de \"covardes e maliciosos\""
-      ],
-      "body": "Agulhas e outros objetos metálicos cortantes foram encontrados em doces distribuídos no Halloween na Alemanha, na Áustria e na Hungria, levando a polícia a alertar os pais. Em Bremervörde, a oeste de Hamburgo, uma menina de nove anos machucou a língua ao comer uma barra de chocolate que tinha um alfinete de 5 cm.\n\nNa Hungria, a polícia abriu investigação criminal depois que pregos, parafusos e pedaços de arame foram achados em doces dados a crianças em Gyömrő, a leste de Budapeste. Na Áustria, há investigações em quatro estados, e uma menina de 10 anos sofreu um ferimento leve na boca.\n\nO ministro do Interior austríaco, Gerhard Karner, condenou os casos como \"covardes, maliciosos e, em alguns casos, potencialmente fatais\". Na Baviera, a polícia disse que os números iniciais indicam um aumento significativo de incidentes em relação aos dois anos anteriores.",
-      "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
-      "published_at": "2026-11-04T07:34:33-05:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b20/live/14aead80-d83e-11f1-9a87-07a62b4549a2.jpg"
-    },
-    {
-      "id": "meiodia-2026-11-04-mundo-04",
-      "title": "Hackers atacam bancos de sangue da França em nova onda de ciberataques",
-      "summary": "O serviço nacional de sangue da França disse que hackers acessaram sistemas de controle e elevaram a temperatura de três câmaras frias com hemoderivados. Alarmes permitiram intervir antes que os produtos fossem comprometidos.",
-      "highlights": [
-        "Ataque ocorreu na madrugada de segunda-feira",
-        "Geladeiras de supermercados em quase uma dúzia de países chegaram a 50 °C",
-        "UE discute resposta coletiva; ninguém assumiu a autoria"
-      ],
-      "body": "O serviço francês de sangue (EFS) informou que hackers acessaram sistemas de controle e elevaram a \"níveis muito altos\" os limites de temperatura e degelo de três câmaras frias que armazenam hemoderivados. Os alarmes permitiram que técnicos interviessem antes que os produtos fossem comprometidos. O EFS abastece mais de 1.900 hospitais e atende mais de um milhão de pacientes por ano.\n\nO ataque aconteceu em meio a uma onda de invasões a geladeiras e freezers de supermercados em quase uma dúzia de países europeus, com temperaturas de até 50 °C e prejuízos de milhões de euros em alimentos. Varejistas da Itália, Alemanha, Romênia e Reino Unido foram atingidos na terça, depois de Bélgica, Estônia, Irlanda, Finlândia, Luxemburgo, Holanda e Suécia.\n\nUm porta-voz da UE disse que as agências do bloco discutem com autoridades nacionais uma resposta coletiva. Não há motivo conhecido para os ataques, e ninguém assumiu a autoria.",
-      "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-      "published_at": "2026-11-04T08:22:28-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6f1ac941e409afef1ba38073e64d74a"
-    },
-    {
-      "id": "meiodia-2026-11-04-mundo-05",
-      "title": "Mãe e filha morrem em suspeita de ataque de urso-pardo no Canadá",
-      "summary": "Uma mãe e sua filha de 20 anos morreram em um suposto ataque de urso-pardo perto de Bella Coola, na Colúmbia Britânica. As duas haviam desaparecido em 1º de novembro após sair para uma caminhada curta.",
-      "highlights": [
-        "Vítimas: Jennifer Balcarras e Selah Reed",
-        "Corpos foram achados na trilha Snooka West",
-        "Autoridades tentam capturar os ursos envolvidos"
-      ],
-      "body": "Uma mãe e sua filha morreram em um suspeito ataque de urso-pardo perto de Bella Coola, na Colúmbia Britânica, segundo familiares e o Serviço de Conservação da província. As vítimas foram identificadas como Jennifer Balcarras e a filha, Selah Reed, de 20 anos, desaparecidas desde 1º de novembro, quando não voltaram de uma caminhada.\n\nO corpo de Balcarras foi encontrado na área da trilha Snooka West na segunda-feira, e os restos de Reed, na terça. Não está claro quantos ursos estavam envolvidos; os animais capturados serão avaliados e, se ligados ao ataque, sacrificados conforme as regras provinciais.\n\nAs autoridades pediram que o público evite a trilha. A família abriu uma vaquinha para cobrir o funeral; Balcarras deixa três filhos adultos e um neto.",
-      "category": "mundo",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/grizzly-bear-attack-british-columbia-mother-daughter/",
-      "published_at": "2026-11-04T10:27:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/d8277dcd-5132-49b5-b35c-a961c08810ce/thumbnail/1200x630/cc89bc3ba54bf72bb06c69c26957878f/gettyimages-973779572.jpg"
-    },
-    {
-      "id": "meiodia-2026-11-04-mundo-06",
-      "title": "Forças do governo do Iêmen dizem controlar montanhas estratégicas de al-Jawf",
-      "summary": "Forças do governo internacionalmente reconhecido do Iêmen afirmam ter avançado nas montanhas de al-Dahida, na província de al-Jawf, contra os houthis. Um míssil houthi matou oito pessoas em um campo de treinamento militar em al-Dhalea.",
-      "highlights": [
-        "Ofensiva \"Operação Aurora do Iêmen\" entra no segundo mês",
-        "Caças e drones apoiaram o avanço, diz o exército",
-        "Combates se intensificam em al-Dhalea, Lahij e Taiz"
-      ],
-      "body": "As forças do governo internacionalmente reconhecido do Iêmen afirmam ter avançado ainda mais na cordilheira de al-Dahida, na província de al-Jawf, um dia após anunciarem o controle das montanhas em sua ofensiva contra os houthis. Segundo comunicado, tropas apoiadas por caças e drones invadiram fortificações e quartéis houthis e apreenderam armas.\n\nOs ganhos são os mais recentes da Operação Aurora do Iêmen, que está no segundo mês. Rashad al-Alimi, chefe do Conselho de Liderança Presidencial, disse que a operação continuará até restaurar a autoridade do governo sobre todo o país.\n\nEm paralelo, um míssil balístico houthi atingiu um campo de treinamento militar em al-Dhalea, matando oito pessoas e ferindo mais de 15, segundo uma fonte militar ouvida pela Al Jazeera. Não houve balanço oficial.",
+      "body": "Grupos de especialistas da OMS recomendaram na segunda-feira a inclusão de dois ensaios de vacinas voltadas à cepa Bundibugyo, que não tem vacina nem tratamento específico. Segundo o diretor-geral Tedros Adhanom Ghebreyesus, um teste iniciado no mês passado usava a vacina Ervebo, aprovada para a cepa Zaire, mas não projetada para a Bundibugyo.\n\nO Instituto Nacional de Pesquisa Biomédica da RDC lidera o estudo, com apoio da OMS e de parceiros. \"Vacinas são ferramentas poderosas, mas não substituem as medidas comprovadas que podem salvar vidas agora\", disse Tedros, citando atendimento precoce, rastreamento de contatos, isolamento e enterros seguros.",
       "category": "mundo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range",
-      "published_at": "2026-11-04T09:08:18-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/PHOTO-2026-11-04-15-05-22-1793795184.jpg?resize=1200%2C675"
+      "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+      "published_at": "2026-11-04T14:22:09-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T194805Z_1852803134_RC2F4OAT0BYO_RTRMADP_3_HEALTH-EBOLA-CONGO-1792981072.jpg?resize=1920%2C1440"
     },
     {
-      "id": "meiodia-2026-11-04-mundo-07",
-      "title": "BMW emite novo alerta de lucro e cita custo de 8 mil demissões",
-      "summary": "A BMW cortou sua previsão de margem de lucro para entre -0,5% e 0,5% neste ano, no segundo alerta em um ano. A montadora atribui a revisão aos custos de reestruturação diante da concorrência chinesa.",
+      "id": "tarde-2026-11-04-mundo-02",
+      "title": "Profissional de saúde britânico com ebola é retirado do Congo",
+      "summary": "Um profissional de saúde britânico que testou positivo para ebola está sendo levado da República Democrática do Congo para o Reino Unido. É o primeiro caso de um britânico infectado no surto atual.",
       "highlights": [
-        "Lucro antes de impostos caiu 11% no 3º trimestre, para € 2,1 bi",
-        "Vendas na China recuaram 22% em nove meses",
-        "Plano prevê 8.000 cortes de vagas na Alemanha"
+        "Paciente está em condição estável",
+        "Será levado a uma unidade de doenças de \"alta consequência\"",
+        "Governo diz que o risco ao público britânico segue baixo"
       ],
-      "body": "A montadora alemã BMW emitiu seu segundo alerta de lucro em um ano, culpando os custos de um programa de reestruturação que inclui 8.000 cortes de empregos na Alemanha diante da concorrência chinesa. A empresa reduziu a margem de lucro prevista para este ano para entre -0,5% e 0,5%, ante a expectativa inicial de 4% a 6%.\n\nO lucro antes de impostos caiu 11% no terceiro trimestre, para € 2,1 bilhões, e a receita recuou 6%, para € 30,4 bilhões. As vendas na China caíram 22% nos nove primeiros meses do ano.\n\n\"Os desenvolvimentos atuais em nosso setor exigem decisão e implementação rápida\", disse o presidente-executivo Milan Nedeljković. A BMW segue a Mercedes-Benz, que cortou sua previsão na semana passada, e a Volkswagen em reestruturações dolorosas.",
+      "body": "\"Um cidadão britânico atualmente na RD Congo testou positivo para ebola\", disse um porta-voz do governo do Reino Unido nesta quarta-feira, acrescentando que os procedimentos estabelecidos foram ativados e que o risco para o público continua baixo.\n\nSegundo documento oficial visto pela Reuters, o paciente, cuja identidade não foi divulgada, deve chegar ao Reino Unido na quarta ou na quinta-feira e ser transferido em ambulância especial para uma unidade de doenças infecciosas de alta consequência. Ele foi enviado ao Congo por uma organização humanitária para ajudar no combate ao surto, o segundo maior já registrado.",
       "category": "mundo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
-      "published_at": "2026-11-04T06:58:19-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/00aa8230ea7928211f7c36c1f95619ad93686d48/862_635_3653_2925/master/3653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08cd4ce87c9be386f2811da5fb43883c"
+      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+      "published_at": "2026-11-04T13:18:37-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/22d88a4e5887695fa17d85593fd7c9e807599182/872_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdc32f9f8280811c60ea7a1f55880905"
     },
     {
-      "id": "meiodia-2026-11-04-mundo-08",
-      "title": "Navio de cruzeiro americano deixa o Camboja sem passageiros",
-      "summary": "O MV Odyssey, que obrigou seus 203 passageiros a desembarcar no Camboja após suspender as operações, partiu apenas com a tripulação. A empresa culpou a alta do combustível causada pela guerra no Irã.",
+      "id": "tarde-2026-11-04-mundo-03",
+      "title": "Vídeo mostra momentos entre dois bombardeios russos que mataram 40",
+      "summary": "A polícia ucraniana divulgou imagens de uma câmera corporal que mostram moradores de Komyshuvakha indo para um abrigo minutos antes de ele ser atingido. Os ataques russos com bombas planadoras mataram pelo menos 40 pessoas em um centro de ajuda e em um abrigo.",
       "highlights": [
-        "Navio pertence à Villa Vie Residences, da Flórida",
-        "Embarcação está sob controle do credor",
-        "Alguns passageiros pagaram mais de US$ 300 mil por cabine vitalícia"
+        "Câmera estava em um policial morto no ataque",
+        "Nove bombas planadoras, algumas de 3.000 kg, atingiram a vila",
+        "Zelensky diz que mais de 30 podem estar sob os escombros"
       ],
-      "body": "O navio de cruzeiro americano MV Odyssey, que forçou todos os passageiros a desembarcar no Camboja após suspender suas operações, deixou o país apenas com a tripulação, informaram autoridades cambojanas. Da empresa Villa Vie Residences, sediada na Flórida, o navio fazia uma volta ao mundo de três anos e interrompeu a viagem pela forte alta do combustível.\n\nEm 28 de outubro, os 203 passageiros, a maioria americanos, receberam ordem de desembarcar em poucas horas no porto de Sihanoukville. Fontes disseram à CBS News que o navio, agora sob controle do credor, será levado a Singapura, onde pode ir a leilão. O fundador Mike Petterson disse esperar reestruturar a empresa em 30 a 90 dias.\n\nVários passageiros pagaram mais de US$ 300 mil por uma suíte para toda a vida útil do navio. A empresa diz que o custo mensal de combustível por cabine, antes de US$ 1.800, chegou a US$ 6.000–8.000 em partes da Ásia por causa da guerra no Irã.",
+      "body": "O vídeo mostra a devastação após o primeiro ataque, na segunda-feira, à vila na região de Zaporizhzhia. Um oficial militar alerta pelo rádio sobre novas bombas planadoras, e um policial grita aos moradores: \"Rápido, para o abrigo!\". Pouco depois, ouve-se uma explosão e surgem chamas no abrigo, que ficava pelo menos dois andares abaixo do solo.\n\nSegundo a Ucrânia, o abrigo ficava perto de uma escola usada para distribuir ajuda humanitária. As buscas entraram no terceiro dia, e o presidente Volodymyr Zelensky disse que mais de 30 pessoas ainda podem estar sob os escombros. A BBC Verify confirmou que o vídeo foi gravado no mesmo local de outras imagens do ataque.",
       "category": "mundo",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-cruise-ship-odyssey-leaves-cambodia-no-passengers/",
-      "published_at": "2026-11-04T06:56:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/04/05594c3e-94a1-4a1a-bbaf-0a20c02a987a/thumbnail/1200x630/2a93460e451755ba326f25fa70f81da4/2026-11-04t042705z-810558905-rc2jgoa4um2q-rtrmadp-3-cambodia-cruise.jpg"
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+      "published_at": "2026-11-04T12:45:58-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png"
     },
     {
-      "id": "meiodia-2026-11-04-mundo-09",
-      "title": "ONU critica plano britânico que faz refugiados esperarem até 30 anos",
-      "summary": "A agência da ONU para refugiados disse que o plano do Reino Unido de exigir até 30 anos de espera para residência permanente \"levanta preocupações significativas\". A regra atinge quem chega por vias irregulares, como barcos.",
+      "id": "tarde-2026-11-04-mundo-04",
+      "title": "Drones ucranianos matam três em Belgorod; Rússia ataca energia em nove regiões",
+      "summary": "Ataques de drones ucranianos mataram três pessoas na região russa de Belgorod, enquanto bombardeios russos danificaram instalações de energia em nove regiões da Ucrânia. A Crimeia ocupada também teve cortes de luz.",
       "highlights": [
-        "Plano foi apresentado pela ministra Shabana Mahmood",
-        "Cuidadores poderão pedir residência após cinco anos",
-        "Chegada em pequenos barcos tem penalidade de 10 anos"
+        "Rússia confirma ataque a duas usinas nas regiões de Kiev e Zhytomyr",
+        "Moscou diz ter derrubado 700 drones ucranianos",
+        "Crimeia adota cronogramas temporários de corte de energia"
       ],
-      "body": "O Acnur, agência da ONU para refugiados, afirmou que o plano do governo britânico de fazer refugiados esperarem até 30 anos para obter permissão de residência permanente \"levanta preocupações significativas\" e é \"provavelmente prejudicial\".\n\nA estratégia foi apresentada nesta semana pela ministra do Interior, Shabana Mahmood, que suavizou partes de seu plano migratório, criando exceção para cuidadores, que poderão pedir residência após cinco anos. Mas manteve a regra de até 30 anos para quem chegou por vias irregulares, com penalidade de 10 anos para quem cruza em pequenos barcos ou escondido em caminhões.\n\n\"Refugiados não são migrantes: eles fugiram de seus países porque não podem contar com sua proteção nem voltar em segurança\", disse o Acnur. A Helen Bamber Foundation também se disse \"profundamente alarmada\" com o anúncio.",
+      "body": "Autoridades locais de Belgorod, que faz fronteira com a Ucrânia, anunciaram as três mortes nesta quarta-feira. Na Ucrânia, Zelensky disse que os ataques noturnos danificaram usinas e subestações em nove regiões, provocando cortes emergenciais em muitas cidades. Kiev ficou horas sem luz e água, e foram montados centros de emergência com chá quente e pontos para carregar aparelhos.\n\nO Ministério da Energia da Rússia afirmou que ataques ucranianos atingiram infraestrutura energética e que cronogramas temporários de interrupção estavam em vigor na Crimeia, península anexada em 2014 e com cerca de 2,5 milhões de habitantes.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region",
+      "published_at": "2026-11-04T11:20:23-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeb3a3b-1793800763.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "tarde-2026-11-04-mundo-05",
+      "title": "Herzog inicia consultas para formar governo em Israel",
+      "summary": "O presidente israelense Isaac Herzog começou a consultar os partidos sobre quem deve tentar formar uma coalizão, depois de receber os resultados oficiais da eleição de 27 de outubro. Nenhum bloco conquistou maioria no Knesset.",
+      "highlights": [
+        "Bloco de Netanyahu tem 53 das 120 cadeiras",
+        "Bloco de Eisenkot tem 48; partidos árabes, 19",
+        "Comitê eleitoral não viu indícios de irregularidades"
+      ],
+      "body": "Herzog disse aos líderes partidários que \"nem todo compromisso e promessa pode ser cumprido\" se quiserem evitar uma nova eleição. Antes, autoridades eleitorais afirmaram não haver evidência de irregularidades e que as alegações sem provas do campo de Netanyahu de que partidos árabes estariam \"roubando\" a eleição não justificavam atrasar a certificação.\n\nO Likud de Netanyahu e seus aliados de extrema direita e ultraortodoxos ficaram com 53 cadeiras; o partido centrista Yashar, de Gadi Eisenkot, e outras três legendas de oposição, com 48. Duas alianças árabes conquistaram juntas 19 cadeiras, um número sem precedentes, o que as torna potenciais fiéis da balança. O Shin Bet investiga denúncias de interferência estrangeira.",
+      "category": "mundo",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+      "published_at": "2026-11-04T10:45:45-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "tarde-2026-11-04-mundo-06",
+      "title": "Canadá comemora derrota republicana, mas alívio nas tarifas não é imediato",
+      "summary": "Muitos no Canadá torceram pela vitória democrata, vista em parte como rejeição às tarifas de Trump contra aliados comerciais. O premiê de Ontário, Doug Ford, disse que estava \"dando cambalhotas na rua\".",
+      "highlights": [
+        "Ford chamou o resultado de \"uma vitória para o Canadá\"",
+        "Cerca de 75% dos americanos acham que tarifas aumentaram preços",
+        "Tarifas pesaram nas disputas do Maine e de Michigan"
+      ],
+      "body": "Segundo a BBC, o resultado dificilmente trará alívio rápido das tarifas, mas há expectativa de que a mudança política crie um ambiente mais favorável para Ottawa negociar, agora que as conversas comerciais foram retomadas. Uma pesquisa do Cato Institute em setembro indicou que cerca de 75% dos americanos acreditam que as tarifas elevaram os preços.\n\nNo Maine, a senadora republicana Susan Collins entrou em choque com a Casa Branca por causa das tarifas e conseguiu retirar algumas que afetavam o estado, como sobre sal para estradas e algas, mas acabou derrotada pelo democrata Troy Jackson.",
+      "category": "mundo",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
+      "published_at": "2026-11-04T12:02:44-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "tarde-2026-11-04-mundo-07",
+      "title": "Milhares de estudantes protestam na Dinamarca contra corte de auxílio",
+      "summary": "Até 13 mil jovens marcharam em Copenhague contra a proposta do governo de acabar com o auxílio estudantil para filhos de famílias mais ricas. Cerca de 40 mil estudantes de 57 escolas aderiram à greve.",
+      "highlights": [
+        "Auxílio acabaria para pais com renda acima de 700 mil coroas",
+        "Dinheiro economizado iria para a defesa",
+        "Protesto se soma a uma onda europeia contra cortes na educação"
+      ],
+      "body": "Pela proposta do governo dinamarquês, o auxílio seria abolido para estudantes que vivem com pais que ganham mais de 700 mil coroas dinamarquesas por ano (cerca de US$ 105 mil), e só quem tem pais com renda entre cerca de 419 mil e 700 mil coroas continuaria elegível, com valores escalonados.\n\nSegundo a Al Jazeera, os recursos economizados seriam destinados à defesa. A polícia de Copenhague reforçou a presença durante a manifestação.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts",
+      "published_at": "2026-11-04T12:54:48-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T143934Z_1411494777_RC20HOASOS6U_RTRMADP_3_DENMARK-DEMONSTRATION-EDUCATION-1793806097.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "tarde-2026-11-04-mundo-08",
+      "title": "Dezenas são presos em Londres durante julgamento sobre o Palestine Action",
+      "summary": "A polícia prendeu mais de duas dezenas de apoiadores do Palestine Action em frente à Suprema Corte do Reino Unido, enquanto os juízes analisavam o recurso do grupo contra sua classificação como organização terrorista.",
+      "highlights": [
+        "Mais de 3.000 apoiadores foram presos no último ano",
+        "Apoio ao grupo pode render até 14 anos de prisão",
+        "Defesa diz que só 3 de 385 ações seriam terrorismo"
+      ],
+      "body": "O governo britânico baniu o grupo depois que ativistas invadiram uma base da Força Aérea Real em junho de 2025 em protesto contra o apoio militar britânico à ofensiva de Israel em Gaza. A designação coloca o Palestine Action na mesma categoria legal da Al-Qaeda e do Hamas.\n\nUm tribunal inferior considerou o banimento ilegal, mas cinco juízes da Corte de Apelação reverteram a decisão em junho. O advogado do grupo, Raza Husain, disse que apenas 3 das 385 ações em cinco anos se encaixariam na definição legal de terrorismo, e só por envolverem danos a propriedade; o advogado do governo, James Eadie, rebateu que danos graves à propriedade podem constituir terrorismo.",
+      "category": "mundo",
+      "source": "Associated Press (via Local 10)",
+      "url": "https://www.local10.com/news/world/2026/11/04/london-police-make-arrests-outside-court-hearing-palestine-action-ban-appeal/",
+      "published_at": "2026-11-04T14:40:08-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/GR6UFH33ENQVFITAJBN5TXQNPM.jpg?auth=3856cdf1e9305700f88fa21a10af92ea8c3bebb688d0d0a0e70d62fcf9797318&width=700"
+    },
+    {
+      "id": "tarde-2026-11-04-mundo-09",
+      "title": "Governo britânico manda investigar compra da ITV pela Sky",
+      "summary": "A secretária de Cultura do Reino Unido, Lisa Nandy, pediu que reguladores analisem a compra do braço de mídia e entretenimento da ITV pela Sky, avaliada em 1,6 bilhão de libras (US$ 2,3 bilhões). A Sky pertence à americana Comcast.",
+      "highlights": [
+        "CMA e Ofcom devem entregar relatório até 27 de janeiro",
+        "Nandy promete nova lei sobre streaming",
+        "ITV Studios continuará independente"
+      ],
+      "body": "Nandy emitiu um Aviso de Intervenção de Interesse Público, abrindo caminho para que a Autoridade de Concorrência e Mercados (CMA) e a reguladora Ofcom avaliem o impacto do negócio no cenário de mídia britânico e na liberdade de expressão. Depois, ela pode encaminhar o caso para uma investigação aprofundada.\n\nA ITV, maior emissora comercial do país, fechou em julho a venda de seus canais abertos e de seu serviço de streaming à Sky. A Sky disse que a união \"é de interesse público\", e a ITV afirmou que vai cooperar plenamente.",
+      "category": "mundo",
+      "source": "Associated Press (via Local 10)",
+      "url": "https://www.local10.com/business/2026/11/04/uk-government-announces-public-interest-investigation-into-sky-deal-to-takeover-itvs-media-arm/",
+      "published_at": "2026-11-04T12:58:52-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/SZ3UN4A2CYAI2YGSAL5ONZIBCE.jpg?auth=abc09f3b86a76573ccbabb797f80b459b21b09af9ce5bd99b9f109b80ff7f638&width=700"
+    },
+    {
+      "id": "tarde-2026-11-04-mundo-10",
+      "title": "Morre Tinto Brass, diretor de \"Calígula\", aos 93 anos",
+      "summary": "O cineasta italiano Tinto Brass, que popularizou o cinema erótico italiano com filmes como \"Calígula\" e \"Salon Kitty\", morreu aos 93 anos. A morte foi anunciada pela família à agência Ansa.",
+      "highlights": [
+        "Começou como assistente de Roberto Rossellini",
+        "Já foi chamado de \"o Antonioni dos anos 70\"",
+        "Warner teria oferecido a ele \"Laranja Mecânica\""
+      ],
+      "body": "Nascido em Milão e criado em Veneza, Brass começou no cinema em Paris, como montador e arquivista da Cinémathèque. De volta à Itália, trabalhou como montador e assistente de direção de Roberto Rossellini, e em 1964 foi convidado por Umberto Eco a criar dois curtas experimentais para a Trienal de Milão.\n\nSegundo o Guardian, a Warner Bros o procurou para dirigir \"Laranja Mecânica\", mas conflitos de agenda fizeram o filme ir para Stanley Kubrick. Nos anos 1970, ele passou ao cinema erótico. A morte foi anunciada nesta quarta-feira pela esposa, Caterina Varzi, e pelos filhos, Bonifacio e Beatrice.",
       "category": "mundo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees",
-      "published_at": "2026-11-04T09:20:34-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/1b478e4897f90588d6cf0b9e2c8f9b289849294d/104_0_910_728/master/910.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e96a60f815b7895c3acca10f3fc98c01"
+      "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+      "published_at": "2026-11-04T11:47:15-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/200f4cf3cbea53e1603982201c59d54825ccfb60/324_0_3240_2592/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2518b1fa334eef143bd1af41cdb02130"
     },
     {
-      "id": "meiodia-2026-11-04-mundo-10",
-      "title": "Uigures presos na Tailândia pedem para não ser mandados à China",
-      "summary": "Dois uigures detidos na Tailândia há mais de uma década pedem para não ser enviados à China, temendo tortura. O governo tailandês disse que Pequim precisa fazer um pedido formal de extradição.",
+      "id": "tarde-2026-11-04-weston-01",
+      "title": "Saída de I-75 para a Royal Palm fecha nesta quinta à noite",
+      "summary": "A saída da I-75 sentido sul para a Royal Palm Boulevard sentido oeste, em Weston, ficará fechada das 20h de quinta-feira (5) às 5h de sexta-feira (6). O desvio será pela Griffin Road.",
       "highlights": [
-        "Homens têm 26 e 35 anos e foram soltos no fim de outubro",
-        "Faziam parte de grupo de mais de 300 detidos em 2014",
-        "Justiça tailandesa decidirá sobre eventual deportação"
+        "Equipes vão instalar o braço de um semáforo",
+        "Noites reserva: de 9 a 12 de novembro",
+        "Também há fechamentos noturnos na I-75 expressa e na Sawgrass"
       ],
-      "body": "Dois homens uigures presos na Tailândia há mais de uma década estão pedindo para não ser enviados de volta à China, temendo abusos ou tortura, informou a Associated Press. Ativistas de direitos humanos e alguns políticos tailandeses alertam que eles podem ser deportados após terem sido libertados da prisão no fim de outubro.\n\nOs dois, de 26 e 35 anos, estavam entre os mais de 300 uigures detidos pela Tailândia em 2014 perto da fronteira com a Malásia. Nesta quarta-feira, o chefe do Conselho de Segurança Nacional, Chaipruak Doungprapat, disse que a China deve fazer um pedido formal de extradição e que os tribunais decidirão o caso, diferentemente dos 40 uigures devolvidos à China no ano passado.\n\nEm 2015, a Tailândia deportou 109 uigures à China contra a vontade deles, provocando protestos internacionais. A porta-voz da chancelaria chinesa, Mao Ning, não comentou se Pequim enviou pedido de extradição.",
-      "category": "mundo",
-      "source": "Local 10 (AP)",
-      "url": "https://www.local10.com/news/world/2026/11/04/china-must-make-extradition-request-if-it-wants-two-uyghur-men-returned-thailand-says/",
-      "published_at": "2026-11-04T06:16:20-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/FXELTJWUGS2OQY7IYEXLCXLYQI.jpg?auth=ef0584d090edc9231847caed3b2bf4cbf840200b1704d70304539db0a436f90c&width=700"
+      "body": "Segundo o Weston Journal, o fechamento faz parte da ampliação do trevo da I-75 pelo Departamento de Transportes da Flórida (FDOT). A data, inicialmente marcada para 22 de outubro, foi remarcada pela prefeitura e confirmada no boletim de trânsito do FDOT de 30 de outubro.\n\nO desvio segue pela saída da I-75 sul para a Griffin Road oeste, depois pela Weston Road norte e pela Royal Palm Boulevard oeste, com sinalização. Caso o trabalho não seja concluído, as noites de contingência vão de segunda (9) a quinta-feira (12).\n\nNesta semana o FDOT também mantém fechamentos noturnos de faixas nas pistas expressas da I-75 e na Sawgrass Expressway ao sul da Royal Palm Boulevard.",
+      "category": "weston",
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/road-construction-and-closures/",
+      "published_at": "2026-11-01T20:00:00-05:00",
+      "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
     },
     {
-      "id": "meiodia-2026-11-04-miami-01",
-      "title": "\"Super El Niño\" deve trazer inverno mais chuvoso ao sul da Flórida",
-      "summary": "Especialistas preveem que um El Niño recorde, apelidado de \"Super El Niño\", trará mais chuva e risco de tempo severo ao sul da Flórida neste inverno. O fenômeno pode ser o mais forte desde 1950.",
+      "id": "tarde-2026-11-04-weston-02",
+      "title": "Weston terá dois novos comissários a partir de 16 de novembro",
+      "summary": "Os comissários Byron L. Jaffe e Mary Molina-Macfie, das cadeiras 3 e 4, deixam a Comissão Municipal de Weston quando os eleitos na terça-feira tomarem posse, em 16 de novembro. Nenhum dos dois concorreu.",
       "highlights": [
-        "Previsão de chuva acima do normal no inverno",
-        "Maior risco de tornados na península",
-        "Sunrise teve grandes alagamentos na segunda e terça"
+        "Cadeira 3: Patricia C. Bernardini x German Melo",
+        "Cadeira 4: Jaime A. Herrero x Alfredo Ortega",
+        "Resultados não oficiais em browardvotes.gov"
       ],
-      "body": "Novembro marca o início da estação seca no sul da Flórida, mas o El Niño deve continuar durante o inverno, e especialistas dizem que a versão recorde deste ano, apelidada de \"Super El Niño\", deve mudar o inverno no estado, segundo a WSVN.\n\n\"A previsão para este inverno no sul da Flórida é de maior chance de chuva acima do normal e também de eventos de tempo severo, incluindo tornados\", disse o meteorologista Robert Moyeda, do Serviço Nacional de Meteorologia em Miami. Ele afirmou que o evento pode ser o mais forte desde 1950, quando começaram as medições.\n\nSunrise teve grandes alagamentos no Sawgrass Mills e na Amerant Bank Arena na segunda e na terça, e chuvas recordes no condado de Brevard causaram o que especialistas chamam de \"enchente de mil anos\". A previsão da NOAA indica temperaturas perto do normal e chuva acima da média na Flórida.",
-      "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/super-el-nino-florida-winter/",
-      "published_at": "2026-11-04T09:54:43-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110426-flooding-el-nino.jpg?quality=60&strip=color"
+      "body": "A eleição apartidária de terça-feira definiu duas das cinco vagas da comissão, que aprova o orçamento e a alíquota do imposto predial de Weston e decide sobre zoneamento. Os vencedores ainda não haviam sido divulgados pelas fontes consultadas até a publicação desta edição.\n\nJaffe vive em Weston desde 1990, participou do movimento que levou à criação da cidade em 1996 e ocupa a cadeira 3 desde uma eleição especial em 2017. Molina-Macfie, moradora desde 1991, foi eleita em 2018. Segundo a prefeitura, a reunião de 12 de outubro foi a última dos dois, que seguem no cargo até a posse dos sucessores.",
+      "category": "weston",
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/weston-commissioners-jaffe-molina-macfie/",
+      "published_at": "2026-11-01T00:00:00-04:00",
+      "image_url": "https://westonjournal.com/img/weston-commissioners-jaffe-molina-macfie.webp"
     },
     {
-      "id": "meiodia-2026-11-04-miami-02",
-      "title": "Último dia de chuva forte provoca alagamentos em Broward",
-      "summary": "Uma sequência de temporais sobre as mesmas áreas provocou alagamentos generalizados em Broward nesta quarta-feira. A partir de quinta, o ar mais seco deve reduzir bastante as chances de chuva.",
+      "id": "tarde-2026-11-04-miami-01",
+      "title": "Queda de helicóptero na Baía de Biscayne deixa um morto",
+      "summary": "Uma pessoa morreu e duas ficaram feridas na queda de um helicóptero Robinson R44 na Baía de Biscayne, perto de Key Biscayne, por volta das 11h15 desta quarta-feira. Os feridos foram levados ao Ryder Trauma Center.",
       "highlights": [
-        "Tempestades seguem ao longo do dia e da noite",
-        "Risco de enchente termina na quinta",
-        "Fim de semana deve ser seco e agradável"
+        "Três pessoas estavam a bordo",
+        "Aeronave caiu a oeste do parque Bill Baggs Cape Florida",
+        "NTSB vai liderar a investigação com a FAA"
       ],
-      "body": "Uma cadeia de fortes pancadas de chuva continua se movendo sobre as mesmas áreas, e há relatos generalizados de alagamentos em todo o condado de Broward na manhã desta quarta-feira, segundo a Local 10. As tempestades devem continuar intermitentes ao longo do dia e da noite.\n\nNa quinta-feira, as chances de chuva caem significativamente com a chegada de ar mais seco, encerrando o risco de enchentes e permitindo que a água seja absorvida pelo solo no resto da semana.\n\nO padrão típico da estação seca deve durar todo o fim de semana, e uma umidade mais baixa deve chegar na próxima semana.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/weather/2026/11/04/nov-4-heavy-rain-leading-to-1-final-day-of-flooding-for-south-florida/",
-      "published_at": "2026-11-04T09:44:40-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/ZVM6A6ZXGBFH5FRLH2CKLR7DDY.jpg?auth=5538de09b666ea5a5147343fa29e64118175bed12961ff44a71e0e9e91fc0d29&width=700"
-    },
-    {
-      "id": "meiodia-2026-11-04-miami-03",
-      "title": "Disputa entre Diaz-Balart e Locklin no distrito 26 segue indefinida",
-      "summary": "O republicano Mario Diaz-Balart e a democrata Nicole Locklin reivindicaram vitória no distrito 26 da Flórida, mas a disputa seguia apertada demais para ser definida. Cerca de 1.700 votos separavam os candidatos.",
-      "highlights": [
-        "Diaz-Balart tinha 49,8% dos votos",
-        "Ele está na Câmara desde 2003",
-        "Campanha de Locklin diz que não vai reconhecer derrota"
-      ],
-      "body": "O deputado republicano Mario Diaz-Balart e a democrata Nicole Locklin declararam vitória na noite de terça-feira na disputa pelo 26º distrito congressional da Flórida, mas a corrida continuava sem definição na manhã de quarta. Diaz-Balart tinha 49,8% dos votos, com cerca de 1.700 votos de diferença.\n\nNo cargo desde 2003, Diaz-Balart disse esperar uma disputa difícil, mas se surpreendeu com o resultado apertado. \"Aqui no sul da Flórida o sonho americano está vivo. Este é o lugar onde o socialismo vem morrer\", afirmou.\n\nLocklin, advogada estreante na política, fez campanha sobre custo de vida e reforma migratória. \"Acreditamos que Nicole Locklin venceu esta disputa e não temos intenção de reconhecer a derrota. Todo voto legal deve ser contado\", disse um porta-voz da campanha à Local 10.",
+      "body": "Segundo a Guarda Costeira e a FAA, o helicóptero caiu na água com três pessoas a bordo. Bombeiros de Key Biscayne e Miami levaram dois feridos do No Name Harbor até uma área de pouso, de onde um helicóptero do Miami-Dade Fire Rescue os transportou ao Ryder Trauma Center do Jackson Memorial Hospital.\n\nDuas boias amarelas marcavam o local do acidente, entre o Bill Baggs Cape Florida State Park e o Matheson Hammock Park, em Coral Gables. O NTSB vai conduzir a investigação com apoio da FAA; segundo o Local 10, a aeronave de prefixo N272JW pertence à Global Aerials Inc., de Pembroke Pines.",
       "category": "miami",
       "source": "Local 10",
-      "url": "https://www.local10.com/news/politics/2026/11/04/race-for-floridas-26th-congressional-district-between-diaz-balart-locklin-still-too-close-to-call/",
-      "published_at": "2026-11-04T08:48:56-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/RMHXRVOVOZHHNKCTKAJAGUV57E.jpg?auth=f55998fa085e15f48243e4fc31cdf47bcdc1f39f3a41a6cbc0699ae6cc0804f9&width=700"
+      "url": "https://www.local10.com/news/local/2026/11/04/miami-dade-fire-rescue-personnel-responds-to-report-of-helicopter-down/",
+      "published_at": "2026-11-04T11:52:10-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/45OFS4HAWFCD7OGYB2ODM3TDUA.jpeg?auth=20f96f625080c0359337750557220f5677e62f9f07219dabd500af7c285e2a48&width=700"
     },
     {
-      "id": "meiodia-2026-11-04-miami-04",
-      "title": "Key Biscayne emite alerta para não nadar após vazamento de esgoto",
-      "summary": "Um alerta proibindo banho de mar foi emitido em toda a ilha de Key Biscayne após o rompimento de uma tubulação de esgoto. Um empreiteiro atingiu a linha na Crandon Boulevard na terça à noite.",
+      "id": "tarde-2026-11-04-miami-02",
+      "title": "Homem do Alasca é preso em Port Everglades com vídeos de abuso infantil feitos por IA",
+      "summary": "Agentes federais prenderam Justin Lee Cox, de 44 anos, de Anchorage, ao desembarcar de um cruzeiro vindo das Bahamas em Port Everglades. Segundo a acusação, ele tinha vídeos de abuso sexual infantil gerados por inteligência artificial.",
       "highlights": [
-        "Esgoto vazou para o Pines Canal",
-        "Alerta inclui o parque Bill Baggs Cape Florida",
-        "Equipes de água e esgoto de Miami-Dade fazem o reparo"
+        "Agente da alfândega achou o material no celular e no laptop",
+        "Foram encontrados 8 vídeos e 54 imagens",
+        "Cox compareceu à Justiça federal em Fort Lauderdale"
       ],
-      "body": "Autoridades de Key Biscayne disseram que um empreiteiro atingiu uma tubulação de esgoto de seis polegadas no quarteirão 900 da Crandon Boulevard na noite de terça-feira, despejando águas residuais no Pines Canal. Os moradores foram avisados por mensagem de texto às 19h30.\n\nO alerta para não nadar vale para toda a ilha, incluindo o parque estadual Bill Baggs Cape Florida, e moradores e visitantes devem ficar fora da água até que seja suspenso.\n\nEquipes do Departamento de Água e Esgoto de Miami-Dade trabalham no reparo, e a polícia pede cautela aos motoristas na região.",
-      "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/key-biscayne-sewage-main-break/",
-      "published_at": "2026-11-04T08:24:12-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261104_Key_Biscayne_sewage_main_break_crews.jpg?quality=60&strip=color"
-    },
-    {
-      "id": "meiodia-2026-11-04-miami-05",
-      "title": "Homem é preso por roubar viatura de sargento de Miami com fuzil dentro",
-      "summary": "Um homem de 36 anos foi preso acusado de roubar uma viatura da polícia de Miami enquanto o sargento estava em uma loja de conveniência. O carro tinha um fuzil e um colete à prova de balas.",
-      "highlights": [
-        "Roubo ocorreu perto de Little Haiti na terça",
-        "Viatura foi achada vazia em North Miami",
-        "Suspeito foi identificado como Rodne Joseph"
-      ],
-      "body": "Um homem de 36 anos foi preso na tarde de terça-feira acusado de roubar uma viatura da polícia de Miami pertencente a um sargento, enquanto ele estava em uma loja de conveniência perto do bairro de Little Haiti, segundo a Local 10. O veículo tinha um fuzil e um colete da polícia.\n\nO caso começou por volta das 13h20, perto da Northeast Second Avenue com a Northeast 55th Terrace. Imagens de câmeras mostraram um homem se aproximando da porta do motorista e, em seguida, o carro seguindo para o norte.\n\nPor volta das 15h, um policial de North Miami encontrou a viatura vazia na 527 NE 137th St. Cerca de 15 minutos depois, um sargento deteve um homem que batia com a descrição, identificado como Rodne Joseph, de Miami.",
+      "body": "Cox foi detido na sexta-feira após descer de um navio vindo das Bahamas e compareceu na segunda-feira ao tribunal federal de Fort Lauderdale, segundo documentos obtidos pelo Local 10. A queixa criminal identifica o navio como \"Carnival Princess\", que não existe.\n\nDe acordo com os investigadores, foram encontrados oito vídeos e 54 imagens, e o material teria sido criado a partir de fotos de meninas reais inseridas em ferramentas de IA.",
       "category": "miami",
       "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/11/04/man-accused-of-stealing-miami-police-sergeants-patrol-vehicle-with-rifle-bulletproof-vest-inside/",
-      "published_at": "2026-11-04T09:15:49-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/MUGICHFMWBFF5ITKXBBFS42UZQ.jpg?auth=5e611b4fb3a2c48976008b67918dfd1704f96a7fe4787c21129ae77fb502a00b&width=700"
+      "url": "https://www.local10.com/news/local/2026/11/04/alaska-man-who-made-ai-child-sex-abuse-videos-cuffed-after-port-everglades-cruise-feds-say/",
+      "published_at": "2026-11-04T13:14:54-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/YKSCVBLFTFAHFMM6KJFOZZABGE.jpg?auth=9b079d21742751cd25e7fe4afc2c2e7412f555b151fe7a9d0fd8f8add7572869&width=700"
     },
     {
-      "id": "meiodia-2026-11-04-miami-06",
-      "title": "Investigação da queda do Learjet que matou 9 na Flórida pode levar mais de um ano",
-      "summary": "O NTSB começou o longo processo para descobrir por que um jato executivo caiu na Flórida após enfrentar uma tempestade, matando as nove pessoas a bordo. Peças da cauda foram achadas a mais de 1,5 km da cratera.",
+      "id": "tarde-2026-11-04-miami-03",
+      "title": "Tornozeleira coloca jovem na cena do furto de Porsche de US$ 210 mil",
+      "summary": "Joseph Dexter Watson IV, de 19 anos, de Margate, foi preso acusado de participar do furto de um Porsche Panamera de US$ 210 mil de uma mansão em Horse Country, em Miami-Dade. A tornozeleira eletrônica que ele usava o colocou no local, segundo o xerife.",
       "highlights": [
-        "Avião ia para as Bahamas",
-        "Gravador de voz da cabine ainda é procurado",
-        "Relatório preliminar deve sair em cerca de um mês"
+        "Furto ocorreu em 24 de outubro no bloco 11900 da SW 49th St",
+        "Carro foi recuperado em um Hampton Inn em Deerfield Beach",
+        "Watson já aguardava julgamento por uma perseguição policial"
       ],
-      "body": "Investigadores começaram o longo processo para determinar por que um jato executivo despencou na Flórida após encontrar uma tempestade, abrindo uma cratera no solo. O Conselho Nacional de Segurança nos Transportes (NTSB) lidera a investigação da queda do Learjet com destino às Bahamas, que matou todas as nove pessoas a bordo, e a causa deve levar mais de um ano para ser definida.\n\nPartes do profundor, peça da cauda que controla a inclinação, foram encontradas a mais de 1,6 km da cratera, confirmando que o avião começou a se desintegrar antes do impacto. A copiloto disse aos controladores que o avião subia e descia mais de 213 metros e pediu uma rota melhor.\n\nO NTSB procura o gravador de voz da cabine e pediu que quem encontrar partes do avião avise os investigadores. As chuvas torrenciais da última semana encheram a cratera de água e atrapalharam o trabalho; o relatório inicial deve sair em cerca de um mês.",
-      "category": "miami",
-      "source": "Local 10 (AP)",
-      "url": "https://www.local10.com/news/2026/11/04/whats-next-in-the-investigation-of-the-learjet-crash-in-florida-that-killed-9/",
-      "published_at": "2026-11-04T09:04:12-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/6R7AZ3OI76CDH4HIGOI4VTKQDM.jpg?auth=efc21213c298e35298da03daa902d68ad58941b9cb4bd4ebc7ba08bcb0b6e694&width=700"
-    },
-    {
-      "id": "meiodia-2026-11-04-miami-07",
-      "title": "Idoso de 79 anos está desaparecido no sudoeste de Miami-Dade",
-      "summary": "O Gabinete do Xerife de Miami-Dade pede ajuda para encontrar Manuel R. Farias Rivero, de 79 anos. Ele foi visto pela última vez saindo de casa em um sedã grande na terça à tarde.",
-      "highlights": [
-        "Visto no quarteirão 14800 da SW 105th Court",
-        "Saiu por volta das 15h30 de terça",
-        "Informações: Crime Stoppers 305-471-TIPS"
-      ],
-      "body": "Autoridades pedem a ajuda do público para encontrar um idoso desaparecido no sudoeste de Miami-Dade. Segundo o Gabinete do Xerife, Manuel R. Farias Rivero, de 79 anos, foi visto pela última vez saindo do quarteirão 14800 da Southwest 105th Court em um sedã grande, por volta das 15h30 de terça-feira.\n\nEle tem cerca de 1,68 m, pesa 77 kg, tem olhos castanhos e é calvo. Detetives dizem que ele não entrou em contato com a família e pode precisar de assistência.\n\nQuem tiver informações deve ligar para o Gabinete do Xerife de Miami-Dade (305-715-3300) ou para o Miami-Dade Crime Stoppers, no 305-471-TIPS (8477).",
-      "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/manuel-farias-rivero-missing/",
-      "published_at": "2026-11-04T08:52:42-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261104_Manuel_Farias_Rivero_missing_man.png"
-    },
-    {
-      "id": "meiodia-2026-11-04-miami-08",
-      "title": "Passageiro é preso após se expor e urinar em família no aeroporto de Fort Lauderdale",
-      "summary": "Um homem de 48 anos foi preso acusado de, embriagado, se expor e urinar na direção de uma família no portão E6 do aeroporto de Fort Lauderdale. A mãe e o filho de 7 anos foram atingidos.",
-      "highlights": [
-        "Caso ocorreu às 11h30 de terça, segundo o BSO",
-        "Suspeito identificado como Lawrence Kai Raben",
-        "Ele responde a acusações de agressão e atentado ao pudor"
-      ],
-      "body": "Um homem de 48 anos enfrenta várias acusações depois que policiais disseram que ele, embriagado, se expôs a uma família que esperava um voo no Aeroporto Internacional Fort Lauderdale-Hollywood e urinou na direção deles, atingindo uma mulher e o filho de 7 anos.\n\nSegundo o Gabinete do Xerife de Broward, o caso ocorreu pouco depois das 11h30 de terça-feira no portão E6. Outros passageiros se afastaram da área durante o incidente.\n\nLawrence Kai Raben, de Fort Lauderdale, foi preso por agressão envolvendo contato de fluidos corporais com menor de 18 anos, agressão, embriaguez desordeira e três acusações de atentado ao pudor. Ele seguia na cadeia principal do BSO na quarta-feira, sem fiança definida.",
+      "body": "Segundo o Gabinete do Xerife de Miami-Dade, Watson e pelo menos outras três pessoas chegaram à mansão em um Mercedes-Benz pouco antes das 18h30, arrombaram um Cadillac Escalade estacionado do lado de fora e, depois que um deles pulou a cerca, fugiram no Porsche, que tinha ainda cerca de sete pares de sapatos avaliados em US$ 4.200.\n\nA vítima rastreou o carro até o estacionamento de um Hampton Inn em Deerfield Beach, onde agentes de Broward o recuperaram vazio. Watson usava a tornozeleira desde que recebeu fiança em um caso de janeiro, quando bateu em um caminhão dos correios durante uma perseguição policial em Broward.",
       "category": "miami",
       "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/11/04/fll-flyer-exposes-self-at-gate-and-urinates-splashing-woman-7-year-old-boy-deputies-say/",
-      "published_at": "2026-11-04T10:33:12-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/SILTUONO4BA4PNQTNYJKII2WAQ.jpg?auth=c61e990eb554ad9520617c9fda1504eaa4185ef07cdd3cf919d8196815cc71a6&width=700"
+      "url": "https://www.local10.com/news/local/2026/11/04/mans-ankle-monitor-puts-him-at-scene-of-210k-porsche-theft-from-horse-country-mansion-mdso/",
+      "published_at": "2026-11-04T12:44:26-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/QD3W57X2CNEMHBVEMMDIHZYOGA.jpg?auth=e281235679b21e91d42951ede9a8261ed70e3ba785cf1e5a21e979bbc978aba5&width=700"
     },
     {
-      "id": "meiodia-2026-11-04-miami-09",
-      "title": "Incêndio atinge loja de ferragens em Fort Lauderdale; ninguém se feriu",
-      "summary": "Um incêndio encheu de fumaça uma loja de ferragens na West State Road 84 com a Southeast 24th Street, em Fort Lauderdale, na terça à noite. A loja estava fechada e ninguém ficou ferido.",
+      "id": "tarde-2026-11-04-miami-04",
+      "title": "Homem é acusado de atirar contra funcionário de condomínio em Doral",
+      "summary": "Cesar Betancourt, de 38 anos, foi preso acusado de disparar várias vezes contra um funcionário do Palmera Apartments, em Doral, que o abordou depois de uma batida na garagem do prédio. O caso ocorreu na noite de segunda-feira.",
       "highlights": [
-        "Bombeiros controlaram o fogo rapidamente",
-        "Estabelecimento estava fechado",
-        "Causa está sob investigação"
+        "Suspeito bateu uma Ford Expedition em um Kia estacionado",
+        "Funcionário disse que ele parecia intoxicado",
+        "Prédio fica no 8400 NW 102nd Ave"
       ],
-      "body": "Uma densa fumaça tomou um prédio comercial na West State Road 84 com a Southeast 24th Street, em Fort Lauderdale, na noite de terça-feira, onde funciona uma loja de ferragens, segundo a WSVN.\n\nA loja estava fechada no momento, e as equipes do Fort Lauderdale Fire Rescue conseguiram apagar o fogo rapidamente. Ninguém ficou ferido, e a causa do incêndio está sob investigação.",
+      "body": "Segundo a polícia de Doral, por volta das 22h40 de segunda-feira um concierge que fazia a ronda viu que uma Ford Expedition havia batido na traseira de um Kia Forte estacionado. Betancourt, ao volante, acelerava repetidamente com o carro em ponto morto.\n\nO funcionário pediu várias vezes que ele saísse, já que bloqueava a passagem, e ligou para o 911. Enquanto falava com a central, segundo o boletim, Betancourt pegou uma arma prateada de uma bolsa e disparou na direção dele.",
       "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/broward/fort-lauderdale-hardware-store-fire/",
-      "published_at": "2026-11-04T09:48:39-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110426-hardware-store-fire-fort-lauderdale.png"
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/11/04/man-accused-of-firing-shots-at-doral-apartment-complex-employee-after-crashing-into-parked-car-police-say/",
+      "published_at": "2026-11-04T12:35:19-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/VER5VE7YPFBI5O7QZXRBGKJJII.jpg?auth=c05700de98643bd0629c356388657549acd4f4a84ea75bbcba73b32f6b6f7e95&width=700"
     },
     {
-      "id": "meiodia-2026-11-04-tecnologia-01",
-      "title": "SpaceX fecha acordo com Qualcomm para rede móvel Starlink Mobile",
-      "summary": "A SpaceX anunciou acordo com a Qualcomm para fornecer tecnologia de rede para o Starlink Mobile, concorrente de Verizon, AT&T e T-Mobile. A rede terrestre deve começar a ser implantada no ano que vem.",
+      "id": "tarde-2026-11-04-miami-05",
+      "title": "Casal de Miami-Dade é preso após bebê de 4 meses sofrer quatro fraturas",
+      "summary": "Gabriella Trabraue, de 26 anos, e Kevin Carrasco, de 27, foram presos depois que a filha de 4 meses deu entrada no Nicklaus Children's Hospital com quatro costelas fraturadas. Segundo o xerife, as lesões foram causadas por compressão forçada do peito.",
       "highlights": [
-        "Rede terrestre vai complementar os satélites Starlink",
-        "Starlink responde por 36% da receita da SpaceX",
-        "SpaceX vale perto de US$ 2 trilhões após IPO"
+        "Uma fratura antiga e três recentes",
+        "Equipe médica concluiu que o trauma não foi acidental",
+        "Fiança de US$ 2.500 para cada um"
       ],
-      "body": "A SpaceX anunciou um acordo plurianual com a fabricante de chips Qualcomm para fornecer tecnologia de rede ao Starlink Mobile, serviço que desafia Verizon, AT&T e T-Mobile. Segundo a Qualcomm, a rede terrestre que ajudará a construir vai \"complementar as capacidades de satélite da Starlink\", com implantação prevista para começar no ano que vem. Os valores não foram divulgados.\n\nA Starlink respondeu por 36% da receita da SpaceX no terceiro trimestre e 85% de seu lucro operacional, mas o serviço direto ao celular é limitado porque os satélites não oferecem toda a cobertura de voz, vídeo e dados. No mês passado, a empresa anunciou a compra de um portfólio nacional de espectro na faixa de 800 MHz, e o Washington Post informou que ela negocia comprar a Boost Mobile, da EchoStar.\n\nA SpaceX usará o hardware e o software Dragonwing da Qualcomm em estações-base. A empresa abriu capital em junho, no maior IPO da história, e vale perto de US$ 2 trilhões, segundo a CNBC.",
+      "body": "Segundo os boletins de prisão, a equipe de proteção à criança confirmou uma fratura em cicatrização e três fraturas agudas, \"consistentes com trauma não acidental\". O pai disse aos agentes acreditar que alguém havia agredido a criança, mas que não sabia quem.\n\nO casal foi preso na terça-feira no bairro de Glenvar Heights e responde por negligência infantil. Um juiz proibiu os dois de se aproximarem da bebê e fixou fiança de US$ 2.500 para cada um.",
+      "category": "miami",
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/11/04/deputies-arrest-miami-dade-couple-after-4-month-old-daughter-suffers-4-fractures/",
+      "published_at": "2026-11-04T10:54:17-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/CHBQIE27HZFUTPB6RU6VZDSTDE.jpg?auth=04b3b18641422694cee680e9b3f59753900c96471923209d623813d2cbe7794a&width=700"
+    },
+    {
+      "id": "tarde-2026-11-04-miami-06",
+      "title": "Crianças de 3 e 5 anos vão parar no meio da rua em North Lauderdale",
+      "summary": "Duas crianças, de 3 e 5 anos, andaram até o meio do trânsito e quase foram atropeladas enquanto o irmão de 15 anos que cuidava delas dormia, segundo o Gabinete do Xerife de Broward. A mãe, Janay Traeshawn Readon, de 38 anos, foi presa.",
+      "highlights": [
+        "Mãe responde a duas acusações de negligência",
+        "Criança de 5 anos tem autismo e a de 3, epilepsia",
+        "Foi o terceiro caso em menos de dois meses"
+      ],
+      "body": "Agentes foram chamados na terça-feira ao bloco 7500 da Tam O'Shanter Boulevard depois que um homem viu as crianças paradas no meio da rua. Elas haviam voltado ao apartamento e trancado a porta; após várias tentativas, os policiais convenceram as crianças a abrir.\n\nDentro, encontraram o adolescente de 15 anos dormindo de fones de ouvido em um quarto nos fundos. Readon disse que havia combinado que o filho cuidaria dos irmãos até ela voltar. Segundo o boletim, foi o terceiro caso de crianças sem supervisão em menos de dois meses.",
+      "category": "miami",
+      "source": "WSVN",
+      "url": "https://wsvn.com/news/local/broward/mother-arrested-child-neglect/",
+      "published_at": "2026-11-04T13:05:38-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Janay-Traeshawn-Reado.jpg?quality=60&strip=color"
+    },
+    {
+      "id": "tarde-2026-11-04-miami-07",
+      "title": "Lago transborda e alaga bairro de Davie após três dias de chuva",
+      "summary": "O bairro Paradise Village, em Davie, ficou alagado depois que um lago próximo transbordou com quase três dias de chuvas fortes. Moradores dizem que crianças não conseguem ir à escola.",
+      "highlights": [
+        "Bairro fica perto da SR 84 e da Flamingo Road",
+        "Canal entupido impede o escoamento",
+        "Local de votação foi transferido para o Tree Tops Park"
+      ],
+      "body": "Imagens da WSVN mostraram ruas inundadas e casas cercadas de água. Autoridades colocaram fita de isolamento entre a calçada e o lago, já que era difícil saber onde um terminava e o outro começava. \"Não conseguimos sair. As crianças não podem ir à escola\", disse um morador.\n\nSegundo moradores e equipes de manutenção, a água deveria escoar para um canal próximo, que está sobrecarregado. A chuva persistente levou a alertas de alagamento em partes de Broward e Miami-Dade.",
+      "category": "miami",
+      "source": "WSVN",
+      "url": "https://wsvn.com/news/local/miami-dade/davie-neighborhood-floods-torrential-rain/",
+      "published_at": "2026-11-04T11:09:06-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110426-davie-neighborhood-flooded.png"
+    },
+    {
+      "id": "tarde-2026-11-04-tecnologia-01",
+      "title": "Ações de big techs disparam após vitória democrata",
+      "summary": "Amazon, Google, Apple e outras gigantes de tecnologia subiram com força nesta quarta-feira depois que os democratas conquistaram a Câmara e o Senado. Já ações ligadas a Elon Musk e à expansão de data centers de IA caíram.",
+      "highlights": [
+        "Amazon subiu 8% e Apple quase 7%",
+        "Google avançou mais de 6% e Microsoft 4%",
+        "56% dos eleitores citaram data centers como fator importante"
+      ],
+      "body": "Segundo a CNBC, a Amazon subiu 8%, o Google mais de 6%, a Microsoft 4%, a Meta 3% e a Apple — que enfrentou as tarifas de Trump e recentemente recebeu restituições — quase 7%. Para David Kelly, estrategista-chefe global da JPMorgan Asset Management, o governo dividido deve trazer \"moderação no crescimento, moderação na inflação e menos incerteza\".\n\nPor outro lado, papéis ligados a Musk e à construção de data centers de IA recuaram. Em pesquisa da CNBC com eleitores, 56% disseram que os data centers foram um fator crucial ou importante em seu voto.",
       "category": "tecnologia",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
-      "published_at": "2026-11-04T08:30:02-05:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108432659-1792419598569-gettyimages-2286884558-dellatorre-notitle260724_npv3F.jpeg?v=1792419632&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "published_at": "2026-11-04T14:37:43-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108364987-1789747291534-gettyimages-2295274523-AFP_C8PG29Z.jpeg?v=1789747390&w=1920&h=1080"
     },
     {
-      "id": "meiodia-2026-11-04-tecnologia-02",
-      "title": "Com iOS 27.3, Apple vai verificar links públicos do iCloud",
-      "summary": "A partir do iOS 27.3, a Apple vai checar itens compartilhados pelo iCloud com a opção \"Qualquer pessoa com o link\" em busca de conteúdo nocivo. A empresa poderá remover conteúdo e bloquear contas.",
+      "id": "tarde-2026-11-04-tecnologia-02",
+      "title": "Eleitores rejeitam data centers em 40 de 41 votações locais",
+      "summary": "Das 41 medidas locais sobre data centers votadas em 10 estados na terça-feira, os eleitores ficaram contra os projetos em todas, menos uma, segundo a Ballotpedia e a CNBC. O resultado complica os planos de expansão da indústria de IA.",
       "highlights": [
-        "Vale para iOS, iPadOS, macOS e visionOS 27.3",
-        "Compartilhamento com pessoas escolhidas não muda",
-        "Apple pode até acionar autoridades"
+        "Única exceção foi Harwood, em Dakota do Norte",
+        "Ohio teve 21 medidas sobre o tema",
+        "Sherrod Brown derrotou Jon Husted, a quem chamou de \"cara dos data centers\""
       ],
-      "body": "Segundo um novo documento de suporte da Apple, o iOS 27.3, o macOS 27.3 e atualizações relacionadas trazem uma mudança importante nos links públicos do iCloud, informou o 9to5Mac. Itens compartilhados com a opção \"Qualquer pessoa com o link\" passarão a ser verificados pela Apple em busca de conteúdo nocivo.\n\nSe a Apple considerar o conteúdo nocivo, ela \"se reserva o direito de mover, recusar, modificar, remover ou excluir o conteúdo a qualquer momento\". A empresa também pode bloquear ou desativar a conta Apple, impedir a criação de novas contas com o mesmo e-mail ou telefone e, se necessário, envolver as autoridades.\n\nA opção de compartilhar apenas com \"Pessoas que você escolher\" não é afetada. O iOS 27.3 está em sua primeira versão beta, que também traz melhorias na Siri com IA, novos recursos do Safari e o novo app Saúde.",
+      "body": "Em Harwood, os eleitores rejeitaram uma emenda que exigiria análise adicional antes da aprovação de empreendimentos industriais, incluindo data centers. Em todos os outros casos, o resultado foi contra os projetos.\n\nOhio se tornou o principal campo de batalha: o estado teve 21 medidas locais, e o democrata Sherrod Brown derrotou o senador republicano Jon Husted retratando-o como \"a cara dos data centers\". Em agosto, a OpenAI anunciou 8 gigawatts de capacidade no PORTS-Pike Technology Campus, em Ohio, o maior campus de data centers de IA planejado do mundo.",
       "category": "tecnologia",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
-      "published_at": "2026-11-04T10:55:23-05:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+      "published_at": "2026-11-04T13:56:36-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108504597-1793634512855-gettyimages-2300814844-datacenter_keith_007.jpeg?v=1793634543&w=1920&h=1080"
     },
     {
-      "id": "meiodia-2026-11-04-tecnologia-03",
-      "title": "iOS 27.3 traz novo visual do Apple Music no CarPlay",
-      "summary": "A primeira beta do iOS 27.3 redesenha o app Apple Music no CarPlay. As novidades incluem barra de abas em Liquid Glass, fundo branco e layout mais denso.",
+      "id": "tarde-2026-11-04-tecnologia-03",
+      "title": "Waymo vai deixar o app da Uber em Austin e Atlanta a partir de 2028",
+      "summary": "A Waymo começará a se separar da Uber em Austin e Atlanta em janeiro de 2028 e passará a oferecer corridas pelo próprio aplicativo, disse a co-CEO Tekedra Mawakana à Bloomberg. O acordo entre as empresas venceria em maio de 2028.",
       "highlights": [
-        "Barra de abas no estilo Liquid Glass do iOS",
-        "Fundo branco combina com o novo ícone do app",
-        "Modo escuro usa fundo escuro"
+        "Mawakana chamou a experiência na Uber de \"loteria\"",
+        "Passageiros nunca sabem se virá robotáxi ou motorista",
+        "Uber diz que seguirá oferecendo Waymo enquanto houver acordo"
       ],
-      "body": "A primeira beta do iOS 27.3 trouxe um app Apple Music redesenhado para o CarPlay, segundo o 9to5Mac. A principal mudança é uma barra de abas no estilo Liquid Glass, como no iPhone, com ícones e texto e que permite deslizar o dedo entre as abas; ela flutua sobre o conteúdo para estar sempre ao alcance.\n\nO novo fundo branco combina com o ícone redesenhado do Apple Music, lançado no iOS 27.2, e o modo escuro usa fundo escuro. A Apple também ajustou o tamanho de vários elementos, deixando o layout mais denso, com mais álbuns e playlists por linha na Biblioteca, dependendo do tamanho da tela do carro.",
-      "category": "tecnologia",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/04/ios-27-3-adds-carplay-redesign-for-apple-music-heres-whats-new/",
-      "published_at": "2026-11-04T09:46:01-05:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/carplay-apple-music-ios-27-3-photo.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "meiodia-2026-11-04-tecnologia-04",
-      "title": "Apple ainda cobra três vezes o custo em upgrades de armazenamento do iPhone, diz WSJ",
-      "summary": "Uma análise do Wall Street Journal indica que a Apple cobra mais de três vezes seu próprio custo pelo upgrade de armazenamento do iPhone 18 Pro. Isso apesar de a empresa dizer que suas margens estão pressionadas pela memória mais cara.",
-      "highlights": [
-        "Upgrade de 256 GB para 1 TB custa US$ 600 no iPhone 18 Pro",
-        "Custo estimado da Apple é de US$ 192",
-        "No iPhone 17 Pro, a margem era de quase 1.000%"
-      ],
-      "body": "A Apple disse em seu último balanço que, mesmo após aumentos de preço, suas margens estão sendo pressionadas pelo custo maior de componentes, e alertou que a memória reduzirá a margem do trimestre de fim de ano. Mas uma análise do Wall Street Journal, citada pelo 9to5Mac, sugere que a empresa ainda cobra três vezes seu próprio custo pelos níveis maiores de armazenamento.\n\nNo iPhone 17 Pro, passar de 256 GB para 1 TB custava US$ 400 ao comprador, enquanto o custo da Apple era de US$ 42, uma margem de quase 1.000%. No iPhone 18 Pro, a diferença subiu para US$ 600, e o custo direto estimado da Apple é de US$ 192 — ainda mais de três vezes o que ela paga.",
-      "category": "tecnologia",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj/",
-      "published_at": "2026-11-04T07:45:23-05:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-still-making-300-profit-on-iPhone-storage-upgrades-says-WSJ.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "meiodia-2026-11-04-tecnologia-05",
-      "title": "Apple pode abandonar MacBook Pro topo de linha sem tela sensível ao toque",
-      "summary": "Mark Gurman, da Bloomberg, questiona se a Apple continuará atualizando os MacBook Pro de alto desempenho sem tela touch. Os modelos com toque, lançados na semana passada, custam US$ 400 a mais.",
-      "highlights": [
-        "Linhas paralelas exigem muitos recursos, diz Gurman",
-        "Nova geração touch com chips M7 Pro e M7 Max em 2027",
-        "MacBook Pro básico de 14 polegadas também será redesenhado"
-      ],
-      "body": "Em sua newsletter \"Power On\", Mark Gurman questionou se a Apple continuará atualizando os MacBook Pro de alto desempenho sem tela sensível ao toque, informou o MacRumors. A empresa manteve os modelos mini-LED com M5 Pro e M5 Max ao lado das novas versões touch, que custam US$ 400 a mais.\n\nGurman citou os recursos necessários para manter linhas paralelas em desenvolvimento, produção e divulgação e espera que as ofertas convirjam, sem dizer quando. Segundo ele, a Apple planeja outra geração de MacBook Pro com tela touch em 2027, com chips M7 Pro e M7 Max com mais recursos para IA.\n\nO redesenho também deve chegar ao MacBook Pro básico de 14 polegadas, com versão M7 mais leve, fina e de bordas menores. A Apple lançou seus primeiros MacBook Pro com tela touch e OLED na semana passada.",
-      "category": "tecnologia",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
-      "published_at": "2026-11-04T08:35:27-05:00",
-      "image_url": "https://images.macrumors.com/t/nbgKwh_JVhUXfXXq_ntMhJ827JE=/1960x/article-new/2025/10/MacBook-Pro-M5-Screen.jpg"
-    },
-    {
-      "id": "meiodia-2026-11-04-tecnologia-06",
-      "title": "Sam Altman diz que quer que as pessoas tenham \"tanta RAM quanto quiserem\"",
-      "summary": "O CEO da OpenAI, Sam Altman, passou a noite da eleição defendendo sua posição sobre RAM em PCs. Ele disse que um comentário seu foi tirado de contexto e que defende aumentar a produção de memória.",
-      "highlights": [
-        "Altman mudou seu nome no X para \"Ram Altman\"",
-        "Polêmica veio de fala no podcast Cheeky Pint",
-        "Escassez de RAM pode durar até 2030, prevê SK Hynix"
-      ],
-      "body": "O CEO da OpenAI, Sam Altman, mudou seu nome no X para \"Ram Altman\" e afirmou que quer que o mundo tenha \"toneladas de memória\" e que as pessoas \"coloquem quanta quiserem em seus computadores\", dizendo ser irritante que sua fala tenha sido tirada de contexto, segundo o The Verge.\n\nAs postagens vieram após uma entrevista ao podcast Cheeky Pint, em que ele disse ser \"bem terrível que todo mundo tenha parte do suprimento limitado de DRAM do mundo parado no próprio computador e usado 5% do tempo\".\n\nData centers de IA vêm absorvendo a oferta mundial de RAM, causando escassez e aumentos de preços de eletrônicos. A Intel espera que a falta dure pelo menos até o ano que vem, e a SK Hynix prevê que pode se estender até 2030.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "published_at": "2026-11-04T09:46:01-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
-    },
-    {
-      "id": "meiodia-2026-11-04-tecnologia-07",
-      "title": "Bluetooth ganha aumento de velocidade com o novo recurso HDT",
-      "summary": "O Bluetooth SIG adotou formalmente o Bluetooth High Data Throughput (HDT) como recurso opcional do Bluetooth Core 7.0. A taxa máxima do Bluetooth LE sobe de 2 Mbps para 7,5 Mbps.",
-      "highlights": [
-        "Permite áudio em alta resolução e som espacial",
-        "Primeiros aparelhos compatíveis devem sair em 2027",
-        "Também melhora bateria e confiabilidade"
-      ],
-      "body": "O Bluetooth Special Interest Group (SIG), que supervisiona o padrão, adotou formalmente o Bluetooth High Data Throughput (HDT) como recurso opcional do Bluetooth Core 7.0, aumentando a taxa máxima do Bluetooth LE de 2 Mbps para 7,5 Mbps, informou o The Verge.\n\nA principal aplicação será o áudio sem fio, permitindo som em alta resolução, áudio espacial e som surround multicanal sem formatos proprietários. Os primeiros dispositivos compatíveis devem aparecer em 2027.\n\nRelógios inteligentes poderão sincronizar mais dados de saúde sem gastar mais bateria, já que o rádio ficará ligado por menos tempo, e dispositivos de realidade estendida e aparelhos pessoais de IA também devem se beneficiar.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
-      "published_at": "2026-11-04T10:19:54-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bluetooth1.jpg?quality=90&strip=all&crop=0%2C10.772212081113%2C100%2C78.455575837775&w=1200"
-    },
-    {
-      "id": "meiodia-2026-11-04-tecnologia-08",
-      "title": "Tesla é acusada de vender FSD a coreanos que não podem usá-lo",
-      "summary": "Um grupo de consumidores da Coreia do Sul vai denunciar a Tesla à Comissão de Comércio Justo por vender o FSD a donos de carros que não podem usá-lo legalmente. Só cerca de 20% dos Teslas no país têm o recurso habilitado.",
-      "highlights": [
-        "Model 3 e Model Y vendidos na Coreia vêm de Xangai",
-        "FSD custava 9,043 milhões de wons (cerca de US$ 6.726)",
-        "Grupo pede suspensão do marketing e multas"
-      ],
-      "body": "O grupo Citizens United for Consumer Sovereignty planeja apresentar nesta quinta-feira uma queixa à Comissão de Comércio Justo da Coreia (KFTC) contra a Tesla, segundo a Reuters, citada pelo Electrek. A ação ocorre uma semana após um tribunal de Seul rejeitar um processo de reembolso de donos coreanos que pagaram pelo FSD.\n\nO problema está na origem dos carros: Model S, Model X e Cybertruck vêm dos EUA e entram sob o acordo de livre comércio KORUS, que reconhece padrões de segurança americanos. Já os Model 3 e Model Y vendidos no país vêm da Giga Shanghai e precisam de aprovação coreana que o FSD não tem. O gerente da Tesla na Coreia disse a parlamentares que o FSD funciona em cerca de 20% dos Teslas registrados.\n\nO grupo pede que a KFTC ordene temporariamente a suspensão do marketing do FSD para carros não elegíveis, além de multas. A comissão já investiga a publicidade do FSD desde o início do ano.",
-      "category": "tecnologia",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
-      "published_at": "2026-11-04T09:27:02-05:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Korea.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "meiodia-2026-11-04-tecnologia-09",
-      "title": "Revolut passa a valer US$ 115 bilhões e prepara banco nos EUA",
-      "summary": "A fintech britânica Revolut foi avaliada em US$ 115 bilhões em uma venda secundária de ações, 53% a mais que há um ano. A empresa prepara o lançamento de um banco nos EUA em 2027.",
-      "highlights": [
-        "Venda não trouxe dinheiro novo para a empresa",
-        "Mais de 80 milhões de clientes em mais de 40 países",
-        "Margem de lucro de 38% sobre US$ 6 bi de receita em 2025"
-      ],
-      "body": "Investidores da Revolut concluíram uma venda secundária de ações que avalia a fintech britânica em US$ 115 bilhões, 53% acima do valor de uma operação semelhante há um ano, informou o TechCrunch. Glade Brook, Coatue, Durable Capital, T. Rowe Price e Baillie Gifford lideraram a venda, que não trouxe dinheiro novo à empresa.\n\nFundada em 2015, a Revolut tem mais de 80 milhões de clientes em mais de 40 países e lançou bancos neste ano no Reino Unido, México, Austrália e Nova Zelândia. Recebeu aprovação condicional do regulador americano para criar um banco nacional, que pretende lançar no primeiro semestre de 2027.\n\nA empresa teve margem de lucro de 38% sobre receita de US$ 6 bilhões em 2025, e sua divisão de contas empresariais responde por cerca de 20% do lucro bruto.",
+      "body": "Segundo Mawakana, a Waymo fez parceria com a Uber pela escala, mas a experiência dos passageiros tem sido \"meio que uma loteria\", porque eles não sabem se vão chamar um robotáxi ou um carro com motorista. \"É importante termos essa relação com o passageiro\", disse.\n\nA Uber afirmou ao TechCrunch que ainda planeja ter os robotáxis da Waymo no aplicativo enquanto as empresas concordarem. A declaração confirma reportagem do Financial Times de que a Waymo queria sair do acordo.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-      "published_at": "2026-11-04T09:10:10-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629"
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-start-splitting-with-uber-in-january-2028/",
+      "published_at": "2026-11-04T13:12:30-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800"
     },
     {
-      "id": "meiodia-2026-11-04-tecnologia-10",
-      "title": "Titan OS capta US$ 46 milhões para expandir sistema de smart TVs",
-      "summary": "A espanhola Titan OS, que desenvolve sistema operacional para smart TVs, levantou US$ 46 milhões em capital e dívida. A empresa já soma 30 milhões de usuários.",
+      "id": "tarde-2026-11-04-tecnologia-04",
+      "title": "Siri Recaps chega em beta ao Apple Watch Series 12",
+      "summary": "As primeiras versões beta do iOS 27.3 e do watchOS 27.3 trazem quatro recursos de IA de áudio para o Apple Watch Series 12, incluindo o Siri Recaps, que grava e resume conversas. O TechCrunch testou e achou útil, mas um pouco inquietante.",
       "highlights": [
-        "Fundos da BlackRock forneceram linhas de dívida",
-        "Total captado chega a US$ 110 milhões",
-        "Philips trocou o Google TV pelo Titan OS nos modelos 2026"
+        "Recursos detectam sons importantes e identificam músicas",
+        "Live Rewind permite rever os últimos 15 segundos",
+        "Processamento é feito no próprio aparelho"
       ],
-      "body": "A Titan OS, de Barcelona, fabricante de sistema operacional para smart TVs, levantou US$ 46 milhões em capital e dívida, segundo o TechCrunch. O dinheiro vem de linhas de crédito de fundos geridos pela BlackRock e de investidores como Highland Europe e Mangrove Capital Partners; a startup já soma US$ 110 milhões captados.\n\nA proposta da empresa aos fabricantes é gerar receita com canais gratuitos com anúncios (FAST) e publicidade. A Titan OS atende 30 milhões de usuários, ante 18 milhões no ano passado, e adicionou Sharp, AOC, Vestel e Skyworth como parceiras.\n\nA parceria com a Philips foi destaque: a fabricante holandesa trocou o Google TV pelo Titan OS em seus modelos de 2026.",
+      "body": "Os novos recursos permitem detectar sons importantes, como alarmes ou campainhas, identificar músicas com a tecnologia do Shazam, recuperar trechos de conversas e fazer anotações. A detecção de sons ajuda pessoas surdas ou com deficiência auditiva.\n\nSegundo o TechCrunch, depois de um dia de uso o valor do Siri Recaps pode superar o desconforto da gravação e resumo de áudio por IA, mas a ferramenta às vezes registra coisas que não valem ser lembradas e ainda tem espaço para melhorias.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-      "published_at": "2026-11-04T10:00:00-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?resize=1200,750"
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "published_at": "2026-11-04T11:51:35-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+    },
+    {
+      "id": "tarde-2026-11-04-tecnologia-05",
+      "title": "ChatGPT passa a criar GIFs com o novo Images 2.6",
+      "summary": "O ChatGPT agora gera GIFs a partir de um comando ou de uma foto, com ajuste de velocidade e edição quadro a quadro. O recurso chega com o novo modelo Images 2.6 da OpenAI.",
+      "highlights": [
+        "Usuários geram mais de 4 bilhões de imagens por semana",
+        "Eram 3 bilhões por semana em setembro",
+        "API ganha GPT-Image-2.6 Flare e Sunburst"
+      ],
+      "body": "Antes, o ChatGPT não conseguia gerar GIFs nativamente em uma única etapa. Segundo a OpenAI, o Images 2.6 também acelera a geração de imagens e está sendo liberado para todos os usuários do ChatGPT e do Codex na web, no desktop e nos apps móveis.\n\nA empresa diz que os usuários já geram mais de 4 bilhões de imagens por semana no ChatGPT e na API, contra 3 bilhões em setembro. Para desenvolvedores, a OpenAI lança os modelos GPT-Image-2.6 Flare e Sunburst.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "published_at": "2026-11-04T13:00:00-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": "tarde-2026-11-04-tecnologia-06",
+      "title": "Nothing lança em dezembro seu primeiro aparelho de IA, sem tela",
+      "summary": "O CEO da Nothing, Carl Pei, anunciou que o primeiro dispositivo \"nativo de IA\" da empresa começa a ser vendido em dezembro. Ele revelou pouco, além de que o produto não terá tela.",
+      "highlights": [
+        "Pei diz que o produto \"não poderia ter sido um app\"",
+        "Anúncio vem pouco mais de um ano após plano de aparelhos de IA",
+        "Rumores falam em óculos inteligentes com IA"
+      ],
+      "body": "\"Nosso primeiro produto nativo de IA chega no mês que vem. É uma ferramenta, mas feita com a personalidade e o cuidado que definem um produto Nothing. Não tem uma nova tela e não poderia ter sido um app\", escreveu Pei no X.\n\nNo mês passado, um rumor indicou que a Nothing planeja lançar dois pares de óculos inteligentes com IA. O aparelho não seria o primeiro gadget de IA sem tela, depois do Humane AI Pin e do Friend, segundo o The Verge.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "published_at": "2026-11-04T13:26:07-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+    },
+    {
+      "id": "tarde-2026-11-04-tecnologia-07",
+      "title": "Apple prevê dobrar vendas com o MacBook Neo 2",
+      "summary": "A Apple planeja lançar o MacBook Neo 2 no início de 2027 e passou a fornecedores uma previsão de 16 milhões de unidades para o próximo ano, segundo a Digitimes. Isso é cerca do dobro dos quase 8 milhões esperados em 2026.",
+      "highlights": [
+        "Lançamento previsto para o início de 2027, segundo Mark Gurman",
+        "Primeiro MacBook Neo chegou em março de 2026",
+        "Modelo bateu recorde de vendas entre novos usuários de Mac"
+      ],
+      "body": "Quando estreou neste ano, o MacBook Neo virou sucesso imediato e levou a Apple à sua melhor semana de vendas entre compradores de primeiro Mac. Segundo fontes da cadeia de suprimentos, a empresa espera que o sucessor seja ainda maior.\n\nO 9to5Mac observa que parte do aumento se deve ao fato de o modelo estar à venda o ano inteiro em 2027, mas que os meses extras de janeiro e fevereiro não explicam a duplicação das unidades.",
+      "category": "tecnologia",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/",
+      "published_at": "2026-11-04T11:33:02-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "tarde-2026-11-04-tecnologia-08",
+      "title": "Roubo recorde de US$ 6,3 bilhões na Binance começou em um Mac",
+      "summary": "O maior roubo financeiro da história, de US$ 6,3 bilhões em carteiras da Binance, começou com um instalador falso do Homebrew em um Mac, segundo análise do 9to5Mac com base no relatório da empresa. A Binance congelou quase US$ 3 bilhões.",
+      "highlights": [
+        "Engenheiro baixou um clone malicioso do Homebrew",
+        "Segunda etapa usou uma falsa entrevista de emprego",
+        "Hackers norte-coreanos são os principais suspeitos"
+      ],
+      "body": "Segundo a Binance, em junho um engenheiro de DevOps que trabalhava com carteiras baixou, via buscador, um clone malicioso do instalador do Homebrew. A empresa diz ter detectado o problema, mas os invasores descobriram quais funcionários trabalhavam com as carteiras. O malware mirava o diretório usado pelo Homebrew em Macs com Apple Silicon.\n\nEm setembro, outro engenheiro foi atraído para uma falsa entrevista de emprego e convencido a rodar uma \"tarefa\" de programação no computador de trabalho. Em 29 de outubro, veio à tona o roubo, atribuído amplamente a hackers norte-coreanos. Para o 9to5Mac, nenhum dos métodos é novo.",
+      "category": "tecnologia",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/04/security-bite-the-record-6-3b-binance-heist-started-with-a-fake-homebrew-install-on-mac/",
+      "published_at": "2026-11-04T12:18:56-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?resize=1200,628"
+    },
+    {
+      "id": "tarde-2026-11-04-tecnologia-09",
+      "title": "Nintendo vai perder fornecedor de chips dos cartuchos do Switch",
+      "summary": "A Macronix, fornecedora de memória ROM para os cartuchos do Switch, vai reduzir gradualmente essa produção para focar em memória NOR para data centers. A demanda de IA tem mudado as prioridades da indústria de chips.",
+      "highlights": [
+        "Receita de ROM da Macronix caiu 39% no 3º trimestre",
+        "Receita de NOR subiu 158% e de NAND, 768%",
+        "Jogos físicos são 38,5% das vendas da Nintendo"
+      ],
+      "body": "\"A demanda por NOR usada em data centers é muito robusta. Os clientes nos pressionam por mais capacidade\", disse o CEO Miin Wu, segundo o Taipei Times. A empresa também espera que os aumentos de preços de chips continuem.\n\nA Sony anunciou que vai parar de produzir discos físicos de jogos a partir de janeiro de 2028, mas a Nintendo diz não ter planos de abandonar a mídia física, que respondeu por 38,5% de suas vendas, segundo dados divulgados em agosto.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "published_at": "2026-11-04T12:03:32-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": "tarde-2026-11-04-tecnologia-10",
+      "title": "Telescópio Swift, da NASA, cai na Terra após 22 anos",
+      "summary": "O observatório Swift, da NASA, reentrou na atmosfera perto da Indonésia nesta quarta-feira, encerrando 22 anos de estudo das maiores explosões do universo. Uma missão privada de resgate havia fracassado menos de três meses antes.",
+      "highlights": [
+        "Missão prevista para 2 anos durou 11 vezes mais",
+        "Robô da Katalyst Space falhou após lançamento em julho",
+        "NASA estuda resgate do Hubble até 2032"
+      ],
+      "body": "A Força Espacial dos EUA confirmou a reentrada, causada pela intensa atividade solar dos últimos anos que fez a órbita baixar. A NASA havia contratado a Katalyst Space para elevar a órbita, mas o robô de três braços teve problemas após o lançamento e caiu em setembro. Não se sabia quanto da nave de 1,5 tonelada queimou na atmosfera.\n\nLançado em 2004 para estudar explosões de raios gama, o Swift observou milhares delas. A NASA agora consulta empresas sobre uma missão para o Hubble, que deve cair até meados da década de 2030; qualquer missão precisaria ocorrer até 2032.",
+      "category": "tecnologia",
+      "source": "Associated Press (via Local 10)",
+      "url": "https://www.local10.com/business/2026/11/04/nasa-space-telescope-plunges-to-earth-after-two-decades-studying-cosmic-explosions/",
+      "published_at": "2026-11-04T14:41:38-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/MBRKYZME44WKPVY3XZIY5YCZSE.jpg?auth=d54a7fe75af0115ad1bd5c290217a9183f359916c0d8a2020feca2bf405a7b88&width=700"
     }
   ]
 }
