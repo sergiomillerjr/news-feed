@@ -1,408 +1,408 @@
 {
   "version": 2,
-  "generated_at": "2026-11-06T11:20:00-05:00",
-  "edition": "meio-dia",
+  "generated_at": "2026-11-06T15:14:58-05:00",
+  "edition": "tarde",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "eua-jobs-c1e6b7f67e",
-      "title": "EUA criam 165 mil empregos em outubro e desemprego cai a 4,1%",
-      "summary": "O relatório de empregos de sexta-feira mostrou contratação bem acima do esperado, com 165 mil vagas em outubro. O desemprego recuou de 4,2% para 4,1%, mas salários ainda lutam para acompanhar a inflação.",
+      "id": "tarde-2026-11-06-eua-01",
+      "title": "Trump troca Susie Wiles por Stephen Miller na chefia da Casa Branca",
+      "summary": "O presidente Donald Trump anunciou nesta sexta-feira (6) que Stephen Miller assume na segunda-feira o cargo de chefe de gabinete, no lugar de Susie Wiles. A mudança é a maior reorganização da equipe após as derrotas republicanas nas midterms.",
       "highlights": [
-        "165 mil vagas em outubro, bem acima das previsões",
-        "Desemprego cai para 4,1%; revisões somam 84 mil",
-        "Salários sobem 3,1% ao ano, abaixo da inflação"
+        "Miller assume na segunda-feira",
+        "Wiles pediu demissão na noite de quinta",
+        "Trump diz que ela vai para a operação política"
       ],
-      "body": "O Departamento do Trabalho dos EUA informou nesta sexta-feira que os empregadores criaram 165 mil postos em outubro, número bem superior às expectativas do mercado, que giravam em torno de 65 mil. A taxa de desemprego caiu de 4,2% para 4,1%, e as revisões de agosto e setembro acrescentaram 84 mil vagas ao total anterior.\n\nSetores como saúde, manufatura, serviços empresariais, transporte e armazenagem lideraram as contratações, enquanto restaurantes e construção cortaram empregos. O ganho médio de salários foi de 3,1% em 12 meses — aceleração em relação ao mês anterior, mas ainda insuficiente para acompanhar o custo de vida, pressionado pela alta de energia ligada à guerra com o Irã.\n\nAnalistas apontam que a força do mercado de trabalho reforça o foco do Federal Reserve no combate à inflação. Investidores elevam as chances de alta de juros na reunião de dezembro, mesmo após a derrota republicana nas midterms, em que o custo de vida foi tema central para os eleitores.",
+      "body": "O presidente Donald Trump anunciou nesta sexta-feira (6) que o assessor Stephen Miller, hoje vice-chefe de gabinete e conselheiro de Segurança Interna, substituirá Susie Wiles como chefe de gabinete da Casa Branca. Em postagem no Truth Social, Trump chamou Miller de “um dos meus conselheiros mais confiáveis” e disse que ele começa na segunda-feira.\n\nWiles apresentou a demissão na noite de quinta-feira, segundo uma autoridade e um assessor sênior da Casa Branca ouvidos pela CBS News. Fontes ligaram a saída às derrotas republicanas nas eleições de meio de mandato. Trump afirmou a jornalistas que queria “fazer uma mudança” e elogiou o trabalho dela.\n\nSegundo o presidente, Wiles “vai para a Operação Política Trump”. Ela esteve no comando do gabinete desde o início do mandato e havia sido diagnosticada com câncer de mama no início do ano, com anúncio posterior de que estava livre da doença.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/october-jobs-report-us-labor-market-2026/",
-      "published_at": "2026-11-06T08:30:00-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/fac25d37-bc0a-4e0e-98fd-a09946c33417/thumbnail/1200x630/118178c9e5dc00cfe367e7946ea1490f/gettyimages-2293564231.jpg"
+      "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+      "published_at": "2026-11-06T14:00:00-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/06/304f929b-7499-4b88-a848-855f79e12575/thumbnail/1200x630g2/f3a49a1805f92c47dd5a3f624ba34269/gettyimages-2302591065.jpg"
     },
     {
-      "id": "eua-nasdaq-84abf3b6ae",
-      "title": "Medo de freio à IA derruba Nasdaq e apaga US$ 2 trilhões",
-      "summary": "Dois dias após a vitória democrata nas midterms, o Nasdaq despencou mais de 5% com temores de regras mais duras para IA e data centers. A queda apagou mais de US$ 2 trilhões em valor de mercado.",
+      "id": "tarde-2026-11-06-eua-02",
+      "title": "Senado no Mississippi segue indefinido; democrata lidera por cerca de 2 mil votos",
+      "summary": "A disputa ao Senado no Mississippi permanece em aberto. Até o meio-dia desta sexta, o democrata Scott Colom liderava a republicana Cindy Hyde-Smith por pouco mais de 2 mil votos, com milhares de cédulas ainda a contar.",
       "highlights": [
-        "Nasdaq cai mais de 5% na quinta-feira",
-        "Mais de US$ 2 trilhões em valor evaporam",
-        "Eleitores reagiram contra data centers de IA"
+        "Colom liderava por cerca de 2 mil votos",
+        "Milhares de cédulas ainda serão apuradas",
+        "Democratas já têm maioria no Senado"
       ],
-      "body": "Investidores reagiram com força à onda azul das midterms: o Nasdaq, concentrado em tecnologia, caiu mais de 5% na quinta-feira, enquanto Dow e S&P também recuaram. Segundo a NPR, o movimento apagou mais de US$ 2 trilhões em valor de mercado, revertendo o alívio inicial visto na quarta-feira.\n\nO medo central é de que o Congresso democrata — e governos estaduais — freiem a expansão de data centers e imponham regras mais rígidas à inteligência artificial. Em várias localidades, eleitores aprovaram restrições a esses projetos, preocupados com consumo de água e energia.\n\nEmpresas como Meta e Alphabet dependem desses centros para avançar em IA. A queda também veio após um ano já difícil para ações de tecnologia, com dúvidas sobre o retorno dos investimentos massivos no setor.",
-      "category": "eua",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-      "published_at": "2026-11-05T19:16:00-05:00",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3575x2011+0+114/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F8a%2F246fd1f04d62b6c6e0b904447992%2Fgettyimages-2303241458.jpg"
-    },
-    {
-      "id": "eua-datacenters-0aebc190ee",
-      "title": "Democratas pedem moratória nacional a data centers de IA",
-      "summary": "Após a vitória nas midterms, líderes democratas e progressistas cobram limites à expansão de data centers. Bernie Sanders pediu uma 'moratória nacional agora', citando referendos locais.",
-      "highlights": [
-        "Sanders: 'moratória nacional a data centers agora'",
-        "56% dos eleitores viram IA/data centers como fator de voto",
-        "Ações ligadas à IA já sofrem pressão no mercado"
-      ],
-      "body": "Com a maioria democrata consolidada no Congresso, figuras do partido passaram a cobrar freios à construção de data centers. O senador Bernie Sanders destacou referendos locais que restringiram esses projetos e escreveu: “National data center moratorium now.”\n\nA deputada Yassamin Ansari (Arizona) pediu pausa no desenvolvimento avançado de IA já no primeiro dia da nova maioria na Câmara, com apoio do líder progressista Greg Casar. Pesquisa CNBC mostrou que 56% dos eleitores consideraram IA e data centers fator crucial ou importante no voto; entre eles, 65% escolheram candidatos democratas.\n\nO discurso reforça o nervosismo de Wall Street: ações com exposição a IA já caíram após as midterms, ante o risco de regras federais e estaduais mais rigorosas sobre energia, água e expansão da infraestrutura.",
-      "category": "eua",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "published_at": "2026-11-05T15:16:00-05:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108363195-1789494139297-gettyimages-2294931488-AFP_C8EA8N2.jpeg?v=1789494213&w=1920&h=1080"
-    },
-    {
-      "id": "eua-dhillon-d0f5517392",
-      "title": "Chefe de Direitos Civis do DOJ pede demissão após midterms",
-      "summary": "Harmeet Dhillon deixou a Divisão de Direitos Civis do Departamento de Justiça dois dias após a derrota republicana. O procurador-geral Todd Blanche aceitou a renúncia.",
-      "highlights": [
-        "Dhillon deixa Divisão de Direitos Civis do DOJ",
-        "Saída ocorre dois dias após midterms",
-        "Liderou ações polêmicas sob Trump"
-      ],
-      "body": "Harmeet Dhillon, que comandava a Divisão de Direitos Civis do Departamento de Justiça, apresentou renúncia na quinta-feira. O procurador-geral Todd Blanche informou no X que aceitou o pedido e agradeceu o serviço público da advogada republicana.\n\nDhillon descreveu o cargo como “honra de uma vida” e destacou ações contra programas de DEI e em defesa do esporte feminino. Sob sua gestão, a divisão impulsionou processos contra universidades de elite, pediu listas de eleitores a dezenas de estados (a maioria rejeitada na Justiça) e se recusou a abrir investigação federal sobre um caso de uso da força pela ICE.\n\nA saída é a primeira de alto escalão no DOJ após os democratas conquistarem a Câmara e o Senado, e ocorre em meio a expectativas de mudança de tom na política de direitos civis do governo Trump.",
-      "category": "eua",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/justice-department/head-doj-civil-rights-division-resigns-gop-midterms-loss-rcna607697",
-      "published_at": "2026-11-05T14:28:00-05:00",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-Harmeet-Dhillon-vl-126p-1932aa.jpg"
-    },
-    {
-      "id": "eua-iran-gulf-7fd4c5e94b",
-      "title": "Petróleo sobe um pouco; petroleiros sofrem novos ataques no Golfo",
-      "summary": "Após a queda pós-midterms, o petróleo reboundeu levemente enquanto o Irã reporta petroleiros atingidos por minas no Estreito de Ormuz. Omã segue em diálogo para gerir o tráfego na rota.",
-      "highlights": [
-        "Irã reporta petroleiros atingidos por minas perto de Ormuz",
-        "Petróleo rebounde após queda pós-midterms",
-        "Omã negocia controle conjunto do tráfego no estreito"
-      ],
-      "body": "Atualizações da CBS News nesta sexta mostram que o preço do petróleo recuperou parte das perdas registradas após as midterms, quando o mercado especulou sobre um possível acordo para encerrar a guerra com o Irã e reabrir o Estreito de Ormuz. Ainda assim, o tráfego comercial na região segue sob risco.\n\nA Guarda Revolucionária iraniana afirmou que dois petroleiros atingiram minas e pegaram fogo dentro e perto do estreito, um dia depois de Teerã reportar incidentes semelhantes. Moscou alertou cidadãos russos a não viajar ao Irã, citando risco de nova escalada, enquanto um alto oficial iraniano se reuniu com Vladimir Putin no Kremlin.\n\nOmã disse que continua conversas com o Irã para criar um sistema conjunto de controle do tráfego nas vias marítimas, com o objetivo de “encerrar o estado de guerra e evitar novos confrontos”. A coalizão saudita também informou ter interceptado mísseis hutis contra a cidade de Najran.",
+      "body": "A corrida ao Senado no Mississippi, estado profundamente republicano, segue sem definição dois dias após a votação. Até o meio-dia desta sexta-feira (6), o democrata Scott Colom, promotor distrital, liderava a senadora republicana Cindy Hyde-Smith por pouco mais de 2 mil votos, com cerca de 96% das urnas apuradas, segundo a CBS News.\n\nAutoridades estaduais dizem que várias milhares de cédulas ainda precisam ser contadas, e as duas campanhas expressam confiança. O NPR destacou que ninguém sabe com precisão quantas cédulas provisórias e restantes existem, dada a apuração descentralizada e lenta do estado.\n\nOs democratas já conquistaram cadeiras suficientes para controlar o Senado no ano que vem. Uma eventual vitória de Colom ampliaria a folga da maioria; o Mississippi não elege um democrata ao Senado desde 1982.",
       "category": "eua",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-      "published_at": "2026-11-06T03:55:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/05/365928ef-6306-4d5e-a1af-d30458e6d47c/thumbnail/1200x630/184b7d2311ea1b632b63bf39384d2bba/ship-oman-persian-gulf-2299514328.jpg"
+      "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+      "published_at": "2026-11-06T14:50:00-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/fcb281c4-4540-4310-a779-29fcb2008eff/thumbnail/1200x630g2/e523bab69f2674145699bd6d8f50cab5/colom-hyde-smith.jpg"
     },
     {
-      "id": "eua-ai-bounce-a1d7766164",
-      "title": "Ações de IA sobem na sexta após tombo de trilhões",
-      "summary": "O Nasdaq abriu em alta de cerca de 1,2% e recuperou parte da queda de 5,5% da quinta. Nvidia subiu mais de 6% no começo do pregão, após perder centenas de bilhões em valor.",
+      "id": "tarde-2026-11-06-eua-03",
+      "title": "Chefe de Segurança Nacional do DOJ pede demissão após midterms",
+      "summary": "John Eisenberg, assistente do procurador-geral à frente da Divisão de Segurança Nacional do Departamento de Justiça, pediu demissão nesta sexta. É o segundo chefe de divisão a sair esta semana, após Harmeet Dhillon na área de Direitos Civis.",
       "highlights": [
-        "Nasdaq abre +1,23% após queda de 5,5%",
-        "Nvidia sobe mais de 6% no início do pregão",
-        "Relatório de empregos mistura o cenário"
+        "Eisenberg deixou a Divisão de Segurança Nacional",
+        "Dhillon saiu na quinta dos Direitos Civis",
+        "Também renunciou o procurador federal do Sul da Flórida"
       ],
-      "body": "Depois de uma quinta-feira devastadora para ações de tecnologia, o mercado tentou se recompor nesta sexta. Segundo a BBC, o Nasdaq Composite abriu em alta de 1,23% e seguia ganhando terreno, revertendo parte da queda de 5,5% do dia anterior, enquanto o S&P 500 também abria levemente positivo.\n\nA Nvidia, que perdeu centenas de bilhões de dólares em valor de mercado na quinta com queda de mais de 9%, começou a sexta em alta superior a 6%. Tesla e SpaceX também mostravam recuperação parcial. A venda recente refletiu temores de que a vitória democrata traga regras mais rígidas para IA e data centers.\n\nO relatório forte de empregos dos EUA acrescentou um quadro misto: reforça a economia, mas pode manter o Fed no caminho de juros mais altos. Trump reiterou apoio ao que chama de “superinteligência”, criticando líderes que, segundo ele, freariam o setor.",
+      "body": "John Eisenberg, assistente do procurador-geral responsável pela Divisão de Segurança Nacional do Departamento de Justiça, pediu demissão abruptamente nesta sexta-feira (6), informou o órgão. O procurador-geral Todd Blanche anunciou a saída no X e agradeceu o trabalho de Eisenberg no combate a ameaças internas e externas.\n\nEle é o segundo assistente do procurador-geral a deixar o cargo esta semana, dois dias após os democratas reconquistarem a Câmara e o Senado. Na quinta, Harmeet Dhillon pediu demissão do comando da Divisão de Direitos Civis — ela já havia avisado a Casa Branca antes da eleição que pretendia sair.\n\nTambém nesta sexta pediu demissão Jason Reding Quiñones, procurador dos EUA no Distrito Sul da Flórida. Com a oposição democrata prestes a assumir a fiscalização no Congresso, autoridades do DOJ avaliam que nomes mais polarizadores podem se tornar passivo político.",
       "category": "eua",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c35ynnpzdq51o",
-      "published_at": "2026-11-06T09:00:00-05:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a55a/live/c7545ca0-d9ec-11f1-bbe5-797ee05bee69.jpg"
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/john-eisenberg-justice-department-resigns/",
+      "published_at": "2026-11-06T12:51:14-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/f4aaf9fc-a250-48b0-ac80-c4fe8f2b3e6e/thumbnail/1200x630g2/a75643192873d1fa0410ec3427e28020/screenshot-2026-11-06-at-12-40-00-pm.png"
     },
     {
-      "id": "eua-iran-wary-81e2656163",
-      "title": "Irã teme novos ataques dos EUA apesar do peso da guerra nas urnas",
-      "summary": "Trump e JD Vance reconheceram o papel da guerra com o Irã na derrota republicana. Teerã concorda com a leitura política, mas segue alerta a uma possível nova ofensiva americana.",
+      "id": "tarde-2026-11-06-eua-04",
+      "title": "Senador Chris Murphy deixa hospital após AVC e ficará semanas sem votar",
+      "summary": "O democrata Chris Murphy, de Connecticut, recebeu alta nesta sexta após um AVC hemorrágico pequeno no tálamo. Ele seguirá em reabilitação e deve faltar a várias semanas de votações no Senado.",
       "highlights": [
-        "Trump e Vance admitem impacto da guerra nas midterms",
-        "Irã vê pressão política, mas teme nova ofensiva",
-        "Decisão de Washington sobre próximos passos ainda aberta"
+        "AVC hemorrágico pequeno no tálamo",
+        "Médicos esperam recuperação plena",
+        "Murphy tem 53 anos"
       ],
-      "body": "Tanto o presidente Donald Trump quanto o vice JD Vance reconheceram publicamente que a guerra com o Irã pesou na derrota republicana nas midterms. A NPR reporta que Teerã compartilha essa avaliação política, mas permanece cautelosa quanto a novos ataques dos EUA.\n\nA leitura em Teerã é que a pressão doméstica americana pode favorecer diplomacia, sem eliminar o risco de escalada. Trump já sinalizou que decidirá em breve se retoma bombardeios em larga escala, mantém pressão econômica ou busca um acordo, após reunião com a equipe de segurança nacional.\n\nO contraste entre o custo político da guerra nos EUA e a postura defensiva iraniana mantém o Oriente Médio em suspense, com mercados e vizinhos atentos a qualquer sinal de acordo — ou de nova ofensiva.",
+      "body": "O senador democrata Chris Murphy, de Connecticut, recebeu alta hospitalar nesta sexta-feira (6) após sofrer um AVC há quase uma semana, mas ficará várias semanas sem votar enquanto se recupera em um centro de reabilitação.\n\nEm comunicado, Murphy, de 53 anos, disse ter sentido algo errado no corpo no sábado passado e ter ligado para o 911. Foi diagnosticado com um pequeno sangramento na região do tálamo. O dr. Jose Suarez, de Johns Hopkins, onde ele foi internado, afirmou que o quadro é de AVC hemorrágico pequeno e que, no ritmo atual, a expectativa é de recuperação plena após a reabilitação.\n\nMurphy disse que está levando a recuperação a sério e agradeceu às equipes médicas. A ausência ocorre no momento em que os democratas se preparam para assumir o controle do Senado no início do próximo ano.",
       "category": "eua",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6029100/iran-wary-of-new-u-s-attacks-despite-trump-noting-wars-role-in-election-losses",
-      "published_at": "2026-11-05T17:00:00-05:00",
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/chris-murphy-stroke-hospital-miss-votes/",
+      "published_at": "2026-11-06T14:41:00-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/06/66b97d20-5728-4471-8c3a-6e8e37c92587/thumbnail/1200x630g2/8da2e16b5b8bc4b28c373fe6f7a7de5b/gettyimages-2289530066.jpg"
     },
     {
-      "id": "mundo-paraguay-93bab4a6d2",
-      "title": "Congresso do Paraguai rejeita renúncia de Peña após crise bancária",
-      "summary": "Após o colapso do Ueno Bank, Santiago Peña pediu demissão, mas o Congresso avançou com impeachment. Cerca de 3 milhões de clientes ficaram sem acesso a contas.",
+      "id": "tarde-2026-11-06-eua-05",
+      "title": "Democratas conquistam trifecta no Arizona pela 1ª vez desde 1966",
+      "summary": "A Associated Press confirmou nesta sexta que os democratas viraram a Câmara e o Senado estaduais do Arizona e mantiveram o governo de Katie Hobbs. É a primeira trifecta democrata no estado em 60 anos.",
       "highlights": [
-        "Peña tenta renunciar; Congresso prefere impeachment",
-        "Ueno Bank congela contas de ~3 milhões de clientes",
-        "Impeachment pode retirar imunidade vitalícia"
+        "AP proclamou a virada das duas casas nesta sexta",
+        "Hobbs vetou mais de 540 projetos no 1º mandato",
+        "Republicanos controlavam a Câmara há 60 anos"
       ],
-      "body": "O presidente do Paraguai, Santiago Peña, anunciou renúncia na quinta-feira em meio ao colapso do banco digital Ueno, que congelou depósitos de cerca de 3 milhões de clientes — cerca de 60% dos adultos do país. O Congresso, porém, recusou aceitar a saída e avançou com processo de impeachment.\n\nA Câmara baixa votou 78 a 0 pelo impeachment, e o Senado abriu o julgamento, convocando Peña para sexta-feira. Uma sessão conjunta para analisar a renúncia perdeu quórum após saída de aliados. Aceitar a renúncia lhe daria status de senador vitalício com imunidade; a condenação no impeachment impede esse escudo.\n\nO banco central colocou o Ueno em resolução após a solvência cair a menos da metade do mínimo legal. Protestos tomaram Assunção, e o ex-presidente Horacio Cartes disse que o Partido Colorado não se alinharia ao “roubo” de fundos públicos, privados e de pensões.",
+      "body": "Os democratas do Arizona conquistaram o controle das duas casas do Legislativo estadual e mantiveram o governo de Katie Hobbs, formando a primeira trifecta do partido no estado desde 1966, segundo a Associated Press, que proclamou as viradas nesta sexta-feira (6).\n\nNo primeiro mandato, Hobbs vetou mais de 540 medidas aprovadas pela maioria republicana, em temas como impostos, imigração e leis eleitorais. Ela afirmou querer avançar em água, custo de vida e no combate a fraudes e abusos no programa de vouchers escolares.\n\nOs republicanos controlavam a Câmara do Arizona há 60 anos e o Senado desde o início dos anos 1990. A virada se soma à retomada democrata do Congresso nacional nas midterms desta semana.",
+      "category": "eua",
+      "source": "Local10 / AP",
+      "url": "https://www.local10.com/news/politics/2026/11/06/democrats-win-the-arizona-house-senate-and-governors-office-for-the-first-time-since-1966/",
+      "published_at": "2026-11-06T13:44:40-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/ZJ77SQSHSQ6DFDNCNSLCJRVRSU.jpg?auth=ae9a0f61ffab6461d01fb3b0a2095f8edd7483e56bbda1e4c4ef573a1bd6ab82&width=700"
+    },
+    {
+      "id": "tarde-2026-11-06-eua-06",
+      "title": "Prefeito de Houston limita cooperação com o ICE após vitória democrata",
+      "summary": "John Whitmire assinou nesta sexta ordem para a polícia de Houston restringir o contato com a imigração federal. Ele citou o resultado das midterms e as vitórias democratas no Texas, incluindo a eleição de Gina Hinojosa ao governo.",
+      "highlights": [
+        "Ordem limita contato policial com o ICE",
+        "Whitmire: “eleições importam”",
+        "Hinojosa derrotou Abbott no Texas"
+      ],
+      "body": "O prefeito de Houston, John Whitmire, determinou nesta sexta-feira (6) que a polícia da cidade limite a cooperação com as autoridades federais de imigração. Ele descreveu a medida como consequência direta da retomada democrata de poder no Texas pela primeira vez em décadas.\n\nA decisão na quarta maior cidade dos EUA é uma das primeiras ações locais a restringir operações do ICE após a derrota republicana nas midterms. Whitmire, democrata, disse que a cidade vai atrás de imigrantes “que representam perigo, não daqueles que cuidam da família e do trabalho”. O ICE só seria acionado em crimes passíveis de prisão, segundo a ordem.\n\nNo Texas, a democrata Gina Hinojosa derrotou o governador republicano Greg Abbott e será a primeira latina e a primeira democrata a ocupar o cargo em mais de 30 anos. Whitmire afirmou: “Eu já disse muitas vezes: eleições importam.”",
+      "category": "eua",
+      "source": "Local10 / AP",
+      "url": "https://www.local10.com/news/2026/11/06/houston-mayor-signs-order-to-limit-cooperation-with-ice-says-elections-matter-after-democrats-win/",
+      "published_at": "2026-11-06T14:24:08-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/SEH762IXXHWRTD2MKT2DF4BW2A.jpg?auth=e68538c8e388a59dc17c18ffb00f6294a2f3b553e611ae65d7e6bd8df1cc4bb6&width=700"
+    },
+    {
+      "id": "tarde-2026-11-06-eua-07",
+      "title": "Eleitores rejeitam data centers; Wall Street ainda sente o tombo da IA",
+      "summary": "Pesquisas de boca de urna da CBS mostram maioria nacional contra data centers no próprio bairro. Nesta sexta o Nasdaq subia cerca de 1,1% após a correção de quinta, quando o medo de freio à expansão de IA derrubou as big techs.",
+      "highlights": [
+        "Maioria rejeita data center na própria comunidade",
+        "Pelo menos 44 de 47 medidas restritivas passaram",
+        "Nasdaq sobe cerca de 1,1% nesta sexta"
+      ],
+      "body": "Data centers de inteligência artificial foram fator relevante para mais da metade dos eleitores nas midterms de 2026, segundo pesquisas de boca de urna da CBS News. Grandes maiorias, no país e nos estados-chave do Senado, disseram se opor à construção de um centro desses na própria comunidade — oposição que beneficiou sobretudo candidatos democratas.\n\nEleitores aprovaram pelo menos 44 de 47 propostas locais para restringir data centers, de banimentos a moratórias temporárias. A preocupação também alimentou a volatilidade das bolsas: na quinta o Nasdaq entrou em correção sob temor de freio político ao gasto com IA.\n\nNesta sexta-feira (6), o S&P 500 subia cerca de 0,5% e o Nasdaq cerca de 1,1% na tarde, sem apagar a perda de quinta, o pior dia do índice desde abril de 2025. Analistas lembram que Trump mantém poder de veto, o que limita restrições federais amplas, mas a pressão deve continuar em estados e municípios.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/exit-polls-data-centers-2026-election/",
+      "published_at": "2026-11-06T14:17:00-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/06/67e8de58-f34b-48de-adf8-a4185dfe692f/thumbnail/1200x630/10e5bb7afea03e154ea6998e4721db32/gettyimages-2272795447.jpg"
+    },
+    {
+      "id": "tarde-2026-11-06-mundo-01",
+      "title": "Papa Leão XIV chega à América Latina e diz estar ‘orgulhoso de ser americano’",
+      "summary": "O papa Leão XIV desembarcou no Uruguai para uma viagem de 12 dias por três países, a primeira grande turnê internacional após cirurgia de câncer de pulmão. No avião, afirmou estar orgulhoso de ter votado nas midterms dos EUA.",
+      "highlights": [
+        "Viagem de 12 dias: Uruguai, Argentina e Peru",
+        "12 voos e 36 discursos previstos",
+        "Leo votou por correspondência em Chicago"
+      ],
+      "body": "O papa Leão XIV chegou à América do Sul nesta sexta-feira (6) para uma jornada de 12 dias por Uruguai, Argentina e Peru — a mais longa e abrangente de seu pontificado e a primeira grande viagem após a cirurgia para remover o lobo inferior do pulmão direito no mês passado.\n\nSegundo o NPR, o itinerário inclui 12 voos (dois de helicóptero), 36 discursos e 10 cidades, entre elas Cusco, no Peru, a mais de 3.300 metros de altitude. O Vaticano afirma que ele concluiu as duas semanas de recuperação.\n\nA bordo do avião papal, Leão disse à AP estar “orgulhoso de ser americano e de exercer o direito” de votar nas midterms que deram o Congresso aos democratas. Evitou comentar o resultado e lembrou que enviou cédula por correio de Chicago; também tem cidadania peruana.",
       "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse",
-      "published_at": "2026-11-05T18:00:00-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aecb737ae6c-1793898295.jpg?resize=1920%2C1440"
+      "source": "NPR / AP",
+      "url": "https://www.local10.com/news/world/2026/11/06/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
+      "published_at": "2026-11-06T14:34:14-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/KVWEOMN5IHFLHI5EDVOTY3ZWBI.jpg?auth=e150d5865b782182358f6f4ff6cbd5621f64583232474b2be686b313e6584409&width=700"
     },
     {
-      "id": "mundo-france-230882e23c",
-      "title": "Protestos na França reunem 600 mil contra custo de vida",
-      "summary": "O Ministério do Interior estimou 600 mil pessoas em atos; a CGT fala em 1,57 milhão. O primeiro-ministro convocou conferência social com sindicatos para segunda-feira.",
+      "id": "tarde-2026-11-06-mundo-02",
+      "title": "Peña falta a julgamento de impeachment no Paraguai após crise do banco Ueno",
+      "summary": "O presidente Santiago Peña não compareceu nesta sexta ao julgamento de impeachment no Senado paraguaio. Senadores rejeitaram por 39 a 3 o pedido dele de mais 72 horas e avançam para um veredicto ligado ao colapso do banco Ueno.",
       "highlights": [
-        "Interior: 600 mil; CGT: 1,57 milhão",
-        "Cinco sindicatos em dia nacional de ação",
-        "PM Lecornu marca conferência social na segunda"
+        "Senado rejeitou adiamento por 39 a 3",
+        "Peña alega ter recebido autos só horas antes",
+        "Acusação: uso de influência e fundos públicos no banco"
       ],
-      "body": "Mais de 600 mil pessoas participaram de manifestações na França na quinta-feira, segundo o Ministério do Interior. A central sindical CGT estimou 1,57 milhão e descreveu o nível como “sem paralelo” desde 2023, com grandes atos em Paris, Marselha, Bordeaux e Lille.\n\nCinco sindicatos se uniram à jornada por salários e serviços públicos. O movimento começou em setembro com reclamações de escolas e universidades e se espalhou a trabalhadores e a um revival dos “coletes amarelos”. O primeiro-ministro Sébastien Lecornu disse que convocará uma conferência social com sindicatos e empregadores na segunda-feira.\n\nHouve focos de tensão: carro incendiado em Lyon, choques em Rennes e uso de gás lacrimogêneo em Bordeaux. O interior havia mobilizado 70 mil policiais e prometido resposta firme a violência.",
+      "body": "O presidente do Paraguai, Santiago Peña, não compareceu nesta sexta-feira (6) ao julgamento de impeachment no Senado, apesar de ter prometido se defender pessoalmente. Os senadores rejeitaram por 39 votos a 3 o pedido dele de mais 72 horas para preparar a defesa.\n\nPeña disse ter recebido a intimação só horas antes da sessão, junto com cerca de 300 páginas de acusações e provas. Seus advogados argumentaram que o Senado deveria ter aceitado a renúncia apresentada na quinta, em vez de seguir com o processo.\n\nEle é acusado de usar influência política para direcionar centenas de milhões de dólares em fundos públicos ao banco ligado à sua administração e de permitir que reguladores ignorassem irregularidades. A oposição insiste que o julgamento continue; a crise do Ueno abala a economia e a política do país.",
       "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckx2qzv835pgo",
-      "published_at": "2026-11-05T14:00:00-05:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg"
+      "source": "Local10 / AP",
+      "url": "https://www.local10.com/news/2026/11/06/pena-skips-senate-impeachment-trial-as-paraguay-reels-from-ueno-bank-collapse/",
+      "published_at": "2026-11-06T14:26:21-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/N6CMYJGKXY5HOWJX72TTN2WZCI.jpg?auth=cdf9949ece81d5b697409ba7c74e506960a3f2dcf525e96492cbe0b4bc07aef5&width=700"
     },
     {
-      "id": "mundo-flights-155e203a75",
-      "title": "Ameaças de bomba afetam dezenas de voos na Europa",
-      "summary": "Pelo menos 34 voos foram atingidos por alertas falsos esta semana, com pousos de emergência e buscas. Nenhuma explosivo foi encontrado; autoridades falam em possível ação coordenada.",
+      "id": "tarde-2026-11-06-mundo-03",
+      "title": "Ucrânia vê ‘otimismo contido’ em negociações trilaterais em Abu Dhabi",
+      "summary": "Kyrylo Budanov, chefe do Gabinete Presidencial ucraniano, disse à CBS que há “otimismo contido” de progresso rumo a um eventual encontro entre Zelensky e Putin. Delegações da Ucrânia, Rússia e EUA se reúnem em 10 e 11 de novembro.",
       "highlights": [
-        "Pelo menos 34 voos afetados nesta semana",
-        "Ryanair, Aer Lingus, easyJet e outras atingidas",
-        "Investigadores avaliam campanha coordenada"
+        "Reuniões em Abu Dhabi nos dias 10 e 11",
+        "Foco em garantias de segurança pós-guerra",
+        "Primeiras falas trilaterais desde fevereiro"
       ],
-      "body": "Ameaças falsas de bomba interromperam ao menos 34 voos na Europa esta semana, segundo o Guardian. Na quinta, pelo menos 25 alertas afetaram rotas entre Itália, Irlanda, Reino Unido, Espanha, Bulgária e outros países. Todos os aviões pousaram em segurança e as buscas não acharam nada suspeito.\n\nCompanhias como Ryanair, Aer Lingus, Wizz Air, Finnair, easyJet, Iberia e LOT foram afetadas. Heathrow e Birmingham também receberam ameaças, tratadas como hoaxes. E-mails enviados a aeroportos de Roma e Sófia teriam sido assinados por “lutadores do Male State”, movimento ultranacionalista russo; não há prova de autoria estatal.\n\nA Iata cobrou identificação da origem das ameaças. O ministro da Defesa italiano falou em guerra “abaixo do limiar” de atribuição. Especialistas veem padrão caótico, mas coordenado, cujo sucesso pode ser apenas gerar caos e desgaste de segurança.",
+      "body": "Kyrylo Budanov, chefe do Gabinete Presidencial da Ucrânia, expressou nesta sexta-feira (6) “otimismo contido” de que as negociações trilaterais da próxima semana possam avançar rumo a um eventual encontro entre Volodymyr Zelensky e Vladimir Putin.\n\nDelegações ucraniana, russa e americana se reunirão em Abu Dhabi em 10 e 11 de novembro — as primeiras conversas trilaterais desde fevereiro e as primeiras após a tensão em torno da redução do Starshield da SpaceX. Segundo Budanov, o foco serão garantias de segurança do pós-guerra para Ucrânia e Rússia.\n\n“Agora, obviamente, todas as partes quiseram realizar esta reunião. Isso significa que há certos pré-requisitos”, disse ele à CBS News. Budanov, que comandou a inteligência de defesa antes de assumir o Gabinete Presidencial em janeiro, integrará a delegação liderada pelo principal negociador ucraniano.",
       "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "published_at": "2026-11-05T13:17:00-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/8be530b5c237fee6a55ec439ba8a4e0c218f7f83/663_0_4160_3328/master/4160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1554b8dff42d58d9df0bc0141f60a34"
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ukraine-official-kyrylo-budanov-optimistic-us-relations-trilateral-negotiations-russia/",
+      "published_at": "2026-11-06T14:52:27-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/63825763-a535-4b05-8115-c60fb43bfaa5/thumbnail/1200x630/4d6c75aa86b4e909323a51f407c1d228/gettyimages-2293487253.jpg"
     },
     {
-      "id": "mundo-mecca-7d95894d59",
-      "title": "Turquia ratifica pacto de defesa com Arábia Saudita e Paquistão",
-      "summary": "O Parlamento turco aprovou o Acordo de Defesa Conjunta de Meca por 279 a 119. O texto inclui cláusula semelhante ao Artigo 5 da Otan, mas envio de tropas exigiria nova autorização.",
+      "id": "tarde-2026-11-06-mundo-04",
+      "title": "Protesto invade obra de data center da Microsoft em Amsterdã",
+      "summary": "Manifestantes invadiram nesta sexta o canteiro de um novo data center da Microsoft em Amsterdã, subiram em um guindaste e lançaram flares. A ação integra uma onda europeia que pede moratória a grandes centros de dados.",
       "highlights": [
-        "Aprovado por 279 a 119 no Parlamento turco",
-        "Cláusula de defesa coletiva estilo Artigo 5 da Otan",
-        "Contexto de ataques hutis à Arábia Saudita"
+        "Grupo Geef Tegengas ocupa o canteiro",
+        "Ações previstas em vários países no fim de semana",
+        "Crítica a energia e uso para IA"
       ],
-      "body": "O Parlamento da Turquia ratificou nesta quinta o Acordo de Defesa Conjunta de Meca com Arábia Saudita e Paquistão, por 279 votos a 119. O pacto, assinado em agosto, inclui cláusula de assistência mútua em caso de ataque armado — espelhando o Artigo 5 da Otan.\n\nO documento prevê também cooperação industrial de defesa, treinamento conjunto, partilha de inteligência e logística, com validade inicial de 10 anos e possibilidade de novos membros (a Síria já demonstrou interesse). Críticos questionam conflito de lealdade da Turquia, membro da Otan; autoridades turcas rejeitam a preocupação.\n\nO ministro da Defesa Yaşar Güler disse que o escopo de apoio a Riad seria definido após a ratificação e que Ancara não prevê conflito direto com os hutis, e sim reforço de dissuasão. A Arábia Saudita anunciou na quinta a interceptação de um drone na região de Medina.",
+      "body": "Manifestantes invadiram nesta sexta-feira (6) o canteiro de obras de um novo data center da Microsoft em Amsterdã. Alguns subiram em um guindaste e lançaram flares, enquanto outros entraram em confronto com a polícia, segundo a Associated Press.\n\nNathan Timmer, do grupo Geef Tegengas (“Reaja”), disse à emissora local AT5 que a ocupação busca impedir a construção. “Não queremos que seja construído. Ninguém precisa disso”, afirmou, criticando o uso para “lixo de IA”, guerra e vigilância.\n\nCampanhas contra data centers na Europa planejam protestos e outras ações em vários países nesta sexta e sábado, pedindo moratória a empreendimentos de grande porte por preocupações sociais e ambientais com o consumo de energia.",
       "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
-      "published_at": "2026-11-06T06:00:00-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26219433507335-1791229441.jpg?resize=1920%2C1440"
+      "source": "Local10 / AP",
+      "url": "https://www.local10.com/tech/2026/11/06/protesters-break-into-microsoft-data-center-site-in-amsterdam-as-europes-backlash-spreads/",
+      "published_at": "2026-11-06T14:00:58-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/PUMDGBQ2W4S5RGLSGIL3EVZ4GM.jpg?auth=f3c46e096e62585160b3583d771e1bd74a6620f49a4a01ceeaae1eba1977d676&width=700"
     },
     {
-      "id": "mundo-pope-4e991e5e22",
-      "title": "Papa Leão XIV inicia viagem de 12 dias à América Latina",
-      "summary": "O pontífice deixou Roma às 7h05 e segue para Uruguai, Argentina e Peru. É a sexta viagem internacional do pontificado e a primeira à região como papa.",
+      "id": "tarde-2026-11-06-mundo-05",
+      "title": "Rubio vai à reunião do G7 na França em meio a tensão com o Irã",
+      "summary": "O secretário de Estado Marco Rubio viaja a Paris na segunda e terça para a reunião de chanceleres do G7, a primeira viagem internacional após as midterms. Deve ser cobrado sobre a política dos EUA no Irã e no Estreito de Ormuz.",
       "highlights": [
-        "Partida de Roma às 7h05 rumo a Montevidéu",
-        "Roteiro de 12 dias: Uruguai, Argentina e Peru",
-        "Sexta viagem internacional do pontificado"
+        "Reunião do G7 em Paris na segunda e terça",
+        "Primeira viagem de Rubio após as midterms",
+        "Foco esperado: Irã e Estreito de Ormuz"
       ],
-      "body": "O Papa Leão XIV partiu nesta sexta-feira do aeroporto de Fiumicino, em Roma, às 7h05, iniciando viagem apostólica de 12 dias ao Uruguai, Argentina e Peru. Segundo o Vatican News, a chegada a Montevidéu-Carrasco estava prevista para cerca das 16h30, com cerimônia oficial de boas-vindas.\n\nÉ a sexta viagem internacional desde o início do pontificado e a primeira do papa norte-americano à América Latina como pontífice. O programa inclui encontros com autoridades, missas públicas e visitas a comunidades; o Peru tem peso pessoal, país onde ele serviu por quase duas décadas.\n\nA agenda densa ocorre semanas após cirurgia por câncer de pulmão, com médicos autorizando o ritmo completo da missão pastoral.",
+      "body": "O secretário de Estado Marco Rubio embarca na próxima semana para sua primeira viagem internacional após as midterms, a fim de participar da reunião de ministros das Relações Exteriores do G7 na França, informou o Departamento de Estado nesta sexta-feira (6).\n\nRubio se encontrará em Paris, na segunda e terça, com pares do Reino Unido, Canadá, França, Alemanha, Itália e Japão. A expectativa é que seja questionado sobre a política da administração Trump no Irã, após as pesadas derrotas republicanas nas urnas.\n\nA atualização da CBS sobre a guerra no Irã destaca que Trump continua a falar em decisão iminente sobre novos ataques, ao mesmo tempo em que mantém canais diplomáticos. O Estreito de Ormuz segue no centro das preocupações de segurança energética.",
       "category": "mundo",
-      "source": "Vatican News",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
-      "published_at": "2026-11-06T01:21:00-05:00",
-      "image_url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/06/2026-11-06-viaggio-apostolico-in-uruguay--argentina-e-peru---par/1793945698288.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+      "published_at": "2026-11-06T14:39:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/1a5f299e-5aa8-4d20-95a6-6171b6505569/thumbnail/1200x630g6/ed4073f9937bb4660170a6a729eb91f1/gettyimages-2303012797.jpg"
     },
     {
-      "id": "mundo-farage-2a9e1f8faf",
-      "title": "Farage critica guerra no Irã e teme escalada de Trump",
-      "summary": "O líder do Reform UK disse que Trump 'quebrou uma promessa' ao prolongar a guerra e teme nova ofensiva após o 'desastre' republicano nas midterms.",
+      "id": "tarde-2026-11-06-weston-01",
+      "title": "FPL instala painéis solares em escolas de Hollywood e Fort Lauderdale",
+      "summary": "A Florida Power & Light e as escolas públicas de Broward inauguraram painéis solares na McNicol Middle, em Hollywood, e na Sheridan Technical High, em Fort Lauderdale. A previsão é cortar o consumo de energia em mais de 30% e 40%, respectivamente.",
       "highlights": [
-        "Farage: Trump quebrou promessa de não novas guerras",
-        "Temor de escalada após derrota republicana",
-        "Guerra ligada à alta de combustíveis no Ocidente"
+        "McNicol Middle e Sheridan Technical High",
+        "Corte estimado de mais de 30% e 40% na energia",
+        "Projeto também serve de aula de energia renovável"
       ],
-      "body": "Nigel Farage, líder do Reform UK, afirmou que Donald Trump “quebrou uma promessa” ao eleitorado americano ao lançar e prolongar a guerra contra o Irã, segundo a BBC. Ele disse estar preocupado com a possibilidade de Trump intensificar o conflito após o que descreveu como “desastre” republicano nas midterms.\n\nFarage havia apoiado ataques iniciais contra o programa nuclear iraniano, mas agora critica o conflito prolongado, que elevou preços de energia e alimentou a derrota do GOP. A mudança de tom ocorre enquanto famílias britânicas também sentem o custo de vida pressionado pelo petróleo.\n\nA declaração ilustra fissuras entre aliados de direita na Europa e a Casa Branca, num momento em que Trump avalia se retoma bombardeios, mantém bloqueio econômico ou busca acordo diplomático.",
-      "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqz0vz55jpglo",
-      "published_at": "2026-11-06T08:00:00-05:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4608/live/21082060-d939-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "weston-election-6c16fe3524",
-      "title": "Bernardini e Ortega vencem cadeiras da Comissão de Weston",
-      "summary": "Patricia Bernardini levou a Seat 3 com 67,7% e Alfredo Ortega a Seat 4 por 680 votos. A posse está marcada para 16 de novembro; Weston aprovou a Emenda 3 com 67,5%.",
-      "highlights": [
-        "Bernardini 67,7% na Seat 3; Ortega vence Seat 4",
-        "Posse dos eleitos em 16 de novembro",
-        "Weston: 67,5% a favor da Emenda 3 (homestead)"
-      ],
-      "body": "Resultados não oficiais do supervisor de eleições de Broward mostram Patricia C. Bernardini eleita para a Seat 3 da Comissão de Weston com 14.594 votos (67,67%) contra German Melo. Alfredo Ortega conquistou a Seat 4 com 11.053 votos (51,59%) a 10.373 de Jaime A. Herrero — margem de 680 votos.\n\nOs dois substituem Byron L. Jaffe e Mary Molina-Macfie, que não concorreram, e devem ser empossados na segunda-feira, 16 de novembro. Foram 24.948 cédulas nos nove precintos de Weston; votos por correio ainda podiam ser contados.\n\nWeston apoiou a Emenda 3 estadual (isenção homestead) com 67,48% de sim, acima da média da Flórida (61,98%). Adam Cervera venceu a Seat do School Board District 6, que inclui Weston, com 54,26%.",
-      "category": "weston",
-      "source": "Weston Journal",
-      "url": "https://westonjournal.com/weston-election-results-2026/",
-      "published_at": "2026-11-04T12:00:00-05:00",
-      "image_url": "https://westonjournal.com/img/weston-election-results-2026.webp"
-    },
-    {
-      "id": "weston-roads-f308896c25",
-      "title": "Fechamento da saída I-75/Royal Palm e obras na I-595",
-      "summary": "A saída sul da I-75 para Royal Palm Boulevard fechou de quinta à madrugada de sexta; noites de 9 a 12 de novembro são reserva. Obras noturnas na I-595 oeste começam em 15 de novembro.",
-      "highlights": [
-        "Saída I-75 sul → Royal Palm fechada 5–6 nov",
-        "Noites reserva: 9 a 12 de novembro",
-        "Faixas na I-595 oeste a partir de 15 de novembro"
-      ],
-      "body": "O Weston Journal atualizou o mapa de obras: a saída sul da I-75 para a Royal Palm Boulevard oeste ficou fechada das 20h de quinta (5) às 5h de sexta (6), para instalação de braço de semáforo no intercâmbio em ampliação pelo FDOT. Noites de contingência vão de 9 a 12 de novembro.\n\nO desvio usa a saída para Griffin Road, depois Weston Road ao norte até Royal Palm. Também há fechamentos noturnos em express lanes da I-75 ao sul de Royal Palm até 7 de novembro e, a partir de 15 de novembro, faixas da I-595 oeste perto da I-75 para pintura de faixas.\n\nObras municipais em Weston Road, Bonaventure Boulevard e Indian Trace podem seguir à noite até a cidade publicar conclusão. Para checagem em tempo real: FL511 ou 511; obras da cidade, Public Works 954-385-2600.",
-      "category": "weston",
-      "source": "Weston Journal",
-      "url": "https://westonjournal.com/road-construction-and-closures/",
-      "published_at": "2026-11-05T20:00:00-05:00",
-      "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
-    },
-    {
-      "id": "weston-sunrise-flood-1fb3bc699f",
-      "title": "Enchente em Sunrise deixa centenas de carros no Sawgrass e na arena",
-      "summary": "Chuva torrencial após jogo dos Panthers inundou o Amerant Bank Arena e o Sawgrass Mills. Cerca de 15 polegadas de chuva em 24 horas deixaram dezenas de veículos encalhados.",
-      "highlights": [
-        "~15 polegadas de chuva em 24 horas em Sunrise",
-        "Centenas de carros no Sawgrass Mills e na arena",
-        "Fãs dos Panthers precisaram abandonar veículos"
-      ],
-      "body": "Após o jogo dos Florida Panthers na segunda-feira, chuva intensa inundou o entorno do Amerant Bank Arena e do shopping Sawgrass Mills, em Sunrise — vizinho imediato de Weston. A WSVN mostrou, na terça, centenas de carros parados e vias ainda cobertas d’água; um drone captou van em valeta e motoristas empurrando veículos.\n\nMoradores relataram cerca de 15 polegadas de chuva em 24 horas. Fãs que estacionaram no mall precisaram sair pelos fundos dos carros e aceitar caronas; até guinchos ficaram atascados. Alguns só recuperaram os veículos na manhã seguinte.\n\nO episódio integra a sequência de enchentes que atingiu o oeste de Broward, incluindo a faixa entre Weston e Sunrise citada pelo Serviço Nacional de Meteorologia.",
+      "body": "A Florida Power & Light (FPL) instalou novos painéis solares em duas escolas do condado de Broward: a McNicol Middle School, em Hollywood, e a Sheridan Technical High School, em Fort Lauderdale, informou a WSVN nesta sexta-feira (6).\n\nOs painéis devem reduzir o uso de energia em mais de 30% na McNicol e em mais de 40% na Sheridan Technical. O superintendente das Escolas Públicas de Broward, dr. Peter B. Licata, destacou a economia de custos e o valor educativo das fontes alternativas.\n\nAlém da economia nas contas, o projeto é apresentado como oportunidade para alunos, funcionários e a comunidade aprenderem sobre energia renovável no próprio campus — tema relevante para famílias de Weston e do oeste de Broward, atendidas pela mesma rede escolar.",
       "category": "weston",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/broward/amerant-bank-arena-flood-cars/",
-      "published_at": "2026-11-03T10:02:00-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110326-flooding-amerant-bank-arena.png"
+      "url": "https://wsvn.com/news/local/broward/broward-county-schools-solar-panels/",
+      "published_at": "2026-11-06T11:09:45-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110626-solar-panels-schools.png"
     },
     {
-      "id": "weston-davie-flood-9331c45714",
-      "title": "Davie e Plantation ainda alagados após três dias de chuva",
-      "summary": "Na quinta, estacionamentos e ruas em Davie e Plantation seguiam com água na altura do joelho. Moradores relatam peixes na porta e dificuldade para ir ao trabalho e à escola.",
+      "id": "tarde-2026-11-06-weston-02",
+      "title": "Homem e cão são encontrados mortos após princípio de incêndio em Lauderhill",
+      "summary": "A polícia de Lauderhill encontrou um homem e um cão mortos dentro de um apartamento no condomínio Hidden Forest na noite de quinta, após denúncia de odor estranho. Bombeiros forçaram a entrada e viram sinais de fogo na unidade.",
       "highlights": [
-        "Água na altura do joelho em praças comerciais de Davie",
-        "Comunidades como Paradise Village ainda inundadas",
-        "Plantation Acres com driveways alagados"
+        "Ocorrência por volta das 21h30 de quinta",
+        "Endereço: Hidden Forest, NW 19th St.",
+        "Causa da morte ainda sob investigação"
       ],
-      "body": "Partes de Davie e Plantation ainda sentiam, na quinta-feira, os efeitos da chuva que começou na segunda. Câmeras da WSVN mostraram água na altura do joelho no estacionamento do Shenandoah Square (SR 84 e SW 136th Avenue), com alunos de escola vizinha navegando de e-scooter e clientes estacionando na calçada.\n\nEm Paradise Village, perto de Flamingo Road, moradores disseram que crianças não conseguiam ir à escola e carros baixos não saíam. Em Plantation Acres, driveways seguiram tomados pela água. Um morador afirmou ter visto peixes na porta de casa.\n\nA persistência das poças, mesmo com tempo mais seco, mantém o oeste de Broward — área de interesse direto para quem circula entre Weston, Davie e Plantation — em alerta para deslocamentos e possíveis danos residenciais.",
+      "body": "Um homem e um cão foram encontrados mortos dentro de um apartamento em Lauderhill na noite de quinta-feira (5) depois que autoridades identificaram indícios de incêndio, informou a Local10 nesta sexta.\n\nSegundo a Polícia de Lauderhill, oficiais responderam ao condomínio Hidden Forest, na 4291 NW 19th St., pouco depois das 21h30, após denúncia de odor incomum. Ao chegar, notaram sinais de que havia ocorrido um fogo na unidade.\n\nEquipes do Corpo de Bombeiros de Lauderhill forçaram a entrada e encontraram o homem morto; o cão também estava sem vida no apartamento. A causa das mortes e a origem do fogo seguem sob investigação. Lauderhill fica a poucos quilômetros a leste de Weston, no mesmo condado de Broward.",
       "category": "weston",
+      "source": "Local10",
+      "url": "https://www.local10.com/news/local/2026/11/06/man-dog-found-dead-inside-lauderhill-apartment-after-fire-police-say/",
+      "published_at": "2026-11-06T08:10:49-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-06-2026%2Ft_6c9a189281df4cb3a5d869e95000b209_name_49475629455_hdtv.jpg?auth=e091435557c444629ab6869cb1f2d689dc566c57403b9223033d30e60ec79dd5&width=700"
+    },
+    {
+      "id": "tarde-2026-11-06-weston-03",
+      "title": "Mulher de Hollywood é acusada de roubar mais de US$ 170 mil da própria mãe",
+      "summary": "Toborshia Katrina Carter, de 48 anos, foi presa sob acusação de transferir mais de US$ 170 mil da conta de aposentadoria da mãe e de benefícios do Seguro Social. A vítima procurou a polícia de Hollywood em março de 2025.",
+      "highlights": [
+        "Valor estimado supera US$ 170 mil",
+        "Transferências de conta Fidelity e do SSA",
+        "Prisão ocorreu na quinta-feira"
+      ],
+      "body": "Uma mulher de 48 anos residente em Hollywood foi presa na quinta-feira após a polícia acusá-la de roubar mais de US$ 170 mil da mãe, por meio da conta de aposentadoria e de transferências ligadas ao Seguro Social e cheques, informou a Local10.\n\nSegundo o auto de prisão do Departamento de Polícia de Hollywood, a vítima relatou suspeitas sobre a filha, Toborshia Katrina Carter, em março de 2025. Investigadores alegam que Carter transferiu dinheiro da conta de investimentos Fidelity da mãe para outras contas e, em seguida, para contas ligadas a ela.\n\nRegistros financeiros examinados pela polícia apontariam inúmeras transferências indevidas. O caso reforça alertas sobre exploração financeira de idosos em Broward, região que inclui Weston e cidades vizinhas.",
+      "category": "weston",
+      "source": "Local10",
+      "url": "https://www.local10.com/news/local/2026/11/06/hollywood-woman-accused-of-stealing-more-than-170k-from-her-own-mother-police-say/",
+      "published_at": "2026-11-06T10:20:43-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/3Y7PVXWXHJHGVDVVEQJCIBPU7U.jpg?auth=b6cb2579ca6f619d4048841b2ffeb5925b362bd3372ceafbee599905055910f6&width=700"
+    },
+    {
+      "id": "tarde-2026-11-06-weston-04",
+      "title": "Furto de velas da Bath & Body Works inclui suspeita de Pembroke Pines",
+      "summary": "O xerife de Miami-Dade prendeu quatro pessoas acusadas de desviar e revender mercadoria da Bath & Body Works avaliada em mais de US$ 100 mil. Entre os acusados está Marlie Rodriguez-Benavides, de 35 anos, de Pembroke Pines, em Broward.",
+      "highlights": [
+        "Prejuízo interno superior a US$ 100 mil",
+        "Motorista desviava caixas do depósito em Medley",
+        "Uma acusada reside em Pembroke Pines"
+      ],
+      "body": "Delegados de Miami-Dade prenderam pelo menos quatro suspeitos de um esquema de furto e revenda de produtos da Bath & Body Works com prejuízo superior a US$ 100 mil, segundo a Local10 nesta sexta-feira (6).\n\nOs acusados são Lecsi Linet Figueroa-Martinez, 24, de Hialeah; Yosdany Martinez-Bravo, 49, do noroeste de Miami-Dade; Marlie Rodriguez-Benavides, 35, de Pembroke Pines; e Michel Sanchez-Escanelle, 44, de Hialeah. A auditoria interna da rede apontou perda relevante na loja da London Square, na SW 120th St.\n\nImagens de setembro até esta quinta mostrariam Sanchez-Escanelle, motorista que levava mercadoria de um depósito em Medley à loja, desviando caixas para outro veículo. A participação de uma residente de Pembroke Pines liga o caso diretamente a Broward, vizinha de Weston.",
+      "category": "weston",
+      "source": "Local10",
+      "url": "https://www.local10.com/news/local/2026/11/06/miami-dade-deputies-accuse-4-of-100k-bath-body-works-cargo-theft-candle-resale-scheme/",
+      "published_at": "2026-11-06T14:44:23-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/OIV6AZWTJ5C7HKF2DEQIUMPTYA.jpg?auth=9870146f55c7af535395e71b2d41cd9268dc943fc8ca3bf97dcfbf3cbafea85e&width=700"
+    },
+    {
+      "id": "tarde-2026-11-06-miami-01",
+      "title": "Restos de helicóptero fatal são retirados da Baía de Biscayne",
+      "summary": "Equipes de salvamento e a NTSB removeram nesta sexta os destroços do helicóptero que caiu na Baía de Biscayne na quarta, matando o piloto Tomas Pendas, de 63 anos, e ferindo outras duas pessoas que filmavam lanchas.",
+      "highlights": [
+        "Piloto Tomas Pendas, 63, morreu no acidente",
+        "Duas outras pessoas ficaram feridas",
+        "NTSB passa a analisar a aeronave"
+      ],
+      "body": "Equipes de salvamento trabalharam nesta sexta-feira (6) com o National Transportation Safety Board (NTSB) para retirar da Baía de Biscayne os destroços do helicóptero que caiu na manhã de quarta-feira, informou a Local10.\n\nO piloto Tomas Pendas, de 63 anos, morreu, e outras duas pessoas ficaram feridas. Os três a bordo filmavam imagens aéreas de lanchas quando a aeronave caiu perto de Key Biscayne.\n\nCom a remoção dos restos, o foco passa a ser a análise da aeronave e a determinação da causa do acidente. A investigação da NTSB deve se alongar nas próximas semanas.",
+      "category": "miami",
+      "source": "Local10",
+      "url": "https://www.local10.com/news/local/2026/11/06/salvage-crews-remove-wreckage-from-deadly-biscayne-bay-helicopter-crash/",
+      "published_at": "2026-11-06T12:19:28-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-06-2026%2Ft_b17392018a2d4fd7b6994be80531d2c4_name_49475441675_hdtv.jpg?auth=be220a6d51efcded12dd18eb90cfce25400501cdff4f93d97b6f8ab12eb9fd45&width=700"
+    },
+    {
+      "id": "tarde-2026-11-06-miami-02",
+      "title": "Funcionário do Zoo Miami é hospitalizado após contato com antílope sedado",
+      "summary": "Um funcionário do Zoo Miami foi levado ao Jackson South nesta sexta após passar mal durante a imobilização de rotina de um antílope greater kudu. Por precaução, recebeu Narcan diante do possível contato com a saliva do animal tratado com opioide potente.",
+      "highlights": [
+        "Procedimento era para transferência do animal",
+        "Droga citada inclui tiafentanil",
+        "Causa dos sintomas ainda não confirmada"
+      ],
+      "body": "Um funcionário do Zoo Miami foi levado às pressas ao hospital nesta sexta-feira (6) após passar mal enquanto ajudava a imobilizar um antílope greater kudu, informou a NBC 6.\n\nSegundo o zoológico, os sintomas começaram durante “procedimento de imobilização de rotina” para preparar o animal para transferência a outra instituição, quando o funcionário ajudava a segurar a cabeça para exames. As drogas administradas ao animal incluem tiafentanil, um opioide potente.\n\nA causa da doença ainda não foi confirmada, mas, por precaução e diante da possibilidade de exposição cutânea via saliva, o funcionário recebeu Narcan e foi encaminhado ao Jackson South Medical Center para avaliação e observação.",
+      "category": "miami",
+      "source": "NBC 6",
+      "url": "https://www.nbcmiami.com/news/local/zoo-miami-employee-hospitalized-possible-exposure-greater-kudu-antelope/3884851/",
+      "published_at": "2026-11-06T14:18:06-05:00",
+      "image_url": "https://media.nbcmiami.com/2026/11/ZOO-MIAMI-ANTELOPE.png?resize=1200%2C675&quality=85&strip=all"
+    },
+    {
+      "id": "tarde-2026-11-06-miami-03",
+      "title": "Antonio Brown fecha acordo e recebe 3 anos de liberdade condicional",
+      "summary": "O ex-jogador da NFL Antonio Brown confessou nesta sexta agressão agravada com arma de fogo no tiroteio de 2025 fora de uma luta de celebridades em Miami. A juíza Marisa Tinkler Mendez aplicou três anos de probation, sem prisão.",
+      "highlights": [
+        "Pena: 3 anos de liberdade condicional",
+        "Proibição de possuir arma de fogo",
+        "Enfrentava até 30 anos e mínimo de 20"
+      ],
+      "body": "O ex-astro da NFL Antonio Brown confessou nesta sexta-feira (6) a acusação reduzida de agressão agravada com arma de fogo ligada a um tiroteio em maio de 2025 fora de uma luta de celebridades em Miami, segundo a Associated Press e a Local10.\n\nA juíza Marisa Tinkler Mendez condenou Brown a três anos de liberdade condicional, com sessões semanais de aconselhamento e proibição de possuir arma de fogo. Ele falou pouco e em voz baixa; do lado de fora agradeceu a Deus e disse querer “voltar à vida” e à família.\n\nO advogado Mark Eiglarsh afirmou que o cliente enfrentava até 30 anos de prisão, com mínimo obrigatório de 20, e que a oferta de probation “era boa demais para recusar”. A vítima não quis cooperar com a promotoria, o que contribuiu para o acordo.",
+      "category": "miami",
+      "source": "Local10 / AP",
+      "url": "https://www.local10.com/news/florida/2026/11/06/ex-nfl-star-antonio-brown-pleads-guilty-to-reduced-charge-sentenced-to-probation-in-2025-shooting/",
+      "published_at": "2026-11-06T14:57:08-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/5ZJMNIA3W25G73A2SE7NSU7ZFA.jpg?auth=04828813752a6c376b30657cf1dec377501440b5c520409cea310cf395506eaa&width=700"
+    },
+    {
+      "id": "tarde-2026-11-06-miami-04",
+      "title": "Distrito 27 rumo a recontagem; Salazar e Rodriguez separados por ~1.100 votos",
+      "summary": "A disputa pela Câmara no Distrito 27 da Flórida entre a republicana Maria Elvira Salazar e o democrata Eliott Rodriguez segue com diferença de pouco mais de 1.100 votos. A margem cai no limiar de 0,5% que dispara recontagem automática.",
+      "highlights": [
+        "Diferença de cerca de 1.100 votos",
+        "Limiar estadual de 0,5% para recontagem",
+        "Campanha de Rodriguez cogita processar supervisora"
+      ],
+      "body": "A corrida ao Distrito 27 da Flórida entre a deputada republicana Maria Elvira Salazar e o democrata Eliott Rodriguez, ex-âncora de TV, segue extremamente apertada, com cerca de 1.100 votos de diferença, informou a WSVN nesta sexta-feira (6).\n\nO Conselho de Apuração de Miami-Dade reuniu-se para certificar cédulas provisórias e assinaturas de voto por correio, último passo antes da certificação countywide. A supervisora Alina Garcia afirmou que o processo é transparente e que a margem “cai dentro do limiar de 0,5% da Flórida para recontagem automática por máquina”.\n\nO secretário de Estado Cord Byrd precisa convocar a recontagem. A campanha de Rodriguez também prepara ação judicial contra a liderança eleitoral de Miami-Dade, pedindo afastamento da supervisora no processo.",
+      "category": "miami",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/broward/davie-plantation-flooding-impacts/",
-      "published_at": "2026-11-05T08:46:00-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110526-davie-flooding.png"
+      "url": "https://wsvn.com/news/politics/salazar-rodriguez-recount-miami/",
+      "published_at": "2026-11-06T13:12:18-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/081826-eliott-rodriguez-maria-elvira-salazar.png"
     },
     {
-      "id": "weston-drier-298cf188f7",
-      "title": "Tempo seco volta a Broward, mas água parada permanece",
-      "summary": "A Local 10 registrou retorno do tempo mais seco na quinta, após mais de um pé de chuva desde domingo em partes do condado. Vários bairros ainda tinham água acumulada.",
+      "id": "tarde-2026-11-06-miami-05",
+      "title": "Juiz rejeita acordo e caso do ex-assistente de Norland High segue aberto",
+      "summary": "Após sete anos e dezenas de adiamentos, a família da professora Camila Russell ouviu impacto statements no tribunal. Ernest Roberts, ex-assistente da Miami-Norland High acusado de matá-la em 2019, teve o acordo de 30 anos rejeitado pelo juiz, segundo a WSVN.",
       "highlights": [
-        "Tempo mais seco retorna na quinta-feira",
-        "Mais de um pé de chuva desde domingo em áreas de Broward",
-        "Água parada segue em vários bairros"
+        "Roberts era padrinho das duas filhas da vítima",
+        "Família leu depoimentos emocionados",
+        "Acordo de 30 anos foi anulado pelo juiz"
       ],
-      "body": "A Local 10 informou na manhã de quinta-feira (5) que o tempo mais seco finalmente voltava a Broward, após dias de chuva torrencial. O alívio, porém, não apagou imediatamente os efeitos: água parada ainda cobria trechos de vários bairros que receberam mais de um pé de chuva desde domingo.\n\nA previsão de céu aberto e menos umidade ajuda a drenagem natural e o trabalho de equipes municipais, mas ruas baixas e conjuntos atingidos no oeste do condado — incluindo a faixa Weston–Sunrise — devem seguir com restrições pontuais de tráfego.\n\nMoradores são orientados a evitar dirigir em poças profundas e a reportar problemas de drenagem às prefeituras e ao Public Works local.",
-      "category": "weston",
-      "source": "Local 10",
-      "url": "https://www.local10.com/weather/2026/11/05/nov-5-drier-weather-returns-but-standing-water-remains-in-some-broward-neighborhoods/",
-      "published_at": "2026-11-05T06:48:00-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/ZVM6A6ZXGBFH5FRLH2CKLR7DDY.jpg?auth=5538de09b666ea5a5147343fa29e64118175bed12961ff44a71e0e9e91fc0d29&width=700"
-    },
-    {
-      "id": "miami-quinones-0845f920ae",
-      "title": "Procurador federal do Sul da Flórida, Quiñones, pede demissão",
-      "summary": "Jason Reding Quiñones, que indiciou Raúl Castro, deixou o cargo nesta sexta. Nascido em Miami e nomeado por Trump em 2025, não detalhou o motivo da saída.",
-      "highlights": [
-        "Renúncia efetiva nesta sexta-feira",
-        "Liderou indiciamento de Raúl Castro",
-        "Nascido em Miami; nomeado por Trump em 2025"
-      ],
-      "body": "Jason Reding Quiñones, procurador dos EUA para o Distrito Sul da Flórida, anunciou renúncia efetiva nesta sexta-feira. O procurador-geral Todd Blanche elogiou a liderança no combate a crime violento, tráfico e crime transnacional, incluindo o indiciamento de Raúl Castro.\n\nQuiñones, nativo de Miami e veterano com mais de 23 anos nas Forças Armadas, foi nomeado por Trump em fevereiro de 2025, quando era juiz estadual em Miami-Dade. No X, disse que o serviço público foi a “honra de uma vida” e que liderar o escritório em seu distrito natal foi especialmente significativo, sem explicar o motivo da saída.\n\nA mudança ocorre em meio a outras renúncias no Departamento de Justiça após as midterms e deixa em aberto a sucessão no escritório federal responsável por Miami e o Sul da Flórida.",
+      "body": "A família de Camila Russell, professora de Miami-Dade morta em 2019, voltou ao tribunal nesta sexta-feira (6) após sete anos de espera e mais de duas dezenas de adiamentos de julgamento, informou a WSVN.\n\nErnest Roberts, então assistente da Miami-Norland Senior High School e padrinho das duas filhas de Russell, havia aceitado um acordo para cumprir 30 anos de prisão. Durante a audiência, as filhas e outros parentes leram depoimentos emocionados sobre a perda.\n\nSegundo a cobertura da WSVN, o juiz acabou rejeitando o acordo de confissão. A promotoria alega que Russell foi vista pela última vez em 15 de maio de 2019 entrando na casa de Roberts em Miami Gardens. O caso volta ao caminho de julgamento.",
       "category": "miami",
-      "source": "NBC 6 South Florida",
-      "url": "https://www.nbcmiami.com/news/local/jason-reding-quinones-miami-us-attorney-for-southern-district-florida-resigns/3884685/",
-      "published_at": "2026-11-06T10:45:00-05:00",
-      "image_url": "https://media.nbcmiami.com/2026/11/GettyImages-2300990625.jpg?quality=85&strip=all&resize=1200%2C675"
+      "source": "WSVN 7News",
+      "url": "https://wsvn.com/news/local/miami-dade/roberts-plea-deal-camila-russell/",
+      "published_at": "2026-11-06T13:33:55-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11626-Family-members-speak-during-emotional-plea-hearing-for-former-Miami-Norland-High-assistant-principal-charged-with-2019-murder-of-teacher.png"
     },
     {
-      "id": "miami-fire-bcf05ff610",
-      "title": "Miami: obras de novas estações de bombeiros podem começar em 2027",
-      "summary": "Após aprovação do bono de US$ 450 milhões, a prefeita Higgins apresentou cronograma: demolir a Estação 10 em Flagami e construir nova unidade em Allapattah já no próximo ano.",
+      "id": "tarde-2026-11-06-tecnologia-01",
+      "title": "Meta lança Spaces para o assistente de IA Muse",
+      "summary": "A Meta passou a permitir que o Muse crie “spaces”, experiências personalizadas dentro do app — de painéis escolares a hubs de compras — com dados atualizados de Gmail, Calendar, Notion e outros serviços conectados.",
       "highlights": [
-        "Bono Safe & Ready aprovado com ~60% dos votos",
-        "Demolição da Estação 10 e nova em Allapattah em 2027",
-        "Sede de segurança pública de US$ 300 mi no Freedom Park"
+        "Spaces são experiências sob medida no Muse",
+        "Integra Gmail, Calendar, OpenTable e Notion",
+        "Dá para fixar na barra lateral ou na aba principal"
       ],
-      "body": "A prefeita de Miami, Eileen Higgins, detalhou na quinta o plano do bono Safe & Ready Miami, de US$ 450 milhões, aprovado com cerca de 60% dos votos. A meta inicial é demolir a Fire Station 10 em Flagami para reconstruí-la e erguer uma estação nova em Allapattah a partir de 2027.\n\nDo total, cerca de US$ 150 milhões vão a instalações de bombeiros (incluindo quatro estações novas) e US$ 300 milhões a um complexo de polícia e bombeiros no Freedom Park. A cidade lançou painel online para acompanhar obras. Higgins estima custo inicial ao contribuinte de US$ 2,38 por mês na primeira emissão de dívida.\n\nCom a nova sede pronta, a prefeitura planeja vender o QG atual da polícia no centro por US$ 70–100 milhões e usar o valor para abater a dívida do bono. Contando juros, o custo total estimado chega a cerca de US$ 700 milhões ao longo da vida do financiamento.",
-      "category": "miami",
-      "source": "WLRN",
-      "url": "https://www.wlrn.org/government-politics/2026-11-05/new-city-of-miami-fire-stations-could-start-construction-as-early-as-2027",
-      "published_at": "2026-11-05T14:39:00-05:00",
-      "image_url": "https://npr.brightspotcdn.com/dims4/default/6063678/2147483647/strip/true/crop/4000x2100+0+450/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2Fc5%2Fc032c330412ea026437fdcd1ad8a%2Fmiami-mayor-eileen-higgins-by-joshua-ceballos.jpg"
-    },
-    {
-      "id": "miami-bond-marina-c2e2019e63",
-      "title": "Eleitores de Miami aprovam bono de segurança e rejeitam marina",
-      "summary": "Além do bono Safe & Ready, os eleitores rejeitaram de forma clara o redesenvolvimento controverso de marinas em Virginia Key, segundo resultados preliminares da WLRN.",
-      "highlights": [
-        "Bono de US$ 450 mi para polícia e bombeiros aprovado",
-        "Plano de marina em Virginia Key rejeitado",
-        "Resultados ainda sujeitos a certificação"
-      ],
-      "body": "Resultados eleitorais destacados pela WLRN mostram dois caminhos distintos para Miami: aprovação do bono Safe & Ready de US$ 450 milhões para modernizar bombeiros e polícia, e rejeição sólida ao projeto de redesenvolvimento de marinas em Virginia Key.\n\nO bono autoriza reformas, novas estações e um quartel-general de segurança pública. Já o plano da marina enfrentava críticas ambientais e de uso do espaço público na ilha. A rejeição encerra, ao menos por ora, a proposta controverso vinculada a Virginia Key LLC.\n\nOs totais seguiam não oficiais até a certificação pelo canvass. Juntos, os dois resultados redesenham prioridades de infraestrutura e litoral da cidade para os próximos anos.",
-      "category": "miami",
-      "source": "WLRN",
-      "url": "https://www.wlrn.org/government-politics/2026-11-03/miami-referendum-result-virginia-key-bond-fire-police",
-      "published_at": "2026-11-03T21:07:00-05:00",
-      "image_url": "https://npr.brightspotcdn.com/dims4/default/5dbdecd/2147483647/strip/true/crop/3232x1697+0+119/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F6a%2Ffbb4c8594d7b86b132bebe37b9e3%2Fvirginia-key-llc-marina-rendering-2.jpg"
-    },
-    {
-      "id": "tech-tesla-si-07df71967e",
-      "title": "Tesla revela roadmap de chips 'SI' e Dojo 3 voltado ao espaço",
-      "summary": "A Tesla adotou a marca 'Super Intelligence' para aceleradores. O SI6 promete até 80× a performance do HW4; o Dojo 3 (D3) usa chiplets com HBM e mira data centers orbitais.",
-      "highlights": [
-        "Rebranding AI → 'Super Intelligence' (SI)",
-        "SI6: até 80× compute e 9× memória vs HW4",
-        "Dojo 3 com HBM e otimização para uso no espaço"
-      ],
-      "body": "A Tesla divulgou um roadmap renovado de aceleradores de IA e passou a usar a nomenclatura “SI” (Super Intelligence) no lugar de AI, alinhada à fala recente de Elon Musk. Segundo a Tom’s Hardware, o acelerador de inferência de 6ª geração (SI6) mira cerca de 80 vezes mais desempenho de compute e 9 vezes mais memória que o HW4, com chegada estimada em 2029–2030.\n\nO Dojo 3 (D3), voltado a treinamento, abandona a arquitetura centrada em SRAM do Dojo original e adota design multi-chiplet com HBM empilhada, buscando mais capacidade de memória para modelos grandes. A Tesla também indica otimização do D3 para implantação extraterrestre — data centers orbitais.\n\nO movimento reforça a aposta da empresa em silício próprio para Autopilot, robótica e treinamento em larga escala, num momento em que Musk prioriza Cybercab e IA em relação a veículos tradicionais.",
+      "body": "A Meta anunciou nesta sexta-feira (6) o recurso Spaces para o assistente de IA Muse. A função permite criar experiências semelhantes a mini-aplicativos dentro do Muse — hubs de compras, painéis escolares, rastreador de música, jogos de trivia e outros — a partir de uma descrição em linguagem natural.\n\nSe o usuário conectar apps externos como Gmail, Google Calendar, OpenTable ou Notion, o Muse pode atualizar preços, datas e outras informações em segundo plano. Também é possível marcar itens, adicionar notas e editar elementos dentro do space.\n\nA Meta diz que os spaces podem ficar na barra lateral, ir para a aba principal ou ser agendados — por exemplo, um planner na semana e planos de fim de semana no sábado. O The Verge e o TechCrunch destacaram o lançamento como novo modo de colaborar com o agente Muse.",
       "category": "tecnologia",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
-      "published_at": "2026-11-06T07:00:00-05:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/c7SXsstwCWqWGyvTD7KQAA-1920-80.jpg"
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "published_at": "2026-11-06T13:10:10-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200"
     },
     {
-      "id": "tech-apple-launch-557054d237",
-      "title": "Apple libera iPad mini OLED, iMac M6 e novos MacBook Pro",
-      "summary": "A partir desta sexta, o iPad mini de 8ª geração com OLED, o iMac com chip M6 e os MacBook Pro atualizados estão à venda e começam a chegar a clientes e lojas.",
+      "id": "tarde-2026-11-06-tecnologia-02",
+      "title": "Tesla encerra produção do Cybertruck em 2027 para priorizar o Cybercab",
+      "summary": "Elon Musk afirmou que a Tesla vai encerrar a produção do Cybertruck na Gigafactory Texas por volta do meio do ano que vem, para abrir espaço ao robô-táxi Cybercab. As vendas do picape elétrico nunca decolaram após o hype inicial.",
       "highlights": [
-        "iPad mini OLED a partir de US$ 699",
-        "iMac M6 a partir de US$ 1.499",
-        "MacBook Pro 14\" M6 a partir de US$ 1.999"
+        "Fim da linha previsto para meados de 2027",
+        "Prioridade passa ao Cybercab",
+        "Vendas decepcionaram após o lançamento"
       ],
-      "body": "A MacRumors confirma que, nesta sexta-feira, a Apple colocou à venda o iPad mini com tela OLED, o iMac com M6 e os novos MacBook Pro. Pré-pedidos já começam a ser entregues, e os aparelhos chegam a Apple Stores e revendedores autorizados.\n\nO iPad mini de 8ª geração traz tela Super Retina XDR de 8,5 polegadas (até 1.200 nits), chip A20 Pro, Wi-Fi 7, 5,4 mm de espessura, 255 g e classificação IP67 — o primeiro iPad com essa resistência. Nos EUA, parte de US$ 699 (128 GB Wi-Fi). O iMac M6 começa em US$ 1.499; o MacBook Pro 14\" com M6, em US$ 1.999.\n\nCríticas iniciais apontam a taxa de atualização de 60 Hz no mini (sem ProMotion). Ainda assim, a leva marca a chegada também dos primeiros Macs com tela sensível ao toque em alguns mercados.",
+      "body": "A Tesla vai encerrar a produção do Cybertruck na Gigafactory Texas por volta do meio de 2027 para aumentar a fabricação do Cybercab, afirmou o CEO Elon Musk em rede social, segundo a NBC 6.\n\nO picape de aço inoxidável tornou-se símbolo político polarizador conforme Musk se aproximou de causas de direita e do presidente Trump. As vendas na Europa despencaram no início de 2025, e o modelo sofreu recalls e problemas de qualidade.\n\nApesar da expectativa inicial, o Cybertruck não conquistou a maioria dos compradores, e as vendas caíram quase desde o lançamento. A montadora não divulga números separados do modelo, mas analistas apontam demanda fraca frente à capacidade da fábrica no Texas.",
       "category": "tecnologia",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/06/ipad-mini-oled-and-m6-imac-available-today/",
-      "published_at": "2026-11-06T05:51:00-05:00",
-      "image_url": "https://images.macrumors.com/t/yTS1F5nWgr0Qq3Nj6DpdR9lSH1E=/1600x/article-new/2026/10/top-stories-2026-10-31.jpg"
+      "source": "NBC 6",
+      "url": "https://www.nbcmiami.com/news/national-international/tesla-cybertruck-wind-down-production-elon-musk/3884758/",
+      "published_at": "2026-11-06T12:18:55-05:00",
+      "image_url": "https://media.nbcmiami.com/2026/11/Construction-Continues-At-SpaceXs-Starbase-2259707854-Getty.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "id": "tech-touch-mac-9e64fa9655",
-      "title": "Primeiro MacBook Pro com touchscreen começa a chegar",
-      "summary": "Clientes na Austrália e Nova Zelândia já recebem o MacBook Pro com tela PROLED sensível ao toque, junto do iPad mini OLED e do iMac M6. Entregas seguem para outras regiões.",
+      "id": "tarde-2026-11-06-tecnologia-03",
+      "title": "Apple: iPhone Duo já tem mais de 100 mil apps otimizados",
+      "summary": "Duas semanas após o início das vendas, a Apple afirmou que a App Store já conta com mais de 100 mil aplicativos feitos para o iPhone Duo, seu dobrável. Milhares de apps otimizados são adicionados por dia, segundo a empresa.",
       "highlights": [
-        "Entregas começam na Oceania nesta sexta local",
-        "MacBook Pro 14\" e 16\" com tela touch PROLED",
-        "Rolo de lançamento segue Ásia, Oriente Médio, Europa e EUA"
+        "Mais de 100 mil apps “Made for iPhone Duo”",
+        "Dobrável está à venda há duas semanas",
+        "Alguns apps ainda apresentam falhas de layout"
       ],
-      "body": "A Apple iniciou as entregas do primeiro Mac com tela sensível ao toque: o MacBook Pro com display PROLED, segundo a MacRumors. Em 6 de novembro no horário da Austrália e Nova Zelândia, clientes que pré-encomendaram o modelo touch, o iPad mini OLED, o MacBook Pro M6 e o iMac M6 começaram a receber os aparelhos.\n\nNos EUA, o MacBook Pro 14\" com PROLED XDR parte de US$ 2.899 e o de 16\" de US$ 3.399. Muitos configurados ainda levam 2–3 semanas; algumas versões básicas podem estar em estoque nas lojas. As entregas avançam depois pela Ásia, Oriente Médio, Europa e América do Norte.\n\nPrimeiras avaliações elogiam mais a qualidade da tela OLED/PROLED do que o recurso de toque em si, mas o lançamento marca uma mudança histórica na linha Mac.",
+      "body": "A Apple informou nesta sexta-feira (6) que a App Store já tem mais de 100 mil aplicativos construídos para o iPhone Duo, duas semanas após o início oficial das vendas do dobrável, segundo o The Verge.\n\nSusan Prescott, vice-presidente de relações com desenvolvedores da Apple, disse que “milhares de apps otimizados estão sendo adicionados à loja a cada dia” e agradeceu a rapidez com que o ecossistema abraçou o novo formato.\n\nMesmo com o selo “Made for iPhone Duo”, alguns apps ainda apresentam problemas de interface. No lançamento, usuários apontaram falhas no Instagram, e o executivo Adam Mosseri classificou o Duo como “um formato um pouco complicado”.",
       "category": "tecnologia",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
-      "published_at": "2026-11-05T18:12:00-05:00",
-      "image_url": "https://images.macrumors.com/t/XM5h7IRnM8GreuKQNQzYWM9F_xE=/2500x/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg"
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+      "published_at": "2026-11-06T12:24:36-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "id": "tech-openai-limits-979166fef5",
-      "title": "ChatGPT e Codex terão limite compartilhado a partir de dezembro",
-      "summary": "Planos Plus, Pro e Business passarão a dividir uma cota única de tokens entre chat e Codex. Chats Instant não consomem a cota; OpenAI não fixou o dia exato.",
+      "id": "tarde-2026-11-06-tecnologia-04",
+      "title": "Fox conclui compra da Roku por US$ 22 bilhões",
+      "summary": "A Fox finalizou nesta sexta a aquisição da Roku por US$ 22 bilhões, um dos maiores negócios recentes de mídia. A empresa diz que o conjunto passa a ser o terceiro maior negócio de televisão dos EUA em audiência.",
       "highlights": [
-        "Cota única de tokens para ChatGPT e Codex",
-        "Vale para Plus, Pro e Business a partir de dezembro",
-        "Chats Instant ficam fora do limite"
+        "Valor do negócio: US$ 22 bilhões",
+        "Roku foi fundada em 2002",
+        "Fox cita 3º maior TV business do país"
       ],
-      "body": "A OpenAI informou, em artigo do Help Center atualizado em 2 de novembro, que a partir de dezembro a franquia de uso nos planos Plus, Pro e Business será compartilhada entre ChatGPT e Codex. A Notebookcheck resume a mudança: o consumo passa a ser medido em tokens, e modelos avançados ou tarefas agenticas gastam mais.\n\nAté agora, Chat, Work e Codex tinham limites separados. Com a unificação — ligada à chegada de capacidades agenticas do Work ao chat principal — uma sessão longa de código no Codex reduz a margem para pedidos pesados no chat, e vice-versa. A empresa não divulgou a data exata de dezembro nem os totais por plano.\n\nHá uma exceção importante: “Instant chat will not draw from your usage.” Quem usa o ChatGPT sobretudo para perguntas cotidianas deve sentir pouco impacto; a OpenAI espera que a maioria não precise esperar o reset com mais frequência do que hoje.",
+      "body": "A Fox concluiu nesta sexta-feira (6) a aquisição da Roku por US$ 22 bilhões, encerrando um dos maiores negócios de mídia dos últimos anos e reforçando sua presença em streaming e TV conectada, informou o TechCrunch.\n\nA Roku, fundada em 2002, passa formalmente ao controle da Fox. Segundo a compradora, a empresa combinada se torna o terceiro maior negócio de televisão dos EUA em audiência.\n\nO fundador Anthony Wood afirmou que a missão de “dar às pessoas uma forma melhor de assistir TV” não muda, mas que o alcance e os recursos aumentam com o respaldo da Fox. Para a Fox, o acordo dá acesso direto à base de dispositivos e ao sistema de anúncios da Roku.",
       "category": "tecnologia",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/ChatGPT-and-Codex-will-share-one-usage-limit-starting-in-December.1440897.0.html",
-      "published_at": "2026-11-03T12:00:00-05:00",
-      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/chatgpt-codex-gemeinsames-limit-teaser.jpg"
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "published_at": "2026-11-06T11:05:36-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/roku-glitch.jpg?resize=1200,778"
     }
   ]
 }
