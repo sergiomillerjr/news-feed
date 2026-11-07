@@ -1,195 +1,195 @@
 {
   "version": 2,
-  "generated_at": "2026-11-07T11:11:51-05:00",
-  "edition": "meio-dia",
+  "generated_at": "2026-11-07T15:08:08-05:00",
+  "edition": "tarde",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "eua-2026-11-07-md1",
-      "title": "Trump nomeia Stephen Miller chefe de gabinete no lugar de Susie Wiles",
-      "summary": "O presidente Donald Trump anunciou na sexta-feira que Stephen Miller substituirá Susie Wiles como chefe de gabinete da Casa Branca, dias após as derrotas republicanas nas midterms. Miller assume na segunda-feira; Wiles seguirá no braço político do presidente.",
+      "id": "eua-trump-oferece-dana-white-porta-voz-77f717e608",
+      "title": "Trump oferece a Dana White o cargo de porta-voz da Casa Branca",
+      "summary": "O presidente Donald Trump anunciou no Truth Social que ofereceu ao CEO do UFC, Dana White, o posto de secretário de imprensa da Casa Branca. Trump pediu que White aceite e sinalizou que o estilo combativo do dirigente de MMA moldaria as coletivas.",
       "highlights": [
-        "Miller é arquiteto da política de imigração",
-        "Wiles foi a primeira mulher no cargo",
-        "Mudança vista como sinal desafiador pós-eleição"
+        "Oferta feita publicamente no Truth Social",
+        "White é aliado de longa data de Trump",
+        "Ainda não há confirmação se White aceitará"
       ],
-      "body": "Susie Wiles, primeira mulher a ocupar o posto de chefe de gabinete da Casa Branca, está sendo substituída por Stephen Miller, anunciou Trump na sexta-feira. A troca ocorre depois que os republicanos perderam o controle do Congresso nas midterms e é lida como um gesto desafiador: Miller é o arquiteto de várias das políticas mais controversas do governo, sobretudo em imigração — tema que, segundo dados citados pela NPR, ajudou a empurrar eleitores para os democratas.\n\nTrump disse a repórteres que Miller está com ele 'desde o começo' e 'entende'. Em post no Truth Social, afirmou que Wiles continuará trabalhando em operações políticas. Em comunicado no X, ela disse orgulhar-se do que conquistaram juntos, da fronteira aos impostos, e que o compromisso com o presidente permanece. Miller, hoje vice-chefe de gabinete e conselheiro de Segurança Interna, assume na segunda-feira.",
+      "body": "Em publicação no Truth Social neste sábado, o presidente Donald Trump afirmou ter oferecido a Dana White, presidente e CEO do Ultimate Fighting Championship, o cargo de secretário de imprensa da Casa Branca. Trump descreveu White como \"um lutador e guerreiro\" e pediu que ele aceite a função, prometendo coletivas \"como nenhuma outra\".\n\nWhite e Trump são aliados há anos. No início deste ano, White ajudou a organizar uma luta do UFC na Casa Branca, com a presença do presidente e de autoridades republicanas. A oferta ocorre em meio a uma reorganização do staff após as derrotas republicanas nas midterms, com a saída da chefe de gabinete Susie Wiles e a indicação de Stephen Miller para o posto.\n\nAté a publicação desta edição, White ainda não havia confirmado publicamente se aceitará o cargo. A troca no comando da comunicação da Casa Branca seria mais um sinal da postura confrontadora que Trump pretende manter diante do Congresso democrata que assume em janeiro.",
       "category": "eua",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/rump-taps-stephen-miller-chief-staff-wiles-cabinet-midterm-elections-rcna607914",
+      "published_at": "2026-11-07T14:14:00-05:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-donald-trump-ew-432p-909f43.jpg"
+    },
+    {
+      "id": "eua-doj-desiste-acao-urnas-california-3830c8644d",
+      "title": "DOJ desiste de ação para isolar cerca de 20 mil urnas na Califórnia",
+      "summary": "O Departamento de Justiça dos EUA pediu o arquivamento voluntário da ação que tentava impedir a contagem de cerca de 20 mil cédulas pelo correio na Califórnia, alegadamente de não cidadãos. O estado celebra a desistência após quatro derrotas judiciais em uma semana.",
+      "highlights": [
+        "Desistência voluntária antes da audiência de 13 de novembro",
+        "Lista federal tinha alto índice de erro, segundo críticos",
+        "Suprema Corte já havia rejeitado pedido de emergência"
+      ],
+      "body": "O Departamento de Justiça dos Estados Unidos pediu o arquivamento voluntário da ação que buscava obrigar autoridades eleitorais da Califórnia a separar e não contar cerca de 20 mil cédulas pelo correio que, segundo o governo Trump, teriam sido enviadas a \"prováveis\" não cidadãos. A desistência evita uma audiência probatória marcada para 13 de novembro perante o juiz David Carter.\n\nO procurador-geral da Califórnia, Rob Bonta, afirmou que a administração federal desistiu após quatro derrotas consecutivas — no tribunal distrital, no Nono Circuito (duas vezes) e na Suprema Corte. Bonta destacou que listas semelhantes já foram criticadas por tribunais por alta taxa de erro e que a Constituição atribui aos estados e ao Congresso — não ao Executivo — a regulamentação do processo eleitoral.\n\nFuncionários da Califórnia argumentavam que a lista federal estava desatualizada e incluía eleitores legítimos. Com as cédulas já misturadas às válidas, o alívio pedido pelo DOJ deixara de ser praticável. O caso se encerra sem julgamento de mérito sobre a precisão da lista.",
+      "category": "eua",
+      "source": "California Attorney General",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit",
+      "published_at": "2026-11-06T12:00:00-08:00",
+      "image_url": "https://oag.ca.gov/sites/default/files/og-link-card-24.jpg"
+    },
+    {
+      "id": "eua-homem-armado-preso-casa-branca-trump-f4e7bd5bf6",
+      "title": "Homem armado é preso perto da Casa Branca após ameaça a Trump",
+      "summary": "A Secret Service prendeu Ronny Yordrix Guanipa Chrinos, venezuelano sem documentos, a poucos quarteirões da Casa Branca. Segundo o DHS, ele disse ter ouvido vozes mandando assassiná-lo o presidente; três armas foram apreendidas no veículo.",
+      "highlights": [
+        "Três armas e munição apreendidas em carro roubado",
+        "Suspeito venezuelano entrou pelos EUA em março de 2024",
+        "Secret Service destaca desescalada da ameaça"
+      ],
+      "body": "Agentes do Serviço Secreto prenderam na quinta-feira à noite, na Constitution Avenue NW, perto do Ellipse e a poucos quarteirões da Casa Branca, o venezuelano Ronny Yordrix Guanipa Chrinos, após ele alegadamente declarar que ouvia vozes mandando ir a Washington e assassinar o presidente Donald Trump. O Departamento de Segurança Interna (DHS) divulgou a prisão na sexta-feira.\n\nNo veículo, reportado como roubado, agentes encontraram três armas de fogo — incluindo um rifle — e dezenas de cartuchos. Chrinos responde a múltiplas acusações relacionadas a transporte e porte ilegal de armas, munição não registrada, uso não autorizado de veículo e receptação. O DHS disse que ele entrou pelos EUA pelo Texas em março de 2024, foi detido pela Patrulha de Fronteira e depois liberado.\n\nO diretor do Secret Service, Sean Curran, elogiou o treinamento dos agentes na desescalada da situação. A secretária de Segurança Interna, Markwayne Mullin, afirmou que a prisão impediu que o suspeito causasse dano. Trump já foi alvo de tentativas de assassinato, incluindo o atentado de Butler (Pensilvânia) em julho de 2024.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
+      "published_at": "2026-11-06T20:32:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/95c8e782-242c-423c-a151-f7d70908f6a3/thumbnail/1200x630/3ab616383880202f31895e00b1ac91b1/unnamed.jpg"
+    },
+    {
+      "id": "eua-eisenberg-renuncia-doj-seguranca-d7e85edbd2",
+      "title": "Chefe da divisão de Segurança Nacional do DOJ pede demissão",
+      "summary": "John Eisenberg, procurador-geral assistente da Divisão de Segurança Nacional do Departamento de Justiça, pediu demissão abruptamente na sexta-feira. É o segundo assistente a sair na mesma semana das midterms.",
+      "highlights": [
+        "Anúncio feito pelo AG Todd Blanche no X",
+        "Segunda saída de alto escalão na mesma semana",
+        "Divisão também lidou com redactions dos arquivos Epstein"
+      ],
+      "body": "John Eisenberg, procurador-geral assistente à frente da Divisão de Segurança Nacional do Departamento de Justiça, pediu demissão de forma abrupta na sexta-feira, dois dias após os democratas conquistarem a Câmara e o Senado. O procurador-geral Todd Blanche anunciou a saída no X, agradecendo Eisenberg por fortalecer a resposta a ameaças internas e externas.\n\nEisenberg é o segundo assistente a deixar o cargo na semana: Harmeet Dhillon, da Divisão de Direitos Civis, pediu demissão na quinta-feira. Também na sexta, Jason Reding Quiñones, procurador federal do Distrito Sul da Flórida, renunciou. A Divisão de Segurança Nacional perdeu muitos funcionários de carreira no último ano e esteve no centro da revisão e redação de milhões de páginas dos arquivos de Jeffrey Epstein, trabalho criticado por vítimas e congressistas.\n\nA divisão também conduziu investigações de vazamentos que atingiram jornalistas e mudanças na abordagem a terrorismo doméstico. Relatórios apontam tensões internas sobre a agressividade de investigações de vazamentos e intimações a repórteres como pano de fundo da saída.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/john-eisenberg-justice-department-resigns/",
+      "published_at": "2026-11-06T12:51:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/f4aaf9fc-a250-48b0-ac80-c4fe8f2b3e6e/thumbnail/1200x630g2/a75643192873d1fa0410ec3427e28020/screenshot-2026-11-06-at-12-40-00-pm.png"
+    },
+    {
+      "id": "eua-trump-ordena-doj-investigar-democratas-c384f43512",
+      "title": "Trump manda DOJ investigar democratas por 'extorsão criminal'",
+      "summary": "Em post no Truth Social, Trump ordenou que o Departamento de Justiça investigue líderes democratas por alegada \"extorsão criminal\", acusando-os de ameaçar autoridades e doadores republicanos com impeachment e prisão.",
+      "highlights": [
+        "Pedido público ao DOJ no Truth Social",
+        "Trump citou a senadora Elissa Slotkin",
+        "Reação a posts democratas pedindo investigações"
+      ],
+      "body": "O presidente Donald Trump publicou no Truth Social que está ordenando ao Departamento de Justiça investigar o que chama de \"extorsão criminal\" por líderes democratas. Ele os acusou de ameaçar autoridades da administração com impeachment e doadores republicanos com prisão, e afirmou que \"a prisão deveria ser contra esses EXTORTIONISTAS\".\n\nTrump destacou a senadora democrata Elissa Slotkin, de Michigan, acusando-a de mirar jovens apoiadores republicanos. Slotkin respondeu que quem quebra a lei ou usa dinheiro público para se enriquecer deve ser responsabilizado. A declaração do presidente parece reagir a posts de congressistas democratas — como o representante Robert Garcia, da Califórnia, que escreveu \"Lawyer up\" — pedindo investigações após a vitória nas midterms.\n\nA ordem pública ocorre enquanto Trump também sinaliza, em trechos de entrevista ao 60 Minutes, disposição de negociar com democratas em temas como imigração, dizendo que poderia passar seis meses sem insultá-los se isso garantisse um acordo.",
+      "category": "eua",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/rump-taps-stephen-miller-chief-staff-wiles-cabinet-midterm-elections-rcna607914",
+      "published_at": "2026-11-07T13:59:00-05:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-donald-trump-ew-432p-909f43.jpg"
+    },
+    {
+      "id": "mundo-paraguai-pena-impeachment-banco-ueno-380b0078c2",
+      "title": "Paraguai destituí Peña após colapso do banco Ueno",
+      "summary": "O presidente Santiago Peña foi destituído e colocado em prisão domiciliar após o colapso do Ueno Bank, que congelou contas de cerca de 3 milhões de paraguaios. Procuradores o acusam de quebra de confiança e administração em benefício próprio.",
+      "highlights": [
+        "Cerca de 60% dos adultos tiveram contas congeladas",
+        "Peña renunciou, mas perdeu foro e foi afastado",
+        "Vice Pedro Alliana assume interinamente"
+      ],
+      "body": "Em poucos dias, Santiago Peña passou de aliado regional de Trump a ex-presidente sob prisão domiciliar. O colapso do Ueno Bank — banco digital que cresceu agressivamente e chegou a concentrar contas de cerca de 3 milhões de pessoas, cerca de 60% dos adultos do país — congelou salários, poupanças e pagamentos de aposentadorias, gerando protestos e crise política.\n\nPeña renunciou na tentativa de manter foro privilegiado de senador vitalício, mas o Congresso o destituíu e retirou o assento. Na sexta-feira, o Senado o afastou; no sábado, a promotoria apresentou denúncias por quebra de confiança e administração em benefício próprio e pediu custódia preventiva. O Banco Central havia colocado o Ueno em resolução por insolvência; o ex-presidente do BC e ex-CEO do Ueno, Carlos Carvallo Spalding, também foi alvo de ordem de prisão.\n\nInvestigadores apontam conflito de interesses: Peña teria tido cerca de US$ 1 milhão em ações do grupo controlador e o governo teria facilitado a conversão do Ueno em banco digital e o aporte de fundos públicos e previdenciários. Um fundo de garantia cobre depósitos até cerca de US$ 38 mil; o BC começou a liberar pequenos pagamentos a correntistas elegíveis, mas muitos ainda não recuperaram o dinheiro.",
+      "category": "mundo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+      "published_at": "2026-11-07T14:00:00-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/afadfa53ac809356488933afab4757207240a0c5/551_0_5508_4407/master/5508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93817d457a3f74e6aa743006f9873195"
+    },
+    {
+      "id": "mundo-israel-eisenkot-formar-governo-9932fbb164",
+      "title": "Presidente de Israel indica Eisenkot para formar governo",
+      "summary": "Isaac Herzog escolheu Gadi Eisenkot, líder do partido Yashar e principal rival de Benjamin Netanyahu, para tentar formar um novo governo após o impasse eleitoral de outubro. A cerimônia formal está marcada para domingo em Jerusalém.",
+      "highlights": [
+        "Knesset travada desde a eleição de 27 de outubro",
+        "Netanyahu perdeu a maioria, mas segue com o maior bloco",
+        "Eisenkot ainda evita aliança com partidos árabes"
+      ],
+      "body": "O presidente de Israel, Isaac Herzog, informou neste sábado ao ex-chefe das Forças de Defesa e líder do Yashar, Gadi Eisenkot, que pretende incumbí-lo de formar um novo governo. A nomeação formal ocorrerá em cerimônia no domingo na residência presidencial em Jerusalém, segundo o gabinete de Herzog.\n\nA eleição de 27 de outubro deixou o Knesset sem maioria clara. A coalizão religioso-nacionalista de Benjamin Netanyahu, o líder mais longevo de Israel, perdeu a maioria, mas permanece como o maior bloco. O agrupamento anti-Netanyahu liderado por Eisenkot tem se recusado a se aliar a partidos árabes que poderiam entregar a maioria; mesmo assim, líderes árabes indicaram Eisenkot nas conversas com Herzog.\n\nEisenkot terá 28 dias para montar uma coalizão, com possível prorrogação de 14 dias. O desfecho redefine o mapa político israelense e pode afetar a condução da guerra e das negociações regionais, num momento em que os EUA também reorganizam sua política externa após as midterms.",
+      "category": "mundo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "published_at": "2026-11-07T14:49:00-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/270_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eae0485c94445f1a0d9775fc8bb3a261"
+    },
+    {
+      "id": "mundo-ameacas-bomba-voos-europa-82bb6fe0b3",
+      "title": "França investiga se ameaças falsas a voos têm ligação estrangeira",
+      "summary": "Promotores franceses abriram inquérito sobre uma onda de ameaças falsas de bomba que atingiu dezenas de voos comerciais na Europa. Nenhuma explosivo foi encontrado; autoridades avaliam possível vínculo com potências estrangeiras.",
+      "highlights": [
+        "Dezenas de voos desviados ou inspecionados",
+        "Irlanda vê campanha coordenada de disrupção",
+        "Nenhum explosivo encontrado até agora"
+      ],
+      "body": "A Promotoria de Paris abriu investigação sobre e-mails com ameaças falsas de bomba enviados a companhias aéreas e autoridades europeias nesta semana. O objetivo é identificar os autores e \"determinar eventuais vínculos com potências estrangeiras\", segundo a promotoria. Vários incidentes envolveram voos sobre território francês; nenhum explosivo foi encontrado.\n\nAs ameaças provocaram desvios, pousos de emergência, revistas e escoltas. Voos de Londres e Bruxelas foram desviados para Sófia; a polícia tcheca inspecionou aeronaves em Praga; aeroportos na Dinamarca e outros países europeus reforçaram a segurança. O governo da Irlanda classificou mensagens semelhantes enviadas a veículos de imprensa como \"provavelmente\" parte de uma \"campanha coordenada de disrupção\".\n\nParte das mensagens vinha assinada como \"fighters of the Male State\", nome associado a um grupo misógino radical na Rússia; o fundador Vladislav Pozdniakov negou envolvimento e disse que o movimento não existe desde 2021. Países europeus monitoram possíveis interferências russas em setores econômicos e na vida cotidiana enquanto a guerra na Ucrânia se aproxima do quinto ano.",
+      "category": "mundo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
+      "published_at": "2026-11-07T12:33:00+01:00",
+      "image_url": "https://s.france24.com/media/display/04c53f78-dac9-11f1-b612-a575454bc579/w:1280/p:16x9/0e4210476305ece4f8a6aabff01978500875331c.jpg"
+    },
+    {
+      "id": "mundo-putin-confirma-talks-abu-dhabi-94a2c0d68a",
+      "title": "Putin confirma rodada Rússia-EUA-Ucrânia em Abu Dhabi",
+      "summary": "O presidente russo Vladimir Putin confirmou que a próxima rodada de negociações trilaterais com EUA e Ucrânia começa na terça-feira em Abu Dhabi. A delegação russa será liderada pelo assessor Vladimir Medinsky.",
+      "highlights": [
+        "Conversas previstas para terça e quarta nos Emirados",
+        "Pauta inclui segurança, desescalada e humanitário",
+        "Medinsky encabeça a delegação russa"
+      ],
+      "body": "Vladimir Putin confirmou na sexta-feira, em reunião do Conselho de Segurança russo, que a próxima rodada de conversas trilaterais entre Rússia, Estados Unidos e Ucrânia está prevista para começar na terça-feira em Abu Dhabi, capital dos Emirados Árabes Unidos. A agência estatal Tass e a RIA Novosti repercutiram a declaração.\n\nPutin disse ter convidado à reunião os representantes da delegação russa que viajarão aos Emirados. Segundo a mídia estatal, as conversas devem durar dois dias. A delegação russa será chefiada pelo assessor presidencial Vladimir Medinsky e inclui nomes como Igor Kostyukov, Yuri Ushakov, Mikhail Galuzin e Sergei Ryabkov.\n\nO enviado especial dos EUA Steve Witkoff já havia indicado que as partes pretendem discutir garantias de segurança, desescalada, questões humanitárias e próximos passos rumo a um acordo. O anúncio ocorre após novos ataques russos à rede elétrica ucraniana e em meio a tensionamentos no Oriente Médio, o que torna a rodada um dos principais testes diplomáticos da semana.",
+      "category": "mundo",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-confirms-russia-us-ukraine-talks-scheduled-for-next-tuesday-in-abu-dhabi/4114672",
+      "published_at": "2026-11-06T12:00:00+03:00",
+      "image_url": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/06/thumbs_b_c_86acbdec5823b2f9eca40751ad297487.jpg"
+    },
+    {
+      "id": "weston-weston-fechamentos-i75-royal-palm-7dda9a3fe0",
+      "title": "Weston: fechamentos noturnos na rampa I-75/Royal Palm",
+      "summary": "A saída sul da I-75 para a Royal Palm Boulevard tem noites de reforço de 9 a 12 de novembro, das 20h às 5h. A partir de 15 de novembro, faixas da I-595 oeste perto da I-75 também fecham à noite para sinalização.",
+      "highlights": [
+        "Noites reserva: 9 a 12 de novembro, 20h–5h",
+        "Desvio pela Griffin Road e Weston Road",
+        "I-595: obras noturnas a partir de 15 de novembro"
+      ],
+      "body": "Motoristas de Weston devem se programar para fechamentos noturnos na saída sul da I-75 para a Royal Palm Boulevard no sentido oeste. O FDOT havia marcado o fechamento para a noite de 5 de novembro e manteve 9 a 12 de novembro como noites reserva, das 20h às 5h, para instalação de braço de semáforo no alargamento do intercâmbio.\n\nO desvio indicado segue pela saída sul da I-75 para a Griffin Road no sentido oeste, depois Weston Road ao norte e Royal Palm Boulevard ao oeste, com sinalização no local. Em paralelo, o relatório de tráfego do Distrito 4 lista faixas expressas da I-75 ao sul da Royal Palm fechadas à noite para reparo de placas, e a partir de 15 de novembro faixas da I-595 oeste entre SW 136th Avenue e a I-75 fecham em noites selecionadas até 19 de novembro para pintura de faixas.\n\nObras municipais em Weston Road, Bonaventure Boulevard e Indian Trace ainda não tinham aviso de conclusão no site da cidade na última checagem do Weston Journal. Para trânsito em tempo real: FL511; obras municipais: Public Works de Weston, 954-385-2600.",
+      "category": "weston",
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/road-construction-and-closures/",
       "published_at": "2026-11-06T12:00:00-05:00",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4845x2725+0+253/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F40%2F1c511ae2416e9d70791a8143dfb6%2Fgettyimages-2301644366.jpg"
+      "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
     },
     {
-      "id": "eua-2026-11-07-md2",
-      "title": "EUA passam de 5 mil casos de sarampo em 2026, maior total em 35 anos",
-      "summary": "O CDC registrou 5.182 casos confirmados de sarampo neste ano — o maior número anual desde 1991. Crianças e adolescentes respondem por cerca de 60% dos casos; a OMS/OPAS deve avaliar se o país perde o status de eliminação da doença.",
+      "id": "weston-jaffe-molina-deixam-comissao-weston-3667c3d5bc",
+      "title": "Jaffe e Molina-Macfie deixam a Comissão de Weston em 16 de novembro",
+      "summary": "Os comissários Byron Jaffe e Mary Molina-Macfie encerram o mandato quando Patricia Bernardini e Alfredo Ortega forem empossados em 16 de novembro. Jaffe ajudou a fundar a cidade; Molina-Macfie completou oito anos no cargo.",
       "highlights": [
-        "5.182 casos confirmados até novembro",
-        "Quase todos os infectados não estavam vacinados",
-        "Revisão da OPAS marcada para 10 a 13 de novembro"
+        "Posse dos eleitos marcada para 16 de novembro",
+        "Jaffe participou da incorporação de Weston em 1996",
+        "Molina-Macfie criou Veterans of Weston e ações sociais"
       ],
-      "body": "Segundo dados do Centro de Controle e Prevenção de Doenças (CDC), os Estados Unidos somam 5.182 casos confirmados de sarampo em 2026, o maior total anual desde 1991. Crianças menores de cinco anos representam 18% dos casos; a faixa de 5 a 19 anos, 41%. No total, crianças e adolescentes correspondem a cerca de 59% dos confirmados, e a vasta maioria está ligada a surtos.\n\nO CDC reconhece quatro mortes pela doença em 2026, número inferior ao reportado por autoridades estaduais — sobretudo na Pensilvânia, o estado mais atingido. A cobertura vacinal em jardins de infância caiu em relação aos níveis que sustentavam a eliminação do sarampo. Um comitê da Organização Pan-Americana da Saúde se reúne de 10 a 13 de novembro para avaliar se a transmissão contínua faz os EUA perderem o status de eliminação.",
-      "category": "eua",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
-      "published_at": "2026-11-06T20:55:03-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee63dd-1794008029.jpg?resize=1920%2C1440"
+      "body": "Dois dos cinco votos da City Commission de Weston mudam neste mês. Byron L. Jaffe (Seat 3) e Mary Molina-Macfie (Seat 4) permanecem no cargo até a posse de Patricia C. Bernardini e Alfredo Ortega, marcada para segunda-feira, 16 de novembro. A cidade publicou um tributo destacando que a última reunião plena dos dois foi em 12 de outubro.\n\nJaffe mora em Weston desde 1990 e participou do movimento de residentes que levou à incorporação da cidade em 1996. Foi eleito em eleição especial em 2017 e reeleito em 2018 e 2022; também atuou na Broward Metropolitan Planning Organization e, fora da política, se aposentou em 2025 como piloto comercial baseado em Miami. Molina-Macfie, moradora desde 1991, chegou à Comissão em 2018 após advocacy por qualidade do ar em escolas; fundou o Veterans of Weston, organizou as primeiras distribuições municipais de alimentos e criou o Coffee with a Cop para associações de moradores.\n\nA Comissão — prefeito mais quatro comissários — define orçamento, alíquota de IPTU e zoneamento. Até 16 de novembro, Jaffe e Molina-Macfie seguem contactáveis como comissários.",
+      "category": "weston",
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/weston-commissioners-jaffe-molina-macfie/",
+      "published_at": "2026-11-04T12:00:00-05:00",
+      "image_url": "https://westonjournal.com/img/weston-commissioners-jaffe-molina-macfie.webp"
     },
     {
-      "id": "eua-2026-11-07-md3",
-      "title": "Juíza federal suspende por 14 dias obras do arco triunfal de Trump",
-      "summary": "A juíza Tanya Chutkan emitiu na madrugada de sexta uma ordem restritiva temporária que impede o início das obras do arco de 76 metros planejado por Trump em Washington. A decisão veio horas após a aprovação do projeto pela comissão de planejamento.",
+      "id": "weston-weston-serie-filmes-estrangeiros-flavor-483fcd2d2e",
+      "title": "Weston abre série de filmes estrangeiros e agenda show FLAVOR",
+      "summary": "A Weston Foreign Film Series começa na segunda, 9 de novembro, no AMC Weston 8, com o filme espanhol Calle Malaga. No dia 14, a banda FLAVOR se apresenta de graça no Regional Park; no dia 18 há coleta de sangue na Prefeitura.",
       "highlights": [
-        "Arco de 250 pés (76 m) perto de Arlington",
-        "Comissão aprovou por 8 a 4 na quinta",
-        "Veteranos e DC/Virgínia estão entre os autores da ação"
+        "Calle Malaga: sessões às 16h45 e 19h30 no dia 9",
+        "WestonNights com FLAVOR no dia 14, entrada franca",
+        "OneBlood na Prefeitura em 18 de novembro"
       ],
-      "body": "Na madrugada de sexta-feira, a juíza federal Tanya Chutkan bloqueou por 14 dias qualquer construção ou escavação do arco triunfal proposto por Donald Trump. A ordem veio depois que a National Capital Planning Commission aprovou o monumento de 250 pés (cerca de 76 metros) por 8 votos a 4, após audiência de cerca de nove horas com dezenas de opositores.\n\nEntre os autores da ação estão o Distrito de Columbia, a Virgínia, veteranos do Vietnã e um historiador de arquitetura. Críticos dizem que o arco ofuscaria o Cemitério Nacional de Arlington e seria um monumento à vaidade do presidente. Estimativas do custo chegam a US$ 100 milhões, e ainda não está claro de onde sairia o financiamento.",
-      "category": "eua",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
-      "published_at": "2026-11-06T09:04:35-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/80501b103a6ec118c03b3ae74e80f2703d3be4e3/1131_0_5655_4526/master/5655.jpg"
-    },
-    {
-      "id": "eua-2026-11-07-md4",
-      "title": "Dois paraquedistas morrem após colisão no ar na Califórnia",
-      "summary": "Dois paraquedistas licenciados e experientes morreram na sexta-feira após colidirem a cerca de 45 metros do solo durante evento em Skydive Elsinore, no Condado de Riverside. A empresa diz que não houve falha de equipamento.",
-      "highlights": [
-        "Colisão a cerca de 150 pés do solo",
-        "Paraquedas se emaranharam",
-        "Empresa: queda livre e abertura foram normais"
-      ],
-      "body": "Dois paraquedistas que participavam de um evento organizado na Califórnia morreram após colidir no ar e cair no solo. O acidente ocorreu na sexta-feira em Skydive Elsinore; o xerife do Condado de Riverside foi acionado pela manhã após relatos de emergência aérea. Eles chegaram ao hospital em estado crítico e foram declarados mortos.\n\nSegundo a empresa, a queda livre e a abertura dos paraquedas foram normais, mas, ao se prepararem para pousar, os dois colidiram a cerca de 150 pés (45 metros) do solo. Os paraquedas se emaranharam. Não há evidência de falha de equipamento, disse Skydive Elsinore. Os atletas vinham de fora da cidade para o evento.",
-      "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/licensed-skydivers-die-midair-collision-california/",
-      "published_at": "2026-11-07T10:52:50-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/20/36e34552-e78c-4ca7-88d3-7ad3ad240ca7/thumbnail/1200x630/bfa6ba4b423186f13830e9f7a96f07e7/gettyimages-1718366794.jpg"
-    },
-    {
-      "id": "eua-2026-11-07-md5",
-      "title": "Trump confirma demissões pós-midterms e troca comando da Casa Branca",
-      "summary": "Horas depois de dizer à 60 Minutes que faria 'algumas mudanças' na equipe após a derrota republicana, Trump anunciou a saída de Susie Wiles e a promoção de Stephen Miller. Ele manteve, por ora, confiança em Pete Hegseth no Pentágono.",
-      "highlights": [
-        "Entrevista à 60 Minutes na sexta",
-        "Wiles pediu demissão na quinta",
-        "Trump diz ter confiança em Hegseth"
-      ],
-      "body": "O presidente anunciou que Stephen Miller substituiria Susie Wiles como chefe de gabinete apenas horas depois de dizer ao correspondente Ross Douthat, da 60 Minutes, que demitiria gente após os republicanos perderem as duas casas do Congresso. 'Sim, um pouco', respondeu Trump. 'Amo meu Gabinete... Mas talvez faça algumas mudanças.'\n\nSobre o secretário de Defesa Pete Hegseth, alvo de especulações, Trump disse ter confiança. Após anunciar a saída de Wiles, afirmou a repórteres que 'às vezes na vida é preciso fazer movimentos'. Segundo a CBS, Wiles apresentou a demissão na quinta-feira, ligada às derrotas nas midterms.",
-      "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-60-minutes-midterm-election-firings-susie-wiles/",
-      "published_at": "2026-11-06T19:03:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/d585fd72-9d44-456d-8857-a149408d52bc/thumbnail/1200x630/1ace02a22d29cee3c6398d7946e16201/gettyimages-2303899907.jpg"
-    },
-    {
-      "id": "mundo-2026-11-07-md1",
-      "title": "Tiroteio em praça de Cracóvia mata ao menos 5 e fere cerca de 12",
-      "summary": "Um homem atropelou e abriu fogo a partir do carro na Praça do Mercado Principal de Cracóvia neste sábado, matando pelo menos cinco pessoas e ferindo cerca de uma dúzia, incluindo policiais. O atirador foi baleado pela polícia e detido.",
-      "highlights": [
-        "Ataque por volta das 15h (horário local)",
-        "Policiais entre os feridos",
-        "Premier Tusk acompanha investigação"
-      ],
-      "body": "Um homem invadiu de carro um mercado aberto na Praça do Mercado Principal de Cracóvia e disparou de dentro do veículo, matando pelo menos cinco pessoas e ferindo cerca de uma dúzia, segundo a polícia. O tiroteio ocorreu por volta das 15h de sábado. Oficiais estão entre os feridos. O autor foi baleado em confronto com a polícia e levado a um hospital.\n\nO premier polonês Donald Tusk disse nas redes que está sendo informado pelo ministro do Interior e que a polícia apura o contexto do ataque. O embaixador dos EUA na Polônia, Tom Rose, classificou o episódio como ataque 'selvagem e assassino' e afirmou que a América está com a Polônia. Cracóvia é a segunda maior cidade do país.",
-      "category": "mundo",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
-      "published_at": "2026-11-07T10:53:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/88f7487a-a080-4385-8c25-2257ea9cff91/thumbnail/1200x630/8b37ce25c3c1f0759c5d1734dfb60a90/gettyimages-2303483978.jpg"
-    },
-    {
-      "id": "mundo-2026-11-07-md2",
-      "title": "Apagões e falta de água em Kiev após ataque russo à rede elétrica",
-      "summary": "A Rússia usou 172 drones e 36 mísseis balísticos contra substações e uma ponte sobre o Dnipro. Zelensky acusou Moscou de tentar 'mergulhar Kiev e o país no blackout' às vésperas das conversas em Abu Dhabi.",
-      "highlights": [
-        "172 drones e 36 mísseis no ataque",
-        "Negociações trilaterais na terça e quarta",
-        "Zelensky pede mais apoio dos EUA"
-      ],
-      "body": "Volodymyr Zelensky acusou a Rússia de tentar 'mergulhar Kiev e o país inteiro no blackout' após um grande ataque noturno à infraestrutura energética da capital e a uma ponte sobre o rio Dnipro. Moscou usou 172 drones e 36 mísseis balísticos. O presidente ucraniano disse que a 'preparação' russa para as conversas de paz inclui bombardear uma cidade de milhões com mísseis balísticos.\n\nNegociadores da Rússia, da Ucrânia e dos EUA devem se reunir na terça e na quarta em Abu Dhabi, quarta rodada mediada pelo governo Trump. Zelensky pediu ao Congresso americano — agora sob controle democrata — mais atenção e apoio bilateral. 'A Rússia tem uma visão muito particular da diplomacia: como um subtipo de agressão', escreveu.",
-      "category": "mundo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-      "published_at": "2026-11-07T08:03:03-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9c8241f6629ed26650fd7f16cb8c2e3"
-    },
-    {
-      "id": "mundo-2026-11-07-md3",
-      "title": "Irã diz ter acabado com limite autoimposto de alcance de mísseis",
-      "summary": "A Guarda Revolucionária afirmou que levantou a restrição de 2.000 km no alcance de seus mísseis balísticos. O porta-voz não confirmou se já há mísseis além desse alcance; os EUA mantêm o bloqueio no Estreito de Ormuz.",
-      "highlights": [
-        "Limite era de 2.000 km (1.200 milhas)",
-        "General Mohebbi: restrição 'foi levantada'",
-        "EUA criam task force contra rotas terrestres"
-      ],
-      "body": "A Guarda Revolucionária do Irã diz ter levantado o limite autoimposto de 2.000 quilômetros no alcance de mísseis balísticos, sugerindo possível desenvolvimento de armas de maior alcance em meio a temores de nova escalada. O general Hossein Mohebbi afirmou em Teerã que 'essa restrição foi levantada para nós', sem dizer se o país já possui mísseis além do limite — alcance que cobre península Arábica, Levante e boa parte do Egito.\n\nAs declarações vêm dias depois de o líder supremo, aiatolá Mojtaba Khomeini, avisar que qualquer ameaça dos EUA ou de Israel enfrentaria resposta 'sem limites geográficos'. O Comando Central dos EUA afirmou que a fiscalização rigorosa do bloqueio a portos iranianos no Estreito de Ormuz continua e anunciou uma nova força-tarefa para dificultar o transporte terrestre e pelo Cáspio.",
-      "category": "mundo",
-      "source": "Associated Press (via ABC News)",
-      "url": "https://abcnews.go.com/International/wireStory/iran-lifted-imposed-limit-missile-ranges-mideast-news-137937910",
-      "published_at": "2026-11-07T06:38:36-05:00",
-      "image_url": "https://i.abcnewsfe.com/a/002fe5e2-9462-44f0-818c-c1b8cb08f815/wirestory_c26759ac66e6c022a3256adeae40c965_16x9.jpg?w=1600"
-    },
-    {
-      "id": "mundo-2026-11-07-md4",
-      "title": "Líder de seita no Quênia é condenado a 200 anos por 191 mortes",
-      "summary": "Paul Mackenzie, da Igreja Good News International, foi sentenciado a 200 anos de prisão por ordenar que seguidores fizessem jejum até a morte — 190 crianças e um adulto. A juíza rejeitou a pena de morte para evitar transformá-lo em mártir.",
-      "highlights": [
-        "190 crianças entre as 191 vítimas",
-        "Duas penas de 100 anos consecutivas",
-        "Mais de 400 corpos achados em Shakahola"
-      ],
-      "body": "Um tribunal queniano condenou o líder da seita do fim do mundo Paul Mackenzie a 200 anos de prisão por assassinato de 191 pessoas, todas menos uma crianças. Ao lado de outros 28 réus, ele foi considerado culpado por instruir membros do culto a matar de fome os próprios filhos para 'encontrar Jesus'. A juíza Diana Mochache disse que Mackenzie carrega a 'culpabilidade criminal primária'.\n\nMackenzie foi preso em 2023 após a descoberta de mais de 400 corpos em covas rasas na floresta de Shakahola, no litoral do Quênia. A corte impôs 100 anos por homicídio e outros 100 por crimes ligados à inanição; as penas de cada bloco correm em conjunto, mas os dois blocos são consecutivos, totalizando 200 anos. Ele ainda enfrenta outras acusações de homicídio culposo e terrorismo.",
-      "category": "mundo",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm5yne5984l0o",
-      "published_at": "2026-11-06T03:59:38-05:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg"
-    },
-    {
-      "id": "mundo-2026-11-07-md5",
-      "title": "Chuvas inundam cerca de 70 mil tendas de deslocados em Gaza",
-      "summary": "A primeira tempestade de inverno em Gaza inundou cerca de 70 mil tendas em 12 horas, com prejuízo inicial estimado em US$ 3 milhões, segundo o gabinete de mídia do governo local. Mais de 1,6 milhão de palestinos vivem em abrigos improvisados.",
-      "highlights": [
-        "Prejuízo inicial de cerca de US$ 3 mi",
-        "ONU: só 18% das famílias com abrigo adequado",
-        "Início do inverno agrava crise humanitária"
-      ],
-      "body": "Cerca de 70 mil tendas que abrigam palestinos deslocados foram inundadas na Faixa de Gaza em até 12 horas após a primeira tempestade de inverno, informou o Gabinete de Mídia do governo em Gaza neste sábado. O prejuízo inicial foi estimado em cerca de US$ 3 milhões; dezenas de paredes desabaram e houve feridos.\n\nA chuva marca outro inverno difícil para mais de 1,6 milhão de palestinos em tendas ou abrigos improvisados. O escritório humanitário da ONU disse que 294.250 famílias precisam de ajuda com abrigo para a estação chuvosa, mas os suprimentos disponíveis cobrem apenas assistência parcial a 18% delas, por falta de fundos e atrasos de aprovação.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza",
-      "published_at": "2026-11-07T06:10:02-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap-e69e4085004943cab89f9b0e003d01c0-1794050716.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "mundo-2026-11-07-md6",
-      "title": "EUA bombardeiam Qeshm enquanto mediadores tentam conter escalada",
-      "summary": "Dois projéteis atingiram a ilha iraniana de Qeshm na sexta à noite, em nova rodada de ataques a defesas antiaéreas. Trump classificou ações recentes como 'menores'; mediadores seguem tentando evitar guerra em larga escala.",
-      "highlights": [
-        "Alvos: defesas e lançadores em Qeshm",
-        "Ataques a navios no Estreito de Ormuz",
-        "Mediação regional em curso"
-      ],
-      "body": "Os Estados Unidos bombardearam o Irã depois que embarcações foram atacadas no Estreito de Ormuz, enquanto mediadores tentam impedir um conflito em larga escala. Dois projéteis atingiram Qeshm na sexta à noite, os mais recentes de uma série de ataques à ilha meridional contra defesas aéreas e lançadores iranianos.\n\nO presidente Donald Trump descreveu ações recentes como limitadas. A reportagem da Al Jazeera descreve o episódio no contexto da guerra EUA-Israel contra o Irã e das tentativas de mediação para reabrir Ormuz e evitar nova escalada, em paralelo às conversas sobre inspeções nucleares.",
-      "category": "mundo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
-      "published_at": "2026-11-07T07:22:18-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a34380e8d-1781807118.jpg?resize=1920%2C1440"
-    },
-    {
-      "id": "weston-2026-11-07-md1",
-      "title": "Weston exibe Toy Story 5 ao ar livre e agenda duas semanas de eventos",
-      "summary": "Neste sábado, o Weston Regional Park vira cinema a céu aberto com Toy Story 5 às 19h30, de graça. Antes, às 13h30 e 15h, o Kid-tacular traz Marci Poppins no Community Center; na sequência vêm cinema estrangeiro, show e doação de sangue.",
-      "highlights": [
-        "Filme às 19h30 no Regional Park",
-        "Shows infantis às 13h30 e 15h",
-        "Série de filmes estrangeiros começa dia 9"
-      ],
-      "body": "O Weston Regional Park vira teatro a céu aberto neste sábado, 7 de novembro, quando a cidade exibe Toy Story 5 em tela inflável no palco de eventos. A entrada é gratuita e o filme começa às 19h30, abrindo uma sequência de eventos municipais nas próximas duas semanas — incluindo espetáculo infantil, série de cinema estrangeiro, banda ao vivo e campanha de doação de sangue na prefeitura.\n\nAntes do filme, a série Kid-tacular leva Marci Poppins The Explorer ao Weston Community Center, às 13h30 e 15h, também de graça (crianças acompanhadas de adulto). O Community Center fica no mesmo parque, na 20200 Saddle Club Road. Na segunda, dia 9, a Weston Foreign Film Series estreia Calle Málaga no AMC Weston 8.",
+      "body": "Depois do fim de semana de cinema e shows infantis, Weston mantém a agenda cultural cheia. A Weston Foreign Film Series, da Arts Council of Greater Weston com a cidade, abre a temporada de novembro a abril de 2027 na segunda-feira, 9 de novembro, no AMC Weston 8 (1338 SW 160th Avenue). O filme de estreia é Calle Malaga, da Espanha, sobre uma senhora em Tânger que resiste à venda da casa familiar; 116 minutos, em espanhol com legendas em inglês, às 16h45 e 19h30. Passe da temporada: US$ 48; ingresso avulso: US$ 10 na porta.\n\nNo sábado, 14 de novembro, das 19h às 21h30, a série WestonNights traz a banda FLAVOR ao palco do Weston Regional Park, com hits atuais e clássicos dançantes, entrada franca e food trucks. Em 18 de novembro, das 7h30 às 14h, o ônibus móvel da OneBlood estaciona atrás da Prefeitura (17200 Royal Palm Boulevard) para doação de sangue, com prioridade para tipo O; aceitam-se walk-ins e agendamentos online.\n\nA programação completa está no calendário da cidade em westonfl.org. Para o cinema: cães não entram no Regional Park; no AMC, o endereço postal é Sunrise.",
       "category": "weston",
       "source": "Gold Coast Wave",
       "url": "https://goldcoastwave.com/news/weston-toy-story-5-movie-night-foreign-films-flavor-concert-november-2026/",
@@ -197,228 +197,132 @@
       "image_url": "https://goldcoastwave.com/assets/img/share/weston-toy-story-5-movie-night-foreign-films-flavor-concert-november-2026-41ec9a21da.jpg"
     },
     {
-      "id": "weston-2026-11-07-md2",
-      "title": "Bernardini e Ortega vencem cadeiras da Comissão de Weston",
-      "summary": "Resultados não oficiais atualizados na sexta mostram Patricia Bernardini com 67,7% na Seat 3 e Alfredo Ortega à frente por 683 votos na Seat 4. Weston também aprovou a Emenda 3 (isenção homestead) com 67,5%.",
+      "id": "weston-broward-oeste-mosquitos-dengue-24363ca2f7",
+      "title": "Enchentes elevam alerta de mosquitos e dengue no oeste de Broward",
+      "summary": "Autoridades de saúde alertam que água parada após dias de chuva forte favorece mosquitos e o risco de dengue no oeste de Broward, incluindo Davie. A Flórida registra cerca de 300 casos de dengue no ano; Broward ainda não tem casos em novembro.",
       "highlights": [
-        "Bernardini: 14.614 a 6.980",
-        "Ortega lidera por 683 votos",
-        "Posse prevista para 16 de novembro"
+        "Davie já iniciou pulverização contra mosquitos",
+        "Cerca de 300 casos de dengue na Flórida em 2026",
+        "Parques fechados e escolas afetadas pelas chuvas"
       ],
-      "body": "Patricia C. Bernardini e Alfredo Ortega venceram as duas cadeiras da Comissão Municipal de Weston na eleição de terça-feira, segundo resultados não oficiais. Contagem de sexta (11h16) do condado aponta Bernardini com 14.614 votos (67,68%) contra 6.980 de German Melo, e Ortega com 11.068 contra 10.385 de Jaime Herrero — vantagem de 683. Os totais ainda podem mudar com cédulas pelo correio.\n\nBernardini venceu nos nove distritos eleitorais de Weston. Ortega teve mais votos antecipados e pelo correio; Herrero venceu no dia da eleição. Os dois substituem Byron Jaffe e Mary Molina-Macfie, que não se candidataram; a posse está prevista para 16 de novembro. Weston apoiou a Emenda 3 statewide com 67,48% de sim.",
+      "body": "Com a água das enchentes recuando lentamente em partes de Broward, autoridades de saúde alertam para o próximo problema: mosquitos. Água parada cria criadouros ideais e eleva a preocupação com doenças transmitidas por picada, incluindo dengue. O Departamento de Saúde da Flórida reporta cerca de 300 casos no estado neste ano; em Broward ainda não há casos reportados em novembro.\n\nA dengue causa febre, dores no corpo e dor atrás dos olhos; em casos graves, erupção cutânea e sangramento. A cidade de Davie já começou a pulverização e avalia operações terrestres ou aéreas adicionais. As chuvas torrenciais dos últimos dias fecharam parques — como o Oak Hill Equestrian Park —, interromperam aulas, alagaram casas e deixaram veículos isolados em áreas de Davie e Plantation, no eixo oeste do condado, vizinho a Weston.\n\nMoradores são orientados a eliminar água parada em vasos, calhas e pneus e a usar repelente. Sintomas persistentes devem ser avaliados em serviço de saúde. A pulverização municipal e o recuo das águas devem reduzir o risco nas próximas semanas, mas o alerta permanece enquanto houver água acumulada.",
       "category": "weston",
-      "source": "Weston Journal",
-      "url": "https://westonjournal.com/weston-election-results-2026/",
-      "published_at": "2026-11-04T12:00:00-05:00",
-      "image_url": "https://westonjournal.com/img/weston-election-results-2026.webp"
+      "source": "CBS Miami",
+      "url": "https://www.cbsnews.com/miami/news/broward-flooding-standing-water-mosquitoes-dengue-davie-spraying/",
+      "published_at": "2026-11-06T22:00:00-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/bf3c3547-c98e-4da2-bec5-32bee687ccc0/thumbnail/1200x630/457102137dab6352c92e3237443da6ea/snapshot-46.jpg"
     },
     {
-      "id": "weston-2026-11-07-md3",
-      "title": "Mulher é esfaqueada em Deerfield Beach; um detido para interrogatório",
-      "summary": "A xerifa de Broward atendeu ocorrência por volta de 0h15 deste sábado no quarteirão 100 da Southwest First Terrace. A vítima foi hospitalizada com laceração; um homem foi detido para questionamento. Detalhes sobre idade e estado ainda não foram divulgados.",
+      "id": "miami-dolphin-expressway-fecha-noite-250e09b059",
+      "title": "Dolphin Expressway fecha trecho nesta noite por obras",
+      "summary": "Um trecho da State Road 836 (Dolphin Expressway) fecha de sábado à noite a domingo de manhã para obras de duplicação em dois níveis. Faixas leste fecham às 23h na NW 17th Avenue; reabertura prevista às 8h.",
       "highlights": [
-        "Chamado às 0h15 de sábado",
-        "Vítima levada a hospital local",
-        "Delegacia de Vítimas Especiais investiga"
+        "Fechamento: 7–8 de novembro, 23h às 8h",
+        "Projeto de US$ 866 mi até o fim de 2029",
+        "Desvios pela NW 17th / South Miami Avenue e I-95"
       ],
-      "body": "Uma mulher foi hospitalizada no início deste sábado após ser esfaqueada em Deerfield Beach, segundo o Departamento do Xerife de Broward (BSO). A comunicação regional recebeu o chamado por volta de 0h15 perto do quarteirão 100 da Southwest First Terrace. Os deputados encontraram a mulher com uma laceração; o resgate a levou a um hospital local.\n\nUm homem foi detido para interrogatório. Detetives da unidade de Vítimas Especiais do BSO investigam as circunstâncias. Autoridades ainda não divulgaram idade ou estado da vítima nem se haverá acusações formais.",
-      "category": "weston",
-      "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/11/07/deerfield-beach-stabbing-leaves-woman-hurt-1-detained-deputies-say/",
-      "published_at": "2026-11-07T10:53:25-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/FJXF27YAAGHJM3Q5R5ADRGHZ2M.jpg?auth=31d822805678351e668c0e9fbae80b9e60c37c72a19d43e9ebab389a1ee056e5&width=700"
+      "body": "Motoristas de Miami devem evitar a Dolphin Expressway (SR 836) na noite de sábado, 7 de novembro, para domingo, 8. Todas as faixas leste fecham na Northwest 17th Avenue das 23h às 8h. Duas faixas oeste fecham às 23h, e entre a Northwest 12th e a 17th avenues todas as faixas oeste devem estar fechadas até 1h. A reabertura está prevista para as 8h.\n\nAs obras fazem parte do projeto de \"double-decking\" — uma via adicional sobre a existente que liga à I-395 e à MacArthur Causeway —, orçado em US$ 866 milhões e com conclusão prevista para o fim de 2029. A rampa leste da Dolphin para a I-95 norte também foi recentemente alargada.\n\nDesvio leste: sair na NW 17th Avenue, direita na South Miami Avenue e depois acessar as rampas da I-95; para Biscayne Boulevard e MacArthur Causeway, seguir pela SW First Street e esquerda na Biscayne. Desvio oeste: sair na NW 12th Avenue, esquerda, direita na NW Seventh Street e direita na NW 17th Avenue para retomar a Dolphin oeste.",
+      "category": "miami",
+      "source": "Miami Herald",
+      "url": "https://www.miamiherald.com/news/traffic/article317965583.html",
+      "published_at": "2026-11-07T05:15:00-05:00",
+      "image_url": "https://www.miamiherald.com/public/latest-news/mzk7tk/picture313021066/alternates/LANDSCAPE_1200/Road.jpg"
     },
     {
-      "id": "weston-2026-11-07-md4",
-      "title": "Mais de 600 correm a 1ª 5K na pista do Aeroporto North Perry",
-      "summary": "Pembroke Pines recebeu neste sábado a primeira corrida de 5K no North Perry Airport, com exposições de aviões da Segunda Guerra, jato particular e hidroavião. A comissária de Broward Alexandra Davis destacou a integração com a comunidade.",
+      "id": "miami-diaz-balart-lidera-distrito-26-ca2dc4db16",
+      "title": "Diaz-Balart lidera por cerca de 1.700 votos no Distrito 26",
+      "summary": "O republicano Mario Diaz-Balart mantém vantagem de cerca de 1.700 votos sobre a democrata Nicole Locklin no 26º Distrito Congressional da Flórida. A junta apuradora de Broward revisou cédulas questionadas; não há votos suficientes para recontagem.",
       "highlights": [
-        "Mais de 600 participantes",
-        "Aviões históricos em exposição",
-        "Evento liga aeroporto à vizinhança"
+        "Cerca de 100 de 300 cédulas revisadas em Broward aceitas",
+        "Erro de digitação explicou pico temporário de Locklin",
+        "Miami-Dade e Broward: sem votos restantes para virar"
       ],
-      "body": "Mais de 600 corredores e caminhantes ocuparam a pista do Aeroporto North Perry neste sábado pela manhã na primeira 5K do local, com chance de ver de perto aeronaves em exposição — incluindo dois aviões da Segunda Guerra Mundial, um jato particular e um hidroavião. O aeroporto abriga escolas de voo, aviões de banner e o helicóptero Sky 10 da Local 10.\n\nA comissária de Broward Alexandra P. Davis, que ajudou a levar o evento ao aeroporto, disse que a presença da comunidade mostra o desejo de integrar a instalação à vizinhança. 'Quando a comunidade vem à pista, não só aos aviões, isso significa muito', afirmou.",
-      "category": "weston",
-      "source": "Local 10",
-      "url": "https://www.local10.com/community/2026/11/07/north-perry-airport-hosts-first-ever-5k-bringing-over-600-runners-to-the-runway/",
-      "published_at": "2026-11-07T09:05:45-05:00",
-      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-07-2026%2Ft_5f0044bb3afa4bde88b14b1b44f17717_name_49492672518_hdtv.jpg?auth=659094df099d9f9453293e63439ee960a76451199cd6496b12b432207cf46143&width=700"
+      "body": "A junta apuradora eleitoral de Broward reuniu-se na sexta-feira no escritório do Supervisor of Elections para revisar cédulas questionadas da eleição de terça-feira, enquanto o deputado republicano Mario Diaz-Balart mantém liderança de cerca de 1.700 votos sobre a democrata Nicole Locklin no 26º Distrito Congressional da Flórida.\n\nO supervisor Joe Scott informou que, de cerca de 300 cédulas pendentes em Broward — com problemas de assinatura ou de eleitores falecidos —, cerca de 100 foram aceitas. Locklin havia questionado um pico e depois queda de votos na noite da eleição; a Associated Press disse à CBS Miami que um erro de digitação gerou total incorreto temporário, corrigido rapidamente.\n\nAutoridades de Miami-Dade e Broward afirmaram que não restam votos suficientes para alterar o resultado ou desencadear recontagem no Distrito 26. \"Se cada cédula fosse do Distrito 26, ainda não seria o bastante para mudar\", disse Scott. O quadro contrasta com o Distrito 27, onde a recontagem automática ainda estava no radar na edição do meio-dia.",
+      "category": "miami",
+      "source": "CBS Miami",
+      "url": "https://www.cbsnews.com/miami/news/diaz-balart-locklin-district-26-broward-canvassing-board-ballots-data-entry-error/",
+      "published_at": "2026-11-06T19:48:00-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/07/7e88e9a0-7d61-4230-bdda-1f5d6487dab6/thumbnail/1200x630/5f3558eecf3ab36aa131f16f6f12fec7/nicole-locklin-mario-diaz-balart-district-26-race.png"
     },
     {
-      "id": "miami-2026-11-07-md1",
-      "title": "Antonio Brown fecha acordo e evita prisão em caso de tiroteio em Miami",
-      "summary": "O ex-jogador da NFL confessou agressão agravada com arma de fogo e recebeu três anos de liberdade condicional no tribunal de Miami-Dade na sexta. Ele enfrentava tentativa de homicídio pelo tiro em evento de boxe em maio de 2025.",
+      "id": "miami-juiz-rejeita-acordo-professora-miami-gar-258495cffd",
+      "title": "Juiz rejeita acordo em assassinato de professora de Miami Gardens",
+      "summary": "Após protesto da família, o juiz Alberto Milan rejeitou acordo que daria 30 anos de prisão a Ernest Joseph Roberts, acusado de matar a professora Kameela Russell em 2019. O caso deve ir a julgamento com outro juiz.",
       "highlights": [
-        "Pena: 3 anos de probation",
-        "Sem condenação formal no prontuário",
-        "Vítima não quis cooperar com a acusação"
+        "Família rejeitou pena de 30 anos + 5 de liberdade",
+        "Defesa pediu e obteve afastamento do juiz",
+        "Julgamento pode começar só no fim de 2027"
       ],
-      "body": "O ex-estrela da NFL Antonio Brown evitará a prisão após aceitar acordo na justiça de Miami-Dade na sexta-feira. Ele confessou agressão agravada com arma de fogo ligada a um tiroteio em maio de 2025 do lado de fora de uma luta de boxe de celebridades em Miami. A juíza Marisa Tinkler Mendez impôs três anos de liberdade vigiada, avaliação psicológica e aconselhamento semanal se determinado, além de proibição de armas.\n\nBrown, de 38 anos, era acusado de pegar a pistola de um segurança e disparar duas vezes contra um homem após briga — um tiro teria raspado o pescoço da vítima. A acusação de tentativa de homicídio em segundo grau caiu porque a vítima não quis cooperar e a promotoria não conseguiu provar intenção. O advogado Mark Eiglarsh disse que a oferta de probation era boa demais para recusar. Fora do tribunal, Brown afirmou: 'Agradeço a Deus'.",
+      "body": "Em audiência emotiva na sexta-feira, o juiz Alberto Milan rejeitou um acordo de plea que enviaria Ernest Joseph Roberts à prisão por 30 anos, mais cinco de liberdade condicional, pelo assassinato da professora de Miami Gardens Kameela Russell em 2019. A família da vítima — mãe de duas filhas e professora da Miami Norland Senior High School — deixou claro que não apoiava o acordo.\n\nA filha mais velha descreveu a violência sofrida pela mãe, cujo corpo foi encontrado em um canal quase duas semanas após o desaparecimento, e confrontou Roberts na sala. O juiz compartilhou experiência familiar com violência; em seguida, a defesa pediu seu afastamento, e o caso será redistribuído. O advogado de Roberts, Roderick Vereen, disse que a família \"não conhece os fatos\" e estimou que o julgamento pode começar só no fim do próximo ano.\n\nRoberts, ex-assistente de direção que conhecia Russell desde a infância e era padrinho das filhas, foi acusado do assassinato. O caso se arrasta há quase sete anos e agora segue para julgamento pleno, com a família cobrando responsabilização além do acordo proposto.",
       "category": "miami",
       "source": "NBC 6 South Florida",
-      "url": "https://www.nbcmiami.com/news/local/ex-nfl-star-antonio-brown-avoids-jail-time-as-part-of-plea-deal-after-miami-shooting/3884761/",
-      "published_at": "2026-11-06T12:19:28-05:00",
-      "image_url": "https://media.nbcmiami.com/2026/11/52487096556-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
+      "url": "https://www.nbcmiami.com/news/local/breaking-news-live-updates-south-florida-miami-today-november-6-2026/3884620/",
+      "published_at": "2026-11-06T23:14:00-05:00",
+      "image_url": "https://media.nbcmiami.com/2022/01/Breaking-News-2022.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "id": "miami-2026-11-07-md2",
-      "title": "Distrito 27 da Flórida vai a recontagem automática de votos",
-      "summary": "A disputa entre a republicana María Elvira Salazar e o democrata Eliott Rodriguez entrou em recontagem automática por máquina após diferença apertada. Rodriguez moveu ação pedindo o afastamento da supervisora eleitoral de Miami-Dade Alina Garcia.",
+      "id": "miami-911-learjet-greenacres-palm-beach-795fe4fc77",
+      "title": "Gravações do 911 mostram pânico após queda de Learjet em Greenacres",
+      "summary": "Autoridades divulgaram chamadas de 911 do acidente de Learjet que matou nove pessoas em Greenacres, Palm Beach. Moradores descreveram explosão e crateras; a copiloto reportou gelo e queda a 20 mil pés por minuto.",
       "highlights": [
-        "Recontagem automática por margem estreita",
-        "Ação pede recusa de Alina Garcia",
-        "Campanha alega conflito de interesses"
+        "Nove mortos a bordo; cerca de 600 desalojados",
+        "Copiloto alertou sobre gelo e overspeed",
+        "NTSB deve publicar relatório preliminar em cerca de 30 dias"
       ],
-      "body": "A eleição para o 27º Distrito Congressional da Flórida entre a deputada María Elvira Salazar e Eliott Rodriguez passou a recontagem automática por máquina, informou a Local 10. A margem ficou dentro do limite legal que dispara o procedimento.\n\nA campanha de Rodriguez moveu ação pedindo que a supervisora de eleições de Miami-Dade, Alina Garcia, se afaste das decisões da recontagem, alegando viés e conflito envolvendo o genro Robert Fernandez, que representa Salazar. Garcia afirmou que não se afastará. A contagem e eventuais litígios devem seguir nos próximos dias.",
+      "body": "Autoridades divulgaram gravações de ligações ao 911 feitas após um Learjet com nove pessoas cair em um bairro de Greenacres, cerca de 11 km a sudoeste de West Palm Beach, no domingo. Um chamador disse: \"Acho que um avião, um foguete, algo caiu do céu\". Outro descreveu explosão perto de casas móveis. O jato entrou em picada íngreme, deixou cratera e campo de destroços sob chuva forte.\n\nA copiloto Nathalia Gadelha Filgueiras, de 20 anos, reportou gelo na aeronave e turbulência de centenas de pés antes de declarar emergência: \"Estamos em condição de overspeed descendo 20 mil pés por minuto\". Morreram o piloto Jeff Gregory, 55, Filgueiras, o empresário de tecnologia Adam Robinson, a mulher Helen Sharp, os dois filhos do casal, amigos e a babá. Cerca de 600 moradores foram deslocados; apenas um ferido no solo.\n\nO NTSB ainda não determinou a causa e deve publicar relatório preliminar factual em cerca de 30 dias, sem análise causal. O acidente reforça alertas sobre voos em tempestades na temporada chuvosa do sul da Flórida.",
       "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/11/06/florida-27th-congressional-district-27-election-goes-into-automatic-machine-recount/",
-      "published_at": "2026-11-06T21:16:22-05:00",
-      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-07-2026%2Ft_4a80eb91134f4465886a1466825e6590_name_49483096124_hdtv.jpg?auth=46987ebeb2a01e1118c62bfad09b2fff9a103625ed0313fa9697dfa505e0c7d2&width=700"
+      "source": "NBC 6 South Florida",
+      "url": "https://www.nbcmiami.com/news/local/breaking-news-live-updates-south-florida-miami-today-november-6-2026/3884620/",
+      "published_at": "2026-11-06T23:14:00-05:00",
+      "image_url": "https://media.nbcmiami.com/2022/01/Breaking-News-2022.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "id": "miami-2026-11-07-md3",
-      "title": "Orla de Miami Beach leva prêmio nacional Best of the Best",
-      "summary": "Os sete quilômetros de praia de Miami Beach ficaram em primeiro lugar no prêmio nacional da American Shore and Beach Preservation Association, superando finalistas de todo o país. A orla também funciona como barreira natural contra ondas e inundações.",
+      "id": "tecnologia-apple-abre-siri-ai-desenvolvedores-4c1e50252c",
+      "title": "Apple abre Siri AI a todos os desenvolvedores de apps",
+      "summary": "A Apple lançou preview para desenvolvedores que amplia a integração da Siri AI com apps de terceiros via App Intents e \"skills\". Experiências para usuários devem chegar em alguns meses; envios à App Store, na primavera de 2027.",
       "highlights": [
-        "1º lugar no Best of the Best",
-        "7 milhas de costa premiadas",
-        "Função de proteção contra inundações"
+        "App Intents e skills para ações em múltiplos passos",
+        "Reserva, pedidos e compartilhamento por voz",
+        "Beta iOS 27.3 já mostra recursos em apps da Apple"
       ],
-      "body": "As praias de Miami Beach receberam a maior honraria do prêmio nacional Best of the Best da American Shore and Beach Preservation Association, superando finalistas de todo o país, informou a WSVN neste sábado.\n\nA orla de sete milhas funciona também como escudo natural contra ondas grandes e inundações perigosas que atingem a faixa de areia e a cidade.",
-      "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/miami-beach-shoreline-wins-best-of-the-best-award/",
-      "published_at": "2026-11-07T08:01:59-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11726-Miami-Beach-Shoreline.png"
-    },
-    {
-      "id": "miami-2026-11-07-md4",
-      "title": "Homem é baleado e hospitalizado no noroeste de Miami",
-      "summary": "Delegados do xerife de Miami-Dade atenderam ocorrência neste sábado de manhã na Northwest 63rd Street com 24th Avenue. A vítima tinha ferimento por arma de fogo nas extremidades superiores e está estável.",
-      "highlights": [
-        "Local: NW 63rd St e 24th Ave",
-        "Ferimento em membros superiores",
-        "Estado estável no hospital"
-      ],
-      "body": "Um homem foi hospitalizado após um incidente em Miami, segundo o Departamento do Xerife de Miami-Dade. O caso ocorreu na Northwest 63rd Street com a 24th Avenue na manhã de sábado.\n\nAo chegar, os agentes encontraram um homem com aparente ferimento por arma de fogo nas extremidades superiores. Ele foi levado a um hospital local pelo Miami-Dade Fire Rescue e permanece em estado estável.",
-      "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/person-hospitalized-miami/",
-      "published_at": "2026-11-07T07:12:51-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11726-Miami-Shooting.png"
-    },
-    {
-      "id": "miami-2026-11-07-md5",
-      "title": "Embarcação encalha no Hillsboro Inlet e deixa ferido na cabeça",
-      "summary": "A Guarda Costeira evacuou uma pessoa ferida na cabeça na quinta-feira após um barco de 35 pés encalhar no molhe do Hillsboro Inlet, em Pompano Beach. A confirmação pública veio neste sábado.",
-      "highlights": [
-        "Barco de 35 pés no molhe",
-        "Evacuação até Hillsboro Marina",
-        "Identidade e estado não divulgados"
-      ],
-      "body": "Uma equipe da Guarda Costeira dos EUA evacuou uma pessoa ferida na quinta-feira depois que um barco de 35 pés encalhou no molhe do Hillsboro Inlet, confirmaram autoridades neste sábado. A Estação Fort Lauderdale respondeu após o ocupante sofrer lesão na cabeça.\n\nA equipe levou o ferido até a Hillsboro Marina, onde o socorro médico aguardava no píer, segundo a Guarda Costeira do Sudeste. Idade, identidade e estado da vítima ainda não foram divulgados.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/11/07/uscg-person-suffers-head-injury-after-boat-runs-aground-near-hillsboro-inlet/",
-      "published_at": "2026-11-07T10:32:10-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/DYVCXGKPOW3ZF6CLYGKP4WEP5U.jpg?auth=7e2e7a7c1bd2d74cabc41eeab2f640527e6ce994aa3397d3e8a89d4c70f3fdc0&width=700"
-    },
-    {
-      "id": "miami-2026-11-07-md6",
-      "title": "Republicanos da Flórida sobrevivem à 'onda azul', mas em terreno instável",
-      "summary": "A Flórida elegeu Byron Donalds governador e Ashley Moody senadora, buckando a tendência nacional, porém com margens abaixo de 3%. A análise do Guardian descreve o estado como último reduto Maga sob pressão.",
-      "highlights": [
-        "Donalds: 1º governador negro do estado",
-        "Moody vai ao Senado",
-        "Margens de vitória abaixo de 3%"
-      ],
-      "body": "Depois da quase aniquilação republicana no resto do país na terça-feira, a Flórida emergiu como último grande bastão do movimento Maga, escreve o Guardian. Eleitores do estado romperam a tendência nacional — por pouco — e elegeram o deputado Byron Donalds como primeiro governador negro da Flórida e Ashley Moody para o Senado dos EUA.\n\nFoi um susto: ambas as margens ficaram abaixo de 3%, abrindo rachaduras simbólicas em Mar-a-Lago. Há uma geração a Flórida era o grande swing state; nos últimos anos tornou-se vermelha de forma confiável, mas as midterms de 2026 mostram o partido na defensiva mesmo em casa.",
-      "category": "miami",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
-      "published_at": "2026-11-07T07:00:10-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/69dadc0a0db6aad57a3ad98b4bc6859050bcf3cc/899_0_4496_3598/master/4496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=866dabc74dc629389688a274686bc805"
-    },
-    {
-      "id": "tecnologia-2026-11-07-md1",
-      "title": "EUA autorizam chips da Nvidia a firma chinesa com escritório vazio",
-      "summary": "Reportagem do NYT, ecoada pelo Verge, mostra que a New Matrix — aprovada a receber chips H200 — aparece com endereço vazio e donos ligados a fundo na lista negra dos EUA desde 2024. O governo Trump afrouxou limites em troca de fatia de 15%.",
-      "highlights": [
-        "New Matrix: endereço 'casca vazia'",
-        "Donos ligados a PE na blacklist",
-        "Acordo: 15% ao governo dos EUA"
-      ],
-      "body": "Cresce a preocupação de que o Departamento de Comércio e a Nvidia não estejam fazendo a devida diligência ao liberar empresas chinesas para receber chips de IA H200. Segundo o New York Times, a New Matrix está na lista de aprovadas, mas seu escritório é 'uma casca cinza oca, com fios pendurados no teto'.\n\nHá pouca evidência de que a empresa exista de fato; o diretório do prédio não a lista. Os donos têm laços com um fundo de private equity chinês na lista negra dos EUA desde 2024. A Nvidia estava barrada de vender chips à China no governo Biden; o governo Trump afrouxou as regras depois que a empresa topou ceder 15% ao governo americano.",
+      "body": "A Apple liberou um developer preview que permite a qualquer app integrar-se de forma mais profunda à Siri AI, além das categorias predefinidas do sistema antigo. Com App Intents, desenvolvedores usam contexto pessoal, informação na tela e linguagem natural; com \"skills\", ensinam a Siri a encadear várias ações em um único pedido — por exemplo, achar um produto no app de compras e enviá-lo a um amigo pelo Messages.\n\nA Siri também ganha acesso ampliado ao índice semântico do Spotlight para achar conteúdo de apps que antes ficava de fora. No beta do iOS 27.3, a assistente já organiza abas do Safari, encontra lugares visitados e arquiva arquivos em cerca de 15 apps da Apple. Michael Gorbach, da Apple, celebrou a expansão em post público.\n\nPor enquanto a integração avançada fica em testes de desenvolvedores. A empresa espera primeiras experiências para clientes em alguns meses e submissões à App Store na primavera de 2027. O movimento responde à concorrência do Gemini, do Google, com plataformas semelhantes de apps conectados.",
       "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "published_at": "2026-11-07T10:43:45-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "Digital Trends / Yahoo Tech",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-opens-siri-ai-developers-002410908.html",
+      "published_at": "2026-11-07T00:24:00+00:00",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/19f0eba4c5a6b4fdf8cd45c89187783dd8277b53924757754e2b82c9210b2a47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2Ff751e4858ed1ce7796b0bfb730bc4fc0.jpg"
     },
     {
-      "id": "tecnologia-2026-11-07-md2",
-      "title": "Relatório METR: IA da Anthropic acelera o próprio desenvolvimento",
-      "summary": "Após 11 semanas dentro da empresa, a organização de segurança METR concluiu que os modelos da Anthropic melhoram cerca de duas vezes mais rápido que há um ano, em grande parte porque a própria IA acelera a P&D — achado que alarma pesquisadores.",
+      "id": "tecnologia-tesla-app-ia-chat-cnh-f5ca475c07",
+      "title": "App da Tesla 4.62.5 sugere chat com IA e leitura de CNH",
+      "summary": "Análise do código do app iOS 4.62.5 da Tesla aponta chat com bot de IA, escaneamento de carteira de motorista no app e troubleshooting mais preciso da Phone Key. Ainda não há confirmação de lançamento aos donos.",
       "highlights": [
-        "Ritmo ~2x mais rápido que no ano passado",
-        "26% das tarefas de P&D já lideradas por IA",
-        "Empresa pôde censurar trechos do relatório"
+        "Referências a AI_BOT e feedback por polegar",
+        "Tela RegistrationDLExtractScreen no código",
+        "Changelog oficial só cita \"correções menores\""
       ],
-      "body": "A Anthropic está usando IA para construir IAs mais poderosas — e parece funcionar: os modelos da empresa melhoram cerca de duas vezes mais rápido que há um ano, segundo relatório da METR publicado na quinta-feira após investigação de 11 semanas. O achado é uma das evidências mais claras de IA acelerando o próprio desenvolvimento, levantando dúvidas sobre quando sistemas poderão se aprimorar com pouca intervenção humana.\n\nO momento é delicado: a Anthropic se prepara para abrir o capital enquanto o CEO Dario Amodei pede que laboratórios freiem. A empresa pôde censurar trechos do relatório final, o que gera perguntas sobre quanto o público realmente sabe do ritmo e dos riscos. Congressistas e pesquisadores de segurança pedem mais transparência e freios à autoaperfeiçoamento recursivo.",
+      "body": "O rastreador independente Tesla App Updates (iOS) analisou a versão 4.62.5 do app da Tesla para iPhone e encontrou código sugerindo mensagens assistidas por IA, escaneamento de carteira de motorista dentro do app e instruções mais específicas para falhas de Phone Key por Bluetooth. O changelog oficial da Tesla cita apenas \"correções e melhorias menores\".\n\nReferências a RegistrationDLExtractScreen indicam foto da frente e verso do documento, extração de dados e confirmação de endereço — possível fluxo de verificação de registro ou propriedade. No chat, há menção a AI_BOT ao lado de agente humano, além de voz, anexos e feedback positivo/negativo. O provedor de IA e a data de liberação não estão no código.\n\nOutros achados incluem configuração de Smart Breaker, gráficos de energia residencial, seleção de veículo para trials de FSD e recompensas de indicação, e retornos/trade-in na loja nativa. Instalar a 4.62.5 não garante que as funções apareçam: região, elegibilidade e ativação ainda são incertas.",
       "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "published_at": "2026-11-07T07:30:00-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+      "source": "Tesla North",
+      "url": "https://teslanorth.com/2026/11/07/tesla-app-4625-ai-chat-license-scanning/",
+      "published_at": "2026-11-07T09:00:00-05:00",
+      "image_url": "https://cdn.teslanorth.com/wp-content/uploads/2026/11/featured-13.jpg"
     },
     {
-      "id": "tecnologia-2026-11-07-md3",
-      "title": "Juíza da Califórnia considera Tesla responsável por fraude em Solar Roof",
-      "summary": "No caso Conroy v. Tesla, a juíza sancionou a empresa por ocultar provas e a considerou responsável por fraude e declaração negligente. O telhado solar nunca ficou pronto; o conserto pode passar de US$ 2,5 milhões. A Tesla chegou a oferecer US$ 5 mil.",
+      "id": "tecnologia-openai-11-bi-valuation-1-25-tri-37fb89e935",
+      "title": "OpenAI levanta US$ 11 bi e valuation chega a US$ 1,25 tri",
+      "summary": "A OpenAI teria captado US$ 11 bilhões em parte de uma rodada que avalia a empresa em US$ 1,25 trilhão, segundo a Bloomberg. A rodada ainda não fechou e pode chegar a cerca de US$ 20 bilhões — abaixo da meta de US$ 30 bilhões.",
       "highlights": [
-        "Tesla já admitiu quebra de contrato e negligência",
-        "Sanção por não entregar mensagens e relatórios",
-        "Mensagens internas falariam em 'experimento'"
+        "Valuation reportado: US$ 1,25 trilhão",
+        "Rodada parcial; meta anterior era US$ 30 bi",
+        "Mercado de IA sob pressão após midterms"
       ],
-      "body": "Uma juíza da Califórnia considerou a Tesla responsável por fraude em ação sobre Solar Roof depois que a empresa falhou repetidamente em entregar provas. A Tesla já havia admitido quebra de contrato, violação de garantia e negligência. O proprietário Ambrose Conroy, de Rancho Santa Fe, diz que o conserto custará bem mais de US$ 2,5 milhões; a Tesla chegou a oferecer US$ 5 mil.\n\nO telhado contratado em 2020 nunca foi concluído, não passou na inspeção do condado e não gerou 1 kWh. Em 11 de setembro o tribunal considerou a Tesla responsável por fraude e declaração negligente, limitando o julgamento a danos. A juíza citou mensagens Teams, logs da OSHA e mais de 20 relatórios internos ausentes, e textos que descreveriam a obra como 'experimento' com informes diários a Elon Musk.",
-      "category": "tecnologia",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
-      "published_at": "2026-11-07T11:01:23-05:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "tecnologia-2026-11-07-md4",
-      "title": "Tesla encerrará produção do Cybertruck em 2027 para priorizar Cybercab",
-      "summary": "Elon Musk disse que a fábrica no Texas deixará de fazer o picape de aço inoxidável no ano que vem para liberar espaço aos robotáxis Cybercab de dois lugares. As vendas ficaram muito abaixo da meta de 250 mil ao ano.",
-      "highlights": [
-        "Fim da produção previsto para 2027",
-        "Meta era 250 mil/ano; vendas na casa das dezenas de milhares",
-        "Modelo S e X já foram descontinuados pelo Optimus"
-      ],
-      "body": "A Tesla deixará de fabricar o Cybertruck no ano que vem, segundo o CEO Elon Musk, que afirmou no X que o espaço da fábrica será usado para produzir mais robotáxis Cybercab de dois lugares. A decisão vem após poucos anos de vendas decepcionantes: quando entregou os primeiros Cybertrucks no fim de 2023, Musk projetava cerca de 250 mil unidades ao ano; a empresa vendeu apenas dezenas de milhares no total em três anos.\n\nÉ o terceiro produto descontinuado para alimentar as ambições de IA e robótica — depois do Model S e do Model X, cujas linhas deram lugar aos robôs humanoides Optimus. O Cybercab já circula em Austin sem grandes incidentes e deve expandir para Dallas ainda este mês.",
+      "body": "A OpenAI teria levantado US$ 11 bilhões até agora em uma nova rodada de financiamento que avalia o laboratório de IA em US$ 1,25 trilhão, reportou a Bloomberg na sexta-feira, citando fontes. Os US$ 11 bilhões seriam parte de uma rodada maior, ainda aberta, que pode totalizar cerca de US$ 20 bilhões nas próximas semanas — bem abaixo da meta de US$ 30 bilhões ventilada no fim de setembro.\n\nA TechCrunch pediu comentário à OpenAI e atualizará a matéria se houver resposta. A notícia chega horas depois de relatos de que potenciais compradores de ações no IPO da rival Anthropic miram valuation bem abaixo do alvo de US$ 2 trilhões ventilado há cerca de um mês, com alguns citando algo perto de US$ 1,1 trilhão.\n\nO mercado de IA enfrenta nervosismo após a vitória democrata nas midterms e o sentimento negativo dos eleitores em relação a data centers, o que pode trazer mais regulação. A OpenAI adiou planos de IPO neste ano; há expectativa de abertura de capital em 2027.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "published_at": "2026-11-06T06:50:10-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/Cybertruck_78-resized.jpeg?resize=1200,800"
-    },
-    {
-      "id": "tecnologia-2026-11-07-md5",
-      "title": "IPO da Anthropic enfrenta reação anti-IA após midterms",
-      "summary": "A Anthropic mira estreia na Nasdaq em meados de novembro com valuation entre US$ 1 tri e US$ 1,5 tri, em clima hostil: eleitores rejeitaram medidas pró-data centers em 40 de 41 casos, e mais da metade citou o tema como fator no voto para o Congresso.",
-      "highlights": [
-        "Valuation mira US$ 1–1,5 trilhão",
-        "40 de 41 medidas de data center rejeitadas",
-        "US$ 895 bi em compromissos de infraestrutura"
-      ],
-      "body": "A Anthropic se prepara para um IPO potencialmente histórico, com alvo de meados de novembro na Nasdaq. Investidores citados pela CNBC veem valuation de US$ 1 trilhão a US$ 1,5 trilhão, abaixo dos US$ 2 trilhões ventilados meses atrás. O ambiente azedou: nas midterms, comunidades rejeitaram medidas ligadas a data centers em 40 de 41 casos, e mais da metade dos eleitores disse à NBC News que data centers de IA foram fator crucial ou importante no voto para o Congresso.\n\nNo prospecto, a empresa registra cerca de US$ 895,4 bilhões em compromissos de compra e arrendamento, quase todos de computação e infraestrutura, e admite que a oposição a data centers se organizou. Ser a primeira big tech pura de IA a abrir capital deve ampliar o escrutínio público.",
-      "category": "tecnologia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-      "published_at": "2026-11-07T08:00:01-05:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080"
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published_at": "2026-11-06T14:53:00-08:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
     }
   ]
 }
