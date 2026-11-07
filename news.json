@@ -1,536 +1,424 @@
 {
- "version": 2,
- "generated_at": "2026-11-07T07:11:51-05:00",
- "edition": "manha",
- "timezone": "America/New_York",
- "items": [
-  {
-   "id": "eua-2026-11-07-m1",
-   "title": "Homem armado é preso perto da Casa Branca e diz que planejava matar Trump",
-   "summary": "Um venezuelano sem documentos foi detido na noite de quinta-feira a poucos quarteirões da Casa Branca com várias armas, segundo o Departamento de Segurança Interna (DHS). Ele teria dito ao Serviço Secreto que ouvia vozes mandando-o assassinar o presidente.",
-   "highlights": [
-    "Suspeito identificado como Ronny Yordrix Guanipa Chrinos",
-    "Três armas, incluindo um rifle, e dezenas de munições no carro",
-    "Veículo havia sido dado como roubado"
-   ],
-   "body": "Agentes do Serviço Secreto notaram o suspeito agindo de forma estranha dentro de um carro estacionado na Constitution Avenue, perto do Ellipse, e o abordaram. Segundo o DHS, ele afirmou ter ouvido vozes na cabeça dizendo para ir a Washington e assassinar Trump.\n\nOs agentes descobriram que o carro tinha sido roubado e, na revista, encontraram três armas de fogo, entre elas um rifle, e dezenas de cartuchos. Ele foi autuado por transporte ilegal de arma de fogo, porte de armas e munições não registradas, porte de pistola sem licença, uso não autorizado de veículo, furto e receptação.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
-   "published_at": "2026-11-06T19:32:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/95c8e782-242c-423c-a151-f7d70908f6a3/thumbnail/1200x630/3ab616383880202f31895e00b1ac91b1/unnamed.jpg"
-  },
-  {
-   "id": "eua-2026-11-07-m2",
-   "title": "Justiça dos EUA desiste de ação para separar 20 mil cédulas na Califórnia",
-   "summary": "O Departamento de Justiça pediu na sexta-feira o arquivamento da própria ação que tentava impedir a Califórnia de contar cerca de 20 mil cédulas atribuídas a supostos não cidadãos. O recuo vem dias após as pesadas derrotas republicanas nas eleições de meio de mandato.",
-   "highlights": [
-    "Suprema Corte já havia rejeitado o pedido na véspera da eleição",
-    "Califórnia diz que a lista está desatualizada e inclui eleitores legítimos",
-    "Audiência com perito especial estava marcada para a próxima semana"
-   ],
-   "body": "O caso estava na linha de frente do esforço do governo Trump para ampliar o controle sobre eleições administradas pelos estados. Na segunda-feira, a Suprema Corte rejeitou, em decisão curta e sem assinatura, o pedido para obrigar a Califórnia a separar os votos por correio dessas cerca de 20 mil pessoas.\n\nAutoridades californianas e o juiz federal do caso afirmaram que a lista usada pelo governo estava desatualizada e incluía eleitores legítimos. O Departamento de Justiça, porém, continua envolvido em outros litígios com grupos de imigrantes e de direitos de voto sobre o uso dessa lista.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/justice-department-drops-lawsuit-california-ballots-alleged-noncitizens/",
-   "published_at": "2026-11-06T20:39:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/48dac04b-e3c3-46c7-a264-b0166d396043/thumbnail/1200x630/834f31f380b995bcb00a8c0c6eab09fd/gettyimages-2303720039.jpg"
-  },
-  {
-   "id": "eua-2026-11-07-m3",
-   "title": "Pai de Meghan Markle é preso na Flórida em caso de abuso sexual infantil",
-   "summary": "Thomas Markle Sr., pai de Meghan, duquesa de Sussex, foi preso na sexta-feira na Flórida, acusado de manter material de abuso sexual infantil em depósitos alugados na região de Los Angeles. Ele foi liberado sob prisão domiciliar com monitoramento eletrônico.",
-   "highlights": [
-    "Material estaria em dois depósitos alugados por quase 20 anos",
-    "Primeira audiência foi no tribunal federal de Tampa",
-    "Não pode sair do Distrito Central da Flórida"
-   ],
-   "body": "Segundo o Departamento de Justiça, Markle guardava material de abuso sexual infantil, incluindo fotos explícitas dele com meninas pré-púberes, em dois depósitos na região de Los Angeles. 'Essas alegações são extremamente graves', disse Bill Essayli, primeiro procurador-assistente do Distrito Central da Califórnia.\n\nMarkle chegou ao tribunal federal de Tampa em cadeira de rodas. O juiz Thomas Wilson determinou sua liberação mediante compromisso pessoal, com prisão domiciliar e tornozeleira eletrônica. A promotoria ainda não decidiu se ele permanecerá na Flórida ou será transferido para a Califórnia, onde as acusações se originaram.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/",
-   "published_at": "2026-11-06T10:23:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/06/927159ec-fc32-40b5-ba1f-1ad870b5e005/thumbnail/1200x630g2/b3a0aa856c8736065e7196d350ad3ab6/thomas-markle-sr-2301126202.jpg"
-  },
-  {
-   "id": "eua-2026-11-07-m4",
-   "title": "Procurador federal do sul da Flórida renuncia em meio à investigação da 'grande conspiração'",
-   "summary": "Jason Reding Quiñones, procurador federal do Distrito Sul da Flórida que supervisionava a investigação sobre ex-funcionários de inteligência das eras Obama e Biden, renunciou abruptamente na sexta-feira. O procurador-geral Todd Blanche anunciou a saída sem dar explicações.",
-   "highlights": [
-    "Investigação é conduzida a partir de Fort Pierce",
-    "Também apura se John Brennan mentiu ao Congresso",
-    "É mais uma baixa num inquérito marcado por disputas internas"
-   ],
-   "body": "A investigação apura se ex-funcionários de inteligência de dois governos democratas conspiraram para tirar Trump do poder por meio de investigações criminais e de inteligência. Separadamente, analisa se o ex-diretor da CIA John Brennan mentiu ao Congresso sobre o papel da agência na avaliação de que a Rússia interferiu na eleição de 2016.\n\nEm publicação no X, Quiñones agradeceu a Trump e disse que servir no Distrito Sul foi 'o privilégio de uma vida'. Blanche elogiou seu trabalho contra crimes violentos, tráfico e organizações criminosas transnacionais, mas não explicou a saída, que se soma a outras baixas de um inquérito cercado de dúvidas sobre sua viabilidade.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/doj-jason-reding-quinones-resigns-grand-conspiracy-probe/",
-   "published_at": "2026-11-06T10:41:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/06/87f7b2de-417a-4fca-88a9-8eb44a9d69a9/thumbnail/1200x630g2/573aa9114c74c434a17953aa20a96108/gettyimages-2300990625.jpg"
-  },
-  {
-   "id": "eua-2026-11-07-m5",
-   "title": "Professores de Cornell aprovam moção de desconfiança contra a reitoria",
-   "summary": "O Senado de professores da Universidade Cornell aprovou, por 75 a 50, uma moção de desconfiança contra o presidente Michael Kotlikoff e outros administradores. A votação é simbólica, mas representa forte repreensão à forma como a universidade lidou com denúncias de agressão sexual.",
-   "highlights": [
-    "Placar de 75 votos a 50, com cinco abstenções",
-    "Caso 'Jane Doe' desencadeou semanas de revolta",
-    "Os sete acusados no processo negam as acusações"
-   ],
-   "body": "Segundo membros do corpo docente ouvidos pela CBS News New York, a resolução questiona a condução da crise de agressões sexuais no campus. A votação não obriga a direção a renunciar. 'Dissemos que eles não falam por nós', afirmou a coautora Iris Packman.\n\nOs autores dizem que o caso Jane Doe foi 'a ponta do iceberg' e cobram medidas concretas, e não 'uma força-tarefa lenta' ou uma proibição mal aplicada de festas em fraternidades. Todos os sete homens acusados no processo negam irregularidades.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/cornell-faculty-senates-no-confidence-vote-results/",
-   "published_at": "2026-11-06T11:06:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/02/46846931-7d3e-49b6-9b2d-69d46488e678/thumbnail/1200x630/681f46a73447fe8e1938a67155b29a90/ap26274551014467.jpg"
-  },
-  {
-   "id": "eua-2026-11-07-m6",
-   "title": "Bolsas se recuperam parcialmente após tombo das ações de tecnologia",
-   "summary": "As ações recuperaram parte das perdas na sexta-feira, após uma liquidação motivada pelo temor de desaceleração na construção de data centers. O Nasdaq subiu 1,1% e o S&P 500 avançou 0,3%, enquanto o Dow caiu 0,5%.",
-   "highlights": [
-    "S&P 500 fechou em 7.377 pontos",
-    "Quinta-feira foi o pior dia do índice desde abril de 2025",
-    "Eleitores aprovaram mais de 40 medidas restringindo data centers"
-   ],
-   "body": "O S&P 500 subiu 23 pontos, sem apagar a forte queda de quinta-feira. Investidores avaliam se as vitórias democratas podem levar a restrições à construção de data centers e a menos gastos com inteligência artificial. 'A alta é muito tímida', disse Adam Crisafulli, da Vital Knowledge.\n\nAnalistas lembram que, embora os democratas passem a controlar Câmara e Senado em janeiro, Trump mantém o poder de veto, o que deve limitar grandes restrições federais. A oposição tende a aparecer mais nos níveis estadual e local: segundo a Redbud Consulting, mais de 40 medidas contra data centers já foram aprovadas em comunidades do país.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/",
-   "published_at": "2026-11-06T10:10:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/05/20/7ca2f82a-504d-48ca-9f33-66b4d4887edc/thumbnail/1200x630/23794cc98df9ed503dcbe736c8638bec/download.jpg"
-  },
-  {
-   "id": "eua-2026-11-07-m7",
-   "title": "Senadores democratas eleitos resistem a Schumer como líder da maioria",
-   "summary": "Vários senadores democratas recém-eleitos dizem que não apoiarão Chuck Schumer como próximo líder da maioria no Senado, embora ele provavelmente ainda tenha votos suficientes na bancada. Eles pedem renovação na liderança do partido.",
-   "highlights": [
-    "Annie Andrews (Carolina do Sul) pede 'mudança geracional'",
-    "Adam Hamilton é o primeiro democrata eleito senador pelo Kansas em 94 anos",
-    "Talarico, El-Sayed e outros também evitam apoiar Schumer"
-   ],
-   "body": "Annie Andrews, eleita pela Carolina do Sul, disse à Fox News que o partido precisa de nova liderança. Adam Hamilton, do Kansas, afirmou à CNN que não apoiará Schumer, e Abdul El-Sayed, de Michigan, disse querer considerar outras opções.\n\nTambém se recusaram a apoiar Schumer James Talarico (Texas), Juliana Stratton (Illinois), Chris Pappas (New Hampshire), Peggy Flanagan (Minnesota) e Troy Jackson (Maine). Segundo o Guardian, eleitores democratas vêm sinalizando que querem lideranças mais novas, após vitórias progressistas em eleições locais e estaduais.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/06/chuck-schumer-majority-leader-incoming-democratic-senators",
-   "published_at": "2026-11-06T14:37:25-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/51e42fd564f93d4ee3ae87fa007ba5d686f32bef/620_0_5761_4609/master/5761.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cefd5a31b415253de06558244485567f"
-  },
-  {
-   "id": "mundo-2026-11-07-m1",
-   "title": "Paraguai: Peña é destituído e colocado em prisão domiciliar",
-   "summary": "O Senado do Paraguai aprovou o impeachment do presidente Santiago Peña por mau desempenho do cargo, após o colapso do banco Ueno, ligado ao governo. Ele foi colocado em prisão domiciliar e deve se apresentar aos promotores neste sábado.",
-   "highlights": [
-    "Segundo presidente destituído por impeachment desde 1989",
-    "Acusações incluem quebra de confiança e tráfico de influência",
-    "Penas mais graves chegam a 10 anos de prisão"
-   ],
-   "body": "Os reguladores intervieram no banco digital Ueno apenas três dias antes, deixando clientes sem acesso a saques, poupança ou cartões e provocando a pior crise política do país em mais de uma década. Mais de 1 milhão de paraguaios abriram sua primeira conta no Ueno.\n\nParlamentares acusam Peña de usar sua influência para direcionar centenas de milhões de dólares em recursos públicos ao banco enquanto os reguladores ignoravam empréstimos arriscados a pessoas ligadas à instituição. Peña nega irregularidades e deve permanecer em uma de suas casas em Assunção.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/paraguay-president-arrest-bank-ueno-collapse/",
-   "published_at": "2026-11-07T05:12:32-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/f867a9bc-ac98-4ffb-8cc5-d749077a42fa/thumbnail/1200x630/28c3e73dd42370f1eb5291d38158285b/gettyimages-2296436142.jpg"
-  },
-  {
-   "id": "mundo-2026-11-07-m2",
-   "title": "Mísseis russos atingem Kiev antes de nova rodada de negociações",
-   "summary": "Explosões de mísseis atingiram várias regiões da Ucrânia neste sábado, ferindo pelo menos nove pessoas, enquanto Kiev e Moscou se preparam para novas negociações com os EUA na terça-feira, em Abu Dhabi. Os ataques causaram cortes de energia e água na capital.",
-   "highlights": [
-    "Ponte Norte de Kiev foi fechada",
-    "Instalações de energia em Kiev e Zhytomyr foram danificadas",
-    "Será a quarta rodada mediada pelo governo Trump"
-   ],
-   "body": "Os mísseis que atingiram Kiev durante a madrugada danificaram casas e imóveis comerciais. 'A situação do abastecimento de energia da capital é extremamente difícil, afetando aquecimento e água', disse o prefeito Vitali Klitschko.\n\nZelensky acusou a Rússia de se preparar para as conversas trilaterais 'lançando mísseis balísticos contra a infraestrutura crítica da Ucrânia'. Governos ocidentais buscam uma nova fórmula para destravar o impasse, mas questões territoriais e de segurança seguem sem solução.",
-   "category": "mundo",
-   "source": "Associated Press (via Local 10)",
-   "url": "https://www.local10.com/news/world/2026/11/07/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/",
-   "published_at": "2026-11-07T05:25:20-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/CNUHAG3M2J2NKQYF5DALGXYPVI.jpg?auth=0fe79557f553268ac1b1378d8177adcf341939690542f395a4fbfff73cb605fe&width=700"
-  },
-  {
-   "id": "mundo-2026-11-07-m3",
-   "title": "Eleição na Nova Zelândia termina sem definição; conservadores à frente",
-   "summary": "Com mais de 95% dos votos apurados, a eleição neozelandesa não teve vencedor definitivo, mas a coalizão conservadora do premiê Christopher Luxon está à beira de uma maioria de apenas uma cadeira. A formação do governo pode levar semanas.",
-   "highlights": [
-    "Coalizão reúne National, ACT e NZ First",
-    "Bloco de esquerda liderado por Chris Hipkins ficou aquém da maioria",
-    "Votos especiais, historicamente mais à esquerda, ainda serão contados"
-   ],
-   "body": "Luxon não declarou vitória em discurso em Auckland após a meia-noite: 'O National é mais uma vez o maior partido no Parlamento e temos um caminho para formar o próximo governo, mas está apertado demais para cravar'.\n\nO líder trabalhista Chris Hipkins também não admitiu derrota. Um segundo mandato da coalizão pode depender de negociações longas e dos votos contados após o dia da eleição.",
-   "category": "mundo",
-   "source": "Associated Press (via Local 10)",
-   "url": "https://www.local10.com/news/2026/11/07/conservative-bloc-takes-a-slim-lead-in-new-zealand-election-thats-still-too-close-to-call/",
-   "published_at": "2026-11-07T06:44:24-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/OXCY3KZ4SBDFKWUEKFRNHKLMNY.jpg?auth=b67261518f64119532e31e0902368fab14785cd209a5b1a252686eb28af0e5cb&width=700"
-  },
-  {
-   "id": "mundo-2026-11-07-m4",
-   "title": "EUA fazem novos ataques ao Irã; Trump fala em ação 'menor'",
-   "summary": "Trump disse que os militares americanos realizaram na sexta-feira novos ataques limitados contra um sistema de defesa antiaérea iraniano. A mídia estatal do Irã relatou explosões na ilha de Qeshm, no Estreito de Ormuz.",
-   "highlights": [
-    "Primeiros ataques desde a derrota republicana nas midterms",
-    "Trump disse que o alvo foi destruído 'em 15 minutos, talvez cinco'",
-    "EUA já haviam feito ataques 'defensivos' na segunda-feira"
-   ],
-   "body": "'Eles construíram um pequeno dispositivo antiaéreo e nós o destruímos', disse Trump a repórteres ao chegar a West Palm Beach. Ele não deu mais detalhes sobre o alvo; autoridades americanas avaliam que o Irã tenta reconstruir defesas destruídas anteriormente.\n\nSegundo a AP, a derrota eleitoral republicana foi alimentada em parte pela insatisfação com a condução do conflito. Os novos ataques ocorrem enquanto líderes iranianos avaliam propostas de mediadores.",
-   "category": "mundo",
-   "source": "Associated Press (via Local 10)",
-   "url": "https://www.local10.com/news/politics/2026/11/06/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals/",
-   "published_at": "2026-11-06T21:11:38-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/P7JSNK52WD2NOBG5C6TD2VRITM.jpg?auth=77c5d3967725091e0517d0393bdfa63a058a3b51ab2c1786103443f90e481834&width=700"
-  },
-  {
-   "id": "mundo-2026-11-07-m5",
-   "title": "Plano do Catar pode reabrir Ormuz em troca de inspeções nucleares no Irã",
-   "summary": "O Catar, principal mediador do conflito, tenta convencer Teerã a permitir que inspetores da ONU visitem as instalações nucleares bombardeadas. Em troca, os EUA suspenderiam o bloqueio naval no Estreito de Ormuz e liberariam parte de US$ 8 bilhões em ativos congelados.",
-   "highlights": [
-    "Emir do Catar conversou com Trump sobre a proposta",
-    "Irã não teria de se comprometer a retirar o urânio do país",
-    "Proposta se baseia em acordo abandonado do Cairo, de 2025"
-   ],
-   "body": "Pela proposta, o Irã aceitaria visitas da Agência Internacional de Energia Atômica às instalações atingidas, incluindo as que guardam o estoque de urânio altamente enriquecido. Entre as opções está reduzir o enriquecimento do material em vez de levá-lo para fora do país.\n\nSegundo o Guardian, Trump ainda avalia um novo ataque a instalações nucleares, mas a credibilidade de suas ameaças diminuiu dentro do Irã depois que o vice JD Vance disse que a própria guerra foi decisiva para a derrota republicana nas eleições.",
-   "category": "mundo",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-   "published_at": "2026-11-07T02:00:04-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/e3e106cee8c7a119858472afd76f5d130e4d43b6/1722_527_3180_2545/master/3180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c0858f7db51b22430d8b59289122e37"
-  },
-  {
-   "id": "mundo-2026-11-07-m6",
-   "title": "Gangue haitiana 400 Mawozo procura órgão de desarmamento",
-   "summary": "Uma das gangues mais poderosas do Haiti, a 400 Mawozo, disse ter procurado a comissão estatal de desarmamento em busca de 'paz, estabilidade e reconciliação nacional'. Tiroteios continuam no país.",
-   "highlights": [
-    "Gangue enviou comunicado de três páginas à AP",
-    "ONU acusa o grupo de estupros, assassinatos e sequestros",
-    "Comissão diz que qualquer diálogo segue o roteiro do governo"
-   ],
-   "body": "No comunicado, o grupo afirma que 'o diálogo não é capitulação' e planeja participar de uma manifestação pacífica ainda neste mês. Em 1º de novembro, o líder Wilson Joseph já havia pedido à ONU uma delegação para mediação, temendo escalada com a presença de tropas salvadorenhas.\n\nA Comissão Nacional de Desarmamento confirmou ter sido contatada por um representante da gangue, mas disse que trabalha com o gabinete do primeiro-ministro e que qualquer diálogo deve seguir o plano do governo.",
-   "category": "mundo",
-   "source": "Associated Press (via Local 10)",
-   "url": "https://www.local10.com/news/world/2026/11/06/powerful-haitian-gang-reaches-out-to-state-disarmament-group-as-gunfights-persist/",
-   "published_at": "2026-11-06T22:16:24-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/X4TOV2ITG6D6SCBOLRORF4Z5AU.jpg?auth=fc441eca26eff23ff0b0ba2c5a64eb22a6b2fc0044bf4bd05094109de6f6b0ed&width=700"
-  },
-  {
-   "id": "mundo-2026-11-07-m7",
-   "title": "China confirma conversas sobre encontro histórico Xi-Trump-Putin",
-   "summary": "Pequim confirmou pela primeira vez que discute um encontro entre Xi Jinping, Donald Trump e Vladimir Putin. A reunião poderia ocorrer neste mês, à margem da cúpula da Apec em Shenzhen.",
-   "highlights": [
-    "Nada está definido, segundo a chancelaria chinesa",
-    "Trump deve ir a Shenzhen para o terceiro encontro com Xi no ano",
-    "Trégua comercial EUA-China expira em janeiro"
-   ],
-   "body": "A porta-voz Mao Ning disse que a China 'está em comunicação com as partes relevantes' sobre o encontro dos três chefes de Estado. Especialistas avaliam que a reunião teria pouco conteúdo, mas renderia uma foto cuidadosamente coreografada por Pequim.\n\nEm sinal de tensões persistentes, o representante comercial dos EUA, Jamieson Greer, pediu ao vice-premiê He Lifeng, em videochamada na sexta-feira, 'ações concretas' para cumprir compromissos anteriores.",
-   "category": "mundo",
-   "source": "Associated Press (via Local 10)",
-   "url": "https://www.local10.com/news/politics/2026/11/06/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting/",
-   "published_at": "2026-11-06T20:52:12-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/NVR5XX7LCHCD4GA55ZHXHIW5UM.jpg?auth=6539f68e39113c6077e61973859f8f902d8d553c86938b277456a78da384f07b&width=700"
-  },
-  {
-   "id": "mundo-2026-11-07-m8",
-   "title": "María Corina Machado visita prisão e promete liberdade a presos políticos",
-   "summary": "A líder opositora venezuelana María Corina Machado visitou na sexta-feira a prisão Rodeo I e, com um megafone, disse aos detentos que em breve estarão livres. As autoridades não impediram a visita.",
-   "highlights": [
-    "Governo diz ter libertado mais de mil presos políticos",
-    "ONGs afirmam que mais de 300 seguem detidos",
-    "Familiares acampam há mais de 300 dias diante da prisão"
-   ],
-   "body": "A visita foi um gesto de solidariedade em meio à pressão para a libertação dos que seguem presos. Fabiola Velasco, cujo pai, um juiz acusado de conspirar contra Nicolás Maduro, está preso há dois anos, descreveu Rodeo I como um 'centro de tortura'.\n\nAs autoridades venezuelanas dizem ter libertado mais de mil presos políticos desde a captura de Maduro pelos EUA, mas grupos de direitos humanos contam mais de 300 ainda detidos.",
-   "category": "mundo",
-   "source": "Associated Press (via Local 10)",
-   "url": "https://www.local10.com/news/world/2026/11/06/machado-visits-venezuelan-prison-offering-hope-to-families-of-political-detainees/",
-   "published_at": "2026-11-06T17:36:28-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-06-2026%2Ft_ecb9e68c97a148daa91c8da1e502dab1_name_49480099476_hdtv.jpg?auth=f3e5855a15b9db118af6923e1e9fca973f3b59a97ee7e2fd6ef80387579880e0&width=700"
-  },
-  {
-   "id": "mundo-2026-11-07-m9",
-   "title": "Astronauta paquistanês será o primeiro estrangeiro na estação espacial chinesa",
-   "summary": "Um astronauta do Paquistão integrará a tripulação da Shenzhou 24, tornando-se o primeiro estrangeiro a embarcar na estação espacial da China, informou a mídia estatal. Ele fará um voo curto e voltará à Terra na Shenzhou 23.",
-   "highlights": [
-    "Primeiro voo conjunto com estrangeiros do programa chinês",
-    "Dois candidatos paquistaneses treinavam na China",
-    "Data de lançamento não foi divulgada"
-   ],
-   "body": "Segundo a Xinhua, os candidatos Muhammad Zeeshan Ali e Khurram Daud começaram a treinar neste ano com colegas chineses, incluindo aulas intensivas de chinês; um deles será especialista de carga útil na missão. A cooperação faz parte de acordo assinado em fevereiro de 2025.\n\nA China se prepara para seu primeiro pouso tripulado na Lua até 2030, enquanto a Nasa mira 2028 para levar astronautas à superfície lunar.",
-   "category": "mundo",
-   "source": "Associated Press (via Local 10)",
-   "url": "https://www.local10.com/tech/2026/11/06/pakistani-astronaut-to-board-shenzhou-24-and-become-the-first-foreigner-on-chinas-space-station/",
-   "published_at": "2026-11-06T23:34:21-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/S3WWDWHR2Y5J7M25PETTNUWUMY.jpg?auth=49ead012d9b009393d0683568e0e4fefc51c55b4b0886349c3cbc69b0be2db1e&width=700"
-  },
-  {
-   "id": "weston-2026-11-07-m1",
-   "title": "Alagamentos no oeste de Broward elevam alerta para mosquitos e dengue",
-   "summary": "Autoridades de saúde alertam que a água parada deixada pelas enchentes no oeste de Broward pode favorecer a proliferação de mosquitos e de doenças como a dengue. Davie já começou a pulverização.",
-   "highlights": [
-    "Flórida soma quase 300 casos de dengue em 2026",
-    "Não há casos registrados em Broward em novembro",
-    "Parques como o Oak Hill Equestrian Park foram fechados"
-   ],
-   "body": "O Departamento de Saúde da Flórida contabiliza quase 300 casos de dengue no estado neste ano. O médico Craig Harrison, do Broward Health Medical Center, lista sintomas como febre, dores no corpo e dor de cabeça, especialmente atrás dos olhos; casos graves podem ter manchas ou sangramentos.\n\nA cidade de Davie iniciou a pulverização contra mosquitos e avalia operações terrestres ou aéreas adicionais. As chuvas dos últimos dias causaram fechamento de escolas, casas alagadas e carros ilhados em Broward.",
-   "category": "weston",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/broward-flooding-standing-water-mosquitoes-dengue-davie-spraying/",
-   "published_at": "2026-11-06T21:43:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/bf3c3547-c98e-4da2-bec5-32bee687ccc0/thumbnail/1200x630/457102137dab6352c92e3237443da6ea/snapshot-46.jpg"
-  },
-  {
-   "id": "weston-2026-11-07-m2",
-   "title": "Distrito 26: Díaz-Balart mantém vantagem de cerca de 1.700 votos",
-   "summary": "A junta de apuração de Broward revisou na sexta-feira cédulas questionadas da eleição, enquanto o deputado republicano Mario Díaz-Balart mantém cerca de 1.700 votos de vantagem sobre a democrata Nicole Locklin. Autoridades dizem que não há votos pendentes suficientes para mudar o resultado.",
-   "highlights": [
-    "Das cerca de 300 cédulas revisadas, só 100 foram aceitas",
-    "AP atribuiu salto temporário de Locklin a erro de digitação",
-    "Margem não deve levar a recontagem"
-   ],
-   "body": "A junta, formada pelo supervisor eleitoral Joe Scott, um comissário do condado e um juiz, analisou cédulas com problemas que iam de assinaturas a votos de eleitores que morreram. 'Se foi recebida antes da morte, é aceita; depois, é rejeitada', disse Scott.\n\nLocklin havia questionado a queda de sua contagem na noite da eleição e cobrado uma recontagem. A AP disse à CBS Miami que um erro de digitação exibiu brevemente um total incorreto. 'Mesmo que todas as cédulas fossem para o Distrito 26, não seria suficiente para mudar', afirmou Scott.",
-   "category": "weston",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/diaz-balart-locklin-district-26-broward-canvassing-board-ballots-data-entry-error/",
-   "published_at": "2026-11-06T19:48:20-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/07/7e88e9a0-7d61-4230-bdda-1f5d6487dab6/thumbnail/1200x630/5f3558eecf3ab36aa131f16f6f12fec7/nicole-locklin-mario-diaz-balart-district-26-race.png"
-  },
-  {
-   "id": "weston-2026-11-07-m3",
-   "title": "Broward instala sensores para monitorar alagamentos em tempo real",
-   "summary": "O condado de Broward começou a instalar sensores solares em Fort Lauderdale para acompanhar chuva e acúmulo de água em tempo real. O sistema envia atualizações a cada 10 minutos para as equipes de resposta.",
-   "highlights": [
-    "Cada sensor custa cerca de US$ 18 mil",
-    "Meta de 40 sensores até o fim de 2026 e mais 50 em 2027",
-    "Expansão prevista para Pompano Beach, Hallandale Beach e Hollywood"
-   ],
-   "body": "O sistema usa dois sensores: um acima do solo e outro dentro de um bueiro próximo, que medem quanta água se acumula ao longo do tempo. Segundo Greg Mount, da equipe de inovação de Obras Públicas do condado, a ideia é detectar a água subindo antes que vire enchente, dando tempo para deslocar bombas e equipamentos.\n\nO projeto é financiado pelo imposto de transporte de um centavo de Broward. Um dos pontos críticos é a Northeast 19th Avenue, onde a maré pode empurrar água de um canal enquanto a chuva escoa lentamente.",
-   "category": "weston",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/06/broward-county-installs-flood-sensors-to-track-rising-water-in-real-time/",
-   "published_at": "2026-11-06T22:36:54-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-07-2026%2Ft_d5acd3f6e9f94e3cbf1b9c7c0133bf63_name_49484330804_hdtv.jpg?auth=c5e025d2dbe3946ef3278cbdd443faa999c5409588fbeab802fadfab0eed8a0b&width=700"
-  },
-  {
-   "id": "miami-2026-11-07-m1",
-   "title": "Distrito 27: democrata Eliott Rodriguez processa supervisora eleitoral",
-   "summary": "A equipe do democrata Eliott Rodriguez entrou com ação para afastar a supervisora eleitoral de Miami-Dade, Alina Garcia, das decisões de recontagem no Distrito 27. A deputada María Elvira Salazar lidera por 1.090 votos.",
-   "highlights": [
-    "Recontagem está marcada para terça, 10 de novembro, às 10h",
-    "Ação cita foto de Garcia com Salazar e papel do genro dela",
-    "Garcia nega parcialidade"
-   ],
-   "body": "O processo questiona a imparcialidade de Garcia, citando suas filiações políticas, uma foto com Salazar e o fato de seu genro, o advogado Robert Fernandez, representar a deputada na recontagem. A ação também alega que ela anunciou publicamente um vencedor antes da recontagem.\n\n'Tiro foto com quem me pede', disse Garcia à CBS News Miami, explicando que a imagem foi feita em Washington em maio de 2025. Fernandez afirmou que seu papel não cria conflito de interesses.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/rodriguez-lawsuit-garcia-recusal-district-27-recount-salazar/",
-   "published_at": "2026-11-06T20:20:05-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/db688205-3b01-4578-9998-996fefba0caf/thumbnail/1200x630/5ebc32395259dd0218cedc84914687f3/eliott-rodriguez-lawsuit-maria-elvira-salazar-alina-garcia.png"
-  },
-  {
-   "id": "miami-2026-11-07-m2",
-   "title": "Ligações ao 911 mostram caos após queda de jato em Palm Beach",
-   "summary": "Gravações divulgadas de chamadas ao 911 revelam a confusão após a queda de um Learjet 60 numa rua de Greenacres, no condado de Palm Beach, que matou as nove pessoas a bordo no domingo. Moradores descreveram algo como uma bomba.",
-   "highlights": [
-    "Copiloto era Nathalia Filgueiras, de 20 anos",
-    "Família contratou o advogado Stuart Grossman",
-    "Causa do acidente segue sob investigação"
-   ],
-   "body": "'Acho que um avião ou um foguete. Alguma coisa caiu do céu', disse um dos autores das chamadas. Outro afirmou que soou como uma bomba explodindo.\n\nO pai da copiloto, Allan Filgueiras, lembrou a filha como talentosa e disse que voar era uma paixão compartilhada. O advogado da família afirmou que ela era plenamente qualificada para a função; a família ainda não processou ninguém e aguarda a investigação.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/palm-beach-county-learjet-crash-911-calls-9-people-dead-greenacres/",
-   "published_at": "2026-11-06T23:28:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/0ea512e7-b673-41e7-8809-3345b2decf68/thumbnail/1200x630/1b99b304ac62bbaa56d9c181ca9a268c/snapshot-47.jpg"
-  },
-  {
-   "id": "miami-2026-11-07-m3",
-   "title": "Mãe e filho são hospitalizados em estado crítico após incêndio em West Miami",
-   "summary": "Duas pessoas foram levadas ao hospital em estado crítico após um incêndio numa casa em West Miami na tarde de sexta-feira. Vizinhos disseram que eram uma mãe e o filho, de 20 e poucos anos.",
-   "highlights": [
-    "Mais de 16 unidades responderam ao chamado",
-    "Casa fica no bloco 6200 da Southwest 12th Street",
-    "Causa do incêndio está sob investigação"
-   ],
-   "body": "Os bombeiros de Miami-Dade encontraram fumaça e chamas na casa térrea ao chegar, às 14h52. Dois ocupantes receberam atendimento e foram levados ao hospital; uma terceira pessoa foi atendida no local.\n\nVizinhos relataram ter visto socorristas fazendo reanimação no filho no jardim. A Cruz Vermelha foi acionada para ajudar os afetados.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/west-miami-house-fire-november-6-2026/",
-   "published_at": "2026-11-06T15:25:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/06/cd422b2b-7ee7-4826-ae19-288b96b5450f/thumbnail/1200x630/8dc1dbc0672ecb651101a038a1154de5/snapshot-41.jpg"
-  },
-  {
-   "id": "miami-2026-11-07-m4",
-   "title": "Homem é preso após roubar ônibus escolar e fugir da polícia em Miami-Dade",
-   "summary": "Erick Moore, de 23 anos, de Miami Gardens, foi preso acusado de roubar um ônibus escolar amarelo de uma empresa privada e fugir de policiais até ficar preso num beco sem saída. Segundo o boletim, ele disse que achou que 'conseguiria escapar'.",
-   "highlights": [
-    "Ônibus foi levado do pátio da Little Angels Bus Service em Gladeview",
-    "Dono disse que ele já havia levado um ônibus antes",
-    "Acusações incluem furto qualificado e fuga da polícia"
-   ],
-   "body": "Câmeras de segurança registraram o invasor saindo com o ônibus de 2001 do pátio cercado, e o proprietário reconheceu Moore. Na quinta-feira, por volta das 6h45, um detetive do Gabinete do Xerife de Miami-Dade avistou o veículo no noroeste do condado e passou a segui-lo.\n\nMoore responde por furto de veículo, invasão de estrutura desocupada, fuga e direção perigosa, além de dirigir com carteira suspensa.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/miami-gardens-man-arrested-stolen-school-bus-chase-northwest-miami-dade/",
-   "published_at": "2026-11-06T17:22:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/c27e0adc-e78f-4317-b009-0edb651bce4d/thumbnail/1200x630/0ee67d1f4e658aa16131da2e90074e20/gettyimages-2224159452.jpg"
-  },
-  {
-   "id": "miami-2026-11-07-m5",
-   "title": "Jovem é preso após grupo invadir cobertura em Williams Island e jogar ferramentas",
-   "summary": "Um jovem de 18 anos foi preso depois que um grupo de sete adolescentes invadiu um prédio de luxo em Williams Island, em Aventura, e jogou ferramentas do telhado de uma cobertura em obra. A polícia diz que os objetos poderiam ter ferido gravemente pessoas no chão.",
-   "highlights": [
-    "Suspeitos estudam na Don Soffer High School",
-    "Caso ocorreu em 13 de outubro; prisão foi na quinta-feira",
-    "Dois corréus seguem foragidos"
-   ],
-   "body": "Segundo a polícia de Aventura, o grupo entrou no Building 4000 por uma porta dos fundos e jogou chaves de fenda, discos de corte, espátulas e uma caixa de ferramentas. Nenhum deles morava no prédio.\n\nGur Levy, que completou 18 anos em setembro, foi detido. Jayden Weiler, de 17, e Bjorlin Acostaaristy, de 16, constam como corréus e não foram localizados; os demais seguem sob investigação.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/06/teen-arrested-after-group-allegedly-breaks-into-williams-island-penthouse-throws-tools-from-roof/",
-   "published_at": "2026-11-06T17:46:08-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-06-2026%2Ft_09e5d207f0d94baea6c5dcc5d51f3a9b_name_49480161303_hdtv.jpg?auth=2ba7d6562fa9441ac06530714167a92dd09007a44b434f47d24b2ac137bde401&width=700"
-  },
-  {
-   "id": "miami-2026-11-07-m6",
-   "title": "Juiz nega recurso e Miami Carol City fica fora dos playoffs de futebol",
-   "summary": "Um juiz negou na sexta-feira o recurso de emergência da Miami Carol City contra a exclusão dos playoffs imposta pela associação atlética estadual (FHSAA). A punição decorre de uma briga após um jogo em outubro.",
-   "highlights": [
-    "FHSAA suspendeu 15 jogadores e multou a escola em US$ 1.500",
-    "Associação cita falta de supervisão e histórico de problemas",
-    "Treinador do time adversário pediu a readmissão"
-   ],
-   "body": "A briga ocorreu após o fim de um jogo contra a Grayson High School, da Geórgia; vídeo mostra um jogador de Carol City derrubando e socando um adversário. A associação diz que a decisão considerou também um incidente no verão em que um atleta teria empurrado um árbitro.\n\nA diretora Bridget McKinney escreveu que os alunos foram responsabilizados e os técnicos treinados, pedindo que a FHSAA considerasse tudo o que a escola fez desde 2 de outubro.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/06/judge-denies-miami-carol-citys-last-ditch-bid-to-join-football-playoffs/",
-   "published_at": "2026-11-06T22:09:49-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-07-2026%2Ft_8b8911f852424ad69e3baba54b173c0b_name_49484019396_hdtv.jpg?auth=14e72ce73e6ffce5d3884e3800904a55778535544dde5f0cc03cb1ebacf0af8c&width=700"
-  },
-  {
-   "id": "miami-2026-11-07-m7",
-   "title": "Fim de semana de decisão da NASCAR volta a Homestead-Miami",
-   "summary": "O Championship Weekend da NASCAR chegou ao Homestead-Miami Speedway, com a corrida decisiva da Cup Series marcada para domingo às 15h. O troféu foi desenhado pelo artista Romero Britto.",
-   "highlights": [
-    "Truck Series na sexta, 19h30",
-    "O'Reilly Auto Parts Series no sábado, 17h",
-    "Cup Series Championship no domingo, 15h"
-   ],
-   "body": "Segundo o presidente do autódromo, Guillermo Santa Cruz, o público terá novidades como a vista da torre da Curva 1 e um clima de 'festival', com áreas antes abandonadas reformadas.\n\nRomero Britto criou a Bill France Cup, entregue ao campeão da Cup Series, e o logotipo da pista com palmeira e quadriculado colorido.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/sports/2026/11/06/nascars-championship-weekend-returns-to-homestead-miami-speedway/",
-   "published_at": "2026-11-06T15:33:10-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-07-2026%2Ft_dfc06692f9b94bd687a25ab97bf53d5e_name_49481874252_hdtv.jpg?auth=ecd60f50c78af2500e0474e96d2b73449b5eb392773ffa2435bb80349858fc47&width=700"
-  },
-  {
-   "id": "miami-2026-11-07-m8",
-   "title": "Maluma faz show surpresa no aeroporto de Miami e anuncia turnê mundial",
-   "summary": "O cantor colombiano Maluma fez uma apresentação surpresa no Aeroporto Internacional de Miami na sexta-feira e anunciou a 'Loco x Volver World Tour 2027'. A turnê passará por mais de 60 cidades, incluindo Miami.",
-   "highlights": [
-    "Turnê começa na Colômbia em fevereiro",
-    "Clipe oficial da turnê foi lançado no aeroporto",
-    "Maluma tem mais de 30 músicas em 1º lugar"
-   ],
-   "body": "Vencedor do Grammy Latino, Maluma surpreendeu passageiros com o show e estreou o vídeo oficial da turnê.\n\nA Loco x Volver World Tour 2027 começa em fevereiro na Colômbia e terá parada em Miami, segundo a WSVN.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/entertainment/maluma-announces-loco-x-volver-world-tour-during-surprise-show-at-miami-international-airport/",
-   "published_at": "2026-11-06T17:54:49-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110626-Maluma-announces-Loco-x-Volver-World-Tour-during-surprise-show-at-Miami-International-Airport.png"
-  },
-  {
-   "id": "tecnologia-2026-11-07-m1",
-   "title": "OpenAI levanta US$ 11 bilhões com avaliação de US$ 1,25 trilhão",
-   "summary": "A OpenAI teria levantado US$ 11 bilhões em uma nova rodada que avalia a empresa em US$ 1,25 trilhão, segundo a Bloomberg. A rodada ainda não fechou e pode chegar a cerca de US$ 20 bilhões, abaixo da meta de US$ 30 bilhões.",
-   "highlights": [
-    "Rodada deve fechar nas próximas semanas",
-    "Compradores do IPO da Anthropic falam em avaliação de até US$ 1,1 trilhão",
-    "Mercado de IA está nervoso após as midterms"
-   ],
-   "body": "Em setembro, a Bloomberg havia informado que a OpenAI buscava US$ 30 bilhões; os números atuais ficam bem aquém. A empresa adiou planos de abrir capital, e a expectativa é de um IPO em algum momento do próximo ano.\n\nA notícia veio horas depois de relatos de que potenciais compradores de ações no IPO da rival Anthropic miram uma avaliação bem menor que os US$ 2 trilhões esperados. A vitória democrata e o sentimento negativo dos eleitores sobre data centers aumentaram a cautela no setor.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "published_at": "2026-11-06T17:53:46-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
-  },
-  {
-   "id": "tecnologia-2026-11-07-m2",
-   "title": "Crusoe vende projeto de data center no Wyoming para o Google",
-   "summary": "A Crusoe, desenvolvedora de data centers avaliada em US$ 30,9 bilhões, confirmou a venda de um projeto inacabado no sudeste do Wyoming para o Google. O Google planeja investir US$ 17 bilhões no campus.",
-   "highlights": [
-    "Projeto foi anunciado com a Tallgrass e previa até 10 GW",
-    "Google teria questionado custo e prazo da obra",
-    "Crusoe segue construindo outro data center para o Google no Texas"
-   ],
-   "body": "Segundo o TechCrunch, o Google, que a Crusoe não conseguiu atrair como cliente do projeto, assume o desenvolvimento após levantar preocupações com custos e cronograma. O valor pago não foi divulgado.\n\nO negócio mostra a dificuldade de desenvolvedores independentes entregarem projetos gigantes no prazo e no orçamento, diante de gargalos de equipamentos e energia e da crescente oposição de comunidades locais.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "published_at": "2026-11-06T20:40:28-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
-  },
-  {
-   "id": "tecnologia-2026-11-07-m3",
-   "title": "China teria recrutado executiva para espionar Jensen Huang, da Nvidia",
-   "summary": "O serviço de inteligência chinês recrutou Alice Huang, executiva da Megaspeed, para obter informações sobre chips de IA americanos junto ao CEO da Nvidia, Jensen Huang, segundo o New York Times. Três comitês da Câmara pediram que ele preste esclarecimentos.",
-   "highlights": [
-    "Megaspeed é cliente da Nvidia",
-    "Objetivo seria pressionar pela liberação de chips avançados à China",
-    "Trump foi informado da relação no ano passado"
-   ],
-   "body": "De acordo com o NYT, o Ministério da Segurança do Estado (MSS) queria influenciar a Nvidia a disponibilizar seus chips mais avançados para a China. Alice e Jensen Huang, que não são parentes, teriam relação 'próxima'.\n\nTrump, que é próximo de Jensen Huang, foi informado sobre a relação no ano passado, mas não tomou providências. Na quinta-feira, três comitês da Câmara pediram que o CEO participe de uma reunião fechada sobre suas interações com a executiva.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-   "published_at": "2026-11-06T18:00:44-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-   "id": "tecnologia-2026-11-07-m4",
-   "title": "EVgo abre sua primeira estação de Superchargers da Tesla",
-   "summary": "A EVgo inaugurou em Chicago sua primeira estação de Superchargers, com 12 vagas de carregamento rápido para plugues NACS e CCS. É a primeira de centenas que a empresa planeja instalar nos EUA.",
-   "highlights": [
-    "Carregadores de 325 kW com tecnologia Magic Dock",
-    "EVgo é dona das estações; Tesla opera e mantém",
-    "Primeiros locais ficam em centros comerciais da Regency Centers"
-   ],
-   "body": "A estação fica no estacionamento de um supermercado no centro Riverside Square & River's Edge. Com o Magic Dock, carros Tesla e de outras marcas podem carregar sem adaptador; motoristas de outros veículos iniciam a sessão pelo app da Tesla.\n\n'Ao atender motoristas Tesla e não Tesla, dobramos o mercado da EVgo', disse o CEO Badar Khan. A empresa também adiciona plugues NACS à sua rede própria e quer 500 dessas vagas até o fim de 2026.",
-   "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/06/evgo-opens-its-first-tesla-superchargers-with-hundreds-more-planned/",
-   "published_at": "2026-11-06T15:44:43-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/EVGo-supercharger-site-Chicago.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-2026-11-07-m5",
-   "title": "Apple pode enfrentar investigação no Congresso por apps do ICE e doações a Trump",
-   "summary": "Segundo Reuters e Washington Post, a Apple está entre as gigantes de tecnologia que podem ser investigadas pelo Congresso quando os democratas assumirem as duas casas em janeiro. Escritórios de advocacia já orientam empresas a se preparar.",
-   "highlights": [
-    "Foco seria a hospedagem de apps de rastreamento usados pelo ICE",
-    "Apple removeu o ICEBlock e apps similares no ano passado",
-    "Elon Musk também deve receber uma série de intimações"
-   ],
-   "body": "O Washington Post relata que democratas preparam investigações sobre grandes empresas que cortejaram o presidente, provocando correria entre executivos. No caso da Apple, a apuração envolveria apps de rastreamento usados pelo ICE.\n\nA empresa já havia sido criticada por parlamentares democratas por remover da App Store apps usados para rastrear agentes do ICE, como o ICEBlock.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
-   "published_at": "2026-11-06T16:46:36-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/cook-gift-glass.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-2026-11-07-m6",
-   "title": "Amazon vai usar mais de 3 mil caminhões elétricos da Tata na Índia",
-   "summary": "A Tata Motors anunciou acordo com a Amazon para colocar 3.000 caminhões elétricos na rede de transporte da empresa na Índia. Será a maior implantação de caminhões elétricos do país.",
-   "highlights": [
-    "Maior movimento da Amazon além da última milha na Índia",
-    "Governo indiano apoia via programa PM E-DRIVE",
-    "Caminhões são fabricados na Índia"
-   ],
-   "body": "O acordo amplia a eletrificação da frota indiana da Amazon para além das entregas de última milha. O ministro de Indústrias Pesadas, H.D. Kumaraswamy, disse que a parceria mostra 'demanda contínua de uma rede logística nacional atendida por caminhões elétricos fabricados na Índia'.\n\nSegundo o Electrek, o negócio representa um salto relevante na frota de caminhões elétricos em operação no país e um passo para a eletrificação do transporte de cargas.",
-   "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/06/amazon-set-to-deploy-more-than-3000-tata-electric-delivery-trucks/",
-   "published_at": "2026-11-06T20:43:36-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/amazon-tatamotors.jpg?quality=82&strip=all&resize=1200,628"
-  }
- ]
+  "version": 2,
+  "generated_at": "2026-11-07T11:11:51-05:00",
+  "edition": "meio-dia",
+  "timezone": "America/New_York",
+  "items": [
+    {
+      "id": "eua-2026-11-07-md1",
+      "title": "Trump nomeia Stephen Miller chefe de gabinete no lugar de Susie Wiles",
+      "summary": "O presidente Donald Trump anunciou na sexta-feira que Stephen Miller substituirá Susie Wiles como chefe de gabinete da Casa Branca, dias após as derrotas republicanas nas midterms. Miller assume na segunda-feira; Wiles seguirá no braço político do presidente.",
+      "highlights": [
+        "Miller é arquiteto da política de imigração",
+        "Wiles foi a primeira mulher no cargo",
+        "Mudança vista como sinal desafiador pós-eleição"
+      ],
+      "body": "Susie Wiles, primeira mulher a ocupar o posto de chefe de gabinete da Casa Branca, está sendo substituída por Stephen Miller, anunciou Trump na sexta-feira. A troca ocorre depois que os republicanos perderam o controle do Congresso nas midterms e é lida como um gesto desafiador: Miller é o arquiteto de várias das políticas mais controversas do governo, sobretudo em imigração — tema que, segundo dados citados pela NPR, ajudou a empurrar eleitores para os democratas.\n\nTrump disse a repórteres que Miller está com ele 'desde o começo' e 'entende'. Em post no Truth Social, afirmou que Wiles continuará trabalhando em operações políticas. Em comunicado no X, ela disse orgulhar-se do que conquistaram juntos, da fronteira aos impostos, e que o compromisso com o presidente permanece. Miller, hoje vice-chefe de gabinete e conselheiro de Segurança Interna, assume na segunda-feira.",
+      "category": "eua",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+      "published_at": "2026-11-06T12:00:00-05:00",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4845x2725+0+253/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F40%2F1c511ae2416e9d70791a8143dfb6%2Fgettyimages-2301644366.jpg"
+    },
+    {
+      "id": "eua-2026-11-07-md2",
+      "title": "EUA passam de 5 mil casos de sarampo em 2026, maior total em 35 anos",
+      "summary": "O CDC registrou 5.182 casos confirmados de sarampo neste ano — o maior número anual desde 1991. Crianças e adolescentes respondem por cerca de 60% dos casos; a OMS/OPAS deve avaliar se o país perde o status de eliminação da doença.",
+      "highlights": [
+        "5.182 casos confirmados até novembro",
+        "Quase todos os infectados não estavam vacinados",
+        "Revisão da OPAS marcada para 10 a 13 de novembro"
+      ],
+      "body": "Segundo dados do Centro de Controle e Prevenção de Doenças (CDC), os Estados Unidos somam 5.182 casos confirmados de sarampo em 2026, o maior total anual desde 1991. Crianças menores de cinco anos representam 18% dos casos; a faixa de 5 a 19 anos, 41%. No total, crianças e adolescentes correspondem a cerca de 59% dos confirmados, e a vasta maioria está ligada a surtos.\n\nO CDC reconhece quatro mortes pela doença em 2026, número inferior ao reportado por autoridades estaduais — sobretudo na Pensilvânia, o estado mais atingido. A cobertura vacinal em jardins de infância caiu em relação aos níveis que sustentavam a eliminação do sarampo. Um comitê da Organização Pan-Americana da Saúde se reúne de 10 a 13 de novembro para avaliar se a transmissão contínua faz os EUA perderem o status de eliminação.",
+      "category": "eua",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
+      "published_at": "2026-11-06T20:55:03-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee63dd-1794008029.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "eua-2026-11-07-md3",
+      "title": "Juíza federal suspende por 14 dias obras do arco triunfal de Trump",
+      "summary": "A juíza Tanya Chutkan emitiu na madrugada de sexta uma ordem restritiva temporária que impede o início das obras do arco de 76 metros planejado por Trump em Washington. A decisão veio horas após a aprovação do projeto pela comissão de planejamento.",
+      "highlights": [
+        "Arco de 250 pés (76 m) perto de Arlington",
+        "Comissão aprovou por 8 a 4 na quinta",
+        "Veteranos e DC/Virgínia estão entre os autores da ação"
+      ],
+      "body": "Na madrugada de sexta-feira, a juíza federal Tanya Chutkan bloqueou por 14 dias qualquer construção ou escavação do arco triunfal proposto por Donald Trump. A ordem veio depois que a National Capital Planning Commission aprovou o monumento de 250 pés (cerca de 76 metros) por 8 votos a 4, após audiência de cerca de nove horas com dezenas de opositores.\n\nEntre os autores da ação estão o Distrito de Columbia, a Virgínia, veteranos do Vietnã e um historiador de arquitetura. Críticos dizem que o arco ofuscaria o Cemitério Nacional de Arlington e seria um monumento à vaidade do presidente. Estimativas do custo chegam a US$ 100 milhões, e ainda não está claro de onde sairia o financiamento.",
+      "category": "eua",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+      "published_at": "2026-11-06T09:04:35-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/80501b103a6ec118c03b3ae74e80f2703d3be4e3/1131_0_5655_4526/master/5655.jpg"
+    },
+    {
+      "id": "eua-2026-11-07-md4",
+      "title": "Dois paraquedistas morrem após colisão no ar na Califórnia",
+      "summary": "Dois paraquedistas licenciados e experientes morreram na sexta-feira após colidirem a cerca de 45 metros do solo durante evento em Skydive Elsinore, no Condado de Riverside. A empresa diz que não houve falha de equipamento.",
+      "highlights": [
+        "Colisão a cerca de 150 pés do solo",
+        "Paraquedas se emaranharam",
+        "Empresa: queda livre e abertura foram normais"
+      ],
+      "body": "Dois paraquedistas que participavam de um evento organizado na Califórnia morreram após colidir no ar e cair no solo. O acidente ocorreu na sexta-feira em Skydive Elsinore; o xerife do Condado de Riverside foi acionado pela manhã após relatos de emergência aérea. Eles chegaram ao hospital em estado crítico e foram declarados mortos.\n\nSegundo a empresa, a queda livre e a abertura dos paraquedas foram normais, mas, ao se prepararem para pousar, os dois colidiram a cerca de 150 pés (45 metros) do solo. Os paraquedas se emaranharam. Não há evidência de falha de equipamento, disse Skydive Elsinore. Os atletas vinham de fora da cidade para o evento.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/licensed-skydivers-die-midair-collision-california/",
+      "published_at": "2026-11-07T10:52:50-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/20/36e34552-e78c-4ca7-88d3-7ad3ad240ca7/thumbnail/1200x630/bfa6ba4b423186f13830e9f7a96f07e7/gettyimages-1718366794.jpg"
+    },
+    {
+      "id": "eua-2026-11-07-md5",
+      "title": "Trump confirma demissões pós-midterms e troca comando da Casa Branca",
+      "summary": "Horas depois de dizer à 60 Minutes que faria 'algumas mudanças' na equipe após a derrota republicana, Trump anunciou a saída de Susie Wiles e a promoção de Stephen Miller. Ele manteve, por ora, confiança em Pete Hegseth no Pentágono.",
+      "highlights": [
+        "Entrevista à 60 Minutes na sexta",
+        "Wiles pediu demissão na quinta",
+        "Trump diz ter confiança em Hegseth"
+      ],
+      "body": "O presidente anunciou que Stephen Miller substituiria Susie Wiles como chefe de gabinete apenas horas depois de dizer ao correspondente Ross Douthat, da 60 Minutes, que demitiria gente após os republicanos perderem as duas casas do Congresso. 'Sim, um pouco', respondeu Trump. 'Amo meu Gabinete... Mas talvez faça algumas mudanças.'\n\nSobre o secretário de Defesa Pete Hegseth, alvo de especulações, Trump disse ter confiança. Após anunciar a saída de Wiles, afirmou a repórteres que 'às vezes na vida é preciso fazer movimentos'. Segundo a CBS, Wiles apresentou a demissão na quinta-feira, ligada às derrotas nas midterms.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-60-minutes-midterm-election-firings-susie-wiles/",
+      "published_at": "2026-11-06T19:03:00-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/d585fd72-9d44-456d-8857-a149408d52bc/thumbnail/1200x630/1ace02a22d29cee3c6398d7946e16201/gettyimages-2303899907.jpg"
+    },
+    {
+      "id": "mundo-2026-11-07-md1",
+      "title": "Tiroteio em praça de Cracóvia mata ao menos 5 e fere cerca de 12",
+      "summary": "Um homem atropelou e abriu fogo a partir do carro na Praça do Mercado Principal de Cracóvia neste sábado, matando pelo menos cinco pessoas e ferindo cerca de uma dúzia, incluindo policiais. O atirador foi baleado pela polícia e detido.",
+      "highlights": [
+        "Ataque por volta das 15h (horário local)",
+        "Policiais entre os feridos",
+        "Premier Tusk acompanha investigação"
+      ],
+      "body": "Um homem invadiu de carro um mercado aberto na Praça do Mercado Principal de Cracóvia e disparou de dentro do veículo, matando pelo menos cinco pessoas e ferindo cerca de uma dúzia, segundo a polícia. O tiroteio ocorreu por volta das 15h de sábado. Oficiais estão entre os feridos. O autor foi baleado em confronto com a polícia e levado a um hospital.\n\nO premier polonês Donald Tusk disse nas redes que está sendo informado pelo ministro do Interior e que a polícia apura o contexto do ataque. O embaixador dos EUA na Polônia, Tom Rose, classificou o episódio como ataque 'selvagem e assassino' e afirmou que a América está com a Polônia. Cracóvia é a segunda maior cidade do país.",
+      "category": "mundo",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
+      "published_at": "2026-11-07T10:53:00-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/88f7487a-a080-4385-8c25-2257ea9cff91/thumbnail/1200x630/8b37ce25c3c1f0759c5d1734dfb60a90/gettyimages-2303483978.jpg"
+    },
+    {
+      "id": "mundo-2026-11-07-md2",
+      "title": "Apagões e falta de água em Kiev após ataque russo à rede elétrica",
+      "summary": "A Rússia usou 172 drones e 36 mísseis balísticos contra substações e uma ponte sobre o Dnipro. Zelensky acusou Moscou de tentar 'mergulhar Kiev e o país no blackout' às vésperas das conversas em Abu Dhabi.",
+      "highlights": [
+        "172 drones e 36 mísseis no ataque",
+        "Negociações trilaterais na terça e quarta",
+        "Zelensky pede mais apoio dos EUA"
+      ],
+      "body": "Volodymyr Zelensky acusou a Rússia de tentar 'mergulhar Kiev e o país inteiro no blackout' após um grande ataque noturno à infraestrutura energética da capital e a uma ponte sobre o rio Dnipro. Moscou usou 172 drones e 36 mísseis balísticos. O presidente ucraniano disse que a 'preparação' russa para as conversas de paz inclui bombardear uma cidade de milhões com mísseis balísticos.\n\nNegociadores da Rússia, da Ucrânia e dos EUA devem se reunir na terça e na quarta em Abu Dhabi, quarta rodada mediada pelo governo Trump. Zelensky pediu ao Congresso americano — agora sob controle democrata — mais atenção e apoio bilateral. 'A Rússia tem uma visão muito particular da diplomacia: como um subtipo de agressão', escreveu.",
+      "category": "mundo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "published_at": "2026-11-07T08:03:03-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9c8241f6629ed26650fd7f16cb8c2e3"
+    },
+    {
+      "id": "mundo-2026-11-07-md3",
+      "title": "Irã diz ter acabado com limite autoimposto de alcance de mísseis",
+      "summary": "A Guarda Revolucionária afirmou que levantou a restrição de 2.000 km no alcance de seus mísseis balísticos. O porta-voz não confirmou se já há mísseis além desse alcance; os EUA mantêm o bloqueio no Estreito de Ormuz.",
+      "highlights": [
+        "Limite era de 2.000 km (1.200 milhas)",
+        "General Mohebbi: restrição 'foi levantada'",
+        "EUA criam task force contra rotas terrestres"
+      ],
+      "body": "A Guarda Revolucionária do Irã diz ter levantado o limite autoimposto de 2.000 quilômetros no alcance de mísseis balísticos, sugerindo possível desenvolvimento de armas de maior alcance em meio a temores de nova escalada. O general Hossein Mohebbi afirmou em Teerã que 'essa restrição foi levantada para nós', sem dizer se o país já possui mísseis além do limite — alcance que cobre península Arábica, Levante e boa parte do Egito.\n\nAs declarações vêm dias depois de o líder supremo, aiatolá Mojtaba Khomeini, avisar que qualquer ameaça dos EUA ou de Israel enfrentaria resposta 'sem limites geográficos'. O Comando Central dos EUA afirmou que a fiscalização rigorosa do bloqueio a portos iranianos no Estreito de Ormuz continua e anunciou uma nova força-tarefa para dificultar o transporte terrestre e pelo Cáspio.",
+      "category": "mundo",
+      "source": "Associated Press (via ABC News)",
+      "url": "https://abcnews.go.com/International/wireStory/iran-lifted-imposed-limit-missile-ranges-mideast-news-137937910",
+      "published_at": "2026-11-07T06:38:36-05:00",
+      "image_url": "https://i.abcnewsfe.com/a/002fe5e2-9462-44f0-818c-c1b8cb08f815/wirestory_c26759ac66e6c022a3256adeae40c965_16x9.jpg?w=1600"
+    },
+    {
+      "id": "mundo-2026-11-07-md4",
+      "title": "Líder de seita no Quênia é condenado a 200 anos por 191 mortes",
+      "summary": "Paul Mackenzie, da Igreja Good News International, foi sentenciado a 200 anos de prisão por ordenar que seguidores fizessem jejum até a morte — 190 crianças e um adulto. A juíza rejeitou a pena de morte para evitar transformá-lo em mártir.",
+      "highlights": [
+        "190 crianças entre as 191 vítimas",
+        "Duas penas de 100 anos consecutivas",
+        "Mais de 400 corpos achados em Shakahola"
+      ],
+      "body": "Um tribunal queniano condenou o líder da seita do fim do mundo Paul Mackenzie a 200 anos de prisão por assassinato de 191 pessoas, todas menos uma crianças. Ao lado de outros 28 réus, ele foi considerado culpado por instruir membros do culto a matar de fome os próprios filhos para 'encontrar Jesus'. A juíza Diana Mochache disse que Mackenzie carrega a 'culpabilidade criminal primária'.\n\nMackenzie foi preso em 2023 após a descoberta de mais de 400 corpos em covas rasas na floresta de Shakahola, no litoral do Quênia. A corte impôs 100 anos por homicídio e outros 100 por crimes ligados à inanição; as penas de cada bloco correm em conjunto, mas os dois blocos são consecutivos, totalizando 200 anos. Ele ainda enfrenta outras acusações de homicídio culposo e terrorismo.",
+      "category": "mundo",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm5yne5984l0o",
+      "published_at": "2026-11-06T03:59:38-05:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg"
+    },
+    {
+      "id": "mundo-2026-11-07-md5",
+      "title": "Chuvas inundam cerca de 70 mil tendas de deslocados em Gaza",
+      "summary": "A primeira tempestade de inverno em Gaza inundou cerca de 70 mil tendas em 12 horas, com prejuízo inicial estimado em US$ 3 milhões, segundo o gabinete de mídia do governo local. Mais de 1,6 milhão de palestinos vivem em abrigos improvisados.",
+      "highlights": [
+        "Prejuízo inicial de cerca de US$ 3 mi",
+        "ONU: só 18% das famílias com abrigo adequado",
+        "Início do inverno agrava crise humanitária"
+      ],
+      "body": "Cerca de 70 mil tendas que abrigam palestinos deslocados foram inundadas na Faixa de Gaza em até 12 horas após a primeira tempestade de inverno, informou o Gabinete de Mídia do governo em Gaza neste sábado. O prejuízo inicial foi estimado em cerca de US$ 3 milhões; dezenas de paredes desabaram e houve feridos.\n\nA chuva marca outro inverno difícil para mais de 1,6 milhão de palestinos em tendas ou abrigos improvisados. O escritório humanitário da ONU disse que 294.250 famílias precisam de ajuda com abrigo para a estação chuvosa, mas os suprimentos disponíveis cobrem apenas assistência parcial a 18% delas, por falta de fundos e atrasos de aprovação.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza",
+      "published_at": "2026-11-07T06:10:02-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap-e69e4085004943cab89f9b0e003d01c0-1794050716.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "mundo-2026-11-07-md6",
+      "title": "EUA bombardeiam Qeshm enquanto mediadores tentam conter escalada",
+      "summary": "Dois projéteis atingiram a ilha iraniana de Qeshm na sexta à noite, em nova rodada de ataques a defesas antiaéreas. Trump classificou ações recentes como 'menores'; mediadores seguem tentando evitar guerra em larga escala.",
+      "highlights": [
+        "Alvos: defesas e lançadores em Qeshm",
+        "Ataques a navios no Estreito de Ormuz",
+        "Mediação regional em curso"
+      ],
+      "body": "Os Estados Unidos bombardearam o Irã depois que embarcações foram atacadas no Estreito de Ormuz, enquanto mediadores tentam impedir um conflito em larga escala. Dois projéteis atingiram Qeshm na sexta à noite, os mais recentes de uma série de ataques à ilha meridional contra defesas aéreas e lançadores iranianos.\n\nO presidente Donald Trump descreveu ações recentes como limitadas. A reportagem da Al Jazeera descreve o episódio no contexto da guerra EUA-Israel contra o Irã e das tentativas de mediação para reabrir Ormuz e evitar nova escalada, em paralelo às conversas sobre inspeções nucleares.",
+      "category": "mundo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
+      "published_at": "2026-11-07T07:22:18-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a34380e8d-1781807118.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "weston-2026-11-07-md1",
+      "title": "Weston exibe Toy Story 5 ao ar livre e agenda duas semanas de eventos",
+      "summary": "Neste sábado, o Weston Regional Park vira cinema a céu aberto com Toy Story 5 às 19h30, de graça. Antes, às 13h30 e 15h, o Kid-tacular traz Marci Poppins no Community Center; na sequência vêm cinema estrangeiro, show e doação de sangue.",
+      "highlights": [
+        "Filme às 19h30 no Regional Park",
+        "Shows infantis às 13h30 e 15h",
+        "Série de filmes estrangeiros começa dia 9"
+      ],
+      "body": "O Weston Regional Park vira teatro a céu aberto neste sábado, 7 de novembro, quando a cidade exibe Toy Story 5 em tela inflável no palco de eventos. A entrada é gratuita e o filme começa às 19h30, abrindo uma sequência de eventos municipais nas próximas duas semanas — incluindo espetáculo infantil, série de cinema estrangeiro, banda ao vivo e campanha de doação de sangue na prefeitura.\n\nAntes do filme, a série Kid-tacular leva Marci Poppins The Explorer ao Weston Community Center, às 13h30 e 15h, também de graça (crianças acompanhadas de adulto). O Community Center fica no mesmo parque, na 20200 Saddle Club Road. Na segunda, dia 9, a Weston Foreign Film Series estreia Calle Málaga no AMC Weston 8.",
+      "category": "weston",
+      "source": "Gold Coast Wave",
+      "url": "https://goldcoastwave.com/news/weston-toy-story-5-movie-night-foreign-films-flavor-concert-november-2026/",
+      "published_at": "2026-11-06T12:00:00-05:00",
+      "image_url": "https://goldcoastwave.com/assets/img/share/weston-toy-story-5-movie-night-foreign-films-flavor-concert-november-2026-41ec9a21da.jpg"
+    },
+    {
+      "id": "weston-2026-11-07-md2",
+      "title": "Bernardini e Ortega vencem cadeiras da Comissão de Weston",
+      "summary": "Resultados não oficiais atualizados na sexta mostram Patricia Bernardini com 67,7% na Seat 3 e Alfredo Ortega à frente por 683 votos na Seat 4. Weston também aprovou a Emenda 3 (isenção homestead) com 67,5%.",
+      "highlights": [
+        "Bernardini: 14.614 a 6.980",
+        "Ortega lidera por 683 votos",
+        "Posse prevista para 16 de novembro"
+      ],
+      "body": "Patricia C. Bernardini e Alfredo Ortega venceram as duas cadeiras da Comissão Municipal de Weston na eleição de terça-feira, segundo resultados não oficiais. Contagem de sexta (11h16) do condado aponta Bernardini com 14.614 votos (67,68%) contra 6.980 de German Melo, e Ortega com 11.068 contra 10.385 de Jaime Herrero — vantagem de 683. Os totais ainda podem mudar com cédulas pelo correio.\n\nBernardini venceu nos nove distritos eleitorais de Weston. Ortega teve mais votos antecipados e pelo correio; Herrero venceu no dia da eleição. Os dois substituem Byron Jaffe e Mary Molina-Macfie, que não se candidataram; a posse está prevista para 16 de novembro. Weston apoiou a Emenda 3 statewide com 67,48% de sim.",
+      "category": "weston",
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/weston-election-results-2026/",
+      "published_at": "2026-11-04T12:00:00-05:00",
+      "image_url": "https://westonjournal.com/img/weston-election-results-2026.webp"
+    },
+    {
+      "id": "weston-2026-11-07-md3",
+      "title": "Mulher é esfaqueada em Deerfield Beach; um detido para interrogatório",
+      "summary": "A xerifa de Broward atendeu ocorrência por volta de 0h15 deste sábado no quarteirão 100 da Southwest First Terrace. A vítima foi hospitalizada com laceração; um homem foi detido para questionamento. Detalhes sobre idade e estado ainda não foram divulgados.",
+      "highlights": [
+        "Chamado às 0h15 de sábado",
+        "Vítima levada a hospital local",
+        "Delegacia de Vítimas Especiais investiga"
+      ],
+      "body": "Uma mulher foi hospitalizada no início deste sábado após ser esfaqueada em Deerfield Beach, segundo o Departamento do Xerife de Broward (BSO). A comunicação regional recebeu o chamado por volta de 0h15 perto do quarteirão 100 da Southwest First Terrace. Os deputados encontraram a mulher com uma laceração; o resgate a levou a um hospital local.\n\nUm homem foi detido para interrogatório. Detetives da unidade de Vítimas Especiais do BSO investigam as circunstâncias. Autoridades ainda não divulgaram idade ou estado da vítima nem se haverá acusações formais.",
+      "category": "weston",
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/11/07/deerfield-beach-stabbing-leaves-woman-hurt-1-detained-deputies-say/",
+      "published_at": "2026-11-07T10:53:25-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/FJXF27YAAGHJM3Q5R5ADRGHZ2M.jpg?auth=31d822805678351e668c0e9fbae80b9e60c37c72a19d43e9ebab389a1ee056e5&width=700"
+    },
+    {
+      "id": "weston-2026-11-07-md4",
+      "title": "Mais de 600 correm a 1ª 5K na pista do Aeroporto North Perry",
+      "summary": "Pembroke Pines recebeu neste sábado a primeira corrida de 5K no North Perry Airport, com exposições de aviões da Segunda Guerra, jato particular e hidroavião. A comissária de Broward Alexandra Davis destacou a integração com a comunidade.",
+      "highlights": [
+        "Mais de 600 participantes",
+        "Aviões históricos em exposição",
+        "Evento liga aeroporto à vizinhança"
+      ],
+      "body": "Mais de 600 corredores e caminhantes ocuparam a pista do Aeroporto North Perry neste sábado pela manhã na primeira 5K do local, com chance de ver de perto aeronaves em exposição — incluindo dois aviões da Segunda Guerra Mundial, um jato particular e um hidroavião. O aeroporto abriga escolas de voo, aviões de banner e o helicóptero Sky 10 da Local 10.\n\nA comissária de Broward Alexandra P. Davis, que ajudou a levar o evento ao aeroporto, disse que a presença da comunidade mostra o desejo de integrar a instalação à vizinhança. 'Quando a comunidade vem à pista, não só aos aviões, isso significa muito', afirmou.",
+      "category": "weston",
+      "source": "Local 10",
+      "url": "https://www.local10.com/community/2026/11/07/north-perry-airport-hosts-first-ever-5k-bringing-over-600-runners-to-the-runway/",
+      "published_at": "2026-11-07T09:05:45-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-07-2026%2Ft_5f0044bb3afa4bde88b14b1b44f17717_name_49492672518_hdtv.jpg?auth=659094df099d9f9453293e63439ee960a76451199cd6496b12b432207cf46143&width=700"
+    },
+    {
+      "id": "miami-2026-11-07-md1",
+      "title": "Antonio Brown fecha acordo e evita prisão em caso de tiroteio em Miami",
+      "summary": "O ex-jogador da NFL confessou agressão agravada com arma de fogo e recebeu três anos de liberdade condicional no tribunal de Miami-Dade na sexta. Ele enfrentava tentativa de homicídio pelo tiro em evento de boxe em maio de 2025.",
+      "highlights": [
+        "Pena: 3 anos de probation",
+        "Sem condenação formal no prontuário",
+        "Vítima não quis cooperar com a acusação"
+      ],
+      "body": "O ex-estrela da NFL Antonio Brown evitará a prisão após aceitar acordo na justiça de Miami-Dade na sexta-feira. Ele confessou agressão agravada com arma de fogo ligada a um tiroteio em maio de 2025 do lado de fora de uma luta de boxe de celebridades em Miami. A juíza Marisa Tinkler Mendez impôs três anos de liberdade vigiada, avaliação psicológica e aconselhamento semanal se determinado, além de proibição de armas.\n\nBrown, de 38 anos, era acusado de pegar a pistola de um segurança e disparar duas vezes contra um homem após briga — um tiro teria raspado o pescoço da vítima. A acusação de tentativa de homicídio em segundo grau caiu porque a vítima não quis cooperar e a promotoria não conseguiu provar intenção. O advogado Mark Eiglarsh disse que a oferta de probation era boa demais para recusar. Fora do tribunal, Brown afirmou: 'Agradeço a Deus'.",
+      "category": "miami",
+      "source": "NBC 6 South Florida",
+      "url": "https://www.nbcmiami.com/news/local/ex-nfl-star-antonio-brown-avoids-jail-time-as-part-of-plea-deal-after-miami-shooting/3884761/",
+      "published_at": "2026-11-06T12:19:28-05:00",
+      "image_url": "https://media.nbcmiami.com/2026/11/52487096556-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
+    },
+    {
+      "id": "miami-2026-11-07-md2",
+      "title": "Distrito 27 da Flórida vai a recontagem automática de votos",
+      "summary": "A disputa entre a republicana María Elvira Salazar e o democrata Eliott Rodriguez entrou em recontagem automática por máquina após diferença apertada. Rodriguez moveu ação pedindo o afastamento da supervisora eleitoral de Miami-Dade Alina Garcia.",
+      "highlights": [
+        "Recontagem automática por margem estreita",
+        "Ação pede recusa de Alina Garcia",
+        "Campanha alega conflito de interesses"
+      ],
+      "body": "A eleição para o 27º Distrito Congressional da Flórida entre a deputada María Elvira Salazar e Eliott Rodriguez passou a recontagem automática por máquina, informou a Local 10. A margem ficou dentro do limite legal que dispara o procedimento.\n\nA campanha de Rodriguez moveu ação pedindo que a supervisora de eleições de Miami-Dade, Alina Garcia, se afaste das decisões da recontagem, alegando viés e conflito envolvendo o genro Robert Fernandez, que representa Salazar. Garcia afirmou que não se afastará. A contagem e eventuais litígios devem seguir nos próximos dias.",
+      "category": "miami",
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/11/06/florida-27th-congressional-district-27-election-goes-into-automatic-machine-recount/",
+      "published_at": "2026-11-06T21:16:22-05:00",
+      "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-07-2026%2Ft_4a80eb91134f4465886a1466825e6590_name_49483096124_hdtv.jpg?auth=46987ebeb2a01e1118c62bfad09b2fff9a103625ed0313fa9697dfa505e0c7d2&width=700"
+    },
+    {
+      "id": "miami-2026-11-07-md3",
+      "title": "Orla de Miami Beach leva prêmio nacional Best of the Best",
+      "summary": "Os sete quilômetros de praia de Miami Beach ficaram em primeiro lugar no prêmio nacional da American Shore and Beach Preservation Association, superando finalistas de todo o país. A orla também funciona como barreira natural contra ondas e inundações.",
+      "highlights": [
+        "1º lugar no Best of the Best",
+        "7 milhas de costa premiadas",
+        "Função de proteção contra inundações"
+      ],
+      "body": "As praias de Miami Beach receberam a maior honraria do prêmio nacional Best of the Best da American Shore and Beach Preservation Association, superando finalistas de todo o país, informou a WSVN neste sábado.\n\nA orla de sete milhas funciona também como escudo natural contra ondas grandes e inundações perigosas que atingem a faixa de areia e a cidade.",
+      "category": "miami",
+      "source": "WSVN 7News",
+      "url": "https://wsvn.com/news/local/miami-dade/miami-beach-shoreline-wins-best-of-the-best-award/",
+      "published_at": "2026-11-07T08:01:59-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11726-Miami-Beach-Shoreline.png"
+    },
+    {
+      "id": "miami-2026-11-07-md4",
+      "title": "Homem é baleado e hospitalizado no noroeste de Miami",
+      "summary": "Delegados do xerife de Miami-Dade atenderam ocorrência neste sábado de manhã na Northwest 63rd Street com 24th Avenue. A vítima tinha ferimento por arma de fogo nas extremidades superiores e está estável.",
+      "highlights": [
+        "Local: NW 63rd St e 24th Ave",
+        "Ferimento em membros superiores",
+        "Estado estável no hospital"
+      ],
+      "body": "Um homem foi hospitalizado após um incidente em Miami, segundo o Departamento do Xerife de Miami-Dade. O caso ocorreu na Northwest 63rd Street com a 24th Avenue na manhã de sábado.\n\nAo chegar, os agentes encontraram um homem com aparente ferimento por arma de fogo nas extremidades superiores. Ele foi levado a um hospital local pelo Miami-Dade Fire Rescue e permanece em estado estável.",
+      "category": "miami",
+      "source": "WSVN 7News",
+      "url": "https://wsvn.com/news/local/miami-dade/person-hospitalized-miami/",
+      "published_at": "2026-11-07T07:12:51-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11726-Miami-Shooting.png"
+    },
+    {
+      "id": "miami-2026-11-07-md5",
+      "title": "Embarcação encalha no Hillsboro Inlet e deixa ferido na cabeça",
+      "summary": "A Guarda Costeira evacuou uma pessoa ferida na cabeça na quinta-feira após um barco de 35 pés encalhar no molhe do Hillsboro Inlet, em Pompano Beach. A confirmação pública veio neste sábado.",
+      "highlights": [
+        "Barco de 35 pés no molhe",
+        "Evacuação até Hillsboro Marina",
+        "Identidade e estado não divulgados"
+      ],
+      "body": "Uma equipe da Guarda Costeira dos EUA evacuou uma pessoa ferida na quinta-feira depois que um barco de 35 pés encalhou no molhe do Hillsboro Inlet, confirmaram autoridades neste sábado. A Estação Fort Lauderdale respondeu após o ocupante sofrer lesão na cabeça.\n\nA equipe levou o ferido até a Hillsboro Marina, onde o socorro médico aguardava no píer, segundo a Guarda Costeira do Sudeste. Idade, identidade e estado da vítima ainda não foram divulgados.",
+      "category": "miami",
+      "source": "Local 10",
+      "url": "https://www.local10.com/news/local/2026/11/07/uscg-person-suffers-head-injury-after-boat-runs-aground-near-hillsboro-inlet/",
+      "published_at": "2026-11-07T10:32:10-05:00",
+      "image_url": "https://www.local10.com/resizer/v2/DYVCXGKPOW3ZF6CLYGKP4WEP5U.jpg?auth=7e2e7a7c1bd2d74cabc41eeab2f640527e6ce994aa3397d3e8a89d4c70f3fdc0&width=700"
+    },
+    {
+      "id": "miami-2026-11-07-md6",
+      "title": "Republicanos da Flórida sobrevivem à 'onda azul', mas em terreno instável",
+      "summary": "A Flórida elegeu Byron Donalds governador e Ashley Moody senadora, buckando a tendência nacional, porém com margens abaixo de 3%. A análise do Guardian descreve o estado como último reduto Maga sob pressão.",
+      "highlights": [
+        "Donalds: 1º governador negro do estado",
+        "Moody vai ao Senado",
+        "Margens de vitória abaixo de 3%"
+      ],
+      "body": "Depois da quase aniquilação republicana no resto do país na terça-feira, a Flórida emergiu como último grande bastão do movimento Maga, escreve o Guardian. Eleitores do estado romperam a tendência nacional — por pouco — e elegeram o deputado Byron Donalds como primeiro governador negro da Flórida e Ashley Moody para o Senado dos EUA.\n\nFoi um susto: ambas as margens ficaram abaixo de 3%, abrindo rachaduras simbólicas em Mar-a-Lago. Há uma geração a Flórida era o grande swing state; nos últimos anos tornou-se vermelha de forma confiável, mas as midterms de 2026 mostram o partido na defensiva mesmo em casa.",
+      "category": "miami",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
+      "published_at": "2026-11-07T07:00:10-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/69dadc0a0db6aad57a3ad98b4bc6859050bcf3cc/899_0_4496_3598/master/4496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=866dabc74dc629389688a274686bc805"
+    },
+    {
+      "id": "tecnologia-2026-11-07-md1",
+      "title": "EUA autorizam chips da Nvidia a firma chinesa com escritório vazio",
+      "summary": "Reportagem do NYT, ecoada pelo Verge, mostra que a New Matrix — aprovada a receber chips H200 — aparece com endereço vazio e donos ligados a fundo na lista negra dos EUA desde 2024. O governo Trump afrouxou limites em troca de fatia de 15%.",
+      "highlights": [
+        "New Matrix: endereço 'casca vazia'",
+        "Donos ligados a PE na blacklist",
+        "Acordo: 15% ao governo dos EUA"
+      ],
+      "body": "Cresce a preocupação de que o Departamento de Comércio e a Nvidia não estejam fazendo a devida diligência ao liberar empresas chinesas para receber chips de IA H200. Segundo o New York Times, a New Matrix está na lista de aprovadas, mas seu escritório é 'uma casca cinza oca, com fios pendurados no teto'.\n\nHá pouca evidência de que a empresa exista de fato; o diretório do prédio não a lista. Os donos têm laços com um fundo de private equity chinês na lista negra dos EUA desde 2024. A Nvidia estava barrada de vender chips à China no governo Biden; o governo Trump afrouxou as regras depois que a empresa topou ceder 15% ao governo americano.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published_at": "2026-11-07T10:43:45-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": "tecnologia-2026-11-07-md2",
+      "title": "Relatório METR: IA da Anthropic acelera o próprio desenvolvimento",
+      "summary": "Após 11 semanas dentro da empresa, a organização de segurança METR concluiu que os modelos da Anthropic melhoram cerca de duas vezes mais rápido que há um ano, em grande parte porque a própria IA acelera a P&D — achado que alarma pesquisadores.",
+      "highlights": [
+        "Ritmo ~2x mais rápido que no ano passado",
+        "26% das tarefas de P&D já lideradas por IA",
+        "Empresa pôde censurar trechos do relatório"
+      ],
+      "body": "A Anthropic está usando IA para construir IAs mais poderosas — e parece funcionar: os modelos da empresa melhoram cerca de duas vezes mais rápido que há um ano, segundo relatório da METR publicado na quinta-feira após investigação de 11 semanas. O achado é uma das evidências mais claras de IA acelerando o próprio desenvolvimento, levantando dúvidas sobre quando sistemas poderão se aprimorar com pouca intervenção humana.\n\nO momento é delicado: a Anthropic se prepara para abrir o capital enquanto o CEO Dario Amodei pede que laboratórios freiem. A empresa pôde censurar trechos do relatório final, o que gera perguntas sobre quanto o público realmente sabe do ritmo e dos riscos. Congressistas e pesquisadores de segurança pedem mais transparência e freios à autoaperfeiçoamento recursivo.",
+      "category": "tecnologia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "published_at": "2026-11-07T07:30:00-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+    },
+    {
+      "id": "tecnologia-2026-11-07-md3",
+      "title": "Juíza da Califórnia considera Tesla responsável por fraude em Solar Roof",
+      "summary": "No caso Conroy v. Tesla, a juíza sancionou a empresa por ocultar provas e a considerou responsável por fraude e declaração negligente. O telhado solar nunca ficou pronto; o conserto pode passar de US$ 2,5 milhões. A Tesla chegou a oferecer US$ 5 mil.",
+      "highlights": [
+        "Tesla já admitiu quebra de contrato e negligência",
+        "Sanção por não entregar mensagens e relatórios",
+        "Mensagens internas falariam em 'experimento'"
+      ],
+      "body": "Uma juíza da Califórnia considerou a Tesla responsável por fraude em ação sobre Solar Roof depois que a empresa falhou repetidamente em entregar provas. A Tesla já havia admitido quebra de contrato, violação de garantia e negligência. O proprietário Ambrose Conroy, de Rancho Santa Fe, diz que o conserto custará bem mais de US$ 2,5 milhões; a Tesla chegou a oferecer US$ 5 mil.\n\nO telhado contratado em 2020 nunca foi concluído, não passou na inspeção do condado e não gerou 1 kWh. Em 11 de setembro o tribunal considerou a Tesla responsável por fraude e declaração negligente, limitando o julgamento a danos. A juíza citou mensagens Teams, logs da OSHA e mais de 20 relatórios internos ausentes, e textos que descreveriam a obra como 'experimento' com informes diários a Elon Musk.",
+      "category": "tecnologia",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
+      "published_at": "2026-11-07T11:01:23-05:00",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "tecnologia-2026-11-07-md4",
+      "title": "Tesla encerrará produção do Cybertruck em 2027 para priorizar Cybercab",
+      "summary": "Elon Musk disse que a fábrica no Texas deixará de fazer o picape de aço inoxidável no ano que vem para liberar espaço aos robotáxis Cybercab de dois lugares. As vendas ficaram muito abaixo da meta de 250 mil ao ano.",
+      "highlights": [
+        "Fim da produção previsto para 2027",
+        "Meta era 250 mil/ano; vendas na casa das dezenas de milhares",
+        "Modelo S e X já foram descontinuados pelo Optimus"
+      ],
+      "body": "A Tesla deixará de fabricar o Cybertruck no ano que vem, segundo o CEO Elon Musk, que afirmou no X que o espaço da fábrica será usado para produzir mais robotáxis Cybercab de dois lugares. A decisão vem após poucos anos de vendas decepcionantes: quando entregou os primeiros Cybertrucks no fim de 2023, Musk projetava cerca de 250 mil unidades ao ano; a empresa vendeu apenas dezenas de milhares no total em três anos.\n\nÉ o terceiro produto descontinuado para alimentar as ambições de IA e robótica — depois do Model S e do Model X, cujas linhas deram lugar aos robôs humanoides Optimus. O Cybercab já circula em Austin sem grandes incidentes e deve expandir para Dallas ainda este mês.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "published_at": "2026-11-06T06:50:10-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/Cybertruck_78-resized.jpeg?resize=1200,800"
+    },
+    {
+      "id": "tecnologia-2026-11-07-md5",
+      "title": "IPO da Anthropic enfrenta reação anti-IA após midterms",
+      "summary": "A Anthropic mira estreia na Nasdaq em meados de novembro com valuation entre US$ 1 tri e US$ 1,5 tri, em clima hostil: eleitores rejeitaram medidas pró-data centers em 40 de 41 casos, e mais da metade citou o tema como fator no voto para o Congresso.",
+      "highlights": [
+        "Valuation mira US$ 1–1,5 trilhão",
+        "40 de 41 medidas de data center rejeitadas",
+        "US$ 895 bi em compromissos de infraestrutura"
+      ],
+      "body": "A Anthropic se prepara para um IPO potencialmente histórico, com alvo de meados de novembro na Nasdaq. Investidores citados pela CNBC veem valuation de US$ 1 trilhão a US$ 1,5 trilhão, abaixo dos US$ 2 trilhões ventilados meses atrás. O ambiente azedou: nas midterms, comunidades rejeitaram medidas ligadas a data centers em 40 de 41 casos, e mais da metade dos eleitores disse à NBC News que data centers de IA foram fator crucial ou importante no voto para o Congresso.\n\nNo prospecto, a empresa registra cerca de US$ 895,4 bilhões em compromissos de compra e arrendamento, quase todos de computação e infraestrutura, e admite que a oposição a data centers se organizou. Ser a primeira big tech pura de IA a abrir capital deve ampliar o escrutínio público.",
+      "category": "tecnologia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "published_at": "2026-11-07T08:00:01-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080"
+    }
+  ]
 }
