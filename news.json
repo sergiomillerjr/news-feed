@@ -1,616 +1,584 @@
 {
   "version": 2,
-  "generated_at": "2026-11-09T11:16:20-05:00",
-  "edition": "meio-dia",
+  "generated_at": "2026-11-09T15:11:39-05:00",
+  "edition": "tarde",
   "timezone": "America/New_York",
   "items": [
     {
-      "id": "eua-stephen-miller-assume-20261109-md",
-      "title": "Stephen Miller assume hoje como chefe de gabinete da Casa Branca",
-      "summary": "Stephen Miller, arquiteto da política de deportação em massa de Trump, começou nesta segunda-feira como chefe de gabinete da Casa Branca, no lugar de Susie Wiles. A promoção vem dias depois das pesadas derrotas republicanas nas eleições de meio de mandato.",
+      "id": "eua-massie-impeachment-hegseth-20261109-ta",
+      "title": "Republicano Thomas Massie força votação de impeachment de Pete Hegseth",
+      "summary": "O deputado republicano Thomas Massie reapresentou nesta segunda-feira artigos de impeachment contra o secretário de Defesa, Pete Hegseth, por causa da guerra com o Irã e de outras ações militares ordenadas por Trump. Como a medida foi apresentada como privilegiada, a liderança republicana terá de levá-la a voto em até dois dias legislativos.",
       "highlights": [
-        "Miller, de 41 anos, era vice-chefe de gabinete",
-        "Trump anunciou a troca na sexta-feira pelo Truth Social",
-        "Democratas dizem que Trump não ouviu os eleitores"
+        "Oito acusações contra Hegseth",
+        "Primeira acusa guerra contra o Irã sem declaração do Congresso",
+        "Republicanos podem tentar arquivar a resolução"
       ],
-      "body": "Miller, de 41 anos, passa a ser o braço direito do presidente depois de atuar como vice-chefe de gabinete. O anúncio de sexta-feira surpreendeu, já que integrantes do governo vinham negando que Wiles estivesse de saída.\n\nSegundo o Guardian, nas últimas semanas várias mulheres em postos de destaque deixaram o governo, entre elas Harmeet Dhillon, alta funcionária do Departamento de Justiça, e Katie Zacharia, que ficou apenas cinco dias como secretária de imprensa após substituir Karoline Leavitt.\n\nOs democratas acusam Trump de ignorar o recado das urnas ao promover seu assessor mais controverso, justamente quando o próprio presidente admitiu, em entrevista ao 60 Minutes, que a política de deportação pode ter sido 'dura demais'.",
-      "category": "eua",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
-      "published_at": "2026-11-09T10:53:44-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/db4879733af20c35f81006235d81b932772ab199/670_308_2949_2359/master/2949.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1f0ef628addb82a9e8e5fa6b7d23356"
-    },
-    {
-      "id": "eua-congresso-lame-duck-liderancas-20261109-md",
-      "title": "Congresso volta com eleição de líderes e corrida para evitar paralisação",
-      "summary": "Deputados e senadores retornaram ao Capitólio nesta segunda-feira pela primeira vez desde as eleições de meio de mandato. Antes de tudo, os republicanos escolhem seus novos líderes, nesta terça-feira, e tentam evitar uma paralisação do governo.",
-      "highlights": [
-        "Mike Johnson deixa o comando dos republicanos na Câmara",
-        "Scalise e Jim Jordan disputam a liderança da minoria",
-        "Jeffries deve se tornar presidente da Câmara"
-      ],
-      "body": "Com as maiorias republicanas chegando ao fim, o partido quer aproveitar o período de transição. Republicanos da Câmara e do Senado elegem seus líderes na terça; os democratas da Câmara votam na semana seguinte, e os do Senado, no início de dezembro.\n\nNa Câmara, o presidente Mike Johnson vai se afastar, deixando o líder da maioria Steve Scalise e o deputado Jim Jordan na disputa pela liderança da minoria. August Pfluger desafia Tom Emmer pelo posto de líder adjunto, e a presidente da conferência, Lisa McClain, enfrenta Erin Houchin e Greg Steube.\n\nDo lado democrata, os candidatos concorrem sem oposição: Hakeem Jeffries deve virar presidente da Câmara, com Katherine Clark como líder da maioria e Pete Aguilar como líder adjunto.",
-      "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-      "published_at": "2026-11-09T08:51:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/09/5532f229-5614-4747-ae8e-dc27fb348a06/thumbnail/1200x630/817acaf66bdd0f7dd36c933ad429d91e/gettyimages-2303878031.jpg"
-    },
-    {
-      "id": "eua-jeffries-corrupcao-custo-vida-20261109-md",
-      "title": "Jeffries promete foco no custo de vida e em 'responsabilizar os corruptos'",
-      "summary": "O futuro presidente da Câmara, Hakeem Jeffries, disse à CBS que os democratas vão se concentrar 'implacavelmente' na crise do custo de vida, mas também no combate à corrupção. 'Temos de fazer as duas coisas', afirmou.",
-      "highlights": [
-        "Cerca de 9 em 10 eleitores citaram corrupção como fator no voto",
-        "Democratas assumem a Câmara e o Senado",
-        "Há receio de que investigações desviem o foco econômico"
-      ],
-      "body": "'Estamos comprometidos em responsabilizar os corruptos, se você vem roubando, prejudicando ou lesando o povo americano', disse Jeffries no programa CBS Mornings.\n\nO alto custo de vida foi um dos principais motores da eleição, mas a corrupção também mobilizou os eleitores: cerca de nove em cada dez disseram que a corrupção no governo pesou em seu voto, e os democratas colocaram o tema no centro da reta final de campanha.\n\nAgora, o partido tenta alinhar prioridades diante do temor de que investigações e possíveis processos de impeachment contra o governo atrapalhem a agenda econômica. Jeffries disse que os democratas vão 'seguir os fatos'.",
-      "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/hakeem-jeffries-corruption-midterm-election-victories/",
-      "published_at": "2026-11-09T10:05:50-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/09/58f41fd2-f571-41c7-9c70-a4945cc28743/thumbnail/1200x630/33bf72bb26543ea52452609ed55dea82/1794236687364.png"
-    },
-    {
-      "id": "eua-biden-memorias-6-janeiro-20261109-md",
-      "title": "Biden diz em memórias que o 6 de Janeiro 'deve seguir Trump até o túmulo'",
-      "summary": "Em trecho de suas memórias publicado pela revista The Atlantic, o ex-presidente Joe Biden afirma que Trump 'liderou uma insurreição' e critica os perdões aos condenados pelo ataque ao Capitólio. O livro 'Promise Me, America' sai em 17 de novembro.",
-      "highlights": [
-        "É uma das críticas mais duras de Biden desde que deixou o cargo",
-        "Biden diz que os invasores mereciam prisão, não perdão",
-        "NBC procurou a Casa Branca para comentar"
-      ],
-      "body": "'Os criminosos que atacaram policiais naquele dia não mereciam perdões. Mereciam penas de prisão', escreveu Biden no trecho divulgado nesta segunda-feira.\n\nEle acusa Trump e seus apoiadores de 'posar' como defensores das forças de segurança: 'Você não pode fazer vista grossa a policiais sendo socados, golpeados, atingidos com spray e brutalizados e se dizer amigo da polícia. O que Trump fez em 6 de janeiro de 2021 nunca deve ser esquecido.'\n\nEm entrevista à Time em setembro, Trump disse considerar perdoar integrantes de seu governo antes do fim do mandato, citando os perdões preventivos que Biden concedeu ao filho Hunter e a outros familiares.",
+      "body": "Massie leu os artigos no plenário da Câmara e afirmou que Hegseth 'agiu de maneira contrária à confiança depositada nele como secretário de Defesa' e que 'continuará sendo uma ameaça à Constituição se permanecer no cargo'.\n\nO deputado do Kentucky, crítico antigo de Trump que se aposenta do Congresso no fim do ano, apresentou oito acusações. A primeira acusa Hegseth de 'travar a guerra do Irã sem declaração de guerra, autorização legal, ataque aos Estados Unidos ou ameaça iminente', o que, segundo o texto, tornaria a guerra ilegal desde o início.\n\nPelas regras da Câmara, a medida privilegiada obriga a liderança a colocá-la em votação em dois dias legislativos, mas os republicanos podem apresentar uma moção para engavetá-la, que precisa de maioria simples. O artigo 1º da Constituição dá ao Congresso o poder de declarar guerra.",
       "category": "eua",
       "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/joe-biden/memoir-trump-jan-6-2021-riot-follow-him-to-grave-2024-election-rcna608275",
-      "published_at": "2026-11-09T08:54:27-05:00",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240903-january-6-capitol-riots-se-100a-303daa.jpg"
+      "url": "https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989",
+      "published_at": "2026-11-09T14:45:19-05:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260722-Pete-Hegseth-aa-419-c25c99.jpg"
     },
     {
-      "id": "eua-bolsas-sobem-petroleo-cai-20261109-md",
-      "title": "Bolsas dos EUA sobem forte com queda do petróleo, apesar do tombo da Nvidia",
-      "summary": "O S&P 500 subia 1,9% no fim da manhã desta segunda-feira, recuperando parte das perdas da semana passada. O barril de Brent caiu 4,1%, para US$ 94,27, em meio a sinais sobre as negociações com o Irã.",
+      "id": "eua-trump-questiona-eleicao-20261109-ta",
+      "title": "Trump passa a questionar a lisura das eleições de meio de mandato",
+      "summary": "Donald Trump pôs em dúvida, no Truth Social, a legitimidade das eleições em que os republicanos sofreram derrotas pesadas, dias depois de dizer que aceitaria o resultado. Ele fez alegações vagas sobre pesquisas, 'despejos' de votos e 'máquinas', sem apresentar provas.",
       "highlights": [
-        "Dow Jones avançava 805 pontos (1,6%); Nasdaq, 2,5%",
-        "S&P está só 3,8% abaixo do recorde de outubro",
-        "Constellation Energy saltou 6,3% após balanço"
+        "'Alguém acredita mesmo que esta eleição foi honesta?', escreveu",
+        "Na noite da eleição, disse estar 'absolutamente disposto' a aceitar o resultado",
+        "Autoridades dizem que a votação ocorreu praticamente sem problemas"
       ],
-      "body": "A alta veio mesmo com a queda da Nvidia, uma das ações mais influentes de Wall Street. Na semana passada, o mercado havia despencado com o temor de que as vitórias democratas nas eleições desacelerassem a construção de data centers de IA.\n\nO petróleo vem recuando desde mais de US$ 112 no início do mês. Trump disse à CNN no fim de semana que uma retomada dos ataques é 'altamente improvável' se houver progresso nas negociações, embora o secretário de Estado, Marco Rubio, tenha chamado algumas exigências iranianas de 'ultrajantes e ridículas'.\n\nBalanços fortes de grandes empresas também ajudaram, segundo a AP. Os números se referem às 10h30 (horário de Nova York).",
+      "body": "'Alguém acredita mesmo que esta Eleição foi honesta? Como as pesquisas puderam errar tanto?', escreveu o presidente nesta segunda-feira. A mensagem contradiz o que ele disse ao New York Times na noite da eleição, quando afirmou estar 'absolutamente disposto' a aceitar os resultados.\n\nOs democratas retomaram as duas casas do Congresso na semana passada, e autoridades estaduais e locais de todo o país disseram que a votação transcorreu em geral sem problemas. Algumas disputas importantes, como as do Senado no Alasca e no Mississippi, ainda não foram definidas.\n\nSegundo o cientista político Charles Stewart III, do MIT, a apuração na noite da eleição seguiu os padrões habituais. Ele explicou que em estados como Flórida e Geórgia parte dos resultados sai rápido porque os votos antecipados e pelo correio já estão contados.",
       "category": "eua",
-      "source": "Local 10 (AP)",
-      "url": "https://www.local10.com/business/2026/11/09/us-stocks-rally-and-recover-more-of-last-weeks-losses-as-oil-prices-swing-lower/",
-      "published_at": "2026-11-09T10:37:08-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/6QTZ52PUTKCX6T66TC7TLARSEQ.jpg?auth=324cf12eaf81265785d500ec729904592830b562082043a8dd0ab296528dd2e8&width=700"
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o",
+      "published_at": "2026-11-09T10:37:43-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg"
     },
     {
-      "id": "eua-los-angeles-raman-socialistas-20261109-md",
-      "title": "Vitória em Los Angeles mostra força crescente dos socialistas democráticos",
-      "summary": "A vereadora Nithya Raman foi declarada vencedora da eleição para prefeita de Los Angeles, derrotando a atual prefeita Karen Bass com quase 53% dos votos. Ela é a mais recente socialista democrática a vencer em uma grande cidade americana.",
+      "id": "eua-suprema-corte-muro-big-bend-20261109-ta",
+      "title": "Suprema Corte libera muro de Trump na região de Big Bend, no Texas",
+      "summary": "A Suprema Corte permitiu que o governo Trump retome a construção do muro e de outras estruturas na fronteira em uma área remota do oeste do Texas enquanto o processo segue na Justiça. A decisão derrubou uma liminar que havia paralisado a obra no setor de Big Bend.",
       "highlights": [
-        "Raman, de 45 anos, assume em dezembro",
-        "LA se junta a Nova York, Seattle, Providence e Washington",
-        "Analistas citam a percepção de que a economia é 'viciada'"
+        "Decisão não assinada derrubou liminar de juíza federal",
+        "Setor cobre mais de 800 km da fronteira e inclui o Parque Nacional Big Bend",
+        "Juíza Ketanji Brown Jackson teria negado o pedido"
       ],
-      "body": "'Los Angeles, estou profundamente honrada em ser sua próxima prefeita', disse Raman em vídeo nas redes sociais após o resultado, anunciado em 5 de novembro. 'O trabalho será difícil e a mudança levará tempo.'\n\nSegundo a Al Jazeera, a lista de cidades governadas ou prestes a ser governadas por prefeitos socialistas democráticos inclui Nova York; Seattle; Providence, em Rhode Island; e a capital, Washington.\n\nEsses resultados são impulsionados pela crença popular de que o status quo político e econômico favorece os ricos. 'A ideia de que a economia é viciada é bastante comum', disse o autor Shawn Gude.",
+      "body": "Em decisão não assinada, o tribunal suspendeu a liminar da juíza federal Kathleen Cardone, que havia interrompido temporariamente a construção do muro e de estradas no setor de Big Bend, que abrange mais de 500 milhas (cerca de 800 km) da fronteira sul e inclui o Parque Nacional Big Bend.\n\nSegundo a Suprema Corte, a ordem da instância inferior atrasava a obra e 'impede o governo de promover seus interesses imperiosos' em segurança de fronteira. A juíza Ketanji Brown Jackson disse que teria negado o pedido de emergência do Departamento de Justiça.\n\nO procurador-geral D. John Sauer havia alertado que interromper a obra prejudicaria a capacidade do governo de proteger um quarto da fronteira sul contra incursões de cartéis, tráfico de drogas e entradas ilegais.",
+      "category": "eua",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
+      "published_at": "2026-11-09T15:00:52-05:00",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/70d15ef3-844f-4d88-b506-85d06db6c3c8/thumbnail/1200x630/12bb7c361b249c8597b8ebebf0e51f03/dsc01583.jpg"
+    },
+    {
+      "id": "eua-casa-branca-lockdown-20261109-ta",
+      "title": "Duas violações de segurança perto da Casa Branca provocam bloqueio",
+      "summary": "Duas pessoas foram detidas perto da Casa Branca após dois incidentes de segurança nesta segunda-feira, segundo o Serviço Secreto. Um motorista subiu com o carro na calçada do Lafayette Park e outra pessoa pulou uma barreira de segurança; Trump estava na residência oficial.",
+      "highlights": [
+        "Carro foi parar na calçada do Lafayette Park por volta das 10h",
+        "Motorista partiu para cima dos agentes e foi preso",
+        "Bloqueio durou cerca de uma hora"
+      ],
+      "body": "Agentes do Serviço Secreto e da Guarda Nacional responderam por volta das 10h (horário local) a um acidente com um veículo na borda norte do Lafayette Park, em frente à Casa Branca. Quase ao mesmo tempo, outro suspeito pulou uma barreira no canto noroeste do parque. Não está claro se os casos têm relação.\n\nVídeos mostram um sedã prata soltando muita fumaça, cercado por policiais, e o motorista saindo do carro e tentando agredir os agentes. 'O motorista foi agressivo com as autoridades, mas foi rapidamente preso', disse o Serviço Secreto.\n\nTrump estava na residência oficial durante os incidentes, o que levou a um breve bloqueio da Casa Branca e ao fechamento das ruas próximas. O esquadrão antibombas da polícia de Washington vistoriou o veículo, e o bloqueio foi suspenso cerca de uma hora depois.",
       "category": "eua",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists",
-      "published_at": "2026-11-09T10:05:22-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af100d30407-1794179283_aa1375-1794230652.jpg?resize=1200%2C630&quality=80"
+      "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown",
+      "published_at": "2026-11-09T13:57:01-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af20cd333bd-1794247891.jpg?resize=1920%2C1440"
     },
     {
-      "id": "eua-ole-miss-video-racista-20261109-md",
-      "title": "Universidade do Mississippi investiga vídeo de gestos racistas contra calouras",
-      "summary": "A Universidade do Mississippi (Ole Miss) abriu investigação após circular nas redes um vídeo em que duas jovens fazem sons e gestos de macaco diante da câmera de campainha de um apartamento onde moram estudantes negras.",
+      "id": "eua-fda-alerta-glp1-cegueira-20261109-ta",
+      "title": "FDA exige alerta sobre risco raro de cegueira súbita em remédios GLP-1",
+      "summary": "A FDA determinou que fabricantes de remédios GLP-1, como Ozempic, Wegovy, Mounjaro e Zepbound, incluam na bula um alerta sobre a NAION, condição ocular rara que pode causar perda súbita e permanente da visão. A agência fala em 'potencial aumento do risco'.",
       "highlights": [
-        "Vídeo foi gravado por câmera Ring na porta do apartamento",
-        "Universidade chamou o episódio de 'profundamente perturbador'",
-        "Eventuais punições são protegidas por lei de privacidade"
+        "Vale para todos os GLP-1, inclusive os de diabetes mais antigos",
+        "NAION afeta o nervo óptico e não tem tratamento",
+        "Estudo de 2024 apontou risco quatro vezes maior com semaglutida"
       ],
-      "body": "Segundo a afiliada da CBS WREG, a pessoa que publicou o vídeo disse que a câmera da filha, caloura da Ole Miss com duas colegas de quarto negras, registrou a cena.\n\nUm porta-voz disse à CBS News que a universidade condena os comportamentos 'ofensivos, dolorosos e inaceitáveis' e que os setores responsáveis estão investigando. A instituição ressaltou que processos disciplinares são protegidos pela lei federal de privacidade estudantil (FERPA).\n\nA vice-reitora de assuntos estudantis, Shawnboda Mead, disse que o vídeo 'não reflete os valores da universidade nem a comunidade que buscamos ser'.",
+      "body": "A neuropatia óptica isquêmica anterior não arterítica (NAION) acontece quando o fluxo de sangue para o nervo óptico é reduzido ou bloqueado, o que pode causar perda repentina da visão. A condição é permanente e não tem tratamento conhecido.\n\nA FDA começou a investigar a possível ligação após um estudo de 2024 publicado na JAMA Ophthalmology, segundo o qual pacientes com diabetes que tomavam semaglutida tinham quatro vezes mais chance de desenvolver NAION. A agência analisou relatos de efeitos adversos e dados de vários ensaios clínicos e encontrou casos com todos os GLP-1 do mercado, mas não identificou um mecanismo.\n\nPorta-vozes da Novo Nordisk e da Eli Lilly disseram que a segurança dos pacientes é prioridade. A Lilly afirmou que já conhecia os estudos sobre a possível ligação.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/university-mississippi-investigating-doorbell-video-racist-gestures/",
-      "published_at": "2026-11-09T10:37:26-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/23/759ee9ae-b854-49c8-95f8-e5df186ef854/thumbnail/1200x630/6ba02a84e2fec3c51c6cc943e4656336/cbsn-fusion-rumors-swirl-after-2-ole-miss-students-found-dead-in-separate-locations-with-packaged-kratom-thumbnail.jpg"
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309",
+      "published_at": "2026-11-09T13:14:12-05:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220328-fda-headquarters-2020-ac-611p-17ec72.jpg"
     },
     {
-      "id": "eua-bola-de-fogo-carolina-tennessee-20261109-md",
-      "title": "Bola de fogo a 75 mil km/h ilumina o céu da Carolina do Norte e do Tennessee",
-      "summary": "Um meteoro cruzou o céu de partes da Carolina do Norte e do Tennessee a cerca de 47 mil milhas por hora (75 mil km/h), segundo a NASA. O fragmento de asteroide tinha só 5 cm de diâmetro.",
+      "id": "eua-suprema-corte-presos-federais-20261109-ta",
+      "title": "Suprema Corte deve restringir processos de presos federais contra agentes",
+      "summary": "A Suprema Corte deu sinais nesta segunda-feira de que vai impedir presos federais de processar funcionários que lhes negam tratamento médico. O caso pode anular um precedente de 1980 que permitia esse tipo de ação.",
       "highlights": [
-        "Avistamento durou cerca de 10 segundos",
-        "Surgiu a 80 km de altura sobre Robbinsville (NC)",
-        "Pesava cerca de 170 gramas, segundo a NASA"
+        "Caso de ex-detento espancado em rebelião em Honolulu",
+        "Em jogo, o alcance da decisão Bivens, de 1971",
+        "Maioria conservadora lembrou de outras vias de reparação"
       ],
-      "body": "Testemunhas compartilharam muitas fotos nas redes sociais. As câmeras especiais da NASA acompanharam o objeto viajando para oeste até o sul do Tennessee, onde ele se desintegrou a cerca de 40 km de altura sobre East Ridge, perto de Chattanooga.\n\nA agência analisou o meteoro com imagens de câmeras no Tellus Science Museum, em Cartersville (Geórgia), em Huntsville (Alabama), em Tullahoma (Tennessee) e em um ponto perto da divisa entre Tennessee e Carolina do Norte.\n\nAstrônomos chamam de 'bola de fogo' um meteoro especialmente brilhante, visível em uma grande área.",
+      "body": "O tribunal ouviu os argumentos de Kekai Watanabe, ex-detento federal que diz ter tido tratamento médico negado por agentes de uma unidade em Honolulu em julho de 2021, depois de ser espancado por outros presos durante uma rebelião de gangues.\n\nO caso gira em torno da decisão Bivens, de 1971, que pela primeira vez permitiu processar agentes federais por violações de direitos civis. Embora não deva derrubar Bivens, a Corte parece disposta a anular o caso Carlson v. Green, de 1980, que estendeu esse direito a presos federais vítimas de 'indiferença deliberada' a suas necessidades médicas.\n\nVários juízes da maioria conservadora de 6 a 3 lembraram que os presos têm outros meios de buscar reparação, como procedimentos internos das prisões. Segundo a NBC, a ofensiva migratória do governo Trump voltou a pôr em foco a falta de caminhos para responsabilizar agentes acusados de violar a Constituição.",
       "category": "eua",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/fireball-north-carolina-tennessee-47000-mph/",
-      "published_at": "2026-11-09T09:28:07-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/09/5cd7cfbd-27f7-4be7-92b4-bd5a62efb13e/thumbnail/1200x630g6/f3a72adf8903274e637bf44d79b7e248/nasa-meteor.png"
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-set-limit-federal-inmatess-ability-sue-officials-rcna608292",
+      "published_at": "2026-11-09T13:38:01-05:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261108-federal-detention-honolulu-mn-1220-180e73.jpg"
     },
     {
-      "id": "mundo-russell-brand-condenado-20261109-md",
-      "title": "Russell Brand é condenado a 10 anos e meio de prisão por estupro e agressões sexuais",
-      "summary": "O ator e comediante britânico Russell Brand foi sentenciado nesta segunda-feira em Londres por estuprar uma mulher em 2009 e agredir sexualmente outras três. O juiz o chamou de 'predador sexual'.",
+      "id": "eua-warren-comite-bancario-20261109-ta",
+      "title": "Elizabeth Warren vai comandar o Comitê Bancário do Senado; veja os planos",
+      "summary": "A senadora democrata Elizabeth Warren deve assumir o Comitê Bancário do Senado após a vitória democrata nas eleições. Entre as prioridades estão custo de vida, controle de exportação de chips de IA para a China e regras para mercados de previsão.",
       "highlights": [
-        "Nove anos pelo estupro e 18 meses pelas agressões",
-        "Deve cumprir pelo menos sete anos na prisão",
-        "Ele foi absolvido de outras duas acusações de estupro"
+        "Quer limitar juros do cartão de crédito",
+        "Pediu a CEOs e autoridades que preservem documentos",
+        "Comitê tem poder de convocação sob juramento"
       ],
-      "body": "O júri do tribunal de Southwark considerou Brand culpado de apalpar uma mulher num bar de Londres em 2004, de agredir sexualmente uma mulher numa rádio em 2004 e 2005 e de estuprar uma mulher em sua casa no oeste de Londres em 2009.\n\nNa sentença, o juiz Joel Bennathan disse que Brand mostrou 'arrogância espantosa' e acreditava que 'a fama significava que podia agir como quisesse, quando quisesse'. O restante da pena será cumprido sob fortes restrições, como tornozeleira.\n\nAntes da sentença, foram lidas declarações das vítimas. 'Fiquei em choque e em tormento por anos', disse uma delas, protegida por uma tela.",
-      "category": "mundo",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
-      "published_at": "2026-11-09T09:30:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/09/1058298b-4c6d-4224-abdc-f85f5b9b574a/thumbnail/1200x630/81d77130b77c2e04ea38825a0f822828/gettyimages-2303025310.jpg"
+      "body": "Segundo um assessor do comitê, que falou sob anonimato, Warren pretende enfrentar o custo de vida limitando os juros do cartão de crédito, aprovando mais leis para construir moradias acessíveis e reduzindo dívidas médicas, de consumo e estudantis.\n\nEla também quer restringir a venda de chips avançados de IA para a China e definir regras para a inteligência artificial nos EUA, além de regulamentar os mercados de previsão. A senadora planeja uma agenda agressiva de fiscalização e pediu que executivos de tecnologia, autoridades do governo e de Wall Street preservem seus documentos.\n\nA vitória democrata dá ao partido o comando das comissões no Congresso a partir de janeiro, com poder de definir a pauta e de convocar autoridades e empresários para depor sob juramento. O Comitê Bancário tem jurisdição sobre política monetária, bancos e controles de exportação.",
+      "category": "eua",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+      "published_at": "2026-11-09T14:34:43-05:00",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108546627-1794247183662-gettyimages-2303156060-dsc05460_rc2wxrmh.jpeg?v=1794250186&w=1920&h=1080"
     },
     {
-      "id": "mundo-russia-400-mil-mortos-vazamento-20261109-md",
-      "title": "Mais de 400 mil russos morreram na guerra da Ucrânia, sugerem dados vazados",
-      "summary": "Dados vazados da agência estatística russa Rosstat indicam que mais de 400 mil russos morreram combatendo na Ucrânia desde a invasão em larga escala. São 412.576 certidões de óbito ligadas explicitamente à guerra.",
+      "id": "eua-ohio-state-fraternidade-fogo-20261109-ta",
+      "title": "Ohio State suspende fraternidade após vídeo de dois jovens pegando fogo",
+      "summary": "A Universidade Estadual de Ohio suspendeu provisoriamente a fraternidade Sigma Alpha Epsilon depois que circulou nas redes um vídeo em que dois jovens aparecem com as roupas em chamas. A universidade chamou o caso de 'extremamente preocupante' e o encaminhou à polícia.",
       "highlights": [
-        "Vazamento tem mais de 11 milhões de certidões de óbito",
-        "Hackers belarussos e ucranianos obtiveram os dados",
-        "Rosstat confirmou invasão, mas nega vazamento sensível"
+        "Incidente teria ocorrido no sábado perto do campus",
+        "Vídeo mostra um jovem em chamas derrubando outro",
+        "Polícia de Columbus só soube pelo vídeo no domingo"
       ],
-      "body": "As informações foram obtidas pelo grupo hacker Cyber Partisans, ligado à oposição belarussa, e pelo coletivo ucraniano Silent Crow, e compartilhadas com o Guardian e outros veículos. Incluem idade, local de residência e local da morte.\n\nA Rússia não divulga números de mortos desde os primeiros meses da invasão e trata as baixas militares como segredo de Estado. O Guardian ressalta que não conseguiu verificar de forma independente a autenticidade de todo o conjunto de dados.\n\nOs números surgem às vésperas de uma nova rodada de negociações de paz em Abu Dhabi nesta semana.",
+      "body": "O vídeo começa com uma pessoa de agasalho no chão, com a calça tomada pelas chamas. Ela se levanta e derruba outra pessoa com roupa igual, cuja roupa também pega fogo. Os dois correm tentando tirar as peças enquanto outros ajudam a apagar o fogo. Uma segunda gravação sugere que a calça do segundo jovem já estava pegando fogo antes.\n\nSegundo a polícia de Columbus, o episódio parece ter acontecido no sábado em um quarteirão perto da universidade. Não houve chamados no dia; a polícia só foi alertada no domingo sobre o vídeo que circulava.\n\n'A Ohio State está comprometida com um ambiente seguro e saudável e espera que estudantes e organizações estudantis honrem esse compromisso', disse a universidade, que colocou a fraternidade em suspensão provisória até o fim da investigação.",
+      "category": "eua",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/ohio-state-university-investigating-fraternity-video-appears-show-two-rcna608313",
+      "published_at": "2026-11-09T14:15:55-05:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260505-osu-campus-gk-1df951.jpg"
+    },
+    {
+      "id": "eua-rascunho-discurso-mlk-leilao-20261109-ta",
+      "title": "Único rascunho final manuscrito de 'I Have a Dream' vai a leilão",
+      "summary": "O que seria o único rascunho final manuscrito do discurso 'I Have a Dream', de Martin Luther King Jr., será leiloado pela Christie's em Nova York em janeiro, com estimativa de mais de US$ 10 milhões. Parte do valor irá para instituições como o King Center, em Atlanta.",
+      "highlights": [
+        "Documento foi redescoberto em 2024 numa gaveta",
+        "Sete páginas de bloco amarelo escritas a tinta azul",
+        "Exposição pública de 15 a 21 de janeiro"
+      ],
+      "body": "Segundo a Christie's, o documento foi redescoberto em 2024 na gaveta de uma escrivaninha que pertencia a Edward T. Clayton, ex-assessor de King, por sua viúva, Xernona. Ela já o havia encontrado no fim dos anos 1990, mas não sabia que era o único rascunho final e o guardou de novo.\n\nKing concluiu o texto na madrugada de 28 de agosto de 1963, no hotel Willard, em Washington. Com a meta de falar por cinco minutos, escreveu a versão final em tinta azul em sete folhas de bloco amarelo, após dias de conversas com assessores, entre eles Clayton.\n\nAs páginas ficarão expostas na Christie's de 15 a 21 de janeiro, antes de serem oferecidas em lote único.",
+      "category": "eua",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/mlk-dream-speech-auction",
+      "published_at": "2026-11-09T12:13:27-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/164b176801704416bd10e29614cf4931231839e1/643_0_4258_3407/master/4258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c341f8476435c0073a29f745758a3bfb"
+    },
+    {
+      "id": "eua-playoff-futebol-universitario-24-20261109-ta",
+      "title": "Playoff do futebol americano universitário vai dobrar para 24 times em 2027",
+      "summary": "O College Football Playoff anunciou que passará de 12 para 24 equipes a partir da temporada de 2027. Os campeões das quatro grandes conferências terão vaga automática, e as finais dessas conferências deixam de existir.",
+      "highlights": [
+        "19 vagas por índice técnico e uma para o melhor do 'Group of 6'",
+        "Oito melhores folgam na primeira rodada",
+        "Quartas e semifinais seguem nos grandes bowls"
+      ],
+      "body": "Cada campeão do Power 4 (Big Ten, SEC, ACC e Big 12) terá vaga automática, haverá 19 vagas gerais e uma vaga para a escola mais bem classificada do 'Group of 6'. O comitê de seleção continuará a montar o ranking dos 25 melhores.\n\nAs conferências do Power 4 não terão mais jogos de final: os campeões serão definidos pela classificação da temporada regular e por critérios de desempate. Os oito primeiros folgam na primeira rodada; os times de 9º a 16º recebem os de 17º a 24º em casa, e a segunda rodada também será nos campi, num total de 16 jogos em estádios universitários.\n\nQuartas de final e semifinais continuam nos seis grandes bowls de Ano-Novo: Rose, Fiesta, Sugar, Orange, Peach e Cotton.",
+      "category": "eua",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/college-football/college-football-playoff-expanding-24-teams-2027-rcna608336",
+      "published_at": "2026-11-09T12:13:46-05:00",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260118-mendoza-indiana-tp-AP26020172552715-9fb574.jpg"
+    },
+    {
+      "id": "mundo-franca-acusa-ira-ciberataque-20261109-ta",
+      "title": "França acusa Irã por ciberataque a freezers de supermercados",
+      "summary": "O governo francês atribuiu à Guarda Revolucionária do Irã um ciberataque em massa que assumiu o controle de termostatos de freezers e geladeiras de supermercados, elevando temperaturas a mais de 50 °C. O chanceler Jean-Noël Barrot prometeu sanções europeias.",
+      "highlights": [
+        "Ataques de 11 e 12 de outubro obrigaram lojas a jogar estoques fora",
+        "Casos se repetiram em outros países e num banco de sangue",
+        "Embaixador iraniano foi convocado"
+      ],
+      "body": "Barrot, falando durante a cúpula do G7 em Paris, classificou o ataque como de 'escala sem precedentes e agressão sem precedentes' e uma 'violação grave dos interesses da nação'. O embaixador do Irã foi convocado para receber um protesto 'nos termos mais fortes possíveis'.\n\nMuitos supermercados franceses foram atingidos em 11 e 12 de outubro, e alguns tiveram de descartar todo o estoque de perecíveis. Desde então houve casos semelhantes em geladeiras de supermercados de outros países europeus e num banco de sangue francês.\n\nA procuradora de Paris, Laure Beccuau, disse que os investigadores identificaram um modo de agir típico do grupo iraniano Shahid Kaveh, unidade de guerra cibernética ligada à Guarda Revolucionária, incluindo o uso de farsi e endereços IP rastreados até aparelhos no Irã.",
       "category": "mundo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
-      "published_at": "2026-11-09T09:58:01-05:00",
-      "image_url": "https://i.guim.co.uk/img/media/24647b12c6b5f7d2477ff2402684e3352901f5e9/0_0_4997_4000/master/4997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90e65de0ae233dafbe2ef0aeb8b5dd4f"
+      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+      "published_at": "2026-11-09T12:54:40-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/aed983f049b0e852c755b8dc230e7c7ba34f9947/46_0_3538_2832/master/3538.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20bcadb49498f76f309fc97be68097eb"
     },
     {
-      "id": "mundo-abu-dhabi-negociacoes-ucrania-20261109-md",
-      "title": "O que esperar das negociações entre Rússia, EUA e Ucrânia em Abu Dhabi",
-      "summary": "Representantes de Ucrânia, Rússia e EUA se reúnem na terça e quarta-feira em Abu Dhabi para tentar encerrar quase cinco anos de guerra. Analistas não esperam grandes avanços.",
+      "id": "mundo-etiopia-50-mil-deslocados-20261109-ta",
+      "title": "Confrontos na fronteira da Etiópia já deslocaram mais de 50 mil pessoas",
+      "summary": "A violência na região de Moyale, na fronteira da Etiópia com o Quênia, já fez mais de 50 mil pessoas deixarem suas casas, segundo a Cruz Vermelha do Quênia. Famílias chegam ao Quênia sem comida nem abrigo, e doenças começam a se espalhar.",
       "highlights": [
-        "Trump culpa Zelensky por travar a paz",
-        "Europa não faz parte oficialmente das conversas",
-        "Rússia ocupa cerca de 20% do território ucraniano"
+        "Número subiu de cerca de 36 mil para mais de 50 mil",
+        "Mulheres deram à luz durante a fuga",
+        "Comunidades quenianas que acolhem refugiados estão sobrecarregadas"
       ],
-      "body": "Trump disse no mês passado que 'Zelensky precisa querer resolver esta guerra'. Os EUA também fecharam no mês passado um acordo para comprar diesel russo, o que, segundo críticos, dá receita para Moscou sustentar a guerra.\n\nA França disse que a Europa enviará representantes a Abu Dhabi, já que aliados ocidentais temem que Trump force um acordo que prejudique a segurança do continente.\n\nA Rússia ocupa cerca de um quinto da Ucrânia, incluindo a Crimeia e partes do Donbas, e Trump tem pressionado Kiev a ceder território em troca do fim do conflito.",
+      "body": "Uma avaliação do governo feita em 29 e 30 de outubro estimou 35.950 deslocados até 24 de outubro: cerca de 25 mil abrigados por famílias e quase 11 mil em locais temporários. Segundo Malik Adan, chefe regional da Cruz Vermelha do Quênia, o número já passa de 50 mil.\n\nRefugiados contaram à Al Jazeera que algumas mulheres deram à luz durante a fuga e que bebês recém-nascidos dormem no chão. Há surto de diarreia, e as famílias temem malária com o aumento de mosquitos.\n\nAs chegadas pressionam as comunidades quenianas, que dividem recursos escassos e temem que a violência chegue a seus bairros. Os relatos de testemunhas sobre mortes não puderam ser verificados de forma independente.",
       "category": "mundo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
-      "published_at": "2026-11-09T09:24:31-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af189f5cb431-1794214389.jpg?resize=1920%2C1440"
+      "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes",
+      "published_at": "2026-11-09T10:55:27-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG-20261104-WA0022-1794236132.jpg?resize=1200%2C630"
     },
     {
-      "id": "mundo-ira-mantem-exigencias-20261109-md",
-      "title": "Irã mantém exigências para encerrar a guerra enquanto EUA aumentam pressão militar",
-      "summary": "O governo iraniano relatou novos ataques americanos durante a noite contra a ilha de Qeshm, mas diz que a pressão não muda suas sete exigências para acabar com a guerra. Os EUA não confirmaram diretamente os bombardeios.",
+      "id": "mundo-gaza-deslizamento-20261109-ta",
+      "title": "Deslizamento de terra mata cinco em acampamento de deslocados em Gaza",
+      "summary": "Um barranco de areia desabou sobre um acampamento de famílias deslocadas ao sul de Deir al-Balah, em Gaza, depois de ventos fortes e chuva pesada, matando cinco pessoas. Entre as vítimas estão duas crianças, de 8 e 6 anos, e a mãe delas.",
       "highlights": [
-        "Autoridade local diz que não houve danos a áreas residenciais",
-        "Rubio chamou ataques anteriores de 'defensivos'",
-        "Irã exige fim do bloqueio a seus portos e das sanções"
+        "Pelo menos três barracas foram soterradas",
+        "Moradores usaram martelos para quebrar uma rocha sobre as vítimas",
+        "Pai das crianças sobreviveu por estar fora da barraca"
       ],
-      "body": "Ahmad Nafisi, vice-governador de Hormozgan, confirmou que Qeshm foi alvo, mas sem atingir áreas residenciais, comerciais ou infraestrutura vital. Ataques anteriores, o mais recente admitido por Trump na sexta, miraram defesas aéreas e radares.\n\nO porta-voz da chancelaria iraniana, Esmail Baghaei, rejeitou a afirmação de Rubio de que algumas exigências são 'ridículas e irrealistas'. 'O plano do Irã ainda é o mais lógico da mesa', disse, afirmando que ele pode devolver a segurança ao Estreito de Ormuz.\n\nMediadores tentam evitar ataques em larga escala, repetidamente ameaçados por Trump, enquanto as negociações continuam.",
+      "body": "'Foi uma cena horrível. Vimos pessoas enterradas sob areia e pedras. Nenhuma se mexia ou fazia barulho', contou Abdul Karim al-Sahhar, de 30 anos, cujo abrigo também ficou danificado.\n\nSegundo ele, o pai das crianças estava do lado de fora e sobreviveu: 'Um dos filhos o chamou para comer com eles. Ele demorou um pouco a voltar, e então veio o desabamento'. Os jovens tiveram de quebrar uma grande rocha em pedaços para chegar às vítimas.\n\nOutra testemunha disse à Reuters que o desabamento soou como uma explosão e que três barracas ficaram completamente cobertas.",
+      "category": "mundo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
+      "published_at": "2026-11-09T13:27:51-05:00",
+      "image_url": "https://i.guim.co.uk/img/media/ad9777e16e4429e58f6eaad902d5785a82568619/246_0_2474_1980/master/2474.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2912e46e7a410c4c34c4cbb2407f2880"
+    },
+    {
+      "id": "mundo-franca-antecipa-salario-minimo-20261109-ta",
+      "title": "França antecipa aumento do salário mínimo para tentar conter protestos",
+      "summary": "O governo francês vai antecipar para 1º de dezembro o reajuste de 1,6% do salário mínimo, previsto para janeiro, em meio a semanas de protestos contra o custo de vida. O mínimo mensal passa de 1.477,93 para cerca de 1.502 euros.",
+      "highlights": [
+        "Premiê Lecornu fala no 2º maior aumento em 20 anos",
+        "Protestos começaram com estudantes pedindo verba para escolas",
+        "Maior central sindical queria 100 euros a mais"
+      ],
+      "body": "O primeiro-ministro Sébastien Lecornu disse que o aumento é 'o segundo maior em 20 anos' e 'não é apenas simbólico', e que foi planejado para não provocar perda de empregos. O último reajuste foi em junho, quando a inflação disparou um aumento de 35 euros.\n\nOs protestos começaram com estudantes pedindo mais investimento nas escolas, mas se transformaram em manifestações mais amplas e em distúrbios sérios, parte de uma onda que atinge a Europa.\n\nMesmo antecipado, o reajuste fica abaixo do que pedem os sindicatos. A CFDT, maior central da França, reivindica um aumento de 100 euros.",
       "category": "mundo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
-      "published_at": "2026-11-09T09:39:32-05:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af1ca181210-1794230808.jpg?resize=1920%2C1440"
+      "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest",
+      "published_at": "2026-11-09T12:46:28-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af1d45965-1794233433.jpg?resize=1920%2C1440"
     },
     {
-      "id": "mundo-turquia-explosao-siderurgica-20261109-md",
-      "title": "Explosão em siderúrgica no oeste da Turquia deixa 10 mortos",
-      "summary": "Uma enorme explosão seguida de incêndio na siderúrgica HABAS, em Aliaga, na província de Izmir, matou 10 pessoas nesta segunda-feira. Equipes procuram quatro trabalhadores desaparecidos.",
+      "id": "mundo-iemen-avancos-governo-20261109-ta",
+      "title": "Forças do governo do Iêmen dizem avançar contra os houthis",
+      "summary": "As forças do governo do Iêmen afirmam ter tomado posições dos houthis na província de Lahj, no sul, em meio a combates intensos em várias frentes. Os houthis mantêm há mais de um mês o cerco à cidade de Taiz.",
       "highlights": [
-        "15 feridos, dois em estado grave",
-        "Ponte rolante tombou dentro de um forno durante fundição",
-        "Testemunhas acharam que era um terremoto"
+        "Avanço na frente de al-Muhawala, no oeste de Lahj",
+        "Governo também relata ganhos em al-Jawf",
+        "Porta-voz fala em mais de 120 houthis mortos ou feridos"
       ],
-      "body": "O governador Suleyman Elban atualizou o número de vítimas em pronunciamento na TV; um balanço anterior falava em três mortos. O prefeito de Izmir disse que o número exato só será conhecido após a remoção dos escombros.\n\nSegundo o governo provincial, a explosão ocorreu por volta do meio-dia local, quando uma ponte rolante caiu em um forno durante o derramamento de aço líquido. Uma investigação foi aberta.\n\n'O chão tremeu. Foi muito intenso', disse uma testemunha à agência estatal Anadolu. Outra afirmou: 'Pensei que fosse um terremoto'.",
+      "body": "As Forças do Escudo Nacional, ligadas ao governo, disseram ter conquistado posições após um grande ataque e afirmaram que dezenas de combatentes houthis foram mortos ou feridos. O anúncio vem depois de dias de avanços relatados na província de al-Jawf, a leste da capital Sanaa, controlada pelos houthis.\n\nEm Taiz, os houthis continuam os ataques e cercam a cidade há mais de um mês. Segundo o porta-voz militar do governo, Majed al-Nuzaili, as forças governistas fizeram quase mil ataques nas horas anteriores; os números não puderam ser confirmados de forma independente.",
       "category": "mundo",
-      "source": "Local 10 (AP)",
-      "url": "https://www.local10.com/business/2026/11/09/explosion-at-steel-plant-in-western-turkey-leaves-6-dead-and-8-missing/",
-      "published_at": "2026-11-09T09:10:46-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/SHVPVPF6NYICNTBAT6QPKNXUFA.jpg?auth=8599cf04a91a53e94203f60f17315686634fcac1d94356c66531d0afa914a170&width=700"
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume",
+      "published_at": "2026-11-09T13:37:03-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261103__D69H7KN__v1__HighRes__YemenSaudiUsIsraelIranWar-1793860013.jpg?resize=1920%2C1440"
     },
     {
-      "id": "mundo-mexico-captura-lider-cjng-20261109-md",
-      "title": "México prende líder do Cartel de Jalisco procurado pelos EUA, com ajuda da DEA",
-      "summary": "Autoridades mexicanas prenderam Rafael Álvarez, o 'R2', chefe de uma célula do Cartel Jalisco Nova Geração (CJNG) ligada a homicídios, tráfico e extorsão de produtores de abacate. Ele ficou ferido em tiroteio durante a operação.",
+      "id": "mundo-cruzeiro-eterno-apreendido-20261109-ta",
+      "title": "Navio do 'cruzeiro eterno' é apreendido por ordem judicial em Singapura",
+      "summary": "O Odyssey, navio do chamado 'cruzeiro eterno' que ficou parado no Sudeste Asiático depois que a dona deixou de pagar as contas, foi colocado sob 'arresto' judicial no porto de Singapura. Não há passageiros a bordo, e a tripulação está bem, segundo as autoridades.",
       "highlights": [
-        "Outras 19 pessoas foram presas",
-        "Localização veio de informações da DEA",
-        "CJNG é classificado pelos EUA como organização terrorista"
+        "Dona, a Villa Vie Residences, não conseguiu manter os pagamentos",
+        "Credor provável é um fornecedor de combustível",
+        "Empresa deve cerca de US$ 500 mil a um fornecedor"
       ],
-      "body": "Segundo o secretário de Segurança, Omar García Harfuch, o traficante recebe atendimento médico após ser baleado na troca de tiros. A DEA disse que 'R2' é procurado nos EUA por tráfico de drogas e armas.\n\nÁlvarez também é ligado ao assassinato, há um ano, de um prefeito popular conhecido por enfrentar o crime organizado. O cartel atua em Jalisco e Michoacán.\n\nDesde a morte do fundador do CJNG em uma operação militar em fevereiro, vários de seus principais líderes foram presos.",
-      "category": "mundo",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/mexico-captures-cjng-cartel-leader-wanted-by-us-dea-intelligence/",
-      "published_at": "2026-11-09T10:34:45-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/081d402e-e1a9-4043-87f3-b991d9a8c3dd/thumbnail/1200x630g8/c5ed2228d2992b5e245521279b283811/r2-hwow-t-w0aa0mcn.jpg"
-    },
-    {
-      "id": "mundo-menina-americana-morta-mexico-20261109-md",
-      "title": "Menina americana de 7 anos é morta por tiros de helicóptero da polícia no México",
-      "summary": "A promotoria de Tamaulipas confirmou que policiais em um helicóptero atiraram contra o carro de uma família em Matamoros, na fronteira com o Texas, matando Aranza, de 7 anos, nascida nos EUA.",
-      "highlights": [
-        "Família viajava com cinco crianças em uma caminhonete",
-        "Pai saiu do carro para dizer que eram civis",
-        "Policiais que atiraram seguem em liberdade"
-      ],
-      "body": "A violência começou após a prisão, em 29 de outubro, de um suposto líder da facção Ciclones do Cartel do Golfo, o que provocou bloqueios de ruas por homens armados na região.\n\nA mãe contou à imprensa mexicana que a família parou o veículo ao perceber que era seguida, e o marido desceu para avisar que havia crianças, mas mesmo assim foram alvejados.\n\nO procurador-geral de Tamaulipas, Jesús Govea, disse que os agentes respondiam a um suposto ataque vindo do solo e que há 'avanços significativos' na investigação.",
+      "body": "'O navio foi colocado sob arresto por ordem judicial', disse a Autoridade Marítima e Portuária de Singapura, segundo a AFP. A tripulação está sendo assistida pelos credores da embarcação, que está ancorada em águas do porto.\n\nUm escritório de advocacia de Singapura, o Helmsman LLC, aparece como solicitante do arresto, mas não está claro quem ele representa. Uma fonte disse à CBS que provavelmente é um fornecedor de combustível; a empresa deve cerca de US$ 500 mil a um fornecedor da região.\n\nO Odyssey, lançado em outubro de 2024, encerrou a viagem no mês passado no Camboja, onde os moradores do navio tiveram poucas horas para desembarcar.",
       "category": "mundo",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-girl-shot-dead-police-cartel-chase-mexico/",
-      "published_at": "2026-11-09T06:30:00-05:00",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/09/35f32866-a07f-46f9-8dde-88feeb584fd1/thumbnail/1200x630g2/d1fb2b4b0cf9d3c1f80ba8b92c849738/axel-hv1s36gxmaa9nsj.jpg"
+      "url": "https://www.cbsnews.com/news/odyssey-forever-cruise-arrested-at-singapore-port/",
+      "published_at": "2026-11-08T18:24:00-05:00",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/843ce3d8-ef58-4304-a1a0-11e05f15fb50/thumbnail/1200x630/f1373230e96edc8aae8c5ea497dbb31d/gettyimages-2301851494.jpg"
     },
     {
-      "id": "mundo-novaya-gazeta-fecha-redacao-20261109-md",
-      "title": "Novaya Gazeta, principal jornal independente da Rússia, fecha redação após três décadas",
-      "summary": "O Novaya Gazeta fechou nesta segunda-feira seus escritórios em Moscou, alegando pressão incessante do governo. Era o último grande veículo independente crítico ao Kremlin ainda ativo na Rússia.",
+      "id": "mundo-zimbabuanos-presos-ucrania-20261109-ta",
+      "title": "Nove zimbabuanos são presos na África do Sul quando tentavam ir lutar na Ucrânia",
+      "summary": "A polícia sul-africana prendeu nove cidadãos do Zimbábue, de 20 a 26 anos, que se preparavam para embarcar em voos para, supostamente, lutar na guerra entre Rússia e Ucrânia. Eles foram acusados de violar a lei contra atividade mercenária.",
       "highlights": [
-        "Jornal foi fundado em 1993",
-        "Seis de seus jornalistas foram assassinados, incluindo Anna Politkovskaya",
-        "Equipe retirou retratos dos colegas mortos da redação"
+        "Cinco presos no aeroporto OR Tambo e quatro num hotel",
+        "Operação teve participação da Interpol",
+        "Não se sabe por qual lado pretendiam lutar"
       ],
-      "body": "Em comunicado de 30 de outubro, o jornal disse que as autoridades e os serviços de segurança 'forçaram nossa equipe a encerrar as atividades'. 'Direitos humanos e liberdades foram abolidos neste país, e defendê-los agora é tratado como crime', afirmou.\n\nO Novaya Gazeta ficou conhecido por reportagens contundentes sobre abusos de direitos humanos e corrupção. Politkovskaya, que cobriu atrocidades na segunda guerra da Chechênia, foi morta a tiros em 2006.\n\nOutros veículos independentes fecharam ou se mudaram para o exterior depois que Putin enviou tropas à Ucrânia, em fevereiro de 2022.",
+      "body": "Segundo a polícia, as prisões ocorreram no domingo à noite em Johannesburgo e arredores. Todos já passaram por audiência no tribunal, segundo a promotoria. A participação da Interpol indica que eles também podem ter violado leis de seus países de origem.\n\nAs autoridades não disseram se o grupo pretendia lutar pela Rússia ou pela Ucrânia, nem quais organizações teriam facilitado a viagem. Cidadãos de vários países africanos, como Quênia, Gana e a própria África do Sul, já foram lutar pela Rússia, alguns dizendo ter sido enganados.",
       "category": "mundo",
-      "source": "Local 10 (AP)",
-      "url": "https://www.local10.com/news/world/2026/11/09/russias-top-independent-newspaper-closes-its-office-after-three-decades-citing-official-pressure/",
-      "published_at": "2026-11-09T09:09:21-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/KWO5A7UAIBFSQGOFG54EH2R7FU.jpg?auth=8c51926c1ecb235b1fe54cca276c3ba03cd6ae03d6710bc64a1542353bcc6d3f&width=700"
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
+      "published_at": "2026-11-09T07:33:24-05:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
     },
     {
-      "id": "mundo-nova-delhi-smog-diwali-20261109-md",
-      "title": "Nova Délhi amanhece coberta de smog após fogos do Diwali",
-      "summary": "Uma espessa camada de poluição cobriu a capital da Índia nesta segunda-feira, depois que fogos de artifício do Diwali agravaram a já crítica qualidade do ar. O índice passou de 350 em vários pontos, nível 'severo'.",
+      "id": "mundo-shin-bet-sem-interferencia-20261109-ta",
+      "title": "Shin Bet não encontra provas de interferência estrangeira na eleição de Israel, diz jornal",
+      "summary": "A agência de segurança interna de Israel, o Shin Bet, não encontrou provas de interferência estrangeira nas eleições de outubro, apesar das alegações de seu chefe, David Zini, e do premiê Benjamin Netanyahu, segundo o jornal Haaretz. A investigação continua.",
       "highlights": [
-        "Suprema Corte só permitia 'fogos verdes' em janelas de 3 horas",
-        "Visibilidade caiu com névoa cinza sobre a cidade",
-        "Moradores relatam irritação na garganta e nos olhos"
+        "Não há indício de repasse da Autoridade Palestina a partidos árabes",
+        "Catar nega qualquer interferência",
+        "Partidos árabes conquistaram 19 cadeiras"
       ],
-      "body": "Apesar das restrições, moradores celebraram o festival hindu das luzes com fogos no domingo à noite, liberando fumaça e partículas finas na atmosfera.\n\nEm outubro, a Suprema Corte indiana restringiu os fogos convencionais e liberou apenas os 'fogos verdes' aprovados, por três horas no sábado e no domingo. Eles emitem menos, mas ainda poluem.\n\n'Por causa da poluição, a garganta fica irritada e os olhos coçam', disse um morador à reportagem.",
+      "body": "Dois altos funcionários disseram ao Haaretz que a apuração não achou provas de que centenas de milhares de shekels tenham sido transferidos da Autoridade Palestina para partidos liderados por árabes em Israel. Também não há transferências do Catar ou de outro país árabe sob investigação, apesar das acusações do Likud, partido de Netanyahu, feitas sem provas concretas.\n\nAs alegações ganharam força depois do bom desempenho dos partidos liderados por cidadãos palestinos de Israel na eleição de 27 de outubro. As 19 cadeiras conquistadas permitem que os partidos judeus de oposição tenham votos para tirar Netanyahu do poder, se aceitarem trabalhar com eles.\n\nO Catar nega todas as acusações e as chama de infundadas. O presidente Isaac Herzog encarregou o oposicionista Gadi Eisenkot de fazer a primeira tentativa de formar governo.",
       "category": "mundo",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
-      "published_at": "2026-11-09T10:09:00-05:00",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8246x4638+0+429/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fa0%2F9498db764f74bf5081bd7fb99824%2Fap26313155738342.jpg"
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report",
+      "published_at": "2026-11-09T11:18:28-05:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T055459Z_672279811_RC2HBOATHTNI_RTRMADP_3_ISRAEL-ELECTION-1793603109.jpg?resize=1920%2C1440"
     },
     {
-      "id": "mundo-teddy-riner-presidente-franca-20261109-md",
-      "title": "Astro do judô Teddy Riner anuncia candidatura à Presidência da França",
-      "summary": "O multicampeão olímpico Teddy Riner, de 37 anos, anunciou nas redes sociais que vai concorrer à Presidência da França em 2027. Ele se apresenta como 'nem de direita nem de esquerda'.",
+      "id": "weston-interdicoes-i595-semana-20261109-ta",
+      "title": "Interdições da semana: faixas da I-595 fecham à noite perto da Hiatus Road",
+      "summary": "Três faixas internas da I-595 sentido leste, perto da Hiatus Road, ficam fechadas todas as noites, das 21h às 4h, até sexta-feira, 13 de novembro. O FDOT não prevê fechamento da alça da I-75 para a Royal Palm Boulevard nesta semana.",
       "highlights": [
-        "Riner é uma das figuras públicas mais queridas da França",
-        "Defende ideias econômicas liberais",
-        "Campanha ocorre em clima de protestos no país"
+        "Fechamento noturno vai de domingo (8) a sexta (13)",
+        "Pintura de faixas na I-595 começa em 15 de novembro",
+        "Cidade ainda prevê datas reserva para a alça da Royal Palm"
       ],
-      "body": "Em entrevista ao Le Parisien, Riner disse que quer ser 'um presidente que une as pessoas'. Questionado se deve ser levado a sério, respondeu que 'irresponsável seria ficar calado e assistir como espectador ao que acontece no país'.\n\nHá semanas, grandes marchas tomam Paris e outras cidades, com manifestantes pedindo salários mais altos e apoiando o movimento estudantil, o que aumenta a pressão sobre o governo.\n\n'A França é um grande país. Permitiu que eu me tornasse quem sou hoje', disse o judoca.",
-      "category": "mundo",
-      "source": "Local 10 (AP)",
-      "url": "https://www.local10.com/sports/2026/11/09/judo-star-teddy-riner-announces-a-run-for-french-president-pledging-to-bring-people-together/",
-      "published_at": "2026-11-09T07:44:36-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/PZ6QLKY7P4XKPUZPFANQPZT6W4.jpg?auth=ddde2d2ce6277e795297f4b56eeec2917ef693e74bc86f0a1cfc812f8ca0fa52&width=700"
-    },
-    {
-      "id": "weston-festival-filmes-estrangeiros-20261109-md",
-      "title": "Série de filmes estrangeiros de Weston estreia hoje com 'Calle Málaga'",
-      "summary": "A nova temporada da Weston Foreign Film Series, do Arts Council of Greater Weston, começa nesta segunda-feira com o espanhol 'Calle Málaga'. As sessões são às 16h45 e 19h30 no AMC Weston 8.",
-      "highlights": [
-        "Ingresso avulso custa US$ 10 na porta",
-        "Pacote da temporada (nov. a abr.) sai por US$ 48",
-        "Filme tem 116 minutos, em espanhol com legendas em inglês"
-      ],
-      "body": "O filme se passa em Tânger: uma senhora espanhola luta para manter sua casa e, no caminho, redescobre o amor. É o título de abertura da temporada 2026-27, que terá um filme por mês até abril.\n\nO pacote da temporada é vendido em 1Weston.com, no Weston Community Center e pela Weston Friends of the Library. Ingressos avulsos dependem de disponibilidade.\n\nO AMC Weston 8 fica na SW 160th Avenue, com endereço postal de Sunrise. A organização recomenda confirmar o local na agenda da Prefeitura de Weston.",
+      "body": "Segundo o relatório semanal do FDOT para Broward, as três faixas internas da I-595 leste, cerca de 800 metros a leste da Hiatus Road, fecham das 21h às 4h. Também pode haver fechamento de uma faixa na I-75 entre a Griffin Road e a SW 14th Street e na Royal Palm Boulevard junto à I-75, das 21h às 6h, de domingo a quinta.\n\nA alça da I-75 sul para a Royal Palm Boulevard oeste não aparece no relatório desta semana, mas o aviso da prefeitura ainda cita de 9 a 12 de novembro como datas reserva. Se fechar, o desvio será pela Griffin Road oeste, Weston Road norte e Royal Palm Boulevard oeste.\n\nA partir de domingo, 15 de novembro, o FDOT fará pintura de faixas na I-595 entre a I-75 e a SW 136th Avenue em noites selecionadas até 19 de novembro, sem trabalhos no feriado de Ação de Graças.",
       "category": "weston",
-      "source": "Weston Together",
-      "url": "https://explore.westontogether.com/2026/11/9/647114/weston-foreign-film-series-calle-malaga-spain/",
-      "published_at": "2026-11-09T00:00:00-05:00",
-      "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2025/12/cropped-Weston-Together-Logo_Color.png"
+      "source": "Weston Journal",
+      "url": "https://westonjournal.com/road-construction-and-closures/",
+      "published_at": "2026-11-08T00:00:00-05:00",
+      "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
     },
     {
-      "id": "miami-juiz-mantem-supervisora-recontagem-20261109-md",
-      "title": "Juiz mantém supervisora eleitoral de Miami-Dade na recontagem do Distrito 27",
-      "summary": "O juiz federal David Leibowitz negou nesta segunda-feira o pedido da campanha do democrata Eliott Rodriguez para afastar a supervisora eleitoral Alina García da recontagem. O juiz chamou de 'realmente burra' uma declaração dela, mas disse que não há provas suficientes.",
+      "id": "weston-escolas-apoio-psicologico-20261109-ta",
+      "title": "Escolas públicas de Weston oferecem apoio psicológico gratuito a alunos",
+      "summary": "As escolas públicas de ensino médio do condado de Broward em Weston oferecem programas gratuitos de apoio psicológico para lidar com estresse acadêmico e com a adaptação de adolescentes de famílias imigrantes, segundo reportagem do 2001 Online.",
       "highlights": [
-        "Salazar lidera por 0,46 ponto percentual",
-        "García disse que Salazar 'é a vencedora, com ou sem recontagem'",
-        "Republicanos comemoraram a decisão"
+        "Cypress Bay conta com terapeutas familiares",
+        "Equipes de crise (MHAART) atendem casos no colégio",
+        "Linha 988 atende 24h, inclusive em espanhol"
       ],
-      "body": "Segundo o Miami Herald, García afirmou que era 'possível, mas não provável' que a recontagem desse a vitória a Rodriguez. O advogado J.C. Planas, que perdeu a eleição para supervisor para García, representou Rodriguez na audiência.\n\nLeibowitz, nomeado por Joe Biden, também chamou a declaração de 'estúpida', mas decidiu que ela não basta para tirar García da junta de apuração do condado.\n\nO presidente do Partido Republicano de Miami-Dade, Kevin Cooper, elogiou a decisão: 'Contem cada voto legal, sigam a lei e deixem nossos profissionais eleitorais trabalharem sem intimidação política'.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/news/politics/2026/11/09/federal-judge-denies-request-to-remove-miami-dade-supervisor-of-elections-from-recount-in-congressional-race/",
-      "published_at": "2026-11-09T10:58:04-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/NGR3GCUQHBEYRFMK76FG7RGGVA.jpeg?auth=c19e56c60d007273dc7776d940cb8eab527d70909f85690d43e44abdf4a97bd1&width=700"
+      "body": "Segundo a reportagem, com base no guia de saúde mental do distrito escolar de Broward (BCPS), escolas de alta exigência como a Cypress Bay High School têm terapeutas familiares que acompanham alunos e famílias de forma confidencial, e as consultas podem ser pedidas durante o horário escolar sem custo.\n\nCada escola tem orientadores para cuidar da carga acadêmica, prevenir o bullying e encaminhar casos vulneráveis, além das equipes regionais de resposta a crises. Os alunos também têm acesso a ferramentas de bem-estar pela plataforma Clever.\n\nFora da escola, os moradores podem ligar para a linha nacional 988, 24 horas e com atendimento em espanhol, e para a rede 2-1-1 de Broward, que indica terapeutas bilíngues. Os pais devem marcar avaliações com o departamento de orientação da escola.",
+      "category": "weston",
+      "source": "2001 Online",
+      "url": "https://2001online.com/usa/servicios/escuelas-de-weston-activan-apoyo-psicologico-gratuito-aprende-a-solicitar-atencion-para-tus-hijos-202611522220",
+      "published_at": "2026-11-08T15:00:17-05:00",
+      "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg"
     },
     {
-      "id": "miami-homestead-preso-morte-bebe-carro-20261109-md",
-      "title": "Preso homem acusado de deixar bebê de 1 ano no carro em Homestead",
-      "summary": "A polícia de Homestead prendeu Keyner Vázquez de León, de 22 anos, pela morte de uma menina de 1 ano deixada dentro do carro dele no sábado. Uma juíza negou fiança nesta segunda-feira.",
+      "id": "miami-recontagem-distrito-27-20261109-ta",
+      "title": "Começa a recontagem da disputa entre Salazar e Eliott Rodriguez no Distrito 27",
+      "summary": "A recontagem da disputa pela vaga do 27º Distrito Congressional da Flórida, entre a deputada republicana María Elvira Salazar e o democrata Eliott Rodriguez, começou nesta segunda-feira em Doral. Pouco antes, um juiz negou o pedido para afastar a supervisora eleitoral do processo.",
       "highlights": [
-        "Acusações incluem homicídio culposo agravado de menor",
-        "Criança teria ficado no carro das 9h às 15h",
-        "Ele lavava carros em frente de casa enquanto ela estava no veículo"
+        "Recontagem foi ordenada pelo secretário de Estado da Flórida",
+        "Rodriguez é ex-âncora da CBS News Miami",
+        "Distrito inclui partes de Miami, Coral Gables, Kendall e Key Biscayne"
       ],
-      "body": "Segundo o boletim, ele buscou a criança às 6h45 para levá-la à babá, mas antes deixou outra pessoa no trabalho. Por volta das 9h, voltou para casa, desligou o carro e entrou sem a menina.\n\nPor volta das 15h, a mãe ligou perguntando pela filha, e só então ele percebeu que ela continuava no carro. Encontrou-a sem reação, levou a cadeirinha para dentro de casa e chamou o socorro.\n\nEle responde ainda por deixar criança sozinha em veículo e por negligência com lesão corporal grave.",
-      "category": "miami",
-      "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/local/miami-dade/man-arrested-toddler-car-death/",
-      "published_at": "2026-11-09T10:17:28-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261109_Keyner_Vazquez_de_Leon_mugshot.png"
-    },
-    {
-      "id": "miami-turnpike-tanque-capotado-20261109-md",
-      "title": "Caminhão-tanque capota e fecha a Turnpike; trânsito para até Broward",
-      "summary": "Um caminhão-tanque saiu da Florida's Turnpike em Boca Raton e capotou nesta segunda-feira, fechando a pista norte. Para conter o congestionamento, a rodovia foi bloqueada já na altura da Sawgrass Expressway, em Broward.",
-      "highlights": [
-        "Cerca de 100 galões de combustível vazaram",
-        "Acidente envolveu vários veículos",
-        "Lentidão chegou à região da Atlantic Boulevard"
-      ],
-      "body": "Segundo a Patrulha Rodoviária da Flórida, o semirreboque desceu o barranco e virou. Os bombeiros de Palm Beach ajudam a coordenar a ocorrência e a limpeza.\n\n'Há uma quantidade incrível de caminhões de bombeiros tentando descobrir como limpar tudo e fazer o trânsito andar de novo', relatou o repórter Austin Carter, da CBS News Miami.\n\nA emissora alertou que a interdição pode durar bastante tempo, e havia lentidão intensa em toda a região.",
+      "body": "A campanha de Rodriguez queria que a supervisora eleitoral de Miami-Dade, Alina Garcia, deixasse a junta apuradora, citando declarações em que ela teria apontado a deputada como vencedora e um suposto vínculo familiar com o advogado da outra campanha. O juiz negou o pedido.\n\nSegundo comunicado do escritório de Garcia, a recontagem começou às 10h na sede do órgão, na Northwest 87th Avenue, em Doral. Garcia é uma dos três membros da junta.\n\nSalazar, ex-jornalista de TV, representa o distrito desde 2021. Rodriguez entrou na política em 2026, depois de quase cinco décadas na TV, 25 anos delas na CBS News Miami.",
       "category": "miami",
       "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/tanker-crash-on-floridas-turnpike-leads-to-traffic-nightmare-across-broward/",
-      "published_at": "2026-11-09T08:32:00-05:00",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/09/c2e47664-763f-4c4b-862a-fc2b440654a1/thumbnail/1200x630/6ddfe066a79fd6e11498e865893c6cb6/snapshot.jpg"
+      "url": "https://www.cbsnews.com/miami/news/florida-congressional-district-27-lawsuit-recount-11-8-2026/",
+      "published_at": "2026-11-09T14:01:00-05:00",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/db688205-3b01-4578-9998-996fefba0caf/thumbnail/1200x630/5ebc32395259dd0218cedc84914687f3/eliott-rodriguez-lawsuit-maria-elvira-salazar-alina-garcia.png"
     },
     {
-      "id": "miami-frente-fria-fim-de-semana-20261109-md",
-      "title": "Ar mais frio desde março chega ao sul da Flórida no fim de semana",
-      "summary": "Uma frente fria deve trazer neste fim de semana mínimas entre 14°C e 16°C (upper 50s e low 60s °F) ao sul da Flórida, as mais baixas desde 22 de março. Até lá, o calor continua, com máximas perto de 30°C.",
+      "id": "miami-wynwood-motorista-arma-20261109-ta",
+      "title": "Motorista aponta arma para mulher em briga de trânsito em Wynwood, diz polícia",
+      "summary": "A polícia de Miami prendeu Tre Najai Spadoni, de 31 anos, acusado de apontar uma arma para uma mulher e bater com a picape na porta do carro dela durante uma briga de trânsito em Wynwood. Ele voltou a ameaçá-la enquanto ela ligava para o 911.",
       "highlights": [
-        "Pancadas isoladas possíveis nesta segunda e no feriado de quarta",
-        "Aviso de inundação costeira leve na maré alta",
-        "Máximas de apenas ~24°C no sábado e domingo"
+        "Caso ocorreu por volta das 20h de sábado",
+        "Motorista gritou 'sai do telefone' com a arma apontada",
+        "Testemunha confirmou o relato da vítima"
       ],
-      "body": "A equipe da CBS Miami prevê um dia quente nesta segunda, com máximas entre os 80 e poucos e os altos 80 °F e chuvas esparsas. O Serviço Nacional de Meteorologia emitiu um comunicado de inundação costeira leve nos horários de maré alta.\n\nNa quarta-feira, Dia dos Veteranos, há chance de chuvas passageiras. O fim da semana segue quente, com possibilidade de pancadas e tempestades antes da chegada da frente.\n\nNo sábado e no domingo, as máximas devem ficar em meados dos 70 °F, com pouca chance de chuva. O risco de correntes de retorno nas praias do Atlântico é baixo.",
-      "category": "miami",
-      "source": "CBS News Miami",
-      "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-november-9-2026/",
-      "published_at": "2026-11-09T10:28:12-05:00",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/c64fbbd5-ad53-4715-a051-6d56b5e3fbef/thumbnail/1200x630/4c8dbb5affcf2a76d3835fd6214d41da/auto-highs-next-7-days.png"
-    },
-    {
-      "id": "miami-fort-lauderdale-roubo-celulares-20261109-md",
-      "title": "Fort Lauderdale lidera o país em roubos de celular, diz FBI",
-      "summary": "Dados novos do FBI apontam Fort Lauderdale como a cidade com a maior taxa de roubos de celular dos EUA. Foram cerca de 480 casos por 100 mil habitantes em 2025.",
-      "highlights": [
-        "Taxa é mais de 3,5 vezes a média nacional (137)",
-        "Baltimore e Atlanta vêm em seguida",
-        "Wichita e Little Rock completam o top 5"
-      ],
-      "body": "Segundo a WSVN, a cidade do condado de Broward registrou cerca de 480 roubos por 100 mil moradores em 2025, bem acima da média nacional de 137.\n\nCompletam a lista das cinco cidades com mais roubos de celular Baltimore (Maryland), Atlanta (Geórgia), Wichita (Kansas) e Little Rock (Arkansas).",
+      "body": "Segundo o boletim de prisão, a mulher dirigia perto da Northwest Fifth Avenue com a 27th Street quando uma picape branca virou bruscamente na frente dela. Ela parou e desceu para tirar satisfação; uma amiga avisou que o motorista tinha uma arma, e ela viu o cano apontado pelo para-brisa. O motorista então bateu de propósito na porta aberta do carro dela e fugiu.\n\nA mulher seguiu a picape para anotar a placa e parou num estacionamento perto da North Miami Avenue com a Northwest 37th Street para ligar para o 911. O motorista emparelhou, apontou uma pistola preta e gritou 'sai do telefone'. Ela fugiu pela porta do passageiro e depois chamou um policial que chegava ao local.",
       "category": "miami",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/us-world/fort-lauderdale-highest-phone-thefts/",
-      "published_at": "2026-11-09T09:17:22-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11926-Fort-Lauderdale-leading-the-nation-in-phone-thefts.png"
+      "url": "https://wsvn.com/news/local/wynwood-traffic-confrontation-arrest/",
+      "published_at": "2026-11-09T12:38:29-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Tre-Spadoni.png"
     },
     {
-      "id": "miami-alpha-miami-escola-ia-20261109-md",
-      "title": "Escola em Miami-Dade aposta em tutores de IA e não tem professores tradicionais",
-      "summary": "A Alpha Miami, no sudoeste de Miami-Dade, adota um modelo em que alunos estudam com tutores de inteligência artificial em sessões concentradas de duas horas. O resto do dia é dedicado a oficinas com 'guias' humanos.",
+      "id": "miami-messi-chuteira-de-ouro-20261109-ta",
+      "title": "Messi conquista a Chuteira de Ouro da MLS pela segunda vez seguida",
+      "summary": "Lionel Messi ganhou a Chuteira de Ouro da MLS de 2026, com 26 gols, e se tornou o primeiro jogador a vencer o prêmio em temporadas consecutivas. O astro do Inter Miami pode ainda virar o primeiro tricampeão do prêmio de MVP da liga nesta segunda à noite.",
       "highlights": [
-        "Escola fica na 8000 SW 56th St.",
-        "Oficinas incluem oratória, educação financeira e resiliência",
-        "Direção diz que é o que os pais pediam"
+        "26 gols e 17 assistências na temporada",
+        "Superou Peter Musa (22) e Sam Surridge (21)",
+        "Inter Miami enfrenta o Columbus Crew nos playoffs"
       ],
-      "body": "Depois das duas horas de conteúdo acadêmico com IA, os guias conduzem atividades sobre falar em público, trabalho em equipe e persistência.\n\n'Quando ouvem que as crianças podem fazer a parte acadêmica em duas horas e o resto do dia aprender educação financeira, socialização e resiliência, os pais dizem: é isso que queríamos', afirmou Heather McMahan, responsável pela relação com as famílias.\n\nA proposta é que os estudantes sejam autônomos; os guias ajudam a definir e acompanhar metas. 'Sou o maior torcedor deles quando atingem seus objetivos', disse o guia Santi Orozco.",
+      "body": "Messi também liderou a liga com 43 participações em gols. Ele se torna o sexto jogador a ganhar a Chuteira de Ouro duas vezes, ao lado de Bradley Wright-Phillips, Chris Wondolowski, Jeff Cunningham, Taylor Twellman e Preki. Em 2025, havia marcado 29 gols e dado 19 assistências.\n\nO prêmio vem meses depois de ele ganhar a Chuteira de Prata na Copa do Mundo de 2026, quando levou a Argentina à final; Messi deixou a seleção neste ano. O MVP Landon Donovan da MLS será anunciado às 20h (horário de Nova York).\n\nO Inter Miami, segundo cabeça de chave, enfrenta o Columbus Crew, sétimo, numa série melhor de três na primeira rodada dos playoffs da MLS Cup.",
       "category": "miami",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/news/us-world/ai-school-opens-sw-miami-dade/",
-      "published_at": "2026-11-09T09:09:01-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/110926-alpha-school-ai.png"
+      "url": "https://wsvn.com/sports/inter-miami-cf/messi-wins-consecutive-mls-golden-boot/",
+      "published_at": "2026-11-09T12:34:52-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-31-at-10.26.11-AM.png"
     },
     {
-      "id": "miami-hialeah-mae-morde-orelha-20261109-md",
-      "title": "Mãe é presa acusada de morder a orelha do filho em mercado de Hialeah",
-      "summary": "Uma mulher de 43 anos responde a duas acusações de abuso infantil depois que, segundo a polícia de Hialeah, atacou os dois filhos pequenos dentro de um mercado. Ela teria mordido a orelha do mais novo.",
+      "id": "miami-miami-all-star-nba-2028-20261109-ta",
+      "title": "Miami vai sediar o All-Star Weekend da NBA em 2028, diz fonte",
+      "summary": "A NBA planeja um evento em 30 de novembro para anunciar Miami como sede do All-Star Weekend de 2028, segundo uma fonte ouvida pela AP. Será a primeira vez desde 1990 que a cidade recebe o evento.",
       "highlights": [
-        "Caso ocorreu no Fatty's Market, na Palm Ave.",
-        "Crianças têm cerca de 3-4 e 6-7 anos",
-        "Fiança foi fixada em US$ 5 mil"
+        "Escolha teria sido feita 'há vários meses'",
+        "Logo já aprovado e logística adiantada",
+        "Parte dos eventos pode ser na arena da Universidade de Miami"
       ],
-      "body": "Segundo o boletim, Madelien Inurrieta-Martinez sentou-se sobre caixas de bebidas, puxou o filho mais velho com força pelas orelhas e pelos cabelos e depois agarrou o mais novo pelas orelhas antes de morder sua orelha direita.\n\nJá fora da loja, ela teria batido no rosto dos dois ao mesmo tempo. O caso foi na quinta-feira, e ela foi localizada e presa na sexta.\n\nAté a manhã desta segunda, ela estava no centro correcional Turner Guilford Knight.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/news/local/2026/11/09/mother-accused-of-abuse-including-biting-sons-ear-at-hialeah-food-store/",
-      "published_at": "2026-11-09T11:01:21-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/SP4JTIPP4NBELFEFL6SDB3UBVQ.png?auth=d205ebeed823661d86d51e6ce2e3c9d4a543c23870f7766ce31b449a6e70a8ca&width=700"
-    },
-    {
-      "id": "miami-dirty-dining-baratas-insetos-20261109-md",
-      "title": "Insetos e baratas fecham restaurantes em Miami, Coral Gables e Fort Lauderdale",
-      "summary": "A lista semanal 'Dirty Dining' da Local 10 traz uma padaria de bagels em Miami fechada pela terceira vez por insetos e baratas em restaurantes de Coral Gables, Key West e Fort Lauderdale.",
-      "highlights": [
-        "Bagel Express tinha cerca de 144 insetos voadores",
-        "Eating House, em Coral Gables, tinha mais de 30 baratas num forno",
-        "Em Key West, havia uma galinha viva no salão"
-      ],
-      "body": "Na Bagel Express, em Miami, fiscais contaram aproximadamente 144 insetos voadores pousando em pratos, talheres e equipamentos. O local já havia sido fechado em agosto e setembro pelo mesmo motivo.\n\nNo Eating House, em Coral Gables, foram encontradas mais de 30 baratas vivas numa gaveta do forno, além de ovos e uma substância parecida com mofo na máquina de gelo. No Ocean Grill, em Key West, havia baratas nos fornos e uma galinha viva andando pelo salão.\n\nEm Fort Lauderdale, o Dasara Indian Cuisine teve venda suspensa por manter alimentos em temperatura inadequada, e o Cuisine Lakay foi autuado por fezes de roedores na cozinha.",
-      "category": "miami",
-      "source": "Local 10",
-      "url": "https://www.local10.com/food/dirty-dining/2026/11/09/bagel-spot-cant-get-rid-of-their-insects-plus-roaches-in-coral-gables-and-fort-lauderdale-eateries-force-closures/",
-      "published_at": "2026-11-09T10:21:59-05:00",
-      "image_url": "https://www.local10.com/resizer/v2/ALVMSSFHZFG7ZKBXXH6IM6O5OA.png?auth=ca3ea4c2328379ddfe6ad885a58880cf665f31aa6aa912fddd8402c60840e319&width=700"
-    },
-    {
-      "id": "miami-belen-corredor-mantecon-20261109-md",
-      "title": "Melhor corredor de cross-country do país, Marcelo Mantecón busca 3º título estadual pelo Belen",
-      "summary": "Marcelo Mantecón, do Belen Jesuit Prep, é o número 1 do ranking nacional de cross-country masculino do ensino médio. Ele acaba de levar a escola ao 23º título distrital seguido e busca o tricampeonato estadual nos 5 km.",
-      "highlights": [
-        "Treina com o mesmo técnico desde o ensino fundamental",
-        "Pais também foram corredores competitivos",
-        "'Correr me faz feliz', diz o atleta"
-      ],
-      "body": "'Estou sempre pronto para tudo e sempre tenho uma marcha extra', disse Mantecón à WSVN.\n\nO técnico Frankie Ruiz diz que todos querem derrotar o campeão: 'Em cada prova alguém espera que você tenha um dia ruim, e o alvo nas suas costas só aumenta'.\n\n'Sinto que estou em outro mundo. Gosto de testar até onde consigo levar meu corpo', afirmou o corredor.",
+      "body": "O comissário Adam Silver e o dono do Miami Heat, Micky Arison, devem participar do anúncio, segundo a fonte, que pediu anonimato porque nenhum dos lados divulgou detalhes. A data de 30 de novembro ainda pode mudar.\n\nO intervalo de quase 40 anos se deve sobretudo a conflitos de calendário: o All-Star costuma coincidir com um grande salão náutico em Miami, e havia a avaliação de que faltariam hotéis e espaço para os dois eventos ao mesmo tempo.\n\nSe LeBron James, que jogou quatro temporadas no Heat e ganhou lá dois títulos, jogar em 2027-28 o que seria sua 25ª e provavelmente última temporada, seu último All-Star seria em Miami.",
       "category": "miami",
       "source": "WSVN 7News",
-      "url": "https://wsvn.com/sports/matecone-belen-jesuit-cross-country/",
-      "published_at": "2026-11-09T09:34:09-05:00",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/11926-Nations-top-high-school-cross-country-runner-Marcelo-Matecone-eyeing-third-state-title-with-Belen-Jesuit-Preparatory-School.png"
+      "url": "https://wsvn.com/sports/nba-announces-miami-allstar-weekend/",
+      "published_at": "2026-11-09T14:31:10-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2024/07/NBA-BASKETBALL-LOGO.jpg?quality=60&strip=color"
     },
     {
-      "id": "tecnologia-megaspeed-nvidia-huang-20261109-md",
-      "title": "O que é a Megaspeed, compradora de chips da Nvidia no centro do caso Jensen Huang",
-      "summary": "A empresa de computação em nuvem Megaspeed, de Singapura, ganhou os holofotes depois que o CEO da Nvidia, Jensen Huang, admitiu infidelidade após reportagens ligá-lo à executiva Alice Huang. Segundo o New York Times, a inteligência americana a considera um ativo chinês.",
+      "id": "miami-esfaqueamento-nw-miami-dade-20261109-ta",
+      "title": "Homem é esfaqueado e fica em estado crítico no noroeste de Miami-Dade",
+      "summary": "Um homem foi levado ao hospital em estado crítico depois de ser esfaqueado na área do bloco 18900 da Northwest 57th Avenue, no noroeste de Miami-Dade, segundo o Gabinete do Xerife. Ninguém foi preso.",
       "highlights": [
-        "Conselho da Nvidia abriu investigação independente",
-        "Nvidia diz não ter motivo para crer em vazamento de segredos",
-        "Megaspeed vende poder computacional para IA na Ásia-Pacífico"
+        "Caso ocorreu nesta segunda-feira",
+        "Vítima tinha um ferimento aparente de faca",
+        "Investigação está em andamento"
       ],
-      "body": "Huang não citou a Megaspeed nem Alice Huang em seu comunicado, mas reconheceu a traição e disse apoiar a investigação sobre 'as preocupações de segurança nacional levantadas nas reportagens'. 'Amo nosso país e nossa empresa', afirmou.\n\nA Nvidia disse não ter 'razão para acreditar que a segurança nacional ou segredos da Nvidia foram comprometidos', mas que o conselho vai examinar todas as informações disponíveis.\n\nA Megaspeed vende acesso a grande capacidade de computação, geralmente para projetos de IA, a empresas da região Ásia-Pacífico. A Nvidia, que tem Microsoft, Amazon, Google, Meta e Oracle como clientes, chegou a valer US$ 5 trilhões neste ano.",
-      "category": "tecnologia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
-      "published_at": "2026-11-09T05:35:23-05:00",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108546282-1794232599187-2026-11-09T115214Z_950371170_RC2AKOA0JNIJ_RTRMADP_3_NVIDIA-PROBE-CEO.JPG?v=1794232610&w=1920&h=1080"
+      "body": "Segundo o Gabinete do Xerife de Miami-Dade, os agentes foram chamados após relatos de um esfaqueamento e encontraram no local um homem com um ferimento aparente de faca.\n\nEle foi levado ao hospital em estado crítico. Até a última atualização, não havia presos, e a investigação continuava.",
+      "category": "miami",
+      "source": "NBC 6",
+      "url": "https://www.nbcmiami.com/news/local/man-in-critical-condition-after-being-stabbed-in-nw-miami-dade-deputies-say/3885548/",
+      "published_at": "2026-11-09T08:37:53-05:00",
+      "image_url": "https://media.nbcmiami.com/2026/11/52564782413-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "id": "tecnologia-tesla-cybertruck-devolve-reservas-20261109-md",
-      "title": "Musk diz que Tesla vai devolver reservas do Cybertruck e defende fim da produção",
-      "summary": "Elon Musk afirmou no X que a Tesla encerra a produção do Cybertruck em cerca de oito meses e terá de 'devolver depósitos de muita gente'. Segundo ele, a picape dá lucro, mas a fábrica renderá mais produzindo o robotáxi Cybercab.",
+      "id": "miami-dolphins-juventude-desculpa-20261109-ta",
+      "title": "Dolphins, com 1-7, cansam de usar a juventude como desculpa",
+      "summary": "O Miami Dolphins, elenco mais jovem da NFL, perdeu de 19 a 9 para o Detroit no domingo e caiu para 1 vitória e 7 derrotas. Jogadores dizem estar cansados de justificar os resultados pela pouca idade do time.",
       "highlights": [
-        "Musk diz que pedidos superam muito a produção",
-        "Estimativa é de cerca de 71 mil Cybertrucks vendidos",
-        "Reservas chegaram a 1 milhão, segundo Musk"
+        "11 faltas para 87 jardas na partida",
+        "Zero de três na red zone",
+        "Defesa segurou o ataque nº 1 da liga até o 3º quarto"
       ],
-      "body": "Musk argumentou que 'o custo de oportunidade da complexidade do Cybertruck é amplamente superado pelo valor da produção adicional do Cybercab', o robotáxi de dois lugares. A Tesla tentará fabricar o máximo de picapes possível até o fim da linha.\n\nAs primeiras entregas foram no fim de 2023, e Musk chegou a prever vendas de cerca de 250 mil unidades por ano. As reservas, porém, nunca se converteram em vendas na mesma escala.\n\nA Tesla não divulga vendas do modelo, mas especialistas estimam cerca de 71 mil unidades desde novembro de 2023, segundo o TechCrunch.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-      "published_at": "2026-11-09T08:43:28-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800"
+      "body": "'Queremos vencer. É frustrante chegar tão perto e todo mundo continuar dando desculpa: jovens, jovens. Somos profissionais. Isso de novato já era', disse o recebedor novato Kevin Coleman Jr. após a derrota.\n\nA juventude tem pesado na dificuldade de fechar jogos: na 8ª semana, o time desperdiçou uma vantagem de 10 pontos contra os Patriots. Contra Detroit, os Dolphins seguraram o ataque mais bem ranqueado da NFL só a field goals até o terceiro quarto, mas cometeram 11 faltas e não pontuaram em nenhuma das três idas à red zone.",
+      "category": "miami",
+      "source": "WSVN 7News",
+      "url": "https://wsvn.com/sports/miami-dolphins/dolphins-are-tired-of-using-youth-as-an-excuse-after-falling-short-in-another-close-game/",
+      "published_at": "2026-11-09T14:38:41-05:00",
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/05/051026-dolphins-logo.png"
     },
     {
-      "id": "tecnologia-waymo-onibus-escolar-investigacao-20261109-md",
-      "title": "Robotáxis da Waymo continuaram ultrapassando ônibus escolares após correção, diz governo",
-      "summary": "A agência federal de segurança no trânsito (NHTSA) abriu nova investigação sobre a Waymo depois de constatar que a maioria dos casos de robotáxis passando ilegalmente por ônibus escolares parados ocorreu após a atualização que deveria corrigir o problema.",
+      "id": "tecnologia-anthropic-fable-mythos-52-20261109-ta",
+      "title": "Anthropic lança os modelos Claude Fable 5.2 e Mythos 5.2",
+      "summary": "A Anthropic anunciou o Claude Fable 5.2 e o Claude Mythos 5.2, que segundo a empresa melhoram em programação, raciocínio e visão e respondem mais rápido que as versões 5.1. O Fable 5.2 já está disponível; o Mythos 5.2 começa restrito a organizações selecionadas.",
       "highlights": [
-        "Correção de software foi concluída em 17/11/2025",
-        "NHTSA quer avaliar se o recall foi adequado",
-        "Casos foram registrados em Atlanta e Austin"
+        "Fable 5.2 coordena equipes de agentes e projetos longos",
+        "Empresa diz que modelos resolveram dois problemas abertos de física",
+        "Versões 5.1 tinham saído em setembro"
       ],
-      "body": "Quase um ano atrás, a Waymo fez um recall e atualizou seu software após vários relatos de veículos ultrapassando ônibus com luzes vermelhas piscando e placa de 'pare' estendida. O registro da NHTSA, de 6 de novembro, foi revelado pela Reuters.\n\nA investigação inicial começou em outubro de 2025, após um vídeo em Atlanta mostrar um robotáxi contornando pela frente um ônibus que desembarcava crianças.\n\nOutros incidentes foram documentados em Austin, onde a Waymo também opera.",
-      "category": "tecnologia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-      "published_at": "2026-11-09T10:24:59-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800"
-    },
-    {
-      "id": "tecnologia-apple-lojas-assinaturas-sem-consentimento-20261109-md",
-      "title": "Funcionários da Apple são acusados de inscrever clientes em assinaturas sem consentimento",
-      "summary": "O técnico e ativista Louis Rossmann acusou funcionários de lojas da Apple de ativar testes de assinaturas pagas para clientes sem consentimento informado. Segundo o 9to5Mac, a Apple tomou duas medidas indicando que leva a denúncia a sério.",
-      "highlights": [
-        "Funcionários teriam meta de 40% de adesão",
-        "Ofertas aparecem no aparelho do vendedor, não do cliente",
-        "Testes grátis passam a ser cobrados se não cancelados"
-      ],
-      "body": "Segundo Rossmann, clientes que aceitavam um atendimento personalizado viam os testes gratuitos de serviços disponíveis após compras, como os três meses de Apple TV incluídos na compra de um iPhone.\n\nO problema, diz ele, é que as ofertas aparecem no dispositivo do funcionário, e um integrante da equipe relatou que alguns apertavam 'Aceitar' sem obter o consentimento adequado, pressionados por metas.\n\nRossmann é especialista em reparo de placas e ficou conhecido como defensor do direito ao conserto, legislação que a Apple inicialmente combateu e depois apoiou.",
-      "category": "tecnologia",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds/",
-      "published_at": "2026-11-09T07:14:40-05:00",
-      "image_url": null
-    },
-    {
-      "id": "tecnologia-iphone-18-vazamento-20261109-md",
-      "title": "Vazamento detalha iPhone 18 e iPhone 18e previstos para o início de 2027",
-      "summary": "Um vazamento publicado no Weibo indica que o iPhone 18 e o iPhone 18e terão especificações mais parecidas do que nunca, incluindo a mesma bateria de 4.430 mAh e telas de 6,3 polegadas. A Apple também deve lançar o iPhone Air 2.",
-      "highlights": [
-        "Câmera principal do iPhone 18 segue com 48 MP",
-        "Ultra-angular continua exclusiva do iPhone 18",
-        "iPhone 18e pode trocar o notch pela Dynamic Island"
-      ],
-      "body": "Segundo o 9to5Mac, a fonte Fixed Focus Digital diz que a imagem vazada foi verificada por várias fontes. A semelhança entre os modelos seria uma forma de cortar custos diante da crise de memória causada pela demanda de IA.\n\nBateria maior somada à eficiência do chip A20 pode representar um bom salto de autonomia. A câmera principal do iPhone 18 deve ficar ligeiramente menor, mas mantém 48 MP.\n\nComo a Apple nunca fez uma tela de 6,3 polegadas com notch, o site avalia que o iPhone 18e deve adotar a Dynamic Island.",
-      "category": "tecnologia",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027/",
-      "published_at": "2026-11-09T09:50:24-05:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "id": "tecnologia-apple-acessorios-gamr-20261109-md",
-      "title": "Apple passa a vender tapete de jogos e mais de 20 acessórios para o fim de ano",
-      "summary": "A Apple atualizou sua linha de acessórios de terceiros antes das festas. O destaque é o GAMR Active Game Controller, um tapete sensível à pressão em que se joga pisando em nove zonas, por US$ 199,95.",
-      "highlights": [
-        "GAMR funciona com iPhone, iPad, Apple TV, Mac e Vision Pro",
-        "Bateria de 8 a 10 horas; o tapete enrola para guardar",
-        "Kit ShiftCam ProRig para filmar com iPhone sai a US$ 169,95"
-      ],
-      "body": "As nove zonas do GAMR correspondem aos direcionais e aos botões A, B, X e Y de um controle tradicional. Ele se conecta via Bluetooth e funciona com jogos compatíveis do Apple Arcade e da App Store, além de ter um app gratuito com jogos próprios.\n\nOutra novidade é o ShiftCam ProRig Filmmaker Kit, uma armação com alças reposicionáveis, disparador Bluetooth e pontos de encaixe para luzes, microfones e tripés.\n\nA renovação inclui ainda produtos de carregamento e outros acessórios, segundo o 9to5Mac.",
-      "category": "tecnologia",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/09/apple-now-sells-innovative-game-controller-play-pad-and-20-more-accessories/",
-      "published_at": "2026-11-09T11:05:10-05:00",
-      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store.webp?resize=1200,628"
-    },
-    {
-      "id": "tecnologia-disney-adobe-ia-generativa-20261109-md",
-      "title": "Disney e Adobe vão desenvolver juntas ferramentas de IA generativa",
-      "summary": "A Disney fechou uma parceria plurianual com a Adobe para criar modelos de IA generativa próprios, 'conduzidos por artistas', para sua produção. O acordo foi anunciado na conferência Adobe MAX.",
-      "highlights": [
-        "Disney terá acesso antecipado a tecnologias da Adobe",
-        "Uso vai de parques e cruzeiros a gráficos da ESPN",
-        "Modelos serão treinados com propriedades da Disney"
-      ],
-      "body": "Com o Adobe Firefly Foundry, os modelos serão treinados com conhecimento específico da Disney, como atributos de personagens, cenários e estilos visuais, para gerar resultados 'comercialmente seguros e prontos para produção'.\n\nA divisão de P&D da Imagineering já usa a plataforma Firefly no desenvolvimento de parques temáticos.\n\nA Adobe também vai ajudar a ampliar fluxos criativos internos dos Walt Disney Studios e a identificar como a IA pode moldar o conteúdo da ESPN, segundo o The Verge.",
+      "body": "Segundo a Anthropic, o Fable 5.2 é bom em problemas difíceis de engenharia de software, consegue orquestrar equipes de agentes e encarar projetos de longa duração.\n\nNos testes antes do lançamento, os dois modelos 'ajudaram nossos engenheiros a concluir migrações de software antes inviáveis, projetaram três dispositivos eletrônicos funcionais do zero, resolveram dois problemas abertos da física de buracos negros e formalizaram a prova do Último Teorema de Fermat em 30 horas', diz a empresa.\n\nOs novos modelos sucedem o Fable 5.1 e o Mythos 5.1, lançados em setembro.",
       "category": "tecnologia",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "published_at": "2026-11-09T10:38:56-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "published_at": "2026-11-09T14:00:00-05:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "id": "tecnologia-byd-yangwang-luxo-20261109-md",
-      "title": "BYD revela sedã elétrico ultraluxuoso com portas invertidas e mais de 1.000 km de autonomia",
-      "summary": "A BYD apresentou em Abu Dhabi, no fim de semana, o sedã de luxo da marca Yangwang, com portas do tipo 'coach', mais de 1.000 km de autonomia (ciclo chinês CLTC) e plataforma de 1.000 V para recarga rápida.",
+      "id": "tecnologia-apple-pacotes-ia-50-20261109-ta",
+      "title": "Apple começa a cobrar por uso extra de IA com pacotes de US$ 50",
+      "summary": "A Apple lançou os primeiros 'intelligence usage packs', pacotes de US$ 49,99 que ampliam o uso de recursos de IA nos apps do Apple Creator Studio, a começar pelo Logic Pro. Até agora, todos os recursos da Apple Intelligence eram gratuitos.",
       "highlights": [
-        "Modelo mira Rolls-Royce, Bentley e Maybach",
-        "Tem 5,6 metros de comprimento",
-        "Emblema frontal é de ouro 24 quilates"
+        "Compra única, não assinatura",
+        "Uso não aproveitado acumula e expira em 12 meses",
+        "Não vale para Compartilhamento Familiar"
       ],
-      "body": "Yangwang é a submarca de ultraluxo da BYD, no topo de sua hierarquia. O sedã é o maior e mais luxuoso da marca, com tamanho entre o Rolls-Royce Ghost e o Phantom.\n\nA dianteira é inspirada no 'Ding', um antigo caldeirão chinês, e traz faróis 'lapidados', grade com 137 'gemas' em matriz de pontos e o emblema de ouro.\n\nAs portas dianteiras abrem a 80 graus e as traseiras a 90. Por dentro, uma tela panorâmica atravessa todo o painel, do motorista ao passageiro.",
+      "body": "Na atualização mais recente do Logic Pro, basta ir ao menu do app, em 'Intelligence Features' e 'Show Usage', para ver a opção 'Buy More Usage'. A única opção é a compra avulsa de US$ 49,99.\n\nDiferentemente da maioria dos serviços de IA, que vendem assinaturas, a Apple optou por compras únicas. O uso extra só vale para a conta Apple usada no iCloud no momento da compra, passa de um mês para o outro e expira 12 meses depois.\n\nA Apple já havia dito que nem todos os recursos de IA seriam gratuitos para sempre, e o 9to5Mac diz que mais apps devem adotar o modelo em breve.",
+      "category": "tecnologia",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+      "published_at": "2026-11-09T11:32:12-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-intelligence.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "tecnologia-ios-2721-20261109-ta",
+      "title": "Apple libera iOS 27.2.1 com correções de bugs e de segurança",
+      "summary": "A Apple lançou o iOS 27.2.1, atualização menor para iPhone com correções de bugs e de segurança, poucas semanas depois do grande iOS 27.2. O iPadOS 27.2.1 também saiu com correções semelhantes.",
+      "highlights": [
+        "Notas oficiais citam apenas bugs e segurança",
+        "Detalhes de segurança ainda serão publicados",
+        "Próxima grande atualização é o iOS 27.3, em beta"
+      ],
+      "body": "'Esta atualização traz correções de bugs e atualizações de segurança para o seu iPhone', diz a nota da Apple. A página de segurança da empresa ainda não havia recebido os detalhes, que devem ser publicados nas próximas horas.\n\nO iOS 27.2 saiu no fim de outubro, cheio de novidades. A próxima grande atualização, o iOS 27.3, está em beta e traz melhorias importantes na Siri com IA, incluindo o Siri Recap, além de novos recursos no Apple Music.",
+      "category": "tecnologia",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
+      "published_at": "2026-11-09T13:09:45-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "tecnologia-apple-tv-f1-las-vegas-gratis-20261109-ta",
+      "title": "Apple vai transmitir de graça o GP de Las Vegas de Fórmula 1 nos EUA",
+      "summary": "A Apple anunciou que o Grande Prêmio de Las Vegas de Fórmula 1 será transmitido de graça no app Apple TV, sem necessidade de assinatura, para qualquer pessoa nos Estados Unidos. Treinos, classificação e corrida estão incluídos.",
+      "highlights": [
+        "Corrida no sábado, 21 de novembro, às 20h (Nova York)",
+        "Classificação na sexta, 20, às 20h",
+        "Apple TV é a parceira exclusiva da F1 nos EUA"
+      ],
+      "body": "A Apple TV detém os direitos exclusivos da Fórmula 1 nos EUA, com todas as corridas incluídas na assinatura, e algumas provas selecionadas são abertas a todos, como a de Las Vegas.\n\nO cronograma (horário de Nova York): treinos 1 e 2 na quinta, 19 de novembro, às 16h30 e 20h; treino 3 na sexta, 20, às 16h30, e classificação às 20h; corrida no sábado, 21, às 20h.\n\nO conteúdo fica no hub de Fórmula 1 do app Apple TV, disponível em iPhone, iPad, Mac, Apple TV, Android, Windows, Xbox, PlayStation e no navegador, em tv.apple.com.",
+      "category": "tecnologia",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/09/apple-tv-las-vegas-formula-1/",
+      "published_at": "2026-11-09T11:59:39-05:00",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-las-vegas-f1.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "id": "tecnologia-musk-tesla-falta-talentos-20261109-ta",
+      "title": "Musk admite que Tesla não tem gente suficiente para fazer mais de um carro ao mesmo tempo",
+      "summary": "Elon Musk disse que a Tesla não consegue produzir o Cybertruck e o Cybercab ao mesmo tempo porque há um número limitado de 'pessoas inteligentes e dedicadas'. Segundo o Electrek, metade dos executivos que ele exibiu em 2023 como prova de 'banco de reservas' já deixou a empresa.",
+      "highlights": [
+        "Musk deu três explicações diferentes em quatro dias",
+        "Tesla deve ficar só com Model 3 e Model Y em meados de 2027",
+        "Electrek diz que gargalo não é espaço nem dinheiro, e sim pessoas"
+      ],
+      "body": "Na sexta-feira, Musk anunciou que a produção do Cybertruck na Giga Texas será encerrada por volta de meados do ano que vem 'para abrir espaço' ao Cybercab. O Electrek lembra que a fábrica não tem falta de espaço: a linha do Cybertruck opera muito abaixo da capacidade porque a picape vende bem menos que o planejado.\n\nNo sábado, respondendo a um usuário no X, Musk escreveu que 'há um número muito limitado de pessoas inteligentes e dedicadas' e que manter linha, cadeia de suprimentos e engenharia do Cybertruck tiraria essa gente do Cybercab. Nesta segunda, falou em 'custo de oportunidade da complexidade do Cybertruck'.\n\nPara o Electrek, é a explicação mais honesta para a Tesla ter passado de cinco programas de veículos no início de 2026 para uma única plataforma até meados de 2027.",
       "category": "tecnologia",
       "source": "Electrek",
-      "url": "https://electrek.co/2026/11/09/byds-ultra-luxury-ev-coach-doors-1000-km-range/",
-      "published_at": "2026-11-09T10:32:57-05:00",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Yangwang-Altior-debut.jpeg?quality=82&strip=all&resize=1200,628"
+      "url": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
+      "published_at": "2026-11-09T11:41:29-05:00",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "id": "tecnologia-medium-app-tk-20261109-md",
-      "title": "Medium lança TK, app de notas que mistura diário e rede social privada",
-      "summary": "Pela primeira vez, o Medium vai além do blog: lançou o TK, aplicativo que combina anotações e diário com algo parecido com uma rede social privada, para estimular as pessoas a escrever e compartilhar com amigos e fãs.",
+      "id": "tecnologia-meta-muse-ember-20261109-ta",
+      "title": "Meta lança Muse Ember, modelo de IA leve e barato para agentes",
+      "summary": "O Meta Superintelligence Lab lançou o Muse Ember, seu modelo de IA mais leve e barato, feito para tarefas repetitivas de agentes, como chamadas de ferramentas, subtarefas de programação e leitura de documentos longos. Custa 10 centavos de dólar por milhão de tokens de entrada.",
       "highlights": [
-        "CEO diz que é o maior lançamento desde 2017",
-        "Aposta é que o futuro do blog lembra grupos de conversa",
-        "Contexto: menos tráfego vindo de buscadores e chatbots"
+        "Meta diz que supera Haiku, da Anthropic, e Luna, da OpenAI, em custo por tarefa",
+        "Pensado para trabalhar junto com o Muse Wonder",
+        "Aceita texto, imagem e áudio"
       ],
-      "body": "'Não acho que tivemos o lançamento de algo importante desde 2017', disse o CEO Tony Stubblebine ao The Verge, referindo-se à decisão de abandonar a publicidade e virar um negócio por assinatura.\n\nSegundo a reportagem, o cenário que motivou aquela mudança só piorou: empresas de IA coletam todo conteúdo que conseguem, e buscadores e chatbots enviam cada vez menos tráfego para os sites.\n\nO Medium, como boa parte da internet, depende do Google para grande parte de seu tráfego, e o TK é uma aposta em outro modelo de distribuição.",
-      "category": "tecnologia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
-      "published_at": "2026-11-09T10:04:45-05:00",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/TK-hero.png?quality=90&strip=all&crop=0%2C3.470920622186%2C100%2C93.058158755628&w=1200"
-    },
-    {
-      "id": "tecnologia-automattic-spacefast-20261109-md",
-      "title": "Dona do WordPress.com lança Spacefast para publicar apps criados por 'vibe coding'",
-      "summary": "A Automattic estreou o Spacefast, serviço que fornece a infraestrutura para colocar no ar sites e aplicativos criados com IA, o chamado 'vibe coding'. Inclui banco de dados, autenticação, upload de arquivos, e-mails e análises.",
-      "highlights": [
-        "Concorre com Lovable e Emergent",
-        "Conecta-se a agentes como ChatGPT, Claude e Cursor",
-        "Projeto nasceu em um hackathon interno"
-      ],
-      "body": "O produto pode ser conectado a diversos agentes e chatbots ou a um repositório Git. Segundo o TechCrunch, a proposta é ser mais aberta do que concorrentes que oferecem interface e infraestrutura juntas.\n\nO projeto é liderado por Batuhan İçöz, que trabalhava no app de mensagens Beeper e recebia com frequência links de projetos de amigos sem formação técnica.\n\n'A Automattic já tem boa infraestrutura, mas sempre fomos associados só ao WordPress', disse ele, explicando a ideia de usar a CDN da própria empresa.",
+      "body": "A Meta destacou o custo por tarefa e usou o índice da Artificial Analysis para mostrar o Ember como mais barato e mais inteligente que concorrentes. O preço também compete com modelos abertos como DeepSeek V4.1 Flash e GLM 5.3 Flash.\n\nA ideia é combiná-lo com um modelo maior: num agente de atendimento ao cliente, por exemplo, o modelo mais pesado define as regras e o Ember as aplica em dezenas de milhares de casos. 'O Muse Wonder planeja, o Muse Ember dá conta do volume', resume a Meta.",
       "category": "tecnologia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "published_at": "2026-11-09T09:00:00-05:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Spacefast-feat.jpg?resize=1200,675"
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "published_at": "2026-11-09T13:00:00-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675"
+    },
+    {
+      "id": "tecnologia-uber-estacionamento-20261109-ta",
+      "title": "Uber lança serviço de estacionamento, de olho nos robotáxis",
+      "summary": "A Uber lançou um serviço para reservar e pagar estacionamento em grandes cidades americanas, incluindo Miami, nove meses depois de comprar o app SpotHero. A empresa também planeja usar as vagas como base de espera para carros autônomos.",
+      "highlights": [
+        "Rede de 13 mil garagens em mais de 400 cidades",
+        "Começa em 15 cidades dos EUA, entre elas Miami",
+        "Vagas podem reduzir quilômetros rodados sem passageiro"
+      ],
+      "body": "A compra do SpotHero, anunciada em fevereiro, deu à Uber acesso a 13 mil garagens, estacionamentos e serviços de manobrista em mais de 400 cidades. O lançamento inicial vale para Atlanta, Austin, Boston, Chicago, Dallas, Denver, Los Angeles, Miami, Nashville, Nova York, Filadélfia, San Diego, San Francisco, Seattle e Washington.\n\nNo começo, o foco são pessoas que vão de carro para o trabalho. 'O deslocamento diário é uma das nossas maiores categorias', disse o CEO Dara Khosrowshahi na teleconferência de resultados.\n\nMais adiante, as vagas devem servir de ponto de espera para os veículos das dezenas de empresas de carros autônomos parceiras da Uber, reduzindo congestionamento e quilômetros rodados sem passageiro.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+      "published_at": "2026-11-09T12:00:00-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1200,640"
+    },
+    {
+      "id": "tecnologia-claude-code-segredos-github-20261109-ta",
+      "title": "Claude Code está expondo senhas e chaves em repositórios públicos do GitHub",
+      "summary": "Pesquisadores da Apiiro encontraram milhares de segredos, como senhas de bancos de dados, tokens de API e logins de administrador, em arquivos de configuração do Claude Code publicados por engano no GitHub. O problema está no jeito como a ferramenta guarda comandos aprovados.",
+      "highlights": [
+        "Opção 'Sim, e não perguntar de novo' grava o comando inteiro",
+        "Arquivo .claude/settings.local.json acaba indo para o repositório",
+        "Às vezes o próprio Claude Code faz o commit"
+      ],
+      "body": "Quando o usuário aprova um comando com a opção 'Yes, and don't ask again', a escolha é salva como regra no arquivo local '.claude/settings.local.json'. Muitas vezes o comando é gravado por inteiro, incluindo qualquer dado sensível embutido.\n\nA Anthropic diz na documentação que esse arquivo entra na lista global .gitignore do desenvolvedor, mas a regra não vale no nível do repositório. Assim, o arquivo pode ser enviado por engano se o repositório for clonado em outra máquina ou se uma pasta virar repositório depois.\n\nSegundo o Ars Technica, em muitos casos o próprio Claude Code faz commit das alterações no arquivo de configuração sem que o usuário perceba.",
+      "category": "tecnologia",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "published_at": "2026-11-09T12:24:26-05:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg"
+    },
+    {
+      "id": "tecnologia-anthropic-turbinas-gas-20261109-ta",
+      "title": "Anthropic compra US$ 3,4 bilhões em turbinas a gás para alimentar IA",
+      "summary": "A Anthropic, que costuma alugar em vez de comprar infraestrutura, vai gastar US$ 3,4 bilhões em geradores a gás natural da Caterpillar capazes de produzir até 1,7 gigawatt, segundo o Financial Times. A compra reflete a escassez de energia para data centers de IA.",
+      "highlights": [
+        "Turbinas tinham sido encomendadas pela OnePWR, que não conseguiu financiamento",
+        "Fila por turbinas a gás vai até o início da década de 2030",
+        "Anthropic planeja abrir capital"
+      ],
+      "body": "Segundo a reportagem, a OnePWR encomendou os geradores há alguns anos, mas não conseguiu financiar a compra. A Anthropic pretendia comprá-los da OnePWR, mas foi direto à fabricante, a Caterpillar.\n\nHistoricamente, a empresa prefere alugar. No documento S-1 de maio, informou que paga US$ 1,25 bilhão por mês à xAI, subsidiária da SpaceX, até maio de 2029 para usar sua capacidade de computação.\n\nCom a demanda crescendo, o mercado de energia ficou incerto: a fila de espera por turbinas a gás vai até o início dos anos 2030, e a conexão à rede elétrica pode demorar o mesmo tanto. Para o TechCrunch, a compra parece um último recurso.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "published_at": "2026-11-09T11:56:54-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800"
+    },
+    {
+      "id": "tecnologia-youtube-volta-billboard-20261109-ta",
+      "title": "YouTube volta a enviar dados para as paradas da Billboard",
+      "summary": "O YouTube vai voltar a compartilhar seus dados de streaming com a Billboard em 2027, encerrando uma briga sobre como as reproduções contam nas paradas. A Billboard mudou a fórmula e passou a dar mais peso aos streams gratuitos com anúncios.",
+      "highlights": [
+        "Disputa começou em dezembro de 2025",
+        "Antes, 1.000 streams pagos valiam 2.500 gratuitos",
+        "Agora a proporção é de 1.000 para 1.500"
+      ],
+      "body": "Em dezembro de 2025, o YouTube parou de enviar dados à Billboard, argumentando que a fórmula privilegiava assinaturas pagas e não dava crédito suficiente a quem ouve de graça com anúncios.\n\n'A Billboard usa uma fórmula ultrapassada', escreveu na época Lyor Cohen, chefe global de música do YouTube, lembrando que o streaming responde por 84% da receita de música gravada nos EUA.\n\nCom a nova regra, 1.000 streams pagos equivalem a 1.500 com anúncios no cálculo de unidades de álbum, ante 2.500 antes. Os pagos continuam valendo mais, mas os gratuitos ganham mais peso.",
+      "category": "tecnologia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "published_at": "2026-11-09T14:39:41-05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800"
     }
   ]
 }
