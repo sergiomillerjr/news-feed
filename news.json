@@ -1,11 +1,139 @@
 {
  "version": 2,
- "generated_at": "2026-11-11T15:10:59-05:00",
- "edition": "tarde",
+ "generated_at": "2026-11-12T07:06:11-05:00",
+ "edition": "manha",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "eua-01-20261111-td",
+   "id": "eua-01-20261112-mn",
+   "title": "Desabamento de prédio no Brooklyn deixa ao menos 6 mortos",
+   "summary": "Um prédio residencial de três andares desabou na tarde de quarta-feira na Flatbush Avenue, no Brooklyn, e danificou gravemente o edifício vizinho. Pelo menos seis pessoas morreram e 19 ficaram feridas, entre elas sete crianças.",
+   "highlights": [
+    "Prédio na 1321 Flatbush Ave. ruiu por completo",
+    "Mais de 250 bombeiros e socorristas atuaram no local",
+    "Buscas devem durar vários dias; causa é investigada"
+   ],
+   "body": "O desabamento ocorreu pouco depois das 16h (horário de Nova York) de quarta-feira em um prédio de três andares na Flatbush Avenue, perto da Bedford Avenue. Segundo a polícia, o imóvel do número 1321 desabou por completo e a lateral do edifício vizinho, no 1323, foi arrancada. O terreno ao lado estava vazio e em obras, e pessoas do prédio e do canteiro ficaram presas.\n\nAs autoridades confirmaram ao menos seis mortos e 19 feridos, incluindo sete crianças; quatro estão em estado crítico e um bombeiro teve ferimentos leves. A comissária do Corpo de Bombeiros, Lillian Bonsignore, disse que ainda não se sabe quantas pessoas podem estar sob os escombros.\n\nBombeiros vasculham os destroços à mão, com apoio de cães farejadores, e o chefe do departamento, John Esposito, afirmou que as equipes ficarão no local por vários dias. A causa do colapso está sob investigação, e quem não consegue contato com parentes deve ligar para o 311.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
+   "published_at": "2026-11-11T16:23:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/e6e32576-2a7c-448e-9459-59c1b809318c/thumbnail/1200x630/94f7e13d3d0f5fe681c7ef33d2d0b2e6/flatbush-building-collapse2-hi-res-still.jpg"
+  },
+  {
+   "id": "eua-02-20261112-mn",
+   "title": "Democrata Scott Colom vence no Mississippi e vira o 8º assento no Senado",
+   "summary": "O promotor distrital Scott Colom derrotou a senadora republicana Cindy Hyde-Smith, segundo projeção da CBS News, após dias de apuração indefinida. Ele será o primeiro senador negro do estado desde a Reconstrução.",
+   "highlights": [
+    "Oitavo assento do Senado conquistado pelos democratas",
+    "Trump venceu o estado por 20 pontos em 2024",
+    "Hyde-Smith reconheceu a derrota e parabenizou o rival"
+   ],
+   "body": "Scott Colom, de 43 anos, promotor distrital e mississipiano de sétima geração, venceu a disputa pelo Senado no Mississippi, um dos estados mais republicanos do país. Ele fez campanha focada em custo de vida e saúde e recebeu apoio de nomes como Bill Clinton e Kamala Harris. O Mississippi não elegia um democrata para o Senado desde 1982.\n\nNo discurso da vitória, no Tougaloo College, em Jackson, Colom lembrou as dificuldades da campanha: disse que doadores não atendiam o telefone e que menos de dez pessoas foram ao seu primeiro encontro com eleitores. Hyde-Smith, no cargo desde 2018, afirmou em vídeo que respeita a decisão dos eleitores.\n\nA corrida ficou acirrada nas últimas semanas, refletindo ventos contrários aos republicanos em todo o país, como a impopular guerra no Irã e a preocupação com o custo de vida. Logo após a eleição, poucas dezenas de votos separavam os candidatos, mas a vantagem de Colom cresceu nos dias seguintes.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+   "published_at": "2026-11-11T18:01:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/36519ebd-53fa-4245-bebb-374d7d2a4ffa/thumbnail/1200x630g2/fa13e777a5ae3c303bad1bcc63a12c65/ap26215492775167.jpg"
+  },
+  {
+   "id": "eua-03-20261112-mn",
+   "title": "ICE bate recorde de deportações e prisões no ano fiscal de 2026",
+   "summary": "O serviço de imigração (ICE) deportou 483.200 pessoas no ano fiscal encerrado em 30 de setembro, o maior número de sua história, segundo dados do Departamento de Segurança Interna obtidos pela CBS News. A agência também fez mais de 491 mil prisões.",
+   "highlights": [
+    "483.200 deportações, acima do recorde de 442.640 de 2025",
+    "Quase 475 mil prisões administrativas, também recorde",
+    "Alta de 78% em relação ao último ano fiscal de Biden"
+   ],
+   "body": "Os números mostram uma escalada histórica da ofensiva migratória do presidente Trump. O total supera o recorde anterior, do ano fiscal de 2025, e é cerca de 18% maior que as 409.849 remoções de 2012, no governo Obama, uma referência antiga da agência. Em relação a 2024, último ano completo de Biden, a alta é de quase 78%.\n\nO ICE registrou 50.925 prisões só em agosto, recorde mensal, e ainda fazia mais de 48 mil por mês em setembro. A maioria foram prisões administrativas, por violações civis e não criminais.\n\nOs dados chegam em momento politicamente delicado: após as derrotas republicanas nas eleições de meio de mandato, Trump admitiu que partes da campanha de deportações podem ter ido longe demais, mas promoveu Stephen Miller, arquiteto dessas políticas, a chefe de gabinete da Casa Branca. Pesquisas da CBS mostram apoio à segurança na fronteira, mas desconforto crescente com a forma como as leis são aplicadas.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/",
+   "published_at": "2026-11-12T06:00:06-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/12/21475df5-5879-4437-893a-878b5b356bc3/thumbnail/1200x630/e9c01995826af7d2b6b627950222aeac/gettyimages-2296548601.jpg"
+  },
+  {
+   "id": "eua-04-20261112-mn",
+   "title": "Com Jim Jordan como líder, republicanos da Câmara sinalizam confronto",
+   "summary": "Os republicanos da Câmara escolheram Jim Jordan, de Ohio, para liderar o partido no próximo Congresso, depois de perderem mais de 40 cadeiras nas eleições. Colegas o descrevem como um “lutador” capaz de enfrentar o democrata Hakeem Jeffries, que deve assumir a presidência da Casa em janeiro.",
+   "highlights": [
+    "Jordan foi escolhido no lugar de Steve Scalise",
+    "Fundador do Freedom Caucus e defensor de Trump",
+    "Boehner já o chamou de “terrorista” político"
+   ],
+   "body": "A escolha de Jordan representa uma mudança significativa na liderança republicana. Fundador do conservador House Freedom Caucus, ele ganhou fama em audiências combativas como principal republicano da Comissão de Justiça, onde defendeu Trump no primeiro processo de impeachment.\n\nAliados como Nicole Malliotakis e Ralph Norman dizem que ele pode unir as facções do partido e que representa “o lado que está disposto a lutar”. Andy Harris, presidente do Freedom Caucus, quer ver o primeiro embate direto entre Jordan e Jeffries.\n\nO ex-presidente da Câmara John Boehner, porém, já o descreveu como alguém que passou mais tempo destruindo do que construindo. O atual presidente, Mike Johnson, disse que Jordan foi seu mentor quando chegou ao Congresso.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/jim-jordan-house-republican-leader-democrats/",
+   "published_at": "2026-11-12T06:00:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/acf59b8d-a885-45de-834e-a5368a725f7f/thumbnail/1200x630/219530a2dbb398d99c1a24509625ac2d/gettyimages-2304044674.jpg"
+  },
+  {
+   "id": "eua-05-20261112-mn",
+   "title": "Guarda repreende comitiva de Hegseth no Túmulo do Soldado Desconhecido",
+   "summary": "Um sentinela do Exército chamou a atenção, em voz alta, de um grupo que incluía o secretário de Defesa, Pete Hegseth, por barulho no Túmulo do Soldado Desconhecido, no Dia dos Veteranos. Não está claro quem riu nem se Hegseth fez barulho.",
+   "highlights": [
+    "Episódio ocorreu após foto em Arlington",
+    "Sentinela exigiu “silêncio e respeito”",
+    "Pentágono disse que o soldado agiu corretamente"
+   ],
+   "body": "Hegseth, sua esposa e assessores, entre eles o chefe de gabinete Ricky Buria, visitaram o túmulo para a colocação de uma coroa de flores no Dia dos Veteranos, seguida de cerimônia com o presidente Trump e a primeira-dama Melania. Depois de posarem para uma foto, alguém do grupo riu alto, e um sentinela gritou: “Todos os visitantes devem manter uma atmosfera de silêncio e respeito o tempo todo”.\n\nO porta-voz do Pentágono, Sean Parnell, disse que o secretário sempre honrou os sacrifícios dos militares e que o soldado “corretamente e respeitosamente” lembrou a todos de manter o decoro. Segundo um ex-integrante do regimento, sentinelas costumam repreender visitantes duas ou três vezes por dia.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/hegseth-tomb-of-the-unknown-soldier-arlington-cemetery/",
+   "published_at": "2026-11-11T16:13:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/cfc4a7fa-0c4e-4224-bcac-ba55f29f8de8/thumbnail/1200x630/da2594bae42df7baaebe4dde7cd9ad62/hegseth-arlington-tomb.jpg"
+  },
+  {
+   "id": "eua-06-20261112-mn",
+   "title": "Proposta de Trump endurece regras do vale-alimentação SNAP",
+   "summary": "O Departamento de Agricultura propôs mudar uma regra que estende o SNAP, o programa de vale-alimentação, a beneficiários do programa TANF. O próprio governo projeta queda de cerca de 17% nas inscrições; críticos dizem que a fome vai aumentar.",
+   "highlights": [
+    "Regra está aberta a comentários públicos",
+    "Casa Branca fala em combater fraudes",
+    "Mais de 5 milhões já perderam o benefício desde 2025"
+   ],
+   "body": "A proposta, apresentada na terça-feira, altera a política que hoje garante elegibilidade automática ao SNAP para quem recebe o TANF, outro programa de assistência social. Segundo o USDA, a medida reduziria a participação em aproximadamente 17%.\n\nA porta-voz da Casa Branca Allison Schuster disse que o objetivo é garantir que o SNAP atenda apenas os “americanos elegíveis que mais precisam” e impedir fraudes. Entidades contra a fome e a deputada democrata Angie Craig classificaram a proposta de “cruel”.\n\nA medida se soma a outras mudanças: a lei “One Big Beautiful Bill” ampliou exigências de trabalho e, desde 1º de outubro, os estados arcam com parcela maior dos custos do programa. Pelos dados do USDA, mais de 5 milhões de pessoas perderam o benefício desde julho de 2025.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/usda-proposes-snap-eligibility-rule-change-food-stamps/",
+   "published_at": "2026-11-11T15:42:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/8a86d5b5-4809-4405-a9cc-e7da6dd0c2d0/thumbnail/1200x630/de486135a94ba9c8cb726a825817e32d/gettyimages-2301878340.jpg"
+  },
+  {
+   "id": "eua-07-20261112-mn",
+   "title": "Secretário do Tesouro, Bessent se muda para base militar após ameaças do Irã",
+   "summary": "Scott Bessent deixou sua casa na região de Washington e passou a morar em uma base militar após uma série de ameaças iranianas contra sua vida. O Tesouro diz que ele não será intimidado e manterá as sanções contra Teerã.",
+   "highlights": [
+    "Bessent lidera a ofensiva econômica contra o Irã",
+    "Foto publicada pelo WSJ permitiu localizar sua casa",
+    "Inteligência alertou para mais ações iranianas contra americanos"
+   ],
+   "body": "Segundo o Departamento do Tesouro, o secretário “não será dissuadido” pelas ameaças e segue comprometido com a chamada Operação Economic Outcast e com o bloqueio que, segundo o órgão, está derrubando a economia iraniana. O New York Times foi o primeiro a noticiar a mudança.\n\nUma fonte disse à CBS News que a decisão foi motivada por uma reportagem do Wall Street Journal com uma foto que permitia geolocalizar a casa de Bessent em Georgetown. No mês passado, o chefe de inteligência nacional, Jay Clayton, alertou que o Irã havia “aumentado substancialmente” os esforços para atingir americanos.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/bessent-relocate-dc-area-home-military-base-iran-threats-to-kill-him/",
+   "published_at": "2026-11-11T04:23:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/25/c5860949-17e7-4b1a-a9d8-cd962c3db796/thumbnail/1200x630/e48e52f47be6cbe4719b968dab797a7d/takeout082426.jpg"
+  },
+  {
+   "id": "eua-08-20261112-mn",
+   "title": "“Arma secreta” de Trump para controlar universidades sai do papel em julho",
+   "summary": "O Departamento de Educação concluiu a reformulação do sistema de credenciamento de faculdades, promessa de campanha que Trump chamou de sua “arma secreta” contra o que vê como domínio da esquerda radical. A mudança entra em vigor em julho e tem passado quase despercebida.",
+   "highlights": [
+    "Credenciamento define acesso a bilhões em verbas federais",
+    "Credenciadoras são entidades independentes do governo",
+    "Especialistas lembram que o Congresso quis essa independência"
+   ],
+   "body": "Em vídeo de campanha de 2023, Trump disse que era hora de “retomar” as instituições de ensino e que sua arma secreta seria o sistema de credenciamento. Segundo a NPR, o Departamento de Educação agora cumpriu a promessa.\n\nO credenciamento é o mecanismo que o governo usa para decidir quais faculdades podem receber empréstimos e bolsas federais. As instituições pagam a entidades sem fins lucrativos que avaliam currículo, corpo docente, instalações e finanças, para garantir que os alunos recebam um ensino de valor.\n\nAntoinette Flores, do Council for Higher Education Accreditation, lembra que o Congresso quis que essas agências fossem independentes do governo federal e definissem seus próprios padrões. A mudança se soma a outras do governo na educação, como o corte de cerca de metade da equipe do Departamento de Educação.",
+   "category": "eua",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
+   "published_at": "2026-11-12T05:00:00-05:00",
+   "image_url": "https://media.npr.org/assets/img/2024/01/02/ap23364752001819_wide-c79f7c09ca9cb02b1c8b0c3307b43e6960283b61.jpg?s=1400&c=85&f=webp"
+  },
+  {
+   "id": "eua-09-20261112-mn",
    "title": "Petição na Câmara força votação de novo projeto sobre arquivos de Epstein",
    "summary": "O deputado republicano Thomas Massie conseguiu as 218 assinaturas necessárias para forçar a votação de um projeto que obriga o Departamento de Justiça a divulgar os arquivos restantes do caso Jeffrey Epstein. A proposta permite que parlamentares, procuradores estaduais e vítimas processem o governo por descumprir a lei de transparência.",
    "highlights": [
@@ -21,55 +149,7 @@
    "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/cb465192-a11d-41f8-8371-5087e79ef41b/thumbnail/1200x630/453aff8b782f67a2592e8633949d3165/jeffrey-epstein-promo.jpg"
   },
   {
-   "id": "eua-02-20261111-td",
-   "title": "Democratas criticam colegas ausentes após fracasso do impeachment de Hegseth",
-   "summary": "Onze democratas faltaram à votação processual que derrubou, por apenas sete votos, a tentativa de impeachment do secretário de Defesa, Pete Hegseth. Vários alegaram trânsito e acusaram o presidente da Câmara, Mike Johnson, de encerrar a votação cedo.",
-   "highlights": [
-    "Republicanos enviaram os artigos a uma comissão por 211 a 204",
-    "Ausentes citam engarrafamento e escolta policial de ônibus",
-    "Trump elogiou Hegseth em discurso no Cemitério de Arlington"
-   ],
-   "body": "Parlamentares democratas expressaram indignação com quase uma dúzia de colegas que perderam a votação de terça-feira à noite sobre o impeachment de Pete Hegseth. A ausência deu aos republicanos votos suficientes para engavetar a iniciativa, enviando por 211 a 204 os oito artigos de impeachment a uma comissão da Câmara. “Vocês deveriam aparecer e fazer seu trabalho”, disse na CNN Abdul El-Sayed, senador eleito por Michigan.\n\nOs artigos, apresentados pelo republicano Thomas Massie, incluíam acusações de violar a autoridade do Congresso ao travar guerra contra o Irã. Deputadas como Melanie Stansbury (Novo México), Laura Gillen (Nova York) e Brittany Pettersen (Colorado) disseram ter ficado presas no trânsito por causa de um incidente e da escolta policial de um ônibus; Julia Brownley (Califórnia) afirmou que Johnson “fechou a votação” antes que ela chegasse ao plenário.\n\nEm discurso no Cemitério Nacional de Arlington pelo Dia dos Veteranos, Donald Trump elogiou Hegseth, dizendo que ele faz um “trabalho fantástico” à frente do Pentágono. “Eu tinha a sensação de que isso ia acontecer”, comentou o presidente sobre o fracasso do impeachment.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote",
-   "published_at": "2026-11-11T13:21:13-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/015a1a2baf166d2eaf78bea3692a71c03a0ca5da/0_0_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87d1d9d206a9ad9dc65f1371e16df731"
-  },
-  {
-   "id": "eua-03-20261111-td",
-   "title": "John Thune é reeleito líder republicano no Senado após derrotas",
-   "summary": "Sem adversários, John Thune foi reconduzido à liderança dos republicanos no Senado, apesar de pedidos de alguns colegas para adiar a votação e avaliar as derrotas nas eleições de meio de mandato. O partido perdeu ao menos sete cadeiras e passará à minoria.",
-   "highlights": [
-    "Thune concorreu sem oposição em reunião a portas fechadas",
-    "Josh Hawley e Ron Johnson queriam adiar a escolha",
-    "Thune atribui derrota principalmente ao custo de vida"
-   ],
-   "body": "Em reunião fechada no Capitólio na terça-feira, o senador da Dakota do Sul recebeu o apoio dos colegas para liderar a bancada republicana no 120º Congresso, nos últimos anos do governo Trump. Diferentemente de dois anos atrás, quando disputou o posto com outros dois republicanos para suceder Mitch McConnell, Thune não teve adversário.\n\nO senador Josh Hawley disse que “talvez houvesse” um desafiante se o partido tivesse esperado mais, e Ron Johnson, que circulou uma carta pedindo adiamento, afirmou que a bancada precisa de “um verdadeiro exame de consciência”. Sob Thune, os republicanos perderam ao menos sete cadeiras no Senado; as disputas no Alasca e no Mississippi ainda não foram definidas.\n\nAlguns conservadores culpam a tentativa de Thune de aprovar o SAVE America Act, que exigiria prova de cidadania para votar. Ele, porém, disse que “nunca é uma coisa só” e que o fator mais importante foi “o custo de vida para o povo americano”. Na Câmara, Jim Jordan foi escolhido como novo líder da minoria republicana.",
-   "category": "eua",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses",
-   "published_at": "2026-11-11T12:08:12-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af496846ceb-1794414212.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "eua-04-20261111-td",
-   "title": "Mississippi: democrata Scott Colom amplia vantagem na disputa pelo Senado",
-   "summary": "A eleição para o Senado no Mississippi, estado tradicionalmente republicano, pende para o democrata Scott Colom, que lidera por mais de 3.700 votos sobre a senadora Cindy Hyde-Smith, com 98% dos votos apurados. O estado não permite recontagem.",
-   "highlights": [
-    "Colom lidera por mais de 3.700 votos, segundo a CBS",
-    "Resultados certificados de todos os condados devem sair até sexta",
-    "Mississippi não elege um democrata ao Senado desde 1982"
-   ],
-   "body": "Na tarde desta quarta-feira, 11 de novembro, Colom liderava a disputa por mais de 3.700 votos, com 98% das urnas apuradas, segundo projeções da CBS News. Na manhã seguinte à eleição, apenas algumas dezenas de votos separavam os candidatos — um resultado surpreendente em um estado onde Trump venceu por 20 pontos em 2024.\n\nO secretário de Estado Michael Watson informou na segunda-feira que sete dos 82 condados ainda precisavam enviar resultados não oficiais, com certificação prevista até sexta. Como o Mississippi não permite recontagens, o vencedor será definido pela maioria simples dos votos. Os democratas já garantiram o controle do Senado; uma vitória de Colom ampliaria essa maioria.\n\nColom, promotor de 43 anos, fez campanha sobre custo de vida e saúde. O comitê republicano e a campanha de Hyde-Smith pediram que os condados separem e preservem as cédulas provisórias, o que a campanha democrata chamou de “golpe desesperado”. Hyde-Smith diz confiar que milhares de votos de condados republicanos ainda reforçarão sua vitória.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
-   "published_at": "2026-11-11T14:29:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/fcb281c4-4540-4310-a779-29fcb2008eff/thumbnail/1200x630g2/e523bab69f2674145699bd6d8f50cab5/colom-hyde-smith.jpg"
-  },
-  {
-   "id": "eua-05-20261111-td",
+   "id": "eua-10-20261112-mn",
    "title": "Gasolina cai abaixo de US$ 4 o galão pela primeira vez em meses",
    "summary": "O preço médio da gasolina nos EUA caiu para US$ 3,94 o galão, segundo a AAA, após recuar cerca de 40 centavos em um mês. Analistas atribuem a queda à mudança sazonal e, principalmente, ao recuo do petróleo Brent, mas alertam que uma escalada da guerra com o Irã pode reverter o alívio.",
    "highlights": [
@@ -85,231 +165,199 @@
    "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8054x4530+0+419/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fb1%2F79ee5cd14420a25d6111b7bf6a03%2Fgettyimages-2248589851.jpg"
   },
   {
-   "id": "eua-06-20261111-td",
-   "title": "Conta de aquecimento deve subir 7% neste inverno nos EUA",
-   "summary": "Um relatório da associação Neada projeta alta média de mais de 7% nas contas de aquecimento neste inverno, com aumentos de até 70% para quem usa óleo combustível. A entidade culpa as interrupções causadas pela guerra com o Irã e pede ajuda do Congresso.",
+   "id": "mundo-01-20261112-mn",
+   "title": "Ataque israelense a hospital em Gaza mata seis pessoas",
+   "summary": "Um ataque aéreo israelense atingiu o prédio de cirurgia e UTI do Hospital Nasser, o maior do sul de Gaza, matando ao menos seis pessoas e ferindo cerca de 20, segundo o Ministério da Saúde local. Israel diz que mirou um comandante do braço armado do Hamas.",
    "highlights": [
-    "Cerca de 5 milhões de lares usam óleo de aquecimento",
-    "Nordeste deve ter alta média de 16,9%",
-    "Um em cada seis lares está atrasado nas contas de energia"
+    "Cirurgião Rizk Abu Shaira está entre os mortos",
+    "Israel acusa o Hamas de usar o hospital como quartel",
+    "Ataques continuam apesar do cessar-fogo"
    ],
-   "body": "Segundo a National Energy Assistance Directors Association (Neada), que representa autoridades estaduais em busca de verbas federais, as famílias que dependem de óleo de aquecimento — sobretudo no Nordeste do país e no Alasca — terão os maiores aumentos: o custo da temporada pode subir 70%, para cerca de US$ 2.977. No Nordeste, a conta média deve passar de US$ 1.311 para US$ 1.532.\n\nO aquecimento elétrico deve subir cerca de 6%, para US$ 1.215, e o propano, cerca de 5%, para US$ 1.350. A oferta global de combustíveis ficou mais apertada com cortes de produção em refinarias do Oriente Médio e da Rússia, em meio à guerra EUA-Israel contra o Irã e à guerra na Ucrânia. “Para famílias de baixa e média renda, esses aumentos podem ser devastadores”, disse Mark Wolfe, diretor-executivo da Neada.\n\nCerca de um em cada seis lares americanos está atrasado no pagamento de contas de serviços públicos, com dívida total de aproximadamente US$ 23 bilhões. A Neada pede que o Congresso ofereça alívio imediato antes da chegada das contas de inverno.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/heating-bill-winter-price-increases",
-   "published_at": "2026-11-11T13:00:11-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/3da77c2f6d06ad1e09de5dbb3a57dd21d5d10f58/333_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a65e02fabb58efb2c5518c002c166cbe"
-  },
-  {
-   "id": "eua-07-20261111-td",
-   "title": "Família Kennedy entra na Justiça contra o arco de Trump em Washington",
-   "summary": "Nove membros da família Kennedy aderiram à ação judicial contra o arco de 76 metros proposto por Trump, alegando que ele prejudicaria a vista e projetaria sombra sobre os túmulos da família no Cemitério de Arlington, incluindo a Chama Eterna de JFK. Robert F. Kennedy Jr. não participa da ação.",
-   "highlights": [
-    "Estrutura teria cerca de 250 pés (76 metros) de altura",
-    "Juíza Tanya Chutkan bloqueou a obra por duas semanas",
-    "Casa Branca diz que o monumento homenageia os heróis de Arlington"
-   ],
-   "body": "Os autores, entre eles filhos de Robert F. e Ethel Kennedy e um filho de Edward M. Kennedy — todos sepultados em Arlington —, pediram na terça-feira para entrar no processo federal que já reúne ações de veteranos da Guerra do Vietnã, de um historiador de arquitetura e dos governos do Distrito de Columbia e da Virgínia. “Um arco imponente lançando sombras sobre os túmulos de nosso pai, mãe e tios (...) também lançaria uma sombra sobre nossos princípios democráticos”, disseram Rory e Maxwell Kennedy.\n\nO governo Trump acelerou a aprovação do arco no último ano, com sinal verde final da Comissão Nacional de Planejamento da Capital na quinta-feira passada. Minutos depois, a juíza distrital Tanya Chutkan bloqueou a construção por duas semanas para avaliar as contestações. Um dos principais argumentos é que a obra é ilegal sem aprovação do Congresso.\n\nO porta-voz da Casa Branca Davis Ingle disse ser “lamentável” que parte da família tenha aderido ao processo e afirmou que o projeto pretende homenagear os heróis que descansam em Arlington.",
-   "category": "eua",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-   "published_at": "2026-11-11T11:59:32-05:00",
-   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4928x2772+0+508/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F43%2F12c339b145589ddeb9b1b1023327%2Fgettyimages-186224659.jpg"
-  },
-  {
-   "id": "eua-08-20261111-td",
-   "title": "Rubio gastou mais de US$ 1,2 milhão em voos para ver o filho jogar na Flórida",
-   "summary": "Segundo reportagem do Washington Post, o secretário de Estado Marco Rubio fez 15 viagens pessoais a Gainesville em aviões militares para acompanhar jogos dos Florida Gators, onde seu filho Anthony atua. Os voos custaram mais de US$ 1,2 milhão aos contribuintes.",
-   "highlights": [
-    "Rubio foi a pelo menos 10 jogos em duas temporadas",
-    "Voos costumam passar pela base aérea de Homestead, perto de Miami",
-    "Entidade de ética vê mais problema de imagem que violação"
-   ],
-   "body": "A investigação do Washington Post concluiu que, das 23 viagens de Rubio a Gainesville em aeronaves militares, 15 foram de natureza pessoal. Por questões de segurança, o secretário não pode voar em aviões comerciais, mas seu uso de transporte do governo “parece superar significativamente o de seus antecessores”. A mais recente foi em 7 de novembro, num Air Force C-37, quando os Gators perderam por 23 a 7 para Oklahoma — sem que Anthony entrasse em campo.\n\nOs voos costumam ir da Base Conjunta Andrews, em Maryland, à Base Aérea de Reserva de Homestead, perto de Miami, e de lá a Gainesville. “Tenho tentado e vou continuar tentando ir ao maior número possível de eventos importantes para mim e minha família”, disse Rubio. Autoridades que usam transporte militar devem reembolsar o valor de uma passagem econômica; Rubio e o Departamento de Estado não informaram quanto foi reembolsado.\n\nCynthia Brown, da organização Crew, disse que o caso parece “mais uma questão de imagem do que uma violação”, mas merece escrutínio, já que o próprio Rubio decide a frequência das viagens.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football",
-   "published_at": "2026-11-11T11:47:41-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/87ca8cd19d20e00bde424f7b8da67b134eff9702/553_178_2904_2324/master/2904.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c06ed2803772705a417f76d02cc47072"
-  },
-  {
-   "id": "eua-09-20261111-td",
-   "title": "Ex-técnico da NFL Rex Ryan se entrega após atropelar pedestres em Nashville",
-   "summary": "O comentarista da ESPN e ex-técnico dos Jets e dos Bills Rex Ryan se apresentou à polícia nesta quarta-feira, acusado de passar com o carro sobre os pés de dois pedestres no centro de Nashville e deixar o local. Ele responde a seis acusações de contravenção.",
-   "highlights": [
-    "Pedestres tinham a preferência na faixa, diz a polícia",
-    "Ryan teria convertido no sinal vermelho",
-    "Ex-técnico levou os Jets a duas finais da AFC"
-   ],
-   "body": "Segundo a polícia de Nashville, os pedestres tinham a preferência ao atravessar uma via principal do centro da cidade na semana passada quando Ryan, de 63 anos, teria feito uma conversão no sinal vermelho e passado por cima dos pés deles.\n\nRyan foi acusado de duas contagens de deixar o local de um acidente, duas de não fornecer informações ou prestar socorro e duas de desobedecer a sinal de trânsito, de acordo com registros judiciais. Todas são contravenções.\n\nRyan comandou o New York Jets de 2009 a 2014 e o Buffalo Bills de 2015 a 2016, levando os Jets a finais consecutivas da AFC nas temporadas de 2009 e 2010. Desde que deixou a carreira de técnico, trabalha como analista da NFL na ESPN.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/11/rex-ryan-charged-hit-and-run-pedestrians-nashville",
-   "published_at": "2026-11-11T12:35:54-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/24766d0e7fca982236b188870bc3d4cfda80f0c4/213_0_2117_1694/master/2117.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e3495c8bc840afc54abe4ad25318343"
-  },
-  {
-   "id": "eua-10-20261111-td",
-   "title": "Governo Trump quer vender terras públicas e reduzir patrimônio federal",
-   "summary": "Um novo plano de cinco anos do Departamento do Interior prevê vender terras públicas a estados, tribos e governos locais para “diminuir o tamanho do patrimônio federal”. A proposta não detalha quais áreas seriam vendidas e já enfrenta oposição, inclusive do republicano Ryan Zinke.",
-   "highlights": [
-    "Interior administra mais de 1,9 milhão de km² de terras",
-    "Plano também prevê trocas de terras para ampliar produção de energia",
-    "Zinke e o senador Martin Heinrich prometem barrar vendas"
-   ],
-   "body": "Segundo autoridades do Departamento do Interior, a venda permitiria ao governo concentrar recursos em terras “de importância nacional”, e parte da receita voltaria ao comprador para fins de conservação em outros locais. O plano, que define prioridades de 2026 a 2030, também prevê transferências e trocas estratégicas de terras para apoiar a produção de energia, eixo da política pró-combustíveis fósseis do governo.\n\nO departamento supervisiona mais de 750 mil milhas quadradas (1,9 milhão de km²) — área maior que Texas e Califórnia juntos —, concentradas sobretudo nos estados do Oeste. Em Nevada, quase 80% do território está sob controle federal. Não está claro se o secretário Doug Burgum conseguirá avançar sem o apoio do Congresso.\n\nO deputado Ryan Zinke, de Montana, que foi secretário do Interior no primeiro mandato de Trump, disse estar “firmemente contra” a venda ou transferência de terras públicas. O senador democrata Martin Heinrich, do Novo México, afirmou que “terras públicas pertencem a mãos públicas”. Propostas semelhantes de vender áreas em Utah e Nevada fracassaram no ano passado diante de oposição bipartidária.",
-   "category": "eua",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/11/trump-administration-to-pursue-public-land-sales-and-a-decrease-in-federal-ownership/",
-   "published_at": "2026-11-11T13:51:35-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/TAC2BOLGOACEGP6WCQLX7RKRBE.jpg?auth=7844a592400ba90ce6f5c41a681e908604a273f94048ff5b3579efb8e8c972ac&width=700"
-  },
-  {
-   "id": "mundo-01-20261111-td",
-   "title": "Vice-presidente da Indonésia renuncia em meio a crise na coalizão",
-   "summary": "Gibran Rakabuming Raka, vice-presidente da Indonésia e filho do ex-presidente Joko Widodo, entregou sua carta de renúncia ao presidente Prabowo Subianto, segundo um assessor. A decisão ocorre após a Suprema Corte invalidar um documento escolar usado em sua candidatura.",
-   "highlights": [
-    "Suprema Corte não encontrou prova de que ele concluiu o ensino médio",
-    "Mais de 100 parlamentares apoiavam abrir caminho para impeachment",
-    "Renúncia expõe racha entre Prabowo e Jokowi"
-   ],
-   "body": "O assessor Budi Arie disse à BBC que a carta foi entregue diretamente a Prabowo nesta quarta-feira; não está claro se foi aceita. A lei indonésia exige que o vice-presidente tenha concluído o ensino médio ou equivalente. Gibran, que estudou em Singapura e na Austrália, usou um certificado de equivalência, mas a Suprema Corte disse não haver evidência de diploma estrangeiro que sustentasse essa equivalência — mesma conclusão de uma decisão do Tribunal Constitucional em outubro.\n\nA entrada de Gibran na chapa de Prabowo em 2024 foi fruto de uma aliança entre o presidente e Jokowi, antigo rival. Gibran tinha 36 anos e só pôde concorrer graças a uma polêmica decisão do Tribunal Constitucional que o isentou da idade mínima de 40 anos.\n\nA renúncia ocorre em meio a sinais de ruptura entre os dois líderes: Prabowo deixou de lado o projeto da nova capital, Nusantara, remanejou aliados de Jokowi e, na semana passada, demitiu o chefe de gabinete Listyo Sigit Prabowo, preso sob suspeita de grampear o presidente.",
+   "body": "Testemunhas disseram à BBC que um único míssil disparado por um avião atingiu, durante a madrugada, o prédio de cinco andares que abriga as alas cirúrgicas e de terapia intensiva. O Ministério da Saúde, controlado pelo Hamas, disse que morreram médicos, pacientes e acompanhantes, e classificou o ataque como “violação flagrante” do direito internacional.\n\nAs Forças Armadas de Israel afirmaram ter atacado um comandante do Hamas e combatentes que usavam o hospital como “quartel-general” para planejar ataques. O Hamas acusou Israel de espalhar “narrativas falsas” para encobrir “um novo crime de guerra”.\n\nHospitais têm status protegido pelo direito internacional, mas foram atingidos repetidamente na guerra. O Nasser já havia sido alvo de um ataque duplo em agosto de 2025, que matou pelo menos 20 pessoas. Israel não permite a entrada de veículos internacionais de imprensa em Gaza, o que dificulta a verificação independente.",
    "category": "mundo",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-   "published_at": "2026-11-11T11:38:07-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+   "published_at": "2026-11-12T04:43:11-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
   },
   {
-   "id": "mundo-02-20261111-td",
-   "title": "ONU: mais de 1 milhão de pessoas enfrentam fome aguda no Líbano",
-   "summary": "Quase um quarto da população do Líbano enfrenta insegurança alimentar aguda após dois conflitos em menos de dois anos e uma grave crise econômica, segundo a ONU. O número deve subir para 1,15 milhão até meados de 2027.",
+   "id": "mundo-02-20261112-mn",
+   "title": "Enviados dos EUA chegam a Moscou para negociar a Ucrânia com Putin",
+   "summary": "Jared Kushner e Steve Witkoff desembarcaram em Moscou para conversar com Vladimir Putin, um dia após rodada de negociações em Abu Dhabi sobre o fim da guerra. Em seguida, eles voarão a Dublin para encontrar Volodymyr Zelensky.",
    "highlights": [
-    "Alerta conjunto da FAO, do PMA e do Ministério da Agricultura",
-    "Duas guerras com Israel custaram cerca de US$ 27 bilhões",
-    "Israel ainda ocupa áreas do sul do Líbano"
+    "Kushner viu “algumas aberturas” nas conversas",
+    "EUA vão pedir a Putin aval para incluir europeus",
+    "Rússia mantém exigências territoriais máximas"
    ],
-   "body": "Em declaração conjunta publicada nesta quarta-feira, a FAO, o Programa Mundial de Alimentos (PMA) e o Ministério da Agricultura libanês afirmaram que as oportunidades de emprego seguem limitadas, as economias das famílias se esgotaram e o custo de alimentos e combustível continua pressionando os orçamentos. “Quando as famílias não têm mais nada a que recorrer, até um pequeno choque adicional pode empurrá-las mais fundo na crise”, disse Allison Oman Lawi, representante do PMA no Líbano.\n\nAs autoridades estimam em cerca de US$ 27 bilhões o custo das duas guerras entre Israel e o Hezbollah desde outubro de 2023. O conflito mais recente, iniciado em março, deslocou mais de um milhão de pessoas; o número caiu para cerca de 300 mil desde que a violência diminuiu, em junho.\n\nApesar de um acordo-quadro mediado pelos EUA e assinado em junho, Israel continua ocupando território libanês. O país, que tenta se recuperar da pior crise econômica de sua história, iniciada em 2019, ainda negocia um resgate com o FMI.",
+   "body": "Vídeos da mídia russa mostraram os dois enviados americanos sendo recebidos com abraços pelo emissário do Kremlin Kirill Dmitriev. A reunião com Putin estava marcada para o meio-dia no horário local. Os encontros presenciais com os presidentes russo e ucraniano só foram anunciados na quarta-feira, após dois dias de conversas sobre a arquitetura de segurança da Europa no pós-guerra.\n\nKushner disse que pedirá a Putin sua “bênção” para incluir representantes europeus em futuras discussões e cobrou que a Europa escolha uma só pessoa para falar em seu nome. Os russos se opõem, citando o apoio europeu a Kiev.\n\nQuase cinco anos após a invasão em larga escala, Moscou não dá sinais de recuar. O chefe da delegação russa, Vladimir Medinsky, disse que as partes se aproximaram da paz, mas que muito depende da Ucrânia, dos EUA e de a Europa “cair em si”.",
+   "category": "mundo",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+   "published_at": "2026-11-12T05:08:38-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+  },
+  {
+   "id": "mundo-03-20261112-mn",
+   "title": "Ucranianos enfrentam escuridão e frio com ataques russos à rede elétrica",
+   "summary": "Ataques russos intensificados contra a rede de energia impõem apagões programados na Ucrânia, com famílias de Kiev ficando até 20 horas sem luz. Autoridades temem que a vida se torne insustentável se o fornecimento não chegar a quatro horas por dia.",
+   "highlights": [
+    "Cortes começaram mais cedo e duram mais que no último inverno",
+    "Sem energia, também falta água nos prédios",
+    "Ucrânia responde atacando refinarias russas"
+   ],
+   "body": "A BBC acompanhou Daryna Kulchytska, mãe solo que vive no sétimo andar de um prédio em Kiev com dois filhos. Nos últimos dias, a família teve apenas quatro ou cinco horas de energia, em horários irregulares. Quando a luz cai, o elevador para e a água deixa de chegar, porque depende de bombas elétricas.\n\nOs cortes de energia começaram mais cedo do que no inverno passado e já são mais longos. Kiev é a cidade mais afetada, com metrô e trólebus parados em alguns momentos, e centenas de milhares de ucranianos ficaram sem luz nas últimas semanas.\n\nOs apagões ocorrem enquanto avançam as negociações de paz, com enviados americanos se reunindo com os líderes russo e ucraniano nesta quinta-feira. A Ucrânia tem respondido aos ataques atingindo refinarias de petróleo na Rússia.",
+   "category": "mundo",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+   "published_at": "2026-11-12T02:59:33-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "id": "mundo-04-20261112-mn",
+   "title": "Uganda investiga morte de quatro alunas após comerem laranjas na escola",
+   "summary": "A polícia de Uganda investiga a morte de quatro meninas de 9 a 11 anos de uma escola em Kampala, num possível caso de envenenamento. Elas tinham comido laranjas divididas por um colega; o diretor da escola foi detido para ajudar nas investigações.",
+   "highlights": [
+    "Oito alunos comeram as laranjas; cinco passaram mal",
+    "Autópsias vão apontar a causa das mortes",
+    "Pais acusam escola de falta de informação"
+   ],
+   "body": "As quatro alunas da Ta'aliim Primary School and Quran Memorisation Centre morreram na terça-feira: três em casa e uma durante atendimento de emergência no hospital. Segundo a escola, oito alunos comeram laranjas compartilhadas por um colega, e cinco começaram a vomitar; a quinta criança continua internada.\n\nA polícia informou que detetives vão visitar o vilarejo de onde vieram as frutas. A imprensa ugandense mostrou pais em luto relatando os últimos momentos das filhas, alguns acusando a escola de não dar informações claras e rápidas.\n\nO caso aumenta a preocupação com a segurança nas escolas do país, onde episódios anteriores de comida suspeita de contaminação levaram alunos ao hospital, e reforça os pedidos por mais fiscalização da merenda escolar.",
+   "category": "mundo",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
+   "published_at": "2026-11-12T02:45:52-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg"
+  },
+  {
+   "id": "mundo-05-20261112-mn",
+   "title": "Greve geral na Espanha termina em confrontos em Barcelona",
+   "summary": "A primeira greve geral da Espanha em 14 anos, convocada contra o custo da moradia e de vida, levou cerca de 120 mil pessoas às ruas de Madri e mais de 50 mil a Barcelona. Na capital catalã, homens mascarados entraram em confronto com a polícia, queimaram lixeiras e saquearam lojas.",
+   "highlights": [
+    "Transportes e serviços públicos sofreram fortes interrupções",
+    "Dezenas de pessoas foram presas",
+    "Espanha vota em eleições parlamentares em 29 de novembro"
+   ],
+   "body": "Os principais sindicatos do país, UGT e CC OO, classificaram a adesão como “massiva”. Em Barcelona, à noite, a polícia usou gás lacrimogêneo contra grupos que incendiavam lixeiras e quebravam vitrines no Passeig de Gràcia, perto da Plaça de Catalunya; a loja da Lego foi saqueada e houve tentativa de invasão da Apple Store.\n\nUma manifestante ouvida pela BBC disse que o protesto foi majoritariamente pacífico, com muitas crianças e idosos. O Ministério do Interior informou dezenas de prisões, e imobiliárias tiveram escritórios atacados.\n\nA greve foi motivada por protestos contra o preço da moradia, após o despejo de uma idosa de 87 anos em Madri. “O custo de vida comparado aos salários é totalmente insustentável”, disse a professora Olga Domingo, de 37 anos.",
+   "category": "mundo",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+   "published_at": "2026-11-11T17:07:37-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "id": "mundo-06-20261112-mn",
+   "title": "Papa Leão XIV é recebido por milhões no Peru, sua “segunda pátria”",
+   "summary": "O papa Leão XIV chegou ao Peru, última etapa de sua viagem por três países da América Latina, semanas depois de passar por cirurgia contra câncer de pulmão. Segundo o Vaticano, 3 milhões de pessoas o receberam em Lima, recorde de seu pontificado.",
+   "highlights": [
+    "Papa disse estar “voltando à minha pátria”",
+    "Ele foi bispo de Chiclayo de 2015 a 2023",
+    "Pediu à presidente Keiko Fujimori que enfrente feridas do passado"
+   ],
+   "body": "A praça principal de Lima foi tomada por fiéis com bandeiras e camisetas do papa, que explodiram em aplausos quando o avião pousou. Nascido em Chicago, Leão XIV, de 71 anos, serviu no Peru por duas décadas como missionário e bispo e obteve a cidadania peruana. Antes, ele passou por Uruguai e Argentina, onde cerca de 2,5 milhões assistiram a uma missa em Buenos Aires.\n\nEm discurso à presidente Keiko Fujimori, filha de Alberto Fujimori, o papa pediu que ela construa confiança após sua vitória apertada e que os fatos do passado sejam tratados “com justiça e sensibilidade”. Ele também defendeu honestidade e integridade como bases da democracia.\n\nO país ergueu uma estátua de 14 metros do papa em Callao. O pontífice deve passar três dias em Chiclayo, cidade do norte onde foi bispo.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says",
-   "published_at": "2026-11-11T13:43:40-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-07-06T164242Z_1674135773_RC2N7MA0IQW8_RTRMADP_3_IRAN-CRISIS-LEBANON-RETURN-1794415884.jpg?resize=1920%2C1440"
+   "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru",
+   "published_at": "2026-11-12T02:37:42-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af568294f1a-1794467881.jpg?resize=1920%2C1440"
   },
   {
-   "id": "mundo-03-20261111-td",
-   "title": "Morre subitamente o embaixador da Rússia nos EUA, Alexander Darchiev",
-   "summary": "O Ministério das Relações Exteriores da Rússia anunciou que o embaixador em Washington, Alexander Darchiev, de 66 anos, morreu “subitamente” nesta quarta-feira. Não foram divulgados detalhes sobre a causa.",
+   "id": "mundo-07-20261112-mn",
+   "title": "Ataque no noroeste do Paquistão deixa 10 policiais e 18 militantes mortos",
+   "summary": "Homens armados atacaram policiais que voltavam de uma operação contra mineração ilegal de ouro no distrito de Kohat, na província de Khyber Pakhtunkhwa. O Talibã paquistanês (TTP) reivindicou o ataque, que também deixou 12 policiais feridos.",
    "highlights": [
-    "Darchiev assumiu o posto há cerca de um ano e meio",
-    "Era especialista em relações Rússia-EUA",
-    "Foi embaixador no Canadá entre 2014 e 2021"
+    "Militantes incendiaram duas viaturas",
+    "Outros 10 combatentes morreram em operação separada",
+    "Paquistão acusa o Afeganistão de abrigar o TTP"
    ],
-   "body": "Em comunicado, a chancelaria russa descreveu Darchiev como um “diplomata notável, líder experiente e colega gentil”, que atuava “em uma das áreas mais críticas da política externa russa”. Ele foi nomeado embaixador nos EUA em março do ano passado, logo após a volta de Donald Trump ao poder.\n\nFilho de diplomata, Darchiev entrou no serviço diplomático em 1992 e trabalhou no departamento de América do Norte do ministério. Foi conselheiro da embaixada russa nos EUA em 1997 e ministro-conselheiro de 2005 a 2010, além de embaixador no Canadá de 2014 a 2021.\n\nEm 2022, quando a Rússia lançou a invasão em larga escala da Ucrânia, Darchiev classificou a ofensiva como uma “medida necessária”.",
+   "body": "Segundo a polícia provincial, os agentes retornavam de uma mina na área de Gumbat na quarta-feira quando foram alvo de disparos. Um funcionário local disse à AFP que os atacantes queimaram dois veículos policiais, e outros três estavam desaparecidos.\n\nEm operação separada na região de Orakzai, também em Kohat, dez militantes do Talibã paquistanês foram mortos e uma grande quantidade de armas foi apreendida.\n\nO TTP intensificou ataques contra forças de segurança nos últimos meses. Islamabad acusa o governo talibã de Cabul de abrigar o grupo, o que o Afeganistão nega; as relações pioraram após confrontos na fronteira em outubro do ano passado.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66",
-   "published_at": "2026-11-11T13:13:10-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-11T164533Z_485515734_RC2CCBAMPLOK_RTRMADP_3_RUSSIA-USA-AMBASSADOR-1794420120.jpg?resize=1920%2C1440"
+   "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack",
+   "published_at": "2026-11-12T03:35:20-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af566af-1794467504.jpg?resize=1920%2C1440"
   },
   {
-   "id": "mundo-04-20261111-td",
-   "title": "Tempestade Charles: Portugal cancela mais de 300 voos e fecha escolas",
-   "summary": "Portugal cancelou mais de 300 voos e fechou todas as escolas e serviços públicos não essenciais antes da chegada da tempestade Charles. A chuva forte e os ventos passaram sem causar danos graves.",
+   "id": "mundo-08-20261112-mn",
+   "title": "Combates se intensificam no Iêmen; houthis negam ter mirado Meca",
+   "summary": "Os houthis rejeitaram acusações sauditas de terem lançado um drone contra Meca, dizendo que miraram uma estação de bombeamento em Yanbu e o aeroporto de Riad. A OMS diz que mais de 320 mil pessoas foram deslocadas no Iêmen desde 1º de agosto.",
    "highlights": [
-    "Cerca de 8 mil escolas suspenderam as aulas",
-    "Rajadas passaram de 120 km/h em algumas áreas",
-    "Web Summit, em Lisboa, cancelou a programação do dia"
+    "Coalizão saudita diz ter interceptado mísseis rumo a Riad",
+    "Exército iemenita relata 138 houthis mortos ou feridos",
+    "Houthis seguem bombardeando Áden"
    ],
-   "body": "As operações foram suspensas em quatro aeroportos internacionais, e centenas de supermercados fecharam as portas. Pela primeira vez na memória recente, cerca de 8 mil escolas cancelaram as aulas. As ruas ficaram praticamente desertas porque o governo pediu que as pessoas ficassem em casa; em Lisboa, algumas vias alagaram por bueiros entupidos, e o Web Summit, com cerca de 70 mil participantes, cancelou os eventos do dia.\n\nO instituto meteorológico IPMA registrou rajadas acima de 120 km/h. No meio da tarde, apenas o Algarve continuava em alerta vermelho, que inicialmente cobria mais da metade do país. Na terça, a tempestade havia atingido a Madeira com ventos de 130 km/h.\n\nO governo de centro-direita de Luís Montenegro foi duramente criticado em janeiro pela resposta à tempestade Kristin. O ministro da Administração Interna, Luís Neves, negou exagero e disse que a resposta seguiu a previsão do tempo. A tempestade deve seguir para a Espanha, onde trabalhadores fazem greve geral.",
+   "body": "A coalizão liderada pela Arábia Saudita afirmou ter interceptado três mísseis de cruzeiro lançados contra Riad e drones em direção a Meca. A Defesa Civil saudita disse que destroços de dois mísseis balísticos caíram no vilarejo de Sabuhah, na província de Meca, e classificou o ataque como violação do direito humanitário.\n\nDentro do Iêmen, o porta-voz do Exército apoiado pelos sauditas disse que suas forças realizaram 773 ataques de artilharia, além de drones e foguetes, em quatro províncias, e que a coalizão fez 23 ataques aéreos.\n\nMesmo assim, as forças do governo não conseguiram impedir bombardeios houthis contra o distrito de al-Buraiqa, em Áden, sede do governo reconhecido internacionalmente.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles",
-   "published_at": "2026-11-11T12:46:40-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af4a4577669-1794417751.jpg?resize=1920%2C1440"
+   "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca",
+   "published_at": "2026-11-11T23:41:17-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af50c4ce48a-1794444364.jpg?resize=1920%2C1440"
   },
   {
-   "id": "mundo-05-20261111-td",
-   "title": "Dezenas de milhares participam de marcha nacionalista na Polônia",
-   "summary": "Dezenas de milhares de nacionalistas marcharam em Varsóvia no Dia da Independência, dias depois de um atirador matar seis pessoas em Cracóvia. O premiê Donald Tusk pediu contenção, já que o ataque pode ter tido motivação de extrema direita.",
+   "id": "mundo-09-20261112-mn",
+   "title": "Na COP31, John Kerry chama Trump de “maior perdedor” no clima",
+   "summary": "O ex-secretário de Estado John Kerry criticou Trump na conferência do clima COP31, na Turquia, por abandonar a ação climática e ceder à China a corrida por energia limpa. O governo americano não enviou delegação a Antalya.",
    "highlights": [
-    "Presidente Karol Nawrocki participou da marcha",
-    "Atirador de Cracóvia se interessava por Anders Breivik, diz ministro",
-    "Grupos de extrema direita da Espanha e da Hungria estavam presentes"
+    "EUA estão ausentes das negociações da ONU",
+    "Trump voltou a atacar turbinas eólicas",
+    "Kerry diz que país poderia ser cadeia de suprimentos verde"
    ],
-   "body": "A marcha do Dia da Independência, que celebra o fim de mais de cem anos de partilha da Polônia por Rússia, Prússia e Áustria em 1918, é há anos foco de tensão entre grupos de direita e o governo centrista. O evento é criticado por discursos antissemitas e anti-imigração, enquanto seus apoiadores o veem como expressão de orgulho nacional. Os organizadores esperavam público recorde, com participação do movimento espanhol Revuelta, ligado ao Vox, e do partido húngaro Mi Hazank.\n\nO presidente conservador-nacionalista Karol Nawrocki compareceu e disse que a Polônia “não existe para que as elites políticas se deem o direito de administrar os cidadãos contra a vontade da nação”, numa alusão ao governo.\n\nAntes da marcha, Tusk fez um apelo à unidade após o ataque de 7 de novembro na praça principal de Cracóvia, que deixou seis mortos e mais de uma dezena de feridos. O ministro da Justiça, Waldemar Zurek, disse que o atirador, de 24 anos, se interessava pelo neonazista norueguês Anders Behring Breivik; ele morreu no hospital após ser baleado pela polícia.",
+   "body": "Kerry, ex-enviado para o clima de Joe Biden, disse ao Guardian que Trump “está perdendo o ponto” ao ignorar a competição com a China e o mercado de produtos que poderiam ser fabricados nos EUA. “Ele declarou que queria vencer a China e abandonou o campo de batalha”, afirmou.\n\nNa segunda-feira, Trump repetiu sua hostilidade à energia eólica, dizendo que não aprovará turbinas por serem “grandes perdedoras”. Ao contrário de quase todos os países, os EUA não enviaram delegação à conferência anual da ONU em Antalya.\n\nSob Biden, os EUA aprovaram incentivos fiscais para energia limpa e veículos elétricos, mas os republicanos eliminaram a maior parte deles; o governo Trump impôs tarifas e destinou recursos públicos para sustentar usinas a carvão.",
    "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march",
-   "published_at": "2026-11-11T12:38:03-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4a1185b0b-1794416920.jpg?resize=1920%2C1440"
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+   "published_at": "2026-11-12T06:00:48-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/32fe1f2eeb72c44b90ada00f0318f0c0c6262cf9/302_0_3013_2411/master/3013.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4749fdb348d1ec75170bbfbde24c03b"
   },
   {
-   "id": "mundo-06-20261111-td",
-   "title": "Irlanda teme ameaça russa aos cabos submarinos que cruzam suas águas",
-   "summary": "Cerca de 75% dos cabos submarinos transatlânticos passam por águas irlandesas ou perto delas, segundo o governo da Irlanda. A movimentação de navios russos e da chamada “frota fantasma” aumenta o temor de sabotagem em um país sem submarinos e fora da Otan.",
+   "id": "mundo-10-20261112-mn",
+   "title": "Adolescente desaparecido há seis dias na mata australiana é achado vivo",
+   "summary": "William, de 17 anos, sumiu na sexta-feira passada durante um acampamento numa área de mata a cerca de 180 km de Melbourne. Ele foi encontrado na manhã de quinta-feira sem ferimentos graves — e, segundo a família, “de castigo para o resto da vida”.",
    "highlights": [
-    "Irlanda abriga data centers de Google, Microsoft e Meta",
-    "Navio russo Yantar foi escoltado para fora da zona irlandesa em 2024",
-    "Marinha ganhou poder para abordar navios suspeitos"
+    "Buscas usaram cães, mergulhadores e helicópteros",
+    "Temperaturas muito baixas preocupavam a polícia",
+    "Ele ficou parado no mesmo lugar à espera de resgate"
    ],
-   "body": "Os cabos submarinos transportam quase todos os dados do mundo, de mensagens a trilhões de dólares em transações financeiras diárias. A Irlanda, que concentra data centers de grandes empresas de tecnologia americanas, tem importância estratégica desproporcional ao seu tamanho. Em novembro de 2024, o navio russo Yantar — oficialmente de pesquisa, mas descrito pelo Reino Unido como navio espião — foi monitorado perto de infraestrutura submarina no Mar da Irlanda antes de ser escoltado pela Marinha irlandesa.\n\nO país tem o menor gasto em defesa em proporção do PIB da União Europeia, é militarmente neutro e não faz parte da Otan. Para o senador Tom Clonan, a Irlanda é “o elo mais fraco da Europa” em defesa aérea, marítima, terrestre e cibernética.\n\nO governo ampliou recentemente os poderes da Marinha para abordar e inspecionar embarcações suspeitas. A ministra da Defesa, Helen McEntee, disse que proteger as águas contra navios ligados à “frota fantasma” russa — petroleiros antigos usados para driblar sanções — é prioridade. Moscou nega a existência dessa frota.",
+   "body": "O jovem, cujo sobrenome não foi divulgado, havia saído para acampar com um amigo na região de Victoria. O frio intenso durante as noites deixou as autoridades preocupadas com seu estado.\n\nOs socorristas o içaram até um local seguro, deram a ele um donut e uma garrafa de água e o levaram ao hospital para exames. A mãe, Elizabeth Barkley, disse que ele tem “só alguns arranhões” e que ficou em um lugar esperando o resgate. A polícia disse que os agentes ficaram emocionados com o desfecho, que “não acontece sempre”.",
    "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors",
-   "published_at": "2026-11-11T13:19:09-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Royal-Navy-202511-003-1794417885.jpg?resize=1920%2C1440"
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
+   "published_at": "2026-11-11T21:40:18-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png"
   },
   {
-   "id": "mundo-07-20261111-td",
-   "title": "Moradia cara e salários baixos estão no centro da greve geral na Espanha",
-   "summary": "A primeira greve geral da Espanha em 14 anos tem como foco a falta de moradia acessível. Em Madri, lojas foram protegidas com tapumes e manifestantes bloquearam a Gran Vía.",
+   "id": "weston-01-20261112-mn",
+   "title": "Novos comissários de Weston tomam posse na segunda, 16 de novembro",
+   "summary": "Patricia Bernardini e Alfredo Ortega, eleitos em 3 de novembro para as cadeiras 3 e 4, tomam posse na reunião da Comissão Municipal de Weston às 19h de segunda-feira, na prefeitura. Na mesma sessão, a comissão escolhe o vice-prefeito e vota verbas para parques e árvores.",
    "highlights": [
-    "Estopim foi o despejo de uma idosa de 87 anos em setembro",
-    "Jovem precisaria de 98,7% do salário para alugar sozinho",
-    "Eleição antecipada está marcada para 29 de novembro"
+    "Eles substituem Byron Jaffe e Mary Molina-Macfie",
+    "Comissão vai redefinir cargos, incluindo vice-prefeito",
+    "Comentários públicos por e-mail até as 17h de segunda"
    ],
-   "body": "O catalisador da paralisação foi o despejo, em setembro, de Maria del Carmen Abascal, a “Maricarmen”, de 87 anos, da casa onde viveu por 70 anos, depois que seu aluguel mensal de 500 euros foi multiplicado por cinco. “A moradia consome a maior parte do salário de um trabalhador”, disse o professor Antonio. “Lutamos por moradia mais barata e salários mais altos.”\n\nSegundo o conselho da juventude do país, um jovem precisaria gastar 98,7% do salário mensal para alugar um imóvel sozinho. O Banco da Espanha estima que são necessárias 750 mil novas moradias para atender à demanda atual — número que pode chegar a um milhão —, enquanto apenas 92 mil foram construídas em 2025.\n\nA crise pode custar o cargo ao primeiro-ministro Pedro Sánchez, que convocou eleições antecipadas para 29 de novembro após seu governo minoritário não conseguir aprovar proteções para inquilinos. O Partido Socialista aparece atrás da soma da direita e da extrema direita nas pesquisas.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike",
-   "published_at": "2026-11-11T11:20:13-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4888b15fc-1794410635.jpg?resize=1920%2C1440"
+   "body": "A pauta da reunião de 16 de novembro foi publicada na quarta-feira e começa pela eleição: a comissão aprovará uma resolução aceitando o resultado do pleito municipal e, em seguida, fará a cerimônia de posse. Bernardini venceu a cadeira 3 com cerca de 68% dos votos; Ortega levou a cadeira 4 por menos de 700 votos, pela contagem não oficial.\n\nCom dois novos membros, a comissão vai redefinir suas funções. O cargo de vice-prefeito existe desde 2024 e é indicado pela própria comissão para mandato de um ano; hoje é ocupado por Henry Mead. A pauta não diz quem será indicado.\n\nEntre os itens de rotina estão verbas para a manutenção de cerca de 940 árvores ao longo do canal de Bonaventure — projeto que recebeu um subsídio de US$ 75 mil — e o projeto do Vista Park, o maior da cidade, orçado em US$ 33,8 milhões, com obras previstas para começar este mês e terminar em maio de 2028. Comentários podem ser enviados para publiccomment@westonfl.org até as 17h de segunda, com até 400 palavras.",
+   "category": "weston",
+   "source": "Weston Journal",
+   "url": "https://westonjournal.com/weston-commission-swearing-in-nov-16/",
+   "published_at": "2026-11-12T00:00:00-05:00",
+   "image_url": "https://westonjournal.com/img/weston-commission-swearing-in-nov-16.webp"
   },
   {
-   "id": "mundo-08-20261111-td",
-   "title": "TSE multa o Facebook em R$ 7,5 milhões por descumprir ordens na eleição",
-   "summary": "O Tribunal Superior Eleitoral do Brasil multou o Facebook, da Meta, em 7,5 milhões de reais (US$ 1,3 milhão) por não cumprir integralmente ordens judiciais durante o segundo turno da eleição presidencial. A Corte disse não haver, até agora, prova de que a empresa tentou influenciar o resultado.",
+   "id": "weston-02-20261112-mn",
+   "title": "Como Weston votou: Jolly teve 56% na cidade, mas Donalds venceu na Flórida",
+   "summary": "Weston deu 56,5% dos votos ao democrata David Jolly para governador, mas o republicano Byron Donalds lidera a contagem estadual. A cidade apoiou o democrata em todas as disputas estaduais, segundo resultados não oficiais.",
    "highlights": [
-    "Campanha de Lula acusou a Meta de favorecer Flávio Bolsonaro",
-    "Ministro Marco Aurélio Bellizze citou atrasos e informações incompletas",
-    "Lula venceu o segundo turno por mais de 4,4 milhões de votos"
+    "Jolly venceu nos nove distritos eleitorais da cidade",
+    "Pia Dandiya venceu o 22º distrito do Congresso",
+    "Robin Bartleman levou o distrito estadual 103"
    ],
-   "body": "Os ministros decidiram na noite de terça-feira que o Facebook não atendeu adequadamente às exigências ligadas às acusações de que a plataforma tratou de forma diferente os conteúdos de Lula e do adversário Flávio Bolsonaro. Uma conclusão sobre tentativa de influenciar o resultado “exigiria provas contundentes de intenção, apresentadas em processo completo”, escreveu o ministro Marco Aurélio Bellizze, em decisão unânime.\n\nAntes do segundo turno, a campanha de Lula entrou com ação alegando que a dona do Instagram, Facebook e WhatsApp usava algoritmos enviesados e restrições de IA para favorecer Bolsonaro; a acusação motivou protesto em frente aos escritórios da Meta em São Paulo. A empresa atribuiu os problemas a falhas técnicas globais, medidas antifraude e exigências regulatórias, e negou viés político.\n\nA multa corresponde a três dias de multas de R$ 500 mil (17 a 19 de outubro) e seis dias de R$ 1 milhão (20 a 25 de outubro), pela conduta “considerando os atrasos, as informações incompletas e a dificuldade de verificar certos dados”, segundo o tribunal.",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/11/brazil-fines-facebook-13-million-for-failing-to-comply-with-court-orders-during-election/",
-   "published_at": "2026-11-11T12:23:48-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XOYNFRU26QQC7WWNF2KFVNQHD4.jpg?auth=406447df207f621d499538e6a6ec9c1ea8fc214d1a538a13ab6edb1e00c4ce4b&width=700"
+   "body": "O levantamento do Weston Journal somou os nove distritos eleitorais da cidade (Q060 a Q068) com base nos resultados do Supervisor de Eleições de Broward. Jolly abriu 3.485 votos de vantagem em Weston; no estado, Donalds tinha 4.132.334 votos contra 4.024.639 de Jolly. Em todo o condado de Broward, Jolly obteve 65,43%, ou seja, Weston pendeu para os democratas, mas bem menos que o condado.\n\nA disputa mais apertada na cidade foi a do Senado americano: Nixon venceu em Weston por 3.018 votos, mas Moody ganhou no distrito Q063, o único da cidade a apoiar um republicano.\n\nNo 22º Distrito do Congresso, a democrata Pia Dandiya venceu com 51,89%, e teve 58,10% em Weston. Na Câmara estadual, Robin Bartleman venceu o distrito 103 com 69,33%.",
+   "category": "weston",
+   "source": "Weston Journal",
+   "url": "https://westonjournal.com/how-weston-voted-governor-2026/",
+   "published_at": "2026-11-06T00:00:00-05:00",
+   "image_url": "https://westonjournal.com/img/how-weston-voted-governor-2026.webp"
   },
   {
-   "id": "mundo-09-20261111-td",
-   "title": "Na COP31, Erdogan chama guerra em Gaza de “ecocídio”",
-   "summary": "O presidente da Turquia, Recep Tayyip Erdogan, pediu na cúpula do clima da ONU, em Antália, que o mundo reconheça os impactos ambientais da guerra em Gaza e que Israel permita mais ajuda humanitária. Israel não foi convidado para a COP31.",
-   "highlights": [
-    "Relatório da ONU aponta danos a mais de 97% das culturas arbóreas de Gaza",
-    "Chuvas recentes inundaram dezenas de milhares de tendas",
-    "Israel nega acusações de genocídio"
-   ],
-   "body": "“O que aconteceu em Gaza não é apenas um genocídio, é também um ecocídio”, disse Erdogan, aplaudido por líderes e enviados. “Oliveiras centenárias foram cortadas. O solo e a água foram poluídos, e as cidades de Gaza viraram enormes montanhas de escombros.” Um painel de especialistas independentes apoiado pela ONU concluiu no ano passado que Israel cometeu genocídio em Gaza; Israel nega veementemente e acusa o painel de antissemitismo.\n\nNos últimos dias, chuvas fortes e enchentes destruíram muitas tendas e abrigos improvisados; ao menos quatro pessoas morreram quando um aterro de areia desabou sobre seu abrigo. A ajuda humanitária entra no território, mas abaixo dos níveis anteriores à guerra.\n\nUm relatório de 2025 do Programa da ONU para o Meio Ambiente mostrou que, até maio daquele ano, mais de 97% das culturas arbóreas, 82% das lavouras anuais e 95% da vegetação arbustiva de Gaza haviam sido danificadas. A ofensiva israelense matou mais de 74 mil pessoas, segundo autoridades de saúde locais.",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/11/turkeys-president-calls-the-war-in-gaza-an-ecocide-at-the-un-climate-summit/",
-   "published_at": "2026-11-11T12:50:35-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/2NI65N7LCPXNAET47577DXC6IQ.jpg?auth=44f9a664ddffe8809f136f37a1349ea43e52496f10a671ef22f601dd19e63263&width=700"
-  },
-  {
-   "id": "weston-01-20261111-td",
+   "id": "weston-03-20261112-mn",
    "title": "Weston: I-595 tem faixas fechadas à noite até sexta; nova obra começa dia 15",
    "summary": "Três faixas internas da I-595 sentido leste, logo a leste da Hiatus Road, fecham todas as noites, das 21h às 4h, até sexta-feira, 13 de novembro, segundo o FDOT. A partir de domingo, 15, começa a pintura de faixas na I-595 entre a I-75 e a SW 136th Avenue.",
    "highlights": [
@@ -325,7 +373,7 @@
    "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
   },
   {
-   "id": "weston-02-20261111-td",
+   "id": "weston-04-20261112-mn",
    "title": "Prefeita e mais dois líderes de Weston recebem prêmio estadual “Home Rule Heroes”",
    "summary": "A Liga das Cidades da Flórida homenageou a prefeita Margaret Brown, o vice-prefeito Henry Mead e o vice-administrador e diretor financeiro Darrel Thomas como “Home Rule Heroes” de 2026. O prêmio reconhece quem defendeu os interesses das cidades durante a sessão legislativa estadual.",
    "highlights": [
@@ -341,7 +389,151 @@
    "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/11/weston-2026-home-rule-heroes.jpg"
   },
   {
-   "id": "miami-01-20261111-td",
+   "id": "miami-01-20261112-mn",
+   "title": "Navio SS United States é afundado na Flórida e vira o maior recife artificial do mundo",
+   "summary": "O lendário transatlântico SS United States, de 300 metros, foi afundado de forma controlada e sem explosivos na quarta-feira, a cerca de 20 milhas náuticas da costa do Golfo da Flórida. O navio se tornará o maior recife artificial do mundo.",
+   "highlights": [
+    "Navio detém recorde de velocidade transatlântica desde 1952",
+    "Condado de Okaloosa pagou cerca de US$ 1 milhão pelo navio",
+    "Projeto de US$ 13 milhões foi bancado por taxa de turismo"
+   ],
+   "body": "O afundamento levou horas e ocorreu entre a região de Destin-Fort Walton Beach e Pensacola. Lançado em 1952, o navio estabeleceu um recorde de velocidade para transatlânticos que ainda vale e transportou presidentes, membros da realeza e celebridades. Foi aposentado em 1969 e ficou décadas atracado na Filadélfia.\n\nO Condado de Okaloosa comprou o navio em 2024 e o enviou a Mobile, no Alabama, para um ano de preparação, com retirada de materiais nocivos ao ambiente, fiação e combustível, em coordenação com a EPA e o órgão ambiental da Flórida. Foram feitos furos para que ele permaneça em pé no fundo do mar.\n\nA região já tem cerca de 580 recifes artificiais e espera que o navio atraia mergulhadores o ano todo. “Vai ser como a Disney World”, disse a gerente de uma escola de mergulho local.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/ss-united-states-sinking-ocean-floor-largest-artificial-reef-world-florida-gulf-coast/",
+   "published_at": "2026-11-11T19:04:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/9b1299ab-15ad-45c8-8790-fa7bcbfae0ec/thumbnail/1200x630/4887584324e2f8cb2fa4a0ba95c947b5/2026-11-11t205020z-1308217209-rc2ploapvcag-rtrmadp-3-usa-ship-sinking.jpg"
+  },
+  {
+   "id": "miami-02-20261112-mn",
+   "title": "Miami-Dade adia votação sobre novo projeto para o Miami Seaquarium",
+   "summary": "Comissários de Miami-Dade adiaram a votação de um arrendamento de 99 anos para a revitalização do Miami Seaquarium, depois que o contrato de 249 páginas foi divulgado poucas horas antes da audiência. O incorporador diz que o acordo precisa sair até 30 de dezembro.",
+   "highlights": [
+    "Projeto prevê aquário sem mamíferos marinhos",
+    "Marina para 847 barcos preocupa ambientalistas",
+    "Votação sobre uso do solo está marcada para 19 de novembro"
+   ],
+   "body": "Na reunião de comissão de terça-feira, o comissário Rene Garcia disse que a única saída era adiar, por falta de votos para aprovar o item. Micky Steinberg também reclamou de não ter tido tempo de analisar o documento.\n\nO plano do Terra Group, de David Martin, inclui um novo aquário sem mamíferos marinhos, centros de pesquisa e educação, restaurantes à beira d'água, um calçadão público gratuito e restauração ambiental. Laura Reynolds, do conselho Friends of Biscayne Bay, teme o impacto da marina, que seria uma das maiores do condado, sobre a reserva aquática de Biscayne Bay, a vegetação marinha e os peixes-boi.\n\nO projeto também enfrenta um processo de dois moradores que querem forçar um referendo público.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/11/miami-dade-commissioners-delay-vote-on-miami-seaquarium-redevelopment-lease/",
+   "published_at": "2026-11-11T22:34:39-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-12-2026%2Ft_534f2f9f066c4586b5fd3295586f5103_name_49584902650_hdtv.jpg?auth=8f1dd69f58be57dfcb5b165027a1c26a00e86c0a5d81650ac9a972a5fa05b559&width=700"
+  },
+  {
+   "id": "miami-03-20261112-mn",
+   "title": "Miami libera torre de luxo atrás de igreja histórica em Brickell",
+   "summary": "O conselho de preservação histórica de Miami votou por 6 a 1 para retirar a proteção de parte do terreno atrás da primeira igreja presbiteriana da cidade, na Brickell Avenue. A decisão abre caminho para um arranha-céu de luxo e revolta moradores.",
+   "highlights": [
+    "Santuário de 1949 será preservado",
+    "Terreno pode ser vendido por cerca de US$ 240 milhões",
+    "Moradores temem perda de área verde e mais trânsito"
+   ],
+   "body": "A decisão do Historic and Environmental Preservation Board permite que um incorporador compre a área, segundo o Miami Herald, e demole um anexo ligado aos fundos do santuário para erguer o projeto 619 Brickell.\n\nMoradores criticaram a perda de espaço aberto no Mary Brickell Park. “Nada está a salvo do desenvolvimento de condomínios de luxo”, disse Elena Kasparis, que também questionou se a infraestrutura comporta tanta densidade.\n\nEm nota conjunta, a igreja e o incorporador elogiaram a decisão, disseram que o santuário será preservado e que o plano prevê a remoção de nove árvores e a realocação de sete. O comissário Damien Prado disse estar aberto a se reunir com os moradores.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/miami-historic-preservation-board-brickell-presbyterian-church-619-brickell-tower/",
+   "published_at": "2026-11-11T19:16:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/12/89844716-8c03-41ed-9e3a-504869e972bb/thumbnail/1200x630/26da9aed37760e8c12554feb8b9a14d2/snapshot-63.jpg"
+  },
+  {
+   "id": "miami-04-20261112-mn",
+   "title": "Flórida pode abrir exceção para alunos sem documentos nas universidades",
+   "summary": "Dois meses após proibir estudantes sem status legal nas universidades públicas a partir de 2027-2028, o Conselho de Governadores do sistema universitário da Flórida vai avaliar na sexta-feira admitir quem já estiver matriculado em uma faculdade estadual antes da primavera de 2027.",
+   "highlights": [
+    "Lei garante vaga a formados nas 28 faculdades estaduais",
+    "Programa 2+2 transfere 60 créditos para a universidade",
+    "Projetos de lei semelhantes não avançaram no Legislativo"
+   ],
+   "body": "Em setembro, o conselho aprovou regra que torna inelegível para matrícula em universidade pública qualquer pessoa “presente ilegalmente nos EUA”. Mas a legislação estadual garante que formados nas 28 faculdades públicas sejam admitidos em uma das 12 universidades públicas, pelo acordo de articulação conhecido como 2+2.\n\nNa época, o vice-governador Jay Collins chamou a regra de “bom senso”, e o comissário de Educação Henry Mack disse que os campi “não são prêmio para presença ilegal”. O Conselho de Educação também barrou esses alunos em programas técnicos.\n\nDurante a sessão legislativa de 2026, propostas para proibir a matrícula de imigrantes sem documentos no ensino superior não avançaram.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/florida-public-university-undocumented-student-ban-2027-exemptions/",
+   "published_at": "2026-11-11T22:31:05-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/12/528f21f5-7a2b-440e-9a38-b4539f279658/thumbnail/1200x630/569299941188606925c58028b3070aa7/gettyimages-2254011699-170667a.jpg"
+  },
+  {
+   "id": "miami-05-20261112-mn",
+   "title": "Motoristas questionam multas de radares em zonas escolares de Miami-Dade",
+   "summary": "Cresce a desconfiança sobre multas de radares em zonas escolares de Miami-Dade por causa de placas confusas ou erradas. Um motorista conseguiu anular uma multa de US$ 100 após notar que o nome da escola e o horário de fiscalização não batiam.",
+   "highlights": [
+    "Placas em Miami Springs mostravam limites diferentes",
+    "Empresa RedSpeed não respondeu às perguntas",
+    "Advogados defendem suspender multas até correção"
+   ],
+   "body": "O problema começou com relatos de motoristas em Miami Springs, que viram limites de velocidade diferentes na mesma zona escolar. Depois, Erick Perez, morador do sudoeste do condado, contou ao Local 10 que foi multado por correr diante da Pinecrest Middle/High School, na Bird Road, onde diz nunca ter passado. Após recorrer, o nome da escola na multa foi alterado on-line para outra unidade, e o horário da infração era anterior ao início da fiscalização indicado na placa. A multa acabou cancelada.\n\nO condado disse que há muitos pontos da RedSpeed em fases de licença, construção e inspeção. Advogados especializados afirmam que os radares deveriam parar de emitir multas até que as discrepâncias sejam resolvidas.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/11/questions-grow-over-miami-dade-school-zone-camera-tickets-as-signage-discrepancies-surface/",
+   "published_at": "2026-11-11T18:33:45-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-11-2026%2Ft_6a095afbe52547b9a4663ffa1e745ae7_name_49581275284_hdtv.jpg?auth=ee6f65f18280e05c1b6100a265bbdd8ff798e5a52875e1b3db8d540b9c04b0f9&width=700"
+  },
+  {
+   "id": "miami-06-20261112-mn",
+   "title": "Democrata ameaça processar Miami-Dade por registros da eleição no Distrito 26",
+   "summary": "Nicole Locklin, que perdeu para o republicano Mario Díaz-Balart por 0,8 ponto no 26º Distrito do Congresso, exige registros de apuração da noite da eleição. Ela questiona por que cerca de 3 mil votos foram retirados de seu total.",
+   "highlights": [
+    "Díaz-Balart teve 114.578 votos; Locklin, 112.874",
+    "AP atribuiu a mudança a erro de digitação",
+    "Supervisora de eleições defende a transparência do órgão"
+   ],
+   "body": "Na noite da eleição, Locklin chegou a declarar vitória com base nos números da Associated Press. A AP afirmou depois que um erro de entrada de dados fez aparecer brevemente um total incorreto para a candidata.\n\nLocklin diz que a explicação é incompleta, porque o número mais alto também foi captado dos dados públicos de Miami-Dade por serviços independentes. Ela ameaça ir à Justiça se não receber os registros de tabulação. O escritório eleitoral estava fechado na quarta-feira pelo Dia dos Veteranos; um porta-voz da supervisora Alina Garcia disse que não houve erros de divulgação.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/nicole-locklin-threatens-lawsuit-miami-dade-records-district-26-diaz-balart/",
+   "published_at": "2026-11-11T16:56:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/996b3afc-26dd-4c74-9346-d2af3bef919c/thumbnail/1200x630/20b8ad24b840e517cac33003b74d3e59/nicole-locklin-miami-dade-supervisor-elections-battle.png"
+  },
+  {
+   "id": "miami-07-20261112-mn",
+   "title": "Mulher é baleada pelo marido em Pompano Beach; suspeito está foragido",
+   "summary": "Uma mulher de cerca de 40 anos foi baleada no braço na tarde de quarta-feira em Pompano Beach e está hospitalizada fora de perigo. Segundo a família, o autor foi o marido, que fugiu antes da chegada dos policiais.",
+   "highlights": [
+    "Disparo ocorreu perto do bloco 800 da NW 6th Street",
+    "Vítima deve passar por cirurgia nesta quinta",
+    "BSO pede informações pelo 954-493-8477"
+   ],
+   "body": "O Gabinete do Xerife de Broward (BSO) e os bombeiros de Pompano Beach atenderam ao chamado por volta das 15h49. A vítima foi levada a um hospital próximo, e os ferimentos não representam risco de vida, segundo o BSO.\n\nDe acordo com familiares, o marido já teve problemas com a lei, mas eles não esperavam violência contra ela; o casal estava casado havia um ano. Até a noite de quarta-feira, o atirador continuava foragido. Informações podem ser passadas ao Broward Crime Stoppers.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/pompano-beach-woman-shot-november-11-2026/",
+   "published_at": "2026-11-11T17:26:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/404e07c6-6f44-48c5-918a-6bb8c82f3344/thumbnail/1200x630/3c8a2d3b6b952153a3f290e0240085fb/screenshot-2026-11-12-002435.png"
+  },
+  {
+   "id": "miami-08-20261112-mn",
+   "title": "Royal Caribbean apresenta o gigante Legend of the Seas em Port Everglades",
+   "summary": "O Legend of the Seas, um dos maiores navios de cruzeiro do mundo, teve sua cerimônia oficial de batismo na quarta-feira em Port Everglades. É o terceiro navio da classe Icon e o primeiro dessa classe a ter Fort Lauderdale como porto-base.",
+   "highlights": [
+    "Parque aquático tem seis toboáguas, um a 154 pés de altura",
+    "Sete piscinas e dez banheiras de hidromassagem",
+    "Mais de 40 opções para comer e beber"
+   ],
+   "body": "O navio estreou na Europa no verão e chegou ao Sul da Flórida no último fim de semana, pronto para viagens ao Caribe. A bordo, há o “Category Six”, descrito como o maior parque aquático no mar, uma área “Central Park” com plantas vivas e uma piscina de borda infinita só para adultos.\n\nPara as famílias, há um bairro inteiro com carrossel e áreas de água, e os shows incluem “Charlie and the Chocolate Factory” e “America's Got Talent Live”. A diretora de marketing Kara Wallace disse que o navio amplia as opções para quem embarca na Flórida.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/royal-caribbean-showcases-new-cruise-ship-at-port-everglades/",
+   "published_at": "2026-11-11T18:50:48-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111126-Royal-Caribbean-showcases-new-cruise-ship-at-Port-Everglades.png"
+  },
+  {
+   "id": "miami-09-20261112-mn",
+   "title": "Veterano da Segunda Guerra de 104 anos é homenageado em Broward",
+   "summary": "O veterano Orilio foi homenageado no Dia dos Veteranos em uma celebração no Mission Barbecue, em Fort Lauderdale, onde tocou bateria com sucessos da era das big bands. O público também cantou parabéns pelos seus 104 anos, completados nesta semana.",
+   "highlights": [
+    "Ele toca bateria há 95 anos",
+    "Lutou na infantaria e na Força Aérea na Alemanha e na França",
+    "Depois da guerra, tocou no Radio City Music Hall"
+   ],
+   "body": "Orilio contou que começou a tocar ainda criança e que “quebrou todas as luminárias e amassou todas as panelas” da casa até a mãe intervir. Na guerra, carregava a base do morteiro nas linhas de frente, “na lama e no frio”.\n\nDepois do serviço militar, fez carreira como baterista no Radio City Music Hall, em Nova York. Hoje dá palestras em faculdades e escolas e diz se surpreender com o pouco que os jovens sabem sobre a guerra. “Qualquer um pode ter 104 anos, basta viver o suficiente”, brincou.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/104-year-old-wwii-veteran-honored-fort-lauderdale-veterans-day/",
+   "published_at": "2026-11-11T19:58:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/12/3b7a148b-d05d-4f95-8091-0d2aa31d077f/thumbnail/1200x630/86783e164240d443bca1df05d53cc4e0/104-year-old-wwii-veteran.png"
+  },
+  {
+   "id": "miami-10-20261112-mn",
    "title": "Acidente no Turnpike deixa ao menos 8 feridos no sudoeste de Miami-Dade",
    "summary": "Uma colisão entre um SUV preto e uma van de trabalho branca deixou ao menos oito feridos e fechou as pistas norte do Florida's Turnpike perto da Tamiami Trail (SW 8th Street) nesta quarta-feira. Algumas faixas foram reabertas, mas havia grandes atrasos.",
    "highlights": [
@@ -357,103 +549,119 @@
    "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/8c2e9c9b-f614-4b40-83d1-c221dffefc2a/thumbnail/1200x630/e83e9893d77b48c5275dcecb3bd4b441/snapshot-1.jpg"
   },
   {
-   "id": "miami-02-20261111-td",
-   "title": "Três jovens são acusados de tentativa de homicídio após 13 tiros contra casa em Miami-Dade",
-   "summary": "Três pessoas de 21 anos foram presas por um ataque a tiros contra uma casa ocupada em West Perrine, em Miami-Dade, na semana passada. Ninguém ficou ferido, mas eles respondem por quatro acusações de tentativa de homicídio premeditado.",
+   "id": "tecnologia-01-20261112-mn",
+   "title": "Conselho da Nvidia se prepara para afastar o CEO Jensen Huang, dizem fontes",
+   "summary": "O conselho da Nvidia prepara a saída de Jensen Huang após denúncias de que ele teve um caso extraconjugal com uma mulher que a inteligência americana considera um ativo da China. As ações caíram mais de 8% no after-market de quarta-feira.",
    "highlights": [
-    "Atirador teria disparado 13 vezes contra a janela de um quarto",
-    "Suspeito fugiu de policiais e bateu o carro numa rodovia",
-    "Um dos presos está detido sem direito a fiança"
+    "WSJ foi o primeiro a noticiar a movimentação do conselho",
+    "Alice Huang dirigiu a Megaspeed, grande compradora de chips",
+    "Huang admitiu ter sido “infiel” em mensagem a funcionários"
    ],
-   "body": "O ataque ocorreu na quarta-feira passada perto do quarteirão 10500 da Southwest 170th Terrace, em West Perrine. Segundo relatórios do Gabinete do Xerife de Miami-Dade, os suspeitos Tanyiah Javeana Jones, de Opa-locka, James Lorenzo Williams e Jamarea Letrice Harris chegaram juntos ao local. Williams teria descido do carro e disparado 13 tiros contra a janela de um quarto da frente enquanto várias pessoas estavam dentro da casa.\n\nAo deixar a área, Williams teria fugido de um policial que tentou abordá-lo e batido o carro numa rodovia próxima; os três estavam no veículo. Jones chegou a ser ouvida e liberada, mas foi presa depois sem resistência.\n\nAlém das quatro acusações de tentativa de homicídio com arma letal, Williams responde por adulteração de provas e fuga em alta velocidade. Jones e Harris estão no Turner Guilford Knight Correctional Center, com fiança a definir; Williams está no Metrowest Detention Center, sem fiança.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/11/3-face-attempted-murder-charge-after-13-shots-fired-into-occupied-miami-dade-home-deputies-say/",
-   "published_at": "2026-11-11T11:56:58-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/4PEMT7NIS5DMFAVBN6IZFFIDLA.jpeg?auth=7ea3fe678a0497234c168a0180fa1b306567605b34738f2760207a3b7f9e23a0&width=700"
+   "body": "Segundo duas fontes ouvidas pela CBS News, o governo Trump está ciente do assunto. A queda das ações após a reportagem do Wall Street Journal ampliou dias de vendas em uma das empresas mais valiosas do mundo, cujos chips alimentam as principais firmas de IA e estão sujeitos a controles de exportação para a China.\n\nO New York Times revelou na semana passada a relação de Huang com Alice Huang (sem parentesco), que comandava a Megaspeed International, de Singapura, compradora de bilhões em hardware da Nvidia. A inteligência americana acredita que ela foi recrutada pelo Ministério de Segurança do Estado chinês; a Bloomberg informou que ela voltou à China.\n\nO conselho abriu no domingo uma investigação independente e disse não ter motivos para crer que segredos da empresa ou a segurança nacional tenham sido comprometidos.",
+   "category": "tecnologia",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+   "published_at": "2026-11-11T18:29:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/7769501e-306c-4c2c-b41f-e58d75720772/thumbnail/1200x630/80056fc5e8f3497ae3a3e9c569454b4b/gettyimages-2266718050.jpg"
   },
   {
-   "id": "miami-03-20261111-td",
-   "title": "Jeep invade restaurante Tucker Duke's em Deerfield Beach",
-   "summary": "Um Jeep Wrangler atravessou a entrada de vidro do restaurante Tucker Duke's Lunchbox, em Deerfield Beach, na manhã desta quarta-feira. O local ainda não estava aberto e ninguém se feriu.",
+   "id": "tecnologia-02-20261112-mn",
+   "title": "China acusa EUA de “fabricar” caso de espionagem na Nvidia",
+   "summary": "O governo chinês pediu que os EUA parem de “fabricar narrativas de espionagem” como pretexto para um “bloqueio tecnológico”, em meio ao escândalo envolvendo Jensen Huang. A Megaspeed disse que vai cooperar com as autoridades americanas.",
    "highlights": [
-    "Acidente ocorreu por volta das 9h30 na South Powerline Road",
-    "Danos ficaram limitados principalmente à fachada de vidro",
-    "Dono espera voltar a vender para viagem ou no food truck na quinta"
+    "Porta-voz Mao Ning negou as acusações",
+    "Trump e Xi se reúnem na próxima semana na APEC, em Shenzhen",
+    "Futuro de Huang na Nvidia, de US$ 4,2 tri, está em jogo"
    ],
-   "body": "Segundo o Gabinete do Xerife de Broward (BSO), equipes foram chamadas por volta das 9h30 para atender a um veículo que havia batido em um prédio comercial no número 1101 da South Powerline Road. Ao chegar, encontraram o carro completamente dentro do restaurante.\n\n“Cheguei e havia um Jeep Wrangler na minha área de refeições”, disse John Cortez, do Tucker Duke's Lunchbox. “Por sorte, ninguém estava aqui. Ainda não tínhamos aberto e ninguém se machucou.” Os bombeiros avaliaram que os danos se limitaram principalmente à fachada de vidro, sem danos estruturais iniciais, e o departamento de obras da cidade foi chamado para avaliar o imóvel.\n\nAs circunstâncias do acidente seguem sob investigação. Cortez disse esperar retomar as vendas para viagem ou servir comida no food truck já na quinta-feira.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/tucker-dukes-lunchbox-restaurnt-deerfield-beach-jeep-crash/",
-   "published_at": "2026-11-11T11:35:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/c0f19910-d352-4c61-8dd7-d244a9a7ab08/thumbnail/1200x630/c31daa89ff03f32024965627c4ac8f9f/cbsmiami-jeep-into-restaurant-1.jpg"
+   "body": "A porta-voz da Chancelaria chinesa, Mao Ning, afirmou que o avanço tecnológico do país se deve à inovação própria e à cooperação aberta, e que Pequim quer implementar o consenso entre os dois presidentes, que concordaram em aliviar tarifas e restrições tecnológicas num acordo em Busan, na Coreia do Sul.\n\nA Megaspeed declarou que leva “extremamente a sério” as leis americanas de controle de exportação. Huang, de 63 anos, passou anos fazendo lobby contra limites à venda de chips para a China; no ano passado, Trump liberou a exportação dos chips H200 apesar das objeções no Congresso.\n\nNão está claro se a Nvidia tem um plano de sucessão para o cofundador.",
+   "category": "tecnologia",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade",
+   "published_at": "2026-11-12T05:49:41-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af0e9130e-1794173203.jpg?resize=1920%2C1440"
   },
   {
-   "id": "miami-04-20261111-td",
-   "title": "Polícia de Plantation procura adolescente de 15 anos desaparecida",
-   "summary": "A polícia de Plantation pede ajuda para encontrar Maria Yessenia Trochez Medina, de 15 anos. Ela foi vista pela última vez perto do número 4200 da NW 5th Street, por volta das 7h30 de uma quinta-feira, segundo a polícia.",
+   "id": "tecnologia-03-20261112-mn",
+   "title": "Chefe de infraestrutura da Meta deixa o cargo; ex-Amazon assume",
+   "summary": "Santosh Janardhan, chefe de infraestrutura e co-chefe de engenharia da Meta desde longa data, vai deixar o cargo. Ele será substituído por Dave Brown, que passou 19 anos na Amazon trabalhando com computação, nuvem e IA.",
    "highlights": [
-    "Jovem tem 1,52 m, cerca de 54 kg, cabelos pretos e olhos castanhos",
-    "Usava camiseta preta de manga longa, calça azul e sandálias marrons",
-    "Informações: Polícia de Plantation, 954-797-2100"
+    "Janardhan está na empresa desde 2009",
+    "Ele passa a um papel consultivo no Meta Compute",
+    "Saída ocorre em plena corrida por data centers de IA"
    ],
-   "body": "Segundo a polícia de Plantation, Maria Yessenia Trochez Medina foi vista pela última vez perto do número 4200 da NW 5th Street, por volta das 7h30 de quinta-feira.\n\nEla mede cerca de 1,52 m (5 pés), pesa aproximadamente 54 kg (120 libras) e tem cabelos pretos e olhos castanhos. No momento do desaparecimento, vestia camiseta preta de manga longa, calça azul e sandálias marrons, e carregava uma bolsa marrom.\n\nAs autoridades pedem que qualquer pessoa com informações sobre o paradeiro da adolescente ligue para a Polícia de Plantation pelo telefone 954-797-2100.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/broward/missing-teen-maria-yessenia-trochez/",
-   "published_at": "2026-11-11T13:54:46-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261111_Maria_Yessenia_Trochez_missing_teen_Plantation.png"
+   "body": "Segundo a Meta, Janardhan ficará durante a transição e assumirá um papel de consultor no Meta Compute, iniciativa que ele passou a liderar neste ano para ampliar os investimentos em data centers. A saída deve se concretizar no ano que vem.\n\nO motivo não foi informado; o memorando interno, revelado pela Bloomberg, fala apenas em “passar o bastão”. Brown entrou na Meta neste ano como vice-presidente de infraestrutura. Os gastos da empresa com infraestrutura explodiram nos últimos anos na disputa com concorrentes em IA.",
+   "category": "tecnologia",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "published_at": "2026-11-11T15:12:01-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
   },
   {
-   "id": "miami-05-20261111-td",
-   "title": "Miami Beach celebra veteranos com desfile e travessia a nado",
-   "summary": "Miami Beach realizou nesta quarta-feira o 18º desfile anual do Dia dos Veteranos, no ano dos 250 anos dos EUA. Antes, veteranos e Navy SEALs atravessaram a nado a Baía de Biscayne até a Monument Island.",
+   "id": "tecnologia-04-20261112-mn",
+   "title": "CoreWeave recorre a pagamentos antecipados para financiar expansão em IA",
+   "summary": "A CoreWeave, que aluga poder computacional para IA, está pedindo que clientes paguem adiantado e fechando contratos mais curtos e caros para financiar seu crescimento. A receita do trimestre subiu 168%, para US$ 3,66 bilhões, mas houve prejuízo de US$ 709 milhões.",
    "highlights": [
-    "Travessia foi organizada pelo posto da VFW de Miami Beach",
-    "Nadadora recordista “Lady Mermaid” Merle Liivand participou",
-    "Mais de 500 mil soldados treinaram em Miami Beach na Segunda Guerra"
+    "Carteira de pedidos chega a US$ 132,5 bilhões",
+    "Empresa espera US$ 9 bi em pré-pagamentos em 3 meses",
+    "Preços subiram cerca de 25% em julho e mais 10% depois"
    ],
-   "body": "O Dia dos Veteranos começou com um mergulho: logo após o nascer do sol, veteranos do posto Veterans of Foreign Wars (VFW) de Miami Beach se reuniram às margens da Baía de Biscayne e nadaram até a Monument Island. “Queríamos homenagear o Dia dos Veteranos dos 250 anos da América com algo especial”, disse o veterano dos Fuzileiros Navais Alex Kruger-Dobrota. Navy SEALs e a nadadora Merle Liivand, a “Lady Mermaid”, cinco vezes recordista do Guinness, participaram.\n\nKruger-Dobrota lembrou que o posto existe desde 1936 e que, durante a Segunda Guerra Mundial, Miami Beach recebeu mais de 500 mil militares para treinamento, com mais de 200 hotéis transformados em alojamentos.\n\nDepois veio o 18º desfile anual. A cidade também exibiu cartas escritas por crianças para veteranos e distribuiu bandeiras aos participantes.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/11/in-miami-beach-some-honored-veterans-with-parade-others-took-a-plunge/",
-   "published_at": "2026-11-11T12:18:56-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-11-2026%2Ft_f1d446b7e0664b83abb5e8a5c3c94789_name_49575619670_hdtv.jpg?auth=d21a08c5d3ea89d9debf8ec744bc67884c9b313a61c4d5b624fe5c739ea83d40&width=700"
+   "body": "O CEO Michael Intrator disse que a empresa não usará dívida sem garantia nos juros atuais. Em vez disso, vai se apoiar em empréstimos lastreados em contratos específicos de clientes. A CoreWeave teve US$ 846 milhões em despesas com juros no trimestre.\n\nA companhia também está destinando mais capacidade a contratos de curto prazo, vendidos a mais de US$ 40 milhões por megawatt ao ano, contra US$ 20 a 25 milhões em contratos de quatro a cinco anos.\n\nRivais como Nebius e IREN também dependem de pagamentos antecipados da Microsoft. A estratégia só se sustenta se a demanda e o poder de preço atuais continuarem, avalia o TechCrunch.",
+   "category": "tecnologia",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "published_at": "2026-11-11T14:54:00-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024"
   },
   {
-   "id": "miami-06-20261111-td",
-   "title": "Custo de vida: 56% dos lares de Miami-Dade estão a um salário do colapso financeiro",
-   "summary": "Um relatório da United Way mostra que mais da metade das famílias de Miami-Dade não consegue pagar o básico. Organizações como Feeding South Florida e Chapman Partnership ampliaram a ajuda diante da alta dos custos.",
+   "id": "tecnologia-05-20261112-mn",
+   "title": "Apple lança comercial de fim de ano com o MacBook Neo como protagonista",
+   "summary": "O filme de fim de ano da Apple para 2026, “The Dreamer”, foge da tradição de destacar iPhone, Apple Watch e AirPods e coloca o Mac no centro, com o MacBook Neo. O iPhone 3GS faz uma participação especial.",
    "highlights": [
-    "Família de quatro precisa de mais de US$ 97 mil por ano; renda mediana é de US$ 76 mil",
-    "Despensa do Feeding South Florida passou de 40 para mais de 200 famílias por dia",
-    "63% dos inquilinos de Miami-Dade gastam mais de 30% da renda com moradia"
+    "Conta a história de um garoto apaixonado por desenho",
+    "Pais o presenteiam com um MacBook Neo na adolescência",
+    "Flashback mostra iPhone 3GS e um iMac de 2010"
    ],
-   "body": "“Nosso relatório recente mostra que 56% dos lares de Miami-Dade estão a um salário do desastre financeiro”, disse Symeria Hudson, presidente da United Way Miami. A renda familiar mediana no condado é de cerca de US$ 76 mil, mas uma família de quatro pessoas precisa de mais de US$ 97 mil para cobrir o essencial — uma diferença de mais de US$ 21 mil.\n\nO Feeding South Florida, que atende Palm Beach, Broward, Miami-Dade e Monroe, ampliou o horário e agora abre sete dias por semana; a entidade espera distribuir 127 milhões de libras de alimentos neste ano, ante 110 milhões em 2025. Em Miami-Dade faltam mais de 90 mil unidades de moradia acessível, e mais da metade dos lares de Broward também está sobrecarregada com custos de habitação.\n\nA Chapman Partnership, um dos maiores centros de assistência a pessoas sem-teto de Miami-Dade, fez parceria com a OneSight Foundation e a Sunglass Hut para oferecer exames de vista e óculos gratuitos a centenas de pessoas. A United Way tem um plano de cinco anos focado em saúde, educação e mobilidade econômica.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/miami-dade/south-florida-affordability-crisis/",
-   "published_at": "2026-11-11T13:12:29-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111126-South-Florida-organizations-stepping-up-as-residents-struggle-with-rising-costs-of-living.png"
+   "body": "No comercial, um menino que adora desenhar passa a esconder sua paixão por timidez e pressão dos colegas. O filme termina com os pais dando a ele um MacBook Neo, que ele usa para transformar seus desenhos em um desenho animado.\n\nNa descrição, a Apple diz que “às vezes basta alguém que acredite em nós para lembrarmos o que nos torna especiais”. O autor do 9to5Mac avaliou que pode ser o melhor anúncio da empresa em anos.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo/",
+   "published_at": "2026-11-12T06:47:20-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-neo-apple-holiday-film.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "miami-07-20261111-td",
-   "title": "Frente fria traz o ar mais fresco do outono ao Sul da Flórida no fim de semana",
-   "summary": "Depois de pancadas de chuva nesta quarta e quinta, uma frente fria passa na madrugada de sexta e traz o ar mais fresco da estação. As mínimas de sábado podem ficar entre 13 e 15 °C no interior, com tarde ensolarada e seca.",
+   "id": "tecnologia-06-20261112-mn",
+   "title": "Binance alerta usuários de iPhone sobre falha que expõe dados de outros apps",
+   "summary": "A corretora Binance alertou sobre a vulnerabilidade “worse_query” no iOS, que permitiria a apps maliciosos ler arquivos de outros aplicativos, colocando em risco frases-semente, chaves privadas e senhas. Pesquisadores dizem que a falha segue sem correção.",
    "highlights": [
-    "Quarta e quinta ainda quentes, com máximas perto de 27-29 °C e tempestades",
-    "Mínimas de sábado na faixa dos 50 °F (cerca de 13-15 °C)",
-    "Nova perturbação pode se aproximar no início da próxima semana"
+    "Afeta iOS 26.7.1, 27.0.1 e 27.2, segundo a Binance",
+    "iOS 27.2.1 e 27.3 beta 1 não corrigem, diz pesquisador",
+    "Não há relato de ataques ou roubos até agora"
    ],
-   "body": "A quarta-feira segue quente, com máximas entre 82 e 85 °F (cerca de 28-29 °C) e possibilidade de pancadas e tempestades à tarde, sobretudo no interior e na região metropolitana da costa leste, com rajadas de vento, raios e chuva forte. Na quinta, as máximas ficam perto de 80 °F (27 °C), com mais chuva ao longo do dia.\n\nA frente fria passa entre a noite de quinta e a manhã de sexta. Com a alta pressão vindo do noroeste, o vento fica forte e o ar mais frio e seco chega no sábado de manhã: as mínimas podem cair para a faixa de 55 a 59 °F (13-15 °C), com a costa leste perto de 60-62 °F (16-17 °C). A tarde de sábado deve ser ensolarada, com máximas por volta de 70-73 °F (21-23 °C), e o domingo segue seco, com máximas voltando a 75-80 °F.\n\nA pausa pode ser curta: os modelos indicam uma nova perturbação no norte do Golfo no início da próxima semana, que pode formar uma área de baixa pressão em direção à Flórida. A recomendação é ter um casaco leve à mão no sábado de manhã.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-november-11-2026/",
-   "published_at": "2026-11-11T13:58:07-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/4ef5345c-119d-42d0-8838-56ec4ef55aa6/thumbnail/1200x630/c6867c54f2a30df470888b34660658b6/dw01.png"
+   "body": "A falha foi divulgada pelos pesquisadores @0xjohnny e @forcequitOS, que publicaram no GitHub uma prova de conceito mostrando como driblar o “sandbox” do iOS, que normalmente impede um app de acessar arquivos de outro. A Binance destacou que o problema é do sistema, não exclusivo de seu app.\n\nEmbora o código seja voltado a desenvolvedores, já surgiram apps que o usam, incluindo um gerenciador de arquivos capaz de acessar, alterar e apagar dados de outros aplicativos sem jailbreak. A Binance recomenda que donos de criptomoedas em iPhone atualizem o aparelho e tomem medidas imediatas de proteção.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
+   "published_at": "2026-11-11T16:17:30-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "tecnologia-01-20261111-td",
+   "id": "tecnologia-07-20261112-mn",
+   "title": "Drone de segurança da Ring não terá controle manual após batidas em demonstração",
+   "summary": "A Ring confirmou que seu drone com câmera, previsto para janeiro, vai voar apenas no piloto automático por IA, sem opção de controle manual. Em demonstração à CBS News, um protótipo bateu duas vezes enquanto era pilotado manualmente.",
+   "highlights": [
+    "Drone segue rotas pré-programadas dentro de casa",
+    "Uma das batidas ocorreu após perda de conexão",
+    "Ring diz que voo autônomo é a melhor experiência"
+   ],
+   "body": "No vídeo exibido no CBS Mornings, o fundador da Ring, Jamie Siminoff, deixou a repórter Jo Ling Kent pilotar uma versão inicial pelo aplicativo. Na primeira queda, a empresa disse que a tecnologia anticolisão falhou; na segunda, o drone bateu numa parede porque perdeu a conexão com a internet. “Se perde a conexão, deveria parar e pousar. Não fez isso ali”, admitiu Siminoff.\n\nA Ring disse ao The Verge que explorou vários recursos durante o desenvolvimento, mas que o voo autônomo até pontos de patrulha com o “AI Pilot” é a melhor experiência. A empresa não respondeu se a decisão foi tomada após a demonstração.",
+   "category": "tecnologia",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+   "published_at": "2026-11-12T06:12:32-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+   "id": "tecnologia-08-20261112-mn",
    "title": "Tesla estende produção da Cybertruck até o fim do verão de 2027",
    "summary": "Elon Musk disse que a Tesla vai continuar fabricando a Cybertruck “até o fim do verão de 2027” para atender à fila de pedidos, cinco dias após anunciar o fim da picape. A decisão veio em meio a críticas de fãs da marca, que perguntam se a Tesla ainda fará carros para consumidores.",
    "highlights": [
@@ -469,55 +677,7 @@
    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "tecnologia-02-20261111-td",
-   "title": "Tesla confirma entrega de 50 caminhões elétricos Semi em Chicago",
-   "summary": "A Tesla anunciou que os “primeiros 50 Semis de Chicago” estão a caminho da cidade, um raro dado sobre as entregas do caminhão elétrico. O único pedido de 50 unidades ligado a Chicago é da transportadora HMD Trucking.",
-   "highlights": [
-    "Negócio vale cerca de US$ 15 milhões, ou US$ 300 mil por caminhão",
-    "HMD mediu consumo de 1,74 kWh por milha em testes",
-    "Tesla não divulga quantos Semis produz"
-   ],
-   "body": "A publicação na conta @tesla_semi no X mostrava quatro caminhões ao pôr do sol com a legenda “Hello Windy City”, sem citar o cliente. A HMD Trucking, empresa familiar fundada em Chicago em 1998, tem mais de 650 caminhões, quase todos a diesel, e encomendou 50 Semis após o evento de produção da Tesla em setembro. A empresa recebeu o primeiro em 2 de novembro, o primeiro Semi registrado em Illinois.\n\nEm mais de 4 mil milhas de testes no verão, a HMD registrou média de 1,74 kWh por milha, em linha com os 1,7 kWh prometidos pela Tesla. Os caminhões farão principalmente rotas locais, e a HMD instala seus próprios carregadores, já que a rede Megacharger ainda se concentra no Oeste. O dono, Henry Malukas, disse à MotorTrend que o negócio vale cerca de US$ 15 milhões.\n\nA Tesla iniciou a produção em volume na fábrica de Sparks, Nevada, em 24 de setembro e diz que ela pode produzir 50 mil caminhões por ano, mas não divulga ritmo de produção nem entregas do Semi. Há encomendas de Einride (500), WattEV (370) e IMC Logistics (50), entre outras.",
-   "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/",
-   "published_at": "2026-11-11T13:03:12-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Semi-deliveries-Chicago.jpeg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-03-20261111-td",
-   "title": "United Airlines proíbe agentes de IA de reservar voos para passageiros",
-   "summary": "A United anunciou que vai bloquear agentes de inteligência artificial de terceiros que façam reservas em nome de viajantes, citando riscos de segurança e possíveis violações de regras federais. As tarifas seguem disponíveis em buscadores como Kayak e Google Flights.",
-   "highlights": [
-    "Empresa diz que compartilhar credenciais com IA expõe dados e milhas",
-    "Check-in via IA pode violar regras sobre bagagem",
-    "Southwest adotou caminho oposto e abriu voos ao ChatGPT"
-   ],
-   "body": "Para fazer uma reserva, um agente de IA precisa acessar dados pessoais do cliente, incluindo informações de pagamento. Segundo a United, isso “pode expor informações sensíveis”, e as ações dessas ferramentas podem resultar em compras não intencionais, mudanças na conta ou uso de milhas do MileagePlus. A companhia também diz que fazer check-in com um agente pode violar regras federais, como a exigência de que o passageiro confirme pessoalmente que a bagagem não contém itens proibidos.\n\nA empresa vai restringir o acesso de agentes e assistentes pessoais de IA não autorizados diretamente em suas plataformas e, indiretamente, via agências e agregadores, e está atualizando suas políticas de reserva. Para o analista Henry Harteveldt, da Atmosphere Research, a United quer manter o controle do processo de venda e evitar mais um intermediário, além do custo das buscas feitas por robôs.\n\nOutras companhias seguem outra estratégia: a Southwest tornou seu inventário de voos acessível a usuários do ChatGPT. Harteveldt diz que os consumidores não terão mais dificuldade para achar boas tarifas da United, mas o bloqueio também não vai facilitar a busca.",
-   "category": "tecnologia",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "published_at": "2026-11-11T14:37:38-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg"
-  },
-  {
-   "id": "tecnologia-04-20261111-td",
-   "title": "Congresso pode intimar CEO da Nvidia por caso com suposta espiã chinesa",
-   "summary": "Deputados republicanos se preparam para intimar Jensen Huang, CEO da Nvidia, caso ele não aceite participar de uma reunião fechada sobre seu relacionamento com Alice Huang, executiva da Megaspeed suspeita de espionagem para a China, segundo a Bloomberg.",
-   "highlights": [
-    "Huang tinha até o fim desta quarta para responder",
-    "Pedido partiu de Brian Mast, John Moolenaar e Rick Crawford",
-    "Nvidia não comentou"
-   ],
-   "body": "A notícia vem uma semana depois de os republicanos Brian Mast, John Moolenaar e Rick Crawford enviarem carta pedindo que Huang comparecesse a uma sessão conjunta e fechada de suas comissões para tratar de suas relações com Alice Huang, executiva da Megaspeed apontada como suposta espiã chinesa.\n\nO presidente da comissão da Câmara sobre a China, Moolenaar, disse nesta quarta-feira à Fox Business que Huang tem até o fim do dia para responder; se não aceitar, provavelmente será intimado. Mast, que preside a Comissão de Relações Exteriores, afirmou que seu colegiado já prepara a intimação.\n\nA Nvidia não respondeu de imediato ao pedido de comentário do TechCrunch.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-   "published_at": "2026-11-11T14:22:22-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
-  },
-  {
-   "id": "tecnologia-05-20261111-td",
+   "id": "tecnologia-09-20261112-mn",
    "title": "Receita trimestral da OpenAI passa de US$ 10 bilhões pela primeira vez",
    "summary": "A receita da OpenAI no terceiro trimestre superou US$ 10 bilhões, alta de quase 50% em relação aos US$ 6,7 bilhões do segundo trimestre, segundo a Bloomberg. A empresa ainda opera com margem negativa e segue atrás da rival Anthropic no mercado corporativo.",
    "highlights": [
@@ -533,23 +693,7 @@
    "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
   },
   {
-   "id": "tecnologia-06-20261111-td",
-   "title": "Britânica Fractile levanta US$ 720 milhões para chips de IA",
-   "summary": "A startup britânica Fractile, que desenvolve chips para inteligência artificial, captou US$ 720 milhões em rodada Série C com apoio do fundo soberano de IA do Reino Unido. A empresa foi avaliada em mais de 5 bilhões de libras e quer entregar seus primeiros chips no ano que vem.",
-   "highlights": [
-    "Rodada liderada por Thrive, Founders Fund, Lightspeed e Redpoint",
-    "Projeto empilha memória DRAM sobre cada chip",
-    "Foco é reduzir o custo de inferência de grandes modelos"
-   ],
-   "body": "Com a rodada, a Fractile passa a figurar entre as startups mais bem financiadas na corrida por chips feitos sob medida para IA, ao lado de Axelera, Etched e OLIX. Esses chips são uma das apostas para reduzir o custo da inferência — o uso de modelos de IA cada vez mais exigentes em produção. Segundo o governo britânico, o objetivo é garantir que o Reino Unido tenha “maior participação no hardware que vai sustentar sua economia futura”.\n\nA empresa adota uma abordagem completa, que inclui um compilador de machine learning para acelerar a execução de LLMs em seus chips. Após uma mudança de rumo, o projeto passou a se basear em DRAM empilhada sobre cada chip, para tentar contornar o tradicional dilema entre memória e capacidade, que ficou mais crítico com a IA agêntica.\n\nO governo britânico informou valuation de “mais de 5 bilhões de libras”; Financial Times e Reuters falam em cerca de US$ 7 bilhões. O CEO Walter Goodwin disse no LinkedIn que ainda há “muito trabalho pela frente” e que o dinheiro permitirá “entregar os primeiros chips e sistemas no ano que vem”.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-   "published_at": "2026-11-11T14:34:55-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800"
-  },
-  {
-   "id": "tecnologia-07-20261111-td",
+   "id": "tecnologia-10-20261112-mn",
    "title": "Gemini, do Google, chega ao CarPlay da Apple",
    "summary": "O Google confirmou que o app do Gemini, com a experiência de conversa Gemini Live, começa a chegar ao Apple CarPlay a partir desta quarta-feira, para todos os usuários de iOS. O Gemini era o último grande chatbot de IA que ainda não estava no CarPlay.",
    "highlights": [
@@ -563,54 +707,6 @@
    "url": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
    "published_at": "2026-11-11T12:29:13-05:00",
    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-08-20261111-td",
-   "title": "ChatGPT Finances chega ao app do ChatGPT para Mac",
-   "summary": "A OpenAI levou o ChatGPT Finances, recurso de finanças pessoais, ao aplicativo do ChatGPT para Mac. A ferramenta, disponível apenas nos EUA, permite conectar contas financeiras para entender gastos, encontrar economias e acompanhar investimentos.",
-   "highlights": [
-    "Recurso está disponível para planos Free, Go, Plus e Pro",
-    "Inclui relatórios semanais e monitoramento de ações",
-    "Anthropic lançou recurso semelhante para o Claude"
-   ],
-   "body": "O ChatGPT Finances estreou em versão beta no app móvel e no site, inicialmente exigindo o plano de US$ 100 por mês, e chegou ao plano de US$ 20 no verão. Desde outubro, está disponível para todos os planos, inclusive gratuitos — a única restrição é ser limitado a usuários nos Estados Unidos.\n\nSegundo a OpenAI, os usuários podem “conectar com segurança suas contas financeiras para encontrar formas de economizar, entender seus gastos e dar sentido aos seus investimentos”. O recurso oferece relatórios financeiros semanais, monitoramento de ações, suporte por voz e criação de ferramentas financeiras personalizadas.\n\nPara usar no Mac, basta atualizar o aplicativo de desktop do ChatGPT e acessar Finances na barra lateral. A Anthropic lançou recentemente uma função de finanças pessoais semelhante para o Claude.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
-   "published_at": "2026-11-11T14:58:26-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?resize=1200,628"
-  },
-  {
-   "id": "tecnologia-09-20261111-td",
-   "title": "watchOS 27.3 traz Siri mais capaz, Live Rewind e Siri Recap ao Apple Watch",
-   "summary": "O watchOS 27.3, já em beta, será liberado a todos no mês que vem com três novidades: novas ações da Siri com IA em apps nativos, o recurso Live Rewind, que mostra o que foi dito nos últimos 15 segundos, e o Siri Recap, que registra automaticamente o dia a dia.",
-   "highlights": [
-    "Siri ganha suporte a chinês tradicional, norueguês, turco e vietnamita",
-    "Live Rewind é acionado com dois toques na Digital Crown",
-    "Siri Recap só funciona no Series 12 e no Ultra 4"
-   ],
-   "body": "A atualização amplia as ações da Siri com IA em apps como Calendário, Mail, Mapas, Mensagens, Música, Notas, Fotos e Tempo, permitindo fazer mais tarefas direto do pulso. Também chegam quatro novos idiomas para a Siri com IA: chinês tradicional, norueguês, turco e vietnamita.\n\nNos modelos mais recentes, o Live Rewind, recurso de “Audio Intelligence”, mostra na tela um trecho em texto do que foi dito nos últimos 15 segundos ao pressionar duas vezes a Digital Crown; é possível perguntar à Siri sobre o conteúdo ou salvá-lo no app da Siri. A Apple demonstrou o recurso em setembro com um usuário que perdeu parte da explicação de um garçom sobre o cardápio.\n\nJá o Siri Recap, exclusivo do Apple Watch Series 12 e do Ultra 4 e desligado por padrão, cria registros automáticos do cotidiano, que são apagados após uma semana. Segundo o 9to5Mac, que testou a função, ela ajuda a lembrar detalhes de conversas.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/",
-   "published_at": "2026-11-11T11:33:39-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-watch-series-12-watchos-27-2-music.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-10-20261111-td",
-   "title": "UE propõe lei contra loot boxes, design viciante e publicidade oculta de influenciadores",
-   "summary": "A Comissão Europeia apresentou o Digital Fairness Act (DFA), proposta que mira práticas online que levam consumidores a gastar mais tempo e dinheiro, como preços enganosos, loot boxes em jogos, recursos viciantes e marketing não declarado de influenciadores. Multas podem chegar a 6% do faturamento global.",
-   "highlights": [
-    "Comissão estima economia de até € 13,7 bilhões por ano aos consumidores",
-    "Indústria de games chamou regras de “inviáveis”",
-    "Texto ainda precisa passar pelo Parlamento e pelo Conselho da UE"
-   ],
-   "body": "Segundo a Comissão, a lei “vai proteger consumidores de todas as idades que compram e navegam online” e garantir concorrência mais justa entre empresas, com economia estimada de até € 13,7 bilhões (US$ 15,1 bilhões) por ano para os consumidores europeus. O alcance é amplo e pode afetar desde os algoritmos de “toca do coelho” de YouTube, TikTok e Meta até chatbots de IA e apps como o Duolingo, que incentivam o uso contínuo.\n\nOrganizações do setor de games já criticaram as restrições a moedas virtuais, loot boxes e microtransações oferecidas a menores, chamando-as de “inviáveis, injustificadas e desproporcionais”.\n\nPor ser uma proposta, o DFA ainda passará pelo Parlamento Europeu e pelo Conselho da UE e pode ser alterado. “Não estamos dificultando os negócios. Estamos dificultando fazer negócios de forma injusta”, disse o comissário Michael McGrath.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-   "published_at": "2026-11-11T13:13:52-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
   }
  ]
 }
