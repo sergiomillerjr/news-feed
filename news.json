@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated_at": "2026-11-12T07:06:11-05:00",
+ "generated_at": "2026-11-12T07:07:23-05:00",
  "edition": "manha",
  "timezone": "America/New_York",
  "items": [
@@ -131,38 +131,6 @@
    "url": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
    "published_at": "2026-11-12T05:00:00-05:00",
    "image_url": "https://media.npr.org/assets/img/2024/01/02/ap23364752001819_wide-c79f7c09ca9cb02b1c8b0c3307b43e6960283b61.jpg?s=1400&c=85&f=webp"
-  },
-  {
-   "id": "eua-09-20261112-mn",
-   "title": "Petição na Câmara força votação de novo projeto sobre arquivos de Epstein",
-   "summary": "O deputado republicano Thomas Massie conseguiu as 218 assinaturas necessárias para forçar a votação de um projeto que obriga o Departamento de Justiça a divulgar os arquivos restantes do caso Jeffrey Epstein. A proposta permite que parlamentares, procuradores estaduais e vítimas processem o governo por descumprir a lei de transparência.",
-   "highlights": [
-    "Petição atingiu 218 assinaturas nesta quarta-feira",
-    "Quatro republicanos e todos os democratas assinaram",
-    "Massie diz que o DOJ retém mais de 3 milhões de arquivos"
-   ],
-   "body": "O republicano Thomas Massie, do Kentucky, reuniu nesta quarta-feira apoio suficiente para levar ao plenário da Câmara o Epstein Files Transparency Act II. Ele lançou uma petição de dispensa (discharge petition) no verão para contornar a liderança da Casa; o mecanismo exige 218 assinaturas. Além de Massie, assinaram os republicanos Brian Fitzgerald (Pensilvânia), Nancy Mace e Ralph Norman (ambos da Carolina do Sul), além de todos os democratas.\n\nO projeto permite que membros do Congresso, procuradores-gerais estaduais e sobreviventes de Epstein processem o Departamento de Justiça por não cumprir a Lei de Transparência dos Arquivos Epstein, sancionada há quase um ano depois de uma manobra parlamentar semelhante.\n\nMassie acusa o Departamento de Justiça de ignorar “de forma flagrante e consistente” as exigências de divulgação. Em julho, ele afirmou que o órgão “continua retendo ilegalmente mais de 3 milhões de arquivos de Epstein” e mantém “tarjas pesadas” nos documentos que libera.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/epstein-files-bill-discharge-petition-thomas-massie/",
-   "published_at": "2026-11-11T14:10:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/cb465192-a11d-41f8-8371-5087e79ef41b/thumbnail/1200x630/453aff8b782f67a2592e8633949d3165/jeffrey-epstein-promo.jpg"
-  },
-  {
-   "id": "eua-10-20261112-mn",
-   "title": "Gasolina cai abaixo de US$ 4 o galão pela primeira vez em meses",
-   "summary": "O preço médio da gasolina nos EUA caiu para US$ 3,94 o galão, segundo a AAA, após recuar cerca de 40 centavos em um mês. Analistas atribuem a queda à mudança sazonal e, principalmente, ao recuo do petróleo Brent, mas alertam que uma escalada da guerra com o Irã pode reverter o alívio.",
-   "highlights": [
-    "Média nacional da gasolina comum está em US$ 3,94",
-    "Brent caiu para cerca de US$ 90 o barril",
-    "Especialistas dizem que a eleição não explica a queda"
-   ],
-   "body": "O preço da gasolina cruzou a barreira dos US$ 4 na terça-feira, e a maior parte da queda de cerca de 40 centavos ocorreu nas últimas duas semanas. “Muitos vão supor que a eleição teve algo a ver com isso, mas é um mito”, escreveu Patrick De Haan, chefe de análise de petróleo do GasBuddy, apontando a mudança sazonal: menos gente dirige no frio, as refinarias encerram a manutenção anual e a mistura de inverno é mais barata.\n\nPara Jorge León, da consultoria Rystad Energy, o principal fator é a queda do petróleo Brent, hoje perto de US$ 90 o barril, por causa de mais petróleo saindo do Oriente Médio por oleodutos e do otimismo com os esforços diplomáticos entre EUA e Irã. Ele alerta que, se houver nova escalada militar, boa parte da queda pode ser revertida rapidamente.\n\nSegundo Jaime Brito, da Dow Jones Energy, mesmo com o Brent em queda não haverá uma “normalização” completa aos níveis anteriores ao conflito. Para isso, toda a cadeia de abastecimento precisaria se recuperar, incluindo a volta dos navios que hoje fazem rotas alternativas para evitar o Estreito de Ormuz.",
-   "category": "eua",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-   "published_at": "2026-11-11T14:59:14-05:00",
-   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8054x4530+0+419/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fb1%2F79ee5cd14420a25d6111b7bf6a03%2Fgettyimages-2248589851.jpg"
   },
   {
    "id": "mundo-01-20261112-mn",
@@ -357,38 +325,6 @@
    "image_url": "https://westonjournal.com/img/how-weston-voted-governor-2026.webp"
   },
   {
-   "id": "weston-03-20261112-mn",
-   "title": "Weston: I-595 tem faixas fechadas à noite até sexta; nova obra começa dia 15",
-   "summary": "Três faixas internas da I-595 sentido leste, logo a leste da Hiatus Road, fecham todas as noites, das 21h às 4h, até sexta-feira, 13 de novembro, segundo o FDOT. A partir de domingo, 15, começa a pintura de faixas na I-595 entre a I-75 e a SW 136th Avenue.",
-   "highlights": [
-    "Fechamentos noturnos na I-595 leste vão até 13 de novembro",
-    "Pintura de faixas na I-595 começa em 15 de novembro",
-    "Rampa da I-75 para a Royal Palm Blvd não tem fechamento previsto nesta semana"
-   ],
-   "body": "O fechamento que mais afeta os motoristas de Weston nesta semana é na I-595 sentido leste, cerca de meio quilômetro a leste da Hiatus Road, onde três faixas internas ficam fechadas das 21h às 4h até sexta-feira, conforme o relatório semanal do Departamento de Transportes da Flórida (FDOT) para Broward. O relatório não lista fechamento da saída da I-75 sul para a Royal Palm Boulevard, mas a prefeitura ainda cita 9 a 12 de novembro como datas de contingência; se ocorrer, o desvio será pela Griffin Road, Weston Road e Royal Palm Boulevard.\n\nA partir de domingo, 15 de novembro, o projeto de recapeamento da I-595 fará pintura termoplástica das faixas entre a I-75 e a SW 136th Avenue em noites selecionadas até quinta-feira, 19, com datas reserva de 22 a 24 de novembro e pausa no feriado de Ação de Graças. Haverá fechamentos de faixas e da rampa para a State Road 84 no sentido oeste.\n\nNa I-75, a ampliação das pistas e das rampas na Royal Palm Boulevard e na Griffin Road continua, com possíveis fechamentos noturnos de faixa. O Weston Journal recomenda consultar o FL511 antes de viagens tarde da noite.",
-   "category": "weston",
-   "source": "Weston Journal",
-   "url": "https://westonjournal.com/road-construction-and-closures/",
-   "published_at": "2026-11-08T00:00:00-05:00",
-   "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
-  },
-  {
-   "id": "weston-04-20261112-mn",
-   "title": "Prefeita e mais dois líderes de Weston recebem prêmio estadual “Home Rule Heroes”",
-   "summary": "A Liga das Cidades da Flórida homenageou a prefeita Margaret Brown, o vice-prefeito Henry Mead e o vice-administrador e diretor financeiro Darrel Thomas como “Home Rule Heroes” de 2026. O prêmio reconhece quem defendeu os interesses das cidades durante a sessão legislativa estadual.",
-   "highlights": [
-    "Prêmio é dado a autoridades atuantes junto ao Legislativo estadual",
-    "Líderes levaram dados e exemplos locais aos deputados",
-    "“Home Rule” é o poder das cidades de decidir questões locais"
-   ],
-   "body": "A Florida League of Cities concede o prêmio anualmente a autoridades municipais — eleitas ou do quadro técnico — que respondem aos alertas legislativos da entidade, conversam com parlamentares estaduais e explicam como novos projetos de lei podem afetar as cidades. Durante a sessão legislativa de 2026, os três representantes de Weston compartilharam dados e exemplos reais com os legisladores.\n\n“Vozes locais importam, e durante a sessão legislativa de 2026 esses líderes garantiram que essas vozes fossem ouvidas”, disse Casey Cook, chefe de assuntos legislativos da Liga, destacando que o trio se envolveu “cedo e com frequência”.\n\nSegundo a prefeitura, ter três autoridades premiadas mostra o trabalho contínuo da cidade junto aos parlamentares estaduais. O “Home Rule” é o poder que as cidades da Flórida têm de resolver questões locais conforme suas necessidades, desde que não conflitem com leis estaduais ou federais.",
-   "category": "weston",
-   "source": "Weston Together",
-   "url": "https://westontogether.com/2026/11/03/weston-leaders-2026-home-rule-heroes/",
-   "published_at": "2026-11-03T16:08:39-05:00",
-   "image_url": "https://westontogether.com/wp-content/uploads/sites/47/2026/11/weston-2026-home-rule-heroes.jpg"
-  },
-  {
    "id": "miami-01-20261112-mn",
    "title": "Navio SS United States é afundado na Flórida e vira o maior recife artificial do mundo",
    "summary": "O lendário transatlântico SS United States, de 300 metros, foi afundado de forma controlada e sem explosivos na quarta-feira, a cerca de 20 milhas náuticas da costa do Golfo da Flórida. O navio se tornará o maior recife artificial do mundo.",
@@ -534,19 +470,19 @@
   },
   {
    "id": "miami-10-20261112-mn",
-   "title": "Acidente no Turnpike deixa ao menos 8 feridos no sudoeste de Miami-Dade",
-   "summary": "Uma colisão entre um SUV preto e uma van de trabalho branca deixou ao menos oito feridos e fechou as pistas norte do Florida's Turnpike perto da Tamiami Trail (SW 8th Street) nesta quarta-feira. Algumas faixas foram reabertas, mas havia grandes atrasos.",
+   "title": "Avião de pequeno porte sai da pista no Fort Lauderdale Executive Airport",
+   "summary": "Um Cessna 172 saiu da pista após pousar no Fort Lauderdale Executive Airport na tarde de quarta-feira e parou em uma área gramada entre duas pistas, perto da Commercial Boulevard. Não houve feridos.",
    "highlights": [
-    "Acidente ocorreu pouco antes das 11h30",
-    "Oito ocupantes foram levados ao hospital",
-    "Todas as pistas sentido norte chegaram a ser fechadas"
+    "As duas pessoas a bordo saíram ilesas",
+    "FAA confirmou que o avião saiu da pista após o pouso",
+    "Equipes de emergência foram ao local"
    ],
-   "body": "Segundo a Patrulha Rodoviária da Flórida (FHP), o acidente aconteceu nas pistas sentido norte do Turnpike pouco antes das 11h30, perto da Southwest 8th Street, conhecida como Tamiami Trail, no sudoeste de Miami-Dade.\n\nA colisão envolveu um SUV preto e uma van de trabalho branca. Todas as pistas sentido norte foram fechadas, e oito ocupantes foram transportados para um hospital com ferimentos. Poucos detalhes foram divulgados até o momento.\n\nAlgumas faixas começaram a ser reabertas ao longo do dia, mas os motoristas enfrentavam grandes atrasos na região.",
+   "body": "Imagens do helicóptero da WSVN mostraram veículos de emergência ao redor do Cessna 172, parado na grama entre as pistas. Autoridades conversavam no local com as duas pessoas que estavam a bordo.\n\nSegundo a Administração Federal de Aviação (FAA), a aeronave desviou da pista depois de pousar. A emissora informou que a apuração do caso ainda estava em andamento.",
    "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/floridas-turnpike-crash-tamiami-trail-southwest-miami-dade/",
-   "published_at": "2026-11-11T11:57:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/8c2e9c9b-f614-4b40-83d1-c221dffefc2a/thumbnail/1200x630/e83e9893d77b48c5275dcecb3bd4b441/snapshot-1.jpg"
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/small-plane-skids-fort-lauderdale-airport/",
+   "published_at": "2026-11-11T17:51:06-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111126-ft-lauderale-exec-airport-plane-skids-off-runway.png"
   },
   {
    "id": "tecnologia-01-20261112-mn",
@@ -662,51 +598,19 @@
   },
   {
    "id": "tecnologia-08-20261112-mn",
-   "title": "Tesla estende produção da Cybertruck até o fim do verão de 2027",
-   "summary": "Elon Musk disse que a Tesla vai continuar fabricando a Cybertruck “até o fim do verão de 2027” para atender à fila de pedidos, cinco dias após anunciar o fim da picape. A decisão veio em meio a críticas de fãs da marca, que perguntam se a Tesla ainda fará carros para consumidores.",
+   "title": "Vendas de carros 100% elétricos saltam 49% na Europa em outubro",
+   "summary": "As vendas globais de veículos elétricos cresceram 8% em outubro, para 2,09 milhões, segundo a Benchmark Mineral Intelligence. Na Europa, os elétricos a bateria subiram 49%, e a América do Norte teve sua primeira alta anual de 2026 — mas sobre uma base fraca.",
    "highlights": [
-    "Prazo ganha de dois a três meses em relação ao anúncio inicial",
-    "Cybertruck mais barata agora custa US$ 92.490",
-    "Linha de consumo ficará restrita a Model 3 e Model Y"
+    "Europa vendeu 510 mil elétricos e híbridos plug-in em outubro",
+    "Alemanha passou de 45% de participação; Portugal chegou a 55%",
+    "Alta de 24% nos EUA compara com mês pós-fim do crédito fiscal"
    ],
-   "body": "Em 6 de novembro, Musk havia dito que a produção na Giga Texas seria encerrada “por volta do meio do ano que vem” para abrir espaço ao Cybercab; em 9 de novembro, falou em fechar a linha “em cerca de 8 meses” e devolver depósitos. Agora, o prazo vai até o fim do verão. Segundo o Electrek, a picape vendia cerca de 30 mil unidades por ano antes do anúncio — cerca de 10% das 250 mil planejadas — e a fila de pedidos foi inflada pela “última chamada”.\n\nNo mesmo dia do anúncio, a Tesla aumentou os preços da Cybertruck em até 10% e suspendeu pedidos da versão Dual Motor básica; a mais barata passou a custar US$ 92.490, ante US$ 69.990 no início de agosto. Fãs conhecidos, como o testador de FSD Chuck Cook, pediram que Musk mude de ideia, e outro apoiador perguntou: “A Tesla vai fazer algum outro veículo?”\n\nA Tesla começou 2026 com cinco programas de veículos de consumo e encerrou o Model S e o Model X na primavera. Sem a Cybertruck, a partir do outono de 2027 a linha será formada apenas por Model 3 e Model Y, lançados em 2017 e 2020, e a empresa ainda não anunciou nenhum novo modelo para consumidores.",
+   "body": "Somando os dez primeiros meses do ano, o mundo vendeu 17,5 milhões de veículos elétricos, alta de 5%. Na Europa, as vendas de outubro subiram 36% na comparação anual, puxadas pelos carros totalmente elétricos; a região já soma 4,5 milhões de unidades em 2026.\n\nNa Alemanha, as vendas de elétricos a bateria cresceram quase 80%, para mais de 95 mil, e a participação nos carros novos foi a maior desde dezembro de 2022. O Reino Unido cresceu 30% e, em Portugal, os elétricos representaram 55% das vendas.\n\nNa América do Norte, as vendas subiram 24%, para 130 mil. O Electrek ressalta, porém, que outubro de 2025 foi o primeiro mês após o fim do crédito fiscal federal nos EUA, quando as vendas despencaram — por isso a alta não significa que a demanda voltou ao nível anterior.",
    "category": "tecnologia",
    "source": "Electrek",
-   "url": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
-   "published_at": "2026-11-11T13:24:50-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-09-20261112-mn",
-   "title": "Receita trimestral da OpenAI passa de US$ 10 bilhões pela primeira vez",
-   "summary": "A receita da OpenAI no terceiro trimestre superou US$ 10 bilhões, alta de quase 50% em relação aos US$ 6,7 bilhões do segundo trimestre, segundo a Bloomberg. A empresa ainda opera com margem negativa e segue atrás da rival Anthropic no mercado corporativo.",
-   "highlights": [
-    "Margem operacional ajustada melhorou de -150% para -109%",
-    "Receita anualizada chegou a US$ 50 bilhões",
-    "Anthropic reportou US$ 17 bilhões no 3º trimestre"
-   ],
-   "body": "Segundo fontes anônimas ouvidas pela Bloomberg, o salto se deve à forte demanda pelos modelos de IA mais recentes da OpenAI. O crescimento acelerou bastante em relação ao ritmo de cerca de 18% registrado entre o primeiro e o segundo trimestres.\n\nA OpenAI se beneficiou de preços mais rígidos, descontos, modelos melhores e maior foco em produtos corporativos e agentes de IA. Ainda assim, a Anthropic, criadora do Claude, assumiu a liderança no mercado empresarial, reportou receita de US$ 17 bilhões no terceiro trimestre e disse que sua receita anualizada subiu US$ 10 bilhões em um mês, para US$ 81 bilhões no fim de outubro, enquanto busca valuation de US$ 1,4 trilhão em um IPO.\n\nO TechCrunch observa que as duas empresas calculam a receita anualizada de forma diferente: a Anthropic inclui vendas feitas por parceiros de nuvem, enquanto a OpenAI conta apenas sua parte. Ambas também competem com Meta, Amazon, Microsoft, Google e modelos abertos mais baratos, especialmente chineses.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-   "published_at": "2026-11-11T11:14:44-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
-  },
-  {
-   "id": "tecnologia-10-20261112-mn",
-   "title": "Gemini, do Google, chega ao CarPlay da Apple",
-   "summary": "O Google confirmou que o app do Gemini, com a experiência de conversa Gemini Live, começa a chegar ao Apple CarPlay a partir desta quarta-feira, para todos os usuários de iOS. O Gemini era o último grande chatbot de IA que ainda não estava no CarPlay.",
-   "highlights": [
-    "Lançamento é global, em todos os idiomas do Gemini Live",
-    "ChatGPT, Claude, Perplexity, Copilot e outros já tinham suporte",
-    "É preciso atualizar o app e usar o Gemini Live no iPhone antes"
-   ],
-   "body": "Até agora, o Google oferecia recursos do Gemini no CarPlay apenas por meio do Google Maps, sem a experiência completa do Gemini Live no aplicativo dedicado. Apps como ChatGPT, Perplexity, Claude, Copilot, Meta AI e Grok já tinham versões para o CarPlay, e a Siri ganhou um app próprio no iOS 27, também compatível.\n\n“O Gemini no Apple CarPlay começa a ser liberado globalmente hoje para todos os usuários do Gemini no iOS, em todos os idiomas compatíveis com o Gemini Live”, informou o Google. Para usar, é preciso atualizar o app no iPhone, permitir o acesso ao microfone e ter usado o Gemini Live no celular ao menos uma vez; depois, basta tocar no ícone do Gemini na tela do CarPlay.\n\nSegundo o 9to5Mac, a atualização ainda não parecia disponível no momento da publicação, mas o anúncio indica que deve chegar ainda hoje.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
-   "published_at": "2026-11-11T12:29:13-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+   "published_at": "2026-11-11T19:01:00-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&strip=all&resize=1200,628"
   }
  ]
 }
