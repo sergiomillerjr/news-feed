@@ -1,315 +1,331 @@
 {
  "version": 2,
- "generated_at": "2026-11-13T11:17:42-05:00",
- "edition": "meio-dia",
+ "generated_at": "2026-11-13T15:09:05-05:00",
+ "edition": "tarde",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "eua-01-20261113-md",
-   "title": "Atirador de Washington confessou e citou briga com condomínio",
-   "summary": "O médico apontado como autor do tiroteio de quinta-feira em um condomínio de Washington confessou os disparos a uma administradora do prédio, segundo relato ao Washington Post. Ele se queixava de mofo e infiltrações no apartamento.",
+   "id": "eua-01-20261113-td",
+   "title": "Suprema Corte vai julgar suspensão do asilo na fronteira com o México",
+   "summary": "A Suprema Corte dos EUA aceitou nesta sexta-feira julgar a ordem de Trump que suspendeu o acesso ao asilo para migrantes que cruzam ilegalmente a fronteira sul. Instâncias inferiores consideraram a medida ilegal; a decisão deve sair até o fim de junho ou início de julho.",
    "highlights": [
-    "Um morto e ao menos quatro feridos em Logan Circle",
-    "Atirador, de 55 anos, foi achado morto no apartamento",
-    "Disputa judicial com a administração do prédio"
+    "Proclamação de Trump declarou \"invasão\" na fronteira",
+    "Juiz federal e tribunal de apelação barraram a regra",
+    "Corte também analisa deportações a terceiros países"
    ],
-   "body": "Novos detalhes surgiram nesta sexta-feira sobre o tiroteio da manhã de quinta-feira no bairro de Logan Circle, em Washington, não muito longe da Casa Branca. A polícia identificou o atirador como Matt Lambert, médico de 55 anos que travava uma disputa judicial com a administração do condomínio onde morava. O morto foi identificado como James Stuart, 46 anos, gerente do complexo.\n\nSegundo a polícia, Lambert matou Stuart dentro da academia do prédio pouco antes das 8h e, de volta ao apartamento, atirou da varanda contra quatro pessoas, levadas ao hospital — uma delas em estado crítico. Depois se trancou na unidade e foi encontrado morto, com um ferimento autoinfligido.\n\nA administradora Charelle Ferguson contou ao Washington Post que falou com Lambert por telefone cerca de uma hora após o início dos disparos, quando ligava para moradores. Segundo ela, ele disse estar cansado do mofo e dos danos causados por água no apartamento e afirmou que \"a única forma de as pessoas prestarem atenção é fazer alguma coisa\".",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
-   "published_at": "2026-11-13T10:25:28-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/213c7a3b1bea4b9ac7668613d39560ede8f97c8b/445_0_2259_1808/master/2259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b00faf1bf9c9fc589315e494f71f4679"
-  },
-  {
-   "id": "eua-02-20261113-md",
-   "title": "Lutnick vai depor no Senado; Bessent culpa Comércio por chips",
-   "summary": "O secretário de Comércio, Howard Lutnick, aceitou depor ao Comitê Bancário do Senado em 10 de dezembro sobre a fiscalização da exportação de chips de IA. O secretário do Tesouro, Scott Bessent, atribuiu ao Departamento de Comércio a demora em restringir a empresa Megaspeed.",
-   "highlights": [
-    "Depoimento marcado para 10 de dezembro",
-    "Megaspeed era liderada pela suposta espiã Alice Huang",
-    "Republicanos cobram explicações de Lutnick"
-   ],
-   "body": "O secretário de Comércio dos EUA, Howard Lutnick, concordou em depor perante o Comitê Bancário do Senado em 10 de dezembro, segundo uma autoridade americana, em meio ao aumento da pressão sobre a fiscalização de exportações de chips avançados de IA após a renúncia do CEO da Nvidia, Jensen Huang. Um número crescente de republicanos quer saber por que o departamento demorou a incluir a Megaspeed International, de Singapura, na lista de entidades restritas.\n\nA Megaspeed era comandada por Alice Huang, suspeita de ser espiã chinesa e que teve um caso com Jensen Huang. O governo americano suspeita que a empresa desviava chips avançados da Nvidia para a China, burlando a proibição de exportação. O senador republicano Jim Banks afirmou à Fox News que o Comércio parece ter usado brechas para permitir algumas dessas vendas.\n\nNesta sexta-feira, o secretário do Tesouro, Scott Bessent, disse à CNBC que Tesouro, Departamento de Guerra, USTR e Departamento de Estado defendiam havia meses a inclusão da Megaspeed na lista, \"mas quem tem a caneta é o Comércio\", sugerindo que as perguntas sobre a demora sejam feitas àquele departamento.",
+   "body": "A Suprema Corte dos Estados Unidos anunciou nesta sexta-feira que vai analisar a disputa judicial sobre a diretriz do presidente Donald Trump que suspende o acesso ao sistema de asilo e a outras proteções legais para migrantes que atravessam a fronteira sul de forma irregular. É mais um caso da agenda migratória do segundo mandato que chega aos juízes, que também avaliam a remoção de migrantes para terceiros países e a detenção indefinida sem audiência de fiança.\n\nNo primeiro dia de volta à Casa Branca, Trump assinou uma proclamação afirmando haver uma \"invasão\" na fronteira, suspendeu a entrada de migrantes entre os postos oficiais e os impediu de pedir asilo. Desde então, as autoridades de imigração usam a política para remover sumariamente quem entra ilegalmente, sem permitir o pedido de proteção.\n\nEm fevereiro de 2025, três ONGs e 13 pessoas entraram com uma ação coletiva. O juiz federal Randolph Moss, de Washington, anulou as restrições, afirmando que nem a Constituição nem a lei de imigração dão ao presidente autoridade para substituir as regras aprovadas pelo Congresso. Em abril, um painel dividido de três juízes de apelação manteve a decisão, e o governo recorreu à Suprema Corte. O julgamento deve ser concluído até o fim de junho ou início de julho.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/",
-   "published_at": "2026-11-13T10:13:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/97c3b7d4-9b63-4660-bb9e-9e76b351d922/thumbnail/1200x630g1/ea6aeb777fdfd7bd6a5b0f1f2ca92274/ap26294028368036.jpg"
+   "url": "https://www.cbsnews.com/news/supreme-court-trump-asylum-u-s-mexico-border/",
+   "published_at": "2026-11-13T14:09:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/aad939c7-d4b0-4c6e-a37b-3b8772fd5d4e/thumbnail/1200x630/fdc1f7acb35cb9b0b3e5854af848e4cb/gettyimages-2299615599.jpg"
   },
   {
-   "id": "eua-03-20261113-md",
-   "title": "Inflação no atacado desacelera, mas segue alta: 6,5% em 12 meses",
-   "summary": "O índice de preços ao produtor subiu 0,3% em outubro, abaixo do salto de 1,4% de setembro. Na comparação anual, porém, a alta chegou a 6,5%, a maior desde novembro de 2022.",
+   "id": "eua-02-20261113-td",
+   "title": "Defesa de Alex Murdaugh pede anulação das acusações de assassinato",
+   "summary": "Os advogados de Alex Murdaugh pediram a uma juíza que anule as acusações originais pela morte da esposa e do filho, alegando que o investigador-chefe mentiu ao grande júri. A juíza promete decisão por escrito na próxima semana; o novo julgamento está marcado para abril.",
    "highlights": [
-    "PPI subiu 0,3% de setembro para outubro",
-    "Alta anual de 6,5%, acima dos 6,3% de setembro",
-    "Fed pode voltar a subir juros"
+    "Agente David Owen teria dado informações falsas ao júri",
+    "Suprema Corte da Carolina do Sul anulou a condenação",
+    "Promotoria pode obter novas acusações antes de abril"
    ],
-   "body": "A inflação no atacado esfriou um pouco em outubro, mas continua elevada, segundo dados do Departamento do Trabalho divulgados nesta sexta-feira. O índice de preços ao produtor, que mede a inflação antes de chegar ao consumidor, subiu 0,3% em relação a setembro, depois de um salto de 1,4% no mês anterior. Em 12 meses, porém, a alta foi de 6,5%, ante 6,3% em setembro — a maior desde novembro de 2022. Há um ano, a inflação no atacado era de apenas 3,1%.\n\nExcluindo alimentos e energia, os preços subiram 0,3% no mês e 5% em 12 meses. A desaceleração se deveu principalmente à estabilização dos preços de energia, mas há sinais de que a gasolina cara está se espalhando para outros setores, e a construção de data centers de IA também pressiona custos.\n\nOs números indicam preços subindo bem acima da meta de 2% do Federal Reserve. Depois de o índice ao consumidor acelerar em outubro, vários dirigentes do Fed sinalizaram que provavelmente terão de elevar os juros novamente, talvez mais de uma vez — o que encarece hipotecas, financiamentos de carros e cartões de crédito.",
-   "category": "eua",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/13/wholesale-inflation-declined-last-month-yet-remains-stubbornly-elevated/",
-   "published_at": "2026-11-13T08:36:41-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/MH7NUQTSMVPPKU6BYF7N32WVRI.jpg?auth=6f724dd14653f1f4e4ddf9a5e8d0aa37b5b90cb92d465ee5e9664d17aec40edf&width=700"
-  },
-  {
-   "id": "eua-04-20261113-md",
-   "title": "Democratas avaliam impeachment de RFK Jr. e cortejam eleitores MAHA",
-   "summary": "Com o controle do Congresso a partir de janeiro, democratas miram o secretário de Saúde Robert F. Kennedy Jr., e alguns falam em impeachment. Ao mesmo tempo, tentam atrair apoiadores do movimento Make America Healthy Again.",
-   "highlights": [
-    "Críticas às mudanças em vacinas e cortes em pesquisa",
-    "Movimento MAHA ainda vê Kennedy como aliado",
-    "Pontos comuns: pesticidas e merenda escolar"
-   ],
-   "body": "Quando os democratas assumirem o Congresso em janeiro, um de seus alvos de fiscalização será o secretário de Saúde, Robert F. Kennedy Jr., cuja revisão de orientações de vacinação e cortes em pesquisas médicas nos últimos dois anos geraram fortes críticas. Alguns parlamentares de alto escalão já sugeriram um impeachment.\n\nEsses esforços, porém, podem colidir com outra prioridade de parte da esquerda: cultivar pontos em comum com os seguidores do movimento Make America Healthy Again (MAHA), de Kennedy, para conquistar seu apoio político. Ativistas do MAHA dizem querer trabalhar com democratas em temas como regulação de pesticidas e merendas escolares mais saudáveis.\n\nO professor Matt Motta, da Universidade de Boston, chamou a situação de \"nada invejável\" para os democratas, que também terão de responder a uma base que cobra responsabilização de Kennedy enquanto surtos de sarampo se multiplicam no país. Mark Gorton, do MAHA Institute, alertou que uma \"guerra irracional\" contra Kennedy afastaria esses eleitores.",
-   "category": "eua",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/2026/11/13/democrats-are-weighing-impeachment-of-rfk-jr-while-courting-his-supporters/",
-   "published_at": "2026-11-13T09:33:38-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XXVZ33YHY7TNIXLEB7IBNJGY24.jpg?auth=5c822907474fd94eaf0f6de2c5a7826e919b11fac7877acab5d103a4a772f08e&width=700"
-  },
-  {
-   "id": "eua-05-20261113-md",
-   "title": "Departamento de Justiça de Trump enfrentará escrutínio do novo Congresso",
-   "summary": "Após quase dois anos sem fiscalização de um Congresso republicano, o Departamento de Justiça deve virar alvo de investigações da nova maioria democrata. O procurador-geral Todd Blanche promete cooperar, mas diz que o órgão \"não vai recuar\".",
-   "highlights": [
-    "Democratas assumem as duas Casas em janeiro",
-    "Assessor pediu postura de \"tempo de guerra\" a promotores",
-    "Departamento perdeu milhares de servidores de carreira"
-   ],
-   "body": "O Departamento de Justiça funcionou por quase dois anos como uma extensão da Casa Branca, sem freios de um Congresso controlado pelos republicanos, enquanto investigava inimigos do presidente Donald Trump, demitia levas de servidores de carreira e defendia posições que juízes consideraram juridicamente duvidosas, segundo a AP. Os amplos ganhos democratas nas eleições de meio de mandato mudaram esse equilíbrio e preparam uma série de investigações.\n\nO procurador-geral Todd Blanche afirma que o departamento vai cooperar com o Congresso, mas também insiste que \"não vamos recuar\" da agenda do presidente. Um assessor graduado orientou promotores a se prepararem para uma postura de \"tempo de guerra\", e um procurador federal advertiu publicamente um importante democrata sobre as investigações planejadas.\n\nMesmo com o comando das comissões, os democratas têm poucas ferramentas infalíveis para garantir cooperação: processos podem levar anos, intimações são difíceis de executar e pedidos de desacato criminal seriam enviados justamente ao Departamento de Justiça do governo Trump.",
-   "category": "eua",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/politics/2026/11/13/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress/",
-   "published_at": "2026-11-13T00:00:45-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/LGPDBJJPWKRWC6VHEVIWYV7QXY.jpg?auth=9b64e9144ed17928b4d70bfc69c5a544638478174db0a415e88990ec3c9bd734&width=700"
-  },
-  {
-   "id": "eua-06-20261113-md",
-   "title": "ONGs processam Anthropic, OpenAI e outras por riscos da IA",
-   "summary": "Uma coalizão de organizações sem fins lucrativos processou cinco grandes desenvolvedoras de IA em São Francisco, alegando que elas criam tecnologia de riscos catastróficos que admitem não controlar. A ação tenta bloquear o desenvolvimento desses modelos.",
-   "highlights": [
-    "Alvos: Anthropic, Google, Meta, OpenAI e SpaceXSI",
-    "Ação liderada pela Alliance for Secure AI e Public Citizen",
-    "Preocupação com o \"autoaperfeiçoamento recursivo\""
-   ],
-   "body": "Uma coalizão de ONGs entrou na quinta-feira com uma ação na Corte Superior de São Francisco contra cinco grandes desenvolvedoras de inteligência artificial — Anthropic, Google, Meta, OpenAI e SpaceXSI (SpaceX Super Intelligence) — numa tentativa de bloquear o desenvolvimento de seus modelos. O processo foi movido pela Alliance for Secure AI com os grupos Irreplaceable Education Fund, Public Citizen e Heat Initiative.\n\n\"Há anos os executivos que constroem esses sistemas nos alertam que seus modelos de fronteira representam riscos catastróficos\", disse Brendan Steinhauser, CEO da Alliance for Secure AI. \"Mesmo assim, continuam correndo para desenvolver uma IA cada vez mais poderosa que admitem não conseguir controlar de forma confiável.\"\n\nA ação surge em meio a preocupações com incidentes em que agentes de IA executaram ações não autorizadas. Os grupos dizem que o risco cresce à medida que as empresas usam a própria IA para desenvolver futuras plataformas sem intervenção humana, o chamado \"autoaperfeiçoamento recursivo\". A Meta não quis comentar; as demais não responderam.",
+   "body": "Os advogados de Alex Murdaugh pediram nesta sexta-feira que a Justiça descarte as acusações originais de assassinato contra ele pela morte da esposa, Maggie, e do filho mais novo, Paul, em 2021. A defesa afirma que o investigador-chefe do caso, o agente da divisão estadual de polícia David Owen, mentiu ao grande júri.\n\nMurdaugh, de 58 anos, vai a novo julgamento depois que a Suprema Corte da Carolina do Sul anulou sua condenação e a prisão perpétua, concluindo que uma escrivã influenciou indevidamente os jurados em 2023. Segundo a defesa, Owen disse ao júri que havia respingos de sangue em uma camiseta de Murdaugh, embora um relatório anterior não tenha encontrado manchas e essa prova nunca tenha sido apresentada no julgamento.\n\nA juíza Debra McCaslin prometeu uma decisão por escrito na próxima semana, mas perguntou ao promotor Creighton Waters se ele conseguiria obter novas acusações a tempo do julgamento de 5 de abril — sinal de que o pedido, mesmo se aceito, pode não adiar o processo. Murdaugh já cumpre décadas de prisão por roubar milhões de clientes, mas nega ser o assassino.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/advocacy-groups-sue-ai-companies/",
-   "published_at": "2026-11-12T17:12:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/12/a5d9a099-9ab9-4ab5-99ba-89f578872070/thumbnail/1200x630/ee21a744dc3b357292f27e27a8a15013/gettyimages-2291918897.jpg"
+   "url": "https://www.cbsnews.com/news/alex-murdaugh-wants-murder-indictments-dismissed/",
+   "published_at": "2026-11-13T11:49:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/04/fd5d005a-abcb-4e12-b880-3089daed36d0/thumbnail/1200x630/f93f87063a7799b106352d064fd5cf2b/murdaugh-trial-sneakpeek-1767899-640x360.jpg"
   },
   {
-   "id": "eua-07-20261113-md",
-   "title": "Hegseth condecora soldado que repreendeu sua comitiva em Arlington",
-   "summary": "O secretário de Defesa, Pete Hegseth, entregou uma medalha ao soldado que pediu silêncio à sua comitiva no Túmulo do Soldado Desconhecido no Dia dos Veteranos. \"Amamos soldados. Amamos padrões\", escreveu Hegseth.",
+   "id": "eua-03-20261113-td",
+   "title": "Médico-chefe do Congresso renuncia em meio a denúncias de má conduta",
+   "summary": "O almirante da Marinha Brian Monahan, médico responsável pelo Capitólio desde 2009, deixou o cargo após denúncias de má conduta. Um relatório do inspetor-geral do Pentágono apontou falhas no controle de medicamentos como sedativos e analgésicos.",
    "highlights": [
-    "Spc. Thomas Iglesias recebeu a Joint Service Commendation Medal",
-    "Comitiva ria e conversava após fotos no túmulo",
-    "Pentágono disse que o soldado agiu corretamente"
+    "Monahan ocupava o cargo desde 2009",
+    "Relatório viu \"lacuna na gestão da qualidade clínica\"",
+    "Marinha também abriu apuração sobre o consultório"
    ],
-   "body": "O secretário de Defesa, Pete Hegseth, condecorou na quinta-feira com a Joint Service Commendation Medal o soldado que repreendeu ele e membros de sua equipe no Túmulo do Soldado Desconhecido, no Cemitério Nacional de Arlington. \"Amamos soldados. Amamos padrões. Muito bem, especialista\", escreveu Hegseth nas redes sociais.\n\nNa quarta-feira, após uma cerimônia do Dia dos Veteranos, Hegseth, sua esposa e assessores como o chefe de gabinete Ricky Buria tiravam fotos diante do túmulo quando parte do grupo foi ouvida rindo e conversando. O soldado de guarda, Spc. Thomas Iglesias, parou e se voltou para eles: \"Todos os visitantes devem manter uma atmosfera de silêncio e respeito o tempo todo\".\n\nO porta-voz do Pentágono, Sean Parnell, disse depois que o soldado \"lembrou a todos, de forma correta e respeitosa, de manter o decoro\". O túmulo é um dos memoriais de guerra mais sagrados dos EUA.",
+   "body": "O médico Brian Monahan, almirante de duas estrelas da Marinha e responsável pelo atendimento médico do Capitólio dos EUA, renunciou ao posto, informou o líder da maioria no Senado, John Thune. Segundo uma fonte ouvida pela CBS News, a saída se deve a denúncias de má conduta relacionadas ao tipo de atendimento que ele escolhia prestar e ao que pedia aos militares sob seu comando.\n\nA renúncia coincide com um relatório do inspetor-geral do Departamento de Defesa que encontrou supervisão frouxa no Escritório do Médico Assistente. O documento, com muitas partes censuradas, cita uma \"lacuna na gestão da qualidade clínica\" e diz que remédios como indutores de sono e analgésicos não eram devidamente inventariados. A Marinha também conduz uma apuração própria.\n\nO jornal Navy Times relatou que militares do escritório eram pressionados a cumprir semanas de 70 a 80 horas e tarefas como cortar unhas de congressistas ou levar remédios às casas deles às 3h da manhã. O relatório faz cinco recomendações, entre elas designar um órgão externo para supervisionar o serviço.",
    "category": "eua",
-   "source": "WSVN (CNN)",
-   "url": "https://wsvn.com/news/politics/hegseth-awards-specialist-medal/",
-   "published_at": "2026-11-13T09:27:10-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261113_Pete_Hegseth_soldier_who_reprimandesd_him_medal_ceremony.png"
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/brian-monahan-resigns-congress-doctor-misconduct-allegations/",
+   "published_at": "2026-11-13T13:32:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/be750536-5488-4730-9262-4de8c9eea90f/thumbnail/1200x630/42433ca49ef539be4ce311d6b7bad7d7/brian-monahan-20200512.jpg"
   },
   {
-   "id": "eua-08-20261113-md",
-   "title": "Nova York fica sem espaço para lixo; aterro já tem altura da Estátua da Liberdade",
-   "summary": "O aterro Seneca Meadows, o maior em atividade no estado de Nova York, já alcança cerca de 90 metros de altura. A operadora quer ampliá-lo por mais décadas, para irritação dos moradores da região dos Finger Lakes.",
+   "id": "eua-04-20261113-td",
+   "title": "Irmão de \"El Mencho\" é condenado a 22 anos e meio de prisão nos EUA",
+   "summary": "Antonio Oseguera Cervantes, irmão do líder do cartel Jalisco Nova Geração morto em fevereiro, foi condenado nesta sexta-feira a 22,5 anos de prisão. Ele havia se declarado culpado de tráfico de cocaína e metanfetamina e de porte de arma.",
    "highlights": [
-    "Aterro ocupa 350 acres na região dos Finger Lakes",
-    "Proposta prevê mais 47 acres e 21 metros de altura",
-    "Moradores esperavam fechamento com fim da licença"
+    "Conhecido como \"Tony Montana\", ele tem 67 anos",
+    "Confessou conspiração para traficar drogas aos EUA",
+    "CJNG foi classificado como organização terrorista"
    ],
-   "body": "O maior aterro sanitário em atividade no estado de Nova York, o Seneca Meadows, tornou-se um símbolo de como o estado está ficando sem lugar para seu lixo. Localizado na região dos Finger Lakes, no norte do estado, ele cresceu desde os anos 1980 até ocupar 350 acres, com pilhas de resíduos de cerca de 300 pés (90 metros) — aproximadamente a altura da Estátua da Liberdade.\n\nMoradores das cidades vizinhas de Waterloo e Seneca Falls esperavam que o aterro fechasse quando sua licença expirou no ano passado. Mas a operadora, a texana Waste Connections, propôs prolongar sua vida útil por mais várias décadas, com 47 acres de novas células de disposição e mais 70 pés (21 metros) de altura.\n\n\"Tudo ao redor dos lagos é bem plano até você ver esse monstro de morro\", disse Mark Pitifer, de uma fábrica de embalagens de vidro vizinha. \"É como estar no centro de Nova York, só que em vez de um prédio, é lixo.\"",
+   "body": "O irmão do líder de cartel conhecido como \"El Mencho\" foi condenado nesta sexta-feira a 22 anos e meio de prisão nos Estados Unidos, informou o Departamento de Justiça. Antonio Oseguera Cervantes, de 67 anos, trabalhou para o crime organizado ao lado do irmão, Nemesio Rubén Oseguera Cervantes, morto pelo Exército mexicano em fevereiro.\n\nConhecido como \"Tony Montana\", Antonio se declarou culpado em julho de conspirar para distribuir cinco quilos ou mais de cocaína e 500 gramas ou mais de metanfetamina destinadas aos EUA, além de usar e portar arma de fogo em apoio ao tráfico.\n\nEl Mencho foi cofundador e líder do Cartel Jalisco Nova Geração (CJNG), que o governo Trump classificou no ano passado como organização terrorista estrangeira. Segundo o procurador-geral adjunto Tysen Duva, Antonio ajudou por mais de duas décadas a alimentar uma das organizações de tráfico mais perigosas do mundo.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/antonio-oseguera-cervantes-el-mencho-brother-22-5-years-sentenced/",
+   "published_at": "2026-11-13T12:54:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/9f11cbd7-faa1-44cb-bc46-aa0f5f0776ba/thumbnail/1200x630/055a70f20548770629f040d778366c93/elmencho-brother.jpg"
+  },
+  {
+   "id": "eua-05-20261113-td",
+   "title": "Van Hollen desafia Schumer pela liderança democrata no Senado",
+   "summary": "O senador Chris Van Hollen, de Maryland, anunciou que vai disputar com Chuck Schumer a liderança da bancada democrata no Senado, que passa a ter maioria em janeiro. Schumer, no comando desde 2017, diz ter os votos para continuar.",
+   "highlights": [
+    "Votação será a portas fechadas no início de dezembro",
+    "Vencedor assume em 4 de janeiro",
+    "Van Hollen diz que eleitores pediram \"nova liderança\""
+   ],
+   "body": "O líder democrata Chuck Schumer, de 75 anos, enfrentará uma disputa pelo comando da bancada no Senado. O senador Chris Van Hollen, de 67 anos, anunciou no X que os americanos votaram por mudança nas eleições de meio de mandato e que, \"para entregar, precisamos de nova liderança\". Os democratas assumem o controle das duas casas do Congresso em 4 de janeiro.\n\nSchumer lidera os democratas no Senado desde 2017 e vinha sendo pressionado por setores à esquerda, que o veem como moderado demais e parte do establishment. Em resposta, disse que recebe bem \"qualquer discussão sobre o futuro da bancada\", que se orgulha dos resultados eleitorais e que tem \"os votos para continuar como líder\".\n\nA votação será secreta, no início de dezembro. Em evento no Colorado, Van Hollen afirmou que o país \"não pertence a quem pode comprar influência\". Nos últimos anos, ele adotou posições populares entre a esquerda do partido, como defender, em 2024, restrições ao envio de armas a Israel.",
+   "category": "eua",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+   "published_at": "2026-11-13T10:48:07-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
+  },
+  {
+   "id": "eua-06-20261113-td",
+   "title": "Trump comprou ações da Nvidia enquanto tomava decisões que favoreciam a empresa",
+   "summary": "Declarações financeiras indicam que Donald Trump comprou entre US$ 1 milhão e US$ 5 milhões em ações da Nvidia dias antes de revogar uma regra de Biden que limitava exportações de chips para a China. A análise é do grupo anticorrupção DeKleptocracy.",
+   "highlights": [
+    "Compra ocorreu antes da revogação da regra em maio de 2025",
+    "Novas compras após liberar chips H200 para a China",
+    "Caso surge em meio ao escândalo de Jensen Huang"
+   ],
+   "body": "Donald Trump comprou ações da Nvidia no valor de milhões de dólares enquanto tomava decisões sobre a política para a China que beneficiariam a fabricante de chips, segundo uma análise do grupo anticorrupção DeKleptocracy citada pelo Guardian. Em maio de 2025, o governo revogou uma regra da era Biden criada para impedir a exportação dos chips de IA mais avançados dos EUA para a China.\n\nNos dias anteriores à revogação, as declarações financeiras públicas de Trump indicam a compra de US$ 1 milhão a US$ 5 milhões em ações da Nvidia, além de papéis de Apple, Meta e Microsoft. A China respondia por cerca de um quarto das vendas da empresa entre 2010 e 2022, e as ações subiram depois do anúncio.\n\nEm dezembro de 2025, Trump disse que permitiria a venda dos chips H200 à China, decisão aprovada pelo Departamento de Comércio em janeiro de 2026. Nos dias seguintes, segundo as declarações, ele fez ao menos três compras de ações da Nvidia, cada uma entre US$ 250.001 e US$ 500 mil. O tema ganha peso em meio ao escândalo que derrubou o CEO Jensen Huang.",
    "category": "eua",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
-   "published_at": "2026-11-13T07:30:18-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/490a6771051d9647e624ef860358392e19646987/187_0_2926_2340/master/2926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59dde5a10f270bd7992f7ad8d2e416cd"
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+   "published_at": "2026-11-13T14:09:05-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71bf55eddd2792fbdc824770ca78da60"
   },
   {
-   "id": "eua-09-20261113-md",
-   "title": "Van Hollen quer usar poder democrata para rever cortes na ajuda externa",
-   "summary": "Em entrevista à NPR antes de anunciar que desafiará Chuck Schumer pela liderança, o senador Chris Van Hollen detalhou planos para investigar o desmonte da ajuda externa americana. Ele é o principal democrata do subcomitê que supervisiona o Departamento de Estado e a USAID.",
+   "id": "eua-07-20261113-td",
+   "title": "Caça de Trump a \"fraude eleitoral\" deve continuar após a eleição",
+   "summary": "Autoridades eleitorais e advogados de direitos civis se preparam para que o governo Trump continue buscando estrangeiros nos cadastros de eleitores, especialmente na Califórnia. O voto de não cidadãos é extremamente raro, e números divulgados pelo governo se mostraram inflados.",
    "highlights": [
-    "Van Hollen disputará a liderança da maioria com Schumer",
-    "Promete expor \"danos\" do governo Trump no exterior",
-    "Subcomitê supervisiona o que restou da USAID"
+    "Governo alegou 20 mil \"prováveis\" não cidadãos na Califórnia",
+    "Justiça rejeitou pedidos do Departamento de Justiça",
+    "Intimações a condados seguem em vigor"
    ],
-   "body": "O senador Chris Van Hollen, de Maryland, que na quinta-feira anunciou que vai desafiar Chuck Schumer pela liderança da maioria democrata, ganhou apoio no partido por suas críticas duras ao governo Trump, incluindo o desmonte de programas americanos de saúde global e combate à pobreza. \"Precisamos de nova liderança\", disse ele.\n\nEm entrevista à NPR na terça-feira, dois dias antes do anúncio, Van Hollen falou sobre seus planos de \"jogar luz sobre todo o mal e os danos que o governo Trump causou ao nosso país e aos nossos interesses no mundo\" e sobre o que os democratas pretendem fazer com a ajuda externa.\n\nComo principal democrata do subcomitê de Relações Exteriores do Senado que supervisiona o Departamento de Estado e o que restou da Agência dos EUA para o Desenvolvimento Internacional (USAID), ele pode ter influência considerável sobre como o Congresso investigará e legislará sobre o tema a partir de janeiro.",
+   "body": "Nas semanas anteriores à eleição, o governo Trump intensificou a busca por fraude eleitoral e a pressão sobre autoridades, sobretudo na Califórnia, para combater o voto de estrangeiros. Agora, passada a votação, funcionários eleitorais e advogados de direitos civis esperam que a ofensiva continue, incluindo o que veem como táticas de intimidação.\n\nEm meados de outubro, o governo federal alegou ter encontrado 20 mil \"prováveis\" não cidadãos nos cadastros da Califórnia e processou o estado para impedir a contagem de votos sem cidadania verificada. Um juiz federal e um tribunal de apelação rejeitaram o pedido, e a Suprema Corte não interveio. Às vésperas da eleição, procuradores enviaram intimações de grande júri a vários condados.\n\nO Departamento de Justiça desistiu da ação na semana passada, mas não retirou as intimações. O secretário de Justiça, Todd Blanche, disse que o governo continuará investigando casos de \"integridade eleitoral\" na esfera criminal e civil, independentemente do resultado das urnas.",
    "category": "eua",
    "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-   "published_at": "2026-11-13T10:46:35-05:00",
-   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fa3%2F631876c94a13ba74cf0090e78406%2Fchris-van-hollen.jpg"
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+   "published_at": "2026-11-13T12:00:00-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x3883+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg"
   },
   {
-   "id": "eua-10-20261113-md",
-   "title": "Republicanos admitem derrota, mas evitam romper com Trump",
-   "summary": "De volta a Washington após as perdas nas eleições de meio de mandato, republicanos reconhecem que eleitores os rejeitaram por causa do custo de vida. Ainda assim, há pouco apetite para se afastar de Donald Trump.",
+   "id": "eua-08-20261113-td",
+   "title": "Mississippi elege seu primeiro senador negro desde a Reconstrução",
+   "summary": "O democrata Scott Colom, de 43 anos, derrotou a senadora republicana Cindy Hyde-Smith e se tornou o primeiro senador negro do Mississippi desde a era da Reconstrução. Eleitores de diferentes origens celebram a vitória como sinal de mudança.",
    "highlights": [
-    "Richard Hudson: eleitores acharam a gasolina cara demais",
-    "Reuniões a portas fechadas para avaliar erros",
-    "Corrida para aprovar agenda antes de janeiro"
+    "Vitória ajudou democratas a somar ao menos 55 cadeiras",
+    "Maior ganho democrata em meio de mandato desde 1986",
+    "Eleitores cobram ação sobre custo de vida e guerra"
    ],
-   "body": "O deputado Richard Hudson, da Carolina do Norte e chefe do braço de campanha republicano na Câmara, esperava um retorno triunfal ao Capitólio nesta semana. Em vez disso, enfrenta a realidade de que ele e dezenas de colegas em breve terão de esvaziar seus gabinetes. \"Foi gente saindo para mandar um recado\", disse. \"Eles, com razão, sentiram que a gasolina estava cara demais, que as coisas estavam caras demais.\"\n\nDe volta a Washington pela primeira vez desde as amplas derrotas, os republicanos pareciam atordoados, segundo a AP. Mesmo reconhecendo a dimensão da derrota, houve pouca disposição para um rompimento com o presidente Donald Trump. O partido se reuniu a portas fechadas para discutir o que deu errado e analisou o calendário para aprovar o máximo possível de sua agenda antes de os democratas assumirem Câmara e Senado em janeiro.\n\nHouve frustração generalizada por o partido, que recebeu controle total da Casa Branca e do Congresso há dois anos, ter perdido contato com os eleitores.",
+   "body": "O democrata Scott Colom fez história nas eleições deste mês ao se tornar o primeiro senador negro do Mississippi desde a Reconstrução, após derrotar a republicana Cindy Hyde-Smith. A vitória do político de 43 anos contribuiu para uma maioria democrata de pelo menos 55 cadeiras no Senado, o maior avanço do partido em uma eleição de meio de mandato desde 1986.\n\nEleitores ouvidos pelo Guardian, de diferentes raças e gerações, veem no resultado um novo capítulo para um estado marcado pelo racismo e pela segregação. Muitos esperam que Colom e uma nova geração de democratas enfrentem o custo de vida, encerrem a guerra dos EUA com o Irã e revejam a política migratória linha-dura do governo Trump.\n\nUm professor aposentado de 71 anos, que cresceu no Mississippi e cuja família teve uma cruz queimada no gramado em 1971, disse que Colom conseguiu falar a negros e brancos, convencendo eleitores negros de que desta vez poderiam vencer e persuadindo parte dos brancos de que um senador negro faria mais por eles.",
    "category": "eua",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
+   "published_at": "2026-11-13T14:05:57-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/d44aa90d0059f02ead98da8901aa6963436e63ba/2_0_2624_2100/master/2624.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1431645714e6a4204a70e7a7222e30c"
+  },
+  {
+   "id": "eua-09-20261113-td",
+   "title": "Bessent pede que Fed não suba juros por \"choque de energia\" da guerra",
+   "summary": "O secretário do Tesouro, Scott Bessent, disse que o Federal Reserve não deveria elevar os juros por causa de um \"choque de oferta de energia\" ligado à guerra com o Irã. Mesmo assim, o mercado vê quase 90% de chance de alta em dezembro.",
+   "highlights": [
+    "Juros estão hoje entre 3,75% e 4%",
+    "CME FedWatch vê 89,4% de chance de alta em 9/12",
+    "Diretor do Fed Christopher Waller defende aumento"
+   ],
+   "body": "O secretário do Tesouro dos EUA, Scott Bessent, pediu nesta sexta-feira que o Federal Reserve evite subir os juros em resposta ao que chamou de \"choque de oferta de energia\" ligado ao conflito liderado pelos EUA contra o Irã. Em entrevista à CNBC, ele disse que a economia americana é muito forte e que o Fed \"deve olhar para o futuro, não pelo retrovisor\".\n\nO banco central manteve os juros entre 3,75% e 4% na última reunião. A ferramenta CME FedWatch, porém, aponta 89,4% de chance de alta para 4%–4,25% em 9 de dezembro. Desde o início da guerra, o Fed manteve as taxas cinco vezes e as elevou uma vez, pressionado sobretudo pela energia, que subiu 20,4% em 12 meses até setembro.\n\nO relatório de emprego mais forte que o esperado, com 165 mil vagas em outubro, reforça a tese de aperto. O diretor do Fed Christopher Waller disse que apoiará alta de 0,25 ponto em dezembro e até de 0,5 ponto se o núcleo da inflação ao consumidor vier em 0,3% ou mais. \"Não vou dizer ao Fed o que fazer\", afirmou Bessent.",
+   "category": "eua",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock",
+   "published_at": "2026-11-13T11:22:33-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee21e3-1793991139.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "eua-10-20261113-td",
+   "title": "Singapura reteve passaporte de Alice Huang, mas teve pouca ajuda dos EUA",
+   "summary": "Autoridades de Singapura apreenderam o passaporte de Alice Huang, então CEO da Megaspeed, em junho de 2025 e o retiveram por oito meses enquanto investigavam o possível envio de chips da Nvidia à China. Segundo fonte da CBS, Washington não deu ajuda significativa.",
+   "highlights": [
+    "Singapura pediu apoio ao Departamento de Justiça e ao FBI",
+    "Investigação envolve servidores da Supermicro com chips Nvidia",
+    "Alice Huang foi proibida de voltar a Singapura"
+   ],
+   "body": "Singapura apreendeu em junho de 2025 o passaporte de Alice Huang, então CEO da Megaspeed, e o manteve por oito meses, impedindo-a de deixar o país enquanto tentava obter apoio do governo dos EUA para investigar se chips avançados da Nvidia estavam sendo enviados à China. Uma fonte disse à CBS News que Washington \"não foi receptivo\" e que nenhuma ajuda substancial foi dada até hoje. O governo de Singapura confirmou ter procurado o Departamento de Justiça e o FBI.\n\nAlice Huang é a suposta espiã chinesa no centro do escândalo de caso extraconjugal que derrubou Jensen Huang do comando da Nvidia. Desde fevereiro de 2025, Singapura investiga se ela e a Megaspeed trabalharam com a Supermicro, da Califórnia, para enviar à China servidores equipados com chips avançados da Nvidia.\n\nEla foi a Singapura para uma entrevista voluntária pedida pelo Escritório de Indústria e Segurança, ligado ao Departamento de Comércio dos EUA. A polícia local a interrogou no mesmo dia e reteve o passaporte. Sem acusação formal, ela o recebeu de volta em fevereiro de 2026, mas foi proibida de retornar ao país por ter dado \"informações imprecisas\" sobre seu papel na Megaspeed.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/",
+   "published_at": "2026-11-13T12:16:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/12/42ca78a4-2996-4bbb-8cf7-e378df3b48fe/thumbnail/1200x630/f26e298de4f33c72905766973f408671/2026-11-12t140122z-573929441-rc2bkoa12wop-rtrmadp-3-nvidia-probe-singapore.jpg"
+  },
+  {
+   "id": "mundo-01-20261113-td",
+   "title": "Putin endurece exigências e quer redesenhar a segurança da Europa",
+   "summary": "Após conversar com os enviados americanos Steve Witkoff e Jared Kushner, o Kremlin recolocou na mesa suas propostas de 2021 para frear a expansão da Otan. A análise é de Steve Rosenberg, editor da BBC para a Rússia.",
+   "highlights": [
+    "Kremlin fala em \"nova arquitetura de segurança indivisível\"",
+    "Propostas de 2021 previam recuo da Otan no Leste Europeu",
+    "Assessor de Putin promete \"novas considerações\""
+   ],
+   "body": "O presidente russo, Vladimir Putin, diz desejar \"paz eterna\" para a Ucrânia, mas continua rejeitando um cessar-fogo amplo. Depois das conversas com os enviados dos EUA Steve Witkoff e Jared Kushner, o Kremlin resumiu o que quer: \"uma nova arquitetura de longo prazo de segurança e paz indivisíveis\" — o que, segundo a BBC, significa mudar a segurança da Europa em favor de Moscou.\n\nA Rússia voltou a citar os \"rascunhos de tratados\" de dezembro de 2021 com os EUA e a Otan, que dariam garantias de que Ucrânia e Geórgia nunca entrariam na aliança e retirariam infraestrutura militar da Otan de países do Leste Europeu. O Ocidente rejeitou a proposta como ultimato na época, e dois meses depois Moscou invadiu a Ucrânia.\n\nYuri Ushakov, assessor de política externa de Putin, sugeriu que Moscou vai \"acrescentar certas novas considerações\" à lista de exigências. Para a imprensa russa, o simples fato de a segurança europeia estar em pauta nas negociações sobre a Ucrânia já é uma vitória do Kremlin.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+   "published_at": "2026-11-13T11:40:31-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "id": "mundo-02-20261113-td",
+   "title": "Alemanha dá a espiões poderes para sabotagem contra ameaças híbridas",
+   "summary": "O Parlamento alemão aprovou uma ampla reforma que permite ao serviço de inteligência externa, o BND, realizar operações secretas e sabotagem no exterior. O ministro do Interior chamou a lei de \"reforma do século\"; a esquerda fala em nova polícia secreta.",
+   "highlights": [
+    "Lei aprovada por 309 votos a 190, com 71 abstenções",
+    "BND poderá derrubar servidores de hackers estatais",
+    "Agentes domésticos poderão entrar em casas com autorização"
+   ],
+   "body": "Os serviços de inteligência externa e interna da Alemanha vão ganhar mais poderes contra espionagem, terrorismo e sabotagem depois que o Bundestag aprovou uma grande reforma da legislação. O ministro do Interior, Alexander Dobrindt, chamou o texto de \"reforma do século\", necessária diante das crescentes ameaças de potências estrangeiras. A porta-voz de segurança do partido A Esquerda, Clara Bünger, disse que ele está criando uma nova polícia secreta.\n\nPor razões históricas, a inteligência alemã se concentrava em coletar informações. Agora, o BND poderá conduzir operações encobertas no exterior, incluindo sabotagem — como paralisar servidores de grupos de hackers patrocinados por Estados, desmontar redes de desinformação ou interromper cadeias de fornecimento de armas.\n\nO serviço doméstico, o BfV, poderá agir contra explosivos e armas, bloquear fluxos de dados em ciberataques, apagar ou falsificar dados usados para fins maliciosos e, sob autorização prévia, entrar secretamente em residências. Também terá mais poderes de vigilância digital, incluindo o monitoramento de comunicações criptografadas.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
+   "published_at": "2026-11-13T10:42:52-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
+  },
+  {
+   "id": "mundo-03-20261113-td",
+   "title": "Carros-bomba na Rússia matam militar e ferem ex-assessor ucraniano",
+   "summary": "Um carro-bomba em Moscou deixou em estado grave Sergei Zavorotnyi, ex-assessor do antigo premiê ucraniano Mykola Azarov, um dia após outra explosão matar um militar em São Petersburgo. Moscou atribui à Ucrânia uma série de ataques do tipo.",
+   "highlights": [
+    "Zavorotnyi, de 72 anos, perdeu o braço e está em coma",
+    "Explosivo teria sido detonado remotamente",
+    "Comitê de Investigação abriu inquérito criminal"
+   ],
+   "body": "Uma explosão em Moscou nesta sexta-feira feriu gravemente Sergei Zavorotnyi, que foi assessor do ex-primeiro-ministro ucraniano Mykola Azarov, um dia depois de um ataque semelhante matar um militar em São Petersburgo. Os episódios se somam a uma série de atentados contra pessoas ligadas à guerra na Ucrânia, que Moscou atribui a Kiev.\n\nSegundo o Comitê de Investigação da Rússia, a bomba atingiu o carro que Zavorotnyi dirigia. A emissora REN TV informou que ele perdeu o braço esquerdo e está em coma. Ex-jornalista do Komsomolskaya Pravda, ele escreveu um livro sobre a queda de Viktor Yanukovych e mantinha um site crítico ao governo ucraniano; Azarov, que também vive na Rússia, disse estar \"chocado\".\n\nNa quinta-feira, em São Petersburgo, um militar morreu após a explosão de uma bomba em seu veículo. O site Fontanka disse que a vítima era um coronel, mas informações preliminares indicam que seria um militar de patente menor. Nenhum suspeito foi identificado.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser",
+   "published_at": "2026-11-13T11:44:56-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7294c1cfc-1794582860.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-04-20261113-td",
+   "title": "Confrontos por proibição de garimpo deixam ao menos 10 mortos na Guiné",
+   "summary": "Pelo menos 10 pessoas morreram e 13 ficaram feridas em confrontos entre manifestantes e forças de segurança no nordeste da Guiné, durante a fiscalização da proibição do garimpo artesanal de ouro em Siguiri. Cinco dos mortos são estrangeiros.",
+   "highlights": [
+    "Garimpo artesanal foi proibido em Siguiri em 2 de novembro",
+    "Mali recebeu cerca de 160 mil pessoas que deixaram a Guiné",
+    "Burkina Faso repatriou mais de 45 mil cidadãos"
+   ],
+   "body": "Ao menos 10 pessoas foram mortas e 13 ficaram feridas em confrontos no nordeste da Guiné entre manifestantes e forças de segurança que fiscalizavam a proibição do garimpo artesanal de ouro, informou o governo. A violência ocorreu na quarta-feira em Balato, na região de Siguiri, quando manifestantes ergueram barricadas contra uma patrulha e houve troca de tiros. Entre os mortos estão cinco estrangeiros ainda não identificados.\n\nDuas caminhonetes e um caminhão das forças de segurança foram queimados e uma arma e uma motocicleta foram levadas pelos manifestantes. A Justiça foi encarregada de apurar as causas e os responsáveis. O governo proibiu o garimpo artesanal em Siguiri em 2 de novembro, alegando poluição de terras agrícolas, rios e vegetação.\n\nA medida provocou um êxodo: o Mali diz ter recebido cerca de 100 mil pessoas em Bamako e quase 60 mil na cidade fronteiriça de Kouremale, e Burkina Faso repatriou 45.406 cidadãos. Segundo a ONU, o garimpo de pequena escala sustenta mais de 300 mil pessoas na Guiné.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining",
+   "published_at": "2026-11-13T13:44:45-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af740d98733-1794588889.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-05-20261113-td",
+   "title": "Batida entre caminhão e ônibus mata ao menos 24 na Índia",
+   "summary": "Ao menos 24 pessoas morreram e 11 ficaram feridas quando um caminhão contêiner colidiu com um ônibus no estado de Assam, no nordeste da Índia. Crianças e o motorista do ônibus estão entre as vítimas, e o número de mortos pode subir.",
+   "highlights": [
+    "Acidente foi perto do Parque Nacional de Kaziranga",
+    "Ônibus levava cerca de 30 pessoas",
+    "Índia tem uma das maiores taxas de mortes no trânsito"
+   ],
+   "body": "Pelo menos 24 pessoas morreram e outras 11 ficaram feridas nesta sexta-feira depois que um caminhão contêiner bateu em um ônibus em uma rodovia do distrito de Golaghat, no estado indiano de Assam. O local fica perto do Parque Nacional de Kaziranga, patrimônio da Unesco famoso pelos rinocerontes-indianos, a cerca de 225 km da capital estadual, Dispur.\n\nVárias crianças e o motorista do ônibus estão entre os mortos. O chefe de governo de Assam, Himanta Biswa Sarma, disse estar \"profundamente abalado\" e que autoridades acompanham pessoalmente o atendimento aos feridos. O superintendente de polícia do distrito afirmou à Reuters que o número de mortos provavelmente vai aumentar; o ônibus levava cerca de 30 pessoas para um distrito vizinho.\n\nA Índia tem uma das maiores taxas de mortes no trânsito do mundo, em parte por causa de estradas e veículos mal conservados.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people",
+   "published_at": "2026-11-13T11:01:45-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7237d46344-1794581373.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-06-20261113-td",
+   "title": "UE escolhe cinco países para representar a Europa nas negociações da Ucrânia",
+   "summary": "A Europa enviará à próxima rodada de negociações sobre a Ucrânia diplomatas da UE e de Reino Unido, França, Alemanha, Itália e Polônia, anunciou António Costa após cúpula em Dublin. O chanceler alemão pediu a Trump \"nenhuma surpresa\" no encontro com Putin.",
+   "highlights": [
+    "Europa teme ser deixada de fora de acordo EUA-Rússia",
+    "Kremlin diz que participação europeia não foi decidida",
+    "Merz teme \"segundo momento Anchorage\""
+   ],
+   "body": "A Europa vai enviar uma equipe de diplomatas da União Europeia e de cinco países da \"Coalizão dos Dispostos\" — Reino Unido, França, Alemanha, Itália e Polônia — à próxima rodada de negociações sobre a Ucrânia, anunciou o presidente do Conselho Europeu, António Costa, ao fim de uma cúpula de líderes em Dublin. \"A Europa deve falar com uma voz clara e unida\", disse.\n\nOs europeus temem que as negociações trilaterais apoiadas pelos EUA deixem o continente de fora e Kiev vulnerável. Após conversas com Putin em Moscou na quinta-feira, enviados americanos disseram que a Europa participaria, mas o Kremlin afirmou que nada foi decidido; Moscou rejeita a presença europeia por considerar que esses países financiam e armam a Ucrânia.\n\nO chanceler alemão, Friedrich Merz, pediu a Donald Trump que não faça \"surpresas\" no esperado encontro com Putin na China na próxima semana, citando o temor de um \"segundo momento Anchorage\", em referência à cúpula no Alasca sem ucranianos nem europeus.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice",
+   "published_at": "2026-11-13T10:43:39-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af72b2c48-1794583340.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-07-20261113-td",
+   "title": "Eisenkot acusa Netanyahu de campanha \"racista\" contra árabes israelenses",
+   "summary": "Gadi Eisenkot, encarregado de formar o novo governo de Israel, acusou o premiê interino Benjamin Netanyahu de alimentar uma campanha \"racista e violenta\" contra cidadãos árabes durante as eleições. Nenhum dos blocos tem maioria no Parlamento.",
+   "highlights": [
+    "Aliança de Eisenkot tem 48 cadeiras; bloco de Netanyahu, 53",
+    "Partidos árabes conquistaram recorde de 19 cadeiras",
+    "Eisenkot descarta governar com partidos árabes"
+   ],
+   "body": "O candidato a primeiro-ministro Gadi Eisenkot, encarregado de formar o novo governo israelense, acusou nesta sexta-feira o premiê interino Benjamin Netanyahu de fomentar uma campanha \"racista e violenta\" de deslegitimação contra os cidadãos árabes de Israel, que somam 21% da população. \"Tentar marginalizá-los e difamá-los como grupo é um ato contra o Estado\", escreveu no X.\n\nNas eleições de 27 de outubro, a aliança de quatro partidos de Eisenkot obteve 48 cadeiras, e o bloco de direita e religioso de Netanyahu, 53 — ambos abaixo das 61 necessárias. Partidos árabes conquistaram o recorde de 19 cadeiras. Netanyahu fez repetidas alegações, sem provas, de fraude por partidos de maioria árabe, rejeitadas pelas autoridades eleitorais.\n\nOs partidos árabes apoiam Eisenkot, mas ele descartou governar com eles, o que lhe daria 67 cadeiras. O apoio dos dois partidos ultraortodoxos, Judaísmo Unido da Torá e Shas, lhe daria exatamente 61.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis",
+   "published_at": "2026-11-13T13:04:22-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2f17c00fe-1794306428.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-08-20261113-td",
+   "title": "TPI limita investigação no Afeganistão a crimes do Talibã",
+   "summary": "Juízes do Tribunal Penal Internacional encerraram a parte da investigação sobre o Afeganistão que poderia envolver militares americanos e restringiram o caso a crimes do Talibã. A promotoria já recorreu da decisão.",
+   "highlights": [
+    "Decisão cita \"limitações significativas\" para obter provas",
+    "Tribunal e 13 funcionários estão sob sanções dos EUA",
+    "Mandados contra líderes talibãs foram revelados em outubro"
+   ],
+   "body": "Juízes do Tribunal Penal Internacional (TPI), em Haia, encerraram a parte da investigação sobre o Afeganistão que poderia atingir militares dos EUA e limitaram o inquérito aos crimes cometidos pelo Talibã, segundo documentos divulgados nesta sexta-feira. A decisão, de quinta-feira, cita \"limitações significativas\" à capacidade da promotoria de investigar e obter provas, sem dar detalhes. A promotoria disse à AP que já recorreu.\n\nO tribunal e 13 funcionários atuais e antigos estão sob sanções do governo Trump, contrário a qualquer investigação sobre americanos ou aliados como Israel. O secretário de Estado, Marco Rubio, ameaçou \"desmantelar o TPI tijolo por tijolo\". Os EUA não são membros da corte; o tribunal mantém mandados de prisão contra Benjamin Netanyahu e seu ex-ministro da Defesa por acusações relacionadas a Gaza, que ambos rejeitam.\n\nA investigação autorizada em 2020 abrangia forças afegãs, o Talibã, tropas americanas e agentes de inteligência dos EUA desde 2002. A parte sobre o Talibã será separada em um inquérito próprio; no mês passado, a corte revelou mandados contra quatro líderes talibãs por perseguição de gênero.",
+   "category": "mundo",
    "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/politics/2026/11/13/republicans-dazed-by-midterm-election-defeats-grapple-with-what-went-wrong/",
-   "published_at": "2026-11-13T07:12:04-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/YSGHLPYS3NWN553GM3YWQBCCLQ.jpg?auth=9f88d04d1c7299ca561a7f2d4689901f0abe08e694daeecf7fcbe1c771c633c4&width=700"
+   "url": "https://www.local10.com/news/world/2026/11/13/international-criminal-court-limits-afghanistan-investigation-to-taliban-crimes/",
+   "published_at": "2026-11-13T12:36:26-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/47R4GVXDSDXOURGMCAJSSX3KWU.jpg?auth=4b0e9e623bea6bde1503a4d328f61826c451f8d0db9d362d96a58e974444ce56&width=700"
   },
   {
-   "id": "mundo-01-20261113-md",
-   "title": "EUA derrubam drones iranianos; Irã diz ter atingido radar no Bahrein",
-   "summary": "O Comando Central dos EUA afirmou ter interceptado dois drones de ataque iranianos a caminho do Bahrein, sem feridos nem danos. A Guarda Revolucionária alegou ter atingido um radar americano no país e relatou um petroleiro atingido por mina em Ormuz.",
+   "id": "mundo-09-20261113-td",
+   "title": "Guterres pede cortes \"imediatos e drásticos\" de emissões na COP",
+   "summary": "Em sua última cúpula do clima como secretário-geral da ONU, António Guterres disse na Turquia que o mundo precisa cortar imediatamente as emissões de combustíveis fósseis. A eletrificação virou ponto de disputa nas negociações.",
    "highlights": [
-    "CENTCOM nega que radar tenha sido atingido",
-    "Irã fala em retaliação a ataque em Sirik",
-    "Primeiro alvo iraniano no Bahrein desde setembro"
+    "\"Não se constrói paz num planeta em chamas\", disse Guterres",
+    "Meta propõe elevar eletricidade a 35% da energia até 2035",
+    "Texto não exige que a eletricidade venha de renováveis"
    ],
-   "body": "O Exército dos EUA disse nesta sexta-feira que derrubou dois drones de ataque iranianos que seguiam em direção ao Bahrein, negando a alegação do Irã de que teria atingido um sistema de radar de alerta antecipado americano no reino. O CENTCOM, comando responsável pela região, informou que não houve feridos nem danos.\n\nSegundo a agência oficial iraniana IRNA, a Guarda Revolucionária disse que o ataque ao radar foi uma resposta a um bombardeio americano contra um poste de telecomunicações no porto de Sirik, no sul do Irã. A Guarda também afirmou que um petroleiro atingiu uma mina naval ao tentar atravessar o Estreito de Ormuz. Nenhuma das versões pôde ser verificada de forma independente.\n\nFoi o primeiro relato iraniano de ataque a uma instalação no Bahrein desde setembro. Durante a guerra aérea iniciada em fevereiro, o Irã atingiu bases americanas em países árabes vizinhos e, desde então, tem mirado rotineiramente petroleiros em Ormuz.",
+   "body": "O mundo precisa cortar de forma imediata e drástica as emissões de combustíveis fósseis para evitar os efeitos mais catastróficos da mudança climática, afirmou nesta sexta-feira o secretário-geral da ONU, António Guterres, em Antália, na Turquia, em sua última cúpula do clima no cargo. \"Não se pode construir a paz em um planeta em chamas\", disse, lembrando que o clima alimenta fome, deslocamentos, dívidas e disputas por terra e água.\n\nLíderes reunidos na conferência anual da ONU tentam chegar a ações concretas e ajudar os países mais vulneráveis, como nações insulares que perdem território com a alta do mar. Um dos pontos de atrito é a eletrificação: uma meta apresentada este ano elevaria a fatia da eletricidade no consumo global de energia de cerca de 21% para 35% até 2035.\n\nO texto, porém, não exige que essa eletricidade venha de fontes renováveis, algo que Guterres considera essencial. Segundo a Climate TRACE, priorizar energia limpa cortaria as emissões globais em 14%, contra 7% se combustíveis fósseis também forem usados. O diretor da Agência Internacional de Energia, Fatih Birol, defende a meta sem essa exigência para atrair mais países.",
    "category": "mundo",
    "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/13/us-military-downs-2-iranian-attack-drones-as-iran-claims-a-strike-on-a-us-radar-in-bahrain/",
-   "published_at": "2026-11-13T03:08:10-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/L44FEAGOYW4SRT2MBSQ43LXPOY.jpg?auth=89bc5cf8ee2b0879fbb04e2b3e75352b53d34b228b0673a088757da4b5b159f7&width=700"
+   "url": "https://www.local10.com/news/world/2026/11/13/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe/",
+   "published_at": "2026-11-13T13:44:45-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/T2MPZOTGJRTPCKBKWXXG34L67M.jpg?auth=4bf993f4a770828f5addf91bccefbb7faa28d670670a83de44768734b0aaf12f&width=700"
   },
   {
-   "id": "mundo-02-20261113-md",
-   "title": "AIEA pede que Irã reabra instalações nucleares à inspeção",
-   "summary": "A Agência Internacional de Energia Atômica cobrou do Irã o retorno dos inspetores, em relatório distribuído nesta sexta-feira. Teerã responde que a situação de segurança não permite as inspeções.",
+   "id": "mundo-10-20261113-td",
+   "title": "Ouro contrabandeado de zonas de guerra segue entrando nos Emirados",
+   "summary": "Os Emirados Árabes Unidos continuam sendo destino-chave de ouro contrabandeado de zonas de conflito, apesar de novas regras, diz relatório da ONG suíça Swissaid. Foram ao menos 591 toneladas de ouro ilícito, avaliadas em US$ 74 bilhões.",
    "highlights": [
-    "Falta de informação é \"preocupação de proliferação\"",
-    "Usina subterrânea perto de Isfahan preocupa",
-    "Inspeções limitadas desde os ataques de junho de 2025"
+    "Ouro de Rússia, Iêmen e Sudão continua chegando ao país",
+    "Origem ilícita respondeu por 42% das importações em 2024",
+    "Relatório pede inclusão dos Emirados em lista de vigilância"
    ],
-   "body": "A Agência Internacional de Energia Atômica (AIEA) pediu ao Irã que permita a retomada das inspeções em suas instalações nucleares, em relatório distribuído aos países-membros nesta sexta-feira. O Irã só tem permitido inspeções muito limitadas desde que EUA e Israel atacaram suas instalações nucleares em junho de 2025, e informou à agência que não é possível retomá-las na atual situação de segurança.\n\nSegundo a AP, a AIEA afirmou que a falta de informações sobre os locais e o material nuclear iranianos é \"uma questão de preocupação de proliferação\" que \"precisa ser corrigida com a máxima urgência\". A agência diz estar \"totalmente preparada\" para retomar suas atividades no país em curto prazo.\n\nDe acordo com a Reuters, o relatório expressa preocupação especial com uma usina subterrânea de enriquecimento de urânio perto de Isfahan, declarada por Teerã em 2025, mas nunca inspecionada. Os inspetores ainda não sabem a localização exata da planta nem se ela abriga material nuclear.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
-   "published_at": "2026-11-13T06:51:57-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260914__C8976PV__v1__HighRes__AustriaUnIaeaBoardGovernorsMeeting-1794560824.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-03-20261113-md",
-   "title": "Turquia e Catar assinam acordo de defesa mútua",
-   "summary": "Turquia e Catar firmaram um pacto de defesa mútua após encontro entre o presidente Recep Tayyip Erdogan e o emir Tamim bin Hamad al-Thani em Istambul. Segundo Ancara, o objetivo é evitar o ressurgimento da guerra no Golfo.",
-   "highlights": [
-    "Assinatura ocorreu em Istambul nesta sexta",
-    "Erdogan fala em prevenir nova guerra no Golfo",
-    "Acordo dá \"nova dimensão\" à relação bilateral"
-   ],
-   "body": "Turquia e Catar assinaram um acordo de defesa mútua, informou nesta sexta-feira o gabinete do presidente turco, Recep Tayyip Erdogan. O pacto foi firmado após um encontro de Erdogan com o emir do Catar, xeque Tamim bin Hamad al-Thani, em Istambul.\n\n\"O presidente Erdogan afirmou que continuaremos trabalhando juntos para evitar o ressurgimento da guerra na região do Golfo e estabelecer uma base para o diálogo e a paz\", disse a presidência turca em comunicado no X. Segundo o gabinete, o acordo \"acrescentará uma nova dimensão às relações entre Turquia e Catar\".",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
-   "published_at": "2026-11-13T10:49:51-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af72f8f-1794584463.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-04-20261113-md",
-   "title": "Ucrânia lança quase 1.200 drones contra a Rússia em meio a negociações",
-   "summary": "A Ucrânia disparou quase 1.200 drones contra alvos russos durante a noite, um dos maiores ataques aéreos da guerra. Ao mesmo tempo, negociadores dos EUA e da Rússia passaram a incluir a segurança europeia na pauta, o que alarmou líderes do continente.",
-   "highlights": [
-    "Um dos maiores ataques aéreos desde 2022",
-    "Merz: \"já existe uma arquitetura de segurança europeia\"",
-    "Kushner diz que Europa entrará nas próximas rodadas"
-   ],
-   "body": "A Ucrânia disparou quase 1.200 drones contra alvos russos durante a noite, em um dos maiores ataques aéreos desde a invasão em larga escala da Rússia, há quase cinco anos. Paralelamente, negociadores americanos e russos elevaram as apostas nas conversas de paz ao incluir na discussão os arranjos de segurança europeus em vigor desde o fim da Guerra Fria — mudança há muito buscada por Moscou.\n\n\"A Rússia quer falar sobre a arquitetura de segurança europeia. Não precisamos falar disso. Ela existe\", disse o chanceler alemão Friedrich Merz, referindo-se à Otan. Após dois dias de conversas em Abu Dhabi, os enviados americanos Steve Witkoff e Jared Kushner foram pessoalmente informar Vladimir Putin, no Kremlin, e Volodymyr Zelensky, que estava com líderes europeus em Dublin.\n\nKushner afirmou que a Rússia aceitou incluir a Europa nas próximas negociações, depois de anos insistindo em excluir os governos do continente por apoiarem a Ucrânia. Novas rodadas estão previstas.",
+   "body": "Os Emirados Árabes Unidos continuam sendo um destino importante para o ouro contrabandeado de zonas de guerra, apesar das novas regras adotadas após pressão internacional, segundo relatório da Swissaid, organização de desenvolvimento sediada na Suíça. Muitas refinarias e comerciantes não cumprem as normas, e a fiscalização é frouxa, diz o estudo, que recomenda incluir o país em uma lista internacional de vigilância financeira.\n\nOs Emirados foram o segundo maior exportador de ouro do mundo em 2024, atrás da Suíça. Apesar das regras, importaram ao menos 591 toneladas de ouro ilícito, avaliadas em US$ 74 bilhões; o metal vindo de zonas de conflito, da Rússia ou de países africanos representou 42% das importações totais.\n\nA maior parte — cerca de 453 toneladas, avaliadas em mais de US$ 56 bilhões — chegou às refinarias de Dubai vinda de países africanos como Guiné, Mali e Sudão, que está sob sanções internacionais. Os Emirados não responderam de imediato ao pedido de comentário.",
    "category": "mundo",
    "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/",
-   "published_at": "2026-11-13T07:01:33-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XC23MG3M2MRYC7Z6AORVWHPPTI.jpg?auth=c6675b113f17cbcec17182a8be01f3b8ed4efe91c6a6474afc0e519e9535a4b6&width=700"
+   "url": "https://www.local10.com/news/world/2026/11/13/gold-smuggled-from-war-zones-entered-the-uae-despite-new-regulations-report-says/",
+   "published_at": "2026-11-13T12:59:26-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/B2AKI7D4F75JMITKCSJMUCSP44.jpg?auth=a27d219afaa88e51a1dd190b96682a8de68f45b7a0f7a89e8716f51e6b70d403&width=700"
   },
   {
-   "id": "mundo-05-20261113-md",
-   "title": "Papa Leão XIV celebra missa campal em Chiclayo, onde foi bispo",
-   "summary": "O papa Leão XIV chegou nesta sexta-feira a Chiclayo, no norte do Peru, cidade onde atuou como bispo de 2015 a 2023. Ele celebrou uma missa ao ar livre nos Pampas de Pimentel, diante de grandes multidões.",
-   "highlights": [
-    "Avião papal exibia \"#LeoXIVReturnsHome\"",
-    "Papa tem dupla cidadania americana e peruana",
-    "Visita ao Peru vai até 17 de novembro"
-   ],
-   "body": "O papa Leão XIV continuou nesta sexta-feira sua viagem pelo Peru, chegando por volta das 9h, vindo de Lima, à base aérea de Chiclayo, no norte do país. O avião do pontífice exibia a mensagem \"#LeoXIVReturnsHome\": foi em Chiclayo que ele atuou como bispo Robert Prevost, de 2015 a 2023.\n\nO papa, que tem dupla cidadania americana e peruana, cumprimentou grandes multidões a caminho da histórica missa campal nos Pampas de Pimentel, um parque em área de deserto costeiro.\n\nLeão XIV fica no Peru até 17 de novembro. Ele chegou a Callao na quarta-feira e fez uma homilia na quinta na Catedral de Lima. O roteiro inclui ainda Cusco, nos Andes, e Pucallpa, na Amazônia, antes de uma missa pública em Lima na segunda-feira, na Base Aérea de Las Palmas.",
-   "category": "mundo",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/world/2026/11/13/pope-leo-xiv-celebrates-open-air-mass-at-pampas-de-pimentel-in-chiclayo/",
-   "published_at": "2026-11-13T11:01:22-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-13-2026%2Ft_b324e9e64f4b43749df910790176fdfc_name_49614782453_hdtv.jpg?auth=173ac421410b58f9d339e20d4c19e0b8c0ee5794e744967a5504c1d80d8e9b88&width=700"
-  },
-  {
-   "id": "mundo-06-20261113-md",
-   "title": "Desabamento de prédio perto de Nairóbi mata seis pessoas",
-   "summary": "Um prédio inacabado de oito andares desabou na manhã desta sexta-feira em Syokimau, nos arredores de Nairóbi, matando seis pessoas. É o segundo acidente do tipo em três semanas e reforça pedidos por mais fiscalização em obras.",
-   "highlights": [
-    "Laje superior de concreto cedeu durante a obra",
-    "Cinco pessoas foram resgatadas com vida",
-    "Desabamento em 23 de outubro matou oito"
-   ],
-   "body": "O desabamento de um prédio inacabado de oito andares matou seis pessoas no Quênia nesta sexta-feira. A estrutura ruiu em Syokimau, nos arredores de Nairóbi. Segundo relatório preliminar da equipe de emergência do condado de Nairóbi, operários estavam no local quando a laje de concreto mais alta cedeu, derrubando parte do prédio; a causa da falha ainda não foi esclarecida.\n\nA Cruz Vermelha do Quênia inicialmente relatou três resgatados e um desaparecido; depois, emissoras informaram que cinco pessoas foram retiradas com vida dos escombros. Como o número de trabalhadores no local não foi confirmado, bombeiros e equipes especializadas continuavam as buscas.\n\nO acidente ocorre após outro desabamento mortal na capital em 23 de outubro, que deixou oito mortos. Os dois desastres levaram a pedidos por fiscalização mais rígida da construção civil no país.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people",
-   "published_at": "2026-11-13T08:11:24-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T120621Z_1056672438_RC2ZMOAYNZUB_RTRMADP_3_KENYA-ACCIDENT-1794572788.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-07-20261113-md",
-   "title": "França critica proibição \"demagógica\" de Israel a Mélenchon",
-   "summary": "Israel proibiu a entrada do líder da França Insubmissa, Jean-Luc Mélenchon, e da deputada Mathilde Panot. O chanceler francês, Jean-Noël Barrot, chamou a decisão de demagógica.",
-   "highlights": [
-    "Israel cita postura \"extremamente anti-Israel\" do partido",
-    "Mélenchon prometeu escoltar flotilhas para Gaza",
-    "Paris defende solução de dois Estados"
-   ],
-   "body": "Paris condenou a \"decisão demagógica\" de Israel de impedir a entrada no país do político de oposição Jean-Luc Mélenchon, líder do partido França Insubmissa. Israel também barrou a presidente da bancada parlamentar do partido, Mathilde Panot, citando a postura \"extremamente anti-Israel\" da legenda e \"declarações ultrajantes\" de seus líderes, a quem acusou de \"libelo de sangue\".\n\nO chanceler francês, Jean-Noël Barrot, escreveu que a decisão, \"vinda de um governo que violou repetidamente o direito internacional\", favorece quem, como a França Insubmissa, \"vive de explorar o conflito israelo-palestino\". Ele reafirmou que a França seguirá trabalhando por uma solução de dois Estados.\n\nNo fim de semana, Mélenchon disse que, se vencer a eleição presidencial de abril de 2027, ordenará que navios franceses escoltem flotilhas de ajuda a Gaza. A proibição israelense veio depois de Paris barrar um conhecido defensor de assentamentos ilegais na Cisjordânia ocupada.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon",
-   "published_at": "2026-11-13T07:57:08-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T101028Z_1944391379_RC2XL8A0RTK9_RTRMADP_3_ISRAEL-PALESTINIANS-FRANCE-1794568872.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-08-20261113-md",
-   "title": "Pochettino deixa seleção dos EUA e assume o Manchester United",
-   "summary": "O argentino Mauricio Pochettino foi anunciado como técnico do Manchester United e deixa o comando da seleção americana, três meses após renovar até a Copa de 2030. Emocionado, chamou a saída de uma das decisões mais difíceis da carreira.",
-   "highlights": [
-    "Contrato de 2 anos e meio; estreia contra o Liverpool",
-    "United está na zona de rebaixamento da Premier League",
-    "Ele chorou em entrevista ao lado da federação americana"
-   ],
-   "body": "Mauricio Pochettino foi contratado nesta sexta-feira como técnico do Manchester United, aceitando deixar a seleção dos Estados Unidos para tentar reerguer o gigante inglês. Apenas três meses depois de anunciar contrato para comandar os americanos até a Copa de 2030, a Federação de Futebol dos EUA informou que ele parte na próxima semana para Old Trafford. O United, 20 vezes campeão inglês, está na zona de rebaixamento após 10 rodadas.\n\nO argentino de 54 anos assinou por dois anos e meio e assume em 18 de novembro, antes do jogo contra o Liverpool quatro dias depois. Será o oitavo treinador efetivo do clube desde a aposentadoria de Alex Ferguson, em 2013.\n\nEm entrevista coletiva no centro de treinamento da seleção, Pochettino chorou ao lado da presidente da federação, Cindy Parlow Cone. \"Uma das decisões mais difíceis da nossa carreira\", disse. \"Em parte é uma decisão muito triste; em outra, somos profissionais e precisamos buscar o próximo passo.\"",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/sports/2026/11/13/man-united-hires-mauricio-pochettino-who-leaves-us-job-with-task-of-reviving-former-power/",
-   "published_at": "2026-11-13T07:02:18-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/T5JPLB47H6WNCTVKOPO4CD66H4.jpg?auth=2bdb36664c3f86882400526b755ad6867df81a740483d61990915e7d4aa12a9e&width=700"
-  },
-  {
-   "id": "mundo-09-20261113-md",
-   "title": "Paquistão diz ter matado 74 militantes em operações na fronteira",
-   "summary": "O Exército do Paquistão afirmou ter matado 74 combatentes armados em operações perto das fronteiras com o Afeganistão. Islamabad acusa Índia e Afeganistão de apoiar os grupos, o que ambos negam.",
-   "highlights": [
-    "31 mortos no Baluchistão desde 3 de novembro",
-    "43 em Mir Ali e Orakzai, em Khyber Pakhtunkhwa",
-    "Tensão com o Afeganistão por causa do TTP"
-   ],
-   "body": "O Exército do Paquistão informou nesta sexta-feira ter matado 74 combatentes armados em várias operações em áreas próximas às fronteiras com o Afeganistão. Segundo a divisão de comunicação militar, 31 \"terroristas\" foram mortos na província do Baluchistão desde 3 de novembro, região de uma rebelião separatista do Exército de Libertação do Baluchistão (BLA).\n\nOutros 35 foram mortos nos últimos dois dias em Mir Ali e oito em Orakzai, distritos da província de Khyber Pakhtunkhwa, onde atuam o Talibã paquistanês (TTP) e outros grupos. O presidente Asif Ali Zardari disse que as operações devem continuar contra \"elementos terroristas patrocinados do exterior\".\n\nIslamabad acusa Índia e Afeganistão de apoiar os grupos armados, o que Nova Délhi e Cabul negam. O TTP, aliado do Talibã afegão, é visto pelas autoridades paquistanesas como operando a partir do lado afegão da fronteira, o que mantém a tensão entre os vizinhos.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids",
-   "published_at": "2026-11-13T06:59:34-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-28T064047Z_1130127645_RC2UUJAD7YRB_RTRMADP_3_AFGHANISTAN-PAKISTAN-1794559223.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "weston-01-20261113-md",
+   "id": "weston-01-20261113-td",
    "title": "Hoje: Cypress Bay, invicto, estreia nos playoffs em casa às 19h",
    "summary": "O time de futebol americano da Cypress Bay High School, de Weston, terminou a temporada regular com 10 vitórias e nenhuma derrota. Nesta sexta-feira, 13, recebe o Palm Beach Central às 19h pelos playoffs estaduais da Classe 6A.",
    "highlights": [
@@ -325,7 +341,7 @@
    "image_url": "https://westonjournal.com/img/cypress-bay-playoffs-palm-beach-central.webp"
   },
   {
-   "id": "weston-02-20261113-md",
+   "id": "weston-02-20261113-td",
    "title": "Fim de semana em Weston: WestonNights grátis e festival de histórias",
    "summary": "O show gratuito WestonNights volta no sábado à noite, no Weston Regional Park, com a banda FLAVOR. Perto dali, a Biblioteca Regional Sudoeste, em Pembroke Pines, recebe o Storybook Festival, que completa 25 anos.",
    "highlights": [
@@ -341,7 +357,7 @@
    "image_url": "https://seabreeze-media.atl1.digitaloceanspaces.com/wp-content/uploads/sites/47/2026/11/10095345/westonnights-concert-crowd-weston-regional-park.jpg"
   },
   {
-   "id": "weston-03-20261113-md",
+   "id": "weston-03-20261113-td",
    "title": "Weston empossa Bernardini e Ortega na comissão na segunda, 16",
    "summary": "Patricia Bernardini e Alfredo Ortega, eleitos em 3 de novembro, tomam posse na Comissão Municipal de Weston na reunião de segunda-feira, às 19h. Em seguida, a comissão escolhe o vice-prefeito e vota subsídios para parques e árvores.",
    "highlights": [
@@ -357,324 +373,340 @@
    "image_url": "https://westonjournal.com/img/weston-commission-swearing-in-nov-16.webp"
   },
   {
-   "id": "miami-01-20261113-md",
-   "title": "Frente fria leva o Sul da Flórida aos 14 °C no sábado",
-   "summary": "Uma frente fria passa pelo Sul da Flórida na tarde desta sexta-feira e derruba as temperaturas. Sábado amanhece com o ar mais frio desde março, na faixa dos 50 °F (cerca de 14 °C).",
+   "id": "weston-04-20261113-td",
+   "title": "Agenda cultural de Weston: show grátis do WestonNights e aula de pintura no sábado",
+   "summary": "O guia de artes do Weston Journal destaca para este sábado, 14 de novembro, o show gratuito do WestonNights com a banda FLAVOR no Regional Park e uma aula gratuita de pintura infantil na biblioteca. A série de filmes estrangeiros do Arts Council segue até abril.",
    "highlights": [
-    "Máxima de 80 °F por volta do almoço desta sexta",
-    "Sábado ensolarado, mas máxima abaixo de 70 °F",
-    "Calor normal volta na próxima semana"
+    "WestonNights com a banda FLAVOR no sábado, 14/11",
+    "Aula de pintura grátis para crianças de 8+ na biblioteca",
+    "Symphony in the Park com a South Florida Symphony em 12/12"
    ],
-   "body": "Uma frente fria chega ao Sul da Flórida no início da tarde desta sexta-feira. A região deve atingir brevemente 80 °F (27 °C) por volta do almoço, antes de as temperaturas caírem gradualmente ao longo da tarde e da noite. Pode haver uma pancada isolada durante a passagem da frente, mas nada significativo; logo após o pôr do sol, os termômetros caem para a casa dos 60 °F.\n\nNo sábado de manhã, a região terá o ar mais frio desde março, com temperaturas no alto da casa dos 50 °F (cerca de 14 °C). Mesmo com sol pleno e sem chance de chuva, as máximas mal devem chegar aos 70 °F (21 °C).\n\nO domingo também começa frio, na casa dos 50 °F, mas a tarde fica mais quente, no alto dos 70 °F. Na próxima semana de trabalho, o Sul da Flórida volta aos 80 °F habituais, com pancadas esparsas.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/weather/2026/11/13/cold-front-moves-through-friday-afternoon-sending-south-florida-to-the-50s-saturday-morning/",
-   "published_at": "2026-11-13T10:15:11-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-13-2026%2Ft_1a56d5c9c843406d95091cf85127d067_name_49614277579_hdtv.jpg?auth=a9679a175947ed1ee0881c62a6100c07086fce120e9b3e00b5fc589e657887c0&width=700"
+   "body": "A agenda cultural de Weston para as próximas semanas se concentra em novembro. O destaque deste sábado, 14 de novembro, é o show gratuito WestonNights com a banda FLAVOR no Weston Regional Park, promovido pela prefeitura. No mesmo dia, a Weston Branch Library oferece uma aula de pintura gratuita para crianças a partir de 8 anos, com materiais incluídos e inscrição obrigatória.\n\nA série de filmes estrangeiros do Arts Council of Greater Weston começou em 9 de novembro no AMC Weston 8. O pacote para os seis filmes, de novembro de 2026 a abril de 2027, custa US$ 48; ingressos avulsos saem por US$ 10 na mesa do Arts Council no cinema, no dia da sessão, se houver lugares.\n\nEm dezembro, a cidade promove o concerto gratuito Symphony in the Park: Holiday Favorites, com a South Florida Symphony, das 17h às 18h15 do sábado, 12, no palco do Weston Regional Park. Segundo o jornal, não há exposições em galerias ou museus de Weston com datas divulgadas para as próximas semanas.",
+   "category": "weston",
+   "source": "Weston Journal",
+   "url": "https://westonjournal.com/arts-and-exhibitions-this-month/",
+   "published_at": "2026-10-14T00:00:00-05:00",
+   "image_url": "https://westonjournal.com/img/arts-and-exhibitions-this-month.webp"
   },
   {
-   "id": "miami-02-20261113-md",
-   "title": "Mãe e filha são mortas a tiros em Pompano Beach; homem é detido",
-   "summary": "Duas mulheres foram encontradas mortas a tiros em frente a uma casa em Pompano Beach na noite de quinta-feira. Um vizinho disse que eram mãe e filha; o BSO deteve uma pessoa para interrogatório.",
+   "id": "miami-01-20261113-td",
+   "title": "Ex-funcionário de escola em Coral Springs é preso por pornografia infantil",
+   "summary": "O BSO prendeu Camden Kummler, de 19 anos, que trabalhava como especialista em cuidados infantis na Ramblewood Elementary School, em Coral Springs. Ele responde a 12 acusações ligadas a material de abuso sexual infantil.",
    "highlights": [
-    "Crime no quarteirão 1500 da SW Fifth Avenue",
-    "Vizinho diz que detido é namorado da mãe",
-    "Identidades ainda não divulgadas"
+    "Denúncia partiu do Centro Nacional de Crianças Desaparecidas",
+    "Vínculo com a escola terminou em 4 de novembro",
+    "Fiança de US$ 90 mil e proibição de contato com menores"
    ],
-   "body": "Duas mulheres foram encontradas mortas após serem baleadas em frente a uma casa em Pompano Beach. Segundo o Gabinete do Xerife de Broward (BSO), policiais foram chamados ao quarteirão 1500 da Southwest Fifth Avenue por volta das 20h de quinta-feira. \"Ambas as vítimas estavam do lado de fora da residência, onde foi constatada a morte\", disse a porta-voz Gerdy St. Louis, confirmando que eram parentes.\n\nO vizinho Douglas Newton contou à 7News que conhecia as vítimas havia anos e que eram mãe e filha; a mãe morava no bairro havia pelo menos 25 anos. \"Gente boa, ela era uma boa mãe\", disse.\n\nO BSO deteve uma pessoa para interrogatório, sem confirmar sua relação com as vítimas. Segundo o vizinho, trata-se do namorado de longa data da mãe, que morava na casa. As identidades não foram divulgadas até a notificação das famílias.",
+   "body": "O Gabinete do Xerife de Broward (BSO) prendeu Camden Kummler, de 19 anos, que trabalhava como especialista em cuidados infantis na Ramblewood Elementary School, em Coral Springs. Ele enfrenta 10 acusações de posse de material de abuso sexual infantil, uma de pornografia infantil e outra de transmissão desse tipo de material.\n\nSegundo os documentos da prisão, a força-tarefa de crimes contra crianças na internet do Sul da Flórida recebeu, via Centro Nacional de Crianças Desaparecidas e Exploradas, a informação de que Kummler teria arquivos no Dropbox com pornografia infantil, alguns mostrando alunos de ensino fundamental em um chuveiro escolar. Um dos vídeos mostraria uma criança de apenas 3 anos. Ele teria dito à polícia que troca mensagens com crianças que conheceu em outra escola.\n\nA escola informou que o vínculo dele terminou em 4 de novembro e que colabora com a investigação. Kummler está detido com fiança de US$ 90 mil, não pode ter contato com menores, acessar a internet ou se aproximar de escolas, e terá de usar tornozeleira GPS.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/camden-kummler-broward-public-schools-ramblewood-elementary-school/",
+   "published_at": "2026-11-13T13:57:43-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/5924da27-ce5c-4710-9340-0f9cb6e61d73/thumbnail/1200x630/87a6838933b3deadb71e47e5882a7a00/snapshot-1.jpg"
+  },
+  {
+   "id": "miami-02-20261113-td",
+   "title": "Guarda Costeira investiga navio MSC Poesia por despejo ilegal de óleo",
+   "summary": "O cruzeiro MSC Poesia, liberado na quinta-feira para deixar o Porto de Miami após ficar retido, é alvo de investigação criminal da Guarda Costeira. A suspeita é de uso de um \"cano mágico\" para descartar resíduos de óleo no mar.",
+   "highlights": [
+    "Navio foi retido no Porto de Miami no início do mês",
+    "Mais de 2 mil pessoas estavam a bordo na retenção",
+    "Princess Cruises pagou multa de US$ 40 milhões em 2016"
+   ],
+   "body": "O navio de cruzeiro MSC Poesia, que recebeu autorização na quinta-feira para deixar o Porto de Miami depois de ficar retido no início do mês, está sob investigação criminal por suposto despejo ilegal de óleo no mar, segundo uma autoridade dos EUA. A Guarda Costeira apura um caso de \"cano mágico\", em que o navio desvia resíduos oleosos para o sistema de águas cinzas — prática ilegal pela lei federal.\n\nÁguas cinzas, como as de pias e chuveiros, podem ser descartadas no mar a uma distância segura da costa. A investigação pode atingir tripulantes, o dono da embarcação e quem estiver diretamente envolvido. A CBS News pediu comentário à MSC Cruises.\n\nO navio foi retido depois que a Guarda Costeira \"identificou deficiências em sistemas a bordo\"; na época, a empresa falou em \"questão regulatória\". Mais de 2 mil pessoas estavam a bordo. Em 2016, a Princess Cruises, da Carnival, foi condenada a pagar US$ 40 milhões por despejar resíduos oleosos no oceano.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/coast-guard-msc-poesia-criminal-investigation-potential-magic-pipe/",
+   "published_at": "2026-11-13T12:21:45-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/ad15be72-f99b-40bc-a48e-4ce6f4801a5c/thumbnail/1200x630/dff2dbd9bf5e9a9fc4e7820fb811fa44/gettyimages-2225247975.jpg"
+  },
+  {
+   "id": "miami-03-20261113-td",
+   "title": "Policial de Miami Gardens vai processar Opa-locka após acusação ser retirada",
+   "summary": "A Promotoria de Miami-Dade retirou a acusação contra o policial de Miami Gardens Kolei Kulani McKinney Sr., preso em julho por suposta agressão doméstica em Opa-locka. Ele e seu advogado dizem que vão processar a polícia de Opa-locka.",
+   "highlights": [
+    "McKinney tem 14 anos na corporação e é veterano da Marinha",
+    "Ele estava afastado e sem salário havia meses",
+    "Advogado diz que caso não tinha causa provável"
+   ],
+   "body": "A Promotoria de Miami-Dade retirou nesta sexta-feira, no tribunal, a acusação contra o policial de Miami Gardens Kolei Kulani McKinney Sr., de 41 anos, preso pela polícia de Opa-locka em 30 de julho. Ele era acusado de agredir uma mulher em 17 de julho após uma discussão; ela disse que ele a enforcou e apontou uma arma, o que ele nega.\n\nMcKinney, com 14 anos de corporação e veterano da Marinha, estava afastado desde que se entregou no verão. Seu advogado, Stephan Lopez, disse que o caso era fraco e sem causa provável, e confirmou que vai processar a polícia de Opa-locka e ao menos um dos policiais que fizeram a prisão: \"Absolutamente, 100%, sem dúvida\".\n\nLopez também pediu que o cliente volte às ruas, lembrando que ele está há cinco meses sem salário. A esposa de McKinney disse que a situação foi constrangedora e afetou os filhos. Questionado sobre um recado à polícia de Opa-locka, o policial pediu \"melhor treinamento\".",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/broward/pompano-beach-double-homicide/",
-   "published_at": "2026-11-13T08:01:43-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111326-pompano-beach-shooting-2-women.png"
+   "url": "https://wsvn.com/news/local/miami-dade/miami-gardens-officer-charges-dropped/",
+   "published_at": "2026-11-13T13:18:34-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261113_Officer_McKinney_and_attorney_Miami_court_domestic_violence_charge_dismissed.png"
   },
   {
-   "id": "miami-03-20261113-md",
-   "title": "Funcionário do BSO é preso por gravar e divulgar vídeo íntimo",
-   "summary": "Um funcionário de 20 anos do Gabinete do Xerife de Broward foi preso pela polícia de Margate, acusado de gravar sem consentimento um encontro sexual e compartilhar o vídeo. Ele responde a duas acusações de voyeurismo digital.",
+   "id": "miami-04-20261113-td",
+   "title": "Motorista de Cybertruck pega 6 anos e meio por acidente fatal embriagado",
+   "summary": "Um juiz de Miami-Dade condenou Dayron Ramirez-Mesa, de 22 anos, a 6 anos e meio de prisão por matar uma mulher ao dirigir embriagado um Tesla Cybertruck em dezembro de 2025. Ele estava a quase 160 km/h e furou um sinal vermelho em Kendale Lakes.",
    "highlights": [
-    "Jeremiah Jolicoeur, 20 anos, foi preso em Margate",
-    "Vídeo foi enviado inclusive ao namorado da mulher",
-    "Duas acusações de crime grave"
+    "Vítima foi Dayana Abreu Perez, de 40 anos",
+    "Carteira de motorista revogada permanentemente",
+    "Réu pediu perdão à família em audiência emocionada"
    ],
-   "body": "Um funcionário do Gabinete do Xerife de Broward (BSO) enfrenta duas acusações de voyeurismo após ser preso pela polícia de Margate. Segundo a polícia, Jeremiah Jolicoeur, de 20 anos, gravou secretamente um encontro sexual consensual entre ele e uma mulher em sua casa em Margate, em março.\n\nDe acordo com o boletim de prisão, em outubro ele compartilhou o vídeo, sem permissão da mulher, com dois homens — entre eles o namorado dela. Jolicoeur foi acusado de voyeurismo digital e divulgação de voyeurismo digital, ambos crimes graves (felonies), e deveria comparecer a uma audiência de fiança nesta sexta-feira.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/broward/broward-sheriff-employee-voyeurism-arrest/",
-   "published_at": "2026-11-13T10:36:00-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261113_Jolicoeur_BSO_employee_mugshot.png"
-  },
-  {
-   "id": "miami-04-20261113-md",
-   "title": "Delray Beach cancela desfile de St. Patrick e eventos Pride por lei estadual",
-   "summary": "Delray Beach cancelou o desfile de St. Patrick e os eventos do Pride de 2027, citando a nova lei da Flórida contra iniciativas de diversidade. Após a reação negativa, o prefeito prometeu tentar salvar o desfile.",
-   "highlights": [
-    "Lei assinada por DeSantis entra em vigor em 1º de janeiro",
-    "Norma restringe verba para eventos ligados a DEI",
-    "Prefeito Tom Carney tenta manter o desfile"
-   ],
-   "body": "A cidade de Delray Beach cancelou seu desfile do Dia de São Patrício e os eventos do Pride de 2027, citando uma nova lei antidiversidade da Flórida que entra em vigor em 1º de janeiro. O anúncio foi feito em uma publicação no Facebook na terça-feira. Assinada em abril pelo governador Ron DeSantis, a lei restringe o financiamento de eventos comunitários ligados a diversidade, equidade e inclusão (DEI); após revisão, a cidade concluiu que está legalmente proibida de organizar ou promover eventos como esses.\n\nA lei prevê exceções para feriados estaduais e federais, o que não inclui o Dia de São Patrício. Moradores reagiram com surpresa e críticas. Diante da enxurrada de reações negativas, o prefeito Tom Carney divulgou nota dizendo que a cidade \"está trabalhando intensamente com várias entidades para garantir que o desfile de St. Patrick de 2027 aconteça como programado\".",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/florida/delray-beach-anti-diversity-law-fl/",
-   "published_at": "2026-11-13T09:53:29-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111326-delray-beach-st-patricks-day-parade.jpg?quality=60&strip=color"
-  },
-  {
-   "id": "miami-05-20261113-md",
-   "title": "Vereadora de Doral quer rever acordo da cidade com o ICE",
-   "summary": "A vereadora Maureen Porras quer que Doral reavalie o acordo 287(g) com o ICE, citando preocupações de moradores. O procurador da cidade diz que o pedido perdeu o prazo, mas ela pretende levar o tema à reunião de 18 de novembro.",
-   "highlights": [
-    "Acordo 287(g) foi aprovado em abril de 2025",
-    "Comerciante diz ter fechado restaurante por queda de clientes",
-    "Disputa sobre prazo com o procurador Lorenzo Cobiella"
-   ],
-   "body": "A vereadora Maureen Porras quer que a cidade de Doral revise seu acordo de cooperação com o Serviço de Imigração e Alfândega dos EUA (ICE), citando preocupações de moradores e o que descreve como uma mudança na comunidade após as eleições recentes. Doral aprovou o acordo 287(g) com o ICE em abril de 2025.\n\nO procurador municipal Lorenzo Cobiella diz que o pedido não cumpriu o prazo exigido para itens que precisam de revisão jurídica adicional. Porras contesta e afirma que ainda vai buscar a discussão na reunião do conselho de 18 de novembro. \"Não tenho poder para dizer a um vereador que não pode fazer algo. Só estou lendo o que diz a lei\", disse Cobiella.\n\nEntre os que pedem a revisão está Eleazar Guevara, que fechou seu restaurante em outubro, cinco meses após abrir. Ele atribui o fechamento à queda de clientes após detenções do ICE em Doral e diz que as pessoas continuam com medo de frequentar a região.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/doral-councilwoman-seeks-review-of-ice-agreement-amid-concerns-from-residents/",
-   "published_at": "2026-11-13T07:18:09-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/d70285c7-c6a9-4cfe-848e-4f8ee6c91a37/thumbnail/1200x630/ae58b72599c3654b3e7bd53f03d12e6d/snapshot.jpg"
-  },
-  {
-   "id": "miami-06-20261113-md",
-   "title": "Little Haiti ganha 13 casas populares em modelo de terreno comunitário",
-   "summary": "Autoridades de Miami deram início às obras do Place Louverture, com 13 townhomes permanentemente acessíveis em Little Haiti. O projeto usa o modelo de community land trust, em que o comprador adquire a casa, mas não o terreno.",
-   "highlights": [
-    "Primeiro projeto da South Florida Community Land Trust em Miami-Dade",
-    "Terreno na NE 67th Street",
-    "Moradores antigos sofrem com impostos e custo de vida"
-   ],
-   "body": "Líderes da cidade e do condado lançaram a pedra fundamental de um novo conjunto de townhomes no bairro de Little Haiti, em Miami, com o objetivo de dar a compradores de baixa renda um caminho acessível para a casa própria. O projeto, chamado Place Louverture, terá 13 casas permanentemente acessíveis em um terreno de esquina na Northeast 67th Street.\n\nÉ o primeiro projeto em Miami-Dade da South Florida Community Land Trust, ONG de Broward que ajuda famílias deslocadas pelo alto custo da moradia. No modelo de community land trust, o comprador adquire a casa por preço reduzido, enquanto a ONG mantém a propriedade permanente do terreno — esquema de patrimônio compartilhado que deixa alguns moradores antigos cautelosos.\n\nA obra começa num momento em que impostos e custo de vida pesam sobre o bairro historicamente operário. O morador Sampson Lisca contou ter pago US$ 5.200 de imposto predial. A comissária Christine King, que representa o distrito, disse que os líderes locais precisam olhar pelos moradores antigos.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/place-louverture-little-haiti-community-land-trust-affordable-townhomes-groundbreaking/",
-   "published_at": "2026-11-12T23:17:58-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/2a02b928-edcb-49e1-be28-f95b2dffc1cc/thumbnail/1200x630/df731e627413f230224baceec2f97e46/snapshot-68.jpg"
-  },
-  {
-   "id": "miami-07-20261113-md",
-   "title": "Coral Springs: homem é acusado de atropelar ciclista de propósito",
-   "summary": "Um homem de 26 anos foi preso em Coral Springs acusado de subir com seu SUV na calçada e atingir intencionalmente um ciclista de bicicleta elétrica após uma discussão. Ele responde por agressão agravada com arma letal.",
-   "highlights": [
-    "Discussão começou perto da Coral Springs Elementary",
-    "SUV invadiu gramado e calçada para atingir a vítima",
-    "Florencio Quijada Brito foi preso na quinta"
-   ],
-   "body": "Um morador de Coral Springs de 26 anos foi preso na quinta-feira acusado de subir propositalmente com seu SUV na calçada e atingir um ciclista de bicicleta elétrica após uma discussão. Florencio Anton Quijada Brito responde por agressão agravada com arma letal, segundo o boletim da polícia de Coral Springs.\n\nDe acordo com a polícia, por volta das 9h50 a vítima seguia pela West Sample Road quando viu Quijada Brito perto da Coral Springs Elementary School, e os dois discutiram. Ele entrou em um Honda CR-V cinza e saiu, mas depois alcançou o ciclista no bairro, onde houve nova troca de palavras.\n\nQuando a vítima desacelerou perto do cruzamento da Northwest 115th Avenue com a Northwest 39th Street, o motorista teria saído da pista, cruzado um gramado e subido na calçada, atingindo o ciclista, que bateu no capô antes de cair no chão.",
+   "body": "Um juiz de Miami-Dade condenou nesta sexta-feira Dayron Ramirez-Mesa, de 22 anos, a 6 anos e meio de prisão estadual, seguidos de 8 anos e meio de liberdade condicional, pela morte de Dayana Abreu Perez, de 40 anos. Ele dirigia um Tesla Cybertruck embriagado em 14 de dezembro de 2025 e se declarou culpado quase 11 meses depois.\n\nSegundo os investigadores, ele estava a quase 100 mph (cerca de 160 km/h) perto da Southwest 56th Street com a 22nd Avenue, em Kendale Lakes, quando furou o sinal vermelho e atingiu dois carros que faziam conversão à esquerda. A câmera do Cybertruck registrou os momentos antes da batida. \"Você destruiu nossa família, mas não guardo ódio\", disse um parente da vítima; o réu, em espanhol, pediu perdão.\n\nA carteira de motorista dele foi revogada para sempre. Na condicional, terá de fazer curso sobre abuso de substâncias, prestar 200 horas de serviço comunitário e doar US$ 200 por ano ao fundo de compensação de vítimas em 14 de dezembro, data do acidente.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/13/man-accused-of-intentionally-hitting-e-bike-rider-with-suv-after-argument-in-coral-springs-police-say/",
-   "published_at": "2026-11-13T08:47:58-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/D3QVGE7F5VA2LGXIP4ANOO6LJM.jpg?auth=c9646211b92a00dd46d03f52ab57f59b07b612929349b68f23158858a3c9479e&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/13/cybertruck-driver-gets-6-years-for-miami-dade-dui-crash-that-left-woman-dead-destroyed-family/",
+   "published_at": "2026-11-13T13:16:58-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-13-2026%2Ft_8385ba9ece054c4f8f173442ba6af2aa_name_49616966532_hdtv.jpg?auth=5fda3630b9a0d31b56270cde90c7322ea8dfa0105a6cb2bf87dc17ae127df08a&width=700"
   },
   {
-   "id": "miami-08-20261113-md",
-   "title": "\"Hamilton\" volta ao Broward Center com maestro de Miami",
-   "summary": "O musical \"Hamilton\" retorna ao Broward Center for the Performing Arts, em Fort Lauderdale, para temporada limitada. A orquestra é regida por Emmanuel \"Manny\" Schvartzman, natural de Miami, que celebra uma \"volta para casa\".",
+   "id": "miami-05-20261113-td",
+   "title": "Homem denuncia arrombamento perto de Miami Shores e é preso pela morte da mãe",
+   "summary": "Gregory Magloire, de 33 anos, chamou a polícia para relatar um arrombamento, mas os agentes encontraram a mãe dele morta em casa e nenhum sinal de invasão. Segundo o MDSO, ele confessou tê-la agredido com objetos contundentes.",
    "highlights": [
-    "Schvartzman está há nove anos na turnê",
-    "Ele já trabalhou no Amaturo Theater, vizinho ao palco",
-    "Espetáculo tem três horas de música sem pausa"
+    "Vítima foi Josephine Louise Magloire, de 68 anos",
+    "Ele é acusado de homicídio de segundo grau",
+    "Está preso sem fiança no TGK"
    ],
-   "body": "Um dos musicais mais celebrados da Broadway está de volta ao Sul da Flórida. \"Hamilton\", conhecido por misturar hip-hop, rap e teatro musical tradicional, chega ao Broward Center for the Performing Arts, em Fort Lauderdale, para uma temporada limitada.\n\nPara o maestro Emmanuel \"Manny\" Schvartzman, natural de Miami e há nove anos na turnê, a temporada tem sabor especial: ele já trabalhou no Amaturo Theater, vizinho ao teatro onde o musical está em cartaz. \"É como uma volta para casa. Na verdade, uma volta para casa dupla\", disse ao Local 10.\n\nSchvartzman explicou que, diferentemente de produções tradicionais, \"Hamilton\" exige coordenação constante entre orquestra e elenco. \"São três horas de música sem parar; não há uma cena sem algum tipo de música\", afirmou.",
+   "body": "Agentes do Gabinete do Xerife de Miami-Dade (MDSO) foram a uma casa no quarteirão 200 da Northwest 100th Terrace, logo fora de Miami Shores, depois que o morador Gregory Magloire, de 33 anos, relatou um arrombamento na quarta-feira. Ele chegou de bicicleta, mostrou uma janela que estava tapada e intacta, disse que não queria entrar e entregou a chave aos policiais — afirmando saber que seu quarto fora revirado sem ter entrado na casa.\n\nDentro do imóvel, os agentes encontraram a mãe dele, Josephine Louise Magloire, de 68 anos, com traumas na cabeça e no rosto, sangue e vidro quebrado. Ela foi declarada morta no local. Detido pelas inconsistências no relato, ele confessou na Divisão de Homicídios ter golpeado a mãe repetidamente com objetos contundentes; os detetives acreditam que o crime ocorreu na noite anterior.\n\nA polícia apreendeu um objeto descrito como cassetete/soqueira e disse que ele parecia estar sob efeito de álcool e drogas. Magloire foi preso na quinta-feira por homicídio de segundo grau e está detido sem fiança. O relatório não aponta motivo.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/entertainment/2026/11/13/hamilton-returns-to-south-florida-as-miami-conductor-celebrates-homecoming-at-broward-center/",
-   "published_at": "2026-11-13T08:26:50-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-13-2026%2Ft_0fff397fba8d464f8d763feffbbc37a3_name_49612356675_hdtv.jpg?auth=8c69302a5c38b2f87280fde0e639e86920ac384d0bbd7fc726a9b9004a011aae&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/13/man-reports-home-burglary-near-miami-shores-deputies-find-his-mother-dead-and-arrest-him-mdso/",
+   "published_at": "2026-11-13T11:37:33-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/45JXFVWGENHPNE7NJE7Z6SKCBA.jpg?auth=38d9dad1823f2b543255de1883a75ea6a61f42b92959b9624add8dad02683f76&width=700"
   },
   {
-   "id": "miami-09-20261113-md",
-   "title": "Panthers viram 4 a 1 e vencem Red Wings na maior virada da temporada",
-   "summary": "O Florida Panthers estava perdendo por 4 a 1 para o Detroit Red Wings, mas reagiu e venceu por 5 a 4 na quinta-feira. Anton Lundell marcou duas vezes, incluindo o gol da vitória a 2min40s do fim.",
+   "id": "miami-06-20261113-td",
+   "title": "Mãe é presa após filhos serem achados sozinhos em trailer imundo em Miami-Dade",
+   "summary": "Leslie Quinones, de 25 anos, foi presa na madrugada de sexta-feira depois que agentes encontraram três de seus filhos dormindo sozinhos em um trailer cheio de lixo e comida mofada, sem água encanada nem luz. Ela responde por quatro acusações de negligência infantil.",
    "highlights": [
-    "Maior virada dos Panthers na temporada",
-    "Sam Reinhart marcou seu 200º gol pelo clube",
-    "Detroit sofreu a quinta derrota seguida"
+    "Trailer fica na Northwest 81st Street",
+    "Luz foi cortada por dois meses de aluguel atrasado",
+    "Polícia foi ao local por denúncia de briga"
    ],
-   "body": "Anton Lundell marcou seu segundo gol na noite a 2min40s do fim e coroou a reação do Florida Panthers, que saiu de uma desvantagem de três gols para vencer o Detroit Red Wings por 5 a 4 na quinta-feira, em Detroit. Foi a maior virada do time na temporada.\n\nDetroit vencia por 4 a 1 a menos de 30 segundos do fim do segundo período. Gustav Forsling descontou a 18 segundos do intervalo, Lundell fez 4 a 3 no início do terceiro, Lars Eller empatou a 3min31s do fim e Lundell decidiu menos de um minuto depois. Carter Verhaeghe deu três assistências.\n\nSam Reinhart abriu o placar com seu 200º gol pelos Panthers, mas Detroit marcou os quatro gols seguintes. Os Red Wings sofreram a quinta derrota consecutiva.",
+   "body": "Uma mãe de 25 anos, Leslie Quinones, foi presa na madrugada desta sexta-feira em Miami-Dade e responde por quatro acusações de negligência infantil. Agentes foram ao quarteirão 900 da Northwest 81st Street por volta de 0h12 após uma denúncia de briga violenta entre um homem e uma mulher, mas não encontraram quem ligou.\n\nAo se aproximar de um trailer vizinho com muito lixo e pequenas garrafas de bebida abertas do lado de fora, um agente encontrou a porta entreaberta e três crianças dormindo sem nenhum adulto: uma de uniforme escolar, outra com fralda suja e a terceira no chão, enrolada em um cobertor. Havia lixo por toda parte, comida mofada perto de uma das crianças e o vaso sanitário cheio de água suja.\n\nO trailer não tinha eletricidade, água encanada nem ar-condicionado; segundo o relatório, a luz foi cortada porque a mãe estava dois meses atrasada no aluguel. Um agente acordou a criança mais velha para obter informações sobre os irmãos e a mãe.",
    "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/florida-panthers-detroit-red-wings-november-12-2026/",
-   "published_at": "2026-11-13T06:37:08-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/26be027c-5c95-4c3c-9dfa-0d755e69f92f/thumbnail/1200x630/eaa8d7391d5e1b480e3ba40fa4ebe706/cbsmiami-panthers-1.jpg"
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/13/miami-dade-mother-arrested-after-4-children-found-living-in-filthy-trailer-without-running-water-deputies-say/",
+   "published_at": "2026-11-13T14:04:34-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/RG3OWD2ZIBA3TDR3TRINZAB3TQ.jpg?auth=228bea4458bdee47d335060faeb7fc9fc796427b6dc215a44d328a933e399f28&width=700"
   },
   {
-   "id": "miami-10-20261113-md",
-   "title": "Guarda de travessia é atropelada em frente a escola no sudoeste de Miami-Dade",
-   "summary": "Uma guarda de travessia escolar do Gabinete do Xerife de Miami-Dade foi atropelada na faixa de pedestres em frente à Somerset Academy Charter High School. Ela foi levada de helicóptero ao hospital e já está em casa se recuperando.",
+   "id": "miami-07-20261113-td",
+   "title": "GTA VI: Miami terá festival, noite temática do Heat e outros eventos",
+   "summary": "O lançamento de Grand Theft Auto VI, ambientado em Vice City, versão virtual de Miami, ganhou uma agenda de eventos oficiais na cidade. Há noite temática do Miami Heat, festival com Cardi B e Travis Scott e ações em bares.",
    "highlights": [
-    "Acidente na SW 248th Street, pouco depois das 15h",
-    "Nenhuma criança ficou ferida",
-    "Moradores reclamam de excesso de velocidade na via"
+    "Heat faz \"A Night in Vice City\" na quarta contra os Bucks",
+    "The Festival, em 21/11, no Mana Wynwood",
+    "Jogo deve vender mais de US$ 3 bilhões na 1ª semana"
    ],
-   "body": "Uma guarda de travessia escolar do Gabinete do Xerife de Miami-Dade se recupera em casa após ser atropelada na tarde de quinta-feira enquanto trabalhava em uma faixa de pedestres no sudoeste do condado. O acidente ocorreu pouco depois das 15h na Southwest 248th Street, em frente à Somerset Academy Charter High School. A mulher, que atua como guarda há pouco mais de um ano, foi levada de helicóptero ao hospital e já recebeu alta.\n\n\"Felizmente nenhuma criança se feriu\", disse o porta-voz Daniel Castillo. Imagens mostraram um Tesla preto isolado por fita policial; o motorista permaneceu no local, e a via foi reaberta cerca de quatro horas depois. Detetives de homicídios investigam as circunstâncias.\n\nO caso renovou preocupações de moradores, que dizem que excesso de velocidade e acidentes são frequentes no trecho, muito usado por alunos de duas escolas a menos de 800 metros uma da outra.",
+   "body": "Miami tem uma agenda cheia de eventos para celebrar Grand Theft Auto VI, jogo que, segundo pesquisas de mercado, deve render mais de US$ 3 bilhões em vendas na primeira semana para a Rockstar Games. O título de US$ 80 coloca o jogador no controle de Jason Duval e Lucia Caminos em Vice City, versão virtual detalhada de Miami, no estado fictício de Leonida.\n\nO Miami Heat celebra \"A Night in Vice City\" no jogo contra o Milwaukee Bucks, às 19h de quarta-feira, no Kaseya Center, e lançou uma linha de roupas temática. Rockstar e PlayStation promovem The Festival em 21 de novembro, a partir das 16h, em dois palcos do Mana Wynwood, com Cardi B, Travis Scott, Kodak Black, Don Toliver e DJs como Justice e Metro Boomin; os ingressos de US$ 60 estão em lista de espera.\n\nNo sábado, o DJ Serge Devant se apresenta no Mad Radio, na Biscayne Boulevard, com prévias do jogo. Em 20 de novembro, a Rockstar distribui brindes no bar The Corner, no centro, recriado no jogo como \"The Vault\".",
    "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/crossing-guard-struck-somerset-academy-charter-high-school-southwest-miami-dade-november-12-2026/",
-   "published_at": "2026-11-12T17:06:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/12/eea0899b-4112-48c9-8398-39c338b98ab4/thumbnail/1200x630/aabaf7bb06c7b6d5d693baa422eb4d56/screenshot-2026-11-13-000330.png"
+   "source": "Local 10",
+   "url": "https://www.local10.com/entertainment/2026/11/13/grand-theft-auto-vi-here-is-a-list-of-official-events-in-miami/",
+   "published_at": "2026-11-13T12:10:11-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/LRCG7XVL6VFAVEMYFQIHFZX2ZA.jpg?auth=0914cfe9741390fd1ecb251e43e23dffeb8fd74097cc0cda7fe1f4e042eeedfb&width=700"
   },
   {
-   "id": "tecnologia-01-20261113-md",
-   "title": "Pane da Microsoft vira crise global na nuvem; serviços voltam aos poucos",
-   "summary": "A Microsoft se recupera lentamente de uma pane de um dia que começou no Outlook e no Teams e se espalhou para serviços de nuvem no mundo todo. A empresa ainda não explicou a causa.",
+   "id": "miami-08-20261113-td",
+   "title": "Terceiro suspeito é preso por sequestro e morte de jovem de North Miami",
+   "summary": "Sheldon Diaz, de 32 anos, foi preso em Tampa durante uma blitz de trânsito e é o terceiro detido no caso de Eddrick Malik Bethune, de 22 anos. A vítima foi sequestrada em outubro por homens que se passavam por policiais e morta a tiros.",
    "highlights": [
-    "Afetou e-mail, arquivos, Copilot, Defender e Intune",
-    "Microsoft cita \"grande número de servidores\" indisponíveis",
-    "Outlook começou a se recuperar na manhã de sexta"
+    "Grupo usava carro com giroflex e camisas escrito \"POLICE\"",
+    "Diaz foi parado a 80 km/h em zona de 56 km/h",
+    "No carro havia US$ 10 mil e vários celulares"
    ],
-   "body": "A Microsoft está se recuperando lentamente de uma pane de um dia inteiro, depois que boa parte de seus sistemas foi atingida por um problema de software em cascata. As falhas começaram na quinta-feira, inicialmente nos EUA e nas Américas, mas se espalharam pelo mundo enquanto engenheiros lutavam para restabelecer servidores.\n\nO que começou como uma interrupção do e-mail Outlook e das videochamadas do Teams virou um colapso dos serviços de nuvem para consumidores e empresas, incluindo e-mail, arquivos e documentos. A pane também derrubou as ferramentas de IA Copilot, o software de segurança Defender e impediu administradores de acessar o Intune; alguns usuários tiveram problemas com computadores Windows na nuvem.\n\nA Microsoft só disse que o incidente envolveu \"um grande número de servidores inesperadamente indisponíveis\" e que segue investigando a causa. Na manhã de sexta-feira, o Outlook começou a se recuperar e e-mails voltaram a chegar aos poucos.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-   "published_at": "2026-11-13T08:15:20-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894"
+   "body": "Um terceiro suspeito foi preso no caso do sequestro e assassinato de Eddrick Malik Bethune, de 22 anos, levado em outubro de um condomínio em North Miami por um grupo que se passava por policiais e depois morto a tiros no sudoeste de Miami-Dade. Sheldon Diaz, de 32 anos, foi detido em 5 de novembro em Tampa, quando agentes do xerife de Hillsborough o pararam por excesso de velocidade e placa temporária irregular.\n\nNo carro, os agentes encontraram uma caneta de resina de THC, US$ 10 mil em dinheiro e vários celulares. Diaz tinha mandados de Miami-Dade por tentativa de homicídio e por se passar por policial durante um crime que resultou em morte.\n\nSegundo os investigadores, cinco homens chegaram ao condomínio Aliro, na Biscayne Boulevard, na noite de 3 de outubro, em um Toyota Camry com luzes vermelhas e azuis. Dois deles, com camisas com a palavra \"POLICE\", renderam e algemaram Bethune, pegaram seu celular e as chaves, e três entraram no apartamento, onde houve troca de tiros com outro homem.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/13/third-suspect-arrested-in-kidnapping-murder-of-miami-dade-man-after-tampa-traffic-stop/",
+   "published_at": "2026-11-13T12:54:04-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-13-2026%2Ft_225b4ab342a845d2a60566b0fb3c0166_name_49616530844_hdtv.jpg?auth=d4b24191e175f2d2904bfe08587eb4d7ce7e0fd036562e66258aede0fa887201&width=700"
   },
   {
-   "id": "tecnologia-02-20261113-md",
-   "title": "ChatGPT lança carteira para agentes de IA fazerem compras por você",
-   "summary": "A OpenAI lançou o ChatGPT Wallet, que permite que seus agentes, chamados \"dots\", ajudem a escolher produtos e concluam a compra. O recurso começa para um grupo limitado de assinantes Pro nos EUA.",
+   "id": "miami-09-20261113-td",
+   "title": "Dupla é presa em Fort Lauderdale por fraude com cartões roubados do correio",
+   "summary": "Zakeylia Ward e Germaine Byrd foram presos no Sul da Flórida acusados de usar cartões de crédito roubados do correio para comprar dezenas de milhares de dólares em produtos. Byrd trabalhava em um centro de triagem dos Correios em Atlanta.",
    "highlights": [
-    "Usuário revisa itens, total e cartão antes do pagamento",
-    "Aprovação com Face ID ou impressão digital",
-    "Aceita Visa, Mastercard e Amex emitidos nos EUA"
+    "Cartões eram do Synchrony Bank",
+    "Terceiro suspeito foi preso em Houston",
+    "Ward também é acusada de posse ilegal de armas"
    ],
-   "body": "O ChatGPT agora pode fazer compras por você. Nesta sexta-feira, a OpenAI lançou um recurso de carteira que permite que seus agentes, chamados de \"dots\", ajudem a decidir o que comprar e concluam a compra em nome do usuário. Inicialmente, a função estará disponível para um número limitado de assinantes do ChatGPT Pro nos EUA, maiores de 18 anos, com cartões Visa, Mastercard ou American Express emitidos no país.\n\nSegundo a OpenAI, o usuário mantém controle total: pode revisar os itens, o valor total e o cartão antes da finalização, e aprova cada compra com uma verificação de segurança, como Face ID ou impressão digital, que gera um registro da transação. Para começar, basta adicionar o cartão ao ChatGPT Wallet uma única vez e pedir ajuda ao dot.\n\nO lançamento ocorre enquanto ferramentas de IA buscam utilidade prática. DoorDash e Uber relatam poucos pedidos feitos por agentes, mas o Muse, da Meta, com mais de 10 milhões de usuários, viu as compras assistidas por IA virarem uma das principais atividades.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-   "published_at": "2026-11-13T11:00:12-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729"
+   "body": "Um homem e uma mulher foram presos no Sul da Flórida acusados por autoridades federais de participar de um esquema de fraude com cartões de crédito roubados pelo correio. Zakeylia Ward, de 33 anos, de Fort Lauderdale, que já tem duas condenações federais por fraude, e Germaine Byrd, de 32, foram levados à cadeia de Broward na quinta-feira. Um terceiro suspeito, Stevens Felix, de 37, foi preso em Houston em outubro.\n\nSegundo a acusação, Byrd trabalhava em um centro de processamento do Serviço Postal em Atlanta. O trio teria obtido cartões do Synchrony Bank roubados no correio e usado dados pessoais das vítimas para ativá-los e comprar \"pelo menos dezenas de milhares de dólares\" em produtos em 2025.\n\nTodos respondem por fraude bancária, fraude eletrônica e conspiração. Ward também é acusada de posse de arma por condenada, por ter duas pistolas estilo AR. Ward e Byrd aguardam extradição para a Geórgia, onde o caso tramita.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/13/pair-jailed-in-south-florida-for-credit-card-fraud-scheme-with-several-victims-feds-say/",
+   "published_at": "2026-11-13T14:26:31-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/4DHABRJVHBEQLJTYFCLGAZCQTI.png?auth=eeb468f5ae08074e9c078d043bb860bbfd12c0f438a6cb07e1ddf72bf66ba677&width=700"
   },
   {
-   "id": "tecnologia-03-20261113-md",
-   "title": "Colette Kress assume interinamente a Nvidia após saída de Jensen Huang",
-   "summary": "Jensen Huang renunciou ao cargo de CEO da Nvidia após 33 anos, em meio a um escândalo envolvendo uma suposta espiã chinesa. A diretora financeira Colette Kress foi nomeada CEO interina enquanto o conselho busca um substituto.",
+   "id": "miami-10-20261113-td",
+   "title": "Sobrevivente da pólio ajuda milhares de crianças no Sul da Flórida",
+   "summary": "Elizabeth King contraiu pólio aos 3 anos na República Dominicana e os médicos não esperavam que sobrevivesse. Hoje, após 37 cirurgias, ela comanda há 25 anos uma ONG que oferece bolsas, mentoria e presentes a crianças carentes.",
    "highlights": [
-    "Kress segue também como diretora financeira",
-    "Harvey Jones vira o primeiro presidente do conselho",
-    "Conselho avalia candidatos internos e externos"
+    "Fundação se chama Suits, Stilettos and Lipstick",
+    "Batom vermelho virou sua \"pintura de guerra\"",
+    "King tem doutorado em educação"
    ],
-   "body": "Jensen Huang, fundador que transformou a Nvidia em uma das empresas mais valiosas do mundo, renunciou ao cargo de presidente-executivo após 33 anos. A diretora financeira Colette Kress foi nomeada CEO interina, informou o conselho na quinta-feira, enquanto avalia candidatos internos e externos para o posto permanente.\n\n\"Colette ajudou a liderar a Nvidia em um período de crescimento extraordinário e tem profundo conhecimento do nosso negócio\", disse Harvey Jones, nomeado também o primeiro presidente do conselho da empresa. Ele afirmou que as operações, os compromissos com clientes e o roteiro de produtos devem continuar sem interrupção. Kress, CFO há mais de uma década, seguirá acumulando a função financeira.\n\nA mudança veio dias depois de o conselho anunciar que investigaria se Huang foi alvo de uma operação de inteligência estrangeira, após relatos de seu relacionamento com uma mulher que autoridades americanas acreditam ser uma espiã chinesa.",
-   "category": "tecnologia",
-   "source": "WSVN (CNN)",
-   "url": "https://wsvn.com/news/us-world/colette-kress-nvidia-interim-ceo/",
-   "published_at": "2026-11-13T10:55:33-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-13-104812.png"
+   "body": "Os médicos não esperavam que Elizabeth King sobrevivesse depois de contrair pólio aos 3 anos, na República Dominicana, onde não havia vacinas na época. Décadas depois, ela não só desafiou o prognóstico como dedicou a vida a ajudar outras pessoas: é fundadora da Suits, Stilettos and Lipstick Foundation, que há 25 anos oferece bolsas de estudo, mentoria e presentes de fim de ano a milhares de crianças e apoia jovens mulheres e famílias.\n\nTrazida aos Estados Unidos para tratamento, ela começou as cirurgias aos 6 anos e, aos 14, já tinha passado por 32 — hoje são 37, e ainda tem sintomas pós-pólio, às vezes usando cadeira de rodas. Na adolescência, pedia à mãe e às irmãs que a esperassem na saída da sala de cirurgia com um batom vermelho: \"Era minha pintura de guerra\".\n\nKing fez doutorado em educação, trabalhou 20 anos com crianças em escolas públicas e formou família, tornando-se mãe e avó. \"Sinto que tudo o que passei tem uma razão\", disse.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/community/2026/11/13/south-florida-woman-who-survived-polio-as-a-child-now-helps-thousands-of-children-through-nonprofit/",
+   "published_at": "2026-11-13T11:58:03-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-13-2026%2Ft_d3414b0417724defac8d1f67d9dc2360_name_49615049939_hdtv.jpg?auth=ac2bf6b48f7d6a60cd634860643a7b2db72b906b3930832d1434c07fdf61cbd1&width=700"
   },
   {
-   "id": "tecnologia-04-20261113-md",
-   "title": "Uber confirma roubo de dados de milhares de motoristas em ataque hacker",
-   "summary": "A Uber está notificando milhares de motoristas de que dados pessoais e de carteira de habilitação foram roubados em outubro, em um ataque a um fornecedor. O TechCrunch apurou que o fornecedor é a Fireworks AI.",
+   "id": "tecnologia-01-20261113-td",
+   "title": "Epic pede à Suprema Corte que mantenha condenação da Apple por desacato",
+   "summary": "A Epic Games apresentou sua resposta oficial ao recurso da Apple na Suprema Corte dos EUA, pedindo que seja mantida a decisão que considerou a Apple em desacato por restrições a pagamentos fora da App Store. A disputa se arrasta desde 2020.",
    "highlights": [
-    "Uber foi avisada do ataque em 9 de outubro",
-    "Hackers usaram credenciais roubadas da Fireworks AI",
-    "Notion também teve dados levados no mesmo ataque"
+    "Apple cobrou comissão de 27% sobre compras externas",
+    "Governo dos EUA apoiou parte dos argumentos da Apple",
+    "Suprema Corte aceitou o caso em junho"
    ],
-   "body": "A Uber está notificando milhares de motoristas de que suas informações pessoais e de carteira de motorista foram roubadas em um vazamento de dados ocorrido em outubro em um de seus fornecedores de tecnologia. Em notificações enviadas nesta semana a procuradores-gerais de vários estados, incluindo a Califórnia, a empresa disse ter sido avisada em 9 de outubro de que hackers invadiram o fornecedor e roubaram credenciais usadas para acessar dados da Uber.\n\nO TechCrunch apurou que o fornecedor é a Fireworks AI, plataforma que dá acesso a modelos de IA abertos, que relatou no mês passado um ataque com roubo de dados de clientes, incluindo cobrança e alguns conjuntos de dados privados de IA. A Notion também confirmou ter tido dados levados.\n\nUm porta-voz da Uber confirmou que o incidente envolve a Fireworks.ai, mas a empresa não informou quantos motoristas foram afetados.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-   "published_at": "2026-11-13T09:57:55-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1200,676"
-  },
-  {
-   "id": "tecnologia-05-20261113-md",
-   "title": "Apple abre pré-venda dos primeiros aparelhos da Apple Home Collection",
-   "summary": "Os primeiros dispositivos da Apple Home Collection, desenvolvidos com LG e Schneider Electric, entraram em pré-venda na loja online da Apple, com entrega a partir de meados de dezembro. O HomeView, smart display com Siri AI, já está à venda.",
-   "highlights": [
-    "Câmeras LG de US$ 199,95 e US$ 299,95",
-    "Campainha com vídeo LG por US$ 249,95",
-    "Entregas estimadas entre 11 e 17 de dezembro"
-   ],
-   "body": "Os primeiros dispositivos e acessórios para casa inteligente que a Apple desenvolveu em parceria com a LG Electronics e a Schneider Electric para a nova Apple Home Collection já estão em pré-venda na loja online da empresa, com entrega prevista para meados de dezembro. A Apple anunciou a linha há um mês, como parte de uma ofensiva no mercado de casa inteligente liderada pelo HomeView, smart display com Siri AI que começou a ser vendido nesta sexta-feira.\n\nPor enquanto, só alguns acessórios da LG estão em pré-venda: a LG Outdoor Cam, por US$ 299,95, a Indoor Cam, por US$ 199,95, e a LG Video Doorbell, por US$ 249,95, todas com entrega estimada entre 11 e 17 de dezembro. O restante da coleção, incluindo a LG Floodlight Cam, de US$ 399,95, ainda não tem pré-venda aberta.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-   "published_at": "2026-11-13T10:22:14-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applehome.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
-  },
-  {
-   "id": "tecnologia-06-20261113-md",
-   "title": "Tesla tira Model Y AWD de US$ 41.990; tração integral fica US$ 8 mil mais cara",
-   "summary": "A Tesla removeu do configurador americano o Model Y All-Wheel Drive de US$ 41.990. A versão com tração integral mais barata agora é a Premium AWD, de US$ 49.990.",
-   "highlights": [
-    "Versão durou pouco mais de nove meses",
-    "Versões Premium também subiram US$ 1.000",
-    "Rivais da Chevrolet e Ford custam mais de US$ 9 mil menos"
-   ],
-   "body": "A Tesla retirou o Model Y All-Wheel Drive de US$ 41.990 de seu configurador online nos EUA. O Model Y de dois motores mais barato disponível agora é o Premium AWD, a US$ 49.990 — um salto de US$ 8.000. A versão, lançada no início de fevereiro com 294 milhas de autonomia e 0 a 60 mph em 4,6 segundos, durou pouco mais de nove meses e saiu sem comunicado da empresa.\n\nAs versões Premium também ficaram mais caras: o Premium RWD, que custava US$ 44.990 em fevereiro, e o Premium AWD, de US$ 48.990, subiram US$ 1.000 cada. Somando tudo, o Model Y com tração integral mais barato passou de US$ 41.990 para US$ 49.990 em nove meses, alta de 19%.\n\nSegundo o Electrek, o momento é ruim para a competitividade da Tesla: o Chevrolet Equinox EV LT 1 AWD 2027 parte de US$ 40.295 e o Ford Mustang Mach-E Select AWD de US$ 40.795. Ainda há algumas unidades AWD básicas no estoque.",
-   "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/13/tesla-kills-41990-model-y-awd-configurator/",
-   "published_at": "2026-11-13T10:32:28-05:00",
-   "image_url": null
-  },
-  {
-   "id": "tecnologia-07-20261113-md",
-   "title": "tvOS 27.2.1 levará a Siri AI a modelos antigos da Apple TV 4K",
-   "summary": "A Apple confirmou que o tvOS 27.2.1 trará a Siri AI para Apple TV 4K de 2ª geração em diante. O recurso exige um aparelho com Siri AI pareado por perto, como um iPhone recente.",
-   "highlights": [
-    "Nova Apple TV 4K chegou hoje às lojas",
-    "Atualização pode sair hoje ou no início da semana",
-    "Requer Apple TV 4K de 2ª geração ou posterior"
-   ],
-   "body": "A nova Apple TV 4K chegou nesta sexta-feira com a Siri AI como um de seus principais recursos, mas modelos mais antigos também vão recebê-la por meio da atualização tvOS 27.2.1. Um documento de suporte atualizado no site da Apple lista os requisitos: tvOS 27.2.1 em uma Apple TV 4K de 2ª geração ou posterior e um dispositivo com Siri AI pareado nas proximidades, como um iPhone recente.\n\nNo início da semana, a Apple lançou o iOS 27.2.1 e atualizações correspondentes, mas o tvOS 27.2.1 ficou de fora. Segundo o 9to5Mac, a ausência agora faz sentido: a Apple provavelmente não quis liberar a Siri AI para modelos antigos antes da estreia do novo aparelho. A empresa ainda não informou a data, mas a atualização pode sair ainda hoje ou no início da próxima semana.",
+   "body": "A Epic Games entregou à Suprema Corte dos EUA sua resposta ao recurso da Apple, pedindo que os juízes mantenham a decisão que condenou a empresa por desacato civil em razão das restrições a pagamentos alternativos na App Store. A briga começou em 2020, quando o Fortnite foi removido da loja depois que a Epic ativou um sistema de pagamento próprio.\n\nA Justiça deu razão à Apple na maior parte, mas a proibiu de impedir que desenvolvedores direcionassem usuários a pagamentos externos. A Apple liberou os links, porém impôs comissão de 27% sobre essas compras e regras sobre como botões e links poderiam aparecer. O tribunal entendeu que isso violava a ordem original.\n\nA Apple recorreu à Suprema Corte em maio, que aceitou o caso em junho. Em seu memorial, a empresa argumenta que tribunais devem aplicar a letra da ordem, e não seu espírito. O governo dos EUA defendeu que a ordem não proibia claramente a comissão de 27%, mas que a Apple foi corretamente punida por restringir a exibição dos botões. A Epic sustenta que a Apple contornou deliberadamente a decisão.",
    "category": "tecnologia",
    "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
-   "published_at": "2026-11-13T09:15:56-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
+   "published_at": "2026-11-13T15:00:50-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "tecnologia-08-20261113-md",
-   "title": "ElevenLabs lança app que une notas de reunião e ditado para equipes",
-   "summary": "A ElevenLabs, avaliada em US$ 22 bilhões, apresentou o ElevenAI, app experimental que combina anotações de reuniões, ditado e integração com agentes de IA. Ele está em prévia, com acesso antecipado mediante cadastro.",
+   "id": "tecnologia-02-20261113-td",
+   "title": "Perplexity leva agentes de IA \"Teammates\" ao Mac",
+   "summary": "A Perplexity lançou no app para Mac o Teammates, recurso de agentes de IA proativos que antes estava disponível só no iOS e na web. Os agentes assumem tarefas contínuas, como pesquisa de mercado ou triagem de bugs, sem precisar de comandos constantes.",
    "highlights": [
-    "Lançado no 11/11 Summit, em Nova York",
-    "Ditado funciona em qualquer app e em mais de 90 idiomas",
-    "Concorre com Fireflies, Wispr Flow e Granola"
+    "Exige assinatura paga Perplexity Max",
+    "Agentes podem chamar outros agentes conforme a demanda",
+    "Concorre com recursos como os Dots do ChatGPT"
    ],
-   "body": "A gigante de IA de voz ElevenLabs lançou nesta semana o ElevenAI, um aplicativo experimental que combina anotações de reuniões, ditado e integração com agentes. Apresentado durante o 11/11 Summit, em Nova York, o app ainda está em prévia e exige cadastro para acesso antecipado. A empresa, avaliada em US$ 22 bilhões, o posiciona como um produto para equipes, e não apenas para uso individual.\n\nO ElevenAI faz anotações das reuniões e avisa os participantes de que a conversa está sendo gravada, permite consultar dados de várias reuniões e oferece assistência ao vivo. Empresas podem integrar o ElevenAgent para ações de acompanhamento, como rascunhar um e-mail a partir das notas. O recurso de ditado converte fala em texto limpo em qualquer aplicativo, com suporte a mais de 90 idiomas.\n\nO lançamento coloca a ElevenLabs em disputa direta com Fireflies, Wispr Flow e Granola, que lançaram recursos semelhantes nos últimos meses.",
+   "body": "A Perplexity disponibilizou nesta semana no Mac o Teammates, seu novo recurso de agentes de IA proativos, antes restrito ao iOS e à web. Os Teammates funcionam como threads orientadas a tarefas que trabalham pelo usuário sem precisar ser acionadas o tempo todo, em linha com recursos como o Meta Muse e os Dots do ChatGPT.\n\nO usuário atribui uma responsabilidade a um \"colega\" — gerir uma campanha de crescimento, fazer triagem de relatos de bugs, acompanhar métricas ou pesquisar um novo mercado — e o agente cuida disso o tempo todo: planeja tarefas, chama mais agentes quando o trabalho cresce e conduz o processo até o resultado ficar pronto para revisão.\n\nO acesso requer a assinatura paga Perplexity Max, e o recurso se apoia no sistema de orquestração de IA já existente da empresa.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
+   "published_at": "2026-11-13T14:31:05-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?resize=1200,628"
+  },
+  {
+   "id": "tecnologia-03-20261113-td",
+   "title": "LangChain, de agentes de IA, capta US$ 300 milhões e vale US$ 3 bilhões",
+   "summary": "A startup LangChain levantou US$ 300 milhões em rodada Série C liderada pela CapitalG, com avaliação de US$ 3 bilhões — mais que o dobro de um ano atrás. A empresa se concentra em software para criar e gerenciar agentes de IA.",
+   "highlights": [
+    "Avaliação era de US$ 1,25 bilhão há cerca de um ano",
+    "Plataforma LangSmith tem 7 mil clientes",
+    "Entre os clientes estão Nvidia, Toyota e Salesforce"
+   ],
+   "body": "A LangChain, startup de gestão de agentes de IA, anunciou nesta sexta-feira uma rodada Série C de US$ 300 milhões com avaliação de US$ 3 bilhões, liderada pela CapitalG e com participação de GIC (Singapura), DFJ Growth, IVP e Sapphire Ventures. É mais que o dobro da avaliação de US$ 1,25 bilhão de cerca de um ano atrás.\n\nA LangChain nasceu em 2022 como projeto de código aberto para tarefas que os primeiros modelos de linguagem tinham dificuldade em fazer, como buscar na web e chamar APIs. Com os grandes laboratórios resolvendo isso, a empresa passou a focar no gerenciamento de agentes, com a promessa de que as empresas sejam \"donas da própria inteligência\".\n\nSeu software LangSmith não prende o cliente a nenhum modelo, nuvem ou ecossistema. A empresa diz ter 7 mil clientes, incluindo startups como Harvey, Rippling e Clay e grandes empresas como Nvidia, Toyota e Salesforce.",
    "category": "tecnologia",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-   "published_at": "2026-11-13T09:44:48-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774"
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "published_at": "2026-11-13T14:37:57-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829"
   },
   {
-   "id": "tecnologia-09-20261113-md",
-   "title": "China alerta EUA contra novos controles de chips após escândalo da Nvidia",
-   "summary": "A China advertiu os Estados Unidos contra a imposição de novas restrições à exportação de semicondutores após o escândalo envolvendo Jensen Huang. Parlamentares americanos pedem limites maiores à venda de equipamentos de chips para o país.",
+   "id": "tecnologia-04-20261113-td",
+   "title": "Chips proibidos da Nvidia estão por trás dos melhores modelos de IA chineses",
+   "summary": "Uma pesquisa independente afirma que os principais modelos abertos chineses, como o Kimi K3 e o DeepSeek V4, foram treinados com GPUs Blackwell da Nvidia, cuja exportação para a China é proibida. A revelação agrava a crise na empresa após a saída de Jensen Huang.",
    "highlights": [
-    "Pequim critica \"abuso\" de controles de exportação",
-    "Huang admitiu caso com ex-executiva da Megaspeed",
-    "Lutnick é questionado sobre fiscalização de vendas"
+    "Análise foi feita pelo ex-pesquisador da OpenAI Will DePue",
+    "Epoch AI estima 2 milhões de chips avançados levados à China",
+    "Treino pode ter ocorrido em data centers fora da China"
    ],
-   "body": "A China advertiu os Estados Unidos nesta sexta-feira contra a imposição de controles adicionais à exportação de semicondutores, na esteira do escândalo envolvendo a Nvidia e seu agora ex-CEO Jensen Huang. O país \"sempre se opôs ao abuso de medidas de controle de exportação, que perturbam a estabilidade das cadeias industriais e de suprimentos globais e não servem aos interesses de ninguém\", disse a porta-voz da chancelaria, Mao Ning.\n\nHuang, que renunciou na quinta-feira, admitiu ter tido um caso, segundo relatos com Alice Huang, ex-executiva sênior da empresa de data centers Megaspeed, de Singapura. Eles não são parentes.\n\nSegundo a CBS News, o secretário de Comércio, Howard Lutnick, é alvo de críticos que questionam se seus laços com empresas chinesas e sua amizade com Jensen Huang contribuíram para a falta de fiscalização sobre bilhões em vendas de chips de IA da Nvidia. O Departamento de Comércio não respondeu.",
+   "body": "Os principais modelos de IA de pesos abertos desenvolvidos por empresas chinesas foram treinados com chips da Nvidia que o governo dos EUA proíbe de enviar à China, segundo uma nova pesquisa. Will DePue, ex-pesquisador da OpenAI que lidera o grupo sem fins lucrativos Unemployment Labs, analisou os pesos de modelos de DeepSeek, Moonshot AI, MiniMax e Ant Group e encontrou indícios de treino em GPUs Blackwell nos Kimi K3 e nos DeepSeek V4.\n\nO caso amplia a pressão sobre a Nvidia, cujo CEO, Jensen Huang, deixou o cargo nesta semana após admitir um caso com Alice Huang, executiva da Megaspeed, empresa implicada no contrabando de chips para a China e apontada como agente da inteligência chinesa. Os Blackwell não podem ser exportados para a China; o governo Trump permite a venda do H200, menos potente, com tarifa de 25%.\n\nO assessor de tecnologia da Casa Branca Michael Kratsios já havia dito que a Moonshot usou chips proibidos, e a Epoch AI estima que cerca de 2 milhões de chips avançados entraram na China em 2024 e 2025 por esquemas que ocultavam o destino. Isso não significa que os modelos foram treinados só com chips Nvidia nem que houve necessariamente violação, já que o treino pode ter ocorrido em data centers no exterior.",
    "category": "tecnologia",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
-   "published_at": "2026-11-13T10:19:38-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/76eda6d1-8dde-429c-b0e8-eb8e4d6a20f5/thumbnail/1200x630/d04a86d250a4ea883194b7983b30a337/gettyimages-2301327883.jpg"
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "published_at": "2026-11-13T13:40:30-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795"
   },
   {
-   "id": "tecnologia-10-20261113-md",
-   "title": "Meta financia 25 caminhões elétricos na I-10, sem transportar nada próprio",
-   "summary": "A Meta ampliou seu acordo com a operadora Nevoya para colocar 25 caminhões elétricos Classe 8 na rodovia I-10, entre San Bernardino e Phoenix. A empresa não compra os veículos nem envia produtos: paga por certificados de atributos ambientais.",
+   "id": "tecnologia-05-20261113-td",
+   "title": "Tesla agora só vende o Cybertruck Cyberbeast, de US$ 109.990",
+   "summary": "A Tesla deixou de vender as versões mais baratas do Cybertruck nos EUA e agora só oferece o Cyberbeast de três motores, que teve novo aumento de US$ 7.500. A picape mais barata disponível custa 57% a mais que em agosto.",
    "highlights": [
-    "Segundo corredor da parceria Meta–Nevoya",
-    "Mecanismo de créditos ajuda a reduzir emissões de escopo 3",
-    "Primeira fase teve 63 caminhões entre Houston e Dallas"
+    "Versões Dual Motor e Premium AWD aparecem bloqueadas",
+    "Cyberbeast subiu US$ 10 mil em cerca de uma semana",
+    "Musk estendeu a produção até o fim do verão de 2027"
    ],
-   "body": "A operadora de caminhões elétricos Nevoya está ampliando seu acordo com a Meta, com 25 novos caminhões Classe 8 movidos a bateria na Interstate 10, entre San Bernardino, na Califórnia, e Phoenix, no Arizona. Mas a Meta não está comprando caminhões, contratando motoristas nem enviando produtos próprios: a empresa paga por certificados de atributos ambientais (EACs), mecanismo de crédito de carbono que permite reivindicar os benefícios de emissões do transporte elétrico sem operá-lo.\n\n\"Voltar à Nevoya para um segundo corredor reflete o que buscamos: parceiros que podem escalar e acordos que podemos repetir\", disse Devon Lake, chefe de estratégia Net Zero da Meta. Segundo ele, o frete faz parte da pegada de emissões da construção e operação dos data centers da empresa.\n\nA Meta já integrava um grupo de compradores cujas compras coletivas de EACs apoiaram a primeira implantação da Nevoya, de 63 caminhões, no corredor Houston–Dallas.",
+   "body": "A Tesla passou a vender apenas uma versão do Cybertruck nos Estados Unidos: o Cyberbeast de três motores, que acaba de subir mais US$ 7.500, para US$ 109.990. As versões Dual Motor e Premium AWD continuam no configurador, mas aparecem bloqueadas. Assim, o Cybertruck mais barato custa 57% a mais que os US$ 69.990 do início de agosto.\n\nHá uma semana, o Cyberbeast custava US$ 102.490 e, antes disso, US$ 99.990 — alta de US$ 10 mil em cerca de uma semana para uma picape que não mudou. Em 6 de novembro, quando Elon Musk anunciou o fim da produção, a Tesla subiu preços em até 10% e suspendeu pedidos do Dual Motor; agora o Premium AWD também sumiu, sem anúncio.\n\nDois dias atrás, Musk estendeu a produção até o fim do verão de 2027 para atender a uma fila de pedidos que, segundo ele, supera muito a produção. O Electrek, porém, estima entregas de 7 mil a 8 mil unidades no terceiro trimestre, ritmo de cerca de 30 mil por ano numa linha com capacidade para mais de 125 mil.",
    "category": "tecnologia",
    "source": "Electrek",
-   "url": "https://electrek.co/2026/11/13/meta-to-deploy-25-electric-semi-trucks-across-i-10-corridor-but-has-nothing-to-ship/",
-   "published_at": "2026-11-13T10:34:20-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/nevoya_MAIN.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+   "published_at": "2026-11-13T13:13:44-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "tecnologia-06-20261113-td",
+   "title": "Volkswagen adia mais um elétrico: Audi A4 E-tron fica para 2029",
+   "summary": "Depois de adiar o Golf elétrico, o grupo Volkswagen está atrasando também o Audi A4 E-tron, outro modelo previsto para a nova plataforma SSP. O adiamento ocorre em meio a cortes de custos após o maior prejuízo trimestral desde o Dieselgate.",
+   "highlights": [
+    "VW teve prejuízo operacional de € 5,9 bilhões no 3º trimestre",
+    "Golf elétrico ficou para perto de 2030",
+    "Plataforma SSP é desenvolvida com a Rivian"
+   ],
+   "body": "O grupo Volkswagen está adiando mais um carro elétrico baseado em sua nova plataforma SSP. Depois de o CEO da marca VW, Thomas Schäfer, revelar em memorando interno no fim de outubro que o desenvolvimento do Golf elétrico em Wolfsburg seria atrasado — \"simplesmente não podemos pagar por esse trabalho agora\" —, a Autocar informou que o Audi A4 E-tron também ficará para pelo menos 2029, um ano depois do planejado.\n\nOs cortes vêm após um prejuízo operacional de € 5,9 bilhões no terceiro trimestre, o maior desde o escândalo Dieselgate, em 2015. A fábrica de Wolfsburg está cerca de € 300 milhões abaixo das metas de redução de custos. O Golf elétrico, previsto para 2028, já havia sido empurrado para perto de 2030.\n\nA SSP, desenvolvida em parceria com a Rivian, deveria ser a \"espinha dorsal\" futura do grupo, com mais de 40 milhões de veículos e custos de investimento cerca de 30% menores que a plataforma MEB atual. Enquanto isso, rivais como a BMW, com o novo i3, e a Mercedes, com o Classe C elétrico, avançam no segmento de sedãs médios.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/",
+   "published_at": "2026-11-13T14:03:28-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "tecnologia-07-20261113-td",
+   "title": "Nvidia ainda não escolheu consultoria para achar sucessor de Jensen Huang",
+   "summary": "O conselho da Nvidia disse à CNBC que ainda está selecionando uma empresa de recrutamento para buscar o novo CEO e que não procurou candidatos formalmente. As ações caíram mais de 2% e o valor de mercado ficou abaixo de US$ 4 trilhões.",
+   "highlights": [
+    "Colette Kress é a CEO interina",
+    "FT diz que conselho sondou Rene Haas, da Arm",
+    "Huang foi chamado a depor no Congresso em 18/11"
+   ],
+   "body": "A Nvidia ainda não escolheu uma empresa de recrutamento para encontrar o sucessor de Jensen Huang, informou o conselho da companhia à CNBC. \"Estamos no processo de seleção de uma consultoria para o cargo de CEO. Não contatamos formalmente nenhum possível candidato\", disse o conselho em nota nesta sexta-feira. A diretora financeira Colette Kress assumiu como CEO interina.\n\nO Financial Times informou que o conselho sondou Rene Haas, CEO da Arm, que trabalhou sete anos na Nvidia antes de 2013. O conselho respondeu que qualquer especulação sobre candidatos internos ou externos é \"prematura\". As ações da Nvidia caíram mais de 2% nesta sexta, levando o valor de mercado para menos de US$ 4 trilhões.\n\nA empresa contratou o escritório Wachtell Lipton para investigar se Huang foi alvo de uma operação de inteligência estrangeira, após a revelação de seu relacionamento com Alice Huang. Três comissões da Câmara pediram que ele compareça a uma reunião fechada em 18 de novembro, e a Comissão Bancária do Senado quer ouvir Huang e o secretário de Comércio, Howard Lutnick.",
+   "category": "tecnologia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+   "published_at": "2026-11-13T14:18:19-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108550387-1794508343610-gettyimages-2304269560-nokings-sf1017.jpeg?v=1794508402&w=1920&h=1080"
+  },
+  {
+   "id": "tecnologia-08-20261113-td",
+   "title": "Nova Apple TV 4K chega com erro no app do YouTube",
+   "summary": "Quem recebeu nesta sexta-feira a nova Apple TV 4K encontrou mensagens de erro ao abrir o YouTube, como \"YouTube ainda não está disponível neste dispositivo\". Atualizar o sistema, reiniciar e, em alguns casos, reinstalar o app resolve o problema.",
+   "highlights": [
+    "App mostrava tela preta com QR code",
+    "Em alguns casos, faixa dizia \"apenas para testes\"",
+    "Review do Verge chama aparelho de um dos melhores"
+   ],
+   "body": "Os primeiros donos da nova Apple TV 4K, entregue nesta sexta-feira, se depararam com erros estranhos ao abrir o aplicativo do YouTube. Em muitos casos, o app exibia apenas uma tela preta com um QR code e a mensagem \"YouTube ainda não está disponível neste dispositivo\". Em outros, funcionava, mas com uma faixa vermelha transparente dizendo que o app estava \"aprovado apenas para testes, não para uso em produção\".\n\nInstalar a atualização tvOS 27.2 e reiniciar o aparelho não bastou para Tom Warren, do Verge, que também precisou desinstalar e reinstalar o aplicativo para resolver o problema.\n\nNa análise do site, John Higgins classificou a nova Apple TV 4K como \"um dos melhores aparelhos de streaming disponíveis\", embora cara em comparação com os concorrentes.",
+   "category": "tecnologia",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+   "published_at": "2026-11-13T11:55:57-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200"
+  },
+  {
+   "id": "tecnologia-09-20261113-td",
+   "title": "SpaceX tenta capturar foguete e nave Starship inteiros em teste inédito",
+   "summary": "A SpaceX lança nesta sexta-feira a Starship em seu teste mais ousado: um voo de 22 horas que pretende recapturar o foguete inteiro com os braços mecânicos da torre. A FAA deu a aprovação final horas antes.",
+   "highlights": [
+    "Booster deve voltar à torre seis minutos após o lançamento",
+    "Nave daria 15 voltas na Terra e seria pega no sábado",
+    "Missão leva 26 satélites Starlink avançados"
+   ],
+   "body": "A SpaceX lança a Starship à órbita nesta sexta-feira em seu teste mais ousado até agora: um voo de 22 horas que tenta recuperar o foguete inteiro, passo considerado essencial para acelerar viagens à Lua e a Marte. Se tudo der certo, o propulsor voltará à plataforma no Texas seis minutos após a decolagem, e a nave retornará no sábado — ambos agarrados no ar pelos braços mecânicos da torre. A FAA deu a aprovação final poucas horas antes.\n\nEm órbita, a Starship vai liberar 26 satélites Starlink de última geração e dar 15 voltas na Terra a cerca de 275 km de altitude antes de voltar. Seria a primeira vez que todas as partes de um foguete lançado à órbita são recuperadas para reutilização.\n\nA SpaceX já fez três capturas do propulsor em Starbase, mas esta é a primeira tentativa com a versão ampliada, de 72 metros, e a primeira de capturar a nave, de 52 metros. Juntos, formam o maior e mais potente foguete do mundo, com 124 metros. As naves dos 14 voos anteriores terminaram no oceano; o último teste, em setembro, foi o primeiro a chegar à órbita.",
+   "category": "tecnologia",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/tech/2026/11/13/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet/",
+   "published_at": "2026-11-13T12:30:02-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/FI7QG2IR2RIJXWSYPDIGKMRRM4.jpg?auth=c2aa9d3f83e79e97a83ad83b517578e7db87d2095c44d94e90517b124753b3db&width=700"
+  },
+  {
+   "id": "tecnologia-10-20261113-td",
+   "title": "IA revela centenas de teoremas escondidos nos cadernos de Kurt Gödel",
+   "summary": "Com a ajuda do modelo de IA Claude, um projeto da Universidade de Helsinque decifrou em poucos dias 1.009 páginas de cadernos do lógico Kurt Gödel, escritos em uma taquigrafia alemã obsoleta. O material contém centenas de teoremas provados que ninguém conhecia.",
+   "highlights": [
+    "Cadernos foram escritos no início dos anos 1940",
+    "Progresso manual era de cerca de uma página por semana",
+    "Há 14 temas de lógica nunca explorados, diz pesquisador"
+   ],
+   "body": "O lógico austríaco Kurt Gödel, cujos teoremas da incompletude de 1931 transformaram a matemática e abriram caminho para a era digital, publicou pouco depois dos anos 1930, mas deixou dezenas de milhares de páginas inéditas. Desde 2017, o lógico finlandês Jan von Plato lidera na Universidade de Helsinque um projeto para entender 16 cadernos escritos por Gödel no início dos anos 1940: 1.009 páginas, em boa parte na taquigrafia alemã Gabelsberger, já obsoleta na época.\n\nO avanço era lento — cerca de uma página por semana — até setembro, quando von Plato recorreu ao modelo de IA Claude. Em poucos dias, a ferramenta produziu um resumo completo do material, revelando que Gödel havia provado centenas de teoremas desconhecidos.\n\n\"Fiquei pasmo\", disse von Plato. Segundo ele, os cadernos antecipam dezenas de resultados só conhecidos nos anos 1970 e 1980 e contêm 14 temas de lógica nunca explorados. \"Gödel estava muito à frente de seu tempo.\"",
+   "category": "tecnologia",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "published_at": "2026-11-13T11:38:27-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb"
   }
  ]
 }
