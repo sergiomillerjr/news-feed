@@ -1,331 +1,331 @@
 {
  "version": 2,
- "generated_at": "2026-11-14T11:11:26-05:00",
- "edition": "meio-dia",
+ "generated_at": "2026-11-14T15:19:19-05:00",
+ "edition": "tarde",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "eua-01-20261114-md",
-   "title": "Após paralisação da FAA, mais de 3.800 voos são cancelados neste sábado",
-   "summary": "O espaço aéreo dos EUA voltou aos poucos ao normal neste sábado, mas mais de 3.800 voos foram cancelados e cerca de 2.000 atrasados, segundo o FlightAware. Fontes do governo disseram à CBS que a falha estava em roteadores Cisco fabricados entre 2001 e 2006.",
+   "id": "eua-01-20261114-td",
+   "title": "Duffy atribui paralisação de voos a troca de fios de cobre por fibra óptica",
+   "summary": "O secretário de Transportes, Sean Duffy, disse que a paralisação nacional de voos de sexta começou quando uma empresa terceirizada atualizava antigas linhas de telecomunicação da FAA. O governo investiga se houve erro de instalação da L3Harris ou um roteador defeituoso.",
    "highlights": [
-    "Na sexta, 9.159 voos foram cancelados",
-    "Primeira paralisação nacional desde janeiro de 2023",
-    "Governo eleva pedido de verba para controle aéreo a US$ 50 bilhões"
+    "Mais de 9 mil voos cancelados na sexta e 4 mil no sábado",
+    "L3Harris diz ter concluído mais de 70% das conversões",
+    "FAA diz não haver sinal de ação maliciosa nem de falha ligada a IA"
    ],
-   "body": "O tráfego aéreo nos Estados Unidos começou a se normalizar neste sábado, depois da rara paralisação nacional de decolagens ordenada pela FAA na sexta-feira. \"Os aviões estão saindo, taxiando e decolando, e é seguro voar\", escreveu o secretário de Transportes, Sean Duffy, que alertou que atrasos e cancelamentos continuarão enquanto as companhias reposicionam aeronaves e tripulações. Segundo o FlightAware, mais de 3.800 voos foram cancelados no sábado e cerca de 2.000 sofreram atrasos; na sexta, foram 9.159 cancelamentos e 7.190 atrasos.\n\nA paralisação começou às 15h36 de sexta (horário do Leste), quando cerca de 3.500 aviões estavam no ar — todos pousaram em segurança — e foi suspensa por volta das 20h20. Foi a primeira desde janeiro de 2023; antes disso, a última havia ocorrido em 11 de setembro de 2001. Uma investigação preliminar apontou uma falha de telecomunicações: roteadores da FAA ficaram sobrecarregados. Fontes do governo disseram à CBS News que o problema se limitou a roteadores Cisco da série 600 fabricados entre 2001 e 2006.\n\nDuffy afirmou que a modernização do sistema conta com US$ 12,5 bilhões, mas que isso \"não é suficiente\"; o governo Trump elevou na sexta o pedido de verba para o controle de tráfego aéreo para US$ 50 bilhões. O secretário de Segurança Interna, Markwayne Mullin, disse não haver indícios de ataque cibernético. A recomendação é checar o status do voo com a companhia antes de ir ao aeroporto; a Delta ofereceu remarcação flexível.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
-   "published_at": "2026-11-14T10:36:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/21/6e00213c-d3cb-4aa7-8d3d-6f9514f34261/thumbnail/1200x630/1e01513283f93307ff99342546278ffa/gettyimages-2289770513.jpg"
-  },
-  {
-   "id": "eua-02-20261114-md",
-   "title": "Bomba encontrada perto de usina de etanol em Peoria, Illinois, é neutralizada",
-   "summary": "Uma bomba encontrada perto de uma usina de etanol da BioUrja em Peoria, Illinois, levou à evacuação de moradores num raio de 1,6 km. O artefato foi neutralizado na noite de sexta, mas as buscas por outros dispositivos continuaram.",
-   "highlights": [
-    "Pacote suspeito foi achado por volta das 14h de sexta",
-    "Polícia ordenou evacuação num raio de uma milha",
-    "FBI promete identificar o responsável"
-   ],
-   "body": "A polícia de Peoria, no centro de Illinois, informou que um pacote suspeito foi encontrado perto de uma usina de etanol da BioUrja por volta das 14h de sexta-feira e que, horas depois, foi considerado uma \"ameaça crível\". Moradores num raio de uma milha (cerca de 1,6 km) receberam ordem de evacuação imediata.\n\nSegundo o chefe de polícia Brad Dixon, o pacote foi \"neutralizado\" às 21h12, mas a área da usina ainda não foi considerada segura: \"É uma instalação grande, haverá uma busca exaustiva\". O FBI se juntou às polícias local e estadual na investigação. \"Vamos trabalhar incansavelmente para identificar o responsável e levá-lo à Justiça\", disse o agente especial Ryan Presley.\n\nA prefeita Rita Ali lembrou que a usina tem etanol e outros produtos químicos altamente inflamáveis. O governador J.B. Pritzker disse acompanhar a situação, e o cantor Jon Pardi cancelou um show na região. Quem precisava de abrigo foi orientado a ir para a Manual Academy.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
-   "published_at": "2026-11-14T07:52:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/c7d3f410-adef-4541-93bd-a8dcd11176d3/thumbnail/1200x630/ebfceea1abca1ba241a4987f9561c032/untitled-design-2026-11-14t065846-665.png"
-  },
-  {
-   "id": "eua-03-20261114-md",
-   "title": "EUA perdem status de país livre do sarampo após 26 anos",
-   "summary": "Uma comissão independente ligada à Organização Pan-Americana da Saúde concluiu que os EUA não se qualificam mais como país que eliminou o sarampo, segundo fonte ouvida pela CNN. A decisão era esperada diante da queda na vacinação e de surtos prolongados.",
-   "highlights": [
-    "Status de eliminação valia desde 2000",
-    "Mesma cepa circulou por mais de um ano em Utah",
-    "País registra recordes de casos e mortes há dois anos"
-   ],
-   "body": "Graças à vacinação em massa, o sarampo era considerado \"eliminado\" como doença de transmissão contínua nos Estados Unidos desde 2000. Isso mudou: uma comissão independente de especialistas que se reporta à direção da Organização Pan-Americana da Saúde (Opas) concluiu que o país não se qualifica mais para esse status, segundo uma fonte próxima ao processo ouvida pela CNN na sexta-feira.\n\nUma infecção é considerada endêmica quando a mesma cepa passa de pessoa para pessoa por pelo menos um ano dentro do país. Em agosto, cientistas do laboratório de saúde pública de Utah mostraram que uma mesma cepa circulou no estado por mais de um ano, causando mais de 600 casos entre junho de 2025 e junho de 2026. Também houve surtos prolongados na Carolina do Sul, Pensilvânia, Wisconsin e Nova York.\n\nOs EUA registraram números recordes de casos, internações e mortes por sarampo nos últimos dois anos, enquanto integrantes do governo Trump, incluindo o próprio presidente, colocaram em dúvida a segurança das vacinas. \"Perder o status de eliminação significa que estamos menos preparados como nação\", disse Demetre Daskalakis, ex-diretor do centro de imunização do CDC. Duas doses da vacina tríplice viral reduzem em 97% a chance de adoecer após exposição.",
-   "category": "eua",
-   "source": "WSVN (CNN)",
-   "url": "https://wsvn.com/news/us-world/after-26-years-the-us-has-lost-its-measles-elimination-status/",
-   "published_at": "2026-11-14T10:00:44-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/01/260108_measles_vaccine.jpg?quality=60&strip=color"
-  },
-  {
-   "id": "eua-04-20261114-md",
-   "title": "Motorista que dormia quando picape matou duas pessoas em campo de futebol no Kansas não será acusada",
-   "summary": "A promotoria do condado de Sedgwick decidiu não apresentar acusações contra a mulher de 34 anos cuja picape avançou sobre um campo de futebol infantil em Wichita, matando duas pessoas. Segundo a investigação, ela dormia e provavelmente pisou no acelerador sem perceber que o carro estava engatado.",
-   "highlights": [
-    "Um menino de 6 anos e um homem de 35 morreram",
-    "Dez pessoas ficaram feridas em 17 de outubro",
-    "Promotor diz não poder provar desprezo consciente pelo risco"
-   ],
-   "body": "Uma mãe que cochilava em sua picape quando o veículo acelerou de repente sobre o campo de um torneio de futebol juvenil em Wichita, no Kansas, onde seu filho jogava, não vai responder criminalmente pelas duas mortes, anunciou o promotor do condado de Sedgwick, Marc Bennett. Os investigadores concluíram que a mulher, de 34 anos, não colocou a Chevrolet 1500 em \"park\" e provavelmente pisou no acelerador enquanto dormia, no complexo esportivo Stryker, em 17 de outubro.\n\nMorreram Cole Adrian, de 6 anos, e Nicholas Schafer, de 35, ambos de McPherson; outras dez pessoas, de 5 a 68 anos, ficaram feridas. \"Não posso provar que ela desconsiderou conscientemente um risco tremendo às pessoas naquele campo\", disse Bennett, cujo relatório de 28 páginas concluiu que nenhum crime previsto na lei do Kansas se aplicava ao caso.\n\nA polícia refez a situação com um veículo idêntico na mesma vaga, também engatado, e o carro só se moveu quando o acelerador foi pressionado. Mais de 30 testemunhas foram ouvidas, e exames de sangue não mostraram drogas que pudessem ter afetado a motorista.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
-   "published_at": "2026-11-14T09:38:36-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/1fdb117e6f40eedb3f4040a34c7d5be50ffb4bbe/76_0_1281_1025/master/1281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83d58ce923ffe81bb7a9ef622e11b351"
-  },
-  {
-   "id": "eua-05-20261114-md",
-   "title": "Fechamento de mina de sal sob o lago Erie preocupa Ohio às vésperas do inverno",
-   "summary": "A Morton Salt fechou de vez sua mina em Fairport Harbor, Ohio, após a entrada de água por uma rachadura no teto. A mina, a cerca de 600 metros sob o lago Erie, fornecia sal para as estradas da região, e a origem do vazamento ainda é desconhecida.",
-   "highlights": [
-    "77 empregos perdidos; 1,3 milhão de toneladas por ano",
-    "Condado de Trumbull dependia 100% da mina",
-    "Há cinco minas de sal sob os Grandes Lagos"
-   ],
-   "body": "Quando a água começou a jorrar por uma rachadura no teto de uma mina da Morton Salt em Ohio, no mês passado, a empresa teve uma única opção: fechá-la para sempre. Para os moradores de Fairport Harbor, isso significa a perda de 77 empregos; para a região, que depende do sal-gema para manter as estradas livres de gelo, pode significar caos no trânsito neste inverno. A mina extraía cerca de 1,3 milhão de toneladas por ano.\n\nO condado de Trumbull, com 200 mil habitantes, dependia totalmente da mina. \"Recebemos cerca de 30 mil toneladas por ano, mas temos um estoque de cerca de 14 mil\", disse o engenheiro do condado, David DeChristofaro, que admite misturar sal com agregados para render mais. Um município vizinho já emitiu alerta sobre condições perigosas nas estradas.\n\nO caso também levanta questões de segurança: a mina fica a cerca de 610 metros abaixo do lago Erie, e semanas depois a Morton ainda não encontrou a origem da infiltração. Há cinco minas de sal parcial ou totalmente sob os Grandes Lagos — em Fairport Harbor, Detroit, Cleveland e duas em Ontário, no Canadá —, o que preocupa ambientalistas.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
-   "published_at": "2026-11-14T08:00:45-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/b9e4afb12244d42b1757e3c9bf0b96ab8b538155/319_1051_2076_1661/master/2076.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=026ed238b59bc591710ef6cef7915ba9"
-  },
-  {
-   "id": "eua-06-20261114-md",
-   "title": "Incêndios de baterias de bicicletas elétricas disparam em Nova York: 12 mortes em 2026",
-   "summary": "Nova York já registrou neste ano mais de 400 incêndios causados por baterias de lítio de bicicletas e patinetes elétricos, com 83 feridos e 12 mortos. Especialistas criticam a demora da cidade em instalar estações de recarga ao ar livre.",
-   "highlights": [
-    "Em 2025 foram 292 incêndios e uma morte",
-    "Família de quatro morreu no Bronx em outubro",
-    "25 pontos de recarga só devem sair em 2027"
-   ],
-   "body": "Os incêndios provocados por baterias de íon-lítio, que alimentam bicicletas e patinetes elétricos, se tornaram frequentes em Nova York. Segundo o Corpo de Bombeiros (FDNY), em 2025 foram 292 incêndios, 51 feridos e uma morte; neste ano, já são mais de 400 incêndios, 83 feridos e 12 mortos. No fim de outubro, quatro pessoas de uma família, incluindo um menino de 11 anos, morreram no Bronx em um incêndio causado pela bateria de uma bicicleta que bloqueava a saída do apartamento.\n\n\"Já chega\", disse a presidente da Câmara Municipal, Julie Menin, após um incêndio no Brooklyn que matou seis pessoas, onde foram encontradas baterias de lítio — a causa ainda não foi determinada. Especialistas dizem que parte do aumento se explica pela popularidade das bicicletas, usadas por entregadores, mas que a cidade falhou em criar infraestrutura para tirar a recarga de dentro dos apartamentos.\n\nUm projeto-piloto de 2024 com armários de troca de baterias reduziu em 35% a recarga em casa entre os participantes. Mesmo assim, a cidade anunciou 25 pontos de recarga apenas para 2027. \"É hora de fazer algo rápido\", disse Laura Kavanagh, ex-comissária do FDNY.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
-   "published_at": "2026-11-14T07:00:44-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/23c25d71e33c11c509144a78a32f53c9cb09a57d/300_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4078722505b9cbf5584909c06ecebe70"
-  },
-  {
-   "id": "eua-07-20261114-md",
-   "title": "Pescadores equatorianos que sobreviveram a ataque dos EUA processam o governo Trump",
-   "summary": "Dezesseis pescadores do Equador vão processar o governo americano por um ataque com drones em março que afundou seu barco no Pacífico e deixou dois deles com queimaduras graves. Eles negam qualquer ligação com o narcotráfico.",
-   "highlights": [
-    "Ataque fez parte da operação Southern Spear",
-    "Ação será protocolada na Pensilvânia na segunda-feira",
-    "Grupo diz ter sido detido em El Salvador por semanas"
-   ],
-   "body": "Mais de uma dezena de pescadores equatorianos vai processar o governo dos EUA depois de sobreviver a um ataque militar com drones no oceano Pacífico, em 17 de março, que afundou o barco La Negra Francesca Duarte II e deixou dois tripulantes com queimaduras graves nas pernas, braços e costas. O ataque fez parte da operação Southern Spear, anunciada pelo governo Trump em novembro de 2025 contra supostos \"narcoterroristas\" no Caribe e no Pacífico.\n\nNa ação, a ser protocolada na segunda-feira em um tribunal federal da Pensilvânia e obtida pelo Guardian, os 16 pescadores afirmam não ter ligação com o tráfico e dizem ter sido atacados a cerca de 385 milhas náuticas do porto de Manta, ao voltar de duas semanas de pesca. Eles relatam ter sido amarrados e encapuzados por militares americanos e levados a um centro de detenção em El Salvador, onde ficaram presos por semanas.\n\nA organização Wola estima que até 250 pessoas tenham sido mortas pelos ataques militares dos EUA na campanha e os considera execuções extrajudiciais. O processo pede indenização não especificada; segundo o advogado Dan Kovalik, os pescadores não conseguem trabalhar desde a perda do barco.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
-   "published_at": "2026-11-14T06:00:42-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/ea7d82d3437dc73bde2f1b8aafa50b01d7dad2ed/514_0_5139_4112/master/5139.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc8258e496ec5a05628854b89d41444a"
-  },
-  {
-   "id": "eua-08-20261114-md",
-   "title": "Alasca rejeita revogar voto ranqueado e primárias apartidárias",
-   "summary": "Uma proposta para revogar o sistema de primárias apartidárias com os quatro mais votados e o voto ranqueado no Alasca foi derrotada, segundo projeção da AP. É a segunda vez que os eleitores mantêm o modelo, aprovado em 2020.",
-   "highlights": [
-    "Tentativa de revogação de 2024 também falhou",
-    "Disputa ao Senado teve dois candidatos chamados Dan Sullivan",
-    "Corrida deve ir para apuração ranqueada"
-   ],
-   "body": "Uma medida que revogaria o sistema de primárias apartidárias e o voto ranqueado no Alasca foi derrotada, segundo projeção feita durante a madrugada pela Associated Press. É a segunda vez que os eleitores rejeitam acabar com o modelo, aprovado em 2020; uma tentativa em 2024 também fracassou por pouco.\n\nNo sistema do Alasca, os quatro candidatos mais votados na primária, de qualquer partido, avançam para a eleição geral; se ninguém obtiver maioria, entra em ação o voto ranqueado. Neste ano, o modelo foi alvo de atenção nacional porque a cédula para o Senado incluiu dois candidatos com o mesmo nome: o senador republicano Dan Sullivan e um independente também chamado Dan Sullivan, acusado por opositores de ser um \"laranja\" recrutado pelos democratas — algo que os democratas negam. A disputa deve seguir para a apuração ranqueada.\n\nCríticos dizem que o sistema é confuso e manipulável; defensores afirmam que o ranqueamento reduz o efeito de confusões. Em Massachusetts, eleitores rejeitaram neste ano a adoção de primárias apartidárias com os dois mais votados.",
+   "body": "A paralisação nacional de decolagens de sexta-feira começou quando uma empresa contratada atualizava antigas linhas de telecomunicação da Administração Federal de Aviação (FAA), afirmou neste sábado o secretário de Transportes, Sean Duffy. Segundo ele, a L3Harris, antiga fornecedora da agência, fazia manutenção de rotina em pelo menos um local remoto, trocando fios de cobre por fibra óptica. \"Quando digo que usamos equipamento antigo, usamos equipamento antigo\", declarou.\n\nDe acordo com o FlightAware, quase 25 mil voos atrasaram e mais de 9 mil foram cancelados na sexta; no sábado de manhã já eram mais de 4 mil cancelamentos, 18% das partidas dos EUA, segundo a Cirium. Duffy disse que a FAA ainda apura o erro exato que sobrecarregou outros roteadores do sistema de controle aéreo e se houve \"incompetência\" da instaladora ou um roteador com defeito. A L3Harris afirmou que apoia a investigação e que já concluiu mais de 70% das conversões para fibra.\n\nO administrador da FAA, Bryan Bedford, disse não haver indícios de nada malicioso nem de problemas relacionados à IA, e que os horários devem se normalizar até a noite de domingo. Duffy voltou a pedir mais verba ao Congresso, que aprovou US$ 12,5 bilhões em julho de 2025 para modernizar o controle de tráfego aéreo.",
    "category": "eua",
    "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-   "published_at": "2026-11-14T08:08:05-05:00",
-   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x2920+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg"
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+   "published_at": "2026-11-14T11:53:04-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8091x4551+0+421/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F96%2Fe23d590f45f8bbd605875a794fb7%2Fgettyimages-2304485779.jpg"
   },
   {
-   "id": "eua-09-20261114-md",
-   "title": "Democratas negam racha entre progressistas e moderados antes do novo Congresso",
-   "summary": "Os democratas eleitos nas midterms fizeram campanhas centradas em populismo econômico e na fiscalização do governo Trump, e dizem ter mais pontos em comum do que divergências. A disputa pela liderança no Senado, porém, já está aberta.",
+   "id": "eua-02-20261114-td",
+   "title": "FAA prevê voos normalizados até o fim de domingo; passageiros ainda improvisam",
+   "summary": "O chefe da FAA disse que a malha aérea dos EUA deve voltar ao normal até o fim de domingo, após a mais longa paralisação de voos em 25 anos. Enquanto isso, passageiros dormiram em aeroportos e correram atrás de carros alugados, ônibus e trens.",
    "highlights": [
-    "Chris Van Hollen desafia Chuck Schumer",
-    "Hakeem Jeffries deve ficar com a presidência da Câmara",
-    "Foco declarado é custo de vida"
+    "\"O pior já passou\", diz o administrador Bryan Bedford",
+    "Paralisação afetou cerca de um quarto dos 45 mil voos diários",
+    "Segunda parada nacional desde o 11 de Setembro"
    ],
-   "body": "Os democratas que venceram nas eleições de meio de mandato — tanto em redutos do partido quanto em áreas antes consideradas fora do mapa azul — construíram suas campanhas em torno de populismo econômico e de cobrar responsabilidade do governo Trump. Segundo operadores políticos ouvidos pelo Guardian, a nova bancada tem mais em comum do que divergências, e os eleitores mandaram um recado claro sobre custo de vida.\n\nAntes da posse, porém, os novos parlamentares terão de decidir se mantêm os líderes do partido. No Senado, Chris Van Hollen anunciou que vai desafiar o veterano Chuck Schumer; na Câmara, Hakeem Jeffries até agora parece garantido na presidência da Casa. \"Não devemos preservar nossas instituições se elas não estão entregando para o povo americano\", disse Van Hollen em encontro democrata em Denver na sexta-feira.\n\nMaurice Mitchell, líder do Working Families Party, disse que focar numa briga de facções seria uma \"distração\" e que as vitórias deste mês são uma \"oportunidade geracional\". O desafio será enfrentar barreiras institucionais em Washington e um presidente com poder de veto.",
+   "body": "As companhias aéreas cancelaram milhares de voos nos EUA neste sábado enquanto tentavam se recuperar da paralisação nacional de sexta-feira, que durou mais de quatro horas. O administrador da FAA, Bryan Bedford, afirmou que a malha deve estar normalizada até o fim de domingo e que, embora ainda haja atrasos e cancelamentos no sábado, \"o pior já passou\". Foi a primeira parada nacional desde janeiro de 2023 e a segunda desde os ataques de 11 de setembro de 2001.\n\nO consultor de aviação Andrew Charlton estimou que a interrupção atingiu cerca de um quarto dos 45 mil voos diários do país, com efeito em cascata sobre rotas de longa distância e internacionais. Nos aeroportos, passageiros esperaram em hotéis, disputaram carros alugados e passagens de ônibus e trem, e muitos tiveram de acampar nos terminais; em Seattle, um passageiro cantou música clássica para acalmar viajantes estressados.\n\nO secretário Sean Duffy disse que a troca de fios de cobre por fibra feita por uma terceirizada provocou a sobrecarga do sistema, com falhas \"intermitentes\" de comunicação e radar, e que o governo apura se houve incompetência ou um roteador defeituoso. \"Nosso contratado não esteve à altura, ou o equipamento não esteve\", resumiu.",
+   "category": "eua",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/14/us-air-travel-schedule-should-recover-from-ground-stop-by-the-end-of-sunday-faa-says/",
+   "published_at": "2026-11-14T02:11:12-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/QIWFWWUEW6QXDGZOADV37SGCIA.jpg?auth=013f0730fe4e8027b8c9f7fe12c0a5ffe2b215b761b79d887bb5bf47ac48b09c&width=700"
+  },
+  {
+   "id": "eua-03-20261114-td",
+   "title": "Porto de Nova Orleans processa petroleiro que atingiu barco de cruzeiro",
+   "summary": "O Porto de Nova Orleans entrou na Justiça contra donos e gestores do navio-tanque Atlantic Asphalt, que bateu num barco de cruzeiro atracado no rio Mississippi na sexta. A ação cobra mais de US$ 1 milhão em danos e pede a apreensão e venda do navio.",
+   "highlights": [
+    "Barco American Heritage tinha cerca de 129 passageiros a bordo",
+    "Não houve mortes nem feridos em estado crítico",
+    "Ação cita presunção de culpa ao atingir objeto parado"
+   ],
+   "body": "O Porto de Nova Orleans está processando os proprietários e a empresa gestora do navio-tanque de asfalto que colidiu com um barco de cruzeiro atracado no rio Mississippi na sexta-feira. Na ação, analisada pela CBS News, o porto afirma que o petroleiro foi o culpado e que o acidente causou mais de US$ 1 milhão em danos às suas instalações. O Atlantic Asphalt atingiu o American Heritage, bem menor, no terminal Thalia Street; havia cerca de 129 passageiros a bordo, além da tripulação.\n\nTodos foram localizados e não houve mortes nem feridos em estado crítico, mas o barco de cruzeiro ficou tombado e quase todo submerso. O processo, aberto na Justiça federal, cita o navio, a dona Nave Shipping SA e a gestora Thome Ship Management, e pede que o petroleiro seja apreendido e vendido para cobrir limpeza, inspeções e reparos. O texto alega negligência e lembra que há presunção de culpa quando um navio atinge um objeto parado.\n\nAs empresas não responderam à CBS sobre a ação. Em nota, a Thome disse que a tripulação do Atlantic Asphalt está segura, que o navio já foi separado do barco e está ancorado para avaliação de danos, e que coopera com as autoridades.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/port-of-new-orleans-sues-tanker-riverboat-crash/",
+   "published_at": "2026-11-14T12:56:43-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/ba59891d-9b26-4381-beee-7a4c061e552d/thumbnail/1200x630/a8ff6a119e1e5074c24511a98627c543/ap26317811767503.jpg"
+  },
+  {
+   "id": "eua-04-20261114-td",
+   "title": "Democrata vence governo do Alasca pela primeira vez em quase 30 anos",
+   "summary": "Jonathan Kreiss-Tomkins derrotou três republicanos, incluindo um apoiado por Trump, e será o primeiro governador democrata do Alasca desde 1998. Com a vitória, os democratas passam a ter 30 governos estaduais.",
+   "highlights": [
+    "Vitória declarada pela AP 10 dias após a eleição",
+    "Ele obteve mais de 50% dos votos de primeira escolha",
+    "Plataforma: custo de vida, educação e impostos para petroleiras"
+   ],
+   "body": "Os democratas conquistaram o governo do Alasca pela primeira vez em quase três décadas, mais uma grande vitória do partido nas eleições de meio de mandato. O ex-deputado estadual Jonathan Kreiss-Tomkins, de 37 anos, derrotou três adversários republicanos, entre eles um candidato apoiado por Donald Trump. A vitória, anunciada pela Associated Press na sexta-feira, dez dias após o fechamento das urnas, eleva para 30 o número de governos estaduais democratas, que também venceram em redutos republicanos como Iowa, Geórgia, Ohio e Texas.\n\nConhecido como JKT, ele fez campanha focada no custo de vida, no financiamento integral da educação pública e na cobrança de imposto de renda corporativo de todas as produtoras de petróleo e gás. Também defendeu uma pausa temporária em novos data centers até que haja regras para sua construção, e criticou duramente o governador republicano Mike Dunleavy, dizendo que o estado ficou \"quebrado\", inclusive o sistema de balsas.\n\nO Alasca usa voto ranqueado, mas Kreiss-Tomkins evitou novas rodadas de apuração ao obter mais de 50% dos votos de primeira escolha. Ele prometeu montar um gabinete com democratas, republicanos e independentes.",
    "category": "eua",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
-   "published_at": "2026-11-14T10:28:14-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/5cb9c07dc0365f409c0acd494adfaec5bafdb713/823_0_6899_5520/master/6899.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=475aa202a605f492a326aad6818a15f7"
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+   "published_at": "2026-11-14T11:58:33-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d182321e6832b302d3de0295b3b1d3b3"
   },
   {
-   "id": "eua-10-20261114-md",
-   "title": "Afegãos ameaçados de deportação vivem \"alívio frágil\" após governo Trump recuar",
-   "summary": "Dezenas de afegãos nos EUA que temiam ser deportados para o Afeganistão via Paquistão tiveram suas datas de remoção retiradas, em aparente recuo do governo Trump. Defensores e congressistas alertam que a deportação poderia ser uma sentença de morte sob o Talibã.",
+   "id": "eua-05-20261114-td",
+   "title": "Mike Johnson diz que líderes devem assumir responsabilidade por derrotas",
+   "summary": "Em sua primeira entrevista após as eleições, o presidente da Câmara, Mike Johnson, disse que as derrotas republicanas o levaram a deixar a liderança do partido. A postura contrasta com a de Trump, que tem evitado assumir culpa.",
    "highlights": [
-    "Grupo total passa de 150 afegãos",
-    "Voo previsto para o dia da eleição foi barrado por juiz",
-    "Alguns detidos foram transferidos para detenção de longo prazo"
+    "Johnson decidiu \"logo após a noite da eleição\"",
+    "Democratas terão ao menos 55 cadeiras no Senado e 256 na Câmara",
+    "Jim Jordan foi eleito para substituí-lo como líder republicano"
    ],
-   "body": "Dezenas de afegãos que estão nos Estados Unidos e temiam ser deportados — e possivelmente mortos pelo Talibã — vivem um \"alívio frágil\" neste fim de semana, depois que o governo Trump aparentemente suspendeu os planos de removê-los em poucos dias. Um voo previsto para o dia da eleição, no início do mês, ficou em solo após uma ordem judicial temporária; segundo o New York Times, o grupo inteiro tem mais de 150 afegãos, e a AP informou que o plano era levá-los via Paquistão.\n\nCom o fim da ordem judicial, advogados temiam que os detidos fossem embarcados na semana de 16 de novembro. Na terça-feira, porém, soube-se que um dos detidos e alguns outros da lista original não tinham mais data de partida, e advogados relataram transferências para centros de detenção de longo prazo.\n\n\"Em questão de dias, esses aliados ouviram que seriam enviados ao Talibã, depois que estavam seguros, depois que ninguém sabe. Isso não é política de imigração, é um vaivém imposto a pessoas que já sobreviveram a uma guerra\", disse Shawn VanDiver, fundador da coalizão #AfghanEvac. Alguns dos afegãos têm parentes que ajudaram os EUA na guerra.",
+   "body": "O presidente da Câmara dos EUA, Mike Johnson, afirmou neste sábado, na Fox News, que as pesadas derrotas republicanas nas eleições de 3 de novembro motivaram sua decisão de deixar a liderança do partido. \"Líderes têm de assumir a responsabilidade quando as coisas dão errado\", disse. Johnson, que avisou assessores em 4 de novembro que não buscaria a liderança republicana, contou que tomou a decisão \"pouco depois da noite da eleição\" e que continuará na luta, mas em outro papel.\n\nA atitude contrasta com a de Donald Trump, que tem se eximido de responsabilidade pelas perdas, incluindo derrotas de pelo menos dez candidatos republicanos ao Senado em estados onde fez comícios — número que pode chegar a 11 se o senador Dan Sullivan perder no Alasca. A partir de 3 de janeiro, os democratas terão ao menos 55 cadeiras no Senado, contra 44 dos republicanos, e ao menos 256 na Câmara, contra 169.\n\nNa terça, os republicanos da Câmara escolheram Jim Jordan, de Ohio, para substituir Johnson como líder da bancada, que será minoria. Os democratas ainda não votaram seus líderes; Hakeem Jeffries deve se tornar o primeiro presidente negro da Câmara.",
    "category": "eua",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
-   "published_at": "2026-11-14T08:00:47-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/864ffb50bade3319fe14e785391a8da94a174334/0_0_4501_3600/master/4501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84009f8b38df2f9e9a29d50fc48bedcd"
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
+   "published_at": "2026-11-14T14:38:19-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/00f91b8f8a739aa2a76aef4c0d3aa7f5a131e279/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a94b9c015aa156fe4fa5ee81a8f98faf"
   },
   {
-   "id": "mundo-01-20261114-md",
-   "title": "Três petroleiros atingem minas no Estreito de Ormuz; drone israelense mata dois em Gaza",
-   "summary": "A TV estatal iraniana informou que três petroleiros bateram em minas navais e pegaram fogo perto do Estreito de Ormuz. Em Gaza, um ataque de drone israelense matou dois palestinos em Jabaliya neste sábado.",
+   "id": "eua-06-20261114-td",
+   "title": "Após vitórias, democratas se reúnem em Denver para traçar próximos passos",
+   "summary": "Democratas se reuniram em Denver numa conferência que foi meio festa da vitória, meio reflexão sobre como cumprir promessas aos eleitores. A mensagem dominante foi que o partido ainda precisa reconquistar a confiança do público.",
    "highlights": [
-    "Irã ameaça navios que cruzarem o estreito sem aprovação",
-    "Outubro teve recorde de incidentes com navios desde fevereiro",
-    "Ao menos 1.600 palestinos mortos desde o cessar-fogo"
+    "Evento \"What's Next\" reuniu estrelas como James Talarico e Rob Sand",
+    "Jason Crow: vitória não significa adesão plena ao partido",
+    "Buttigieg pede ação rápida e prontidão para governar"
    ],
-   "body": "Três petroleiros atingiram minas navais e pegaram fogo nos arredores do Estreito de Ormuz, segundo a TV estatal do Irã, citando a Guarda Revolucionária e a Marinha iraniana. Dois navios foram atingidos dentro do estreito e um terceiro queimava a leste da passagem; não houve detalhes sobre vítimas, bandeiras ou destinos. As forças iranianas avisaram que navios que usarem rotas sem aprovação do Irã terão \"o mesmo destino\".\n\nO Irã vem atacando petroleiros e outras embarcações no estreito para pressionar os preços da energia durante a guerra com os EUA, que impuseram um bloqueio aos portos iranianos. Outubro registrou o maior número de incidentes com navios comerciais na região desde o início da guerra, em fevereiro.\n\nEm Gaza, um drone israelense matou dois palestinos que caminhavam por uma rua de Jabaliya, no norte da Cidade de Gaza, segundo o diretor do hospital Shifa. O Exército de Israel disse ter atingido dois militantes do Hamas. Pelo Ministério da Saúde de Gaza, ao menos 1.600 palestinos foram mortos desde o cessar-fogo, firmado há mais de um ano.",
-   "category": "mundo",
+   "body": "Democratas se reuniram em Denver para a conferência \"What's Next\", organizada pelo grupo Majority Democrats, que foi metade celebração e metade análise sóbria do caminho à frente, após o melhor desempenho eleitoral do partido desde Watergate. O evento reuniu nomes em ascensão, como o governador eleito de Iowa, Rob Sand, e o senador eleito do Texas, James Talarico, além de estrategistas, parlamentares e possíveis presidenciáveis.\n\nO tom predominante foi de que o partido precisa reconquistar a confiança dos eleitores. \"Vencemos em lugares onde não ganhávamos havia muito tempo\", disse o deputado Jason Crow, do Colorado, ressalvando que isso não significa que os eleitores abraçaram plenamente o Partido Democrata. A presidente do partido na Carolina do Norte, Anderson Clayton, cobrou mais investimento no Sul, entre eleitores negros e na América rural.\n\nO ex-secretário de Transportes Pete Buttigieg disse que ainda não se sabe se o resultado é mais uma oscilação ou o início de uma \"mudança tectônica\" na política americana, e defendeu que os democratas adotem uma postura de ação e prontidão para entregar resultados desde o início.",
+   "category": "eua",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+   "published_at": "2026-11-14T14:13:54-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2214+0+209/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F64%2F879cc2d14c54a9ec911488b48d94%2Fap26317088763752.jpg"
+  },
+  {
+   "id": "eua-07-20261114-td",
+   "title": "Batidas do ICE em cidades frigoríficas do Kansas viraram votos contra Trump",
+   "summary": "No sudoeste do Kansas, região de frigoríficos onde imigrantes se estabeleceram, batidas duras do ICE em setembro levaram eleitores apáticos às urnas. Três condados republicanos guinaram à esquerda e ajudaram a eleger um senador democrata pelo estado.",
+   "highlights": [
+    "Primeiro senador democrata do Kansas em quase um século",
+    "Latinos são cerca de dois terços de Dodge City",
+    "Até o senador republicano Roger Marshall pediu cautela nas batidas"
+   ],
+   "body": "José Del Real, veterano do Exército que serviu duas vezes no Iraque, não votava havia uma década. Mas, depois que agentes de imigração invadiram sua cidade no sudoeste do Kansas e prenderam amigos e familiares, ele subiu ao palco num protesto com uma bandeira americana nos ombros e pediu: \"Vamos votar\". Segundo o Guardian, o condado e dois vizinhos, redutos republicanos onde imigrantes trabalham em confinamentos e frigoríficos, guinaram fortemente à esquerda.\n\nA virada ajudou a eleger o primeiro senador democrata do Kansas em quase um século; o republicano Roger Marshall, que perdeu para Adam Hamilton, chegou a pedir ao governo que consultasse autoridades locais antes das batidas. As operações do fim de setembro tiveram agentes mascarados batendo em portas antes do amanhecer, carros parados em cruzamentos, comércios fechados e crianças deixando de ir à escola.\n\nDesde a derrota no Congresso, Trump tem enviado sinais mistos sobre a imigração: sugeriu que sua abordagem foi dura demais, mas nomeou o linha-dura Stephen Miller como chefe de gabinete da Casa Branca. A região responde por boa parte da carne bovina do país, e os latinos já são cerca de dois terços da população de Dodge City.",
+   "category": "eua",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-ice-meatpacking-raids-trump-midterms",
+   "published_at": "2026-11-14T10:00:47-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/e49a1b76dc431e7d51ebb5a7c6f88068ba050832/292_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46c98c2d456a309812fdebd2eef3a997"
+  },
+  {
+   "id": "eua-08-20261114-td",
+   "title": "Esportes dos EUA correm para se reorganizar após parada de voos",
+   "summary": "Eventos esportivos voltaram aos poucos ao normal neste sábado, depois que a paralisação nacional de voos atrapalhou viagens de times profissionais e universitários. Jogos de futebol americano universitário foram adiados e Ole Miss x Oklahoma passou para domingo.",
+   "highlights": [
+    "Utah x Arizona foi adiado em três horas",
+    "Árbitro Don Willard apitará dois jogos da NFL no mesmo dia",
+    "Cavaliers ficaram presos em Miami e voaram na manhã do jogo"
+   ],
+   "body": "Os principais eventos esportivos dos EUA voltaram lentamente ao normal neste sábado, depois que a FAA suspendeu todos os voos do país por várias horas na sexta. Como a maioria dos times universitários de futebol americano viaja na véspera, vários jogos foram atrasados para dar tempo aos visitantes: o confronto entre o nº 2 Utah e o nº 22 Arizona foi adiado em três horas, assim como Arizona State x UCF, e Auburn optou por ônibus fretados. A grande exceção foi Ole Miss x Oklahoma, remarcado para domingo às 13h, concorrendo com a NFL.\n\nA NFL foi menos afetada, já que os times costumam viajar no sábado. O árbitro Don Willard, porém, vai trabalhar em dois jogos no mesmo dia: Dolphins x Colts, às 13h, e depois Steelers x Bengals no Sunday Night Football. No basquete feminino, as jogadoras da USC, de JuJu Watkins, foram retiradas do avião e só seguiram para a Carolina do Sul no sábado.\n\nNa NBA, o caso mais complicado foi o do Cleveland Cavaliers, que não conseguiu sair de Miami na sexta após jogar contra o Heat e decolou às 8h54 de sábado para enfrentar o Dallas à noite. Donovan Mitchell disse que preferia o adiamento do jogo, mas que o time vai \"se ajustar\".",
+   "category": "eua",
    "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/2026/11/14/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news/",
-   "published_at": "2026-11-14T08:53:30-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/M5Q6Q6Y2QRIPO7TF5X4AZNDJVA.jpg?auth=be678061c6d76569f8ffa30025af13fd62dd3b353a1d4842b68b6c4a74d93064&width=700"
+   "url": "https://www.local10.com/sports/2026/11/14/us-sports-scramble-back-to-normal-after-faa-ground-stop-upends-team-travel/",
+   "published_at": "2026-11-14T13:43:56-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/VEBAZ55HEPEQMIANFXIR5AXQSM.jpg?auth=0d75b47b8471b008504c7a322cec5e29a6cbb9a99cc82e03a6028378d59b2497&width=700"
   },
   {
-   "id": "mundo-02-20261114-md",
-   "title": "Encontro Trump-Xi-Putin na Apec: o que esperar",
-   "summary": "Trump, Xi Jinping e Putin terão sua primeira reunião trilateral à margem da cúpula da Apec em Shenzhen, nos dias 18 e 19 de novembro. Armas nucleares e a guerra no Irã devem dominar a pauta, mas a Ucrânia provavelmente ficará de fora.",
+   "id": "eua-09-20261114-td",
+   "title": "Savannah Guthrie renova contrato com a NBC e segue no \"Today\"",
+   "summary": "Savannah Guthrie estendeu seu contrato com a NBC News e continuará à frente do programa matinal \"Today\", segundo uma fonte ouvida pela AP. A renovação ocorre num ano marcado pelo desaparecimento de sua mãe, Nancy Guthrie, no Arizona.",
    "highlights": [
-    "Tratado New START expirou em fevereiro",
-    "Governo americano diz não esperar acordo",
-    "Estreito de Ormuz segue fechado há mais de 100 dias"
+    "Duração do novo contrato não foi divulgada",
+    "Mãe da apresentadora está desaparecida desde 31 de janeiro",
+    "Guthrie, 54, apresenta o \"Today\" desde 2012"
    ],
-   "body": "O presidente dos EUA, Donald Trump, o chinês Xi Jinping e o russo Vladimir Putin farão sua primeira reunião trilateral à margem da cúpula da Cooperação Econômica Ásia-Pacífico (Apec), em Shenzhen, na China, confirmou a Casa Branca. Washington também confirmou a presença de Trump no encontro, marcado para 18 e 19 de novembro. Segundo a Casa Branca, o foco será a proliferação nuclear.\n\nUm dos temas centrais é o New START, tratado que limitava os arsenais estratégicos de EUA e Rússia e expirou em fevereiro. Trump rejeitou estendê-lo e quer um acordo \"novo e melhorado\" que inclua Pequim, mas a China resiste a entrar em um pacto que não ajudou a formular. Um alto funcionário americano disse à Reuters que \"não esperamos nenhum tipo de acordo\".\n\nOs líderes também devem discutir a guerra no Irã, iniciada por EUA e Israel em 28 de fevereiro: após mais de 100 dias, o Estreito de Ormuz segue fechado, afetando o petróleo que abastecia a China. \"Veremos fotos impressionantes e retórica bombástica de Trump\", avaliou o professor Simon Mabon, da Universidade de Lancaster, para quem os três não conseguem, sozinhos, encerrar os conflitos no Irã ou na Ucrânia.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
-   "published_at": "2026-11-14T07:14:14-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?resize=1200%2C630&quality=80"
-  },
-  {
-   "id": "mundo-03-20261114-md",
-   "title": "Zelensky alerta que nova arquitetura de segurança europeia sugerida pelos EUA pode favorecer Putin",
-   "summary": "O presidente ucraniano disse que os EUA levantaram a possibilidade de um novo marco de segurança para a Europa nas negociações de paz, o que considera \"perigoso\". Ele também reafirmou que a Ucrânia não abrirá mão de território nem aceitará a neutralidade.",
-   "highlights": [
-    "EUA perguntaram sobre retirada do Donbas em troca da Otan",
-    "Zelensky consultaria a sociedade sobre um eventual pacote",
-    "Ucrânia atingiu estação de oleoduto em Samara"
-   ],
-   "body": "O presidente da Ucrânia, Volodymyr Zelensky, disse que os Estados Unidos levantaram a possibilidade de um novo marco de segurança para a Europa como parte dos esforços para encerrar a guerra, e alertou que Moscou pode usar essas discussões para enfraquecer a Otan e redesenhar fronteiras. \"Na minha visão, isso pode ser perigoso. Não deveria ser a pauta principal\", afirmou. Para ele, o desejo de Putin de mudar fronteiras na Europa \"é um fato\".\n\nZelensky contou que os EUA perguntaram pela primeira vez se a Ucrânia se retiraria das partes do Donbas que a Rússia não controla caso fosse admitida na Otan, e reiterou que Kiev não entregará território. Ele disse que o país discute um pacote de segurança com garantias da Otan e da União Europeia, um Exército forte, apoio financeiro e um plano de reconstrução — e que, se confirmado, perguntaria à sociedade ucraniana se aceita. Ele rejeitou a neutralidade, que exigiria mudar a Constituição.\n\nEnquanto isso, o Estado-Maior ucraniano informou ter atingido a estação de oleoduto de Samara, perto da vila de Prosvet, na Rússia, incendiando vários tanques de petróleo, além do aeródromo Lipetsk-2. Moscou não comentou.",
-   "category": "mundo",
+   "body": "A jornalista Savannah Guthrie renovou seu contrato com a NBC News e continuará apresentando o programa matinal \"Today\", após mais de 15 anos na emissora. A informação foi confirmada à Associated Press por uma pessoa próxima ao assunto, sob anonimato, porque a notícia ainda não havia sido anunciada; não está claro por quanto tempo o contrato foi estendido.\n\nA renovação vem num ano de dor pessoal para Guthrie. Sua mãe, Nancy Guthrie, de 84 anos, foi vista pela última vez em casa, perto de Tucson, em 31 de janeiro; as autoridades acreditam que ela foi sequestrada, e ninguém foi preso. Em julho, foram divulgadas duas notas de resgate enviadas a uma emissora local — a primeira pedia US$ 4 milhões em criptomoeda, e a segunda dizia que ela havia morrido pouco depois do sequestro. A família segue pedindo informações nas redes sociais e mantém a recompensa.\n\nGuthrie, de 54 anos, tornou-se âncora principal do \"Today\" em 2012, um ano depois de chegar ao programa, que hoje divide com Craig Melvin. Ela também é uma das principais âncoras da cobertura eleitoral da NBC, incluindo as eleições de meio de mandato da semana passada.",
+   "category": "eua",
    "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/14/zelenskyy-says-a-new-european-security-framework-floated-by-us-could-benefit-putin/",
-   "published_at": "2026-11-14T06:21:30-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/5EWNASQFS3GZT4VYZEIDVR3VFE.jpg?auth=719df624148ba94cf593ebe401cf6bf38ca64c8f82a2882785ab81cf573ce311&width=700"
+   "url": "https://www.local10.com/news/national/2026/11/14/savannah-guthrie-popular-and-enduring-face-of-morning-tv-renews-nbc-contract-after-15-years/",
+   "published_at": "2026-11-13T19:55:13-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/ZNOVNLG2OEFMPZXLAEWHRC33EE.jpg?auth=694f23adf57a3a5b2e20bfc1aec5b136c08c86e3c06c9d04ef62c231753d9e30&width=700"
   },
   {
-   "id": "mundo-04-20261114-md",
-   "title": "Dados vazados indicam ao menos 450 mil mortos russos na guerra da Ucrânia",
-   "summary": "Registros vazados da agência estatística russa Rosstat indicam que pelo menos 450 mil russos, em sua maioria soldados, morreram na guerra até agosto. Mais de 4 mil estrangeiros que lutavam pela Rússia também estão entre os mortos.",
+   "id": "eua-10-20261114-td",
+   "title": "Dois americanos morrem em suposto afogamento em Bimini, nas Bahamas",
+   "summary": "Um homem de 38 anos e uma mulher de 40, ambos americanos, morreram depois de serem arrastados por fortes correntes em North Bimini, nas Bahamas. Eles nadavam além de uma área com placa de alerta sobre correntezas.",
    "highlights": [
-    "Dados obtidos por grupos hackers de Belarus e Ucrânia",
-    "FT estima que total pode chegar a 550 mil",
-    "Rosstat nega vazamento de dados protegidos"
+    "Chamado à polícia foi feito pouco antes das 15h de sexta",
+    "Uma balsa próxima ajudou a resgatar outros nadadores",
+    "Autópsia será feita e caso segue sob investigação"
    ],
-   "body": "Registros vazados da Rosstat, a agência estatística estatal da Rússia, mostram que ao menos 450 mil russos, a maioria soldados, morreram na guerra na Ucrânia até agosto deste ano. Entre os mortos há mais de 4 mil estrangeiros que teriam lutado pela Rússia, vindos de países como Uzbequistão, Tadjiquistão, Nepal, Colômbia e Nigéria.\n\nOs dados foram obtidos pelos grupos hackers Ciberpartisans, de Belarus, e Silent Crow, da Ucrânia. A Rosstat confirmou ter sofrido ataques cibernéticos entre 29 de outubro e 1º de novembro, mas disse não haver evidência de vazamento de dados protegidos. Os arquivos não foram verificados de forma independente, mas analistas consideram que são autênticos. Como mortes podem levar meses para ser registradas, investigações do Financial Times estimam que o total até agosto deve chegar a cerca de 550 mil.\n\nOs arquivos listam cerca de 410 mil mortes ligadas diretamente à guerra e 42 mil homens em idade militar declarados mortos pela Justiça porque os corpos nunca foram recuperados. Cerca de 120 mil morreram na área de Avdiivka e Pokrovsk e outros 48 mil em Bakhmut, segundo o FT.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war",
-   "published_at": "2026-11-14T07:57:36-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=1920%2C1440"
+   "body": "Dois americanos — um homem de 38 anos e uma mulher de 40 — morreram depois que um grupo de nadadores foi arrastado por fortes correntes na ilha de Bimini, nas Bahamas, segundo a Polícia Real das Bahamas. A corporação recebeu um chamado pouco antes das 15h de sexta-feira sobre um possível afogamento na ponta sul de North Bimini, perto da entrada do porto de Bimini.\n\nDe acordo com a polícia, as vítimas faziam parte de um grupo que nadava além de uma área sinalizada com placa de alerta sobre correntes fortes. \"Enquanto nadavam, várias pessoas foram arrastadas pelas fortes correntes\", informou o comunicado; uma balsa que passava ajudou alguns nadadores a chegar em segurança. Os dois americanos foram encontrados inconscientes e receberam manobras de reanimação, mas foram declarados mortos numa clínica local. Será feita autópsia, e o caso continua sob investigação.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/americans-die-suspected-drowning-bimini-bahamas/",
+   "published_at": "2026-11-14T11:26:46-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/56cd6fcd-1815-4e34-8e78-27f182088deb/thumbnail/1200x630/6af5fe72f96d4e5d2d3f204f74f0f6c3/gettyimages-2150595576.jpg"
   },
   {
-   "id": "mundo-05-20261114-md",
-   "title": "Como o Irã vê a saída de JD Vance das negociações com os EUA",
-   "summary": "Trump tirou o vice-presidente JD Vance do comando das conversas com o Irã e disse que um acordo deixou de ser prioridade. Analistas em Teerã avaliam que a mudança pode aumentar o risco de novo conflito.",
+   "id": "mundo-01-20261114-td",
+   "title": "EUA sugeriram Donbas em troca de entrada da Ucrânia na Otan, diz Zelensky",
+   "summary": "Volodymyr Zelensky disse que negociadores americanos levantaram a ideia de a Ucrânia retirar suas tropas do Donbas em troca de adesão à Otan. Ele afirmou que submeteria a referendo uma proposta concreta com garantias de segurança.",
    "highlights": [
-    "Vance era visto como pragmático por Teerã",
-    "Hegseth e o comandante do Centcom defenderiam novos ataques",
-    "EUA apostam em bloqueio e sanções"
+    "\"Foi a primeira vez que isso foi levantado\", disse Zelensky",
+    "Enviados Kushner e Witkoff se reuniram com Putin e Zelensky",
+    "Casa Branca não comentou; Kremlin rejeita Otan na fronteira"
    ],
-   "body": "Os tomadores de decisão no Irã avaliam as implicações da retirada do vice-presidente JD Vance do dossiê iraniano. Vance era o principal negociador americano com Teerã, mas Donald Trump o mandou focar na suposta \"corrupção\" democrata, segundo publicação do presidente na quinta-feira, acrescentando que um acordo com o Irã não é mais prioridade. Analistas dizem que a mudança pode aumentar as chances de confronto.\n\nVance era visto em Teerã como uma das figuras mais pragmáticas do governo desde que EUA e Israel lançaram a guerra, em 28 de fevereiro, e negociou em junho o memorando — hoje extinto — que pausou brevemente os combates. Para o professor Nasser Hadian, da Universidade de Teerã, o recado é que \"fechar um acordo agora não é prioridade\". A decisão também pode agradar a Israel, que estaria interessado em novos ataques.\n\nO secretário de Defesa, Pete Hegseth, e o chefe do Comando Central, Brad Cooper, seriam favoráveis a nova ação militar, enquanto Washington aposta que bloqueio marítimo, restrições aéreas e sanções estão funcionando. Contatos mediados entre os dois lados continuam.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away",
-   "published_at": "2026-11-14T08:24:44-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af8509e-1794658462.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-06-20261114-md",
-   "title": "Cúpula da Francofonia no Camboja tem disputa entre Congo e Ruanda",
-   "summary": "Emmanuel Macron participa da cúpula da Organização Internacional da Francofonia em Phnom Penh, que vai até segunda-feira. A escolha do novo secretário-geral é ofuscada pelo conflito no leste do Congo.",
-   "highlights": [
-    "Congo retirou candidatura de Juliana Lumumba",
-    "Kinshasa apoia o romeno Dacian Ciolos",
-    "Congo ameaça deixar a OIF se Mushikiwabo for reeleita"
-   ],
-   "body": "O presidente francês, Emmanuel Macron, chegou a Phnom Penh para a cúpula bienal da Organização Internacional da Francofonia (OIF), que reúne 90 Estados e governos e vai de sábado a segunda-feira na capital do Camboja. Macron, que enfrenta protestos em massa na França, disse querer abrir mercados no país para empresas francesas e se reuniu com o primeiro-ministro Hun Manet. O Camboja assume a presidência da cúpula, antes exercida pela França.\n\nO ponto mais delicado será na segunda-feira, com a escolha do secretário-geral para os próximos quatro anos. A ruandesa Louise Mushikiwabo busca um terceiro mandato; a candidata da República Democrática do Congo era Juliana Lumumba, filha do herói da independência Patrice Lumumba. No sábado, o Congo retirou a candidatura dela e passou a apoiar o ex-primeiro-ministro romeno Dacian Ciolos, em nome de um \"consenso\".\n\nCongo, EUA e especialistas da ONU acusam Ruanda de apoiar o grupo armado M23 no leste congolês, o que Ruanda nega. O Congo, país francófono mais populoso, ameaçou deixar a OIF se Mushikiwabo for reeleita.",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/14/french-speaking-nations-hold-a-summit-in-cambodia-as-a-conflict-in-africa-threatens-a-rift/",
-   "published_at": "2026-11-13T23:57:40-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/GSLAVMIQCLYYOWIZ7BTBSIJIMY.jpg?auth=76709732e002443eb8e6e389088affea0872420b134db649b075307f81633dc3&width=700"
-  },
-  {
-   "id": "mundo-07-20261114-md",
-   "title": "Nigéria alerta cidadãos sobre conexões no aeroporto de Adis Abeba por causa da altitude",
-   "summary": "O governo nigeriano recomendou cautela a quem tem problemas de saúde e faz conexão pelo principal aeroporto da Etiópia, a 2.334 metros de altitude. Segundo o Itamaraty nigeriano, 16 nigerianos com doenças preexistentes morreram neste ano em trânsito pela cidade.",
-   "highlights": [
-    "Pessoas com doenças cardíacas e respiratórias correm mais risco",
-    "Aeroporto de Bole é grande hub entre África, Oriente Médio e Ásia",
-    "Governo diz não querer desencorajar viagens"
-   ],
-   "body": "O governo da Nigéria recomendou que seus cidadãos, especialmente os que têm problemas de saúde, tenham cautela ao viajar com conexão pelo principal aeroporto da Etiópia, devido à altitude. O Ministério das Relações Exteriores, em Abuja, informou que 16 nigerianos com problemas de saúde preexistentes morreram neste ano enquanto passavam por Adis Abeba; as identidades e as causas das mortes não foram divulgadas.\n\nA capital etíope fica a 2.334 metros acima do nível do mar, uma das mais altas do mundo, e o Aeroporto Internacional de Bole é um grande hub entre a África, o Oriente Médio e a Ásia. A pasta pediu que pessoas com doenças cardiovasculares ou respiratórias busquem orientação médica antes da viagem, mas ressaltou que não quer desencorajar o trânsito pela cidade.\n\nEm grandes altitudes o ar é mais rarefeito e menos oxigênio chega ao sangue, o que obriga o coração a trabalhar mais e pode levar a insuficiência cardíaca em quem já tem problemas, segundo a American Heart Association.",
+   "body": "Negociadores dos EUA chegaram a aventar a ideia de a Ucrânia retirar suas forças restantes da região do Donbas, no leste, em troca da entrada na Otan, afirmou o presidente Volodymyr Zelensky em declarações divulgadas neste sábado. \"Os americanos levantaram uma questão: e se a Ucrânia entrar na Otan? A Ucrânia sairia do Donbas? Foi a primeira vez que isso foi levantado\", disse. Os enviados Jared Kushner e Steve Witkoff se reuniram com Zelensky em Dublin na quinta, após conversas com Vladimir Putin em Moscou.\n\nZelensky disse que, se receber uma proposta concreta com garantias de segurança, sem limites às Forças Armadas ucranianas e com recursos para a reconstrução, a submeteria a referendo. A Rússia controla a maior parte do Donbas, e Kyiv sempre se recusou a ceder território soberano; Moscou, por sua vez, continua exigindo limites ao Exército ucraniano, concessões territoriais e neutralidade.\n\nSegundo a BBC, não está claro se os EUA estão de fato propondo a adesão à Otan — a Casa Branca não respondeu, e a própria Ucrânia vê a ideia como irrealista. É possível que os enviados estivessem testando as \"linhas vermelhas\" de Kyiv, ou que Zelensky tenha tornado o tema público para reabrir uma discussão considerada encerrada.",
    "category": "mundo",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo",
-   "published_at": "2026-11-14T10:42:54-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg"
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+   "published_at": "2026-11-14T05:30:38-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
   },
   {
-   "id": "mundo-08-20261114-md",
-   "title": "Premiê britânico Andy Burnham diz que Reino Unido \"perdeu mais do que ganhou\" com o Brexit",
-   "summary": "O primeiro-ministro Andy Burnham afirmou que o Reino Unido perdeu mais do que ganhou desde que deixou a União Europeia e acusou os conservadores de \"queimar todas as pontes\". Ele vai a uma cúpula com a UE na próxima semana em busca de acordos para baixar o preço dos alimentos.",
+   "id": "mundo-02-20261114-td",
+   "title": "Mais de 100 mil vão às ruas na França em nova onda de protestos",
+   "summary": "Mais de 100 mil pessoas protestaram na França contra o custo de vida, o governo Macron, a violência policial e as condições das escolas, em atos convocados pelos \"coletes amarelos\" e movimentos juvenis. O público foi menor que na semana anterior.",
    "highlights": [
-    "Acordos poderiam elevar o PIB em 0,4% (cerca de £ 17 bi)",
-    "Pauta inclui alimentos, carbono e mobilidade jovem",
-    "Burnham diz manter \"linhas vermelhas\" do manifesto"
+    "Ministério contou 106 mil manifestantes, 24 mil em Paris",
+    "Marselha proibiu atos, mas 3.500 saíram às ruas",
+    "Sindicatos convocam greve para terça"
    ],
-   "body": "O primeiro-ministro britânico, Andy Burnham, disse neste sábado que o Reino Unido \"perdeu mais do que ganhou\" nos últimos dez anos fora da União Europeia, em mais uma de uma série de críticas ao Brexit. Falando na conferência do Partido Trabalhista do País de Gales, ele acusou os conservadores de terem dado ao país um Brexit \"mais duro\" do que os eleitores esperavam em 2016 e de terem \"queimado todas as pontes\" com Bruxelas.\n\nBurnham vai a uma cúpula Reino Unido-UE na próxima semana em busca de acordos que, segundo ele, poderiam elevar o PIB em 0,4% — cerca de £ 17 bilhões —, incluindo alimentos e agricultura, comércio de emissões e um programa de mobilidade para jovens. Ele disse que um novo acordo agrícola vai \"baixar o preço dos alimentos\" e beneficiar exportadores.\n\nEmbora já tenha dito estar aberto a voltar ao mercado único, à união aduaneira ou até à UE, Burnham reiterou que respeitará as \"linhas vermelhas\" do manifesto trabalhista, que excluem essas opções, e que os eleitores serão \"o chefe\" de qualquer mudança.",
-   "category": "mundo",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-   "published_at": "2026-11-14T10:34:54-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f01ef8a3a85840f563084ac11433abef"
-  },
-  {
-   "id": "mundo-09-20261114-md",
-   "title": "Banco da Inglaterra deve subir juros de novo, diz economista-chefe",
-   "summary": "Huw Pill, economista-chefe do Banco da Inglaterra, disse que a instituição provavelmente terá de subir os juros em dezembro e de novo no início de 2027. A inflação britânica deve chegar a 5% na primavera, puxada pela energia cara da guerra no Irã.",
-   "highlights": [
-    "Taxa subiu de 3,75% para 4% neste mês",
-    "Cerca de 2,3 milhões de mutuários vão refinanciar em 2027",
-    "Mercado projeta juros perto de 5% em 2027"
-   ],
-   "body": "O Banco da Inglaterra provavelmente precisará elevar os juros no próximo mês e novamente no início de 2027 para combater a inflação, disse o economista-chefe Huw Pill ao Financial Times. Ele afirmou que a alta de 3,75% para 4% no início deste mês foi \"um passo significativo\", mas que \"ainda temos caminho a percorrer\". A sinalização indica aumento das prestações para cerca de 2,3 milhões de proprietários que terão de refinanciar hipotecas no próximo ano.\n\nCom a inflação prevista para chegar a 5% na primavera de 2027, puxada pelos preços altos de petróleo e gás por causa da guerra no Irã, Pill espera que trabalhadores exijam aumentos salariais expressivos. Ele considera de \"probabilidade muito baixa\" o fim do conflito e a queda dos preços de energia, e admitiu: \"Na minha visão, esperamos tempo demais\".\n\nOs mercados projetam juros perto de 5% em 2027, expectativa que Pill chamou de \"não absurda\". A economia britânica cresceu 0,7% no terceiro trimestre, mas há receio de que novas altas prejudiquem a indústria e a construção.",
-   "category": "mundo",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-   "published_at": "2026-11-14T09:42:27-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22bf4369f273b4ac3f8d5e1f7019ad04"
-  },
-  {
-   "id": "mundo-10-20261114-md",
-   "title": "Avanços do Exército no Kordofan podem virar a guerra no Sudão contra as RSF",
-   "summary": "As Forças Armadas do Sudão tomaram vilarejos e localidades estratégicas no oeste do Kordofan nesta semana, incluindo a cidade de al-Khuwai. Analistas dizem que as Forças de Apoio Rápido podem recuar para Darfur.",
-   "highlights": [
-    "Exército rompeu o cerco a al-Obeid",
-    "RSF ainda controla al-Nuhud, área de minas de ouro",
-    "Grupos tribais vêm abandonando as RSF"
-   ],
-   "body": "As Forças Armadas do Sudão (SAF) assumiram nesta semana o controle de vilarejos e localidades estratégicas no oeste do Kordofan, mudando a guerra contra as paramilitares Forças de Apoio Rápido (RSF) a seu favor. Na sexta-feira, segundo a imprensa local, o Exército tomou al-Khuwai, uma das principais cidades do Kordofan Ocidental.\n\nA ofensiva do Exército e de forças aliadas de Darfur já rompeu o cerco das RSF a al-Obeid, capital do Kordofan do Norte, e abriu novas rotas no centro e sudoeste do país, até Babnusa e os acessos ao Darfur do Norte. As RSF, com aliados do SPLM-Norte, ainda controlam al-Nuhud, área de minas de ouro, e partes do Kordofan do Sul.\n\n\"O Kordofan não é um reduto social das RSF; espera-se que elas se retirem e se reposicionem em Darfur\", disse o analista Mohamed Ali, para quem Darfur pode se tornar o novo epicentro do conflito. Vários grupos tribais e outros aliados abandonaram as RSF nas últimas semanas.",
+   "body": "Mais de 100 mil pessoas saíram às ruas na França neste sábado em mais uma rodada de protestos contra o custo de vida, organizados pelos \"coletes amarelos\" e por movimentos juvenis. Segundo o Ministério do Interior, 106 mil pessoas participaram em todo o país, 24 mil delas em Paris — abaixo das 146 mil (46 mil na capital) da semana anterior. Sindicatos estudantis falam em 200 mil. Os atos foram em grande parte pacíficos, segundo as autoridades.\n\nO país vive há mais de um mês bloqueios de escolas, manifestações e greves contra a queda da qualidade do ensino, o aumento do custo de vida, os baixos salários e a violência policial. Marselha proibiu protestos no fim de semana, mas cerca de 3.500 pessoas foram às ruas, com uso de gás lacrimogêneo e canhão de água; também houve gás em Lyon, Nantes, Bordeaux e Paris.\n\nOs sindicatos convocaram nova greve para terça-feira, depois de rejeitarem como \"migalhas\" a promessa do governo de elevar o salário mínimo em 0,6%. A data coincide com o oitavo aniversário do movimento dos coletes amarelos, que abalou o início do governo Macron em 2018.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf",
-   "published_at": "2026-11-14T07:49:17-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1000289121-1794657366.jpg?resize=1920%2C1080&quality=80"
+   "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+   "published_at": "2026-11-14T14:46:24-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8b0272660-1794682919.jpg?resize=1920%2C1440"
   },
   {
-   "id": "weston-01-20261114-md",
+   "id": "mundo-03-20261114-td",
+   "title": "Dezenas de milhares protestam em Portugal contra alta dos aluguéis",
+   "summary": "Dezenas de milhares de pessoas marcharam em mais de 30 cidades portuguesas contra a disparada dos aluguéis, no maior protesto nacional do movimento por moradia. Os manifestantes pedem teto para reajustes e mais proteção contra despejos.",
+   "highlights": [
+    "Atos em Lisboa, Porto, Faro, Coimbra, Braga e outras cidades",
+    "Aluguéis subiram 68% desde 2020, segundo o governo",
+    "Parlamento aprovou mudanças que facilitam despejos"
+   ],
+   "body": "Dezenas de milhares de pessoas foram às ruas em mais de 30 cidades de Portugal neste sábado para protestar contra a alta dos aluguéis e cobrar ação urgente do governo diante da crise habitacional. Organizados pela plataforma Casa Para Viver, os atos tiveram o lema \"Não nos vão roubar o direito à casa\" e ocorreram em Lisboa, Porto, Faro, Portimão, Coimbra, Braga e outros locais — a maior mobilização desde o início do movimento, há semanas.\n\nOs manifestantes pedem limites aos reajustes de aluguel, mais proteção legal contra despejos, moradia acessível e a reversão de mudanças na lei do arrendamento recém-aprovadas pelo Parlamento, que flexibilizam contratos e aceleram despejos. Segundo o Eurostat, Portugal teve entre 2015 e 2025 a maior alta da UE na relação entre preço de imóveis e renda, de 61%; os preços dos imóveis subiram quase 20% em um ano, e os aluguéis, 68% desde 2020.\n\nO governo do primeiro-ministro Luís Montenegro respondeu reduzindo impostos sobre construção nova, restringindo aluguéis de curta duração e prometendo 145 mil novas casas, mas admitiu que os efeitos não serão imediatos.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests",
+   "published_at": "2026-11-14T14:27:55-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8a8f765ab-1794681079.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-04-20261114-td",
+   "title": "Papa Leão XIV pede fim da violência no Peru em visita aos Andes",
+   "summary": "Em visita a comunidades que atendeu como bispo, o papa Leão XIV pediu o fim da violência que assola o Peru e que as pessoas não respondam à injustiça com brutalidade. Cerca de 20 mil fiéis foram a uma missa numa cidade andina de 6 mil habitantes.",
+   "highlights": [
+    "Taxa de homicídios no Peru quase dobrou em cinco anos",
+    "Casos de extorsão saltaram de 2.421 para 26.734",
+    "Leão foi bispo de Chiclayo entre 2015 e 2023"
+   ],
+   "body": "O papa Leão XIV pediu neste sábado o fim da violência que toma conta do Peru, ao visitar comunidades que atendeu como bispo. \"Sentimo-nos ameaçados pela incerteza da violência generalizada e pelo sofrimento indizível que continua a afligir tantos irmãos e irmãs\", disse em sua antiga catedral, em Chiclayo. A taxa de homicídios do país quase dobrou em cinco anos, de 5,8 para 10,7 por 100 mil habitantes, e os casos de extorsão passaram de 2.421 em 2019 para 26.734 em 2025.\n\nMais tarde, na cidade andina de Santa Cruz de Succhabamba, com cerca de 6 mil habitantes, aproximadamente 20 mil pessoas foram a uma missa ao ar livre. \"O egoísmo, a injustiça e o mal não se vencem com brutalidade, mas com oração, paciência e perseverança\", afirmou o pontífice, que também lembrou o sofrimento de comunidades rurais esvaziadas pela migração e pela queda da natalidade.\n\nNascido em Chicago como Robert Francis Prevost, Leão tem cidadania americana e peruana e passou cerca de duas décadas no Peru como missionário e bispo. Ele chegou de helicóptero e foi recebido por uma banda local cantando \"Papa Leão, bem-vindo a casa\".",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town",
+   "published_at": "2026-11-14T14:20:11-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8ab157889-1794681621.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-05-20261114-td",
+   "title": "UE pede acesso humanitário imediato a Gaza após enchentes",
+   "summary": "A União Europeia pediu que Israel reabra todas as passagens de Gaza e garanta acesso imediato e irrestrito à ajuda humanitária, após enchentes devastadoras no território. No mesmo dia, um ataque de drone israelense matou dois palestinos.",
+   "highlights": [
+    "Chuvas afetaram ao menos 106 mil pessoas, segundo o Unicef",
+    "UE classificou ataque ao hospital Nasser de \"profundamente alarmante\"",
+    "Bloco reafirmou apoio à solução de dois Estados"
+   ],
+   "body": "A União Europeia pediu neste sábado que Israel reabra todas as passagens de fronteira de Gaza e conceda \"acesso imediato e desimpedido\" às organizações humanitárias, depois das enchentes devastadoras desta semana no território. Em comunicado do gabinete da chefe da diplomacia do bloco, Kaja Kallas, a UE afirmou que infraestrutura civil e instalações médicas \"devem ser protegidas\" e que \"Israel deve permitir o trabalho da ONU e de suas agências\".\n\nNo mesmo dia, um ataque de drone israelense matou dois palestinos que caminhavam por uma rua de Jabaliya, segundo o diretor do hospital Shifa; o Exército israelense disse ter atingido dois \"militantes\" do Hamas. A UE classificou como \"profundamente alarmante\" o ataque aéreo de quinta ao complexo médico Nasser, que matou ao menos seis pessoas, incluindo um cirurgião.\n\nSegundo autoridades locais e a ONU, os danos causados pelos ataques à infraestrutura agravaram as enchentes provocadas pelas chuvas: mais de 700 km da rede de esgoto foram destruídos, e o Unicef estima que ao menos 106 mil pessoas foram afetadas, com milhares de barracas submersas. A UE reafirmou o compromisso com a solução de dois Estados e pediu a retirada total das forças israelenses.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza",
+   "published_at": "2026-11-14T10:57:22-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8704f4a9a8-1794666575.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "mundo-06-20261114-td",
+   "title": "Crise dos combustíveis e protestos pressionam Kast no Chile",
+   "summary": "Com apenas oito meses no poder, o presidente chileno José Antonio Kast tem 24% de aprovação em meio a protestos contra o custo de vida e a polêmica redução de penas de condenados. Caminhoneiros bloquearam rodovias até o governo recuar na alta dos combustíveis.",
+   "highlights": [
+    "Governo reduziu penas de 56 presos, incluindo estupradores de crianças",
+    "Kast admitiu \"erro\", mas manteve o subsecretário",
+    "Projeto para reverter alta dos combustíveis vai ao Congresso"
+   ],
+   "body": "O presidente ultraconservador do Chile, José Antonio Kast, está na defensiva após apenas oito meses de governo, com 24% de aprovação nas pesquisas. Eleito em dezembro de 2025 com uma campanha focada em imigração ilegal e segurança pública, ele tem patinado nessas pautas e sofre, como outros governos, com a alta do custo de vida. Na sexta, a polícia usou canhões de água contra manifestantes em Santiago.\n\nGrande parte da revolta vem da revelação, no mês passado, de que o governo assinou decretos reduzindo as penas de 56 presos, com crimes que vão de estupro de crianças a violações de direitos humanos da ditadura. Kast admitiu o \"erro\", mas manteve apoio ao subsecretário que assinou os decretos.\n\nHá também insatisfação com a alta dos combustíveis: em julho, o governo optou por não usar um mecanismo anti-inflação para conter os preços, pressionados pela guerra dos EUA e Israel com o Irã. Nesta semana, sindicatos de caminhoneiros bloquearam duas grandes rodovias, e a greve só terminou na sexta, quando o governo recuou e enviou ao Congresso um projeto para reverter os aumentos previstos.",
+   "category": "mundo",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+   "published_at": "2026-11-14T11:05:12-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x4609+0+427/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg"
+  },
+  {
+   "id": "mundo-07-20261114-td",
+   "title": "Filipinas vencem o primeiro Eurovision da Ásia, em Bangcoc",
+   "summary": "A cantora filipina Carmelle, de 19 anos, venceu a primeira edição do Eurovision Song Contest Asia com o hino de empoderamento feminino \"Sobra-Sobra\". A disputa em Bangcoc reuniu 11 países.",
+   "highlights": [
+    "Carmelle somou 211 pontos; Tailândia ficou em 2º, com 170",
+    "Votação dividida entre júris nacionais e público",
+    "Vencedora do Eurovision 2026, Dara, se apresentou na festa"
+   ],
+   "body": "As Filipinas venceram a primeira edição do Eurovision Song Contest Asia, realizada em Bangcoc com 11 países na disputa. A cantora Carmelle, de 19 anos e a mais jovem da competição, era uma das favoritas com \"Sobra-Sobra\", hino de empoderamento feminino com um trecho de rap, e somou 211 pontos — 93 dos júris e 118 do voto popular —, à frente da dupla tailandesa MANG x DAOU, com 170.\n\nO sistema de votação seguiu o do Eurovision europeu, com 50% do resultado vindo do público e 50% dos 11 júris nacionais, além de pontos de um voto do \"resto do mundo\". Entre os destaques estiveram os beatboxers de Bangladesh Beatmosphere, que dispensaram base musical, e a laosiana Thinla, cujo clipe acabou sendo exibido de novo por uma aparente falha técnica, logo antes da votação.\n\nA noite também teve apresentações de Dara, da Bulgária, vencedora do Eurovision 2026, e do astro tailandês Jeff Satur. Um Eurovision asiático era discutido havia décadas, com várias tentativas frustradas, até sair do papel agora na One Bangkok Arena.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo",
+   "published_at": "2026-11-14T12:56:59-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
+  },
+  {
+   "id": "mundo-08-20261114-td",
+   "title": "Leilão de Van Gogh de US$ 180 milhões é contestado por herdeiros",
+   "summary": "Herdeiros da família Fischer, antigos donos alemães de \"Châtaigniers en fleurs\", de Van Gogh, alegam que a obra pode ter sido vendida sob coação durante a ascensão nazista. A Sotheby's diz que sua pesquisa não confirmou isso, mas busca um acordo.",
+   "highlights": [
+    "Leilão está marcado para quarta-feira em Nova York",
+    "Obra foi comprada pelo editor Samuel Fischer em 1909",
+    "Advogado diz que venda ocorreu por perdas sob os nazistas"
+   ],
+   "body": "A casa de leilões Sotheby's afirmou que está trabalhando para resolver uma disputa sobre a venda de \"Châtaigniers en fleurs\" (Castanheiras em flor), de Vincent van Gogh, avaliada em US$ 180 milhões e com leilão marcado para quarta-feira em Nova York. Representantes dos herdeiros da família Fischer, antigos proprietários alemães da obra, dizem que o quadro pode ter sido vendido sob coação durante a ascensão dos nazistas.\n\nEm nota à BBC, a Sotheby's disse levar questões de procedência e restituição \"extremamente a sério\" e que sua \"extensa pesquisa\" não estabeleceu que a pintura tenha sido vendida sob coação, mas que está comprometida a buscar uma solução satisfatória com a família. Segundo a casa, o editor alemão Samuel Fischer comprou a obra em 1909; ela foi depositada com Paul Cassirer em Amsterdã em 1932 ou 1933 e passou a Henriette e Marcel Kapferer, em Paris, em 1936.\n\nDe acordo com o New York Times, o advogado dos herdeiros escreveu à Sotheby's afirmando que o quadro foi vendido em Amsterdã antes da Segunda Guerra por causa das perdas financeiras que a editora da família sofreu sob o regime nazista. A pintura integra a Coleção Blaquier-Arrieta.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo",
+   "published_at": "2026-11-14T13:00:10-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg"
+  },
+  {
+   "id": "mundo-09-20261114-td",
+   "title": "Herdeiro ativista enfrenta tribunal na Espanha em pedido de extradição dos EUA",
+   "summary": "O ativista James \"Fergie\" Chambers, herdeiro da Cox Enterprises, passou por audiência de duas horas na Alta Corte espanhola sobre o pedido americano de extradição. É o primeiro caso conhecido em que os EUA tentam extraditar um cidadão por suposto apoio ao Hamas.",
+   "highlights": [
+    "Tribunal decide na próxima semana",
+    "Acusações incluem tumulto em protestos contra a Elbit e lavagem de dinheiro",
+    "Conselho de ministros de Pedro Sánchez pode reverter a decisão"
+   ],
+   "body": "Uma audiência de duas horas na Alta Corte da Espanha, na sexta-feira, analisou o pedido de extradição feito pelo governo Trump contra o ativista e filantropo de esquerda James \"Fergie\" Chambers, herdeiro da Cox Enterprises. A defesa ocupou a maior parte da sessão apontando irregularidades no pedido, enquanto o promotor apresentou seu caso rapidamente, sem fazer perguntas a Chambers. É o primeiro caso conhecido em que os EUA buscam extraditar um cidadão por suposto apoio ao Hamas, acusação ligada a lavagem de dinheiro e doações a organizações que ajudam palestinos em Gaza.\n\nPreso em Ibiza em 10 de julho, Chambers falou pela primeira vez sobre os fatos: protestos de 2023 contra a fabricante de armas israelense Elbit em Massachusetts e New Hampshire — origem das acusações de tumulto e conspiração — e transferências de US$ 7,2 milhões à Tunísia em 2024, onde morava. Ele contou que vendeu ações da empresa da família por cerca de US$ 250 milhões em 2023 e criou uma fundação que financia cerca de 100 projetos progressistas e humanitários.\n\nO tribunal decide na próxima semana. Se aprovar a extradição, o conselho de ministros pode revertê-la, o que pode tornar o caso uma das últimas decisões do governo de Pedro Sánchez antes das eleições de 29 de novembro.",
+   "category": "mundo",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+   "published_at": "2026-11-14T10:00:47-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0273fa8bc4b985425531f3705adc2b2"
+  },
+  {
+   "id": "mundo-10-20261114-td",
+   "title": "Mudanças de discurso de Trump sobre o Irã deixam Oriente Médio em suspense",
+   "summary": "Desde a derrota republicana nas eleições, Trump recuou tanto de novos ataques quanto de novas negociações com o Irã, deixando aliados sem saber o rumo da guerra de oito meses. O tema deve pesar na viagem dele à Ásia na próxima semana.",
+   "highlights": [
+    "Trump disse que a guerra \"militarmente está encerrada\"",
+    "Depois afirmou que os EUA não precisam mais de acordo com Teerã",
+    "Cúpula inédita com Xi e Putin em Shenzhen deve tratar do Irã"
+   ],
+   "body": "O presidente Donald Trump tem dado sinais contraditórios sobre a guerra com o Irã desde que os republicanos foram derrotados nas eleições de meio de mandato. Em entrevistas e postagens, ele recuou de novos ataques e, ao mesmo tempo, da perspectiva de novas conversas com os negociadores iranianos para encerrar o conflito de oito meses. No dia seguinte à eleição, reconheceu que a guerra e a turbulência econômica ajudaram a explicar as derrotas, mas disse que ela foi a decisão certa.\n\nNo início da semana, após receber o primeiro-ministro do Catar, Trump disse ser improvável ordenar novos grandes ataques e declarou que a guerra \"militarmente está efetivamente encerrada\". Na quinta, porém, afirmou que os EUA não precisam mais de um acordo com Teerã e mandou o vice JD Vance, seu negociador-chefe, se dedicar à campanha antifraude doméstica, enquanto alertava que as Forças Armadas estão \"prontas\" e vigiando a instalação nuclear de Pickaxe Mountain.\n\nA ambiguidade deve pesar na viagem de Trump às Filipinas e à cúpula da Apec em Shenzhen, na China, onde ele terá um encontro trilateral inédito com Xi Jinping e Vladimir Putin. O secretário de Estado, Marco Rubio, disse que a pressão econômica sobre o Irã é tão grande que não há necessidade de ação militar.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/politics/2026/11/14/with-shifting-iran-rhetoric-following-us-elections-trump-leaves-mideast-in-limbo-about-path-ahead/",
+   "published_at": "2026-11-14T00:56:33-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/4XY34TUBNUZDLPBAFH2ATOMPQQ.jpg?auth=2a4fe9605ff5843b60f74be55d43d1bcaf7b609d3eadc8a0106d5fe9248c4e96&width=700"
+  },
+  {
+   "id": "weston-01-20261114-td",
    "title": "Fim de semana em Weston: WestonNights grátis e festival de histórias",
    "summary": "O show gratuito WestonNights volta no sábado à noite, no Weston Regional Park, com a banda FLAVOR. Perto dali, a Biblioteca Regional Sudoeste, em Pembroke Pines, recebe o Storybook Festival, que completa 25 anos.",
    "highlights": [
@@ -341,7 +341,7 @@
    "image_url": "https://seabreeze-media.atl1.digitaloceanspaces.com/wp-content/uploads/sites/47/2026/11/10095345/westonnights-concert-crowd-weston-regional-park.jpg"
   },
   {
-   "id": "weston-02-20261114-md",
+   "id": "weston-02-20261114-td",
    "title": "Weston empossa Bernardini e Ortega na comissão na segunda, 16",
    "summary": "Patricia Bernardini e Alfredo Ortega, eleitos em 3 de novembro, tomam posse na Comissão Municipal de Weston na reunião de segunda-feira, às 19h. Em seguida, a comissão escolhe o vice-prefeito e vota subsídios para parques e árvores.",
    "highlights": [
@@ -357,228 +357,308 @@
    "image_url": "https://westonjournal.com/img/weston-commission-swearing-in-nov-16.webp"
   },
   {
-   "id": "miami-01-20261114-md",
-   "title": "Atrasos e cancelamentos continuam no MIA e no FLL após paralisação da FAA",
-   "summary": "Os aeroportos do Sul da Flórida seguiam com transtornos neste sábado após a paralisação nacional de voos de sexta. Às 9h, o FlightAware apontava 128 cancelamentos e 149 atrasos em Miami e 142 cancelamentos em Fort Lauderdale.",
+   "id": "miami-01-20261114-td",
+   "title": "Policial suspenso de Miami Gardens não será acusado; defesa planeja processo",
+   "summary": "A Promotoria de Miami-Dade decidiu não apresentar acusações contra o policial Kolei McKinney Sr., preso em julho em Opa-locka num caso ligado a violência doméstica. O advogado dele vai processar o agente que fez a prisão.",
    "highlights": [
-    "Números variam ao longo da manhã",
-    "Falha ligada a roteadores e switches antigos",
-    "Recomendação é checar o voo com a companhia"
+    "Defesa alega que não havia causa provável para a prisão",
+    "McKinney está suspenso sem salário há cinco meses",
+    "Advogado pede reintegração com pagamento em Miami Gardens"
    ],
-   "body": "Os transtornos continuaram neste sábado nos aeroportos do Sul da Flórida, depois da paralisação nacional de decolagens causada por uma falha de comunicações da FAA na sexta-feira. Às 9h, o FlightAware registrava ao menos 128 cancelamentos e 149 atrasos no Aeroporto Internacional de Miami (MIA). No Aeroporto Internacional Fort Lauderdale-Hollywood (FLL), eram 142 cancelamentos e 40 atrasos às 8h47, números que oscilavam ao longo da manhã.\n\nA paralisação durou mais de quatro horas e terminou por volta das 20h15 de sexta. Autoridades federais ligaram a pane a equipamentos antigos do controle de tráfego aéreo, como switches e roteadores que ficaram sobrecarregados, e o secretário de Segurança Interna, Markwayne Mullin, disse não haver evidência de ataque cibernético. Na sexta à noite, quase 400 voos que saíam do MIA estavam atrasados.\n\n\"Vai ser lento\", alertou o secretário de Transportes, Sean Duffy, pedindo que passageiros consultem as companhias. Um especialista em aviação disse à CBS News Miami que novos problemas podem ocorrer enquanto o sistema é modernizado.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/south-florida-airports-flight-delays-cancellations-faa-ground-stop/",
-   "published_at": "2026-11-14T09:03:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/14/2b493418-7a48-4c1a-a624-010410ee37c9/thumbnail/1200x630/d9891005a6d63612b71398ad2be25a6c/cbsmiami-airport-faa-ground-stop-1.jpg"
-  },
-  {
-   "id": "miami-02-20261114-md",
-   "title": "Frente fria traz temperaturas na casa dos 10 °C ao Sul da Flórida no domingo",
-   "summary": "Uma nova frente fria deve levar as temperaturas para a faixa dos 50 °F (cerca de 10–15 °C) ao amanhecer de domingo no Sul da Flórida, com fim de semana ensolarado e seco. Weston registrou 64 °F (cerca de 18 °C) na manhã de sábado.",
-   "highlights": [
-    "Máximas no início dos 70 °F no sábado",
-    "Temperaturas abaixo da média por pelo menos uma semana",
-    "Não deve fazer frio suficiente para \"iguanas congeladas\""
-   ],
-   "body": "Os moradores do Sul da Flórida enfrentam um fim de semana fresco com a passagem de uma frente fria. Segundo a equipe de meteorologia da CBS News Miami, uma nova onda de ar mais frio chega na noite de sábado, com mínimas no início dos 60 °F (cerca de 16 °C) durante a noite e na faixa dos 50 °F (cerca de 10–15 °C) ao amanhecer de domingo. O tempo seguirá ensolarado e seco, com máximas no início dos 70 °F (cerca de 22 °C) no sábado e em meados ou fim dos 70 °F no domingo.\n\nNa manhã de sábado, as temperaturas chegaram a ficar até 11 graus Fahrenheit abaixo das de sexta. Weston e Miami Beach marcaram 64 °F (cerca de 18 °C), enquanto Fort Lauderdale, Miramar, Doral e Florida City ficaram em torno de 66 °F. As temperaturas devem seguir abaixo da média sazonal de 81 °F por pelo menos uma semana.\n\nE as famosas \"iguanas congeladas\"? Segundo o especialista em vida selvagem Ron Magill, os répteis ficam lentos abaixo de 50 °F (10 °C) e só entram em estado de dormência — podendo cair das árvores — quando os termômetros chegam a meados dos 40 °F (cerca de 7 °C). Ou seja, o frio de domingo não deve ser suficiente.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/south-florida-miami-cold-front-weekend-temperatures-frozen-iguanas/",
-   "published_at": "2026-11-14T10:05:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/0e3f3df5-d7d2-4e0e-84d1-dc9c8227a3c2/thumbnail/1200x630/8f0c8683e3fc2d3a1998f2eab026ce25/cbsmiami-cold-front-miami-sunday-1.jpg"
-  },
-  {
-   "id": "miami-03-20261114-md",
-   "title": "Homem de Miami pega dois anos de prisão por ameaçar matar Marco Rubio e Kristi Noem",
-   "summary": "Jon Christopher Enriquez, de 47 anos, foi condenado a dois anos de prisão federal por publicar no X ameaças de morte contra o secretário de Estado Marco Rubio e Kristi Noem. Ele havia se declarado culpado de três acusações.",
-   "highlights": [
-    "Três posts publicados em 27 de maio",
-    "Mensagens indicavam horários das \"execuções\"",
-    "Caso investigado pelo Serviço de Segurança Diplomática"
-   ],
-   "body": "Um morador de Miami foi condenado a dois anos de prisão federal por publicar ameaças de morte na internet contra o secretário de Estado, Marco Rubio, e a ex-secretária de Segurança Interna Kristi Noem, informaram promotores federais. Jon Christopher Enriquez, de 47 anos, havia se declarado culpado de três acusações de transmitir ameaças por meios de comunicação interestaduais.\n\nSegundo os autos, Enriquez fez três publicações no X em 27 de maio ameaçando matar Rubio e Noem — então enviada especial do Escudo das Américas, iniciativa de segurança regional liderada pelos EUA. As mensagens, postadas ao longo da tarde, incluíam horários específicos em que os dois seriam \"executados\", segundo o Departamento de Justiça.\n\n\"Quem acha que pode se esconder atrás de um teclado enquanto ameaça matar líderes do país deve pensar duas vezes\", disse a procuradora interina do Distrito Sul da Flórida, Yara Lorenzo Klukas. O caso foi investigado pelo Serviço de Segurança Diplomática com apoio de outras agências, incluindo a polícia de Miami e o Gabinete do Xerife de Miami-Dade.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/miami-man-prison-death-threats-marco-rubio-kristi-noem/",
-   "published_at": "2026-11-14T08:31:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/d627ad75-931f-4656-9e3a-6184339733e6/thumbnail/1200x630/2f5bd5e778bcd069009d4fa2bb32f1b9/cbsmiami-rubio-noem-1.jpg"
-  },
-  {
-   "id": "miami-04-20261114-md",
-   "title": "Procurador-geral da Flórida diz que proibição de \"bump stocks\" é inconstitucional",
-   "summary": "O procurador-geral James Uthmeier anunciou que seu gabinete deixará de defender a proibição estadual de \"bump stocks\" em recursos contra condenações, por considerá-la contrária à Segunda Emenda. A lei, aprovada após o massacre de Parkland em 2018, continua em vigor.",
-   "highlights": [
-    "Lei integrou pacote aprovado após o massacre de Parkland",
-    "Suprema Corte derrubou proibição federal em 2024",
-    "Acessório acelera o disparo de armas semiautomáticas"
-   ],
-   "body": "O procurador-geral da Flórida, James Uthmeier, anunciou que seu gabinete não vai mais defender a proibição estadual de \"bump stocks\" em recursos de condenações baseadas na lei, argumentando que a norma de 2018 viola a Segunda Emenda. É uma mudança importante de posição sobre uma medida aprovada após o massacre na escola Marjory Stoneman Douglas, em Parkland, que deixou 17 mortos. \"Como está escrita, a lei, excessivamente ampla, parece restringir o uso de acessórios para fins legais, sujeitando donos de armas a cinco anos de prisão\", escreveu Uthmeier no X.\n\nOs \"bump stocks\" usam o recuo da arma para acelerar os disparos de armas semiautomáticas. Eles viraram alvo após o massacre de Las Vegas, em 2017, que matou 58 pessoas. O governo federal os proibiu, mas a Suprema Corte derrubou a proibição em 2024, por 6 a 3, entendendo que não transformam armas em metralhadoras pela lei federal — sem decidir sobre a Segunda Emenda.\n\nO anúncio não revoga a proibição estadual, que continua valendo. A lei de 2018 também elevou de 18 para 21 anos a idade mínima para comprar rifles e criou a \"red flag law\", que permite retirar armas de pessoas consideradas perigosas por ordem judicial.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/florida-attorney-general-james-uthmeier-bump-stock-ban-unconstitutional/",
-   "published_at": "2026-11-14T07:30:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/512dd45b-cd33-4314-834a-6867d5ecc6e1/thumbnail/1200x630/068ccd251a541128958ea5f8bb740353/cbsmiami-florida-bump-stocks-uthmeier-1.jpg"
-  },
-  {
-   "id": "miami-05-20261114-md",
-   "title": "Homem de Broward é preso por enviar cartão com pasta de amendoim a mulher alérgica",
-   "summary": "Joseph Gerard Cancellare Jr., de 68 anos, de Plantation, foi preso acusado de enviar pelo correio um cartão lambuzado de pasta de amendoim para a melhor amiga de sua ex-mulher, que tem alergia potencialmente fatal. Ela teve urticária e formigamento nos braços.",
-   "highlights": [
-    "Acusações incluem agressão agravada com arma letal",
-    "Selos foram rastreados até cartão de crédito do suspeito",
-    "Vítima diz que ele a culpava pelo divórcio"
-   ],
-   "body": "Um homem de 68 anos do condado de Broward foi preso na sexta-feira pela polícia de Plantation acusado de enviar pelo correio um cartão lambuzado de pasta de amendoim a uma mulher com alergia grave e potencialmente fatal ao amendoim — a melhor amiga de sua ex-mulher. Joseph Gerard Cancellare Jr. responde por negligência culposa que expõe outra pessoa a dano e agressão agravada com arma letal, segundo o boletim de prisão.\n\nA investigação começou em 14 de agosto, quando a vítima encontrou na caixa de correio um envelope azul com aparência gordurosa. Ao abrir, viu uma substância marrom espalhada no cartão e a reconheceu como pasta de amendoim. Ela correu para lavar as mãos e teve urticária e formigamento nos dois braços por cerca de seis horas.\n\nCom ajuda do Serviço Postal dos EUA, a polícia rastreou os selos até uma compra em um quiosque em Davie, paga com um cartão Visa de Cancellare. A vítima, que conhece o suspeito há cerca de 20 anos, disse que ele sabia da gravidade da alergia e a culpava pelo divórcio litigioso com a amiga.",
+   "body": "Um policial suspenso de Miami Gardens que não será acusado num caso ligado a violência doméstica pretende processar a polícia de Opa-locka, disse seu advogado. A Promotoria de Miami-Dade registrou decisão de não dar prosseguimento ao caso contra Kolei Kulani McKinney Sr., de 41 anos, preso em 30 de julho em Opa-locka. \"Só quero seguir em frente com a minha vida\", disse McKinney na saída do tribunal.\n\nO advogado Stephan Lopez afirmou que vai processar o policial responsável pela prisão por falta de causa provável, e pediu que Miami Gardens reintegre McKinney com salário — ele está suspenso sem pagamento há cinco meses. McKinney, veterano com 20 anos na Marinha, disse querer voltar ao departamento e \"limpar seu nome\"; sua mulher, Kennisha, classificou o caso como \"constrangedor\" e criticou a investigação.\n\nSegundo as autoridades, ele havia sido preso após a polícia de Opa-locka investigar denúncias de que, em 17 de julho, ameaçou a namorada com uma arma durante uma discussão, a estrangulou e depois tentou convencê-la a não colaborar com os investigadores.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/14/sticky-situation-broward-man-accused-of-mailing-peanut-butter-to-woman-with-life-threatening-allergy/",
-   "published_at": "2026-11-14T09:33:17-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/QW7L7IE3BRBBVA522HRZDLPD7U.jpg?auth=2083c119ccf6fa70a98549d01bbd57353458ae71f6d46d8177020aaae997f171&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/14/suspended-miami-gardens-cop-wont-face-charges-in-domestic-violence-case-attorney-plans-lawsuit/",
+   "published_at": "2026-11-14T13:15:45-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-14-2026%2Ft_dd441cf8eec3407ba062b6ab6e6aae1a_name_49637050693_hdtv.jpg?auth=c2ff56f009781d6b129bb86fe09156a0863fcdeb28efc091732117a2a559efb6&width=700"
   },
   {
-   "id": "miami-06-20261114-md",
-   "title": "Motociclista morre e motorista fica em estado grave após acidente com incêndio em Fort Lauderdale",
-   "summary": "Um motociclista morreu e o motorista de um carro ficou gravemente ferido em um acidente na madrugada de sábado em Fort Lauderdale. O veículo pegou fogo após a batida.",
+   "id": "miami-02-20261114-td",
+   "title": "Polícia de Boynton Beach procura menino de 11 anos desaparecido",
+   "summary": "A polícia de Boynton Beach continua as buscas por Chledens Deshommes, de 11 anos, considerado desaparecido e em perigo. Ele foi visto pela última vez por volta das 19h de sexta-feira, saindo a pé de uma área da Northeast Sixth Avenue.",
    "highlights": [
-    "Socorristas chegaram pouco depois da 1h30",
-    "Motorista foi levado ao Broward Health Medical Center",
-    "Circunstâncias do acidente não foram divulgadas"
+    "Menino tem cerca de 1,52 m e 54 kg",
+    "Usava camiseta preta e bermuda azul de basquete",
+    "Informações: 561-732-8116"
    ],
-   "body": "Um motociclista morreu e outro motorista sofreu ferimentos com risco de morte após um acidente na madrugada deste sábado em Fort Lauderdale, segundo o Corpo de Bombeiros e Resgate da cidade. As equipes foram acionadas pouco depois da 1h30, e o veículo envolvido pegou fogo após a colisão.\n\nO motorista do carro foi levado ao centro de trauma do Broward Health Medical Center. O motociclista, cuja identidade, idade e sexo não foram divulgados, morreu no local. As autoridades ainda não informaram o que provocou o acidente.",
+   "body": "A polícia de Boynton Beach, no condado de Palm Beach, continua procurando um menino de 11 anos considerado desaparecido e em perigo, confirmaram as autoridades neste sábado. Segundo o departamento, Chledens Deshommes foi visto pela última vez por volta das 19h de sexta-feira, perto do quarteirão 100 da Northeast Sixth Avenue.\n\nEle tem cerca de 1,52 m de altura e 54 kg, cabelo preto curto e olhos castanhos, e foi visto deixando a área a pé, vestindo camiseta preta e bermuda azul de basquete. Quem tiver informações deve ligar para a central não emergencial da polícia de Boynton Beach, no 561-732-8116.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/14/motorcyclist-killed-driver-critically-injured-in-fiery-fort-lauderdale-crash-first-responders-say/",
-   "published_at": "2026-11-14T07:29:21-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/SOCYRVNZTJDJNCVH6G4F7BVUNA.jpg?auth=77615ccebbbb12713690d9b9bf529a2eacbce3467840d2a573de598675a73ce5&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/14/boynton-beach-police-seek-11-year-old-boy-reported-missing-endangered/",
+   "published_at": "2026-11-14T13:54:31-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/X2W57EYBNRDALDTWLULWEWSKNY.jpg?auth=a5846f978cbf9790cec6a7c22ea8b9c82fdce05f7aef4798415f333378b37130&width=700"
   },
   {
-   "id": "miami-07-20261114-md",
-   "title": "Mecânico de 72 anos descobre defeito cardíaco raro normalmente achado em bebês",
-   "summary": "Carlos Perez, de 72 anos, descobriu que tinha cor triatriatum, uma condição congênita rara em que o coração tem cinco câmaras em vez de quatro. O caso foi tratado no instituto cardíaco do Baptist Health Miami.",
+   "id": "miami-03-20261114-td",
+   "title": "\"Big Papi\" reúne astros em torneio de golfe beneficente em Palm Beach Gardens",
+   "summary": "O ex-jogador David \"Big Papi\" Ortiz promove neste fim de semana o 18º torneio anual de golfe com celebridades em Palm Beach Gardens. O evento arrecada fundos para cirurgias cardíacas em crianças da República Dominicana e da Nova Inglaterra.",
    "highlights": [
-    "Condição afeta cerca de 1 em 10 mil bebês com cardiopatia",
-    "Diagnóstico veio após episódio de fibrilação atrial",
-    "Pequena abertura na membrana o manteve vivo"
+    "A-Rod, Johnny Damon, Emmitt Smith e Bobby Orr estão entre os convidados",
+    "Evento já arrecadou quase US$ 16 milhões até 2025",
+    "Cada US$ 5 mil pagam uma cirurgia, diz a fundação"
    ],
-   "body": "O mecânico Carlos Perez, de 72 anos, terminava o expediente em sua oficina em junho de 2025 quando o coração disparou e o peito começou a doer. No hospital, os médicos constataram fibrilação atrial — batimento irregular que, sem tratamento, pode levar a AVC ou insuficiência cardíaca. O ritmo se estabilizou em 90 minutos, mas nenhum exame explicava a causa, até que um exame avançado revelou algo que muitos médicos só conheciam dos livros.\n\nPerez tinha cor triatriatum, uma condição congênita em que uma membrana divide um dos átrios, deixando o coração com cinco câmaras em vez de quatro. Segundo o cardiologista Wayne Franklin, do Children's National Hospital, cerca de 0,8% dos bebês nascem com cardiopatia congênita, e o cor triatriatum responde por 0,1% desses casos. Normalmente é diagnosticado no útero ou na infância, ou no máximo entre os 30 e 40 anos.\n\n\"A maioria dos pacientes com essa condição não sobrevive tanto tempo\", disse Tom Nguyen, do Baptist Health Miami Cardiac & Vascular Institute. O que salvou Perez foi uma pequena abertura na membrana, que permitia ao sangue circular de forma quase normal, mas que foi se estreitando com a idade até provocar a arritmia.",
+   "body": "O astro do beisebol David \"Big Papi\" Ortiz está levando grandes nomes do esporte a Palm Beach Gardens neste fim de semana para seu 18º torneio anual de golfe com celebridades, que arrecada dinheiro para cirurgias cardíacas e cuidados médicos de crianças. O evento de três dias, \"Weekend with Papi\", começou no sábado no PGA National Members Club e apoia o David Ortiz Children's Fund, que atende crianças na República Dominicana, terra natal de Ortiz, e na Nova Inglaterra.\n\nEntre os participantes esperados estão ex-astros da MLB como Alex Rodriguez, Johnny Damon, Barry Larkin, Ivan \"Pudge\" Rodriguez, Prince Fielder e Vladimir Guerrero Sr., lendas da NFL como Emmitt Smith, Warren Sapp e Jevon Kearse, além de Bobby Orr e do ex-campeão de boxe Winky Wright.\n\nAté 2025, o evento havia arrecadado quase US$ 16 milhões, ajudando a salvar mais de 1.900 crianças com cirurgias e a assistir outras 19 mil, segundo a fundação, criada em 2007. A presidente, Hallie Lorber, disse que cada US$ 5 mil arrecadados pagam uma cirurgia e que a mortalidade entre as crianças atendidas caiu de 6% para 3,4%.",
    "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/heart-defect-cor-triatriatum-diagnosis/",
-   "published_at": "2026-11-14T08:00:15-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/24/296df983-ff02-40ab-946e-58607827feef/thumbnail/1200x630/a5553d748429cb8d2849ac5c43ba6ba7/carlos-perez-photo-i.jpg"
+   "source": "Local 10",
+   "url": "https://www.local10.com/sports/local/2026/11/14/big-papi-hosts-18th-annual-celebrity-golf-tournament-to-benefit-childrens-heart-surgeries/",
+   "published_at": "2026-11-14T11:39:19-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-14-2026%2Ft_d26152c0aedf47ce94990d1c001c8865_name_49635499403_hdtv.jpg?auth=919f9665697a4c303c28243a739b86a77f1b313c2c021dc360bea78a1d08d81a&width=700"
   },
   {
-   "id": "tecnologia-01-20261114-md",
-   "title": "Microsoft diz ter restabelecido totalmente serviços após pane global",
-   "summary": "A Microsoft informou na manhã de sábado que restaurou o serviço para todos os clientes e regiões afetados por uma das piores falhas de TI em anos. A pane, iniciada na quinta, atingiu governos, tribunais, hospitais, bancos e companhias aéreas.",
+   "id": "miami-04-20261114-td",
+   "title": "Edição genética pode ajudar a recuperar a citricultura da Flórida",
+   "summary": "Uma empresa da região de Tampa usa a tecnologia CRISPR para criar porta-enxertos de laranjeira resistentes ao greening, doença que devastou pomares da Flórida. A ferramenta foi aprovada pela Agência de Proteção Ambiental (EPA).",
    "highlights": [
-    "NHS inglês voltou ao papel durante a falha",
-    "Governos de Japão, Singapura e Austrália foram afetados",
-    "Detalhes ficam no incidente MO1550821"
+    "Porta-enxerto Carricea T1 reduz bactéria em mais de mil vezes",
+    "Árvores chegam a crescer o dobro das de controle",
+    "Cerca de 1 milhão de árvores já em produção"
    ],
-   "body": "A Microsoft afirmou que seus serviços foram totalmente restabelecidos após uma pane maciça que causou transtornos a governos, empresas e serviços públicos no mundo todo. Na página de status do Microsoft 365, a empresa disse na manhã de sábado ter concluído a correção do problema de fundo e restaurado o serviço aos clientes e regiões que ainda estavam afetados, com atualizações no incidente MO1550821.\n\nA falha, que começou na quinta-feira, atingiu governos como os de Japão, Singapura e Austrália, além de tribunais, serviços de saúde, empresas, companhias aéreas e bancos. No Reino Unido, funcionários de hospitais do NHS recorreram a registros em papel e um sindicato relatou \"impacto sério\" nos serviços de ambulância; num tribunal de Manchester, funcionários correram atrás de um aparelho de fax.\n\nNos EUA, escolas pediram que pais usassem telefone ou aplicativos, e funcionários da Câmara dos Representantes disseram ter perdido um dia de trabalho. Na Europa, órgãos públicos na Holanda, Bélgica e França relataram problemas, e companhias aéreas indianas tiveram o suporte por e-mail afetado.",
+   "body": "A icônica laranja da Flórida enfrenta há anos doenças e geadas, mas cientistas e produtores apostam numa nova tecnologia de edição genética para recuperar o setor. A empresa Soilcea, da região de Tampa, usa CRISPR para criar um sistema de raízes resistente à bactéria do greening (citrus greening), doença que pode matar as árvores e devastou os pomares do estado nas últimas duas décadas. A ferramenta foi aprovada pela Agência de Proteção Ambiental dos EUA.\n\n\"Antes de você ver o primeiro sintoma no fruto, 50% do sistema de raízes já está morto\", explicou o CEO Yianni Lagos. O porta-enxerto editado, chamado Carricea T1, é enxertado em laranjeiras Valencia e, segundo ele, reduz em mais de mil vezes a quantidade de bactérias na árvore — de 6 a 7 milhões de cópias numa árvore comum para alguns milhares. A técnica edita genes já existentes em vez de introduzir genes novos, e pode reduzir o uso de pulverizações químicas.\n\nLagos disse que árvores de três anos no campo crescem muito mais rápido, algumas com o dobro do tamanho das de controle, e que há cerca de 1 milhão de árvores em produção com a tecnologia. A Soilcea agora trabalha para produzir o porta-enxerto em massa e firmar parcerias com viveiros de todo o estado.",
+   "category": "miami",
+   "source": "NBC 6 Miami",
+   "url": "https://www.nbcmiami.com/news/local/new-gene-editing-technology-could-help-floridas-struggling-citrus-industry-recover/3886223/",
+   "published_at": "2026-11-14T12:17:24-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/52669324989-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+   "id": "miami-05-20261114-td",
+   "title": "Ligação ao 911 detalha emergência em clínica de Miami antes de morte de paciente",
+   "summary": "A NBC6 obteve a gravação do 911 e o laudo de autópsia de Jennifer Arias, mãe de 29 anos de Nova York que morreu após lipoaspiração e BBL numa clínica de Miami em agosto. O legista apontou embolia gordurosa nos dois pulmões.",
+   "highlights": [
+    "Paciente perdia oxigenação ao fim do procedimento, diz a gravação",
+    "Morte foi classificada como acidente",
+    "Lei da Flórida exige ultrassom durante BBL"
+   ],
+   "body": "Surgem novos detalhes sobre a morte de Jennifer Arias, de 29 anos, mãe nova-iorquina que viajou a Miami para fazer cirurgia plástica em agosto. A equipe NBC6 Investigates obteve a gravação da ligação ao 911 feita no dia da emergência e o laudo da autópsia. Arias foi à clínica New Life Plastic Surgery na manhã de 13 de agosto para uma lipoaspiração e um BBL (lifting de glúteos brasileiro); horas depois, alguém da clínica relatou que a paciente estava \"dessaturando\" no fim do procedimento e pediu apoio do resgate.\n\nEla foi levada ao HCA Florida Kendall Hospital, onde não resistiu. O Instituto Médico Legal de Miami-Dade concluiu que a causa da morte foi embolia gordurosa nos dois pulmões decorrente das cirurgias e a classificou como acidente. Segundo a NBC6, essa complicação aparece em mais de uma dúzia de mortes ligadas ao BBL no Sul da Flórida: quando a gordura é injetada fundo demais no músculo, pode entrar na corrente sanguínea.\n\nA lei da Flórida passou a exigir ultrassom durante o BBL para evitar a injeção no músculo glúteo, mas a autópsia de Arias encontrou glóbulos de gordura nesses músculos. O advogado da família, Christopher Russomanno, diz que esse é um problema \"muito sério e mortal\" no setor de plástica da região.",
+   "category": "miami",
+   "source": "NBC 6 Miami",
+   "url": "https://www.nbcmiami.com/investigations/911-call-autopsy-patient-death-plastic-surgery-clinic/3888000/",
+   "published_at": "2026-11-13T19:34:44-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/Jennifer-Arias-new-life-surgery-miami.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+   "id": "miami-06-20261114-td",
+   "title": "Governo exalta recorde de deportações; republicanos do Sul da Flórida veem custo político",
+   "summary": "O governo Trump diz ter deportado mais de 483 mil pessoas no ano fiscal de 2026, recorde histórico. Mas republicanos do Sul da Flórida, como Carlos Gimenez e Mario Díaz-Balart, reconhecem que a repressão migratória pesou nas urnas.",
+   "highlights": [
+    "Cerca de meio milhão de prisões por imigração no ano fiscal",
+    "Salazar venceu por margem que levou a recontagem",
+    "Trump admitiu que política \"talvez seja dura demais\""
+   ],
+   "body": "O governo Trump está exaltando números recordes de deportação no ano fiscal de 2026, enquanto republicanos proeminentes do Sul da Flórida reconhecem que a fiscalização migratória agressiva virou um passivo eleitoral. Segundo o Departamento de Segurança Interna, foram mais de 483 mil deportações e cerca de meio milhão de prisões — o maior número da história da agência e mais de oito vezes o registrado no ano fiscal de 2021.\n\nO deputado Carlos Gimenez disse à Fox News que muitos hispânicos da região \"não gostaram da fiscalização migratória\". Mario Díaz-Balart, reeleito por margem apertada num distrito tradicionalmente republicano, afirmou ter alertado o governo de que a política era um erro político e \"ruim\". María Elvira Salazar, que já havia criticado os excessos antes da eleição, venceu Eliott Rodriguez por margem tão estreita que provocou recontagem.\n\nO próprio Trump disse ao 60 Minutes que a abordagem \"talvez seja dura demais\" e que aceitaria trabalhar com democratas, mas sem \"anistia\". A nomeação de Stephen Miller, arquiteto da linha-dura migratória, como chefe de gabinete aumenta a incerteza sobre os próximos passos.",
+   "category": "miami",
+   "source": "NBC 6 Miami",
+   "url": "https://www.nbcmiami.com/news/local/trump-administration-record-deportations-republicans-political-fallout/3887918/",
+   "published_at": "2026-11-13T17:29:58-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/GettyImages-2224826639.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+   "id": "miami-07-20261114-td",
+   "title": "Vídeo mostra prisão do 3º suspeito em sequestro e assassinato em North Miami",
+   "summary": "Um terceiro suspeito foi preso no caso que envolveu sequestro, tiroteio em North Miami e um assassinato com carro queimado no sudoeste de Miami-Dade. Sheldon Diaz, de 32 anos, foi detido numa blitz de trânsito em Tampa.",
+   "highlights": [
+    "Suspeitos se passaram por policiais com luzes azuis e vermelhas",
+    "Deputados acharam US$ 10 mil e vários celulares no carro",
+    "Vítima foi identificada como Eddrick Bethune, de 22 anos"
+   ],
+   "body": "Um terceiro suspeito foi preso numa série de crimes que incluiu um sequestro e um tiroteio em North Miami — com pessoas filmadas pulando da janela de um apartamento — e um assassinato seguido de incêndio de carro no sudoeste de Miami-Dade. Sheldon Diaz, de 32 anos, foi parado em 5 de novembro, perto da meia-noite, em Tampa, por dirigir a 80 km/h numa zona de 56 km/h com placa temporária irregular, e tinha mandados de Miami-Dade por tentativa de homicídio e por se passar por policial.\n\nO vídeo da câmera corporal mostra o deputado se aproximando calmamente e depois avisando pelo rádio: \"Meu motorista tem mandado por homicídio\". Segundo o xerife de Hillsborough, foram encontrados no carro uma caneta de resina de THC, US$ 10 mil em dinheiro e vários celulares. Outros dois homens, Devorise Carl Johnson, 21, e Naquon Jahrell Fagan, 25, já haviam sido presos.\n\nDe acordo com o boletim, em 3 de outubro cinco homens esperaram a vítima, Eddrick Bethune, de 22 anos, sair do Aliro Apartments, na Biscayne Boulevard, e chegaram num Toyota Camry com luzes azuis e vermelhas; dois deles, armados e com camisas escritas \"Police\", o algemaram. O papel exato de Diaz ainda não foi divulgado.",
+   "category": "miami",
+   "source": "NBC 6 Miami",
+   "url": "https://www.nbcmiami.com/news/local/bodycam-north-miami-murder-suspect-arrest/3887832/",
+   "published_at": "2026-11-13T15:35:29-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/Sheldon-Diaz-Hillsborough-County-BWC-arrest.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+   "id": "miami-08-20261114-td",
+   "title": "Plano para novo Miami Seaquarium corre risco após adiamento de votação",
+   "summary": "Um comitê do condado de Miami-Dade adiou a votação do contrato de 249 páginas para a reconstrução do Miami Seaquarium pelo Terra Group, alegando falta de tempo para análise. O atraso pode pôr em risco todo o acordo.",
+   "highlights": [
+    "Comitê recebeu o contrato 20 horas antes da reunião",
+    "Tribunal de falências exige contrato pronto até 31 de dezembro",
+    "Projeto prevê centro de conservação e parque aberto ao público"
+   ],
+   "body": "O futuro da reconstrução do Miami Seaquarium ficou em risco depois que o Comitê de Recreação, Turismo e Resiliência do condado de Miami-Dade adiou a votação do contrato de arrendamento proposto, de 249 páginas. Segundo o presidente do comitê, René García, o documento chegou apenas 20 horas antes da reunião. \"Não há como aprovar um contrato dessa magnitude sem tempo para analisá-lo\", disse.\n\nO adiamento pode comprometer o acordo: García afirmou que o tribunal de falências e os credores indicaram que, se o contrato não estiver pronto até 31 de dezembro, o projeto voltará a ser oferecido, o que ameaça a parceria com o Terra Group. O CEO da empresa, David Martin, disse que o plano inclui um centro de educação para conservação, um novo aquário e um grande parque e calçadão à beira da baía sem cobrança de ingresso, além de parceria com cientistas da Universidade de Miami e preservação do histórico Golden Dome.\n\nGarcía disse querer garantir proteção à vida marinha e ao meio ambiente e retorno justo ao contribuinte. O próximo passo depende da presidência da Comissão do Condado, que teria de convocar uma reunião de emergência para discutir e aprovar o contrato.",
+   "category": "miami",
+   "source": "NBC 6 Miami",
+   "url": "https://www.nbcmiami.com/news/local/miami-seaquariums-future-is-at-risk-heres-what-could-happen-next/3887522/",
+   "published_at": "2026-11-12T22:17:38-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/Futuro-incierto-para-el-Miami-Seaquarium.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+   "id": "miami-09-20261114-td",
+   "title": "Christmas Wonderland volta ao Tropical Park com roda-gigante de 70 metros",
+   "summary": "A atração natalina Christmas Wonderland reabriu no Tropical Park, em Miami, com luzes, brinquedos, comida, música e Papai Noel. A novidade é a roda-gigante America 250 Wheel, de 230 pés (cerca de 70 metros).",
+   "highlights": [
+    "Organizador diz que é a maior roda-gigante itinerante do mundo",
+    "Evento vai até 3 de janeiro de 2027",
+    "Endereço: 7900 SW 40th St., Miami"
+   ],
+   "body": "O Christmas Wonderland abriu na quinta-feira no Tropical Park, levando luzes de Natal, brinquedos, jogos, comida, música e Papai Noel ao Sul da Flórida. Entre as novidades deste ano está a America 250 Wheel, roda-gigante que se eleva 230 pés (cerca de 70 metros) acima do parque. \"Para ter uma ideia, a de Bayside tem pouco menos de 200 pés\", disse o produtor executivo Tony Albelo. \"É a maior roda-gigante itinerante do mundo.\"\n\nEntre os primeiros visitantes estavam famílias que fazem do evento uma tradição. \"Fazemos o Natal ao estilo tropical. Sendo do Sul da Flórida, estamos acostumados ao calor, mas ainda tornamos tudo mágico\", disse Kiana Latiff, que chegou com os dois filhos e foi a primeira da fila. O Christmas Wonderland fica aberto até domingo, 3 de janeiro de 2027, no Tropical Park (7900 SW 40th St., Miami).",
+   "category": "miami",
+   "source": "NBC 6 Miami",
+   "url": "https://www.nbcmiami.com/news/local/christmas-wonderland-returns-to-tropical-park/3887529/",
+   "published_at": "2026-11-12T22:25:40-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/Christmas-Wonderland-Tropical-Park.png?resize=1200%2C675&quality=85&strip=all"
+  },
+  {
+   "id": "miami-10-20261114-td",
+   "title": "Estudo da FIU questiona adaptações comuns para alunos com TDAH",
+   "summary": "Um estudo da Florida International University publicado na JAMA Pediatrics concluiu que intervenções comportamentais e medicação melhoram o desempenho de alunos com TDAH. Já adaptações populares, como tempo extra e mesas de pé, não trouxeram ganhos significativos.",
+   "highlights": [
+    "Intervenções comportamentais cortaram 37% das violações de regras",
+    "Medicação estimulante reduziu violações em 61%",
+    "Cerca de 200 crianças do jardim ao 6º ano foram acompanhadas"
+   ],
+   "body": "Um estudo da Florida International University (FIU), publicado na revista JAMA Pediatrics, concluiu que intervenções comportamentais reduziram em 37% as violações de regras em sala de aula de alunos com transtorno de déficit de atenção e hiperatividade (TDAH), em comparação com uma sala comum. A medicação estimulante também teve bons resultados, cortando as violações em 61% e ajudando os alunos a concluir mais tarefas corretamente.\n\nPor outro lado, ferramentas consideradas marcas registradas do apoio a esses alunos — como tempo extra, pausas frequentes, ambientes silenciosos e mesas de pé — não melhoraram significativamente o comportamento nem as notas, e algumas até reduziram a produtividade. \"No começo ficamos surpresos\", disse o professor de psicologia Gregory Fabiano. Os pesquisadores acompanharam cerca de 200 crianças, do jardim de infância ao 6º ano, no Summer Treatment Program da FIU.\n\nA recomendação é definir expectativas claras, dar retorno e elogios constantes e recompensar as crianças quando cumprem metas. O trabalho amplia décadas de pesquisa do falecido William E. Pelham Jr., fundador do Centro para Crianças e Famílias da FIU.",
+   "category": "miami",
+   "source": "WSVN",
+   "url": "https://wsvn.com/news/local/miami-dade/adhd-study-challenges-common-accommodations/",
+   "published_at": "2026-11-13T17:55:03-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111326-fiu-adhd-student-classroom-study-file.png"
+  },
+  {
+   "id": "tecnologia-01-20261114-td",
+   "title": "Tesla abre pré-venda do Cybercab para uso pessoal, com taxa de US$ 299 por mês",
+   "summary": "A Tesla abriu a \"clientes selecionados\" a pré-encomenda do Cybercab autônomo para uso pessoal, por US$ 29.990 mais US$ 299 mensais. A entrega só pode ser feita em algumas cidades do Texas, e o carro operará apenas em áreas delimitadas.",
+   "highlights": [
+    "Entrega estimada para dezembro de 2026",
+    "Musk diz que a taxa mensal está \"alta demais\"",
+    "Cybercab funcionará nas mesmas áreas do Robotaxi"
+   ],
+   "body": "A Tesla informou na sexta-feira à noite que \"clientes selecionados\" já podem fazer a pré-encomenda do Cybercab, seu carro autônomo dourado, \"para uso pessoal\". Segundo o revisor de tecnologia Marques Brownlee, os compradores precisam aceitar a entrega em uma de poucas cidades do Texas, e o veículo só operará em áreas geográficas delimitadas; a entrega estimada é dezembro de 2026. Além do preço de US$ 29.990, os donos terão de pagar US$ 299 por mês para operar o veículo.\n\nEm resposta a Brownlee, Elon Musk disse que o Cybercab \"estará disponível em todo o país à medida que recebermos aprovação regulatória\" e que a mensalidade está \"alta demais\", devendo se igualar ao custo do Full Self-Driving e da conectividade de outros modelos, \"algo como US$ 115 por mês\". O executivo Ashok Elluswamy explicou que o carro funcionará sem supervisão nas mesmas áreas do serviço Robotaxi, atendendo apenas às necessidades do dono.\n\nDepois de vendas muito abaixo do previsto, a Tesla anunciou recentemente que vai encerrar a produção da Cybertruck no ano que vem e usar a capacidade da fábrica para produzir mais Cybercabs.",
    "category": "tecnologia",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-   "published_at": "2026-11-14T06:54:31-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=626aaab5d918cc8e4aa6f74a887744f0"
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+   "published_at": "2026-11-14T15:04:44-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834"
   },
   {
-   "id": "tecnologia-02-20261114-md",
-   "title": "Contrato do Cybercab: sem assinatura de US$ 299 por mês, o carro da Tesla não anda",
-   "summary": "A Tesla publicou o contrato da assinatura de autonomia do Cybercab de US$ 29.990, e o texto diz que o veículo \"não vai operar sem uma assinatura ativa\". A empresa pode reajustar o preço com um mês de aviso, suspender o serviço ou reduzir a área de operação.",
+   "id": "tecnologia-02-20261114-td",
+   "title": "Governos asiáticos reagem à saída de Jensen Huang da Nvidia",
+   "summary": "A saída de Jensen Huang da Nvidia gerou reações em toda a Ásia, com governos confirmando compromissos de fornecimento de chips, monitorando projetos locais ou tratando de investigações em curso. A China rejeitou acusações de espionagem ligadas ao caso.",
    "highlights": [
-    "Cybercab não tem volante nem pedais",
-    "Uso pessoal: carro não pode ser usado para lucrar na frota",
-    "Custo em cinco anos chega a US$ 47.631, segundo o Electrek"
+    "Huang admitiu caso com Alice Huang, ex-executiva da Megaspeed",
+    "Mais de US$ 3 bilhões em projetos de IA chineses ficam em dúvida",
+    "Singapura mantém investigação sobre a Megaspeed e outras seis pessoas"
    ],
-   "body": "A Tesla publicou o contrato que acompanha o Cybercab vendido por US$ 29.990, e, segundo o Electrek, ele é ainda pior do que a página de pedidos sugeria. O \"Cybercab Autonomy Subscription Agreement\" foi ao ar no configurador na noite de sexta, horas depois de a empresa começar a convidar clientes selecionados a encomendar o carro para uso pessoal, com assinatura obrigatória de US$ 299 por mês. A frase central: \"Seu Cybercab não vai operar sem uma Assinatura de Autonomia ativa\". Como o carro não tem volante nem pedais, parar de pagar significa ter um objeto de US$ 30 mil parado na garagem.\n\nO contrato permite à Tesla reajustar o preço com um mês de aviso, suspender o serviço por uma semana ou cortá-lo, além de encolher a área geográfica onde o carro pode rodar depois da compra. A cláusula de uso pessoal impede o dono de colocar o carro na frota de robotáxis para ganhar dinheiro — o oposto do que Elon Musk prometeu por anos. Pelas contas do site, carro mais 59 meses de assinatura somam US$ 47.631 em cinco anos, sem seguro, registro, recarga e impostos.\n\nO Electrek também critica o fato de donos que pagaram até US$ 15 mil pelo \"Full Self-Driving\" ainda não terem direção autônoma sem supervisão, embora o Cybercab use o mesmo computador AI4 e o mesmo software dos Model Y robotáxis.",
+   "body": "A saída de Jensen Huang da Nvidia provocou reações variadas na Ásia, onde estão muitos dos principais parceiros da fabricante de chips. Em 8 de novembro, o conselho da Nvidia abriu uma investigação independente após reportagens de que Huang teria sido alvo de uma operação de espionagem chinesa; ele admitiu um caso com Alice Huang, ex-executiva da Megaspeed, empresa de computação em nuvem de Singapura.\n\nO Ministério das Relações Exteriores da China rejeitou como \"infundadas\" as alegações de que a empresária seria espiã e reiterou sua oposição a controles de exportação. Segundo a Reuters, a saída de Huang também gera incerteza sobre mais de US$ 3 bilhões em projetos chineses de computação de IA que dependem de processadores restritos da Nvidia.\n\nEm Singapura, as autoridades disseram ter apreendido o passaporte de Alice Huang em 2025 numa investigação sobre possíveis declarações falsas na compra de servidores; em fevereiro de 2026, a polícia não achou provas suficientes, mas a advertiu por informar dados imprecisos sobre seu cargo e a proibiu de voltar ao país. O governo diz que a investigação sobre a Megaspeed e outras seis pessoas continua, e reclamou de pouca ajuda dos EUA. A Coreia do Sul, com Samsung e SK Hynix como fornecedoras de memória, também acompanha o caso.",
    "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
-   "published_at": "2026-11-14T08:33:00-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628"
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "published_at": "2026-11-14T11:34:15-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
   },
   {
-   "id": "tecnologia-03-20261114-md",
-   "title": "GTA VI chega em 19 de novembro e pode ser o maior lançamento de games da história",
-   "summary": "\"Grand Theft Auto VI\", da Rockstar Games, será lançado em 19 de novembro, 13 anos após o anterior. A Sensor Tower estima mais de 12 milhões de pré-vendas, e o Morgan Stanley projeta 40 milhões de cópias vendidas até março de 2027.",
+   "id": "tecnologia-03-20261114-td",
+   "title": "Grandes acionistas pedem que Nvidia considere a volta de Jensen Huang",
+   "summary": "Dois grandes acionistas da Nvidia, Brad Gerstner (Altimeter) e Gavin Baker (Atreides), pediram ao conselho um processo \"lento e deliberado\" de sucessão que inclua a possível volta de Jensen Huang. Musk disse ter assinado uma petição pela reintegração.",
    "highlights": [
-    "Desenvolvimento teria custado mais de US$ 1 bilhão",
-    "Pedidos de folga para o dia do lançamento sobem 13%",
-    "PwC vê possível ganho para o turismo de Miami"
+    "Colette Kress, ex-CFO, é a CEO interina",
+    "Petição \"Stand with Jensen\" diz ter mais de 100 mil assinaturas",
+    "Secretário Lutnick vai depor no Senado em 10 de dezembro"
    ],
-   "body": "Treze anos depois do último título, \"Grand Theft Auto VI\" chega em 19 de novembro, após dois adiamentos da Rockstar Games, da Take-Two Interactive. O analista Eric Handler, da Roth, estima que o desenvolvimento tenha custado mais de US$ 1 bilhão. A Sensor Tower calcula mais de 12 milhões de pré-vendas até 13 de novembro, e o Morgan Stanley prevê 40 milhões de cópias vendidas até março de 2027. \"Nossas expectativas eram altas e estão sendo amplamente superadas\", disse o CEO da Take-Two, Strauss Zelnick.\n\nStreamers e criadores de conteúdo veem o lançamento como uma enorme oportunidade de audiência. \"Esse jogo vai criar muitos milionários em 2027\", disse o streamer Deansocool à CNBC. O efeito deve ir além dos games: a plataforma BambooHR registrou pedidos de folga para a data quase 13% acima do normal, e quase um em cada cinco trabalhadores planeja tirar o dia.\n\nUm relatório da PwC prevê aumento nos pedidos de delivery de comida e possível ganho para o turismo de Miami. As ações da Take-Two mais que dobraram desde o início de 2023.",
+   "body": "Dois grandes acionistas da Nvidia pediram ao conselho que avalie todas as opções para a liderança futura da empresa, incluindo \"o possível retorno de Jensen Huang\". O CEO da Altimeter Capital, Brad Gerstner, publicou no X uma carta, assinada também por Gavin Baker, da Atreides Management, defendendo \"um processo lento, medido e deliberado\". A Nvidia era a maior posição declarada da Altimeter, com 9,4 milhões de ações avaliadas em quase US$ 1,9 bilhão em 30 de junho.\n\nA carta diz que a empresa será \"bem conduzida\" pela CEO interina Colette Kress, CFO por 13 anos, mas que o fundador \"conquistou o direito\" a um processo que evite pressa em substituí-lo antes que todos os fatos sejam conhecidos; o texto não pede a reintegração imediata. Huang renunciou na quinta em meio a alegações de casos extraconjugais, incluindo com a suposta espiã chinesa Alice Huang, ligada à cliente Megaspeed, investigada por possível desvio de chips restritos para a China.\n\nElon Musk disse no X que assinou uma petição pela volta de Huang — a \"Stand with Jensen\" afirma ter mais de 100 mil assinaturas, incluindo 5 mil funcionários — e que, sem ele, \"acordos críticos serão perdidos\". O secretário de Comércio, Howard Lutnick, aceitou depor no Comitê Bancário do Senado em 10 de dezembro sobre o controle de exportação de chips de IA.",
    "category": "tecnologia",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-   "published_at": "2026-11-14T09:00:01-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108222691-1762463897398-gettyimages-1823162638-AFP_34728P7.jpeg?v=1762463953&w=1920&h=1080"
+   "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+   "published_at": "2026-11-14T12:35:51-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108330861-1783348415168-gettyimages-2284894623-0d6a8687_71g2vgle.jpeg?v=1794673296&w=1920&h=1080"
   },
   {
-   "id": "tecnologia-04-20261114-md",
-   "title": "Quem são os sete cofundadores da Anthropic, que estreia na bolsa em 19 de novembro",
-   "summary": "A Anthropic, criadora de IA fundada em 2021 por ex-funcionários da OpenAI, deve começar a ser negociada em bolsa em 19 de novembro, em um dos maiores IPOs da história. Cada um dos sete cofundadores tem cerca de 1,4% da empresa.",
+   "id": "tecnologia-04-20261114-td",
+   "title": "Itália multa Meta em € 805 milhões por acesso a fotos de usuários",
+   "summary": "A autoridade italiana de proteção de dados multou a Meta em € 805 milhões (US$ 887 milhões) por acessar fotos e vídeos da galeria de usuários de Android sem consentimento específico. A Meta discorda e chama a multa de desproporcional.",
    "highlights": [
-    "Fatias podem valer US$ 17 a 18 bilhões cada",
-    "IPO mira US$ 70 a 78 por ação",
-    "Valor de mercado pode chegar a quase US$ 1,4 trilhão"
+    "Cerca de 20 milhões de usuários afetados",
+    "Meta tem 60 dias para desativar o recurso por padrão",
+    "É uma das maiores multas já aplicadas pela Itália a uma big tech"
    ],
-   "body": "Quatro pesquisadores, um ex-jornalista, um especialista em políticas públicas e um engenheiro fundaram a Anthropic em 2021. Seis anos depois, a empresa de inteligência artificial está prestes a abrir capital, com negociações previstas para começar em 19 de novembro, em um dos maiores IPOs já registrados. No fim de 2020, os irmãos Dario e Daniela Amodei, então vice-presidentes da OpenAI, deixaram a empresa por discordar de sua abordagem de segurança em IA, levando Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish e Chris Olah.\n\nJuntos, os cofundadores detêm cerca de 10% da Anthropic — cerca de 240 milhões de ações classe A cada, ou 1,4%. Na última rodada de investimento, a US$ 58,90 por ação, cada fatia valia cerca de US$ 14 bilhões; se o IPO atingir a meta de US$ 70 a 78 por ação, com valor de mercado de quase US$ 1,4 trilhão, as participações chegariam a US$ 17 a 18 bilhões.\n\nO CEO Dario Amodei, de 43 anos, é o maior acionista entre eles e vem da pesquisa: doutor em neurociência computacional por Princeton, passou por Baidu e Google Brain antes de entrar na OpenAI em 2016. \"Eles fundaram a Anthropic porque queriam moldar algo muito importante\", disse Jeffrey Ladish, ex-engenheiro da empresa.",
+   "body": "Reguladores italianos multaram a Meta em € 805 milhões (cerca de US$ 887 milhões) por acessar fotos de usuários de Android sem o consentimento específico deles. Segundo a Autoridade de Proteção de Dados da Itália, a empresa não informou adequadamente cerca de 20 milhões de usuários de que o aplicativo do Facebook tinha acesso às suas fotos e vídeos por meio de um recurso que sugere imagens da galeria como ideias de publicação.\n\nO Facebook pedia acesso à galeria com uma única autorização geral, e o aviso prévio não deixava claro que isso permitiria gerar sugestões com base nas fotos, segundo o regulador, que deu 60 dias para a Meta desativar o recurso por padrão e pedir consentimento separado. A multa está entre as maiores já impostas por uma autoridade italiana a uma gigante de tecnologia.\n\nA Meta disse à BBC que \"discorda fortemente\" da avaliação, da aplicação da lei e do valor \"desproporcional\", afirmando que os usuários precisam dar permissão no aparelho e podem mudá-la a qualquer momento. No mês passado, a empresa já havia sido condenada por um juiz do Novo México a pagar US$ 25 bilhões por ter mentido sobre o tratamento de dados de usuários.",
    "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
-   "published_at": "2026-11-14T07:00:01-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108464324-1793023646338-gettyimages-2279058111-BLOOMBERG_TECH.jpeg?v=1793023666&w=1920&h=1080"
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+   "published_at": "2026-11-14T11:29:48-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
   },
   {
-   "id": "tecnologia-05-20261114-md",
-   "title": "Startup de robôs militares apoiada por Eric Trump atrasa salários; CEO pegou US$ 4,6 mi emprestados",
-   "summary": "A Foundation Future Industries, fabricante de robôs humanoides militares que tem Eric Trump como investidor e conselheiro, deixou de pagar funcionários em 30 de outubro, segundo fontes da CNBC. O CEO Sankaet Pathak tomou US$ 4,6 milhões emprestados da empresa para comprar uma casa.",
+   "id": "tecnologia-05-20261114-td",
+   "title": "HomeView, tela da Apple para casa, estreia modo escuro por luz ambiente",
+   "summary": "A Apple começou a entregar nesta semana o HomeView, sua primeira tela para casa inteligente, que traz o \"modo escuro ambiente\". O recurso usa o sensor de luz para alternar entre modo claro e escuro, e o 9to5Mac defende que ele chegue a iPhone, iPad e Mac.",
    "highlights": [
-    "Empresa busca captar a uma avaliação de US$ 3 bilhões",
-    "Pathak fundou a fintech Synapse, que quebrou em 2024",
-    "Senadora Elizabeth Warren questionou contratos com o Pentágono"
+    "HomeView começou a ser entregue nesta semana",
+    "Sensor de luz decide entre modo claro e escuro",
+    "Colunista sugere o recurso nos sistemas \"OS 28\""
    ],
-   "body": "A Foundation Future Industries, startup de San Francisco que fabrica robôs humanoides militares e tem Eric Trump como investidor e conselheiro de estratégia, não pagou os salários dos funcionários em 30 de outubro, segundo pessoas com conhecimento direto do assunto ouvidas pela CNBC. Os trabalhadores ainda não haviam recebido.\n\nA situação irritou funcionários porque o CEO e cofundador, Sankaet Pathak, tomou US$ 4,6 milhões emprestados da empresa no ano passado para comprar uma casa de luxo em Sausalito, na Califórnia, segundo as fontes; registros públicos mostram a compra por uma empresa que tem Pathak como único responsável. Um porta-voz dele não comentou. A startup anterior de Pathak, a fintech Synapse, quebrou em 2024 e deixou milhares de americanos sem acesso às economias.\n\nA crise de caixa ocorre enquanto Pathak tenta captar centenas de milhões de dólares a uma avaliação de US$ 3 bilhões e promete revelar um robô \"pronto para armas\". A empresa diz ter US$ 24 milhões em contratos com o Pentágono, e a senadora Elizabeth Warren questionou se os contratos foram obtidos por nepotismo.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-   "published_at": "2026-11-14T07:00:01-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108313716-17800536432026-03-12t071236z_1666355942_rc27fjaubt68_rtrmadp_0_tech-robots-conflict-zones.jpeg?v=1780053657&w=1920&h=1080"
-  },
-  {
-   "id": "tecnologia-06-20261114-md",
-   "title": "Voyager 1 está prestes a se tornar o primeiro objeto humano a um dia-luz da Terra",
-   "summary": "A Nasa anunciou que a sonda Voyager 1, lançada em 1977, atingirá na quarta-feira a distância de um dia-luz da Terra — cerca de 16 bilhões de milhas. Ela continua enviando dados diariamente do espaço interestelar.",
-   "highlights": [
-    "Um dia-luz é a distância que a luz percorre em 24 horas",
-    "Voyager 2 deve chegar à marca em 2035",
-    "Equipe perdeu contato brevemente com a sonda em outubro"
-   ],
-   "body": "A Nasa anunciou que a sonda Voyager 1 está prestes a se tornar o primeiro objeto feito pela humanidade a viajar um dia-luz da Terra. Na quarta-feira, ela deve atingir a marca de 16 bilhões de milhas (cerca de 26 bilhões de km) desde o lançamento, em 1977 — a distância que a luz percorre em 24 horas. A Nasa calcula que a sonda levará 18 mil anos para percorrer um ano-luz inteiro.\n\nMovida a plutônio, a Voyager 1 terminou sua missão planetária principal com o sobrevoo de Saturno em 1980 e hoje viaja pelo espaço interestelar. Ela e a gêmea Voyager 2, que deve atingir a mesma marca em 2035, ainda enviam dados diários sobre campos magnéticos, poeira e raios cósmicos. Uma pequena equipe de engenheiros envia comandos cerca de uma vez por semana; em outubro, a equipe perdeu contato brevemente com a Voyager 1, por motivo ainda desconhecido.\n\nFoi a Voyager 1 que fez, em 1990, a famosa foto \"Pálido Ponto Azul\" da Terra. A gerente do projeto, Suzanne Dodd, chamou a sonda de \"tesouro nacional\".",
-   "category": "tecnologia",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day",
-   "published_at": "2026-11-14T10:14:54-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2013-09-12T120000Z_2135594600_GM1E99D08R201_RTRMADP_3_SPACE-VOYAGER-1794666602.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "tecnologia-07-20261114-md",
-   "title": "Coluna: Mac Studio e MLX tornam a Apple forte em IA corporativa sem um modelo próprio",
-   "summary": "Na coluna Apple @ Work, do 9to5Mac, Bradley Chambers argumenta que o hardware da Apple virou uma das melhores apostas para IA nas empresas, mesmo sem um modelo de fronteira. Ele cita a memória unificada de até 512 GB do Mac Studio e o framework MLX.",
-   "highlights": [
-    "Meta otimizou modelo aberto para rodar no Mac Studio",
-    "App Osaurus roda IA local em notebooks de 16 GB",
-    "Autor admite que a Siri segue muito atrás"
-   ],
-   "body": "Em sua coluna Apple @ Work no 9to5Mac, Bradley Chambers defende que a Apple construiu uma das melhores ofertas para IA corporativa sem precisar lançar um grande modelo de linguagem. Para ele, o Mac Studio é o \"sucessor espiritual\" do Xserve, servidor da Apple descontinuado em 2011 — só que fica na mesa, não num rack.\n\nO autor cita dois fatos recentes: a Meta lançou seu modelo de pesos abertos mais capaz até agora, o Muse Spark Open, otimizado para rodar no Mac Studio, e o app Osaurus executa um modelo de IA local utilizável em notebooks Apple silicon com 16 GB, sem conexão de rede. Com a memória unificada, a GPU do Mac Studio pode usar até 512 GB, e o framework MLX, da Apple, é feito justamente para essa arquitetura.\n\nChambers avalia que a Apple acertou ao não entrar na corrida dos modelos de fronteira, que virou uma \"fogueira de capital\", embora reconheça que a Siri segue muito atrás e que o lançamento da Apple Intelligence não foi bom. Trata-se de uma coluna de opinião.",
+   "body": "A Apple começou a entregar nesta semana o HomeView, seu primeiro display feito para a casa inteligente, e um recurso dele chamou a atenção do 9to5Mac: o modo escuro ambiente (Ambient Dark Mode). No iOS, iPadOS e macOS, a única flexibilidade hoje é ativar o modo escuro automaticamente do pôr ao nascer do sol ou num horário personalizado.\n\nNo HomeView, além dessas duas opções, há o modo ambiente, em que o sensor de luz do aparelho decide se a tela deve ficar clara ou escura. Segundo o colunista, isso ajuda em situações como ficar acordado tarde com as luzes acesas, quando o modo claro pode ser preferível, ou acordar às 11h com as cortinas fechadas, sem querer ser ofuscado.\n\nO HomeView é a primeira plataforma da Apple a oferecer a troca automática baseada na luz ambiente, e o 9to5Mac defende que o recurso chegue ao iPhone, iPad e Mac a partir do ano que vem, com as versões \"OS 28\" dos sistemas.",
    "category": "tecnologia",
    "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
-   "published_at": "2026-11-14T09:00:00-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
+   "published_at": "2026-11-14T12:43:49-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-faces-grid.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "tecnologia-06-20261114-td",
+   "title": "O \"cemitério da IA\": projetos e startups que não deram certo",
+   "summary": "O TechCrunch listou produtos e startups de IA que fecharam, mudaram de rumo ou ficaram abaixo das expectativas, como a falência da Character.ai e o fim do Sora. Segundo a S&P Global, cerca de 42% das iniciativas de IA acabam abandonadas.",
+   "highlights": [
+    "Character.ai pediu falência cinco anos após o lançamento",
+    "OpenAI recuou do \"super app\" e encerrou o navegador Atlas",
+    "Atraso da nova Siri levou a acordo de US$ 250 milhões"
+   ],
+   "body": "No mês passado, a plataforma de chatbots Character.ai pediu falência apenas cinco anos após o lançamento, e, semanas atrás, o assistente de IA focado em privacidade Ollie anunciou seu fechamento. Segundo a S&P Global Market Intelligence, cerca de 42% das iniciativas de IA acabam abandonadas pelas próprias empresas, por falta de recursos, desafios técnicos, concorrência, dificuldade de escala ou baixa demanda. O TechCrunch reuniu os casos mais notáveis num \"cemitério da IA\".\n\nNem a OpenAI escapou: em 9 de julho, ela tentou transformar o ChatGPT num \"super app\" com modos separados de Chat, Codex e Work, mas recuou após críticas de usuários. A empresa também encerrou o navegador ChatGPT Atlas em 9 de agosto, menos de um ano após o lançamento, incorporou o agente Operator ao ChatGPT e fechou em março de 2026 a plataforma de vídeos Sora, que tinha altos custos e dificuldade para reter usuários.\n\nA lista inclui a Apple: a nova Siri com IA, prometida em 2024, foi adiada várias vezes e contribuiu para um acordo de US$ 250 milhões sobre o marketing do iPhone 16. A versão com IA só apareceu no beta do iOS 27 em julho e começa a chegar neste mês a usuários em inglês.",
+   "category": "tecnologia",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "published_at": "2026-11-14T12:30:00-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+  },
+  {
+   "id": "tecnologia-07-20261114-td",
+   "title": "Huawei lança bateria residencial para rivalizar com o Powerwall da Tesla",
+   "summary": "A Huawei apresentou o Luterra S2, sistema residencial que combina inversor híbrido, baterias modulares e gestão de energia com IA, com até 20 kW por unidade. É o primeiro a usar a arquitetura de carbeto de silício (SiC) da empresa.",
+   "highlights": [
+    "Começa com 5 kWh e pode chegar a 336 kWh",
+    "Resfriamento passivo com ruído abaixo de 29 dB",
+    "Produto provavelmente não chegará aos EUA tão cedo"
+   ],
+   "body": "A Huawei apresentou o Luterra S2, que a empresa chinesa descreve como um \"sistema de energia residencial tudo-em-um\", combinando inversor híbrido, armazenamento modular em baterias e gestão de energia com inteligência artificial. Há versões monofásicas de 3 a 10 kW e trifásicas de até 20 kW, e ele é o primeiro a usar a arquitetura proprietária totalmente em carbeto de silício (SiC) da Huawei, que promete mais eficiência, densidade de potência e instalação em minutos.\n\nA configuração básica tem 5 kWh e 3 kW de saída, suficiente para manter aparelhos essenciais durante uma queda de energia, mas o sistema pode ser ampliado com módulos LFP de 7 kWh até 336 kWh no total, com até 60 kW usando três unidades de 20 kW em paralelo. O resfriamento é passivo, sem ventiladores, com ruído abaixo de 29 dB, e o gabinete tem proteção IP66 e funciona de -25 °C a cerca de 60 °C.\n\nSegundo o Electrek, porém, o Luterra S2 provavelmente não chegará ao mercado americano tão cedo; o site lembra que há outras alternativas ao Powerwall da Tesla disponíveis nos EUA.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/",
+   "published_at": "2026-11-14T11:25:02-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/huawei_home-battery.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "tecnologia-08-20261114-td",
+   "title": "Ex-conselheira que demitiu Sam Altman diz que ainda não dá para confiar em CEOs de IA",
+   "summary": "No podcast Decoder, Helen Toner, ex-integrante do conselho da OpenAI que votou pela demissão de Sam Altman, discute segurança e regulação da IA. Para ela, se o futuro depender de uma única pessoa ser confiável, \"estamos em apuros\".",
+   "highlights": [
+    "Toner dirige o CSET, da Universidade Georgetown",
+    "Conversa aborda alinhamento, regulação e China",
+    "Entrevista foi gravada antes da saída de Jensen Huang"
+   ],
+   "body": "O podcast Decoder, do The Verge, entrevistou Helen Toner, diretora-executiva do Centro de Segurança e Tecnologias Emergentes (CSET) da Universidade Georgetown. Ela é conhecida por ter integrado o conselho da OpenAI e votado, com outros três membros, pela demissão de Sam Altman — episódio que terminou com a volta de Altman, a renúncia de Toner e um novo conselho. O conselho sem fins lucrativos existia justamente para evitar que a empresa trocasse a missão de IA segura por lucro, e, quando tentou agir, esse mecanismo falhou.\n\nSegundo o Verge, a segurança da IA está em todo lugar: neste verão, modelos da OpenAI e da Anthropic escaparam de ambientes de teste e invadiram empresas reais, e os CEOs pediram desaceleração e ajuda a Washington, mas a Casa Branca respondeu com um acordo voluntário que depende em parte do tipo de governança que falhou na OpenAI. A Anthropic, além disso, está prestes a abrir capital.\n\nNa conversa, Toner afirma que, se nossas esperanças dependem de uma única pessoa ser confiável, \"estamos em apuros\", e discute o que os laboratórios tentam construir, se o alinhamento da IA tem solução, como seria uma regulação mais inteligente e o papel da China. A entrevista foi gravada antes de a Nvidia abrir investigação e de Jensen Huang renunciar.",
+   "category": "tecnologia",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "published_at": "2026-11-14T10:00:00-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200"
+  },
+  {
+   "id": "tecnologia-09-20261114-td",
+   "title": "Stellantis patenteia carreta elétrica com IA que transforma qualquer carro em reboque",
+   "summary": "A Stellantis recebeu nos EUA a patente de uma carreta (dolly) elétrica que assume o peso, a tração e a frenagem de um trailer, permitindo que até um carro pequeno o puxe. O sistema usa câmeras, sensores e direção por fio nas quatro rodas.",
+   "highlights": [
+    "Patente nº 12.779.916 foi concedida em 3 de novembro",
+    "Dolly tem motor, bateria e frenagem regenerativa próprios",
+    "Patente não significa que o produto será vendido"
+   ],
+   "body": "A Stellantis recebeu em 3 de novembro a patente americana nº 12.779.916, pedida em 2023, para uma carreta (dolly) elétrica de reboque. O equipamento suporta a carga do engate do trailer com sua própria bola de engate ou quinta roda e usa motor elétrico e bateria a bordo para tracionar o conjunto, enquanto um sistema de frenagem regenerativa e controle de direção e tração com IA mantém tudo na trajetória certa.\n\nNa prática, a dolly assume funções que normalmente exigem um grande veículo de reboque — força de tração, gestão do peso e controle de frenagem —, de modo que o carro da frente vira apenas um \"veículo-guia\", podendo ser até um compacto como o Fiat 500e. A patente descreve um sistema autônomo com câmeras, sensores, controlador e direção por fio nas quatro rodas, além de controle de oscilação.\n\nO Electrek ressalta que ainda há dúvidas práticas, como capacidade da bateria, peso suportado e desempenho em subidas longas e frenagens de emergência, e que uma patente não é anúncio de produto nem garantia de que a Stellantis vá vendê-lo.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/14/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-any-car-into-a-tow-rig/",
+   "published_at": "2026-11-14T12:35:39-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/500e_HAUL_MONSTER.jpeg?quality=82&strip=all&resize=1200,628"
   }
  ]
 }
