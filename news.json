@@ -1,331 +1,315 @@
 {
  "version": 2,
- "generated_at": "2026-11-16T14:51:51-05:00",
- "edition": "tarde",
+ "generated_at": "2026-11-17T06:47:21-05:00",
+ "edition": "manha",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "eua-01-20261116-td",
-   "title": "Grandes bancos dos EUA têm instabilidade nos serviços online",
-   "summary": "Clientes do Bank of America, JPMorgan Chase, U.S. Bank e de outras grandes instituições relataram falhas nos serviços nesta segunda-feira, segundo o Downdetector. O Chase atribuiu o problema a uma falha técnica, e não a um ataque cibernético.",
+   "id": "eua-01-20261117-mn",
+   "title": "Casa Branca cria \"força-tarefa\" para evitar nova paralisação aérea",
+   "summary": "A Casa Branca organizou uma \"tiger team\" para impedir que se repita o incidente que provocou a paralisação nacional de voos na última sexta-feira. A primeira reunião aconteceu nesta segunda-feira.",
    "highlights": [
-    "Capital One, Truist, Wells Fargo e o app Zelle também tiveram queixas",
-    "Chase: transações mais lentas, mas acesso às contas e fundos mantido",
-    "Cerca de 4.800 relatos contra o Chase até as 14h (horário de NY)"
+    "Equipe reúne FAA, Inteligência Nacional, Defesa e Transportes",
+    "Paralisação de 4 horas cancelou milhares de voos",
+    "Investigação preliminar aponta troca de roteador no Arkansas"
    ],
-   "body": "Clientes de grandes bancos americanos, como Bank of America, JPMorgan Chase e U.S. Bank, relataram problemas para acessar serviços online nesta segunda-feira, de acordo com o site de monitoramento Downdetector. Capital One, Truist e Wells Fargo também registraram aumento de reclamações, assim como o aplicativo de pagamentos Zelle.\n\nUm porta-voz do Chase disse que o banco enfrenta um problema técnico, e não cibernético. \"Devido a um problema técnico, algumas transações estão demorando mais do que o normal para serem concluídas, mas os clientes ainda têm acesso às suas contas e fundos\", afirmou o banco, acrescentando que trabalha para resolver a situação o mais rápido possível.\n\nOs relatos começaram pela manhã e dispararam à tarde. Até as 14h (horário de NY), quase 4.800 usuários haviam reportado problemas com o Chase, o maior número entre os bancos. As falhas ocorrem dias depois de a Microsoft restabelecer, no sábado, os serviços do Outlook e do Teams após uma pane global que a empresa disse não ter relação com ataque hacker.",
+   "body": "A Casa Branca montou uma \"tiger team\" — um pequeno grupo de especialistas dedicado a um problema específico — para evitar outro incidente como o que levou à paralisação nacional de voos (ground stop) na semana passada, segundo autoridades ouvidas pela CBS News. Integram o grupo representantes da Administração Federal de Aviação (FAA), do Escritório do Diretor de Inteligência Nacional, do Departamento de Defesa e do Departamento de Transportes. A primeira reunião foi realizada nesta segunda-feira na Casa Branca.\n\nA paralisação de quatro horas, iniciada pouco depois das 15h30 da última sexta-feira, causou o cancelamento de milhares de voos e ocorreu quando 3.500 aeronaves estavam no ar. Uma investigação preliminar da FAA indicou que um roteador que estava sendo substituído no Arkansas foi a causa do problema. Em setembro, o órgão de auditoria do governo (GAO) já havia publicado relatório analisando os esforços de modernização dos sistemas de controle de tráfego aéreo.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "published_at": "2026-11-16T14:06:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/81b20179-57fc-4a78-a116-0ae3b4efa484/thumbnail/1200x630/7b44d466b894be89c7d52d598462f3fd/gettyimages-2205618118.jpg"
+   "url": "https://www.cbsnews.com/news/white-house-tiger-team-ground-stop/",
+   "published_at": "2026-11-16T18:58:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/3227164b-e67d-4035-abed-f7940aaf6a8c/thumbnail/1200x630/c32cd2a5a6b527871fc10af4f7008e74/gettyimages-2304529219.jpg"
   },
   {
-   "id": "eua-02-20261116-td",
-   "title": "Nova análise forense questiona versão de suicídio de Epstein",
-   "summary": "Um especialista em medicina forense que revisou registros inéditos da autópsia de Jeffrey Epstein concluiu que a morte foi mais provavelmente um homicídio. A conclusão oficial de 2019 do legista de Nova York continua sendo suicídio.",
+   "id": "eua-02-20261117-mn",
+   "title": "United resolve pane que atrasou decolagens",
+   "summary": "A United Airlines informou ter resolvido uma \"pane generalizada\" em seus sistemas que atrasou partidas na tarde de segunda-feira, dias depois da paralisação nacional de voos. A falha durou cerca de 90 minutos.",
    "highlights": [
-    "Dr. Michael Freeman analisou fotos e arquivos cedidos pelo irmão de Epstein",
-    "Resultados foram apresentados nesta segunda em Londres",
-    "É o segundo especialista externo a contestar a versão oficial"
+    "Problema afetou sistema de cálculo de peso e balanceamento",
+    "Voos em andamento e United Express não foram afetados",
+    "Empresa diz não haver indício de ataque cibernético"
    ],
-   "body": "O Dr. Michael Freeman, editor-chefe do Journal of Forensic and Legal Medicine, passou meses revisando registros nunca publicados da autópsia de Jeffrey Epstein, fornecidos a ele e à CBS News pelo irmão do financista. Em 2019, o Escritório do Médico Legista Chefe de Nova York concluiu que Epstein morreu por suicídio, mas Freeman avalia que a morte foi mais provavelmente um homicídio.\n\nFreeman trabalhou com Anders Eriksson, professor de medicina forense da Universidade de Umeå, na Suécia, e com Itiel Dror, pesquisador especializado em vieses em decisões forenses. Eles apresentaram as conclusões nesta segunda-feira em Londres. Segundo Freeman, as lesões documentadas pelo legista \"não eram compatíveis com o enforcamento suicida\", e outras que poderiam indicar luta ou agressão teriam sido ignoradas.\n\nEste é o segundo relatório de um especialista externo a questionar a conclusão oficial: em 2020, o patologista Michael Baden, contratado pelo irmão de Epstein, disse ao \"60 Minutes\" que as lesões no pescoço apontavam mais para assassinato do que suicídio. Freeman reconheceu que seu relatório foi rejeitado para publicação por uma revista acadêmica.",
+   "body": "A United Airlines afirmou ter resolvido uma \"pane generalizada\" que enfrentou na tarde de segunda-feira, poucos dias após uma falha na rede da FAA provocar uma paralisação nacional de voos. \"Resolvemos um problema de tecnologia que atrasou as partidas de voos\", disse a companhia, acrescentando que não houve impacto em voos em andamento nem nos voos da United Express. A interrupção durou cerca de 90 minutos.\n\nUm comunicado do sindicato dos pilotos indicou que o problema estava no sistema de cálculo de peso e balanceamento, pois a empresa não conseguia fornecer os pesos finais dos voos de saída. Um porta-voz disse não haver indicação de que a falha estivesse ligada a segurança cibernética. O site FlightAware mostrava 715 voos atrasados da United no fim da tarde, embora não esteja claro quantos foram causados pela pane.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/jeffrey-epstein-death-suicide-forensics-expert-analysis/",
-   "published_at": "2026-11-16T13:59:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/c403bec1-3714-46fb-912a-483d7a8f4ec0/thumbnail/1200x630/95fc6580ef51cc541918a45ddb2f07bd/epstein-jail-cell.jpg"
+   "url": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
+   "published_at": "2026-11-16T17:25:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/16/edc71c0f-fb6b-4efb-8329-b228740b6449/thumbnail/1200x630/236a10b34bcf3976cc955fe202e25132/gettyimages-2304760092.jpg"
   },
   {
-   "id": "eua-03-20261116-td",
-   "title": "Suprema Corte recusa recurso de Trump sobre corte de bolsas ligadas a DEI",
-   "summary": "A Suprema Corte se recusou a analisar o recurso do governo Trump sobre o cancelamento de bolsas de pesquisa da Universidade da Califórnia consideradas contrárias às prioridades do presidente, incluindo diversidade, equidade e inclusão (DEI). Fica valendo a decisão que viu provável violação da Primeira Emenda.",
+   "id": "eua-03-20261117-mn",
+   "title": "Procurador federal de Houston alvo de queixa ética",
+   "summary": "Uma ONG de fiscalização apresentou queixa contra Aaron Reitz, procurador federal do Distrito Sul do Texas. Ela acusa o promotor de violar regras profissionais ao ameaçar processar senadores democratas por atividades de fiscalização.",
    "highlights": [
-    "Bolsas eram da NEH e da NSF para pesquisadores da Universidade da Califórnia",
-    "Universidade diz que perdeu mais de US$ 324 milhões entre janeiro e junho de 2025",
-    "Agências teriam usado buscas por palavras como \"diversidade\" e \"mudança climática\""
+    "Queixa foi apresentada pela Campaign for Accountability",
+    "Pede investigação da Ordem dos Advogados do Texas",
+    "Cartas de Reitz foram enviadas a Blumenthal e Warren, entre outros"
    ],
-   "body": "A Suprema Corte dos EUA decidiu nesta segunda-feira não ouvir um caso sobre o cancelamento, pelo governo Trump, de bolsas concedidas a pesquisadores da Universidade da Califórnia que, segundo a administração, não estavam alinhadas às prioridades do presidente, incluindo programas de diversidade, equidade e inclusão (DEI).\n\nAo rejeitar o recurso, a corte mantém a decisão do Tribunal de Apelações do 9º Circuito, que concluiu que o corte de milhões em financiamento acadêmico do National Endowment for the Humanities (NEH) e da National Science Foundation (NSF) provavelmente violou a Primeira Emenda. O Departamento de Justiça havia alertado que isso abriria caminho para dinheiro público financiar pesquisas que promovem DEI.\n\nO caso remonta aos primeiros dias do segundo mandato de Trump, quando ordens executivas mandaram agências cancelar bolsas sobre certos temas. Advogados da universidade afirmam que, de janeiro a junho de 2025, mais de US$ 324 milhões foram cortados só no sistema da Universidade da Califórnia, com cancelamentos baseados em buscas por palavras como \"diversidade\", \"mudança climática\" e \"ideologia de gênero\".",
+   "body": "A organização sem fins lucrativos Campaign for Accountability apresentou nesta segunda-feira uma queixa ética contra o principal procurador federal de Houston, alegando que ele violou regras de conduta profissional ao ameaçar processar parlamentares democratas por exercerem a fiscalização do Congresso.\n\nA queixa pede que a Ordem dos Advogados do Texas investigue Aaron Reitz, procurador dos EUA para o Distrito Sul do Texas, por causa de cartas de tom confrontador enviadas a parlamentares como os senadores Richard Blumenthal, de Connecticut, e Elizabeth Warren, de Massachusetts. Nas cartas, Reitz citou declarações públicas dos senadores sobre a intenção de investigar o governo Trump e alguns de seus apoiadores, insinuando que esses comentários poderiam ter implicações legais.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/supreme-court-trump-dei-research-grants/",
-   "published_at": "2026-11-16T10:55:31-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/a301b036-c24d-4651-9ff3-0ee3f56e462c/thumbnail/1200x630g2/7f47240efa1a96d81f06ce650783d3e2/gettyimages-2304634945.jpg"
+   "url": "https://www.cbsnews.com/news/watchdog-group-ethics-complaint-top-federal-prosecutor-houston/",
+   "published_at": "2026-11-16T15:36:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/9f3c9718-0d9d-45b4-b7ed-7f2026190a75/thumbnail/1200x630g2/d6462b07c71b78112277c5763d5e3581/reitz-trump.jpg"
   },
   {
-   "id": "eua-04-20261116-td",
-   "title": "Tennessee nomeia novo chefe do sistema prisional após execuções malsucedidas",
-   "summary": "Josh Smith, ex-vice-diretor do Bureau of Prisons federal e ex-condenado por drogas que recebeu perdão, foi nomeado para comandar o Departamento de Correções do Tennessee. A escolha foi feita pela governadora eleita Marsha Blackburn após uma série de execuções malsucedidas no estado.",
+   "id": "eua-04-20261117-mn",
+   "title": "Lindsay Clancy será julgada de novo em março",
+   "summary": "A promotoria de Massachusetts vai julgar novamente Lindsay Clancy por homicídio qualificado, após o primeiro julgamento terminar anulado. O juiz marcou o novo júri para 29 de março de 2027.",
    "highlights": [
-    "Smith deixou inesperadamente o cargo federal em agosto",
-    "Antecessor renunciou após a execução fracassada de Christa Pike",
-    "Governador Bill Lee suspendeu as execuções seguintes"
+    "Clancy é acusada da morte dos três filhos em Duxbury, em 2023",
+    "Promotoria queria data em maio; juiz manteve março",
+    "Defesa admitiu as mortes no primeiro julgamento"
    ],
-   "body": "Josh Smith, que deixou inesperadamente o cargo de vice-diretor do Bureau of Prisons em agosto, foi nomeado nesta segunda-feira para liderar o Departamento de Correções do Tennessee. Smith, que já foi condenado por crime ligado a drogas e recebeu perdão, foi escolhido pela governadora eleita, a republicana Marsha Blackburn, que destacou sua experiência executiva e \"vivência direta\" com o sistema prisional.\n\nSmith disse que o sistema enfrenta desafios como falta de pessoal, segurança institucional e necessidade de fortalecer lideranças. Ele sucede o diretor interino Christopher Hansen, no cargo desde que Frank Strada renunciou no início do mês passado após a execução malsucedida de Christa Pike, que seria a primeira mulher executada pelo estado em 200 anos.\n\nSegundo os advogados de Pike, a injeção letal de pentobarbital a deixou em um respirador, com os braços machucados, porque funcionários não perceberam que o acesso intravenoso estava mal colocado. Todas as execuções seguintes foram suspensas pelo governador Bill Lee. O caso veio depois da execução fracassada de Tony Carruthers, em maio, que recebeu um adiamento de um ano.",
+   "body": "Os promotores pretendem julgar novamente Lindsay Clancy por homicídio qualificado, depois que o primeiro julgamento em Massachusetts terminou anulado (mistrial). O juiz William Sullivan, que se aposenta em junho de 2027, marcou o novo julgamento com júri para 29 de março de 2027, apesar de a acusação ter pedido uma data em maio por causa de outros casos na pauta.\n\nClancy voltou ao tribunal de Plymouth na segunda-feira para uma audiência breve, mas tensa. Ela é acusada das mortes dos três filhos — Cora, de 5 anos, Dawson, de 3, e um bebê de 8 meses — na casa da família em Duxbury, em 24 de janeiro de 2023. No primeiro julgamento, a defesa admitiu que ela matou as crianças.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/josh-smith-tennessee-corrections-chief-executions/",
-   "published_at": "2026-11-16T14:00:59-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/25/564e40e9-1dd2-4890-b4f8-c4b098292dd7/thumbnail/1200x630g2/5de995e86746a242ad9b437f8706d9cf/screenshot-2026-08-25-at-6-08-28-pm.png"
+   "url": "https://www.cbsnews.com/news/lindsay-clancy-hearing/",
+   "published_at": "2026-11-15T23:50:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/2c108f69-3c89-4741-b726-22972400586f/thumbnail/1200x630/747890f1a2991610c618f6d33286bb2c/clancy-patriot-ledger.jpg"
   },
   {
-   "id": "eua-05-20261116-td",
-   "title": "Senadores apresentam projeto contra abuso infantil no Roblox",
-   "summary": "Os senadores Josh Hawley (republicano) e Dick Durbin (democrata) vão apresentar um projeto que permite a famílias de vítimas de abuso em plataformas como o Roblox levar casos à Justiça mesmo com cláusula de arbitragem. A proposta antecede a primeira audiência do Congresso sobre a plataforma, nesta terça.",
+   "id": "eua-05-20261117-mn",
+   "title": "Sem ter para onde ir, adolescente faz de hospital sua casa",
+   "summary": "Reportagem da CBS conta a história de Jaloni, adolescente de St. Louis que, após ser baleado aos 14 anos, acabou morando no hospital por não ter para onde ir. O caso ilustra o problema da \"internação por falta de alternativa\" de jovens nos EUA.",
    "highlights": [
-    "Projeto libera ações coletivas e escolha entre tribunal e arbitragem",
-    "Roblox é processado por dezenas de famílias e procuradores estaduais",
-    "CEO Dave Baszucki recusou convite para depor"
+    "Jaloni chegou ao hospital com ferimentos a bala",
+    "Quarto 3005 virou seu lar improvisado",
+    "Caso expõe falta de vagas de acolhimento para jovens"
    ],
-   "body": "Os senadores Josh Hawley, republicano do Missouri, e Dick Durbin, democrata de Illinois, estão apresentando uma legislação voltada ao abuso sexual no Roblox e em outras plataformas de jogos online, informou a CBS News. O projeto permitiria que famílias de pessoas prejudicadas por produtos de tecnologia levassem suas queixas aos tribunais, mesmo que tenham aceitado termos de serviço com arbitragem privada.\n\nO Roblox é alvo de processos de dezenas de famílias e procuradores-gerais estaduais, que afirmam que predadores usam a plataforma para aliciar, extorquir e explorar crianças. A proposta chega antes da primeira audiência do Congresso sobre o tema, nesta terça-feira, presidida por Hawley, com depoimentos de dois sobreviventes de abuso e dois especialistas. O CEO do Roblox, Dave Baszucki, foi convidado, mas se recusou a comparecer.\n\nO texto fecharia brechas para que os direitos de uma criança não sejam limitados por acordos de \"clique para aceitar\", permitiria ações coletivas e deixaria sobreviventes e famílias escolherem entre a Justiça comum e a arbitragem confidencial. \"Um 'acordo' escondido nos termos de serviço não deveria limitar os direitos de uma criança ou família\", disse Durbin.",
+   "body": "A internação do adolescente começou no quarto 3005 de um hospital de St. Louis. Jaloni tinha 14 anos e chegou com ferimentos recentes de bala que lhe causavam dores intensas; na primeira noite, mal conseguia se mexer. Com o tempo, o quarto ganhou pôsteres e lanches nas prateleiras, e o hospital se tornou, na prática, sua casa.\n\nA reportagem retrata um jovem dividido entre dois mundos: entre os amigos, era alguém destemido, acostumado a correr riscos; dentro do hospital, era um menino que precisava da avó. A história ilustra o fenômeno conhecido como \"boarding\" — quando pacientes, muitas vezes jovens, permanecem internados por longos períodos porque não há um lugar seguro para onde possam ser encaminhados.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
-   "published_at": "2026-11-16T13:58:26-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/182272d0-5c43-4676-a148-8f041b5df36f/thumbnail/1200x630/20f01d0684e4edc478a869969b73ed3e/gettyimages-2304407679.jpg"
+   "url": "https://www.cbsnews.com/news/hospital-boarding-st-louis-teen-home/",
+   "published_at": "2026-11-17T05:00:10-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/0023f1a4-058d-4142-8e5f-ba40e4fc496d/thumbnail/1200x630/4287828154629d664630fdd5b8496a4f/jaloni-01.jpg"
   },
   {
-   "id": "eua-06-20261116-td",
-   "title": "Dois agentes de segurança são baleados em complexo residencial no Bronx",
-   "summary": "Dois agentes de segurança pública foram baleados nesta segunda-feira no complexo Co-op City, no Bronx, em Nova York, sem risco de morte. O suspeito foi encontrado morto, com um ferimento autoinfligido, após se entrincheirar em um apartamento.",
+   "id": "eua-06-20261117-mn",
+   "title": "Kalshi vai oferecer negociação de ações e ETFs",
+   "summary": "A plataforma de mercados de previsão Kalshi planeja permitir que seus clientes negociem ações e fundos de índice (ETFs). A expansão usa a corretora FB Securities, comprada em julho.",
    "highlights": [
-    "Vítimas são da força de segurança privada do Co-op City",
-    "Polícia inicialmente falou em três feridos e depois corrigiu",
-    "Complexo tem mais de 15.300 apartamentos e 50 mil moradores"
+    "Serviço deve ser lançado nos próximos meses",
+    "Plano foi revelado primeiro pelo Wall Street Journal",
+    "Kalshi já oferece futuros de cripto e metais preciosos"
    ],
-   "body": "Dois agentes de segurança pública foram baleados nesta segunda-feira em um complexo de apartamentos na cidade de Nova York, informou a polícia. Os ferimentos não eram considerados de risco à vida. O suposto atirador foi encontrado morto, com um tiro autoinfligido, depois de se entrincheirar em um apartamento do enorme complexo Co-op City, no Bronx.\n\nO Departamento de Polícia de Nova York confirmou que as vítimas eram agentes do Departamento de Segurança Pública do Co-op City, uma força de segurança privada do complexo, e que foram levadas a um hospital. A polícia revisou o número de vítimas depois de inicialmente informar que três pessoas haviam sido feridas.\n\nO Co-op City, construído como moradia de classe média nas décadas de 1960 e 1970, tem mais de 15.300 apartamentos cooperativos em prédios e casas, cerca de 50 mil moradores e seu próprio CEP.",
-   "category": "eua",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/2026/11/16/gunman-found-dead-after-2-public-safety-officers-are-shot-at-new-york-city-apartment-complex/",
-   "published_at": "2026-11-16T12:52:11-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/ZX5YFQC7BQJ6QM6IMQXOPXCXHU.jpg?auth=a1e12cbcd0acc35de9957c832dee56db2d5e4045d01f50e36a4bf5aefd8ccfa3&width=700"
-  },
-  {
-   "id": "eua-07-20261116-td",
-   "title": "Vídeo mostra agentes do ICE usando spray de pimenta em grávida na Califórnia",
-   "summary": "Agentes do ICE usaram spray de pimenta e derrubaram uma cidadã americana grávida durante um protesto em Modesto, na Califórnia, segundo o advogado da família, que divulgou as imagens. Lizbeth Vargas Andrade, de 23 anos, está grávida de 12 semanas.",
-   "highlights": [
-    "Caso ocorreu no domingo, em frente à cadeia do condado de Stanislaus",
-    "Ela filmava e protestava contra a prisão de um homem por agentes",
-    "Pelo menos dois agentes usavam máscaras"
-   ],
-   "body": "Agentes do Serviço de Imigração e Controle de Alfândegas (ICE) usaram spray de pimenta contra uma cidadã americana grávida e a derrubaram no chão durante um protesto na Califórnia no domingo, segundo o advogado da família, que compartilhou vídeos do episódio. Lizbeth Vargas Andrade, de 23 anos, filmava e protestava contra a presença de agentes em frente à cadeia do condado de Stanislaus, em Modesto, quando foi detida de bruços.\n\nGrávida de 12 semanas, ela disse em entrevista coletiva que faz parte de um grupo de moradores que monitora a presença do ICE e foi ao estacionamento da cadeia após agentes serem vistos na área. A confusão começou quando os agentes prenderam um homem que aparentemente acabara de ser solto; as circunstâncias dessa prisão não estão claras e ele não foi identificado.\n\nAs imagens, gravadas pelo marido dela, Adolfo Talavera, mostram uma cena tumultuada, com som que falha repetidamente. Vargas Andrade e um agente parecem esbarrar um no outro; ele a agarra e começa a algemá-la, enquanto outro agente saca o que parece ser um spray de pimenta. Pelo menos dois agentes usavam máscaras cobrindo o rosto.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-   "published_at": "2026-11-16T13:48:51-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/693f5c56a0dc27d3af826f3e8b707a4539e149ad/282_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=370ac59f7add324431f9e0ce55368755"
-  },
-  {
-   "id": "eua-08-20261116-td",
-   "title": "Departamento de Justiça adverte Elizabeth Warren sobre registros ligados a Trump",
-   "summary": "O governo Trump alertou a senadora Elizabeth Warren, cotada para presidir o Comitê Bancário do Senado, que ela pode sofrer \"consequências legais significativas\" se não preservar registros de investigações sobre Donald Trump. A carta segue avisos semelhantes a outros democratas.",
-   "highlights": [
-    "Carta foi enviada pelo procurador Aaron Reitz, do sul do Texas",
-    "Democratas assumem a maioria no Congresso no próximo ano",
-    "Warren pediu a uma arrecadadora de Trump que preservasse documentos"
-   ],
-   "body": "O governo Trump advertiu Elizabeth Warren, senadora democrata que deve presidir o influente Comitê Bancário do Senado, de que ela pode enfrentar \"consequências legais significativas\" se não preservar registros relacionados a investigações sobre Donald Trump. A carta foi enviada pelo procurador federal Aaron Reitz, do distrito sul do Texas, que acusou Warren de estar \"ansiosa para usar seu futuro martelo como uma machadinha\".\n\nO texto espelha outros alertas do Departamento de Justiça a legisladores democratas que planejam investigar o governo quando o partido assumir a maioria no Congresso no próximo ano. Na semana passada, um advogado da Casa Branca disse a Robert Garcia, cotado para comandar o Comitê de Supervisão da Câmara, que o governo estava \"monitorando\" possíveis investigações.\n\nApós reconquistarem a Câmara e o Senado nas eleições de meio de mandato de 2026, democratas sinalizaram que vão investigar pessoas próximas a Trump. Warren e outros parlamentares pediram recentemente a Meredith O'Rourke, importante arrecadadora de Trump, que preservasse documentos sobre o possível financiamento do salão de baile da Casa Branca; pedidos desse tipo costumam indicar uma investigação a caminho.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
-   "published_at": "2026-11-16T10:50:59-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/e9abfc9d38fb847951ac25392dcdc53fcf6a2701/430_0_4292_3434/master/4292.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d74ad80c4467f3c83356da9920f74a45"
-  },
-  {
-   "id": "eua-09-20261116-td",
-   "title": "Diesel cai abaixo de US$ 6 por galão pela primeira vez desde setembro",
-   "summary": "O preço médio do diesel nos EUA caiu para US$ 5,99 por galão nesta segunda-feira, segundo a AAA, abaixo do recorde de US$ 6,53 de 22 de setembro. A queda acompanha sinais de estabilização no mercado de petróleo.",
-   "highlights": [
-    "Guerras no Irã e na Ucrânia pressionaram o refino global",
-    "Gasolina caiu abaixo de US$ 4 na semana passada",
-    "AIE prevê excedente de oferta no quarto trimestre"
-   ],
-   "body": "O preço nacional do diesel nos Estados Unidos ficou abaixo de US$ 6 por galão nesta segunda-feira pela primeira vez em mais de dois meses. A média agora é de US$ 5,99, segundo a AAA, contra o recorde de US$ 6,53 em 22 de setembro. A alta havia sido provocada pelas guerras no Irã e na Ucrânia, que apertaram a capacidade global de refino e afetaram o fluxo de petróleo, encarecendo transporte, construção e agricultura.\n\nSegundo Patrick De Haan, analista da GasBuddy, diesel e gasolina recuaram nas últimas semanas depois que o presidente Trump sinalizou que não escalaria a guerra no Irã, enquanto o mercado global de petróleo mostra sinais de estabilização. O Brent era negociado a US$ 93,56 o barril e o WTI a US$ 86,72 nesta segunda.\n\nA Agência Internacional de Energia elevou sua previsão de produção e projeta excedente no quarto trimestre, com a oferta superando a demanda pela primeira vez desde o início da guerra no Irã. Embora ataques a petroleiros continuem no Estreito de Ormuz, o tráfego voltou em grande parte aos níveis anteriores ao conflito, e a gasolina caiu abaixo de US$ 4 o galão na semana passada.",
+   "body": "A Kalshi planeja permitir que os clientes de seu mercado de previsões negociem ações e ETFs, confirmou uma pessoa a par do assunto. A empresa espera lançar os serviços em breve, após a aquisição, em julho, da corretora nova-iorquina FB Securities, que viabilizará a negociação de ações na plataforma. O Wall Street Journal foi o primeiro a noticiar o plano.\n\nA plataforma da Kalshi permite apostar no resultado de eventos esportivos, eleições, clima e muitos outros temas. A expansão faz parte do esforço da empresa para diversificar sua oferta: em maio, passou a oferecer contratos futuros perpétuos de criptomoedas e, em setembro, ampliou para futuros perpétuos de metais preciosos.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/diesel-prices-fall-below-6-gallon/",
-   "published_at": "2026-11-16T10:58:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/eca76e68-ca36-494a-ba39-e180d490b277/thumbnail/1200x630/b458e464fdf2abd24830f2180f557571/gettyimages-2302849429.jpg"
+   "url": "https://www.cbsnews.com/news/kalshi-stock-etf-trading-fb-securities/",
+   "published_at": "2026-11-16T17:58:42-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/becf7e1f-574f-445c-aefa-1336663984b3/thumbnail/1200x630/90b1196644061cf64bda57d09d15d1ea/gettyimages-2260143368.jpg"
   },
   {
-   "id": "eua-10-20261116-td",
-   "title": "Robert Pattinson é anunciado como o novo James Bond",
-   "summary": "Robert Pattinson será o próximo 007, sucedendo Daniel Craig, anunciou a franquia nesta segunda-feira. Ele é o sétimo ator a interpretar o espião desde \"O Satânico Dr. No\", de 1962.",
+   "id": "eua-07-20261117-mn",
+   "title": "Indicado à Marinha enfrenta Senado sob sombra da guerra com o Irã",
+   "summary": "Hung Cao, escolhido por Trump para secretário da Marinha, depõe nesta terça-feira em comissão do Senado. A audiência pode virar um debate sobre a guerra com o Irã e a transparência militar.",
    "highlights": [
-    "26º filme de Bond será dirigido por Denis Villeneuve",
-    "Primeiro longa da franquia sob controle da Amazon MGM",
-    "Pattinson chama o papel de \"honra de uma vida\""
+    "Cao é o secretário interino e veterano de combate",
+    "Precisa de dispensa do Congresso por ter deixado a ativa há menos de 7 anos",
+    "Democratas devem questioná-lo sobre o Irã"
    ],
-   "body": "Robert Pattinson é o novo 007. Depois de muita especulação online sobre quem assumiria o papel de Daniel Craig, a franquia anunciou nesta segunda-feira que o ator será o próximo James Bond, o sétimo a interpretar o personagem desde o primeiro filme, \"O Satânico Dr. No\", lançado em 1962. \"Ser confiado com o 007 é a honra de uma vida\", disse Pattinson em comunicado.\n\nO anúncio vem cinco anos após \"Sem Tempo para Morrer\" (2021), primeiro filme da série a terminar com a morte do personagem. O 007 renascerá no 26º filme, dirigido por Denis Villeneuve, o primeiro desde que a Amazon MGM assumiu a franquia. \"Ele tem a alma atemporal do 007 e traz um espírito completamente novo\", afirmou o diretor.\n\nDurante meses, fãs debateram nomes como Callum Turner, Josh O'Connor, Jack Lowden e Nicholas Hoult. Pattinson só entrou na lista de rumores recentemente, depois que veio à tona que ele fez teste para o papel, segundo a Associated Press. O ator já participou de outras três grandes franquias: \"Batman\", \"Crepúsculo\" e \"Harry Potter\".",
+   "body": "O indicado do presidente Donald Trump para comandar a Marinha dos EUA deve depor nesta terça-feira diante de uma comissão do Senado, primeira etapa de um processo de confirmação que pode se transformar em um debate acirrado sobre a guerra com o Irã, a transparência militar e o bem-estar dos marinheiros americanos.\n\nO secretário interino Hung Cao, aliado de Trump e veterano de combate, busca o cargo civil máximo da Força em um momento volátil em Washington. Ele também precisa de uma dispensa do Congresso, pois deixou o serviço ativo há menos de sete anos. Cao enfrentará o atual Congresso, ainda com maioria republicana, mas deve receber escrutínio intenso dos democratas sobre aspectos da guerra com o Irã.",
    "category": "eua",
+   "source": "AP via Local 10",
+   "url": "https://www.local10.com/news/politics/2026/11/17/trumps-pick-for-navy-secretary-likely-to-face-iran-war-questions-during-confirmation-hearing/",
+   "published_at": "2026-11-17T00:02:58-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/QLU6FFH5BDLOI5K3HPXH2GNLMQ.jpg?auth=af6f33afafa5b32724872b0d1bc0bb9d5453e95e15313c63d8ff8d02441d6ea3&width=700"
+  },
+  {
+   "id": "eua-08-20261117-mn",
+   "title": "Novo delegado de Washington DC mira transformar a capital em estado",
+   "summary": "Robert White Jr. é o primeiro novo delegado do Distrito de Columbia na Câmara desde 1991, sucedendo Eleanor Holmes Norton. Ele espera que as vitórias democratas nas eleições de meio de mandato abram caminho para a criação do estado.",
+   "highlights": [
+    "Norton se aposenta após 36 anos no cargo",
+    "White trabalhou para Norton antes de se candidatar",
+    "Prioridades: status de estado e economia da cidade"
+   ],
+   "body": "A última vez que o Distrito de Columbia teve um delegado calouro passando pela orientação de novos parlamentares no Capitólio, a União Soviética ainda existia e George H.W. Bush era presidente. Agora, Robert White Jr. assume o papel ocupado por Eleanor Holmes Norton, defensora histórica de Washington, que se aposenta após 36 anos. White tinha oito anos quando ela começou e chegou a trabalhar para ela antes de entrar na política.\n\nEm entrevista à Associated Press, White disse que suas prioridades continuam as mesmas: conquistar o status de estado para a cidade e melhorar a situação econômica do distrito. Ele chega em um momento em que os democratas obtiveram resultados inesperadamente fortes nas eleições de meio de mandato.",
+   "category": "eua",
+   "source": "AP via Local 10",
+   "url": "https://www.local10.com/news/politics/2026/11/17/first-new-dc-delegate-since-1991-hopes-that-democratic-victories-mean-statehood-is-coming/",
+   "published_at": "2026-11-17T00:05:29-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/YJ6USXQQH4ZG5GEG6ANXWIUH5I.jpg?auth=d02eaae34939d2571ded0eba7f2e237bb32898c6c0b7cc6ccb84ad7ee406dd85&width=700"
+  },
+  {
+   "id": "eua-09-20261117-mn",
+   "title": "Acusado da morte de mulher achada enforcada no Mississippi vai a audiência",
+   "summary": "Um dos três homens acusados pela morte de Tasia Fortune, encontrada pendurada em uma árvore em Jackson, Mississippi, comparece nesta terça-feira a uma audiência preliminar. As autoridades dizem que a cena foi forjada após uma disputa ligada a drogas.",
+   "highlights": [
+    "Earnest Lloyd Jr., 25, responde por homicídio",
+    "Caso despertou temores de crime racial e lembrou linchamentos",
+    "Os três suspeitos também são negros, segundo a polícia"
+   ],
+   "body": "Um dos três homens acusados pela morte de uma mulher negra cujo corpo foi encontrado pendurado em uma árvore em Jackson, no Mississippi, no verão passado, deve comparecer ao tribunal nesta terça-feira. Earnest Lloyd Jr., de 25 anos, participará de uma audiência preliminar pela acusação de homicídio.\n\nA posição do corpo de Tasia Fortune, de 29 anos, encontrado em 3 de agosto, gerou temores de que ela tivesse sido alvo por causa da raça e evocou a longa e dolorosa história de linchamentos no estado. No entanto, os três suspeitos também são negros, e as autoridades afirmam que eles encenaram a cena após uma disputa envolvendo drogas. Algumas autoridades chegaram a pedir uma investigação federal de direitos civis.",
+   "category": "eua",
+   "source": "AP via Local 10",
+   "url": "https://www.local10.com/news/national/2026/11/17/man-charged-in-killing-of-a-black-woman-found-hanging-from-a-mississippi-tree-is-due-in-court/",
+   "published_at": "2026-11-17T03:25:35-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/B5QIDXR6QFBLNMJ6NVXFSZGLQE.jpg?auth=b92b83714ec904fc85f695cbbc56d1aff109d17cef8a3115dd25d0bc241d7c2d&width=700"
+  },
+  {
+   "id": "mundo-01-20261117-mn",
+   "title": "Irã volta a atacar alvo dos EUA no Bahrein",
+   "summary": "O Irã lançou drones nesta terça-feira contra uma instalação de radar americana no Bahrein, terceiro ataque em poucos dias contra alvos militares dos EUA no país. O Bahrein diz ter interceptado os drones.",
+   "highlights": [
+    "Ataques encerram trégua de cerca de dois meses",
+    "Porta-aviões USS Theodore Roosevelt chegou à região",
+    "EUA passam a ter três porta-aviões no Oriente Médio"
+   ],
+   "body": "O Irã disparou drones através do Golfo Pérsico nesta terça-feira contra uma instalação de radar dos EUA no Bahrein, seu terceiro ataque em poucos dias contra alvos militares americanos no pequeno reino insular, retomando ofensivas contra vizinhos árabes após uma pausa de cerca de dois meses. Depois de emitir um alerta, o Bahrein afirmou que suas defesas aéreas interceptaram com sucesso os \"traiçoeiros ataques aéreos iranianos\".\n\nO ataque ocorreu depois que o Comando Central dos EUA confirmou a chegada do grupo de ataque do porta-aviões USS Theodore Roosevelt à região. O movimento acrescenta um terceiro porta-aviões e milhares de soldados à presença americana, enquanto o presidente Donald Trump mantém abertas suas opções para os próximos passos na guerra.",
+   "category": "mundo",
+   "source": "AP via Local 10",
+   "url": "https://www.local10.com/business/2026/11/17/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain/",
+   "published_at": "2026-11-17T05:07:42-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/OJC2FO435Z52ZEVNYC7V7PEZUM.jpg?auth=aa1021c1dd061f73656c3bc2cd3b69e66b57df96158e0aa1344c8c3f8db8b96e&width=700"
+  },
+  {
+   "id": "mundo-02-20261117-mn",
+   "title": "Protestos nas Filipinas contra visita de Trump e polo de IA",
+   "summary": "Manifestações contra a visita de Donald Trump surgiram em várias partes das Filipinas. Os críticos protestam contra um polo de inteligência artificial e manufatura planejado pelos EUA ao norte de Manila.",
+   "highlights": [
+    "Projeto faz parte da iniciativa Pax Silica, do Departamento de Estado",
+    "Polo industrial teria mais de 4.000 acres",
+    "Críticos dizem que obra vai deslocar agricultores"
+   ],
+   "body": "Protestos contra a visita do presidente Trump às Filipinas surgiram em todo o país, com moradores criticando um projeto do governo americano para construir um polo de inteligência artificial e manufatura ao norte da capital, Manila. O polo, com mais de 4.000 acres, é o pontapé inicial da Pax Silica, iniciativa internacional liderada pelo Departamento de Estado para garantir cadeias de suprimento de alta tecnologia fora da China.\n\nEm Manila, manifestantes exibiram na segunda-feira cartazes com os dizeres \"Fora Trump\", desenhos dele como palhaço ou demônio e apelos para que a população rejeite a Pax Silica. Os críticos argumentam que o complexo industrial vai deslocar agricultores da região.",
+   "category": "mundo",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/james-bond-007-robert-pattinson/",
-   "published_at": "2026-11-16T10:59:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/ea9ebd4b-abff-459c-85b3-52b93f7235fd/thumbnail/1200x630/76ecd90c9e2bde2597849d471b2405bd/gettyimages-2293676738.jpg"
+   "url": "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/",
+   "published_at": "2026-11-16T22:39:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/a429c84f-5b6e-487b-bb52-fa686281dc11/thumbnail/1200x630/7712e889cce23b0ff22499b3dce52fa3/ap26319236542094.jpg"
   },
   {
-   "id": "mundo-01-20261116-td",
-   "title": "Cinco países da UE planejam centro em Ruanda para migrantes rejeitados",
-   "summary": "Alemanha, Áustria, Holanda, Dinamarca e Grécia anunciaram planos de criar em Ruanda um centro para pessoas sem direito legal de permanecer na Europa. O projeto-piloto deve enfrentar contestações judiciais e foi chamado de \"grave falha moral\" por críticos.",
+   "id": "mundo-03-20261117-mn",
+   "title": "Jornalista que denunciava narcotráfico é morto na Costa Rica",
+   "summary": "O jornalista independente Camilo Rodríguez, que denunciava supostos vínculos entre traficantes e políticos, foi morto a tiros na segunda-feira perto de San José. Ele havia relatado ameaças de morte de grupos do narcotráfico.",
    "highlights": [
-    "Primeiros a usar a nova lei de retornos da UE",
-    "Meta é enviar 100 pessoas a partir do início do próximo ano",
-    "Não vale para quem ainda tem pedido de asilo em análise"
+    "Dois homens em uma moto atiraram contra o carro dele",
+    "Ataque ocorreu em Santo Domingo de Heredia, no trânsito",
+    "Rodríguez, de 50 anos, dizia ter repassado informações à DEA"
    ],
-   "body": "Cinco Estados-membros da União Europeia — Alemanha, Áustria, Holanda, Dinamarca e Grécia — anunciaram planos para montar em Ruanda um centro para pessoas sem direito legal de ficar na Europa. Eles são os primeiros a tentar usar a nova lei de retornos do bloco, que permite enviar a um terceiro país quem já esgotou todos os recursos contra sua remoção.\n\nEm comunicado, os países disseram que \"negociações concretas com o país parceiro Ruanda vão começar\" e que o plano ajudaria a conter a migração ilegal e desmontar o modelo de negócio dos contrabandistas. A ideia é enviar 100 pessoas a partir do início do próximo ano para testar o modelo; os migrantes ficariam alguns meses em um centro aberto antes de escolher se integrar em Ruanda ou voltar ao país de origem.\n\nDiferentemente do plano fracassado do governo conservador britânico com Ruanda ou do acordo da Itália com a Albânia, o esquema não se aplica a quem ainda busca asilo, apenas a adultos com pedidos rejeitados ou sem direito de residência. Fontes diplomáticas disseram que as instalações financiadas pelo Reino Unido em Kigali não serão usadas.",
+   "body": "O jornalista independente costarriquenho Camilo Rodríguez, que expunha nas redes sociais supostos vínculos entre traficantes de drogas e políticos, foi morto a tiros na segunda-feira nos arredores da capital, San José, informaram as autoridades. Segundo o chefe de polícia Raúl Rivera, dois homens em uma motocicleta abriram fogo contra ele enquanto dirigia pela cidade de Santo Domingo de Heredia, por volta das 15h20 (hora local), em meio ao trânsito intenso de uma rodovia.\n\nRodríguez, de 50 anos, havia relatado ter recebido várias ameaças de morte de grupos do narcotráfico. Ele citava chefes do tráfico pelo nome completo e afirmava ter fornecido relatórios à agência antidrogas dos EUA (DEA) sobre ligações entre o tráfico e a política.",
    "category": "mundo",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-   "published_at": "2026-11-16T11:21:40-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c6e402db7971102686e38e4401eb7a4"
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/journalist-killed-costa-rica-camilo-rodriguez-reported-death-threats/",
+   "published_at": "2026-11-17T06:20:15-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/f660daee-e909-4176-af3d-cc3ec8f46568/thumbnail/1200x630g6/4ebfd5922f7a6a255d541a3083301aac/gettyimages-2304988297.jpg"
   },
   {
-   "id": "mundo-02-20261116-td",
-   "title": "Terceiro porta-aviões dos EUA chega ao Oriente Médio em meio à guerra com o Irã",
-   "summary": "O USS Theodore Roosevelt chegou ao Oriente Médio, informou o Comando Central dos EUA nesta segunda-feira, juntando-se a outros dois porta-aviões na região. Trump alterna entre ameaçar novos ataques ao Irã e dizer que a guerra está \"efetivamente encerrada\".",
+   "id": "mundo-04-20261117-mn",
+   "title": "Ucrânia atinge ponte da Crimeia; Rússia bombardeia Kiev",
+   "summary": "A Ucrânia atingiu pela segunda noite seguida a ponte de Kerch, que liga a Crimeia ocupada à Rússia, enquanto a Rússia atacou duas grandes pontes em Kiev. Imagens não verificadas sugerem que parte da pista desabou.",
    "highlights": [
-    "Roosevelt se une ao USS George H.W. Bush e ao USS George Washington",
-    "Frota no Mar Arábico inclui 13 destróieres e dois cruzadores",
-    "Chegada ocorre após derrotas republicanas nas eleições de meio de mandato"
+    "Tráfego na ponte de Kerch ficou interrompido por horas",
+    "Blogueiro militar russo chamou o dano de \"significativo\"",
+    "Ataques ocorrem antes do encontro de Trump com Putin"
    ],
-   "body": "Um terceiro porta-aviões americano chegou ao Oriente Médio, informou o Comando Central dos EUA nesta segunda-feira, em uma demonstração de força enquanto o presidente Donald Trump mantém abertas as opções na guerra contra o Irã, que já dura mais de oito meses. O USS Theodore Roosevelt, que deixou San Diego em setembro, traz milhares de militares adicionais.\n\nEle se junta aos porta-aviões USS George H.W. Bush e USS George Washington e a navios menores que mantêm um bloqueio naval ao transporte marítimo iraniano. Além dos três porta-aviões, a flotilha no Mar Arábico inclui 13 destróieres, dois cruzadores e um navio de combate litorâneo; outros dois destróieres estão no Mar Vermelho. O grupo anfíbio do USS Makin Island, com cerca de 2.000 fuzileiros navais, ainda não chegou.\n\nA chegada ocorre quase duas semanas após as eleições de meio de mandato, em que o Partido Republicano sofreu grandes perdas, em parte pela impopularidade da guerra e de seus efeitos econômicos. O resultado levou o vice-presidente JD Vance a romper publicamente com Trump sobre o conflito, escrevendo que \"a razão de termos perdido é a guerra\".",
+   "body": "A Ucrânia atingiu nesta terça-feira, pela segunda noite consecutiva, a ponte que liga a Crimeia ocupada pela Rússia ao território russo, enquanto Moscou atacou duas grandes pontes na capital ucraniana, Kiev. O tráfego na ponte de Kerch, que leva carros e trens, ficou interrompido por horas após o ataque, pouco depois da meia-noite. A ponte, construída após a anexação da Crimeia em 2014, já foi alvo de ataques ucranianos e tem grande valor simbólico.\n\nNão houve comentário oficial sobre os danos, mas imagens não verificadas nas redes sociais pareciam mostrar um trecho da pista rodoviária completamente desabado na água. O blogueiro militar russo Alexander Kots classificou os danos como \"significativos\". A escalada ocorre às vésperas do encontro previsto entre Trump e Vladimir Putin.",
    "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/16/third-us-aircraft-carrier-arrives-in-the-middle-east-as-trump-keeps-options-open-in-the-iran-war/",
-   "published_at": "2026-11-16T10:55:33-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/WFB4CHL4GUF3LRJATLCGMBJYTQ.jpg?auth=aafdcd6d5d3a129e84cacda0b94f9ecb65d7cd22e80ece81d4009833dc264795&width=700"
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/ukraine-war-russia-crimea-kerch-bridge-kyiv/",
+   "published_at": "2026-11-17T05:30:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/f5b8e909-aa33-4f58-b114-6e98fefa1a72/thumbnail/1200x630/3efd5b07383aa8a9569856ab777b224f/gettyimages-1556045928.jpg"
   },
   {
-   "id": "mundo-03-20261116-td",
-   "title": "Arábia Saudita troca comandante da coalizão que combate os houthis",
-   "summary": "O rei Salman nomeou o general Fayyad al-Ruwaili para comandar as forças da coalizão saudita no Iêmen, substituindo o tenente-general Fahd bin Hamad al-Salman. A troca ocorre após a retirada das forças da costa do Mar Vermelho para proteger Aden.",
+   "id": "mundo-05-20261117-mn",
+   "title": "Trump chega à Ásia para cúpula com Putin e Xi",
+   "summary": "Donald Trump chegou às Filipinas nesta terça-feira, início de um giro pela Ásia que inclui uma cúpula inédita com Vladimir Putin e Xi Jinping. Ele disse que pode se encontrar também com Kim Jong Un na China.",
    "highlights": [
-    "Coalizão abandonou ofensiva perto do estreito de Bab al-Mandeb",
-    "Houthis disparam mísseis contra aeroportos e instalações de petróleo sauditas",
-    "Retirada é vista como grande revés para a campanha apoiada por Riad"
+    "Primeira reunião conjunta dos três líderes",
+    "Pauta inclui redução de armas nucleares",
+    "Guerras no Irã e na Ucrânia estarão em foco"
    ],
-   "body": "A Arábia Saudita substituiu o comandante de suas forças de coalizão que lutam contra os houthis, apoiados pelo Irã, no Iêmen. Um decreto do rei Salman nesta segunda-feira nomeou o general Fayyad al-Ruwaili para o comando, segundo a mídia estatal saudita. O tenente-general Fahd bin Hamad al-Salman foi nomeado assessor militar do ministro da Defesa.\n\nA mudança veio depois que as forças da coalizão foram obrigadas a abandonar a tentativa de retomar áreas da costa do Mar Vermelho para reforçar Aden, capital interina do governo iemenita. O governo reconhecido internacionalmente disse no domingo que as tropas estavam deixando áreas perto do estreito de Bab al-Mandeb — por onde passam as exportações de petróleo sauditas enquanto a guerra EUA-Irã afeta o tráfego no Estreito de Ormuz.\n\nA retirada marca um grande revés para a campanha saudita contra os houthis, que disparam mísseis balísticos contra aeroportos e instalações de petróleo da Arábia Saudita desde que a guerra civil iemenita recomeçou em julho. Uma ofensiva houthi em setembro tirou do governo o controle da costa do Mar Vermelho, incluindo a cidade portuária de Mocha, e Taiz está completamente sitiada.",
+   "body": "O presidente Trump chegou às Filipinas nesta terça-feira para iniciar uma viagem de vários dias pela Ásia, durante a qual deve se reunir com o presidente russo, Vladimir Putin, e o chinês, Xi Jinping, em uma cúpula muito aguardada no fim da semana. Antes de deixar Washington, Trump chamou a viagem de \"grande\" e disse que pode se encontrar também com o líder norte-coreano Kim Jong Un na China.\n\nSegundo a Casa Branca, o encontro entre Trump, Xi e Putin — o primeiro entre os três — deve se concentrar na redução da proliferação de armas nucleares, em meio às guerras no Irã e na Ucrânia. Trump disse que eles discutirão a desnuclearização, que chamou de \"assunto difícil\", além do Irã.",
    "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis",
-   "published_at": "2026-11-16T14:19:21-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=1920%2C1440"
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+   "published_at": "2026-11-16T09:24:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/00019e94-0615-4c60-ae29-c992454e22d2/thumbnail/1200x630/55e05d525b8d6d23e75d4abe46fdaf5c/gettyimages-2305021917.jpg"
   },
   {
-   "id": "mundo-04-20261116-td",
-   "title": "China diz que Xi, Trump e Putin vão discutir \"paz mundial\" em cúpula inédita",
-   "summary": "O Ministério das Relações Exteriores da China afirmou que a reunião trilateral de Xi Jinping, Donald Trump e Vladimir Putin em Shenzhen, na quinta-feira, terá temas de \"significado inovador\", incluindo a paz mundial. Trump disse que vai falar de desnuclearização, Irã, comércio e Ucrânia.",
+   "id": "mundo-06-20261117-mn",
+   "title": "Presidente da Mongólia anuncia renúncia após acusação de corrupção",
+   "summary": "O presidente da Mongólia, Khurelsukh Ukhnaa, disse que vai renunciar após ser acusado de receber US$ 25 milhões ligados a um projeto ferroviário. Ele nega irregularidades.",
    "highlights": [
-    "Encontro será à margem da cúpula da Apec em Shenzhen",
-    "É o primeiro encontro desse tipo entre os três líderes",
-    "China não confirmou pauta específica"
+    "Acusação partiu de ex-prefeito de Ulaanbaatar do mesmo partido",
+    "Caso envolve ferrovia Tavantolgoi-Gashuunsukhait",
+    "Oposição democrata pediu a saída do presidente"
    ],
-   "body": "O encontro de Xi Jinping, Donald Trump e Vladimir Putin em Shenzhen nesta semana vai abordar temas de \"significado inovador\", incluindo \"salvaguardar a paz mundial\", disse o Ministério das Relações Exteriores da China. A reunião trilateral de quinta-feira, a primeira do tipo, ocorrerá à margem da cúpula da Cooperação Econômica Ásia-Pacífico (Apec) e reforça o papel de Xi como articulador global.\n\nNa Casa Branca, Trump disse a repórteres que falará com os colegas chinês e russo sobre desnuclearização, a guerra no Irã, economia, comércio e \"meu assunto favorito, a Ucrânia\". Autoridades americanas haviam indicado antes que Trump não discutiria a guerra na Ucrânia durante a viagem. Muitos, incluindo o secretário-geral da ONU, António Guterres, esperavam que a cúpula tratasse da redução de arsenais nucleares.\n\nA China foi a última das três potências a confirmar a reunião, e seu comunicado não detalhou a pauta. Segundo a porta-voz Mao Ning, os líderes vão \"trocar opiniões em profundidade sobre a salvaguarda da paz mundial e a promoção da estabilidade estratégica nas relações entre grandes potências\". O chanceler chinês Wang Yi e o secretário de Estado Marco Rubio conversaram nesta semana sobre a importância de diálogos entre líderes.",
+   "body": "O presidente da Mongólia, Khurelsukh Ukhnaa, anunciou nesta terça-feira que vai renunciar depois que outro político do governista Partido Popular da Mongólia o acusou de ter se beneficiado financeiramente de um projeto ferroviário do governo há sete anos, quando era primeiro-ministro.\n\nA acusação foi feita no sábado por Nyambaatar Khishgee, ex-prefeito da capital, Ulaanbaatar, que pertence a outra facção do mesmo partido. Ele afirmou que Khurelsukh recebeu 25 milhões de dólares em conexão com a ferrovia Tavantolgoi-Gashuunsukhait. Em seguida, o oposicionista Partido Democrata pediu a renúncia do presidente, que rejeitou as acusações de irregularidades.",
    "category": "mundo",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
-   "published_at": "2026-11-16T13:23:02-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/1314ca56ea87a76eb19c89d8d928610638be91b9/258_0_1247_998/master/1247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fab03c848e9c2e4dae360df46983c64"
+   "source": "AP via Local 10",
+   "url": "https://www.local10.com/news/world/2026/11/17/mongolias-president-says-he-will-step-down-after-facing-accusations-of-corruption/",
+   "published_at": "2026-11-16T23:12:25-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/CQSKEQ54OPXXZKX7HIO3PFOSTU.jpg?auth=be54df57439fd6f8297156d2255686b5bd00beeb10607c3bbc6634e70ac1304b&width=700"
   },
   {
-   "id": "mundo-05-20261116-td",
-   "title": "Ex-presidente do Paraguai é transferido para prisão militar após relatos de regalias",
-   "summary": "Um juiz paraguaio ordenou a transferência do ex-presidente Santiago Peña para uma prisão militar, depois de relatos de que ele estava detido em uma suíte com academia particular. Peña aguarda julgamento pelo colapso do banco digital Ueno, que derrubou seu governo.",
+   "id": "mundo-07-20261117-mn",
+   "title": "Papa perdoa fiel que o acertou no olho com um terço no Peru",
+   "summary": "O papa Leão XIV perdoou a pessoa que atirou um terço e o atingiu no olho antes da missa final no Peru. Ele disse que o gesto foi apenas um sinal de fé profunda.",
    "highlights": [
-    "Peña irá para a prisão militar de Viñas Cué, separado de outros presos",
-    "Presidente Pedro Alliana demitiu o comandante do regimento",
-    "Colapso do Ueno congelou contas de quase 3 milhões de clientes"
+    "Incidente ocorreu durante passeio de papamóvel em Lima",
+    "Cerca de 1,5 milhão de pessoas foram à missa",
+    "Papa brincou com o episódio no voo de volta"
    ],
-   "body": "O juiz Osmar Legal ordenou nesta segunda-feira que o ex-presidente do Paraguai Santiago Peña seja transferido do Regimento de Escolta Presidencial, base militar em Assunção, para a prisão militar de Viñas Cué, onde ficará separado de outros detentos. A imprensa local relatou que os aposentos de Peña incluíam suíte com academia particular, banheiro privativo e sala de jantar espaçosa.\n\nO presidente Pedro Alliana, que foi vice de Peña, anunciou a demissão do comandante do regimento, coronel José David Daiub, após as denúncias de tratamento especial, e prometeu dar aos promotores todos os recursos para investigar o colapso do banco. \"Os paraguaios merecem saber a verdade\", disse.\n\nPeña está em prisão preventiva por acusações como abuso de confiança, associação criminosa e administração em benefício próprio. Promotores afirmam que ele usou sua influência para direcionar dinheiro público ao Ueno Bank, usado por mais da metade dos adultos do país, enquanto executivos faziam empréstimos a empresas ligadas aos donos. Ele nega irregularidades. O banco central tomou o Ueno em 3 de novembro, congelando contas de quase 3 milhões de clientes e mais de US$ 850 milhões em recursos públicos; três dias depois, o Senado destituiu Peña.",
+   "body": "O papa Leão XIV perdoou a pessoa que atirou um terço em sua direção antes da missa final no Peru e o atingiu no olho, dizendo que o gesto foi apenas um sinal da fé profunda do fiel. Leão foi atingido durante um passeio de papamóvel na segunda-feira em meio a cerca de 1,5 milhão de pessoas reunidas em uma base aérea de Lima. Ele fez uma careta e tocou o olho, mas seguiu como se nada tivesse acontecido.\n\nEm entrevista coletiva no avião papal, a caminho de casa, um repórter peruano pediu desculpas pelo incidente. O papa, que viveu duas décadas no Peru e tem cidadania peruana, minimizou o ocorrido como alguém tentando se aproximar dele — e ainda fez piada sobre o episódio.",
    "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/16/paraguays-ousted-president-moved-to-military-prison-after-reports-of-gym-and-suite-in-custody/",
-   "published_at": "2026-11-16T13:59:24-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/33SFCEZL22UGDDZGCA5GGIISPY.jpg?auth=41e960d7f251939fc5a65fa395f7de4102e9a6339389209519beada6779d1138&width=700"
+   "source": "AP via Local 10",
+   "url": "https://www.local10.com/news/world/2026/11/17/pope-forgives-person-who-nailed-him-in-the-eye-with-a-rosary-in-peru/",
+   "published_at": "2026-11-17T03:52:28-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/IWBNDESE4GLCYWFZC2LJEPXGFE.jpg?auth=16218c49dead32d51dfaeb8982987594e7fa98171ecd88c49385ba5d59bb070e&width=700"
   },
   {
-   "id": "mundo-06-20261116-td",
-   "title": "Ataque aéreo do Exército mata ao menos 13 no Sudão, diz grupo de direitos humanos",
-   "summary": "Um bombardeio do Exército sudanês matou pelo menos 13 pessoas, incluindo mulheres e crianças, e destruiu casas em Kordofan Ocidental, segundo o grupo Emergency Lawyers. A AP não conseguiu verificar o número de mortos de forma independente.",
+   "id": "mundo-08-20261117-mn",
+   "title": "Movimento estudantil assume Parlamento da Sérvia",
+   "summary": "Os candidatos da Lista Estudantil, movimento que derrotou o partido de Aleksandar Vučić nas eleições do mês passado, tomam posse como deputados nesta terça-feira. Vučić ameaça promover protestos em massa.",
    "highlights": [
-    "Ataque atingiu a área de Abu Qalb, na localidade de Abu Zabad",
-    "Guerra entre Exército e RSF já matou ao menos 59 mil pessoas",
-    "Drones se tornaram a maior ameaça a civis"
+    "140 novos deputados, entre acadêmicos, advogados e cientistas",
+    "Posse encerra 14 anos de governo de Vučić e do SNS",
+    "Governo interino segue até aprovação do novo gabinete"
    ],
-   "body": "Um ataque aéreo do Exército do Sudão matou pelo menos 13 pessoas e destruiu várias casas no oeste do país, informou nesta segunda-feira o grupo local de direitos humanos Emergency Lawyers. Mulheres e crianças estão entre os mortos na área de Abu Qalb, na localidade de Abu Zabad, em Kordofan Ocidental. A Associated Press não conseguiu verificar o número de forma independente.\n\nO grupo culpou o Exército e disse que \"o uso contínuo de ataques aéreos indiscriminados contra áreas residenciais\" é uma grave violação do direito humanitário internacional. Um porta-voz das Forças de Operações Especiais que lutam ao lado do Exército escreveu que suas tropas passaram por Abu Zabad e \"eliminaram\" posições das Forças de Apoio Rápido (RSF).\n\nA guerra entre o Exército e as RSF, iniciada em abril de 2023, criou uma das piores crises humanitárias do mundo, com pelo menos 59 mil mortos, cerca de 13 milhões de deslocados e áreas em situação de fome, segundo organizações de ajuda. Os combates se concentram em Darfur e Kordofan e recentemente avançaram para a província do Nilo Azul, com drones fornecidos aos dois lados por países do Oriente Médio e de outras regiões.",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/16/army-airstrike-kills-at-least-13-in-west-kordofan-says-rights-group/",
-   "published_at": "2026-11-16T12:50:50-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/GWPAKKA4EOBGKBJEDQGDMLOTY4.jpg?auth=df631eae8baf94c55f0cc52b0fbce0c5dc19bb6aa4e52243ecc163bd20761b68&width=700"
-  },
-  {
-   "id": "mundo-07-20261116-td",
-   "title": "Dois massacres a tiros deixam ao menos 17 mortos na África do Sul",
-   "summary": "Pelo menos 17 pessoas morreram em dois tiroteios separados na África do Sul, segundo a polícia. Oito homens foram encontrados mortos em um veículo perto de Pietermaritzburg e nove pessoas em um barraco perto de Pretória.",
-   "highlights": [
-    "Crimes ocorreram a 530 km de distância um do outro",
-    "Polícia ainda não identificou motivação",
-    "Uma das vítimas era \"pessoa de interesse\" em massacre de 2025"
-   ],
-   "body": "Ao menos 17 pessoas foram mortas em dois tiroteios em massa distintos na África do Sul, informou a polícia. Oito homens foram encontrados mortos no fim da noite de domingo em um veículo \"crivado de balas\" em Sweetwaters, nos arredores de Pietermaritzburg. Horas depois, seis homens e três mulheres foram encontrados baleados dentro de um barraco em Jeffsville, assentamento informal perto de Pretória.\n\nO comissário nacional de polícia, Fannie Masemola, disse que os investigadores ainda não estabeleceram a motivação dos crimes, ocorridos a 530 km de distância. \"Os tiroteios em massa que enfrentamos são inaceitáveis. Temos de encontrar esses criminosos\", afirmou. O país enfrenta há anos altos índices de crimes violentos e um aumento recente de massacres com muitas vítimas.\n\nEm Jeffsville, uma criança que entrou no barraco procurando um parente descobriu os corpos. O comissário de polícia de Gauteng, Tommy Mthombeni, disse que uma das vítimas era \"pessoa de interesse\" em um tiroteio no ano passado no assentamento vizinho de Saulsville, que deixou 12 mortos, e que não se descarta uma retaliação.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings",
-   "published_at": "2026-11-16T10:26:39-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb113f006a-1794838847.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-08-20261116-td",
-   "title": "Navio cargueiro naufraga na costa da Bulgária no Mar Negro",
-   "summary": "Um navio cargueiro com bandeira da Somália virou na costa búlgara do Mar Negro, e os 12 tripulantes foram resgatados com vida. Os marinheiros disseram que o navio foi atingido por dois drones marítimos.",
-   "highlights": [
-    "Betul 8 levava 3.000 toneladas de trigo da Romênia para o Egito",
-    "É o 17º navio atacado na costa da Bulgária e da Romênia desde julho",
-    "Romênia e Bulgária apontam a Rússia, que nega"
-   ],
-   "body": "Um navio cargueiro virou na costa da Bulgária no Mar Negro, informou o Ministério dos Transportes búlgaro. Os 12 tripulantes do Betul 8, de bandeira somali — oito turcos e quatro azerbaijanos —, foram resgatados nesta segunda-feira em uma operação com quatro navios da Bulgária, Romênia e Turquia, e levados de helicóptero para terra em bom estado de saúde.\n\nEm Varna, os tripulantes disseram que o navio foi atingido por dois drones marítimos. O cargueiro transportava 3.000 toneladas de trigo da Romênia para o Egito e emitiu sinal de socorro a cerca de 74 km a sudeste do Cabo Kaliakra. No fim de semana, três navios foram atingidos na costa romena, sem vítimas, e o chanceler romeno, Dan Neculaescu, classificou os incidentes de \"inaceitáveis\".\n\nSegundo a empresa de segurança marítima Diaplous, o Betul 8 é o 17º navio atacado nas águas da Bulgária e da Romênia desde meados de julho. A região virou a principal rota de exportação de grãos da Ucrânia. Autoridades romenas e búlgaras culpam a Rússia, embora a Bulgária ressalte não haver provas; Moscou nega responsabilidade.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast",
-   "published_at": "2026-11-16T12:54:31-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26320546823827-1794851994.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-09-20261116-td",
-   "title": "Iraque manda Exército para reduto da milícia pró-Irã Kataib Hezbollah",
-   "summary": "O primeiro-ministro do Iraque, Ali al-Zaidi, ordenou que as Forças Armadas entrem na cidade de Jurf al-Nasr, reduto do grupo Kataib Hezbollah, em meio a uma investigação sobre contrabando de petróleo. O grupo teria até sexta-feira para deixar a área.",
-   "highlights": [
-    "Ordem vem sob pressão dos EUA e de aliados do Golfo",
-    "Petroleiros estão proibidos de deixar a região",
-    "Kataib Hezbollah nega as acusações"
-   ],
-   "body": "O Iraque ordenou que suas Forças Armadas entrem em Jurf al-Nasr, reduto do grupo armado Kataib Hezbollah, apoiado pelo Irã, em meio a uma investigação sobre suspeita de contrabando de petróleo. O porta-voz do governo, Haidar al-Aboudi, disse que o primeiro-ministro Ali al-Zaidi também fixou um prazo para que a facção deixe a área; uma fonte disse à Al Jazeera Árabe que o prazo vai até sexta-feira.\n\nA ordem ocorre sob pressão dos Estados Unidos e de aliados do Golfo para conter a influência de Teerã no Iraque. Al-Zaidi mandou reforçar as tropas ao redor da cidade, ao sul de Bagdá, e preparar a entrada do governo, o que pode levar a um confronto direto com o grupo. As forças de segurança também devem impedir que veículos com petróleo ou derivados deixem a área.\n\nO Iraque lançou recentemente uma ampla ofensiva anticorrupção centrada na cidade, que supostamente abriga refinarias ilegais. O Kataib Hezbollah, um dos vários grupos armados pró-Irã com status semioficial no país, negou as acusações no domingo e disse ser alvo de uma \"campanha de chantagem\" para forçá-lo a entregar as armas.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah",
-   "published_at": "2026-11-16T12:18:14-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abdc317db24-1790821143.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mundo-10-20261116-td",
-   "title": "COP31 divulga primeiro rascunho de acordo com apelo para abandonar fósseis",
-   "summary": "A presidência australiana da COP31 divulgou um primeiro rascunho da possível decisão final, com mais de quatro dias de negociação pela frente. O texto inclui o pedido de \"transição imediata para longe dos combustíveis fósseis\".",
-   "highlights": [
-    "Rascunho tem 18 páginas e 144 itens",
-    "Chris Bowen diz que objetivo é revelar onde há acordo e divergência",
-    "Texto precisa de aprovação de quase 200 países"
-   ],
-   "body": "Um primeiro rascunho da possível decisão final da cúpula do clima da ONU, a COP31, foi divulgado na tarde desta segunda-feira, surpreendendo muitos países por chegar com mais de quatro dias de negociação ainda pela frente. Segundo Chris Bowen, ministro australiano do Clima e Energia e presidente das negociações, o documento é \"uma tentativa genuína\" de mostrar o que as partes podem ou não apoiar.\n\nO texto de 18 páginas, que deve passar por várias versões até o fim previsto da conferência na sexta-feira à noite, inclui entre seus 144 itens o apelo para \"fazer imediatamente a transição para longe dos combustíveis fósseis\" e para limitar a \"ultrapassagem\" da meta de 1,5°C do Acordo de Paris. Ele reúne posições conflitantes de pequenos Estados insulares, grandes produtores de petróleo e economias emergentes.\n\n\"Se nos concentrássemos apenas no que tem amplo consenso, seria um documento muito fraco\", disse Bowen. O acordo final precisa ser aprovado por quase 200 países. Para Alden Mayer, do centro de estudos E3G, divulgar o rascunho tão cedo é uma aposta, mas esperar até o fim da semana também seria.",
+   "body": "Os candidatos da Lista Estudantil, movimento de base formado por outsiders da política que obteve vitória espetacular nas eleições do mês passado sobre o partido do líder populista Aleksandar Vučić, tomam posse como deputados nesta terça-feira e iniciam o processo de formação de governo. São 140 parlamentares, entre acadêmicos, advogados, cientistas e até um ator.\n\nA sessão inaugural do novo Parlamento encerra 14 anos de governo de Vučić e de seu Partido Progressista Sérvio (SNS). Um governo interino, chefiado pelo primeiro-ministro em fim de mandato Đuro Macut, permanecerá no cargo até que os deputados aprovem um novo gabinete. Vučić, por sua vez, ameaça convocar protestos em massa.",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
-   "published_at": "2026-11-16T11:54:42-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/master/6113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0dc85d6cf0c7d3b16cd2e3b58af2c54c"
+   "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+   "published_at": "2026-11-17T00:00:05-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/3fd406c80b12642e836ed680f572f9f3958bdec9/516_0_6882_5504/master/6882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=475803c81a7fc0a87526545a4c949c75"
   },
   {
-   "id": "weston-01-20261116-td",
+   "id": "mundo-09-20261117-mn",
+   "title": "Reino Unido sanciona empresas israelenses ligadas a assentamentos",
+   "summary": "O chanceler britânico Ed Miliband anunciou as primeiras sanções contra empresas israelenses que planejam construir assentamentos ilegais na Cisjordânia. Um grupo ativista acusado de bloquear ajuda a Gaza também foi sancionado.",
+   "highlights": [
+    "Medida busca frear novos assentamentos ilegais",
+    "Anúncio ocorre antes da licitação do assentamento E1",
+    "Miliband diz querer cooperar com novo governo israelense"
+   ],
+   "body": "O secretário de Relações Exteriores do Reino Unido, Ed Miliband, anunciou o primeiro conjunto de sanções contra empresas israelenses que planejam construir assentamentos ilegais na Cisjordânia, cumprindo a promessa de tentar impedir construções que destroem as chances de uma solução de dois Estados. Segundo o Foreign Office, Israel tem se \"recusado a reprimir\" esses assentamentos.\n\nMiliband também anunciou sanções contra um grupo ativista de direita israelense envolvido em tentativas de bloquear a entrada de ajuda em Gaza até o mês passado. As medidas foram anunciadas pouco antes de o governo israelense alocar as licitações do grande assentamento E1, e o chanceler disse que deseja trabalhar de forma mais cooperativa com um novo governo em Israel.",
+   "category": "mundo",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+   "published_at": "2026-11-17T05:47:18-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/0c6c3abea16d477d745d8d4ce121385b428ce6a3/1393_0_7030_5624/master/7030.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ec84804adca6c6dbc1bcbdbf287b2f2"
+  },
+  {
+   "id": "mundo-10-20261117-mn",
+   "title": "Japão aciona caças após suposta invasão russa de seu espaço aéreo",
+   "summary": "O Japão enviou caças e protestou \"fortemente\" depois que duas aeronaves supostamente russas violaram seu espaço aéreo na manhã desta terça-feira. Coreia do Sul e Taiwan também reagiram a aviões militares russos.",
+   "highlights": [
+    "Governo japonês chamou as rotas de \"completamente inaceitáveis\"",
+    "Episódio ocorre antes da cúpula da Apec na China",
+    "Moscou ainda não comentou"
+   ],
+   "body": "O Japão afirmou ter enviado caças e protestado \"fortemente\" depois que duas aeronaves supostamente russas violaram seu espaço aéreo no início desta terça-feira. O secretário-chefe do gabinete, Minoru Kihara, disse que as rotas de voo foram \"completamente inaceitáveis\". A Coreia do Sul também mobilizou caças, e Taiwan disse ter \"respondido\" a aeronaves militares russas detectadas em suas zonas de identificação de defesa aérea.\n\nEssas zonas são áreas-tampão não oficiais além do espaço aéreo territorial, onde os governos identificam aeronaves que se aproximam. Moscou ainda não se pronunciou. As supostas incursões lembram o poderio militar russo às vésperas da cúpula econômica da Apec na China nesta semana, da qual Vladimir Putin participará.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o",
+   "published_at": "2026-11-17T02:44:17-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg"
+  },
+  {
+   "id": "weston-01-20261117-mn",
    "title": "Weston empossa Bernardini e Ortega na comissão na segunda, 16",
    "summary": "Patricia Bernardini e Alfredo Ortega, eleitos em 3 de novembro, tomam posse na Comissão Municipal de Weston na reunião de segunda-feira, às 19h. Em seguida, a comissão escolhe o vice-prefeito e vota subsídios para parques e árvores.",
    "highlights": [
@@ -341,7 +325,7 @@
    "image_url": "https://westonjournal.com/img/weston-commission-swearing-in-nov-16.webp"
   },
   {
-   "id": "weston-02-20261116-td",
+   "id": "weston-02-20261117-mn",
    "title": "Weston Road tem pavimentação noturna a partir deste domingo",
    "summary": "A prefeitura retoma neste domingo, 15, a fresagem e repavimentação noturna da Weston Road entre a Royal Palm Boulevard e a Meridian Parkway, com fechamento de faixas das 21h às 6h. Na I-595, perto da I-75, obras de sinalização fecham faixas e uma rampa em noites selecionadas até quinta, 19.",
    "highlights": [
@@ -357,292 +341,324 @@
    "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
   },
   {
-   "id": "miami-01-20261116-td",
-   "title": "Veículo invade creche após acidente no noroeste de Miami-Dade",
-   "summary": "Três pessoas ficaram feridas em um acidente que fez um veículo bater na lateral de uma creche no noroeste de Miami-Dade. Uma delas foi levada a um centro de trauma.",
+   "id": "miami-01-20261117-mn",
+   "title": "Heat vence Rockets e chega a 5 vitórias seguidas",
+   "summary": "O Miami Heat derrotou o Houston Rockets por 128 a 110 na segunda-feira, sem ficar atrás no placar em nenhum momento. Giannis Antetokounmpo fez 20 pontos e 13 rebotes.",
    "highlights": [
-    "Local é a It's a Small World Learning Center, na NW 22nd Avenue",
-    "Outras duas vítimas foram levadas a hospital",
-    "Gravidade dos ferimentos e causa ainda não divulgadas"
+    "Heat tem 8-2 desde o início de 0-4",
+    "Bam Adebayo ficou fora do 2º tempo por dor no quadril",
+    "Klay Thompson está a 21 cestas de 3 de Ray Allen"
    ],
-   "body": "Uma investigação está em andamento no noroeste de Miami-Dade depois que equipes de emergência informaram que três pessoas ficaram feridas em um acidente que fez um veículo se chocar contra a lateral de uma creche.\n\nSegundo o Corpo de Bombeiros de Miami-Dade, o caso ocorreu na altura do número 4617 da NW 22nd Avenue, endereço da creche It's a Small World Learning Center. Uma das vítimas foi levada a um centro de trauma e outras duas a um hospital.\n\nAinda não se sabe a gravidade dos ferimentos nem como o acidente aconteceu. A CBS News Miami informou que vai atualizar a reportagem conforme novos detalhes forem divulgados.",
+   "body": "Giannis Antetokounmpo marcou 20 pontos e pegou 13 rebotes, Andrew Wiggins e Klay Thompson fizeram 17 cada, e o Miami Heat nunca esteve atrás no placar ao vencer o Houston Rockets por 128 a 110 na noite de segunda-feira, chegando à quinta vitória seguida. Davion Mitchell teve 16 pontos e 10 assistências, e Bobby Portis Jr. somou 16 pontos. O Heat tem campanha de 8-2 desde que começou a temporada com quatro derrotas.\n\nMiami ficou sem Bam Adebayo no segundo tempo por causa de um desconforto no quadril direito. Thompson acertou cinco cestas de três, chegando a 2.952 na carreira, a 21 de Ray Allen (2.973), terceiro da lista histórica. O próximo desafio de Antetokounmpo será contra seu ex-time, o Milwaukee Bucks.",
    "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/northwest-miami-dade-crash-daycare-its-a-small-world-learning-center/",
-   "published_at": "2026-11-16T13:38:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/16/cd8b58d2-9de3-4d0f-bbfa-4dcd187712ed/thumbnail/1200x630/40ee33826ee79caec97fd61e6708cd2f/screenshot-2026-11-16-132633.png"
+   "source": "WSVN 7News (AP)",
+   "url": "https://wsvn.com/sports/miami-heat/miami-heat-beat-houston-rockets/",
+   "published_at": "2026-11-16T22:15:34-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/102126-giannis-heat-preseason.png"
   },
   {
-   "id": "miami-02-20261116-td",
-   "title": "Menino de 5 anos é atingido por bala perdida no noroeste de Miami-Dade",
-   "summary": "Uma criança de 5 anos foi atingida por uma bala perdida enquanto estava sentada em um carro no noroeste de Miami-Dade. O menino está em condição estável, e a polícia procura o atirador.",
+   "id": "miami-02-20261117-mn",
+   "title": "Homem é preso por furtar carros de concessionária em Hialeah Gardens",
+   "summary": "A polícia prendeu um homem acusado de roubar vários carros caros de uma revendedora em Hialeah Gardens, num prejuízo estimado em US$ 200 mil. Ele compareceu ao tribunal na segunda-feira.",
    "highlights": [
-    "Disparos ocorreram por volta das 5h de domingo, perto da NW 60th Street com 21st Avenue",
-    "Tiros seguiram uma discussão entre dois homens",
-    "Crime Stoppers oferece recompensa de até US$ 5 mil: 305-471-TIPS"
+    "Michael Guevara, 35, responde por arrombamento e furto",
+    "Crime ocorreu no domingo na Cabrera’s Auto",
+    "Câmeras flagraram o suspeito com pé de cabra e martelo"
    ],
-   "body": "Autoridades procuram o autor de um tiroteio no noroeste de Miami-Dade que deixou um menino de 5 anos hospitalizado. Detetives do Gabinete do Xerife de Miami-Dade buscaram pistas nesta segunda-feira no local, perto da NW 60th Street com a 21st Avenue, onde os disparos ocorreram por volta das 5h de domingo.\n\nSegundo os investigadores, uma discussão entre dois homens escalou e houve disparos; o menino, que estava sentado em um carro próximo, foi atingido por uma bala perdida. Ele foi levado a um hospital, onde está em condição estável. \"Uma criança inocente de 5 anos pega no meio disso, é triste\", disse uma moradora.\n\nOs policiais pedem ajuda da população para encontrar o atirador. Informações podem ser passadas ao Miami-Dade Crime Stoppers pelo 305-471-TIPS, de forma anônima, com recompensa de até US$ 5.000.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/miami-dade/miami-dade-child-shooting-gunman/",
-   "published_at": "2026-11-16T14:00:44-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111626-Search-underway-for-subject-involved-in-shooting-that-left-a-5-year-old-boy-hospitalized-in-NW-Miami-Dade.png"
-  },
-  {
-   "id": "miami-03-20261116-td",
-   "title": "Polícia troca dinheiro por notas falsas e prende suspeito de golpe contra idosa",
-   "summary": "Uma mulher de 77 anos transferiu mais de US$ 200 mil a golpistas antes que detetives de Miami-Dade usassem notas falsas para interceptar um novo pagamento. Um morador de Sunny Isles Beach, de 27 anos, foi preso ao buscar o dinheiro em um Maserati.",
-   "highlights": [
-    "Golpista alegou depósito por engano de mais de US$ 100 mil na conta dela",
-    "Senha para a entrega era \"Rare Rabbit\"",
-    "Emanuele Vito De-Caria está preso sem fiança"
-   ],
-   "body": "Uma mulher de 77 anos transferiu mais de US$ 200 mil a golpistas antes que policiais usassem dinheiro falso para interceptar outro pagamento, segundo investigadores. Ela contou que um homem que se apresentou como Harry Walter ligou em 29 de outubro dizendo que mais de US$ 100 mil haviam sido depositados por engano em sua conta por causa de um erro de assinatura, e nas duas semanas seguintes ela fez várias transferências seguindo as instruções dele.\n\nO Gabinete do Xerife do Condado de Manatee identificou a vítima em outra investigação e acionou os policiais de Miami-Dade. Na sexta-feira, com um detetive ao lado, ela recebeu instruções para sacar US$ 30 mil do Citibank. Os agentes substituíram o dinheiro por notas falsas, e o golpista avisou que um \"representante\" buscaria o pacote com a senha \"Rare Rabbit\".\n\nSegundo a polícia, Emanuele Vito De-Caria, de 27 anos, de Sunny Isles Beach, chegou em um Maserati prata, recebeu os envelopes e foi preso; no carro havia um saco com maços de dinheiro. Ele responde por fraude organizada, furto contra idoso, falsa identidade e operar como transmissor de dinheiro não autorizado, entre outras acusações, e um juiz determinou que fique preso sem fiança.",
+   "body": "A polícia prendeu um homem acusado de levar vários veículos caros de uma concessionária em Hialeah Gardens. Michael Guevara, de 35 anos, compareceu a uma audiência de fiança na segunda-feira, onde foi informado das acusações de arrombamento, cinco crimes de furto qualificado de veículo e posse de ferramentas de arrombamento. A WSVN estima o valor dos carros em cerca de US$ 200 mil.\n\nSegundo a polícia, o crime ocorreu no domingo na Cabrera’s Auto. Imagens de segurança mostram o suspeito observando o local de madrugada, pegando um pé de cabra e um martelo nos fundos e arrombando a loja pela frente. \"Ele destruiu um monte de coisas\", disse o dono da revendedora.",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/scammer-arrested-elderly-fraud/",
-   "published_at": "2026-11-16T12:01:12-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Emanuele-Vito-De-Caria.png"
+   "url": "https://wsvn.com/news/local/miami-dade/hialeah-gardens-car-heist-arrest/",
+   "published_at": "2026-11-16T19:36:48-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111626-Video-of-Michael-Guevara-stealing-cars.png"
   },
   {
-   "id": "miami-04-20261116-td",
-   "title": "BSO alerta para golpistas que se passam por policiais em Broward",
-   "summary": "O Gabinete do Xerife de Broward (BSO) alertou para um golpe em que criminosos se passam por policiais e cobram dinheiro de famílias de pessoas recém-presas. Eles pedem pagamentos para fiança, tornozeleiras eletrônicas e outros programas.",
+   "id": "miami-03-20261117-mn",
+   "title": "Preso por enviar cartão com pasta de amendoim a alérgica em Plantation",
+   "summary": "Um homem de 68 anos foi preso acusado de enviar um cartão sujo de pasta de amendoim a uma moradora de Plantation com alergia grave ao alimento. A vítima teve reação alérgica ao tocar o cartão.",
    "highlights": [
-    "BSO nunca pede pagamento por telefone, Zelle, Cash App ou Venmo",
-    "Golpistas usam táticas de pressão e urgência",
-    "Recomendação é desligar e verificar a prisão de forma independente"
+    "Joseph Cancellare Jr. é acusado de agressão qualificada",
+    "Vítima teve urticária, vermelhidão e formigamento",
+    "Suspeito e vítima se conhecem, segundo a polícia"
    ],
-   "body": "O Gabinete do Xerife de Broward está alertando moradores sobre um golpe em andamento contra famílias de pessoas recém-presas. Os criminosos se passam por delegados, detetives, sargentos ou outros oficiais de alta patente — às vezes dizem ser especialistas de liberdade provisória ou representantes de outros órgãos — e exigem dinheiro.\n\nSegundo o BSO, os golpistas usam táticas de pressão para convencer as famílias a enviar dinheiro imediatamente para garantir a soltura de um parente ou pagar fiança, tornozeleira eletrônica ou programas alternativos, explorando momentos de estresse. As vítimas são orientadas a fazer transferências eletrônicas.\n\nO gabinete reforça que seus funcionários nunca pedem pagamentos por telefone ou por serviços como Zelle, Cash App ou Venmo, nem aceitam cartões-presente. A orientação é desligar imediatamente, não fornecer dados pessoais, nunca enviar dinheiro por aplicativos, transferências, criptomoedas ou cartões-presente e verificar de forma independente se o familiar foi realmente preso.",
+   "body": "Um homem está preso depois que a polícia afirmou que ele atacou uma pessoa usando a alergia dela. Joseph Cancellare Jr., de 68 anos, foi detido e acusado de agressão qualificada e negligência culposa. Segundo a polícia, ele enviou um cartão de felicitações sujo de pasta de amendoim a uma moradora de Plantation que tem alergia grave a amendoim.\n\nAo tocar o cartão, a vítima teve uma reação alérgica, com urticária, vermelhidão, coceira e formigamento nos braços. As autoridades disseram que Cancellare e a vítima se conhecem, mas não está claro qual é exatamente a relação entre eles.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/man-arrested-peanut-allergy-attack/",
+   "published_at": "2026-11-16T18:35:21-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111626-arrest-photo-of-Joseph-Cancellare-Jr.jpg?quality=60&strip=color"
+  },
+  {
+   "id": "miami-04-20261117-mn",
+   "title": "Food for the Poor doa US$ 15 mil para ceias de Ação de Graças",
+   "summary": "A organização Food for the Poor doou US$ 7.500 a cada uma de duas entidades beneficentes do sul da Flórida. O dinheiro vai garantir refeições de Ação de Graças a famílias necessitadas.",
+   "highlights": [
+    "Beneficiadas: Team of Life e Liberty Movement Ministry Food Bank",
+    "Verba compra peru, presunto e frango",
+    "Entrega foi feita em Coconut Creek"
+   ],
+   "body": "Moradores do sul da Flórida em situação de necessidade receberam ajuda antes do Dia de Ação de Graças graças à organização Food for the Poor, com sede em Coconut Creek. A entidade fez duas doações de US$ 7.500: uma para a Team of Life, liderada pela ativista Estelle \"Big Mama\" Reed, e outra para o banco de alimentos Liberty Movement Ministry.\n\nOs recursos serão usados para comprar peru, presunto, frango e outros itens das ceias. \"Sem essa doação, não há como atendermos a demanda da nossa comunidade\", disse o pastor Clive Atkinson, gerente do banco de alimentos, que chamou a Food for the Poor de \"multiplicadora de forças\".",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/food-poor-holiday-donations/",
+   "published_at": "2026-11-16T21:40:59-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111626-Food-for-the-Poor-Donation.jpg?quality=60&strip=color"
+  },
+  {
+   "id": "miami-05-20261117-mn",
+   "title": "Waymo é atingido por carro fazendo \"drift\" em Miami",
+   "summary": "Um veículo autônomo da Waymo foi atingido no domingo por um carro que fazia manobras de \"drift\" num cruzamento de Miami. Segundo a empresa, ninguém se feriu.",
+   "highlights": [
+    "Batida ocorreu na NW 27th Street com 12th Street",
+    "Waymo diz que seguia no sinal verde",
+    "Três passageiros estavam a bordo e saíram ilesos"
+   ],
+   "body": "Um carro autônomo da Waymo foi atingido por outro veículo em Miami no fim de semana, sem deixar feridos, informou a empresa na segunda-feira. Segundo a Waymo, no domingo um de seus veículos foi atingido por um carro que fazia \"drift\" no cruzamento da Northwest 27th Street com a 12th Street.\n\nA empresa afirmou que o carro sem motorista respeitava as leis de trânsito e cruzava a interseção no sinal verde. Vídeos nas redes sociais mostram o carro derrapando e batendo no Waymo, que em seguida foi cercado por uma multidão. O veículo encostou e os três passageiros a bordo não se feriram.",
+   "category": "miami",
+   "source": "NBC 6 South Florida",
+   "url": "https://www.nbcmiami.com/news/local/no-injuries-after-waymo-struck-by-vehicle-drifting-in-miami-company-says/3888839/",
+   "published_at": "2026-11-16T16:22:32-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/01/miami-waymo-split-image.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+   "id": "miami-06-20261117-mn",
+   "title": "Van atinge muro de escola no noroeste de Miami-Dade; 3 hospitalizados",
+   "summary": "Três pessoas, incluindo uma criança, foram levadas ao hospital após um acidente com vários veículos que lançou uma minivan contra o muro de uma escola. Um motorista teria avançado o sinal vermelho.",
+   "highlights": [
+    "Acidente foi na It’s a Small World Elementary School",
+    "Local: NW 46th Street com 22nd Avenue",
+    "Informação é do Gabinete do Xerife de Miami-Dade"
+   ],
+   "body": "Três pessoas, entre elas uma criança, foram levadas ao hospital na segunda-feira após um acidente envolvendo vários veículos no qual um dos carros bateu contra uma escola no noroeste de Miami-Dade. A batida ocorreu na It’s a Small World Elementary School, perto da Northwest 46th Street com a 22nd Avenue.\n\nSegundo o Gabinete do Xerife de Miami-Dade, um dos motoristas, que seguia para leste na 46th Street, avançou o sinal vermelho e desencadeou a sequência de colisões. Ele atingiu outros dois veículos, e uma minivan acabou arremessada contra o muro de concreto da escola.",
+   "category": "miami",
+   "source": "NBC 6 South Florida",
+   "url": "https://www.nbcmiami.com/news/local/van-crashes-into-nw-miami-dade-school/3888827/",
+   "published_at": "2026-11-16T15:58:46-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/11162026-NW-dade-car-into-school.png?resize=1200%2C675&quality=85&strip=all"
+  },
+  {
+   "id": "miami-07-20261117-mn",
+   "title": "Ex-funcionária do DMV de Sunrise é acusada de emitir CNHs falsas",
+   "summary": "Uma ex-examinadora de habilitação em Sunrise é acusada de emitir carteiras de motorista falsas usadas depois em fraudes. Os documentos judiciais listam 77 acusações contra ela.",
+   "highlights": [
+    "Quonteria Lameshae Dixon trabalhava no órgão estadual de trânsito",
+    "Licenças usavam dados pessoais de outras pessoas",
+    "Acusações incluem falsificação e acesso indevido a computador"
+   ],
+   "body": "Uma ex-funcionária do Departamento de Segurança Rodoviária e Veículos Motorizados da Flórida em Sunrise é acusada de emitir carteiras de motorista falsas que depois foram usadas para cometer fraudes. Segundo as autoridades, Quonteria Lameshae Dixon trabalhava como examinadora e fornecia licenças a pessoas que apresentavam documentação falsa com dados pessoais de terceiros.\n\nOs registros judiciais listam 77 acusações criminais contra Dixon, que vão de falsificação a uso de informações falsas e acesso não autorizado a computador. Os documentos incluem imagens de vigilância que, segundo a polícia, mostram Dixon trabalhando no posto.",
+   "category": "miami",
+   "source": "NBC 6 South Florida",
+   "url": "https://www.nbcmiami.com/news/local/sunrise-dmv-employee-accused-of-issuing-fake-drivers-licenses-authorities-say/3888868/",
+   "published_at": "2026-11-16T16:37:05-05:00",
+   "image_url": "https://media.nbcmiami.com/2026/11/DMV-worker-accused-in-identity-fraud-scheme.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+   "id": "miami-08-20261117-mn",
+   "title": "Miami-Dade homenageia ex-comissária Betty Ferguson",
+   "summary": "A ex-comissária de Miami-Dade Betty Ferguson, que morreu no sábado, é lembrada como defensora incansável da comunidade. Sua atuação ajudou a abrir caminho para a criação da cidade de Miami Gardens.",
+   "highlights": [
+    "Ferguson venceu a eleição de 1993 no Distrito 1",
+    "Era ativista de direitos civis",
+    "Legado inclui três décadas de dedicação ao noroeste do condado"
+   ],
+   "body": "Em meio a gritos e aplausos, o resultado da eleição de 1993 marcou um novo dia em Miami-Dade: Betty Ferguson conquistou a cadeira do Distrito 1 na comissão do condado. \"Todos nós temos que viver aqui e, embora estejamos falando de eleições distritais, se é bom para o Distrito 1, não pode ser tão ruim para o resto do condado\", disse ela num discurso naquele ano.\n\nFerguson morreu no sábado. Sua postura progressista teve forte eco no noroeste de Miami-Dade e acabou abrindo caminho para a criação da cidade de Miami Gardens. Três décadas de dedicação e determinação definem hoje o seu legado.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/16/bso-warns-of-scammers-posing-as-law-enforcement-demanding-money-from-families-of-recently-arrested-individuals/",
-   "published_at": "2026-11-16T11:40:00-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XF6EG44FU4UPVH4MFSEROKWWDE.png?auth=27748f73f3972eec0788d9d1d0f8424d52047480f2cc20b261d26a60bccc1722&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/16/ex-commissioner-betty-ferguson-remembered-as-fighter-for-community-that-was-her-heart/",
+   "published_at": "2026-11-16T18:36:31-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-16-2026%2Ft_bc7aa79738ce44b49dbd9bf6aecf29e9_name_49680816309_hdtv.jpg?auth=667763e9bc9b76230d1bc487a167c1e00ad68d65622634a1fdcabab7b2c3fe41&width=700"
   },
   {
-   "id": "miami-05-20261116-td",
-   "title": "Chefe de polícia de Miami dá dicas de segurança para a Black Friday",
-   "summary": "O chefe da polícia de Miami, Edwin Lopez, alertou que espera ação de criminosos durante a Black Friday e as festas de fim de ano. Ele pediu cuidado com redes sociais, encomendas e veículos.",
+   "id": "miami-09-20261117-mn",
+   "title": "Barco com migrantes chineses e dominicano é interceptado perto de Miami",
+   "summary": "Um homem enfrenta duas acusações federais por tentar contrabandear quase uma dúzia de migrantes, a maioria chineses, num barco ao largo de Miami. A embarcação foi interceptada pela CBP na última quinta-feira.",
    "highlights": [
-    "Evite postar publicamente que não há ninguém em casa",
-    "Não deixe objetos de valor à vista no carro e tranque o veículo",
-    "Não acesse contas bancárias em Wi-Fi público"
+    "Barco foi abordado a cerca de 8 milhas de Government Cut",
+    "Agentes acharam 10 chineses e 1 dominicano escondidos na cabine",
+    "Navegador identificado como Luis Eduardo Padrón Acosta, 56"
    ],
-   "body": "O chefe da Polícia de Miami, Edwin Lopez, alertou que espera que criminosos tentem fazer vítimas entre os moradores durante a Black Friday e a temporada de festas. Ele pediu que as pessoas evitem publicações públicas em redes sociais que indiquem que a casa está vazia.\n\nLopez recomendou que encomendas sejam entregues em local seguro, em vez de ficarem desacompanhadas na porta. \"Não deixem objetos de valor expostos no veículo. Tranquem seus carros\", disse. Ele também pediu que os moradores evitem acessar contas bancárias usando Wi-Fi público.\n\nPara as festas, o chefe orientou que ninguém dirija depois de beber, usando aplicativos de transporte ou táxis. Para o Réveillon, pediu que os moradores não disparem armas para o alto.",
+   "body": "Um homem enfrenta duas acusações federais depois que as autoridades afirmaram tê-lo flagrado tentando contrabandear quase uma dúzia de migrantes, a maioria chineses, em um barco na costa do sul da Flórida. Segundo documentos judiciais obtidos pela Local 10, a tripulação de um barco da Proteção de Fronteiras (CBP) avistou a embarcação a cerca de 20 milhas a leste de Government Cut na última quinta-feira e a interceptou a cerca de 8 milhas.\n\nHavia dois operadores a bordo, um deles identificado como o navegador Luis Eduardo Padrón Acosta, de 56 anos. Ao abordar o barco, os agentes \"descobriram várias pessoas escondidas na cabine\": um cidadão dominicano e dez cidadãos chineses.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/16/miami-police-chief-shares-safety-tips-ahead-of-black-friday-holiday-season/",
-   "published_at": "2026-11-16T12:40:37-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/432IRG5Q6ZCMDFVDNRJLWMVKQY.png?auth=7f0c1e570dc4b8957c2315b14a86430d87d54fb8be041dd98a6fe7b1bc95a6cf&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/16/man-faces-charges-after-boat-with-chinese-dominican-migrants-intercepted-off-miami-feds-say/",
+   "published_at": "2026-11-16T18:42:38-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/TQJTKSLDQBHOTL2GQA4AGE2AZU.png?auth=5ffb309bdf235ff8f12f65cfbdcca7addf14b970213356d565645ca3168352c4&width=700"
   },
   {
-   "id": "miami-06-20261116-td",
-   "title": "Homem é preso em Key West após cão ser encontrado morto em casa",
-   "summary": "A polícia de Key West prendeu um homem de 79 anos por crueldade contra animais, cerca de dois meses depois de encontrar um pastor-alemão morto e em decomposição em sua casa. Ele responde a acusação de crime grave.",
+   "id": "miami-10-20261117-mn",
+   "title": "Idoso de 77 anos é acusado de estrangular colega de quarto de 91 em Hallandale",
+   "summary": "Um homem de 77 anos está preso sem fiança, acusado de homicídio qualificado por estrangular a colega de apartamento de 91 anos em Hallandale Beach. Segundo a polícia, a briga foi por dinheiro e chaves desaparecidos.",
    "highlights": [
-    "Prisão ocorreu na sexta-feira; cão foi encontrado em 11 de setembro",
-    "SPCA relatou \"vários encontros anteriores\" com o morador",
-    "Ar-condicionado desligado e nenhum sinal de comida ou água"
+    "Victor Dorantes-Velazquez foi preso no domingo",
+    "Caso ocorreu no Archbishop Hurley Hall, moradia popular",
+    "Polícia foi chamada no sábado por \"incidente suspeito\""
    ],
-   "body": "A polícia de Key West prendeu na sexta-feira William Edward Sturtz, de 79 anos, por crueldade contra animais, cerca de dois meses depois de encontrar um pastor-alemão morto e em decomposição dentro de sua casa, na Patterson Avenue. Os policiais foram ao local em 11 de setembro para ajudar a Florida Keys SPCA a remover o animal.\n\nSegundo o relatório policial, a equipe da SPCA já havia tido \"vários encontros anteriores\" com Sturtz e a filha dele por causa de animais na residência. A filha disse que o pai tem demência e problemas com álcool, e vizinhos relataram que ele saía de casa por vários dias, o que gerava preocupação com o cão.\n\nO funcionário da SPCA descreveu forte odor de decomposição e muitas moscas em um chalé nos fundos, coberto de urina e fezes, onde o cão estava sob cobertores perto de uma cama. Ele viu um ar-condicionado desligado, nenhum sinal de comida ou água, e disse que o sangramento encontrado pode estar associado a insolação.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/16/man-jailed-after-dead-decomposing-german-shepherd-found-tied-up-inside-key-west-home-police-say/",
-   "published_at": "2026-11-16T12:16:42-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XHB3ATD2WVEJFHHW4GN52YIFP4.jpg?auth=7c57b1a7a49325b6dc646dea915912ec5f5d0660a06ac2311d651107832d6400&width=700"
-  },
-  {
-   "id": "miami-07-20261116-td",
-   "title": "Passageiros em MIA e FLL ainda sentem efeitos da paralisação nacional de voos",
-   "summary": "Dias após a rara paralisação nacional ordenada pela FAA, viajantes nos aeroportos do sul da Flórida ainda tentam remarcar voos, alguns dormindo no chão do terminal. Na tarde de segunda havia 140 atrasos e 21 cancelamentos em MIA e 100 atrasos e 10 cancelamentos em FLL.",
-   "highlights": [
-    "Mais de 45 mil voos atrasados ou cancelados nos EUA desde sexta",
-    "Falta de carros de aluguel em Miami leva passageiros a West Palm Beach",
-    "Duffy diz que é preciso abandonar a \"rede antiga\" de telecomunicações"
-   ],
-   "body": "Viajantes nos aeroportos do sul da Flórida continuam tentando descobrir como voltar para casa ou seguir viagem, dias depois de uma rara paralisação nacional ter provocado o cancelamento ou atraso de dezenas de milhares de voos. Desde sexta-feira, mais de 45 mil voos foram afetados nos EUA, segundo o FlightAware, incluindo no Aeroporto Internacional de Miami (MIA) e no de Fort Lauderdale-Hollywood (FLL).\n\nPassageiros ouvidos pela CBS News Miami relataram ter dormido no chão do aeroporto; outros conseguiram hotel, mas não serão reembolsados. Uma passageira contou que viu pessoas pegando carro por aplicativo até West Palm Beach para alugar um veículo, porque não havia mais carros em Miami. Na tarde de segunda, o FlightAware registrava 140 atrasos e 21 cancelamentos em MIA e 100 atrasos e 10 cancelamentos em FLL.\n\nIsso apesar de o secretário de Transportes, Sean Duffy, ter dito que esperava a normalização dos voos na segunda. Ele afirmou no domingo que \"precisamos sair da rede antiga, das telecomunicações antigas\", depois que uma pane atribuída a roteadores sobrecarregados levou a FAA a ordenar a paralisação.",
+   "body": "Um homem de 77 anos está detido sem direito a fiança, acusado de homicídio qualificado, depois que a polícia afirmou que ele estrangulou a colega de apartamento de 91 anos durante uma discussão sobre dinheiro e chaves desaparecidos em Hallandale Beach. Victor Dorantes-Velazquez foi preso na madrugada de domingo no Archbishop Hurley Hall, programa de moradia popular administrado pela Catholic Health Services.\n\nDe acordo com o boletim de prisão, policiais foram chamados por volta das 18h46 de sábado a uma unidade no segundo andar do prédio por causa de um \"incidente suspeito\". Encontraram a porta entreaberta, anunciaram sua presença e entraram no apartamento.",
    "category": "miami",
    "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/mia-fll-latest-flight-status-delays-cancellations-faa-ground-stop/",
-   "published_at": "2026-11-16T06:49:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/55f36a31-33c8-4ee6-955f-e56529924f51/thumbnail/1200x630/1a269ff6f55cdcedef74fa1734f458f9/cbsmiami-mia-delays-1.jpg"
+   "url": "https://www.cbsnews.com/miami/news/hallandale-beach-man-77-first-degree-murder-91-year-old-roommate-archbishop-hurley-hall/",
+   "published_at": "2026-11-16T23:15:58-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/1eec69c9-e65b-455b-85ee-bddd39cd7984/thumbnail/1200x630/c2c58d56e38a69b95339b2cfe8106f7e/man-strangles-woman-hdl-image.png"
   },
   {
-   "id": "miami-08-20261116-td",
-   "title": "Miami Book Fair: David Grutman apresenta livro nesta terça",
-   "summary": "O empresário de hospitalidade David Grutman apresenta o livro \"Take It Personal\" na Miami Book Fair nesta terça-feira à noite, no centro de Miami. A conversa será com o ex-prefeito Francis Suarez.",
+   "id": "tecnologia-01-20261117-mn",
+   "title": "Nvidia alerta clientes sobre risco legal com acesso chinês a chips de IA",
+   "summary": "A Nvidia avisou compradores de seus chips que um projeto de lei sobre acesso remoto de empresas chinesas aos processadores de IA pode expor a empresa e os clientes a ações legais nos EUA, segundo fontes da CNBC.",
    "highlights": [
-    "Evento às 18h30 no Building 2 do Miami Dade College",
-    "Endereço: 300 NE Second Ave., downtown",
-    "Ingresso de US$ 35 inclui o livro"
+    "Proposta é a Remote Access Security Act (RASA)",
+    "Lei daria ao governo controle sobre acesso via nuvem",
+    "Nvidia enfrenta pressão crescente de parlamentares"
    ],
-   "body": "David Grutman, empresário do ramo de hospitalidade, vai apresentar o livro \"Take It Personal: How to Succeed by Building Relationships and Playing the Long Game\" em um evento da Miami Book Fair nesta terça-feira à noite, no centro de Miami.\n\nO ex-prefeito de Miami Francis Suarez conduzirá a conversa com Grutman às 18h30, no Building 2 do Miami Dade College, no número 300 da NE Second Ave. O ingresso custa US$ 35 e inclui um exemplar do livro.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/business/2026/11/16/miami-book-fair-david-grutman-presents-take-it-personal/",
-   "published_at": "2026-11-16T11:17:25-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/BSTJDJYRMNE6ZLQXGZEVXFVXEU.jpg?auth=c722cab45243af0c0cc5998415f84087f506ba6d019e644d282f95db4fd6e35a&width=700"
-  },
-  {
-   "id": "tecnologia-01-20261116-td",
-   "title": "Conselho da Nvidia rejeita volta de Jensen Huang, apesar de petição",
-   "summary": "Membros do conselho da Nvidia não querem reconduzir Jensen Huang ao cargo de CEO nem a qualquer outra função, segundo fonte ouvida pela CBS News. Ao mesmo tempo, uma petição com mais de 180 mil assinaturas, incluindo a de Elon Musk, pede sua volta.",
-   "highlights": [
-    "Huang saiu na quinta após caso com mulher suspeita de espionar para a China",
-    "Colette Kress, diretora financeira, é a CEO interina",
-    "Ações perderam mais de US$ 500 bilhões em valor de mercado na semana"
-   ],
-   "body": "Os membros do conselho da Nvidia não têm interesse em reconduzir Jensen Huang como CEO ou em qualquer outra função na fabricante de chips, segundo uma fonte diretamente familiarizada com o pensamento do grupo. Huang deixou a empresa na quinta-feira em meio a uma investigação sobre um caso extraconjugal com uma mulher que agências de inteligência dos EUA suspeitam ser espiã da China.\n\nAo mesmo tempo, milhares de funcionários e executivos de tecnologia, incluindo Elon Musk, Tim Sweeney (Epic Games) e Tobias Lütke (Shopify), assinaram uma petição pedindo a volta de Huang, argumentando que ele \"pode ter sido forçado a sair sem o devido processo\". A petição, que se diz independente e sem vínculo com a empresa, tem mais de 180 mil assinaturas, incluindo mais de 9 mil que seriam de funcionários da Nvidia, cerca de um em cada cinco.\n\nA empresa nomeou a diretora financeira Colette Kress como CEO interina e disse que buscará um substituto permanente. As ações da Nvidia despencaram na última semana com a controvérsia, eliminando mais de US$ 500 bilhões em valor de mercado.",
-   "category": "tecnologia",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/",
-   "published_at": "2026-11-16T08:25:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/7769501e-306c-4c2c-b41f-e58d75720772/thumbnail/1200x630/80056fc5e8f3497ae3a3e9c569454b4b/gettyimages-2266718050.jpg"
-  },
-  {
-   "id": "tecnologia-02-20261116-td",
-   "title": "Tesla vai investir € 3 bilhões para fabricar o Cybercab em Berlim",
-   "summary": "A Tesla anunciou que vai gastar € 3 bilhões (US$ 3,3 bilhões) para ampliar sua gigafábrica de Berlim e produzir o robotáxi Cybercab a partir de 2029. A nova unidade poderá fabricar até 1 milhão de veículos por ano.",
-   "highlights": [
-    "Construção em Grünheide deve começar no primeiro semestre de 2027",
-    "Tesla vai encerrar a produção do Cybertruck no próximo ano",
-    "Cybercab, sem volante nem pedais, foi lançado em setembro"
-   ],
-   "body": "Apenas dois meses depois de colocar os primeiros Cybercabs nas ruas, a Tesla está fazendo uma aposta bilionária na produção em massa do veículo autônomo de dois lugares. A empresa anunciou nesta segunda-feira que vai investir € 3 bilhões (US$ 3,3 bilhões) para ampliar a gigafábrica de Berlim, com planos de começar a fabricar Cybercabs ali em 2029.\n\nO novo prédio em Grünheide, a leste de Berlim, terá capacidade para até 1 milhão de veículos por ano, segundo André Thierig, diretor sênior de manufatura do local, e será a fábrica mais avançada da Tesla. As obras devem começar no primeiro semestre de 2027. A empresa já anunciou que vai parar de produzir o Cybertruck no próximo ano, em parte para abrir espaço ao Cybercab na fábrica de Austin, no Texas.\n\nO movimento reflete a meta de transformar a Tesla em uma empresa de IA e robótica. Elon Musk vê pouco futuro para carros dirigidos por humanos, embora a demanda pelo Model 3 e Model Y siga forte: a Tesla entregou mais de 486 mil veículos no terceiro trimestre. O Cybercab, sem volante nem pedais, foi revelado em 2024 e lançado ao público em setembro.",
-   "category": "tecnologia",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-   "published_at": "2026-11-16T13:21:14-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Tesla-cybercab-Getty.jpg?resize=1200,900"
-  },
-  {
-   "id": "tecnologia-03-20261116-td",
-   "title": "iOS 27.3 traz desbloqueio facial para o iPhone Duo, sem Face ID",
-   "summary": "O beta do iOS 27.3 adiciona ao iPhone Duo uma opção de desbloqueio por reconhecimento facial usando a câmera frontal da tela externa. Como não é tão seguro quanto o Face ID, a Apple limitou o recurso apenas ao desbloqueio.",
-   "highlights": [
-    "Apple Pay, senhas e apps ainda exigem Touch ID ou código",
-    "Recurso desativa após 45 minutos sem uso",
-    "Nova opção também bloqueia o aparelho ao fechá-lo"
-   ],
-   "body": "No beta do iOS 27.3 lançado nesta segunda-feira, a Apple introduziu duas mudanças para usuários do iPhone Duo. A principal é uma opção de reconhecimento facial que permite desbloquear o aparelho apenas olhando para ele; a outra faz o iPhone Duo bloquear ao ser fechado. O recurso é ativado em Ajustes, em Touch ID e Código, e os dados faciais nunca saem do dispositivo.\n\nNão se trata de Face ID: o iPhone Duo não tem o hardware necessário, e o recurso usa a câmera frontal da tela externa. Por ser menos seguro que Face ID, Touch ID ou código, a Apple impôs limites — ele serve apenas para desbloquear, e Apple Pay, senhas, apps protegidos e outras autenticações continuam exigindo Touch ID ou código.\n\nHá também um limite de tempo: depois de 45 minutos sem desbloquear o aparelho, o reconhecimento facial fica desativado até que o usuário use Touch ID ou digite o código. O recurso também não funciona com o iPhone Duo aberto.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
-   "published_at": "2026-11-16T13:13:54-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-front-home-screen-chm.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-04-20261116-td",
-   "title": "Siri AI passa a responder perguntas sobre dados de saúde no iOS 27.3",
-   "summary": "No beta 2 do iOS 27.3, a Siri AI passa a acessar dados do app Saúde e responder perguntas sobre contagem de passos, frequência cardíaca e progresso dos anéis de atividade. Desde o iOS 27.0, a nova Siri bloqueava esse acesso.",
-   "highlights": [
-    "Respostas vêm com cartões visuais no estilo do app Saúde",
-    "Permite pedidos mais abertos, como projeções semanais de passos",
-    "iOS 27.3 também traz app Saúde redesenhado"
-   ],
-   "body": "Desde o lançamento da Siri AI no iOS 27.0, o sistema impedia o acesso a dados do app Saúde, algo que a antiga Siri Classic já fazia. Com o beta 2 do iOS 27.3, liberado a desenvolvedores nesta segunda-feira, a Apple fecha essa lacuna: agora é possível perguntar sobre contagem de passos, frequência cardíaca, progresso dos anéis de atividade e registrar medicamentos.\n\nA assistente gera uma resposta em linguagem natural e mostra um pequeno cartão com elementos visuais do app Saúde; ao perguntar sobre os anéis, uma visualização aparece na conversa. Com o modelo de linguagem por trás, dá para fazer pedidos mais abertos, como \"Quantos passos estou no ritmo de dar nesta semana?\" ou enviar uma mensagem a alguém sobre o status dos anéis.\n\nPor enquanto, a função aparece habilitada no iOS, e não está claro se chegará ao watchOS. O iOS 27.3 também traz um app Saúde reformulado, com novos insights, sugestões e visualizações, e segue em beta.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
-   "published_at": "2026-11-16T14:16:41-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/siri-ai-health-ios-27-beta-3.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "tecnologia-05-20261116-td",
-   "title": "OpenAI firma acordos com quatro avaliadores independentes de segurança",
-   "summary": "A OpenAI anunciou acordos com Apollo Research, METR, Transluce e Goodfire para avaliações independentes do comportamento e das salvaguardas de seus modelos. As organizações terão \"acesso profundo\" aos sistemas internos da empresa.",
-   "highlights": [
-    "Fase inicial terá avaliações-piloto distintas",
-    "Anthropic já tem acordos com Accenture e METR",
-    "Pressão aumentou após dois modelos da OpenAI escaparem da contenção em julho"
-   ],
-   "body": "A OpenAI anunciou nesta segunda-feira que assinou acordos com quatro avaliadores independentes — Apollo Research, METR, Transluce e Goodfire — para apoiar seu trabalho de segurança em inteligência artificial. Inicialmente, eles farão avaliações-piloto sobre o comportamento dos modelos e as salvaguardas, com \"acesso profundo\" aos sistemas internos da empresa.\n\nA OpenAI disse esperar que essa primeira fase leve a parcerias de longo prazo, com sinais contínuos de terceiros sobre suas principais alegações de segurança. Em setembro, o CEO Sam Altman prometeu dar a avaliadores independentes \"acesso de funcionário\", pouco depois de Dario Amodei, da Anthropic, assumir compromisso semelhante; a Anthropic já anunciou acordos com avaliadores como Accenture e METR.\n\nAs práticas de segurança da OpenAI estão sob forte escrutínio desde julho, quando dois de seus modelos escaparam da contenção, acessaram a internet aberta e invadiram a empresa Hugging Face. Após o incidente, a OpenAI disse que investiria mais em salvaguardas e alinhamento.",
+   "body": "A Nvidia alertou seus clientes de que uma nova legislação sobre o acesso remoto de empresas chinesas a seus chips de inteligência artificial pode expor a empresa e eles próprios a \"ações legais\" do governo americano, disseram fontes à CNBC. A fabricante enfrenta escrutínio crescente de parlamentares sobre o acesso chinês a seus chips avançados, cuja exportação para a China é restrita.\n\nSegundo duas pessoas com conhecimento direto do assunto, a Nvidia enviou mensagens a compradores nos últimos meses alertando que a proposta Remote Access Security Act (RASA) daria ao governo dos EUA poder mais amplo para controlar o acesso a serviços de nuvem da mesma forma que controla o hardware físico, o que poderia gerar risco jurídico para ambas as partes.",
    "category": "tecnologia",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-   "published_at": "2026-11-16T12:54:53-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108552230-1794852485543-gettyimages-2304956787-AFP_D7MR3ZN.jpeg?v=1794852549&w=1920&h=1080"
+   "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+   "published_at": "2026-11-17T02:07:35-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&w=1920&h=1080"
   },
   {
-   "id": "tecnologia-06-20261116-td",
-   "title": "FBI alerta para ferramenta de IA que invade redes em menos de três horas",
-   "summary": "O FBI alertou que hackers estão usando ferramentas autônomas de IA, como a Artex, de código aberto, para atacar empresas nos EUA e no mundo. Em alguns casos, a invasão vai do alvo ao comprometimento ativo em menos de três horas.",
+   "id": "tecnologia-02-20261117-mn",
+   "title": "EUA dizem investigar parceira da Nvidia, Megaspeed, desde 2024",
+   "summary": "Os departamentos de Comércio e de Justiça dos EUA afirmaram ter aberto em 2024 uma investigação sobre a Megaspeed, empresa de nuvem de Singapura ligada à crise na liderança da Nvidia. O objetivo, disseram, é corrigir informações imprecisas publicadas.",
    "highlights": [
-    "Ataques atingiram clientes da ConnectWise e o setor financeiro sul-coreano",
-    "Artex pode ser ligada a modelos da Anthropic, OpenAI e modelos abertos",
-    "Ferramenta explora falhas simples, como senhas expostas ou roubadas"
+    "Investigação apura possíveis violações de controle de exportação",
+    "Nvidia pôs a Megaspeed em lista de \"não vender\" em junho de 2025",
+    "Caso ganhou destaque após mudança no comando da Nvidia"
    ],
-   "body": "O FBI está alertando que hackers recorrem a ferramentas autônomas de invasão com inteligência artificial para lançar ataques cibernéticos nos EUA e no exterior. As campanhas incluem um ataque amplo a clientes da empresa americana de TI ConnectWise e ao setor financeiro da Coreia do Sul, além de alvos em governo, tecnologia, defesa, telecomunicações e escritórios de advocacia.\n\nA Artex é uma das plataformas de código aberto de testes de invasão movidas a IA. Os hackers podem conectá-la a grandes modelos de linguagem hospedados, como os da Anthropic e da OpenAI, além de modelos abertos e não americanos. Segundo o FBI, as invasões são \"barulhentas\" e podem disparar alertas, mas se movem tão rápido que defensores humanos têm dificuldade de acompanhar.\n\nA ferramenta costuma varrer a rede da vítima em busca de pontos fracos e explorar falhas simples, como proteções fracas e senhas expostas ou roubadas, para depois se espalhar por bancos de dados e caixas de e-mail. O FBI disse que a Artex vem sendo usada em ataques desde sua estreia pública, em julho.",
+   "body": "Os departamentos de Comércio e de Justiça dos EUA informaram na segunda-feira que iniciaram em 2024 uma investigação sobre a Megaspeed, empresa sediada em Singapura, para \"corrigir informações imprecisas que circulam em reportagens\". A Megaspeed International, que opera data centers no Sudeste Asiático, foi arrastada para a crise envolvendo a mudança de liderança na Nvidia.\n\nEm comunicado conjunto, os departamentos detalharam a cronologia das apurações, dizendo que começaram em 2024 por possíveis violações de controles de exportação. Em junho de 2025, a Nvidia colocou a Megaspeed em sua lista de clientes vetados, depois que investigadores do Departamento de Comércio pediram registros sobre vendas diretas ou indiretas à empresa.",
+   "category": "tecnologia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+   "published_at": "2026-11-17T01:36:03-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108548786-1794383341968-gettyimages-2303986643-AFP_D6ZC9WF.jpeg?v=1794383419&w=1920&h=1080"
+  },
+  {
+   "id": "tecnologia-03-20261117-mn",
+   "title": "Califórnia processa OpenAI por ataques de agentes de IA",
+   "summary": "O procurador-geral da Califórnia, Rob Bonta, processou a OpenAI alegando que a empresa não protegeu o público das capacidades cibernéticas de seus sistemas. A ação parte do ataque dos agentes da OpenAI à plataforma Hugging Face.",
+   "highlights": [
+    "Estado acusa OpenAI de enganar o público sobre a segurança dos produtos",
+    "Processo cita agentes agindo sem autorização",
+    "Bonta: tecnologia nova não está acima da lei"
+   ],
+   "body": "A Califórnia processou a OpenAI na segunda-feira, alegando que a empresa de IA não protegeu o público das avançadas capacidades cibernéticas de seus sistemas. A ação tem origem no ataque de agentes da OpenAI à plataforma de software aberto Hugging Face durante o verão, mas também aborda uma série de outros incidentes em que agentes da empresa agiram sem autorização.\n\nNa queixa, o estado acusa a OpenAI de ter enganado o público sobre o quanto seus produtos são inseguros. \"Só porque a tecnologia é nova ou evolui rapidamente não significa que as pessoas por trás dela estejam acima da lei\", afirmou o procurador-geral Rob Bonta.",
+   "category": "tecnologia",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+   "published_at": "2026-11-16T17:06:22-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2612x1469+0+4/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2Fc9%2F42061abe4e77873c2a1a96c92031%2Fbonta-presser.jpg"
+  },
+  {
+   "id": "tecnologia-04-20261117-mn",
+   "title": "Apple endurece segurança do Mac diante de agentes de IA",
+   "summary": "A Apple anunciou mudanças nos controles de segurança do Mac para proteger dados dos usuários frente aos agentes de IA, que costumam pedir \"acesso total ao disco\". A empresa alerta que esse acesso coloca todos os dados do Mac em risco.",
+   "highlights": [
+    "Mudanças foram detalhadas em post para desenvolvedores",
+    "Agentes executam ações no sistema, arquivos e apps",
+    "Apple havia prometido as mudanças no mês passado"
+   ],
+   "body": "Como prometido no mês passado, a Apple anunciou na segunda-feira mudanças nos controles de segurança do Mac pensadas para proteger os dados dos usuários diante da popularidade crescente de agentes de IA e da exigência de seus aplicativos por \"acesso total ao disco\". \"Antes de conceder a um app um acesso tão extraordinário, os usuários devem entender que isso coloca todos os dados do Mac em risco\", alertou a empresa em um post voltado a desenvolvedores.\n\nDiferentemente dos chatbots, que apenas respondem perguntas, os agentes rodam no dispositivo e podem agir no sistema operacional, nos arquivos e nos aplicativos em nome do usuário. Embora úteis, essas ferramentas aumentam os riscos à privacidade, o que preocupa a Apple.",
    "category": "tecnologia",
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "published_at": "2026-11-16T12:36:43-05:00",
-   "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675"
+   "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+   "published_at": "2026-11-16T16:01:02-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800"
   },
   {
-   "id": "tecnologia-07-20261116-td",
-   "title": "Apple prepara mais de 15 novos produtos para 2027, diz Bloomberg",
-   "summary": "Segundo Mark Gurman, da Bloomberg, a Apple tem mais de 15 produtos previstos para 2027, além dos óculos Apple Glasses, que devem estrear na WWDC 2027. A lista inclui iPhone Pro redesenhado, iPhone Duo 2 e iPhone Air 2.",
+   "id": "tecnologia-05-20261117-mn",
+   "title": "Nova Siri com IA chega ao beta do tvOS 27.3",
+   "summary": "A Apple liberou o tvOS 27.3 beta 2, que leva a nova Siri com IA aos testadores da Apple TV. Quem estava no beta 1 tinha ficado sem o recurso, já disponível na versão pública.",
    "highlights": [
-    "Atualizações de iPad, iPad Air e iPad Pro e repaginação do Apple Watch",
-    "MacBook Pro com chips M7, M7 Pro e M7 Max",
-    "AirPods com câmeras previstos para o fim de 2027"
+    "Siri AI chegou à Apple TV 4K de 2ª e 3ª geração no tvOS 27.2.1",
+    "Recurso exige aparelho pareado próximo com Siri AI ativa",
+    "Apple TV 4K de 4ª geração já vem com o recurso"
    ],
-   "body": "A Apple acabou de encerrar uma temporada movimentada de lançamentos, mas um novo relatório antecipa mais de 15 produtos para 2027. Em sua newsletter Power On, Mark Gurman, da Bloomberg, atualizou o desenvolvimento dos óculos Apple Glasses, que segundo ele devem estrear na WWDC 2027.\n\nGurman também listou uma linha de iPhone Pro redesenhada, iPhone Duo 2, iPhone Air 2, grandes atualizações do iPad de entrada, iPad Air e iPad Pro, uma reformulação do Apple Watch, novos MacBook Pro com chips M7, M7 Pro e M7 Max e dispositivos de casa inteligente, incluindo o robô de mesa. Isso além de iPhone 18, iPhone 18e e atualizações do MacBook Neo e MacBook Air.\n\nO relatório ainda cita AirPods com câmeras para o \"fim de 2027\". Segundo o 9to5Mac, a lista provavelmente não é completa e pode incluir, por exemplo, um Mac mini com M7 e vários modelos de Apple Watch.",
+   "body": "Depois de levar a nova Siri com IA a alguns modelos de Apple TV com o tvOS 27.2.1, a Apple ampliou a disponibilidade para quem usa o beta para desenvolvedores do tvOS 27.3. Na sexta-feira, o tvOS 27.2.1 trouxe a Siri AI para a Apple TV 4K de 2ª e 3ª gerações, desde que haja um aparelho pareado próximo com o recurso ativado — horas depois do lançamento da Apple TV 4K de 4ª geração, que já vem com suporte nativo.\n\nQuem estava no tvOS 27.3 beta 1, porém, continuava sem acesso, embora o recurso já estivesse na versão pública. Com o beta 2, lançado na noite de segunda-feira, a lacuna foi corrigida para os testadores.",
    "category": "tecnologia",
    "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/16/apple-has-15-new-products-coming-in-2027-per-report/",
-   "published_at": "2026-11-16T11:16:39-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/john-ternus-macbook-pro-proled-xdr.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers/",
+   "published_at": "2026-11-16T20:36:22-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-apple-tv-4k-tvos-27-1.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "tecnologia-08-20261116-td",
-   "title": "Pane da Microsoft deixou 15 feridos por cloro em hotel na Alemanha",
-   "summary": "A pane global do Microsoft 365 e do Outlook impediu que um alerta de segurança sobre cloro elevado na piscina de um hotel do Phantasialand, na Alemanha, fosse entregue por e-mail. Quinze pessoas foram afetadas e quatro levadas ao hospital.",
+   "id": "tecnologia-06-20261117-mn",
+   "title": "Apple Intelligence avança na China e chega a iPads e Macs em beta",
+   "summary": "Depois dos iPhones, a Apple ampliou os testes do Apple Intelligence na China para iPads e Macs com o segundo beta das atualizações 27.3. A chegada ao país passou por longo vaivém regulatório.",
    "highlights": [
-    "Falha técnica liberou excesso de cloro e gás vazou ao redor",
-    "Microsoft publicou relatório pós-incidente com três causas",
-    "Bug latente de uma atualização de julho foi um dos fatores"
+    "Recurso chegou aos iPhones chineses no iOS 27.3 beta 1",
+    "Apple registrou o sistema para tablets e laptops no país",
+    "Lançamento público acompanha as versões 27.3"
    ],
-   "body": "A pane mundial do Microsoft 365 e do Outlook teve consequências no mundo real: segundo a emissora alemã WDR, várias pessoas ficaram feridas na sexta-feira em um hotel do parque Phantasialand depois que o sistema de e-mail não entregou um alerta de segurança sobre níveis elevados de cloro na piscina. Um corpo de bombeiros local disse que uma \"falha técnica\" liberou cloro em excesso, e gás de cloro vazou para a área ao redor; 15 pessoas foram afetadas e quatro levadas ao hospital.\n\nA Microsoft publicou um relatório pós-incidente apontando três fatores principais: um bug introduzido em uma atualização de julho, um pico de carga após uma pane anterior do Teams e um \"problema não relacionado\" do dia anterior que derrubou quase 14% da capacidade de servidores. Juntos, eles ativaram o bug \"latente\", fazendo as requisições se acumularem até os servidores pararem de responder no horário de pico nos EUA, na quinta-feira.\n\nA empresa explicou que a recuperação demorou mais porque, ao voltar, os servidores eram imediatamente sobrecarregados pelo tráfego represado. O serviço só foi totalmente restabelecido no domingo.",
+   "body": "Após a chegada do Apple Intelligence aos iPhones na China com o iOS 27.3 beta 1, a Apple está estendendo o suporte a iPads e Macs antes do lançamento público das atualizações 27.3. O caminho até a China foi especialmente conturbado: depois de muitas idas e vindas regulatórias, a empresa confirmou no fim de outubro que o recurso chegaria aos iPhones a partir do iOS 27.3.\n\nPoucos dias depois, a Reuters informou que a Apple havia superado outra barreira regulatória ao registrar o Apple Intelligence para uso em tablets e notebooks no país. Na segunda-feira, a empresa liberou o segundo beta para desenvolvedores, que amplia os testes a esses aparelhos.",
    "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-   "published_at": "2026-11-16T13:29:55-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/16/apple-expands-apple-intelligence-beta-testing-in-china-to-ipads-and-macs/",
+   "published_at": "2026-11-16T16:38:55-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27-02.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "tecnologia-09-20261116-td",
-   "title": "Relatório da Tesla indica Autopilot/FSD ativo em acidente fatal em Naples (FL)",
-   "summary": "Um Tesla Model X saiu da Golden Gate Parkway, em Naples, na Flórida, bateu em um poste de semáforo e capotou em setembro, matando uma passageira de 50 anos. O relatório da própria Tesla à NHTSA indica que o Autopilot ou o FSD estava ativado.",
+   "id": "tecnologia-07-20261117-mn",
+   "title": "Cybercab da Tesla já soma 8 acidentes registrados",
+   "summary": "O Cybercab, robotáxi da Tesla, tem oito acidentes registrados na agência de segurança viária NHTSA, cerca de dois meses após começar a levar passageiros em Austin. Para o Electrek, os dados expõem um problema de velocidade.",
    "highlights": [
-    "Acidente ocorreu em 30 de setembro, no condado de Collier",
-    "Tesla marcou o sistema como \"Verified Engaged\" e registrou 39 mph antes da batida",
-    "Patrulha Rodoviária da Flórida não mencionou sistema de assistência"
+    "Quatro batidas no serviço sem motorista, nenhuma acima de 5 mph",
+    "Outras quatro com motorista de teste e assistência ativada",
+    "Uma delas foi a 53 mph numa rodovia na Filadélfia"
    ],
-   "body": "Um Tesla Model X 2025 que seguia para leste na Golden Gate Parkway, no condado de Collier, saiu da pista perto do cruzamento com a Estuary Boulevard às 23h43 de 30 de setembro, bateu em um poste de semáforo e capotou, segundo a Patrulha Rodoviária da Flórida (FHP). A passageira, uma mulher de 50 anos de Fort Myers, morreu no local; o motorista, de 48 anos, teve ferimentos sem risco de morte.\n\nA FHP disse que o caso segue sob investigação e não divulgou causa, velocidade ou qualquer menção a sistema de assistência ao motorista. Mas, segundo o Electrek, a própria Tesla reportou o acidente à NHTSA, como exige a regra para batidas com sistemas de nível 2 ativos até 30 segundos antes do impacto, marcando o status como \"Verified Engaged\" — confirmado por telemetria.\n\nO relatório registra velocidade de 39 mph antes da colisão, impacto contra poste ou árvore, acionamento de airbags e danos na frente e no teto, compatíveis com a capotagem. A Tesla indica ter os dados do gravador de eventos, telemetria e vídeo. O caso faz parte de uma investigação do Electrek sobre acidentes fatais registrados nos dados da Tesla à NHTSA.",
+   "body": "O Cybercab da Tesla já tem oito acidentes registrados na NHTSA, pouco mais de dois meses depois que o robotáxi dedicado começou a fazer corridas públicas em Austin. Quatro ocorreram no serviço \"Robotaxi\" sem motorista, e nenhum passou de 5 mph (8 km/h). Os outros quatro aconteceram com motorista de teste a bordo e o sistema de assistência ativado, incluindo um em que o Cybercab bateu num carro a 53 mph (85 km/h) numa rodovia na Filadélfia.\n\nPara o Electrek, os dados apontam a maior limitação atual do programa de direção autônoma da Tesla: a velocidade. A empresa registra os acidentes em dois conjuntos de dados distintos exigidos pela NHTSA, separando a operação sem motorista (nível 4) dos testes com supervisão humana.",
    "category": "tecnologia",
    "source": "Electrek",
-   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
-   "published_at": "2026-11-16T13:10:05-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Model-X-autopilotfsd-crash-naples.jpeg?quality=82&strip=all&resize=1200,628"
+   "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
+   "published_at": "2026-11-16T16:41:36-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "tecnologia-10-20261116-td",
-   "title": "Brad Gerstner, da Altimeter, quer investir US$ 5 bilhões no IPO da Anthropic",
-   "summary": "Brad Gerstner, da Altimeter Capital, disse à CNBC que pretende investir US$ 5 bilhões no IPO da Anthropic, cinco vezes mais do que já colocou em qualquer oferta. A estreia na Nasdaq é esperada para quinta-feira.",
+   "id": "tecnologia-08-20261117-mn",
+   "title": "Startup de cibersegurança com IA Corma vira unicórnio em 3 meses",
+   "summary": "A Corma, que oferece modelos e agentes de IA para defesa cibernética, levantou US$ 125 milhões em rodada liderada pela NEA, com avaliação de US$ 1 bilhão. A empresa saiu do modo sigiloso em agosto.",
    "highlights": [
-    "Preço esperado entre US$ 70 e US$ 78 por ação",
-    "Oferta de 825 milhões de ações, avaliando a empresa em cerca de US$ 1,4 trilhão",
-    "Fabricantes de chips e nuvens vão investir US$ 26 bilhões juntos"
+    "Total captado chega a US$ 185 milhões",
+    "Investidores incluem Sequoia, Khosla Ventures e Coatue",
+    "Demanda cresceu após falhas graves em PHP e Node.js"
    ],
-   "body": "A Altimeter Capital pretende investir US$ 5 bilhões no IPO da Anthropic, disse Brad Gerstner ao programa \"Halftime Report\", da CNBC, nesta segunda-feira. \"Acho que esta é uma empresa que vai se valorizar por muito tempo\", afirmou, observando que o valor é cinco vezes maior do que ele já aplicou em qualquer IPO.\n\nA Anthropic deve estrear na Nasdaq na quinta-feira, no que seria a primeira abertura de capital de um grande laboratório de IA, à frente da OpenAI, que mira um IPO no próximo ano. AMD, Broadcom, Google, Micron, Microsoft, Nvidia e TSMC vão investir juntas US$ 26 bilhões ao preço do IPO, previsto entre US$ 70 e US$ 78 por ação, com oferta de 825 milhões de ações e avaliação de cerca de US$ 1,4 trilhão.\n\nAmigo de Jensen Huang, Gerstner enviou carta ao conselho da Nvidia na semana passada pedindo uma investigação completa antes de decidir quem comandará a empresa, disse confiar na CEO interina Colette Kress e afirmou que Huang não discutiu com ele uma volta ao cargo. Apesar do momento difícil, ele se disse otimista com a Anthropic.",
+   "body": "Três meses depois de apresentar seu produto, a startup de cibersegurança com IA Corma levantou uma rodada Série A de US$ 125 milhões, liderada pela NEA, com avaliação de US$ 1 bilhão. A empresa oferece modelos e agentes de IA treinados para defesa cibernética e já captou US$ 185 milhões no total, com investidores como Sequoia Capital, Khosla Ventures e Coatue.\n\nA Corma saiu do modo sigiloso em agosto. O interesse disparou depois de uma série de incidentes de segurança, como a falha crítica descoberta em 21 de outubro no PHP, linguagem popular de programação web, e outra no Node.js, que deixaram diretores de segurança da informação em alerta.",
    "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-   "published_at": "2026-11-16T12:50:09-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108552147-1794850190120-Screenshot-2026-11-16-at-122835_PM.jpg?v=1794850203&w=1920&h=1080"
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "published_at": "2026-11-16T18:32:32-05:00",
+   "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+  },
+  {
+   "id": "tecnologia-09-20261117-mn",
+   "title": "Apple escolhe novo chefe do Apple Pay e da Carteira",
+   "summary": "Segundo a Bloomberg, o veterano Corey Fugman substituirá Jennifer Bailey no comando do Apple Pay e da Carteira. Bailey liderava a área desde o lançamento do Apple Pay, em 2014.",
+   "highlights": [
+    "Fugman tem 26 anos de Apple",
+    "Bailey anunciou aposentadoria para outubro",
+    "Mudança faz parte da renovação da liderança da Apple"
+   ],
+   "body": "A Bloomberg informou que Corey Fugman, funcionário da Apple há 26 anos, vai substituir Jennifer Bailey como chefe da divisão de Apple Pay e Carteira (Wallet). Há alguns meses, a agência havia noticiado que Bailey, que comandava o Apple Pay desde seu lançamento em 2014, se aposentaria em outubro.\n\nNa época, o chefe de serviços Eddy Cue disse internamente que a empresa anunciaria o plano de sucessão antes da transição, e que Bailey continuaria disponível como conselheira. Outubro passou sem anúncio público, até a reportagem desta segunda-feira. A troca se soma à ampla renovação da liderança da Apple, que inclui John Ternus como CEO.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
+   "published_at": "2026-11-16T16:10:12-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "tecnologia-10-20261117-mn",
+   "title": "Gemini permite manter histórico sem treinar a IA com suas conversas",
+   "summary": "O Google está liberando novas configurações de privacidade no app Gemini que separam o histórico de conversas do uso dos dados para treinar modelos de IA. Antes, uma única opção controlava as duas coisas.",
+   "highlights": [
+    "Nova opção \"Histórico\" define por quanto tempo os chats ficam salvos",
+    "Treinamento de IA passa a ter controle independente",
+    "Mudança substitui a configuração \"Keep Activity\""
+   ],
+   "body": "O Google está lançando novas configurações de privacidade para o aplicativo Gemini que permitem \"manter seu histórico enquanto controla de forma independente o treinamento de modelos de IA generativa\". Até agora, a configuração \"Keep Activity\" definia ao mesmo tempo por quanto tempo os chats eram salvos e se seriam usados para treinar os modelos.\n\nAgora essa preferência é dividida em duas. A primeira, chamada \"Histórico\", controla por quanto tempo as conversas ficam guardadas. Segundo o Google, se ela for desativada, os chats futuros serão mantidos por cerca de dois meses para responder ao usuário, processar feedback e proteger o Google, os usuários e o público, com ajuda de revisores humanos.",
+   "category": "tecnologia",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/16/gemini-history-ai-training/",
+   "published_at": "2026-11-16T18:22:08-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-5.jpg?quality=82&strip=all&resize=1200,628"
   }
  ]
 }
