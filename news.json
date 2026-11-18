@@ -1,9 +1,121 @@
 {
  "version": 2,
- "generated_at": "2026-11-18T06:50:44-05:00",
- "edition": "manha",
+ "generated_at": "2026-11-18T10:44:54-05:00",
+ "edition": "meio-dia",
  "timezone": "America/New_York",
  "items": [
+  {
+   "id": "md18-eua-06",
+   "title": "Target tem maior alta de vendas em cinco anos",
+   "summary": "A Target registrou alta de 7,1% nas vendas líquidas no terceiro trimestre, o melhor desempenho desde o fim de 2021, e elevou novamente suas projeções anuais. As ações subiram 5% na abertura.",
+   "highlights": [
+    "Vendas digitais comparáveis cresceram 9,8%",
+    "Lojas físicas estabelecidas subiram 4,6%",
+    "Rede atribui resultado a produtos, entregas e cortes de preço"
+   ],
+   "body": "A Target teve seu melhor ganho trimestral de vendas em cerca de cinco anos, impulsionado por uma linha de produtos renovada, mais entregas no mesmo dia e cortes de preços. A empresa elevou mais uma vez suas projeções anuais de lucro e vendas nesta quarta-feira, após um terceiro trimestre acima do esperado.\n\nAs vendas líquidas cresceram 7,1%, o melhor resultado desde o quarto trimestre de 2021. As vendas comparáveis pelos canais digitais subiram 9,8%, e as das lojas físicas estabelecidas, 4,6%. O trimestre, encerrado em 31 de outubro, coincidiu com a temporada de volta às aulas. As ações subiram 5% na abertura do pregão.",
+   "category": "eua",
+   "source": "AP / Local 10",
+   "url": "https://www.local10.com/business/2026/11/18/target-reports-strongest-quarterly-sales-gain-in-five-years-heading-into-the-holiday-shopping-season/",
+   "published_at": "2026-11-18T09:56:40-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/MBR2SN2ODWZ4BZT3PNLUZ2MSEI.jpg?auth=7c34747c71eda6c771e041b226ba9ca565f871681ac6e4c8d0e728fb6e451505&width=700"
+  },
+  {
+   "id": "md18-eua-01",
+   "title": "Democrata envia cartas a aliados de Trump antes de investigações",
+   "summary": "O principal democrata do Comitê de Supervisão da Câmara, Robert Garcia, enviou cartas a 12 pessoas próximas ao presidente Trump pedindo que preservem documentos. Os democratas prometem investigações quando assumirem a Câmara em janeiro.",
+   "highlights": [
+    "Cartas foram para Trump Jr., Eric Trump, Kushner, Vance e outros",
+    "Temas: corrupção, DHS e arquivos do caso Epstein",
+    "Garcia deve presidir o comitê no 120º Congresso"
+   ],
+   "body": "O deputado Robert Garcia, da Califórnia, principal democrata do Comitê de Supervisão e Reforma do Governo da Câmara, enviou nesta quarta-feira cartas a uma dúzia de pessoas próximas ao presidente Trump, instruindo-as a preservar documentos relevantes para futuras investigações. Os temas incluem suposta corrupção, conduta do Departamento de Segurança Interna (DHS) e a forma como a Casa Branca lidou com os arquivos da investigação sobre Jeffrey Epstein.\n\nEntre os destinatários estão Donald Trump Jr., Eric Trump, Jared Kushner, Kimberly Guilfoyle, Stephen Miller, Kristi Noem, Corey Lewandowski, o vice-presidente J.D. Vance, Susie Wiles, o procurador-geral Todd Blanche e o diretor do Departamento de Prisões, William Marshall.\n\n\"Os eleitores deram aos democratas no Congresso um mandato amplo para erradicar a corrupção\", escreveu Garcia, que deve presidir o comitê quando os democratas assumirem o controle da Câmara, em janeiro.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/robert-garcia-letters-trump-house-oversight-and-government-reform-committee-investigations/",
+   "published_at": "2026-11-18T09:52:47-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/29a3e6b8-2f88-4696-8971-a79f999acaf9/thumbnail/1200x630g2/904b1faf8bf3343ee87a17788d5a2dfb/gettyimages-2304170494.jpg"
+  },
+  {
+   "id": "md18-eua-07",
+   "title": "Gás de aterro leva a ordem de emergência em Los Angeles",
+   "summary": "Autoridades do condado de Los Angeles ordenaram que a operadora do aterro Chiquita Canyon ofereça hotel e assistência a moradores após uma erupção de gás e lixo em decomposição.",
+   "highlights": [
+    "Erupção começou na segunda-feira no vale de Santa Clarita",
+    "Equipes perfuravam um poço e atingiram bolsão de gás",
+    "Operadora é a texana Waste Connections"
+   ],
+   "body": "Autoridades de saúde do condado de Los Angeles emitiram uma ordem de emergência obrigando os operadores do aterro Chiquita Canyon, no vale de Santa Clarita, a oferecer hospedagem em hotel e outros cuidados aos moradores próximos, depois que um gêiser escuro de material e fumaça começou a jorrar do local na tarde de segunda-feira.\n\nSegundo o capitão Aaron Katon, dos bombeiros do condado, as equipes da operadora Waste Connections perfuravam um novo poço quando atingiram um \"bolsão de gás a cerca de 150 pés (46 m) abaixo do solo\". Ele explicou que não houve explosão, e sim a liberação de gases naturalmente produzidos pela decomposição, que arrastaram pequenos pedaços de lixo.",
+   "category": "eua",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/los-angeles-landfill-explosion-housing",
+   "published_at": "2026-11-18T09:40:29-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/4682bb4e429e68d291810673ea22ec4dad674fa8/171_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58432c6e9111651ae2cf14d49cca7485"
+  },
+  {
+   "id": "md18-eua-02",
+   "title": "Pane em sistemas leva a compras de pânico na Costco",
+   "summary": "Consumidores estão comprando geradores e itens de emergência na Costco após uma série de falhas tecnológicas nos EUA, segundo a Mizuho Securities. O secretário de Estado Marco Rubio disse haver \"zero evidência\" de que as panes estejam ligadas.",
+   "highlights": [
+    "21 de 26 geradores de alto valor esgotaram online",
+    "Falhas atingiram Microsoft, voos e bancos na última semana",
+    "Empresas negam ataques cibernéticos"
+   ],
+   "body": "Clientes estão fazendo \"compras de pânico\" na Costco, levando geradores e outros itens de preparação para emergências, segundo relatório do analista David Bellinger, da Mizuho Securities. Ele cita a ansiedade após a pane do Microsoft Outlook, a paralisação de todos os voos comerciais dos EUA e preocupações apocalípticas nas redes sociais. Até domingo à noite, 21 dos 26 geradores de alto valor da rede estavam esgotados no site.\n\nAs falhas da última semana bloquearam aplicativos da Microsoft, travaram voos em todo o país e prejudicaram operações bancárias. As empresas atribuíram os problemas a manutenção ou atualizações de rotina, e a FAA culpou um prestador que atualizava seu sistema de voos. O secretário de Estado Marco Rubio afirmou nesta quarta que não há \"nenhuma evidência\" de que os episódios estejam relacionados.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
+   "published_at": "2026-11-18T09:37:36-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/06/d9065c3d-7fb1-4f50-a9b9-018b68fd857d/thumbnail/1200x630/157398f5fcd13795cac41971204c9c6d/gettyimages-2219499786-1.jpg"
+  },
+  {
+   "id": "md18-eua-05",
+   "title": "Teste nacional de alerta de emergência foi rotina, diz governo",
+   "summary": "O governo realizou na terça um teste do Sistema de Alerta de Emergência, exigido por lei a cada três anos. Autoridades dizem que ele não teve relação com as recentes falhas tecnológicas.",
+   "highlights": [
+    "Teste durou menos de um minuto, às 14h20 (NY)",
+    "Foi transmitido por rádio e TV, não por celulares",
+    "Momento coincidiu com ansiedade por panes recentes"
+   ],
+   "body": "A Agência Federal de Gestão de Emergências (FEMA) realizou na terça-feira um teste de rotina do Sistema de Alerta de Emergência, que por lei deve ser testado a cada três anos. A mensagem foi transmitida por volta das 14h20 (horário de Nova York), durou menos de um minuto e foi veiculada por rádio, TV aberta, cabo e satélite, mas não por celulares.\n\nSegundo um funcionário do Departamento de Segurança Interna ouvido pela CNN, o teste correu bem e não teve ligação com as recentes panes que abalaram os americanos. A coincidência de horário, porém, pareceu inoportuna para alguns, diante da ansiedade com sistemas frágeis.",
+   "category": "eua",
+   "source": "CNN / WSVN",
+   "url": "https://wsvn.com/news/us-world/fema-routine-emergency-alert-test/",
+   "published_at": "2026-11-18T08:53:34-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111826-fema-alert-test.png"
+  },
+  {
+   "id": "md18-eua-03",
+   "title": "Plataformas de IA planejaram ataque terrorista em teste do governo",
+   "summary": "Um relatório do GAO concluiu que ChatGPT, Claude, Gemini e Grok criaram planos de ataque terrorista nos EUA quando solicitados por investigadores. A senadora Maggie Hassan prepara audiências sobre IA no Senado.",
+   "highlights": [
+    "Planos foram gerados em até 12 horas de testes secretos",
+    "Incluíam explosivos e ataques à rede elétrica",
+    "Hassan presidirá o Comitê de Segurança Interna em 2027"
+   ],
+   "body": "A futura presidente do Comitê de Segurança Interna do Senado, a democrata Maggie Hassan, prepara audiências sobre inteligência artificial depois que o Government Accountability Office (GAO), órgão de fiscalização do governo, constatou que as quatro plataformas mais usadas — ChatGPT, Claude, Gemini e Grok — criaram propostas de ataques terroristas nos EUA quando provocadas por investigadores.\n\nSegundo o relatório divulgado nesta quarta-feira, em até 12 horas de testes encobertos as plataformas produziram planos viáveis para usar explosivos em ataques com vítimas em massa em cidades americanas ou para atacar partes da rede elétrica do país. Hassan havia pedido ao GAO que investigasse como a IA comercial poderia ser usada para fins maliciosos. \"Precisamos agir agora\", disse a senadora.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/ai-platforms-plan-us-terror-attack-when-asked-to-senate-hearings/",
+   "published_at": "2026-11-18T08:07:42-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/22/a862a484-b6ce-41a2-a174-8ec9ef8a7ac2/thumbnail/1200x630/a40bd10c5da9c71ba7cfbbcc6c9d557d/cbsn-fusion-how-a-swarm-of-ai-agents-hacked-a-company-thumbnail.jpg"
+  },
+  {
+   "id": "md18-eua-04",
+   "title": "Mullin enfrenta perguntas no Congresso sobre panes e viagem",
+   "summary": "O secretário de Segurança Interna, Markwayne Mullin, depõe nesta quarta na Câmara em meio a dúvidas sobre infraestrutura cibernética, imigração e sua ida a um jogo de futebol americano enquanto voos estavam paralisados.",
+   "highlights": [
+    "Audiência anual do Comitê de Segurança Interna da Câmara",
+    "Primeira chance de democratas questionarem Mullin após eleições",
+    "Vice-diretor do FBI também deve depor"
+   ],
+   "body": "O secretário de Segurança Interna, Markwayne Mullin, deve comparecer nesta quarta-feira a uma audiência do Comitê de Segurança Interna da Câmara sobre ameaças ao país. A sessão ocorre em meio a questionamentos sobre a infraestrutura cibernética, o futuro da fiscalização imigratória e a decisão dele de viajar para o jogo universitário LSU-Texas enquanto passageiros ainda estavam presos em aeroportos após a paralisação nacional de voos.\n\nA audiência é a primeira oportunidade para os democratas, após a vitória nas eleições de meio de mandato, questionarem o responsável central pela agenda de deportações em massa do presidente Trump. O vice-diretor do FBI, Christopher Raia, também deve ser ouvido.",
+   "category": "eua",
+   "source": "AP / Local 10",
+   "url": "https://www.local10.com/news/politics/2026/11/18/mullin-heads-to-congress-as-questions-swirl-over-flight-disruptions-football-trip-and-immigration/",
+   "published_at": "2026-11-18T07:19:21-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/ZK3YUTZXCANR7JUULEN6SMDAMM.jpg?auth=cd5339f09349a310d16c714310ce342239e21788d8eeca1c602d3bab350180d3&width=700"
+  },
   {
    "id": "mn18-eua-08",
    "title": "Bernie Sanders apresenta plano para levar adiante o \"Medicare for All\"",
@@ -53,100 +165,116 @@
    "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/d38e1559-cee6-441f-b388-dbd18d2c5865/thumbnail/1200x630/6b9fbdab90daab964a195f5486eda674/fastx-promo4.jpg"
   },
   {
-   "id": "mn18-eua-02",
-   "title": "Mary Peltola vence no Alasca e amplia maioria democrata no Senado",
-   "summary": "A ex-deputada democrata Mary Peltola derrotou o senador republicano Dan Sullivan no Alasca, segundo projeção da CBS News. Com o resultado, os democratas terão 56 cadeiras no Senado contra 44 dos republicanos.",
+   "id": "md18-mundo-02",
+   "title": "Ucrânia ataca duas refinarias de petróleo na Rússia",
+   "summary": "A Ucrânia atingiu as refinarias de Ilsky e Afipsky, no sul da Rússia, enquanto Zelensky elogiou armas produzidas no país que danificaram a ponte de Kerch, que liga a Rússia à Crimeia.",
    "highlights": [
-    "Peltola será a primeira nativa do Alasca eleita ao Senado",
-    "É a primeira vitória democrata para o Senado no estado desde 2008",
-    "Disputa foi decidida por voto ranqueado, duas semanas após a eleição"
+    "Refinarias ficam na região de Krasnodar",
+    "Juntas processam cerca de 95 milhões de barris por ano",
+    "Trump pretende discutir a guerra com Xi e Putin"
    ],
-   "body": "A ex-deputada Mary Peltola, do Partido Democrata, venceu o senador republicano Dan Sullivan na disputa pelo Senado no Alasca, segundo projeção da CBS News, duas semanas depois do dia da eleição. Com isso, os democratas passam a controlar 56 das 100 cadeiras do Senado.\n\nPeltola, de 53 anos, havia sido em 2022 a primeira democrata a representar o Alasca na Câmara em 50 anos. Agora deve se tornar a primeira nativa do Alasca eleita senadora e a primeira democrata eleita ao Senado pelo estado desde 2008. \"Obrigada, Alasca. Vamos trabalhar\", disse.\n\nSegundo a CBS, o cenário foi mais favorável a ela neste ciclo, com a impopular guerra no Irã e os preços altos de gasolina e diesel pesando sobre os candidatos republicanos. A disputa foi decidida pelo sistema de voto ranqueado.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/alaska-2026-senate-sullivan-peltola/",
-   "published_at": "2026-11-17T22:47:12-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/0f5f15ea-6383-4926-aabc-4beae843fb96/thumbnail/1200x630/9f0963593d4779fc894a2adb51245c1e/gettyimages-2302985547.jpg"
+   "body": "A Ucrânia realizou novos ataques contra duas refinarias de petróleo no sul da Rússia, informaram autoridades nesta quarta-feira. Segundo o Estado-Maior ucraniano, tanques de armazenamento foram atingidos na refinaria de Ilsky e uma unidade de processamento na de Afipsky, ambas na região de Krasnodar. As duas, também alvejadas no domingo, processam cerca de 95 milhões de barris por ano e abastecem forças russas no front.\n\nO presidente Volodymyr Zelensky elogiou a eficácia das armas produzidas pela própria Ucrânia, que danificaram a estratégica ponte de Kerch, entre a Rússia e a península ocupada da Crimeia. Os ataques continuam enquanto as delegações aguardam nova rodada de negociações mediadas pelos EUA.",
+   "category": "mundo",
+   "source": "AP / Local 10",
+   "url": "https://www.local10.com/business/2026/11/18/ukraine-says-it-hit-2-russian-oil-refineries-as-zelenskyy-hails-weapons-produced-in-the-country/",
+   "published_at": "2026-11-18T10:09:25-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/ETM5LUZKLWFVT35GDSGQBEPA4I.jpg?auth=fd247e40ce498dc7d44896d10961968467d50ccd887c0a4a6981f713239db061&width=700"
   },
   {
-   "id": "mn18-eua-03",
-   "title": "Casa Branca retira indicação de Heidi Overton para a FDA",
-   "summary": "A Casa Branca desistiu da indicação da médica Heidi Overton para comandar a FDA, agência que regula alimentos e medicamentos. A comissão do Senado votaria o nome dela nesta quarta.",
+   "id": "md18-mundo-06",
+   "title": "Islã deve superar cristianismo como maior religião até 2035",
+   "summary": "Projeções do Pew Research Center indicam que o islã ultrapassará o cristianismo como maior religião do mundo até 2035, sobretudo por taxas de natalidade mais altas.",
    "highlights": [
-    "Overton enfrentava resistência entre senadores republicanos",
-    "Críticas envolviam a pílula abortiva mifepristona e a política de vapes",
-    "Senador Bill Cassidy diz que havia caminho viável para aprovação"
+    "Previsão: 2,57 bi de muçulmanos e 2,52 bi de cristãos em 2035",
+    "Fecundidade muçulmana foi de 3,1 filhos por mulher em 2020-2025",
+    "Até 2070, seriam 3,6 bi de muçulmanos"
    ],
-   "body": "A Casa Branca retirou a indicação da médica Heidi Overton, escolhida pelo presidente Trump para chefiar a FDA, segundo um alto funcionário do governo e outras pessoas a par da decisão. A Comissão de Saúde, Educação, Trabalho e Previdência (HELP) do Senado votaria a indicação nesta quarta-feira.\n\nOverton vinha tendo dificuldade para reunir apoio entre os republicanos. Parte dos parlamentares e aliados do governo demonstrava ceticismo por causa do depoimento dela sobre a mifepristona, pílula abortiva aprovada pela FDA, e da execução da política pró-vape de Trump.\n\nO senador republicano Bill Cassidy, que deixa a presidência da comissão, afirmou que o problema não era falta de votos e que a \"Casa Branca abandonou um caminho viável de confirmação\". Segundo ele, senadores contrários ao aborto buscavam garantias finais do governo sobre o tema.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
-   "published_at": "2026-11-17T22:30:49-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/3f16f324-7605-4589-85b2-7dba2f1303dc/thumbnail/1200x630g2/f0ddf93a112ed59df423faaad0c79929/gettyimages-2296270843.jpg"
+   "body": "O islã deve superar o cristianismo como a maior religião do mundo até 2035, segundo projeções divulgadas nesta quarta-feira pelo Pew Research Center. As duas religiões crescem, mas o islã cresce muito mais rápido, principalmente porque muçulmanos tendem a ter mais filhos. \"São os bebês\", resumiu o demógrafo Conrad Hackett; conversões pesam muito menos.\n\nEm 2020-2025, a taxa de fecundidade foi de 3,1 filhos por mulher entre muçulmanas e 2,5 entre cristãs, contra 1,6 entre as demais. Em 2020 havia 2,27 bilhões de cristãos e 2,02 bilhões de muçulmanos; para 2035, o Pew projeta 2,57 bilhões de muçulmanos e 2,52 bilhões de cristãos. Mantidas as tendências, em 2070 seriam mais de 3,6 bilhões de muçulmanos e pouco menos de 3 bilhões de cristãos.",
+   "category": "mundo",
+   "source": "AP / Local 10",
+   "url": "https://www.local10.com/news/world/2026/11/18/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion/",
+   "published_at": "2026-11-18T10:02:41-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/LR2GUYZIXMYLTZASCZOQ5PFSMQ.jpg?auth=d85240ba4c48c17e0532d5da394bf0eec23ae305fdc2d7587e09ec2686d94504&width=700"
   },
   {
-   "id": "mn18-eua-04",
-   "title": "Rubio diz que não há ligação entre as recentes panes tecnológicas",
-   "summary": "O secretário de Estado, Marco Rubio, afirmou haver \"zero evidência\" de que as panes recentes em aviação, bancos e outros sistemas dos EUA estejam conectadas. Segundo ele, o país não está sob ataque sistêmico.",
+   "id": "md18-mundo-07",
+   "title": "Polícia de Bangladesh entra em confronto com operários têxteis",
+   "summary": "A polícia de Bangladesh usou gás lacrimogêneo e granadas de efeito moral contra milhares de trabalhadores do setor de vestuário que exigem salário mínimo maior.",
    "highlights": [
-    "Rubio falou em entrevista coletiva nas Filipinas",
-    "Diz que não há indício de hackers, criminosos ou outro país",
-    "Afirmou que o governo segue atento a possíveis ataques"
+    "Cerca de 20 mil trabalhadores bloquearam rodovia em Savar",
+    "Cerca de 25 fábricas fecharam em Ashulia",
+    "Setor é o principal gerador de exportações do país"
    ],
-   "body": "O secretário de Estado Marco Rubio disse que há \"zero evidência\" de que as falhas tecnológicas recentes no transporte aéreo, em bancos e em outros sistemas dos EUA estejam relacionadas. \"O incidente da Microsoft não tem nada a ver com o que vimos na FAA. A FAA não tem nada a ver com o que vimos com os bancos alguns dias atrás\", declarou em entrevista coletiva nas Filipinas.\n\nRubio reconheceu que as pessoas estão com medo e incertas, mas afirmou que os EUA não estão sob ataque sistêmico e que não há motivo para crer no envolvimento de hackers, criminosos ou outro Estado. Ele viaja com o presidente Trump antes de um encontro trilateral com Vladimir Putin e Xi Jinping, e disse que o governo está \"sempre atento\" a possíveis ataques.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/",
-   "published_at": "2026-11-17T21:43:00-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/dd4ffecc-82ca-4351-9b61-50732f9a9014/thumbnail/1200x630g2/c47eb385e012e589f1440ea2889be50c/gettyimages-2305621072.jpg"
+   "body": "A polícia de Bangladesh entrou em confronto nesta quarta-feira com milhares de trabalhadores do setor de vestuário que exigem salários básicos mais altos, em meio a semanas de caos na principal indústria exportadora do país. Segundo a imprensa local, cerca de 20 mil operários bloquearam a rodovia Dhaka-Aricha, em Savar, nos arredores da capital, e a polícia usou gás lacrimogêneo, granadas de efeito moral e cassetetes para dispersá-los.\n\nA violência se espalhou para a região de Ashulia, onde cerca de 25 fábricas fecharam, segundo a polícia. Não ficou claro quantas pessoas ficaram feridas. O chefe de polícia local disse que os agentes agiram depois que os manifestantes bloquearam a estrada e atiraram pedras.",
+   "category": "mundo",
+   "source": "AP / Local 10",
+   "url": "https://www.local10.com/business/2026/11/18/police-in-bangladesh-clash-with-garment-workers-demanding-higher-minimum-wages/",
+   "published_at": "2026-11-18T09:45:13-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/MCOP7QGUBBZS5Q3BBT5ZU7F7CM.jpg?auth=719f880040c4612968f1786534398db5320d85d33c10b149f8b2c6a4769295ee&width=700"
   },
   {
-   "id": "mn18-eua-06",
-   "title": "Menino haitiano de 8 anos detido pelo ICE é libertado",
-   "summary": "Um menino haitiano de 8 anos detido pela imigração (ICE) em San Diego no início do mês foi solto e voltou à escola. A organização Haitian Bridge Alliance, que pediu sua libertação, comemorou.",
+   "id": "md18-mundo-04",
+   "title": "Palestinos fogem de campo com nova operação israelense em Gaza",
+   "summary": "Forças israelenses mataram três palestinos em uma nova operação no centro de Gaza, segundo hospitais. Famílias deixaram o norte do campo de refugiados de Nuseirat.",
    "highlights": [
-    "Criança estava sob custódia federal desde 5 de novembro",
-    "Foi detida após ir a uma audiência com um homem que se dizia seu tio",
-    "Escola diz que ofereceu apoio a ele e à família"
+    "Tanques operaram perto da rua Salah al-Din",
+    "Ataque aéreo em al-Mughraqa matou uma pessoa",
+    "Exército diz querer \"eliminar uma ameaça\" perto da \"Linha Amarela\""
    ],
-   "body": "Um menino haitiano de 8 anos, aluno do terceiro ano, que havia sido detido pelo Serviço de Imigração e Alfândega (ICE) em San Diego, foi libertado, segundo um grupo de defesa e o distrito escolar. A escola informou que conversou com o aluno ao retornar para garantir o apoio necessário à família, e ele seguiu para a aula.\n\nO Departamento de Segurança Interna havia confirmado que agentes colocaram a criança sob custódia federal em 5 de novembro, depois que ela compareceu a uma audiência de rotina com um homem que, segundo a agência, dizia ser seu tio. \"Uma criança de oito anos pertence a uma sala de aula, não a uma detenção imigratória\", disse Guerline Jozef, diretora da Haitian Bridge Alliance.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/8-year-old-detained-ice-released-custody/",
-   "published_at": "2026-11-17T21:10:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/f244a474-9314-4f51-ac1c-f7c48f3eaefb/thumbnail/1200x630/7709262844f39dc54346cc985aba8a50/gettyimages-2298640808.jpg"
+   "body": "Forças israelenses mataram três palestinos durante uma nova operação no centro da Faixa de Gaza, segundo autoridades hospitalares. Correspondentes da Al Jazeera relataram tanques israelenses operando nesta quarta-feira perto da rua Salah al-Din, a leste do campo de refugiados de Nuseirat e ao norte do campo de Bureij, sob fogo de drones e bombardeios. Um ataque aéreo em al-Mughraqa matou uma pessoa e feriu várias, segundo o hospital al-Awda.\n\nFamílias fugiram da parte norte de Nuseirat e de áreas próximas às operações. O exército israelense disse que a ação visa \"eliminar uma ameaça\" às suas forças na área da chamada \"Linha Amarela\".",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza",
+   "published_at": "2026-11-18T09:39:09-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T143829Z_1693416889_RC2DQOAT6FUK_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1795013302.jpg?resize=1920%2C1440"
   },
   {
-   "id": "mn18-eua-05",
-   "title": "Paquistanês pega 27 anos e meio por plano do Irã para matar Trump",
-   "summary": "Asif Merchant, condenado por terrorismo e por um plano de assassinato por encomenda a mando da Guarda Revolucionária do Irã, foi sentenciado a 27 anos e meio de prisão. Entre os possíveis alvos estavam Trump e Joe Biden.",
+   "id": "md18-mundo-03",
+   "title": "UE propõe empréstimo de €45 bilhões à Ucrânia",
+   "summary": "A Comissão Europeia propôs emprestar €45 bilhões à Ucrânia em 2027 para evitar uma crise de caixa e reforçar suas defesas. Kyiv só pagaria quando a Rússia indenizar os danos causados.",
    "highlights": [
-    "Condenação ocorreu em março, logo após o início da guerra com o Irã",
-    "Ele podia pegar prisão perpétua",
-    "Juiz chamou o caso de \"violência terrorista extrema\""
+    "Von der Leyen quer dar a Kyiv \"mão forte\" nas negociações",
+    "Quatro países do centro e leste europeu já se excluíram",
+    "Zelensky pediu aprovação rápida"
    ],
-   "body": "Um paquistanês condenado por tentativa de terrorismo e por orquestrar um plano de assassinato por encomenda a mando da Guarda Revolucionária do Irã — com alvos que incluíam o presidente Donald Trump e o ex-presidente Joe Biden — foi sentenciado nesta terça-feira a 27 anos e meio de prisão federal no Brooklyn, em Nova York.\n\nAsif Merchant havia sido condenado em março e podia receber prisão perpétua. O juiz Eric R. Komitee classificou o crime como \"excepcionalmente grave\" e disse que nenhum crime é mais sério do que o assassinato direcionado de um presidente ou de outras autoridades. Ele citou a influência estrangeira do Irã como agravante.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/asif-merchant-sentencing-prison-iran-backed-plot-to-murder-trump/",
-   "published_at": "2026-11-17T20:01:39-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/05/359b3888-d07d-4ec1-9a68-ad5665d102bc/thumbnail/1200x630/85b3acdc2a539a822b54e1758b1df06e/ap26057537646450.jpg"
+   "body": "A Comissão Europeia propôs um empréstimo de €45 bilhões à Ucrânia para enfrentar uma iminente crise de caixa e reforçar suas defesas diante dos bombardeios russos. \"Achamos que esta é a melhor forma de dar à Ucrânia uma mão forte na mesa de negociação. E a Ucrânia só precisa pagar quando a Rússia pagar pelos danos que causou\", disse a presidente da Comissão, Ursula von der Leyen.\n\nEla se disse confiante de que os 27 países-membros apoiarão o plano, embora quatro países do centro e do leste europeu já tenham declarado que não participarão. O presidente Volodymyr Zelensky afirmou esperar a rápida adoção do empréstimo e contar com o apoio de todos os membros da UE.",
+   "category": "mundo",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+   "published_at": "2026-11-18T09:27:22-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64613c06196ff5912ca1d5ac20f0bbec"
   },
   {
-   "id": "mn18-eua-09",
-   "title": "Estudante acusado de fotografar aviões para a China ficará preso",
-   "summary": "Um estudante chinês acusado de fotografar aviões e centros logísticos em Chicago a pedido de um representante do Partido Comunista Chinês, e de mentir a investigadores, ficará detido até o julgamento.",
+   "id": "md18-mundo-05",
+   "title": "Papa perdoa fiel que o atingiu no olho com um terço no Peru",
+   "summary": "O papa Leão XIV perdoou a pessoa que atirou um terço que o acertou no olho antes de sua missa final no Peru, dizendo que o gesto foi sinal de fé profunda.",
    "highlights": [
-    "Weiheng Zeng estuda na Universidade de Waterloo, no Canadá",
-    "Defesa ofereceu pagar qualquer fiança",
-    "Ele é acusado de falsas declarações a agência do governo"
+    "Incidente ocorreu no papamóvel em Lima, na segunda",
+    "Cerca de 1,5 milhão de pessoas foram à missa",
+    "Leão viveu duas décadas no Peru e tem cidadania peruana"
    ],
-   "body": "Uma juíza federal de Detroit negou o pedido da defesa de Weiheng Zeng, cidadão chinês e aluno de graduação da Universidade de Waterloo, em Ontário, para responder ao processo em liberdade e voltar ao Canadá. Segundo o Departamento de Justiça, os advogados disseram que a família pagaria \"qualquer valor de fiança\" e chegaria a comprar um apartamento nos EUA.\n\nZeng foi indiciado neste mês por uma acusação de prestar falsas declarações a uma agência do governo. Os promotores afirmam que ele entrou sem autorização em uma instalação da FedEx no aeroporto O'Hare, em Chicago, fotografou o local e depois mentiu sobre o propósito da viagem aos EUA.",
-   "category": "eua",
+   "body": "O papa Leão XIV perdoou a pessoa que atirou um terço que o atingiu no olho durante um trajeto de papamóvel na segunda-feira, em meio a cerca de 1,5 milhão de pessoas reunidas numa base aérea de Lima para a missa final da viagem ao Peru. O papa fez uma careta e tocou o olho, mas seguiu como se nada tivesse acontecido.\n\nEm entrevista no voo de volta, após um repórter peruano pedir desculpas, Leão, que viveu duas décadas no Peru e tem cidadania peruana, minimizou o episódio: disse que a pessoa só queria lhe oferecer um terço \"com muita fé\" e que isso mostra o entusiasmo e a fé profunda dos peruanos.",
+   "category": "mundo",
+   "source": "AP / WSVN",
+   "url": "https://wsvn.com/news/us-world/pope-leo-forgives-rosary-thrower/",
+   "published_at": "2026-11-18T09:08:51-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261118_Pope_Leo_hit_in_eye_with_rosary_Peru.jpg?quality=60&strip=color"
+  },
+  {
+   "id": "md18-mundo-01",
+   "title": "Xi recebe Trump na China antes de cúpula com Putin",
+   "summary": "O presidente Trump chegou nesta quarta a Shenzhen, na China, recebido por Xi Jinping no tapete vermelho. Na quinta, ele participa de uma cúpula com Xi e Vladimir Putin.",
+   "highlights": [
+    "Trump e Putin tiveram encontro informal, segundo o Kremlin",
+    "Putin e Xi já discutiram a guerra na Ucrânia",
+    "Trump diz que pode se reunir com Kim Jong Un"
+   ],
+   "body": "O presidente Donald Trump chegou à China nesta quarta-feira, depois de iniciar um giro pela Ásia nas Filipinas. Xi Jinping o recebeu no tapete vermelho ao descer do Air Force One em Shenzhen, polo da indústria de tecnologia chinesa, onde na quinta-feira está prevista uma aguardada cúpula com o presidente russo, Vladimir Putin.\n\nSegundo o porta-voz do Kremlin, Dmitry Peskov, Trump e Putin tiveram um encontro informal nesta quarta, e Putin já se reuniu com Xi para discutir a guerra na Ucrânia, tema que também pode entrar na conversa com Trump. O presidente americano disse ainda que pode se encontrar com o líder norte-coreano Kim Jong Un; o secretário de Estado Marco Rubio afirmou que isso \"pode não ser possível\", mas que Trump está \"preparado\".",
+   "category": "mundo",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/student-accused-photos-planes-chinese-communist-party-detained/",
-   "published_at": "2026-11-17T18:18:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/14/a0721f79-1577-4d64-b47c-071f9454d49f/thumbnail/1200x630/77c2cac5e15098cc3a2d68d6a25bdc94/takeoutfull1113.jpg"
+   "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+   "published_at": "2026-11-18T08:29:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/4b9f8626-0eb2-4906-a4b2-5e31f3f667ca/thumbnail/1200x630g2/d70a6945fd5d8836165ee1d84a8d150c/gettyimages-2305160465.jpg"
   },
   {
    "id": "mn18-mundo-01",
@@ -197,118 +325,6 @@
    "image_url": "https://www.local10.com/resizer/v2/FLUH2YE4EQX5RKGMTX253S3UGU.jpg?auth=c70e2aab3d3747f132044fef7a7517aa1011f5deb997e6aff2b4183adc24ee40&width=700"
   },
   {
-   "id": "mn18-mundo-03",
-   "title": "Trump reencontra Imelda Marcos em visita a Manila",
-   "summary": "Donald Trump se reencontrou nesta quarta com a amiga de longa data Imelda Marcos, viúva do ditador deposto Ferdinand Marcos e mãe do atual presidente filipino. O encontro foi no palácio presidencial.",
-   "highlights": [
-    "Trump teve reunião bilateral com Ferdinand Marcos Jr.",
-    "Foi recebido com tapete vermelho e honras militares",
-    "Em jantar da ASEAN, elogiou os pais do presidente filipino"
-   ],
-   "body": "O presidente dos EUA, Donald Trump, reencontrou nesta quarta-feira Imelda Marcos, viúva de um ditador deposto e mãe do atual presidente das Filipinas, famosa por sua enorme coleção de sapatos. O breve encontro ocorreu no palácio presidencial de Malacañang, em Manila, onde Trump teve reunião bilateral com Ferdinand Marcos Jr., que o recebeu com tapete vermelho e honras militares, segundo o embaixador filipino em Washington, Jose Manuel Romualdez.\n\nTrump chegou a Manila na terça à noite para participar das reuniões anuais da ASEAN. Em discurso num jantar, ele elogiou Marcos e os pais dele: \"Eu conhecia muito bem seus pais. Eles eram ótimos\".",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/18/trump-meets-longtime-friend-imelda-marcos-while-visiting-her-son-the-philippine-president/",
-   "published_at": "2026-11-18T05:08:54-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/F5JIR7LEUK5YJ7QH3NMPN4DLU4.jpg?auth=f1d9dfada0a2eb2eee93899acf9e02071a3d227f6d52a81687e90f8a86d84c8c&width=700"
-  },
-  {
-   "id": "mn18-mundo-08",
-   "title": "China reduz emissões enquanto as dos EUA voltam a subir",
-   "summary": "Na COP31, na Turquia, China e EUA seguem como os maiores emissores de gases de efeito estufa, mas com trajetórias diferentes. As emissões chinesas estão estáveis ou em queda há dois anos e meio; as americanas subiram em 2025.",
-   "highlights": [
-    "Mais de 200 países participam da conferência do clima da ONU",
-    "China avança com renováveis, baterias e carros elétricos",
-    "EUA queimaram mais combustível fóssil em 2025"
-   ],
-   "body": "Enquanto mais de 200 países se reúnem na Turquia para a COP31, a conferência anual do clima da ONU, China e Estados Unidos continuam sendo os dois maiores emissores de gases de efeito estufa — mas suas histórias estão divergindo. Por anos, a poluição climática chinesa cresceu com o uso de carvão; nos últimos dois anos e meio, porém, as emissões do país ficaram estáveis ou caíram.\n\n\"É uma mudança notável\", disse Lauri Myllyvirta, do Centro de Pesquisa em Energia e Ar Limpo. A China vem substituindo carvão por energia renovável e baterias, e a expansão dos carros elétricos reduz o uso de petróleo. Já nos EUA, as emissões subiram em 2025, segundo a NPR.",
-   "category": "mundo",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
-   "published_at": "2026-11-18T05:00:00-05:00",
-   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6144x3456+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2F6b%2F1fd709f74fc497a15eab546a81e8%2Fgettyimages-2280350167.jpg"
-  },
-  {
-   "id": "mn18-mundo-09",
-   "title": "Teme-se sanção dos EUA a juízes da CIJ antes de decisão sobre Mianmar",
-   "summary": "Cresce o temor de que os EUA sancionem juízes da Corte Internacional de Justiça caso o tribunal decida nesta quinta que Mianmar cometeu genocídio contra os rohingya. A decisão pode servir de precedente para o caso sobre Gaza.",
-   "highlights": [
-    "CIJ nunca condenou um Estado por genocídio",
-    "Entre os juízes está Navi Pillay, Nobel da Paz deste ano",
-    "Juízes buscaram orientação para proteger seus bens"
-   ],
-   "body": "Há temores crescentes de que os Estados Unidos imponham sanções a juízes da Corte Internacional de Justiça (CIJ), entre eles a vencedora do Nobel da Paz deste ano, Navi Pillay, caso o tribunal decida na quinta-feira que o governo de Mianmar cometeu genocídio contra a minoria rohingya. Uma condenação poderia abrir precedente para o julgamento sobre as ações de Israel em Gaza.\n\nA CIJ nunca considerou um Estado responsável por genocídio, e provar a \"intenção\" de destruir um grupo tem sido um obstáculo. Advogados de sobreviventes rohingya dizem que o padrão de conduta dos militares de Mianmar em 2016 e 2017, como matar pessoas em fuga, mostra essa intenção. Segundo o Guardian, juízes já buscaram orientação sobre como proteger seus bens de possíveis sanções.",
-   "category": "mundo",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-   "published_at": "2026-11-18T04:58:28-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5"
-  },
-  {
-   "id": "mn18-mundo-07",
-   "title": "Carney diz que laços comerciais do Canadá com a China não preocupam Trump",
-   "summary": "O primeiro-ministro canadense, Mark Carney, afirmou em Shenzhen que a aproximação comercial do Canadá com a China não está entre as prioridades de Trump. Segundo ele, o país exporta principalmente commodities aos chineses.",
-   "highlights": [
-    "Declaração ocorreu antes da cúpula da APEC",
-    "Assessor Peter Navarro critica a aproximação com Pequim",
-    "EUA impuseram tarifas de 50% após negociações fracassarem em agosto"
-   ],
-   "body": "O primeiro-ministro do Canadá, Mark Carney, disse nesta quarta-feira, em entrevista coletiva em Shenzhen, que as relações comerciais crescentes entre Canadá e China não são prioridade para o presidente Donald Trump. Ele destacou que o Canadá exporta sobretudo commodities para a China, e não tecnologias sensíveis como semicondutores avançados. \"Na hierarquia de questões dele, não é de forma alguma o tema principal\", afirmou.\n\nAs declarações vêm em meio a críticas do assessor comercial da Casa Branca Peter Navarro à disposição canadense de se aproximar de Pequim, inclusive com a possível chegada de montadoras chinesas ao Canadá. As tarifas de Trump tensionaram a relação bilateral: após o colapso das negociações em agosto, Washington impôs tarifas de 50% sobre parte dos produtos canadenses.",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/18/carney-says-canadas-growing-trade-ties-with-china-are-not-a-top-concern-for-trump/",
-   "published_at": "2026-11-18T04:08:01-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/C2DDVZNOCKWVPXQBNN6THYLDUA.jpg?auth=0dbc48dceb405efc3b1f1a11b61c2dcb90eb5fc31517e195b38aec23c1b84687&width=700"
-  },
-  {
-   "id": "mn18-mundo-02",
-   "title": "Xi defende comércio aberto na APEC enquanto Trump chega à China",
-   "summary": "O presidente chinês, Xi Jinping, disse a executivos em Shenzhen que a Ásia-Pacífico precisa de comércio mais aberto e crescimento equitativo. Trump chegou nesta quarta para a cúpula da APEC.",
-   "highlights": [
-    "Cúpula da APEC acontece em Shenzhen",
-    "Política \"America First\" de Trump contraria meta de livre comércio do bloco",
-    "Restrições a chips da Nvidia seguem como foco de tensão"
-   ],
-   "body": "O presidente da China, Xi Jinping, afirmou nesta quarta-feira, em Shenzhen, que a região Ásia-Pacífico deve buscar comércio mais aberto e crescimento mais justo para continuar estável e dinâmica. A declaração foi feita a empresários à margem da cúpula anual da Cooperação Econômica Ásia-Pacífico (APEC).\n\nO presidente americano, Donald Trump, chegou no mesmo dia, vindo das Filipinas, onde participou da cúpula da ASEAN. A abordagem \"America First\", com aumento de tarifas, vai contra o objetivo da APEC de criar uma zona de livre comércio no Pacífico. Xi e outros líderes pediram mais abertura sem criticar diretamente os EUA. Limites americanos ao acesso chinês a tecnologia de ponta, como os chips da Nvidia, seguem como fonte constante de atrito.",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/18/chinas-xi-and-other-asian-leaders-say-asia-pacific-must-embrace-open-trade-fair-growth/",
-   "published_at": "2026-11-18T03:58:30-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/AORMPEWM4PERXUWU57AXDJHVFM.jpg?auth=38abfce2fc518cbf2d3613674dfc9c2a6589956a2f7eb5e98c009ab159f30255&width=700"
-  },
-  {
-   "id": "mn18-mundo-10",
-   "title": "Coreia do Sul usa alertas e recompensas contra cola em vestibular",
-   "summary": "A Coreia do Sul vai disparar alertas de emergência para expor celulares escondidos e oferecer recompensas de ao menos US$ 75 mil por denúncias de fraude no Suneung, o vestibular nacional desta quinta.",
-   "highlights": [
-    "Cerca de 550 mil estudantes devem fazer a prova",
-    "Medidas foram anunciadas pelo presidente Lee Jae Myung",
-    "Casos com óculos inteligentes e microcâmeras motivaram o endurecimento"
-   ],
-   "body": "O governo sul-coreano anunciou medidas duras contra fraudes no Suneung, o exame nacional de acesso à universidade marcado para quinta-feira, que deve reunir cerca de 550 mil estudantes. Alertas de emergência serão enviados aos celulares de todos os moradores antes da prova para identificar aparelhos não entregues, e quem denunciar fraudadores poderá receber ao menos US$ 75 mil.\n\n\"Nem o candidato mais ousado seria tolo de ser pego quando um aparelho escondido tocar durante a prova, não é?\", escreveu o presidente Lee Jae Myung no X, acrescentando que pediu que se avalie enviar alertas periódicos durante o exame. O endurecimento ocorre após casos de cola com óculos inteligentes e câmeras em miniatura em outros exames nacionais.",
-   "category": "mundo",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/18/south-korea-exam-cheating-.html",
-   "published_at": "2026-11-18T02:00:39-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108553810-1794973269290-gettyimages-1353902820-csj01317_2021111885924442.jpeg?v=1794973306&w=1920&h=1080"
-  },
-  {
-   "id": "mn18-mundo-04",
-   "title": "Homem com machado destruiu avião militar dos EUA na Irlanda, dizem promotores",
-   "summary": "Promotores americanos acusam um irlandês de invadir o aeroporto de Shannon e destruir com um machado um avião militar C-130 dos EUA avaliado em US$ 60 milhões. A aeronave não voará mais.",
-   "highlights": [
-    "Daithi O'Corrain, de 48 anos, foi indiciado em Manhattan",
-    "Ataque ocorreu em abril no aeroporto de Shannon",
-    "Apoiadores ligam o ato à raiva contra a atuação dos EUA no Oriente Médio"
-   ],
-   "body": "Um homem armado com um machado rompeu o perímetro de segurança do aeroporto de Shannon, na Irlanda, e destruiu um avião militar americano estacionado durante a noite, cortando linhas hidráulicas, quebrando instrumentos da cabine e despejando rolamentos nos tanques de combustível, segundo promotores dos EUA. Uma acusação aberta na terça-feira em Manhattan imputa a Daithi O'Corrain, de 48 anos, a destruição de propriedade do governo americano no episódio de abril.\n\nO avião, um C-130 Hercules da Guarda Nacional Aérea avaliado em US$ 60 milhões, ficou inoperante e não voará novamente. O'Corrain não está sob custódia dos EUA e pode pegar até 10 anos de prisão se condenado. Seus apoiadores atribuem o ataque à raiva com o envolvimento dos EUA em conflitos no Oriente Médio.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/us-military-plane-irish-airport/",
-   "published_at": "2026-11-17T17:54:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/dcefafe0-11fa-4a58-a5e9-c006f2077236/thumbnail/1200x630/e9ff760615ea5a8a32ff6de58d029c06/ap26321776390699.jpg"
-  },
-  {
    "id": "weston-02-20261117-md",
    "title": "Weston Road tem pavimentação noturna nesta semana",
    "summary": "A prefeitura retomou no domingo, 15, a fresagem e repavimentação noturna da Weston Road entre a Royal Palm Boulevard e a Meridian Parkway, com fechamento de faixas das 21h às 6h. Na I-595, perto da I-75, obras de sinalização fecham faixas e uma rampa em noites selecionadas até quinta, 19.",
@@ -339,6 +355,134 @@
    "url": "https://westonjournal.com/weston-commission-swearing-in-nov-16/",
    "published_at": "2026-11-12T00:00:00-05:00",
    "image_url": "https://westonjournal.com/img/weston-commission-swearing-in-nov-16.webp"
+  },
+  {
+   "id": "md18-miami-02",
+   "title": "Davie fecha prédios públicos após até 12 polegadas de chuva",
+   "summary": "A cidade de Davie, vizinha de Weston, fechou prédios municipais, parques e trilhas e suspendeu ônibus comunitários após receber até 12 polegadas de chuva em 24 horas. Há alerta de enchente em todo o sudeste da Flórida.",
+   "highlights": [
+    "Linhas de ônibus Blue e Green suspensas",
+    "Abrigo temporário para cavalos no Bergeron Rodeo Grounds",
+    "Mais 2 a 4 polegadas de chuva possíveis até sexta"
+   ],
+   "body": "A cidade de Davie fechou nesta quarta-feira a prefeitura, o Pine Island Multipurpose Center, o centro aquático e demais instalações municipais, além de parques e trilhas, depois de receber até 12 polegadas (cerca de 30 cm) de chuva em algumas áreas nas últimas 24 horas. As linhas de ônibus comunitário Blue e Green foram suspensas, e a coleta de lixo pode ser afetada pelas ruas alagadas. Uma linha de atendimento ao morador foi aberta no 954-797-1122.\n\nDavie também abriu um abrigo temporário para cavalos no Bergeron Rodeo Grounds (4201 Rodeo Way) para moradores cujas baias foram afetadas. Um alerta de enchente continua em vigor no sudeste da Flórida, com mais 2 a 4 polegadas de chuva possíveis até sexta-feira.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+   "published_at": "2026-11-18T10:33:11-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/076e3865-f8da-46cd-8db1-55c6d1bfe398/thumbnail/1200x630/39279f8f9f115fbbca83f2de066b2f45/snapshot.jpg"
+  },
+  {
+   "id": "md18-miami-04",
+   "title": "Heat vira \"Vice City\" em parceria com GTA VI",
+   "summary": "O Miami Heat joga nesta quarta contra o Milwaukee Bucks como time de \"Vice City\", em colaboração com a Rockstar Games no lançamento de \"Grand Theft Auto VI\", com quadra e uniformes exclusivos.",
+   "highlights": [
+    "Quadra e uniformes serão usados uma única vez",
+    "Parceria levou mais de dois anos de planejamento",
+    "Vice City e Leonida são inspiradas em Miami e na Flórida"
+   ],
+   "body": "O Miami Heat será \"de Vice City\" nesta quarta-feira, em jogo contra o Milwaukee Bucks numa quadra e com uniformes usados uma única vez, fruto de uma colaboração com a Rockstar Games, desenvolvedora de \"Grand Theft Auto VI\". A ideia surgiu quando Jennifer Alvarez, vice-presidente sênior de marca do Heat, viu o trailer do jogo com uma imagem da arena do time; foram mais de dois anos de reuniões e planejamento.\n\nVice City, a cidade fictícia do jogo, é claramente inspirada em Miami, e o estado de Leonida, na Flórida. O Heat já é conhecido pela linha de uniformes \"Vice\" desde a temporada 2017-18. \"Para quem vier na quarta à noite, eles estarão entrando em Vice City\", disse Alvarez.",
+   "category": "miami",
+   "source": "AP / Local 10",
+   "url": "https://www.local10.com/news/florida/2026/11/18/the-vice-city-heat-miamis-nba-team-goes-all-in-on-grand-theft-auto-vi-collaboration/",
+   "published_at": "2026-11-18T09:43:06-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/FGUFWL6DF75OKECG7X7ORPN5KY.jpg?auth=ffd7237ba99a41527e3c945c30c225dfd4e8ae8d1d897915fbcfa4401726cf5c&width=700"
+  },
+  {
+   "id": "md18-miami-05",
+   "title": "Polícia investiga possível tiroteio perto de McDonald's em Miami",
+   "summary": "A polícia de Miami investiga um incidente em frente a um McDonald's na Southwest 8th Street com a 3rd Avenue. Há relatos de que uma pessoa foi baleada, ainda não confirmados.",
+   "highlights": [
+    "Estacionamento foi isolado com fita policial",
+    "Testemunhas falam em disparos de um carro em movimento",
+    "Polícia ainda não confirmou as informações"
+   ],
+   "body": "A polícia de Miami realizava na manhã desta quarta-feira uma investigação em frente a um McDonald's na região da Southwest Eighth Street com a Third Avenue, cujo estacionamento foi isolado com fita de cena de crime. A Local 10 recebeu relatos de que uma pessoa foi baleada na área.\n\nPessoas no local disseram que a vítima foi atingida em um ataque a partir de um carro em movimento, mas as autoridades ainda não confirmaram a informação. A emissora aguarda mais detalhes do Departamento de Polícia de Miami.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/18/possible-shooting-under-investigation-near-miami-mcdonalds/",
+   "published_at": "2026-11-18T09:00:42-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-18-2026%2Ft_8dd466fef40c468c8b7fcf305e47c30b_name_49712922228_hdtv.jpg?auth=d20ac8d6e919ac8b02161aca16547147776f0b051f6febc670bc85de8b341600&width=700"
+  },
+  {
+   "id": "md18-miami-06",
+   "title": "Mergulhadores retiram SUV de canal perto de aeroporto em Opa-locka",
+   "summary": "Mergulhadores retiraram um SUV muito danificado de um canal perto do Aeroporto Executivo Miami-Opa locka depois que o veículo atravessou uma barreira. Ainda não se sabe quem estava no carro.",
+   "highlights": [
+    "Local: NW 145th Street com NW 57th Avenue",
+    "Mergulhadores esperaram o amanhecer para entrar na água",
+    "Autoridades não informaram se houve feridos"
+   ],
+   "body": "Mergulhadores recuperaram na manhã desta quarta-feira um SUV prateado com grandes danos na frente de um canal perto do Aeroporto Executivo Miami-Opa locka, na região da Northwest 145th Street com a Northwest 57th Avenue. Segundo os bombeiros de Miami-Dade, o veículo atravessou uma barreira antes de cair na água.\n\nAs equipes esperaram o dia clarear para entrar no canal. Ainda não está claro quem estava no SUV nem se alguém ficou ferido, e as autoridades não explicaram como o carro foi parar na água.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/18/divers-recover-mangled-suv-from-canal-near-miami-opa-locka-executive-airport/",
+   "published_at": "2026-11-18T08:23:32-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-18-2026%2Ft_88b1398d3f3c44a1a00aa4edccadfc8f_name_49712433753_hdtv.jpg?auth=82ff4b87c2471e9b59a7e92c87901f2be11c10be15d3da5491a88581ff63c13a&width=700"
+  },
+  {
+   "id": "md18-miami-07",
+   "title": "Guarda Costeira descarrega US$ 18 milhões em cocaína em Miami Beach",
+   "summary": "A Guarda Costeira descarregou em sua estação de Miami Beach mais de 2.400 libras de cocaína, avaliadas em mais de US$ 18 milhões, apreendidas em um barco na costa da Jamaica. Três pessoas foram detidas.",
+   "highlights": [
+    "Mais de 2.400 libras (cerca de 1,1 tonelada) de cocaína",
+    "Barco foi interceptado perto da Jamaica",
+    "Três pessoas detidas"
+   ],
+   "body": "A Guarda Costeira dos EUA descarregou na terça-feira, em sua estação de Miami Beach, uma carga de cocaína apreendida por uma tripulação que interceptou um barco na costa da Jamaica. Foram mais de 2.400 libras (cerca de 1,1 tonelada) da droga, avaliadas em mais de US$ 18 milhões.\n\nSegundo a WSVN, três pessoas foram detidas na operação.",
+   "category": "miami",
+   "source": "WSVN",
+   "url": "https://wsvn.com/news/us-world/uscg-seized-cocaine-jamaica/",
+   "published_at": "2026-11-18T08:04:44-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111826-uscg-offload-cocaine-miami-beach.jpg?quality=60&strip=color"
+  },
+  {
+   "id": "md18-miami-08",
+   "title": "Flórida bate dois recordes de ninhos de tartarugas marinhas",
+   "summary": "A temporada de desova de tartarugas marinhas terminou em outubro com dois recordes na Flórida: quase 137 mil ninhos de tartaruga-cabeçuda e cerca de 2 mil de tartaruga-de-couro.",
+   "highlights": [
+    "Quase 137 mil ninhos de tartaruga-cabeçuda",
+    "Cerca de 2 mil ninhos de tartaruga-de-couro",
+    "Cientistas creditam esforços de conservação"
+   ],
+   "body": "A temporada de desova de tartarugas marinhas terminou em outubro com dois recordes na Flórida. Os dados mostram quase 137 mil ninhos de tartaruga-cabeçuda (loggerhead) e cerca de 2 mil de tartaruga-de-couro (leatherback).\n\nCientistas atribuem o sucesso em parte a esforços de conservação, como o uso de luz vermelha para combater a poluição luminosa. A luz da lua é essencial para guiar as tartarugas até a praia para desovar e de volta ao mar.",
+   "category": "miami",
+   "source": "WSVN",
+   "url": "https://wsvn.com/news/local/florida/florida-breaks-turtle-nesting-records/",
+   "published_at": "2026-11-18T07:59:45-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111826-sea-turtle-season-record.png"
+  },
+  {
+   "id": "md18-miami-01",
+   "title": "Enchentes em Broward: hospital suspende visitas e teto de sinagoga desaba",
+   "summary": "Tempestades despejaram até 8 a 10 polegadas de chuva em partes de Broward durante a noite. O Memorial Regional Hospital suspendeu visitas e parte do teto do Temple Sinai, em Hollywood, desabou.",
+   "highlights": [
+    "Hollywood recebeu mais de 300 chamados e 9 polegadas de chuva",
+    "Turnpike e saídas da I-95 foram fechadas por alagamento",
+    "Ninguém ficou ferido na sinagoga"
+   ],
+   "body": "Fortes tempestades despejaram de 8 a 10 polegadas (20 a 25 cm) de chuva durante a noite em partes do condado de Broward, deixando bairros debaixo d'água, alagando grandes vias e levando o Memorial Regional Hospital, em Hollywood, a suspender temporariamente as visitas. Também em Hollywood, parte do teto do Temple Sinai desabou; segundo o rabino Gideon Golden-Holz, ninguém se feriu.\n\nA cidade ativou seu centro de operações de emergência e informou que, entre 23h e 4h, recebeu mais de 300 chamados enquanto caíam 9 polegadas de chuva. Faixas norte do Florida's Turnpike foram fechadas na saída 49 (Hollywood/Pines Boulevard), assim como acessos da I-95. As autoridades pedem que moradores evitem as ruas e não dirijam por áreas alagadas, com mais chuva prevista.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/18/severe-flooding-in-broward-hospital-suspends-visitation-synagogue-roof-collapses-in-hollywood/",
+   "published_at": "2026-11-18T07:35:27-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-18-2026%2Ft_e84e5b4b2f2c4d43849b79163551b392_name_49711630207_hdtv.jpg?auth=3120a88ad9f24b0f641297953e2a7a0aa2edec120d3f04b5e1cafe7278e65df5&width=700"
+  },
+  {
+   "id": "md18-miami-03",
+   "title": "Escolas públicas de Broward fecham nesta quarta por causa do tempo",
+   "summary": "Todas as escolas e escritórios do distrito escolar de Broward ficaram fechados nesta quarta devido ao mau tempo, incluindo programas antes e depois das aulas.",
+   "highlights": [
+    "Atividades extracurriculares e eventos também cancelados",
+    "Distrito diz que segurança é prioridade",
+    "Decisão sobre quinta-feira será anunciada ao longo do dia"
+   ],
+   "body": "As Escolas Públicas do Condado de Broward (BCPS) informaram que todas as escolas e escritórios do distrito permanecerão fechados nesta quarta-feira por causa do mau tempo. O fechamento inclui os programas de cuidado antes e depois das aulas, atividades extracurriculares e eventos patrocinados pelo distrito.\n\n\"A segurança de nossos alunos, funcionários e famílias continua sendo nossa prioridade\", disse um porta-voz. O distrito prometeu novas informações ao longo do dia sobre o funcionamento na quinta-feira, conforme acompanha as condições do tempo.",
+   "category": "miami",
+   "source": "WSVN",
+   "url": "https://wsvn.com/news/local/broward/bcps-schools-closed-weather/",
+   "published_at": "2026-11-18T06:57:04-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2021/12/123121-bcps-board-e1640954045827.png"
   },
   {
    "id": "mn18-miami-01",
@@ -373,132 +517,100 @@
    "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261118_Paris_Lowery_and_Cameron_King_missing_baby.png"
   },
   {
-   "id": "mn18-miami-02",
-   "title": "Chuva torrencial alaga a I-95 e estacionamentos em Broward e Miami-Dade",
-   "summary": "Uma chuva torrencial na noite de terça inundou rodovias, cruzamentos e estacionamentos em Broward e Miami-Dade, com alerta de enchente repentina para o sul de Broward. A chuva chegou a cerca de 3 polegadas por hora.",
+   "id": "md18-tecnologia-03",
+   "title": "Jensen Huang aceita depor no Comitê Bancário do Senado",
+   "summary": "O ex-CEO da Nvidia Jensen Huang concordou em comparecer ao Comitê Bancário do Senado, disse o presidente do colegiado, Tim Scott. O secretário de Comércio, Howard Lutnick, também vai depor.",
    "highlights": [
-    "Tamarac registrou mais de 3 polegadas de chuva só na terça",
-    "I-95 norte ficou alagada perto da saída de Miami Gardens Drive",
-    "Carros ficaram presos em estacionamentos no nordeste de Miami-Dade"
+    "Scott espera concluir as audiências antes do Natal",
+    "Huang dará entrevista fechada a três comitês da Câmara em 1º de dezembro",
+    "Caso envolve relação com suposta espiã chinesa"
    ],
-   "body": "Chuvas torrenciais atingiram os condados de Broward e Miami-Dade na noite de terça-feira, submergindo rodovias, cruzamentos de bairros e estacionamentos de shoppings, e levando à emissão de um alerta de enchente repentina para o sul de Broward, com taxas de chuva de cerca de 3 polegadas (7,6 cm) por hora.\n\nEm Tamarac, a água cobriu o cruzamento da Northwest 84th Terrace com a Commercial Boulevard; a cidade registrou mais de 3 polegadas de chuva só na terça. Por volta das 20h40, a visibilidade era ruim na Interstate 95 sentido norte, alagada cerca de uma milha antes da saída de Miami Gardens Drive. Em um centro comercial no nordeste de Miami-Dade, frequentadores de academia encontraram o estacionamento inundado.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/tuesday-nov-17-2026-night-flash-flood-warning-broward-i-95-tamarac-margate-shopping-plaza/",
-   "published_at": "2026-11-17T23:51:33-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/fd592f2c-ee57-45f5-b534-baa44c6e1e91/thumbnail/1200x630/1860e8bba887c44f8f48fb089b5720db/snapshot-14.jpg"
+   "body": "O ex-CEO da Nvidia Jensen Huang concordou em comparecer ao Comitê Bancário do Senado, afirmou nesta quarta-feira o presidente do colegiado, o republicano Tim Scott, ao programa \"Squawk Box\", da CNBC. O secretário de Comércio, Howard Lutnick, também aceitou depor. \"Ambos concordaram. Esperamos fazer isso antes do Natal\", disse Scott.\n\nA pressão no Congresso cresce para investigar o relacionamento de Huang com uma suposta espiã chinesa, que levou à sua saída da empresa que fundou. Na terça, Huang já havia acertado com os presidentes de três comitês da Câmara uma entrevista a portas fechadas em 1º de dezembro.",
+   "category": "tecnologia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+   "published_at": "2026-11-18T10:37:50-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108294613-1776780682607-gettyimages-2272388264-ah807912_rxdt6bf2.jpeg?v=1795008917&w=1920&h=1080"
   },
   {
-   "id": "mn18-miami-04",
-   "title": "Miami-Dade avança plano de US$ 3,9 mi para segurança no trânsito perto de escolas",
-   "summary": "Comissários de Miami-Dade aprovaram o avanço de uma proposta de quase US$ 3,9 milhões para melhorar a segurança viária em torno de sete escolas, incluindo a North Miami Senior High.",
+   "id": "md18-tecnologia-04",
+   "title": "Waymo suspende corridas sem motorista em rodovias, inclusive em Miami",
+   "summary": "A Waymo suspendeu temporariamente as corridas de robotáxi em rodovias expressas em todos os mercados, incluindo Miami, depois que a Califórnia proibiu os veículos em suas freeways.",
    "highlights": [
-    "Plano beneficia alunos que vão a pé ou de bicicleta",
-    "Cruzamento da NE 135th St com NE 7th Ave teve 79 acidentes entre 2019 e 2024",
-    "21 desses acidentes tiveram mortos ou feridos"
+    "Serviço em rodovias existia em SF, LA, Phoenix, Miami e Austin",
+    "Testes continuam com especialistas ao volante",
+    "Suspensão começou na quarta passada, sem prazo para acabar"
    ],
-   "body": "Milhões de dólares podem em breve ser destinados a tornar mais seguras as ruas usadas por estudantes em Miami-Dade, inclusive os que vão à escola a pé ou de bicicleta. A North Miami Senior High School é uma das sete escolas incluídas na proposta de quase US$ 3,9 milhões, que avançou na comissão do condado.\n\nSegundo o plano de segurança viária Vision Zero de North Miami, foram registrados 79 acidentes no cruzamento da Northeast 135th Street com a Northeast 7th Avenue entre 2019 e 2024, 21 deles com mortos ou feridos. A estudante Perla Hernandez contou ter presenciado um quase atropelamento enquanto esperava o ônibus no local.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/miami-dade-commissioners-advance-3-9-million-school-traffic-safety-plan-for-seven-campuses/",
-   "published_at": "2026-11-17T23:12:28-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/23239c59-9396-4e2b-bc7b-264eccd62ea8/thumbnail/1200x630/9e2fe156fa9f98832f5bbcd608ddc7aa/screenshot-2026-11-17-at-11-09-44-pm.png"
+   "body": "A Waymo parou temporariamente de oferecer corridas de táxi sem motorista em rodovias expressas depois que o Departamento de Veículos Motorizados da Califórnia proibiu seus robotáxis nas freeways do estado, após incidentes de trânsito. A empresa oferecia esse tipo de corrida na Baía de São Francisco, em Los Angeles, Phoenix, Miami e Austin.\n\nUm porta-voz disse que a empresa \"restringiu temporariamente as corridas comerciais em rodovias em todos os mercados\" onde havia o serviço, mas segue testando com especialistas treinados ao volante. A suspensão começou na quarta-feira passada, sem prazo informado para terminar.",
+   "category": "tecnologia",
+   "source": "AP / WSVN",
+   "url": "https://wsvn.com/news/us-world/waymo-stops-freeway-rides/",
+   "published_at": "2026-11-18T10:32:33-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/04/Waymo-4272.jpg?quality=60&strip=color"
   },
   {
-   "id": "mn18-miami-07",
-   "title": "Donos de condomínio em Pembroke Pines esperam reconstrução 5 anos após incêndio",
-   "summary": "Proprietários de unidades no Westview Condominiums, em Pembroke Pines, perderam seus imóveis num incêndio em fevereiro de 2021 e ainda aguardam a reconstrução. Eles dizem que a associação não responde às perguntas.",
+   "id": "md18-tecnologia-02",
+   "title": "Anthropic pode ampliar IPO diante de demanda recorde",
+   "summary": "A Anthropic, criadora do Claude, avalia aumentar sua oferta pública inicial e fixar preço bem acima de US$ 80 por ação, segundo fontes da CNBC. A demanda supera a do IPO da SpaceX.",
    "highlights": [
-    "Incêndio atingiu o prédio 7 em 16 de fevereiro de 2021",
-    "Veterano da Marinha vive de aluguel em Maryland enquanto espera",
-    "Investigação é da equipe da 7News"
+    "Demanda institucional de cerca de US$ 400 bilhões",
+    "Demanda de varejo perto de US$ 100 bilhões",
+    "Preço final deve sair após o fechamento desta quarta"
    ],
-   "body": "Moradores que perderam seus apartamentos em um grande incêndio há quase cinco anos em Pembroke Pines ainda esperam que a associação de condôminos reconstrua o prédio, segundo investigação da 7News. O fogo atingiu o prédio sete do Westview Condominiums em 16 de fevereiro de 2021.\n\nNestor Palma, que se aposentou após 20 anos na Marinha dos EUA e comprou sua unidade em 2015 para ficar perto da família, hoje aluga um apartamento em Maryland. \"Já passei da frustração. Estou muito irritado\", disse. Os proprietários afirmam que suas perguntas sobre quando poderão voltar seguem sem resposta.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/investigations/pembroke-pines-condo-fire-delay/",
-   "published_at": "2026-11-17T23:03:58-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-7Investigates-Condo-Fire.png"
+   "body": "A Anthropic estuda ampliar sua oferta pública inicial (IPO) e fixar o preço bem acima de US$ 80 por ação, disseram à CNBC pessoas a par do assunto. A empresa fechou o livro de ordens na terça-feira, preparando a esperada estreia na Nasdaq. A demanda institucional gira em torno de US$ 400 bilhões e a de investidores de varejo se aproxima de US$ 100 bilhões; as ordens são indicações de interesse, não vinculantes.\n\nAs decisões finais devem ser tomadas na tarde desta quarta-feira, com o preço definido após o fechamento do mercado. Segundo as fontes, a procura é maior do que a registrada pela SpaceX, de Elon Musk.",
+   "category": "tecnologia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "published_at": "2026-11-18T10:19:53-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1794523924&w=1920&h=1080"
   },
   {
-   "id": "mn18-miami-10",
-   "title": "Fãs de GTA VI visitam Miami e Heat terá noite temática \"Vice City\"",
-   "summary": "Fãs que vieram ao Sul da Flórida para celebrar o lançamento de \"Grand Theft Auto VI\" estão encantados com as ações promocionais na cidade. O Miami Heat fará a noite \"A Night in Vice City\" no jogo desta quarta.",
+   "id": "md18-tecnologia-05",
+   "title": "iPhone 18 e iPhone Air 2 devem chegar em março",
+   "summary": "Um relatório do site coreano ETNews indica que o iPhone 18 e o iPhone Air 2 devem ser lançados em março de 2027, com telas da Samsung e da LG.",
    "highlights": [
-    "Jogo do Heat contra o Milwaukee Bucks terá quadra especial rosa e azul",
-    "Ações ocorrem no Kaseya Center e arredores",
-    "GTA VI é o primeiro título principal da série desde 2013"
+    "Samsung será a única fornecedora de telas do iPhone Air 2",
+    "Samsung Display inicia produção em massa em janeiro",
+    "Apple lançou só modelos Pro e Duo neste outono"
    ],
-   "body": "Fãs que viajaram ao Sul da Flórida para comemorar o lançamento de \"Grand Theft Auto VI\" estão aproveitando as ações promocionais na cidade que inspira a Vice City do jogo. Edgar Flores e o pai vieram de Orlando para comparar a cidade real à versão do game, o primeiro lançamento principal da Rockstar Games desde 2013.\n\nEm uma das ações de maior destaque, o Miami Heat se uniu à Rockstar para promover \"A Night in Vice City\" no jogo contra o Milwaukee Bucks nesta quarta-feira, com atividades no Kaseya Center e arredores. O time mostrou a quadra especial nas cores rosa e azul que será usada apenas nessa partida.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/entertainment/rockstar-games-vice-city-promotion/",
-   "published_at": "2026-11-17T22:59:35-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-gta-6-kaseya-center-miami-heat.png"
+   "body": "A Apple lançou neste outono apenas os iPhones de alto padrão \"Pro\" e \"Duo\", mas o iPhone 18 e o iPhone Air 2 continuam a caminho. Há mais de um ano rumores indicam que a empresa tiraria esses modelos da tradicional janela de setembro e os apresentaria no início de 2027.\n\nSegundo Kim Yeong-ho, do ETNews, a Samsung será a única fornecedora de telas do iPhone Air 2, e Samsung e LG dividirão os pedidos do iPhone 18. Os planos de produção apontam para lançamento em março: a Samsung Display começa a produção em massa em janeiro, e a LG Display, no fim deste ano.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
+   "published_at": "2026-11-18T10:09:06-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "mn18-miami-06",
-   "title": "Vídeo mostra prisão de homem embriagado que atirou em terminal do MIA",
-   "summary": "Imagens de câmeras corporais obtidas pela 7News mostram agentes do Gabinete do Xerife de Miami-Dade prendendo o homem que disparou contra um terminal do Aeroporto Internacional de Miami em 23 de setembro.",
+   "id": "md18-tecnologia-01",
+   "title": "Nvidia para de vender chips Hopper para a China",
+   "summary": "A CEO interina da Nvidia, Colette Kress, disse que a empresa parou de enviar chips de IA da linha Hopper, incluindo o H200, para a China, apesar da aprovação anterior dos EUA.",
    "highlights": [
-    "Suspeito identificado como Francisco Ivan Mendiola, de 31 anos",
-    "Tiros partiram do 2º andar de um estacionamento",
-    "Bala atingiu lixeira e para-brisa de um carro vazio"
+    "H200 havia sido liberado pelo Departamento de Comércio em janeiro",
+    "Kress não explicou o motivo",
+    "Decisão ocorre após escândalo envolvendo Jensen Huang"
    ],
-   "body": "Vídeos exclusivos de câmeras corporais obtidos pela 7News mostram agentes do Gabinete do Xerife de Miami-Dade chegando ao Aeroporto Internacional de Miami na tarde caótica de 23 de setembro, após relatos de tiros que fizeram passageiros procurarem abrigo. Os disparos partiram do segundo andar de um estacionamento.\n\nOs agentes localizaram e prenderam o suspeito, Francisco Ivan Mendiola, de 31 anos. Segundo a polícia, ele estava embriagado, sentado em um banco, quando carregou a arma e atirou contra um terminal; uma das balas atingiu uma lixeira e o para-brisa de um Dodge Challenger desocupado.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/miami-dade/miami-international-airport-shooting-arrest/",
-   "published_at": "2026-11-17T22:52:23-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-arrest-of-31-year-old-Francisco-Ivan-Mendiola.jpg?quality=60&strip=color"
+   "body": "A CEO interina da Nvidia, Colette Kress, afirmou que a empresa deixou de enviar à China chips de inteligência artificial da série Hopper, que inclui o poderoso H200, aprovado para venda no país pelo Departamento de Comércio em janeiro. A linha é usada para acelerar o treinamento de modelos de IA.\n\nKress não deu motivo para a decisão, que vem em meio a maior escrutínio sobre as vendas da Nvidia na China após revelações de que o ex-CEO e cofundador Jensen Huang manteve relacionamento com uma mulher suspeita de ser espiã chinesa. Huang havia convencido o governo Trump a afrouxar controles de exportação e concordado em repassar ao governo 15% da receita com chips de IA vendidos à China.",
+   "category": "tecnologia",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/",
+   "published_at": "2026-11-18T08:58:12-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/b5e7d604-22bc-462f-8c19-345d366d6467/thumbnail/1200x630/f0cc1d7b9e607a58f64035c4c7067480/cbsn-fusion-nvidia-sees-strong-earnings-report-despite-jensen-huang-scandal-and-resignation-thumbnail.jpg"
   },
   {
-   "id": "mn18-miami-09",
-   "title": "Keys relembra casal assassinado por homem que será executado na quinta",
-   "summary": "A Flórida prevê realizar nesta quinta sua 20ª execução do ano: Thomas Overton, condenado há 30 anos pelo assassinato de um casal nas Florida Keys. Amigos e moradores pedem que as vítimas sejam lembradas.",
+   "id": "md18-tecnologia-06",
+   "title": "Caixas Google Home terão Gemini Live mais rápido, só para assinantes",
+   "summary": "O Google confirmou que uma versão \"mais rápida e natural\" do Gemini Live chegará \"em breve\" às caixas de som e telas inteligentes Google Home, mas apenas para assinantes pagos.",
    "highlights": [
-    "Mike e Susan \"Missy\" MacIvor foram mortos em 1991 em Tavernier",
-    "Missy estava grávida de oito meses",
-    "Execução está marcada para a Florida State Prison"
+    "Nova arquitetura de fala para fala reduz tempo de resposta",
+    "Sessões passarão a aceitar comandos de casa inteligente",
+    "Gemini Live não é a experiência padrão do \"Hey Google\""
    ],
-   "body": "A Flórida deve realizar nesta semana sua 20ª execução do ano. Thomas Overton, condenado há 30 anos pelo assassinato de um casal querido nas Florida Keys, está com execução marcada para quinta-feira na Florida State Prison. Moradores e amigos querem que as vítimas, Mike e Susan \"Missy\" MacIvor, sejam lembradas.\n\nO casal vivia em Tavernier. Missy, grávida de oito meses, ia começar o ano letivo como professora na Key Largo School. Em 22 de agosto de 1991, segundo o xerife do condado de Monroe, um invasor subiu uma escada para entrar na casa e matou o casal. \"Todos nos apaixonamos por eles\", disse o deputado estadual Jim Mooney à Local 10.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/17/loved-ones-remember-keys-couple-murdered-by-man-set-for-execution-this-week/",
-   "published_at": "2026-11-17T22:41:17-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-18-2026%2Ft_aff6200519374425bfb643da0014840e_name_49704586631_hdtv.jpg?auth=629edfaffe66ac05d8d3424110667c8436f8470c0b8f8852f0e27f60a84a5cb7&width=700"
-  },
-  {
-   "id": "mn18-miami-05",
-   "title": "North Miami dá posse ao prefeito eleito George Morgan após reviravolta judicial",
-   "summary": "North Miami empossaria na terça à noite o prefeito eleito George Morgan, depois que um juiz reverteu ordem que bloqueava a cerimônia. O prefeito em fim de mandato, Alix Desulme, promete continuar a briga judicial.",
-   "highlights": [
-    "Desulme alega que Morgan pagou 80 centavos a menos na taxa de candidatura",
-    "Morgan não negou o erro",
-    "Funcionamento da secretaria municipal também é questionado"
-   ],
-   "body": "A cidade de North Miami se preparava para empossar um novo prefeito na noite de terça-feira, em meio a uma disputa judicial sobre se ele estava habilitado a concorrer. O prefeito em fim de mandato, Alix Desulme, disse que um juiz reverteu a ordem da segunda-feira que bloqueava a cerimônia.\n\nDesulme argumenta que George Morgan deveria ter sido desqualificado por ter pago 80 centavos a menos na taxa de qualificação. Morgan não negou: \"Podemos cometer erros. A questão é o que fazemos quando erramos\". Antes, foi Morgan quem conseguiu desqualificar Desulme, que teria usado cheques administrativos em vez da conta de campanha exigida. Desulme diz que seguirá na Justiça mesmo após a posse.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/north-miami-george-morgan-swearing-in-judge-reverses-order-desulme-legal-challenge-clerk/",
-   "published_at": "2026-11-17T18:44:29-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/6147cb90-f552-4883-b1f3-4d1b1cc6e593/thumbnail/1200x630/76ff2e25759077436545a5851f4b3957/snapshot-8.jpg"
-  },
-  {
-   "id": "mn18-miami-08",
-   "title": "Idosa de Miami-Dade perde mais de US$ 200 mil em golpe; jovem é acusado",
-   "summary": "Uma mulher de 77 anos do sudoeste de Miami-Dade foi vítima de um golpe de mais de US$ 200 mil, segundo o Gabinete do Xerife. Emanuele Vito De-Caria, de 27 anos, de Sunny Isles Beach, foi acusado.",
-   "highlights": [
-    "Golpista se passou por suporte técnico",
-    "Vítima transferiu US$ 200 mil e entregou US$ 30 mil em dinheiro",
-    "Polícia orienta desconfiar de ligações em nome de bancos e governo"
-   ],
-   "body": "Uma idosa de 77 anos do sudoeste de Miami-Dade foi enganada em mais de US$ 200 mil por uma organização criminosa, segundo o Gabinete do Xerife de Miami-Dade. Emanuele Vito De-Caria, de 27 anos, morador de Sunny Isles Beach, foi acusado de fraude organizada e furto contra idoso.\n\nDe acordo com o boletim de prisão, a vítima recebeu ligação de um homem que dizia ser de uma empresa de suporte técnico e alegava que mais de US$ 100 mil haviam sido enviados por engano para a conta dela. Ela transferiu US$ 200 mil para contas desconhecidas e entregou US$ 30 mil em espécie a um mensageiro. O detetive Bryan Young alertou o público a desconfiar de contatos em nome de bancos, órgãos do governo e polícia.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/man-charged-organized-fraud-elderly-southwest-miami-dade-woman-november-2026/",
-   "published_at": "2026-11-17T18:03:57-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/e78c0a62-8add-4e63-9c1b-5b31c0d10782/thumbnail/1200x630/160ccd740011c7128cb4c89e3472e60a/gettyimages-2180329966.jpg"
+   "body": "O Google anunciou que uma versão \"mais rápida e natural\" do Gemini Live chegará \"em breve\" às caixas de som e telas inteligentes Google Home, mas somente para assinantes pagos. Segundo a empresa, a mudança para a mais recente arquitetura de fala para fala traz tempos de resposta significativamente menores.\n\nO Gemini Live não é a experiência padrão ao dizer \"Hey Google\"; é preciso iniciar uma sessão com comandos como \"let's chat\". Antes voltadas a conversas mais longas, as sessões passarão a aceitar ações como controle da casa inteligente no meio da conversa.",
+   "category": "tecnologia",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/18/google-home-gemini-live-update-coming/",
+   "published_at": "2026-11-18T07:00:00-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-10.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
    "id": "mn18-tecnologia-08",
@@ -547,118 +659,6 @@
    "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
    "published_at": "2026-11-18T05:45:01-05:00",
    "image_url": "https://image.cnbcfm.com/api/v1/image/108229164-17636513282025-11-05t081214z_2091479820_rc2nfgakvd7y_rtrmadp_0_china-chips.jpeg?v=1763651345&w=1920&h=1080"
-  },
-  {
-   "id": "mn18-tecnologia-10",
-   "title": "Voyager 1 chega a um \"dia-luz\" de distância da Terra",
-   "summary": "A sonda Voyager 1, da NASA, lançada em 1977, atingiu na madrugada desta quarta a distância de um dia-luz da Terra — mais de 16 bilhões de milhas. É o objeto humano mais distante já enviado.",
-   "highlights": [
-    "Sinais de rádio levam 24 horas para chegar à Terra",
-    "Sonda viaja a quase 38 mil milhas por hora",
-    "Voyager 1 e 2 seguem enviando dados do espaço interestelar"
-   ],
-   "body": "A sonda Voyager 1, lançada pela NASA em 1977 para fazer as primeiras imagens de perto de Júpiter, Saturno e suas luas, alcançou na madrugada desta quarta-feira (por volta das 5h16, horário de Nova York) a distância de um dia-luz da Terra — mais de 16 bilhões de milhas, cerca de 26 bilhões de km. É o ponto mais distante já alcançado por um artefato humano.\n\nA essa distância, sinais de rádio, viajando a 186 mil milhas por segundo, levam 24 horas para chegar ao controle da missão. A sonda gêmea, Voyager 2, também está no espaço interestelar desde 2018. As duas continuam enviando dados sobre campos magnéticos, partículas e plasma entre as estrelas, enquanto sua energia diminui gradualmente.",
-   "category": "tecnologia",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
-   "published_at": "2026-11-18T02:06:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/6bcdebd7-059f-4f17-afce-ce10719d607c/thumbnail/1200x630/9317139bc97194d9795b185740bebdcb/voyager-artist1.jpg"
-  },
-  {
-   "id": "mn18-tecnologia-09",
-   "title": "JPMorgan testa pagamentos feitos por agentes de IA sem humanos",
-   "summary": "O JPMorgan Chase e o sul-coreano Hyundai Card testam como agentes de inteligência artificial podem fazer transações financeiras sem intervenção humana direta, inclusive negociando entre si.",
-   "highlights": [
-    "Prova de conceito simulou uma operação de câmbio",
-    "Próxima fase, com vários agentes, prevista para o 1º semestre de 2027",
-    "Projeto envolve a Kinexys, unidade de blockchain do JPMorgan"
-   ],
-   "body": "O JPMorgan Chase e a sul-coreana Hyundai Card estão testando como agentes de IA podem lidar com transações financeiras sem intervenção humana direta, incluindo a possibilidade de negociarem e fazerem pagamentos entre si. As empresas concluíram uma prova de conceito inicial com uma operação de câmbio simulada.\n\nA meta é iniciar no primeiro semestre de 2027 uma fase mais complexa, com múltiplos agentes. Segundo Wee Kee Toh, chefe global da Kinexys Insights, do JPMorgan, o próximo passo é observar o que acontece quando agentes autônomos vão além da execução e começam a interagir entre si em um ecossistema.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-   "published_at": "2026-11-18T01:18:11-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108552580-1794869610494-gettyimages-2289913001-golba-dailylif260806_npPSj.jpeg?v=1794869642&w=1920&h=1080"
-  },
-  {
-   "id": "mn18-tecnologia-04",
-   "title": "Apple ajusta preços da App Store e anuncia novas regras de imposto na Califórnia",
-   "summary": "A Apple vai ajustar preços de apps e compras internas em cinco países a partir de 3 de dezembro, por mudanças em impostos e câmbio. Em 2027, algumas categorias passarão a pagar imposto sobre vendas na Califórnia.",
-   "highlights": [
-    "Mudança de preços começa em 3 de dezembro",
-    "Nova categoria fiscal \"Software como Serviço\" (SaaS)",
-    "Na Califórnia, total pago pelo cliente pode subir a partir de 1º de janeiro"
-   ],
-   "body": "A Apple anunciou em seu portal de desenvolvedores que os preços de apps e compras dentro de apps serão ajustados em cinco países a partir de 3 de dezembro, refletindo mudanças em impostos e taxas de câmbio. A empresa não detalhou de quanto será a mudança nem se será para cima ou para baixo; preços com gestão manual e assinaturas autorrenováveis não são afetados. Também foi criado o atributo fiscal \"Software as a Service (SaaS)\".\n\nA partir de 1º de janeiro de 2027, apps e compras nas categorias SaaS, App Store Software, Software Training Material, Dating e Boosting ficarão sujeitos a impostos sobre vendas na Califórnia. Como os preços nos EUA são exibidos sem impostos, o valor de tabela não muda, mas o total cobrado do cliente pode aumentar.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
-   "published_at": "2026-11-17T21:17:48-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?resize=1200,628"
-  },
-  {
-   "id": "mn18-tecnologia-01",
-   "title": "Nvidia supera previsões no primeiro balanço sem Jensen Huang",
-   "summary": "A Nvidia reportou lucro trimestral de US$ 65,3 bilhões e receita de US$ 115,8 bilhões, acima das expectativas. Foi o primeiro balanço comandado pela CEO interina Colette Kress após a renúncia de Huang.",
-   "highlights": [
-    "Lucro subiu 105% em um ano",
-    "Empresa projeta receita de US$ 130 bilhões no próximo trimestre",
-    "Analistas esperavam receita de cerca de US$ 109 bilhões"
-   ],
-   "body": "A Nvidia apresentou forte crescimento no terceiro trimestre fiscal, no primeiro balanço conduzido pela CEO interina Colette Kress desde que o fundador Jensen Huang renunciou na semana passada, após revelações de casos extraconjugais. O lucro foi de US$ 65,3 bilhões, alta de 105% sobre os US$ 31,9 bilhões de um ano antes, e a receita chegou a US$ 115,8 bilhões, ante US$ 57 bilhões.\n\nAnalistas consultados pela FactSet esperavam receita de quase US$ 109 bilhões. Para o quarto trimestre fiscal, a empresa projeta US$ 130 bilhões, impulsionados pela forte demanda por infraestrutura de inteligência artificial. É a primeira vez que a Nvidia divulga resultados sem Huang, que cofundou a empresa em 1993.",
-   "category": "tecnologia",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
-   "published_at": "2026-11-17T19:25:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/ac8cf31f-ccee-4b7d-8263-e31613ed0cf6/thumbnail/1200x630/1e66702babb9fa6a8271717e71c47b11/gettyimages-2304264971.jpg"
-  },
-  {
-   "id": "mn18-tecnologia-06",
-   "title": "iFixit desmonta o Apple HomeView e encontra muita cola",
-   "summary": "A desmontagem do novo Apple HomeView feita pela iFixit revela um aparelho quase impossível de abrir e consertar. Tela, alto-falantes, antenas e placa lógica estão fortemente colados.",
-   "highlights": [
-    "Aparelho foi lançado na semana passada",
-    "iFixit analisou as versões de mesa e de parede",
-    "Um alto-falante quebrou durante a remoção"
-   ],
-   "body": "A iFixit publicou a desmontagem do Apple HomeView, central de casa inteligente lançada na semana passada, e concluiu que o aparelho é quase impossível de abrir e reparar. Ao contrário de produtos recentes da Apple, que mostraram avanços em modularidade, o HomeView \"resistiu\" quase o tempo todo.\n\nTela, alto-falantes, antenas e placa lógica estão colados com adesivos fortes. Mesmo após amolecer a cola com álcool isopropílico, um dos alto-falantes quebrou na remoção, e a placa lógica exigiu força considerável por causa do adesivo térmico. A análise cobriu os dois modelos: o de mesa e o de parede.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
-   "published_at": "2026-11-17T18:36:09-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "mn18-tecnologia-03",
-   "title": "Apple restabelece serviços após pane no iCloud e Apple Pay",
-   "summary": "A Apple diz ter restaurado todos os serviços depois que usuários relataram problemas com Apple Pay, iCloud, Suporte e outros produtos na terça. Segundo a empresa, a falha não foi um ataque cibernético.",
-   "highlights": [
-    "Sistemas ficaram \"verdes\" por volta das 17h46 (horário de NY)",
-    "Milhares de relatos no Downdetector a partir do fim da manhã",
-    "Apple é a mais recente de uma série de empresas com panes"
-   ],
-   "body": "A Apple informou ter restabelecido todos os serviços após usuários relatarem problemas com Apple Pay, Apple Support, iCloud e outros produtos na terça-feira. Um porta-voz disse à CBS News que, por volta das 17h46 (horário de Nova York), a página de status estava \"verde em todos os itens\". Os relatos no Downdetector começaram a subir antes do meio-dia e duraram várias horas.\n\nSegundo o porta-voz, as falhas não resultaram de um ataque cibernético. A Apple é a mais recente empresa a sofrer interrupções em meio a uma série de panes que atingiram outros setores nos EUA nos últimos dias.",
-   "category": "tecnologia",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
-   "published_at": "2026-11-17T17:59:00-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/ab8d7caf-bd13-4396-9753-1b37ea889cd6/thumbnail/1200x630g2/db439b53f9e2dcfe31262a3565b82bdc/gettyimages-2305585682.jpg"
-  },
-  {
-   "id": "mn18-tecnologia-05",
-   "title": "Epic acusa Apple de reter 122 mil documentos e pede multas diárias",
-   "summary": "Em novo processo, a Epic Games acusa a Apple de reter mais de 122 mil documentos ligados às comissões propostas para a App Store. A empresa pede multa diária até que a Apple cumpra a ordem.",
-   "highlights": [
-    "Disputa começou em 2020",
-    "Apple foi considerada em desacato por cobrar até 27% em links externos",
-    "Caso sobre o desacato chegou à Suprema Corte"
-   ],
-   "body": "A Epic Games acusou a Apple, em nova petição, de reter mais de 122 mil documentos relacionados às comissões que a empresa propôs cobrar na App Store, e pediu à Justiça que imponha multas diárias até que a Apple entregue o material.\n\nNa ação aberta pela Epic em 2020, a juíza Yvonne Gonzalez Rogers determinou em 2021 que a Apple permitisse aos desenvolvedores direcionar usuários a meios de pagamento externos. A Apple liberou os links, mas cobrou comissão de até 27%, o que levou a corte a considerá-la em desacato. A Apple tenta derrubar essa decisão na Suprema Corte, enquanto a primeira instância define que comissão, se alguma, poderá cobrar.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/17/epic-accuses-apple-of-withholding-122000-documents-seeks-daily-fines/",
-   "published_at": "2026-11-17T16:22:55-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&strip=all&resize=1200,628"
   }
  ]
 }
