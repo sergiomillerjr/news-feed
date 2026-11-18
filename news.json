@@ -1,296 +1,312 @@
 {
  "version": 2,
- "generated_at": "2026-11-17T14:48:36-05:00",
- "edition": "tarde",
+ "generated_at": "2026-11-18T06:50:44-05:00",
+ "edition": "manha",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "td17-eua-06",
-   "title": "FAA suspende instalação de roteadores após paralisação de voos",
-   "summary": "A FAA vai pausar a instalação de novos roteadores depois que falhas no equipamento levaram à rara paralisação nacional de decolagens na sexta-feira. A medida atende a pedido de senadores democratas.",
+   "id": "mn18-eua-08",
+   "title": "Bernie Sanders apresenta plano para levar adiante o \"Medicare for All\"",
+   "summary": "O senador Bernie Sanders prepara-se para usar o comando de uma comissão do Senado para propor mudanças amplas na saúde americana, com destaque para o sistema universal Medicare for All. A agenda foi antecipada à AP.",
    "highlights": [
-    "Paralisação de sexta durou mais de quatro horas",
-    "Foi a maior interrupção de decolagens nos EUA desde o 11 de Setembro",
-    "Roteador sobrecarregado no Arkansas é apontado como causa"
+    "Sanders deve presidir a comissão de Saúde do Senado a partir de janeiro",
+    "Plano seria implementado em quatro anos",
+    "No 1º ano, idade do Medicare cairia de 65 para 55 anos"
    ],
-   "body": "A Administração Federal de Aviação (FAA) disse nesta terça que vai suspender a instalação de novos roteadores depois que problemas com a tecnologia levaram a agência a emitir uma rara paralisação nacional de voos na sexta-feira. Dezenas de milhares de voos foram afetados, e as decolagens ficaram suspensas por mais de quatro horas, a maior interrupção desde o 11 de Setembro.\n\nSegundo o secretário de Transportes, Sean Duffy, um roteador sobrecarregado instalado no sul do Arkansas, como parte de uma modernização de sistema supervisionado pela L3Harris, sobrecarregou sistemas que alimentam radares e outros dados do controle de tráfego aéreo. A empresa trabalha na conversão da rede de comunicações de fios de cobre para fibra óptica.",
+   "body": "O senador Bernie Sanders, independente de Vermont que vota com os democratas, deve assumir em janeiro a presidência da Comissão de Saúde, Educação, Trabalho e Previdência do Senado, quando os democratas passarem a controlar a Casa. Sua agenda, obtida com exclusividade pela Associated Press, detalha como transformar em lei propostas defendidas por ele e por candidatos progressistas na campanha.\n\nNo centro está o Medicare for All, sistema universal de saúde que seria implantado em quatro anos. No primeiro ano, a idade de elegibilidade do Medicare cairia de 65 para 55 anos, a cobertura passaria a incluir odontologia, visão e audição, e crianças até 18 anos teriam atendimento garantido. \"Isso não é mais uma visão utópica. É onde o povo americano está\", disse Sanders. Segundo a AP, é um teste inicial de até onde os democratas aceitarão pautas progressistas.",
    "category": "eua",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-   "published_at": "2026-11-17T14:44:28-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108551581-1794669969667-gettyimages-2304580986-US_GROUND_STOP.jpeg?v=1794872932&w=1920&h=1080"
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/18/ap-exclusive-bernie-sanders-unveils-his-plan-to-push-medicare-for-all-when-democrats-take-power/",
+   "published_at": "2026-11-18T06:28:47-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/XV3IPRUGZ2GTV6FVJPDWBPN5OI.jpg?auth=c30907f1742d0fce817a77dcf5e14102ffcf8e338218757bdd802e2ebb94305a&width=700"
   },
   {
-   "id": "td17-eua-01",
-   "title": "Rede sigilosa interna da NSA sai do ar",
-   "summary": "A rede interna usada pela NSA para armazenar e compartilhar informações classificadas ficou fora do ar nesta terça, segundo autoridades americanas. A agência fala em \"degradação temporária\" durante manutenção de rotina.",
+   "id": "mn18-eua-01",
+   "title": "Democratas devem escolher Jeffries para presidir a Câmara",
+   "summary": "Os democratas da Câmara devem indicar nesta quarta Hakeem Jeffries como próximo presidente da Casa, mesmo com resistência de alguns progressistas recém-eleitos. Ninguém se apresentou para desafiá-lo.",
    "highlights": [
-    "Rede \"NSA Net\" é usada para comunicações sigilosas",
-    "Sem indícios de ataque cibernético, segundo fontes",
-    "Funcionários tiveram horários de chegada escalonados em Fort Meade"
+    "Democratas caminham para ter mais de 250 cadeiras",
+    "Jeffries pediu votação nominal, e não por aclamação",
+    "Se eleito em janeiro, será o primeiro presidente negro da Câmara"
    ],
-   "body": "A rede interna da Agência de Segurança Nacional (NSA) usada para guardar e compartilhar informações classificadas saiu do ar nesta terça-feira, segundo várias autoridades dos EUA ouvidas pela CBS News. A agência passou a escalonar os horários de chegada de parte do pessoal em sua sede, em Fort Meade, Maryland.\n\nUm porta-voz da NSA afirmou que houve uma \"degradação temporária durante manutenção de rotina programada\" e que as capacidades críticas da missão continuam operando. Duas autoridades disseram que, até o momento, não há evidência de ataque cibernético; fontes atribuem a falha a uma aplicação de atualizações (patches), embora as circunstâncias exatas ainda não estejam claras.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
-   "published_at": "2026-11-17T14:40:25-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/59578411-cbd2-4b3c-b555-42f52970888c/thumbnail/1200x630/2c38dbb979b9f64f43a288b7305b9b45/gettyimages-918218262.jpg"
-  },
-  {
-   "id": "td17-eua-02",
-   "title": "Militar dos EUA suspeito de espionar para a Rússia é entregue ao Exército",
-   "summary": "Um tenente-coronel do Exército americano preso no Reino Unido sob suspeita de espionagem ligada à Rússia foi transferido para a custódia militar dos EUA. Ele deve ser acusado formalmente em breve.",
-   "highlights": [
-    "Suspeito identificado como o tenente-coronel Brandon Tyner, de 41 anos",
-    "Atuava em base da OTAN no Reino Unido",
-    "Diretor do FBI o chamou de \"potencial ameaça à segurança nacional\""
-   ],
-   "body": "Um soldado do Exército dos EUA preso no Reino Unido por suspeita de espionagem ligada à Rússia foi colocado sob custódia das Forças Armadas americanas, informaram autoridades britânicas e americanas nesta terça. Ele foi identificado como o tenente-coronel Brandon Tyner, 41 anos, oficial de recursos humanos baseado em Imjin Barracks, sede de um quartel-general da OTAN.\n\nA polícia antiterrorismo britânica disse que as autoridades americanas darão continuidade à investigação e que o suspeito deve ser acusado em breve. Ele é suspeito de violar a Lei de Segurança Nacional britânica de 2023 ao obter ou divulgar informações protegidas e ajudar um serviço de inteligência estrangeiro. O diretor do FBI, Kash Patel, afirmou que o militar era \"uma potencial ameaça à segurança nacional\".",
+   "body": "Os democratas da Câmara dos Representantes devem indicar nesta quarta-feira Hakeem Jeffries, de Nova York, como seu candidato a presidente (speaker) da Casa. Alguns novos deputados progressistas ainda não se comprometeram a apoiá-lo, dizendo querer avaliar opções ou entender as posições dele em temas que consideram importantes, mas ninguém se apresentou para disputar o cargo.\n\nCom os democratas a caminho de controlar mais de 250 cadeiras — bem acima das 218 necessárias para a maioria —, cada parlamentar tem menos poder de barganha. Jeffries pediu uma votação contabilizada, como em 2018. A eleição oficial em plenário deve ocorrer em janeiro, o que faria dele o primeiro presidente negro da Câmara.\n\nTambém serão escolhidos outros cargos: Katherine Clark concorre a líder da maioria, Pete Aguilar a whip (articulador) e Joe Neguse a presidente-assistente.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/american-soldier-spying-suspect-russia-united-kingdom-us-custody/",
-   "published_at": "2026-11-17T14:40:06-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/77ee18af-cb1a-43e3-b3a0-078df3a511cf/thumbnail/1200x630/c33aef2381b70a42ff8f850b93a0eea6/cbsn-fusion-american-soldier-accused-of-spying-for-russia-had-access-to-sensitive-information-thumbnail.jpg"
+   "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+   "published_at": "2026-11-18T06:00:11-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/05/807f9153-0707-4552-a9ae-31ae35de8019/thumbnail/1200x630/8de0ea948d81ffcf674ebd875c61ea64/ap26308863161345.jpg"
   },
   {
-   "id": "td17-eua-03",
-   "title": "Cruz anuncia acordo para exigir localizador em aviões",
-   "summary": "O senador Ted Cruz anunciou um acordo de princípio entre Câmara e Senado para exigir que aeronaves em espaço aéreo congestionado tenham o sistema ADS-B In. A tecnologia é defendida por famílias das vítimas do acidente aéreo de Washington em 2025.",
+   "id": "mn18-eua-07",
+   "title": "Empresa misteriosa lidera corrida por jantar de Trump com criptomoeda",
+   "summary": "A FastX, empresa ligada a Singapura, diz ter acumulado mais de US$ 2 milhões na moeda $TRUMP e aparece no topo da disputa por lugar em um jantar de gala com o presidente. O evento reacende questionamentos sobre corrupção.",
    "highlights": [
-    "ADS-B In mostra o tráfego aéreo próximo com alertas",
-    "NTSB recomenda o equipamento desde 2008",
-    "Cruz quer aprovar o projeto ainda este ano"
+    "Gala será em 22 de novembro no clube de golfe de Trump perto de Washington",
+    "Os 185 maiores detentores da moeda terão lugar",
+    "Ranking público mostra só apelidos e carteiras digitais"
    ],
-   "body": "O senador republicano Ted Cruz, do Texas, anunciou que Câmara e Senado chegaram a um acordo de princípio para exigir que aviões em espaço aéreo movimentado tenham tecnologia que permita ver outras aeronaves e transmitir sua própria localização. O equipamento, chamado ADS-B In, exibe o tráfego próximo com alertas visuais e sonoros.\n\nA medida é recomendada pelo NTSB desde 2008, mas nunca foi adotada pela FAA. Após a colisão entre um jato da American Airlines e um helicóptero Black Hawk do Exército perto do Aeroporto Reagan, em janeiro de 2025, que matou 67 pessoas, parlamentares passaram a defendê-la. Cruz fez o anúncio diante do Capitólio ao lado das famílias das vítimas e disse que ainda há detalhes a negociar com o Comitê de Serviços Armados da Câmara.",
+   "body": "Uma empresa de finanças digitais pouco conhecida, a FastX, com ligações com Singapura e cuja controladora tem uma CEO que usa apenas o nome \"Addy\", parece ter assumido o primeiro lugar na disputa por acesso ao jantar de gala de criptomoedas do presidente Donald Trump. A empresa afirma ter acumulado mais de US$ 2 milhões na meme coin $TRUMP em dois meses e planeja criar uma \"comunidade chinesa da moeda $TRUMP\".\n\nO evento, no domingo, 22 de novembro, no Trump National Golf Club, nos arredores de Washington, reunirá os 185 maiores detentores da moeda. O site da empresa que vende o token publica um ranking que identifica os participantes apenas por nomes de usuário e carteiras. Segundo a CBS, a natureza opaca do evento renovou dúvidas sobre potencial corrupção.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/airline-safety-bill-deal-ted-cruz/",
-   "published_at": "2026-11-17T14:34:54-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/bb2c98dc-c396-4911-8f39-3b654ca03088/thumbnail/1200x630/a79926d381e7ac54e6a1ebee64046ed8/gettyimages-2266649306.jpg"
+   "url": "https://www.cbsnews.com/news/trump-crypto-gala-fastx-meme-coin/",
+   "published_at": "2026-11-18T06:00:10-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/d38e1559-cee6-441f-b388-dbd18d2c5865/thumbnail/1200x630/6b9fbdab90daab964a195f5486eda674/fastx-promo4.jpg"
   },
   {
-   "id": "td17-eua-04",
-   "title": "Lisa Cook, do Fed, recusa audiência da Casa Branca sem mudanças",
-   "summary": "A diretora do Federal Reserve Lisa Cook não participará de uma audiência da Casa Branca sobre supostas declarações falsas em documentos de hipoteca, a menos que o processo seja alterado. Seu advogado chamou o comitê de \"fachada\".",
+   "id": "mn18-eua-02",
+   "title": "Mary Peltola vence no Alasca e amplia maioria democrata no Senado",
+   "summary": "A ex-deputada democrata Mary Peltola derrotou o senador republicano Dan Sullivan no Alasca, segundo projeção da CBS News. Com o resultado, os democratas terão 56 cadeiras no Senado contra 44 dos republicanos.",
    "highlights": [
-    "Audiência de comitê do governo está marcada para o mês que vem",
-    "Advogado diz que Cook não tem obrigação legal de comparecer",
-    "Defesa vê risco à independência do Fed"
+    "Peltola será a primeira nativa do Alasca eleita ao Senado",
+    "É a primeira vitória democrata para o Senado no estado desde 2008",
+    "Disputa foi decidida por voto ranqueado, duas semanas após a eleição"
    ],
-   "body": "A diretora do Federal Reserve Lisa Cook não vai participar de uma audiência da Casa Branca que examinará alegações de que ela fez declarações falsas em documentos de hipoteca, a menos que preocupações com o processo sejam resolvidas antes, segundo carta de seu advogado, Abbe Lowell, obtida pela CBS News.\n\nLowell afirmou ao conselheiro da Casa Branca Will Scharf que Cook não tem \"obrigação legal\" de comparecer à audiência, marcada para o próximo mês diante de um comitê de três integrantes do governo Trump. Para ele, o processo parece uma \"fachada\" para encobrir uma decisão já tomada de demiti-la, e participar dele poderia minar a independência do Fed.",
+   "body": "A ex-deputada Mary Peltola, do Partido Democrata, venceu o senador republicano Dan Sullivan na disputa pelo Senado no Alasca, segundo projeção da CBS News, duas semanas depois do dia da eleição. Com isso, os democratas passam a controlar 56 das 100 cadeiras do Senado.\n\nPeltola, de 53 anos, havia sido em 2022 a primeira democrata a representar o Alasca na Câmara em 50 anos. Agora deve se tornar a primeira nativa do Alasca eleita senadora e a primeira democrata eleita ao Senado pelo estado desde 2008. \"Obrigada, Alasca. Vamos trabalhar\", disse.\n\nSegundo a CBS, o cenário foi mais favorável a ela neste ciclo, com a impopular guerra no Irã e os preços altos de gasolina e diesel pesando sobre os candidatos republicanos. A disputa foi decidida pelo sistema de voto ranqueado.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/lisa-cook-federal-reserve-white-house-hearing/",
-   "published_at": "2026-11-17T14:30:08-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/25/11695f34-cdb2-4a6d-a542-287d57165229/thumbnail/1200x630/f316d73a267eaf37528903fc1cbb7bbd/gettyimages-1258902366.jpg"
+   "url": "https://www.cbsnews.com/news/alaska-2026-senate-sullivan-peltola/",
+   "published_at": "2026-11-17T22:47:12-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/0f5f15ea-6383-4926-aabc-4beae843fb96/thumbnail/1200x630/9f0963593d4779fc894a2adb51245c1e/gettyimages-2302985547.jpg"
   },
   {
-   "id": "td17-eua-07",
-   "title": "EUA identificam restos de 6 soldados mortos na Guerra da Coreia",
-   "summary": "A agência de contabilização de prisioneiros e desaparecidos do Pentágono identificou seis soldados mortos na Guerra da Coreia, entre eles dois adolescentes. Eles serão enterrados com honras militares.",
+   "id": "mn18-eua-03",
+   "title": "Casa Branca retira indicação de Heidi Overton para a FDA",
+   "summary": "A Casa Branca desistiu da indicação da médica Heidi Overton para comandar a FDA, agência que regula alimentos e medicamentos. A comissão do Senado votaria o nome dela nesta quarta.",
    "highlights": [
-    "Entre os identificados, o cabo Jackie Lee Thurman, de 18 anos",
-    "Thurman desapareceu tentando resgatar um oficial sob fogo",
-    "Esforço de identificação continua décadas depois"
+    "Overton enfrentava resistência entre senadores republicanos",
+    "Críticas envolviam a pílula abortiva mifepristona e a política de vapes",
+    "Senador Bill Cassidy diz que havia caminho viável para aprovação"
    ],
-   "body": "Seis soldados americanos mortos na Guerra da Coreia, incluindo dois adolescentes, foram identificados décadas depois de suas mortes, anunciou a Defense POW/MIA Accounting Agency. Quando um militar é considerado identificado, recebe enterro com honras militares completas.\n\nUm deles é o cabo Jackie Lee Thurman, de 18 anos, observador avançado perto de Waegwan, na Coreia do Sul. Ele foi visto pela última vez tentando retirar um oficial em choque de uma posição sob intenso fogo inimigo e foi declarado desaparecido; a presunção de morte foi emitida em dezembro de 1953.",
+   "body": "A Casa Branca retirou a indicação da médica Heidi Overton, escolhida pelo presidente Trump para chefiar a FDA, segundo um alto funcionário do governo e outras pessoas a par da decisão. A Comissão de Saúde, Educação, Trabalho e Previdência (HELP) do Senado votaria a indicação nesta quarta-feira.\n\nOverton vinha tendo dificuldade para reunir apoio entre os republicanos. Parte dos parlamentares e aliados do governo demonstrava ceticismo por causa do depoimento dela sobre a mifepristona, pílula abortiva aprovada pela FDA, e da execução da política pró-vape de Trump.\n\nO senador republicano Bill Cassidy, que deixa a presidência da comissão, afirmou que o problema não era falta de votos e que a \"Casa Branca abandonou um caminho viável de confirmação\". Segundo ele, senadores contrários ao aborto buscavam garantias finais do governo sobre o tema.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/korean-war-us-soldiers-remains-identified/",
-   "published_at": "2026-11-17T12:41:53-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/b3755c92-c7c2-4320-9da7-a20d5c0be52e/thumbnail/1200x630/6c73edad214dd0be1ded68cee2e5d6fb/screenshot-2026-11-17-at-10-55-15-am.png"
+   "url": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
+   "published_at": "2026-11-17T22:30:49-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/3f16f324-7605-4589-85b2-7dba2f1303dc/thumbnail/1200x630g2/f0ddf93a112ed59df423faaad0c79929/gettyimages-2296270843.jpg"
   },
   {
-   "id": "td17-eua-05",
-   "title": "EUA perdem oficialmente o status de país livre do sarampo",
-   "summary": "A Organização Pan-Americana da Saúde anunciou nesta terça que os EUA perderam o status de eliminação do sarampo. O país registrou mais de 5.400 casos neste ano, mais que o dobro do ano passado.",
+   "id": "mn18-eua-04",
+   "title": "Rubio diz que não há ligação entre as recentes panes tecnológicas",
+   "summary": "O secretário de Estado, Marco Rubio, afirmou haver \"zero evidência\" de que as panes recentes em aviação, bancos e outros sistemas dos EUA estejam conectadas. Segundo ele, o país não está sob ataque sistêmico.",
    "highlights": [
-    "Primeira vez desde 2000 que os EUA não cumprem o critério",
-    "México também perdeu o status, segundo agências",
-    "Critério exige 12 meses sem transmissão local contínua"
+    "Rubio falou em entrevista coletiva nas Filipinas",
+    "Diz que não há indício de hackers, criminosos ou outro país",
+    "Afirmou que o governo segue atento a possíveis ataques"
    ],
-   "body": "Os Estados Unidos perderam oficialmente o status de eliminação do sarampo, anunciou nesta terça-feira a Organização Pan-Americana da Saúde (OPAS), escritório regional da OMS. A decisão veio depois de o país registrar mais de 5.400 casos neste ano, mais que o dobro do total do ano passado.\n\nUm país é considerado livre do sarampo quando não há transmissão local ou surtos que durem 12 meses ou mais. Os EUA deixaram de cumprir esse padrão pela primeira vez desde 2000. O México também foi afetado pela decisão, segundo outras agências de notícias.",
+   "body": "O secretário de Estado Marco Rubio disse que há \"zero evidência\" de que as falhas tecnológicas recentes no transporte aéreo, em bancos e em outros sistemas dos EUA estejam relacionadas. \"O incidente da Microsoft não tem nada a ver com o que vimos na FAA. A FAA não tem nada a ver com o que vimos com os bancos alguns dias atrás\", declarou em entrevista coletiva nas Filipinas.\n\nRubio reconheceu que as pessoas estão com medo e incertas, mas afirmou que os EUA não estão sob ataque sistêmico e que não há motivo para crer no envolvimento de hackers, criminosos ou outro Estado. Ele viaja com o presidente Trump antes de um encontro trilateral com Vladimir Putin e Xi Jinping, e disse que o governo está \"sempre atento\" a possíveis ataques.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
-   "published_at": "2026-11-17T12:18:16-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/a8f89dbf-6484-4ebf-863c-c4e91d42c3a6/thumbnail/1200x630/19d57254b9f70efb37f636bb7e3d6738/gettyimages-2259641072.jpg"
+   "url": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/",
+   "published_at": "2026-11-17T21:43:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/dd4ffecc-82ca-4351-9b61-50732f9a9014/thumbnail/1200x630g2/c47eb385e012e589f1440ea2889be50c/gettyimages-2305621072.jpg"
   },
   {
-   "id": "td17-eua-08",
-   "title": "Grupos pedem retirada do novo chefe de direitos civis do DOJ",
-   "summary": "Dezoito organizações de direitos civis pediram ao presidente Trump que retire a nomeação de Craig Trainor como chefe interino da Divisão de Direitos Civis do Departamento de Justiça. Elas dizem que ele tem histórico de enfraquecer as leis que deveria aplicar.",
+   "id": "mn18-eua-06",
+   "title": "Menino haitiano de 8 anos detido pelo ICE é libertado",
+   "summary": "Um menino haitiano de 8 anos detido pela imigração (ICE) em San Diego no início do mês foi solto e voltou à escola. A organização Haitian Bridge Alliance, que pediu sua libertação, comemorou.",
    "highlights": [
-    "Trainor substitui Harmeet Dhillon, que renunciou após as eleições",
-    "Ele vinha de cargo de habitação justa no HUD",
-    "Também foi assessor do deputado republicano Jim Jordan"
+    "Criança estava sob custódia federal desde 5 de novembro",
+    "Foi detida após ir a uma audiência com um homem que se dizia seu tio",
+    "Escola diz que ofereceu apoio a ele e à família"
    ],
-   "body": "Dezoito organizações de direitos civis pediram nesta terça ao presidente Trump que retire a nomeação de Craig Trainor como procurador-geral assistente interino da Divisão de Direitos Civis do Departamento de Justiça, afirmando que ele tem histórico de minar as leis que deveria fazer cumprir.\n\nTrainor foi nomeado na semana passada para substituir Harmeet Dhillon, que deixou o cargo pouco depois das eleições de meio de mandato. Antes, ele foi secretário-assistente de habitação justa no Departamento de Habitação (HUD), ocupou cargos no Departamento de Educação e foi conselheiro do deputado republicano Jim Jordan no Comitê Judiciário da Câmara.",
+   "body": "Um menino haitiano de 8 anos, aluno do terceiro ano, que havia sido detido pelo Serviço de Imigração e Alfândega (ICE) em San Diego, foi libertado, segundo um grupo de defesa e o distrito escolar. A escola informou que conversou com o aluno ao retornar para garantir o apoio necessário à família, e ele seguiu para a aula.\n\nO Departamento de Segurança Interna havia confirmado que agentes colocaram a criança sob custódia federal em 5 de novembro, depois que ela compareceu a uma audiência de rotina com um homem que, segundo a agência, dizia ser seu tio. \"Uma criança de oito anos pertence a uma sala de aula, não a uma detenção imigratória\", disse Guerline Jozef, diretora da Haitian Bridge Alliance.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/craig-trainor-justice-department-civil-rights-division/",
-   "published_at": "2026-11-17T12:13:55-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/17/822df8f8-6c82-4e53-9f11-6421ceb08cd7/thumbnail/1200x630g3/c60a85d9b7f270bf9e6f878de389e818/gettyimages-2269699782.jpg"
+   "url": "https://www.cbsnews.com/news/8-year-old-detained-ice-released-custody/",
+   "published_at": "2026-11-17T21:10:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/f244a474-9314-4f51-ac1c-f7c48f3eaefb/thumbnail/1200x630/7709262844f39dc54346cc985aba8a50/gettyimages-2298640808.jpg"
   },
   {
-   "id": "td17-eua-09",
-   "title": "Pentágono é reprovado em auditoria pelo 9º ano seguido",
-   "summary": "O Departamento de Defesa dos EUA falhou em sua auditoria financeira pela nona vez consecutiva, segundo relatório do inspetor-geral. Ainda assim, pela primeira vez a maioria de suas unidades foi aprovada.",
+   "id": "mn18-eua-05",
+   "title": "Paquistanês pega 27 anos e meio por plano do Irã para matar Trump",
+   "summary": "Asif Merchant, condenado por terrorismo e por um plano de assassinato por encomenda a mando da Guarda Revolucionária do Irã, foi sentenciado a 27 anos e meio de prisão. Entre os possíveis alvos estavam Trump e Joe Biden.",
    "highlights": [
-    "14 de 25 entidades tiveram as contas aprovadas, ante 11 no ano anterior",
-    "Elas somam 56% dos ativos do departamento",
-    "Ano fiscal de 2026 terminou em setembro"
+    "Condenação ocorreu em março, logo após o início da guerra com o Irã",
+    "Ele podia pegar prisão perpétua",
+    "Juiz chamou o caso de \"violência terrorista extrema\""
    ],
-   "body": "O Pentágono foi reprovado em sua auditoria financeira pelo nono ano consecutivo, segundo relatório do inspetor-geral divulgado na segunda-feira. Mas o diretor financeiro do Departamento de Defesa, Jules Hurst, disse à Reuters que um auditor independente aprovou as demonstrações de 14 das 25 entidades do órgão no ano fiscal de 2026, ante 11 no ano anterior.\n\nEssas entidades respondem por 56% dos ativos e 86% dos passivos do departamento. \"Pela primeira vez, a maioria dos ativos do departamento tem parecer limpo\", afirmou Hurst. As auditorias verificam se as demonstrações financeiras são apresentadas de forma adequada e se sistemas e processos são confiáveis.",
+   "body": "Um paquistanês condenado por tentativa de terrorismo e por orquestrar um plano de assassinato por encomenda a mando da Guarda Revolucionária do Irã — com alvos que incluíam o presidente Donald Trump e o ex-presidente Joe Biden — foi sentenciado nesta terça-feira a 27 anos e meio de prisão federal no Brooklyn, em Nova York.\n\nAsif Merchant havia sido condenado em março e podia receber prisão perpétua. O juiz Eric R. Komitee classificou o crime como \"excepcionalmente grave\" e disse que nenhum crime é mais sério do que o assassinato direcionado de um presidente ou de outras autoridades. Ele citou a influência estrangeira do Irã como agravante.",
    "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
-   "published_at": "2026-11-17T10:43:12-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/a9600d17cc68a45ca7493e14c235396998c728ab/968_531_3336_2668/master/3336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c12a82a51fa15bf6be0ac28a5ec28672"
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/asif-merchant-sentencing-prison-iran-backed-plot-to-murder-trump/",
+   "published_at": "2026-11-17T20:01:39-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/05/359b3888-d07d-4ec1-9a68-ad5665d102bc/thumbnail/1200x630/85b3acdc2a539a822b54e1758b1df06e/ap26057537646450.jpg"
   },
   {
-   "id": "td17-mundo-05",
-   "title": "Mais de 100 mil protestam na França por salários",
-   "summary": "Servidores públicos, estudantes e outros manifestantes protestaram na França contra o alto custo de vida. O governo contou 146 mil pessoas; o sindicato CGT fala em mais de 500 mil.",
+   "id": "mn18-eua-09",
+   "title": "Estudante acusado de fotografar aviões para a China ficará preso",
+   "summary": "Um estudante chinês acusado de fotografar aviões e centros logísticos em Chicago a pedido de um representante do Partido Comunista Chinês, e de mentir a investigadores, ficará detido até o julgamento.",
    "highlights": [
-    "28 mil manifestantes só em Paris, segundo o governo",
-    "Sindicatos convocaram dia de greve",
-    "Negociação com o premiê Sébastien Lecornu fracassou na sexta"
+    "Weiheng Zeng estuda na Universidade de Waterloo, no Canadá",
+    "Defesa ofereceu pagar qualquer fiança",
+    "Ele é acusado de falsas declarações a agência do governo"
    ],
-   "body": "Mais de 100 mil pessoas foram às ruas na França nesta terça para protestar contra o alto custo de vida, com servidores públicos exigindo aumentos salariais. O Ministério do Interior contabilizou 146 mil manifestantes, 28 mil deles em Paris; a central sindical CGT estimou mais de 500 mil em todo o país.\n\nVários sindicatos convocaram um dia de greve, com participação também de alunos e universitários. Os 5,8 milhões de servidores públicos franceses se mobilizaram depois que uma reunião com o primeiro-ministro Sébastien Lecornu, na sexta-feira, não atendeu às reivindicações.",
+   "body": "Uma juíza federal de Detroit negou o pedido da defesa de Weiheng Zeng, cidadão chinês e aluno de graduação da Universidade de Waterloo, em Ontário, para responder ao processo em liberdade e voltar ao Canadá. Segundo o Departamento de Justiça, os advogados disseram que a família pagaria \"qualquer valor de fiança\" e chegaria a comprar um apartamento nos EUA.\n\nZeng foi indiciado neste mês por uma acusação de prestar falsas declarações a uma agência do governo. Os promotores afirmam que ele entrou sem autorização em uma instalação da FedEx no aeroporto O'Hare, em Chicago, fotografou o local e depois mentiu sobre o propósito da viagem aos EUA.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/student-accused-photos-planes-chinese-communist-party-detained/",
+   "published_at": "2026-11-17T18:18:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/14/a0721f79-1577-4d64-b47c-071f9454d49f/thumbnail/1200x630/77c2cac5e15098cc3a2d68d6a25bdc94/takeoutfull1113.jpg"
+  },
+  {
+   "id": "mn18-mundo-01",
+   "title": "Irã amplia ataques no Golfo e mira base dos EUA no Kuwait",
+   "summary": "O Irã atacou nesta quarta uma base aérea americana no Kuwait e alvos no Bahrein, aparentemente em retaliação a ataques dos EUA na véspera. O Bahrein abriga a 5ª Frota da Marinha americana.",
+   "highlights": [
+    "Caça dos EUA atingiu base de mísseis na ilha de Qeshm, no Estreito de Ormuz",
+    "Ataques ocorrem após cerca de dois meses sem ofensivas do tipo",
+    "Analista alerta para risco de escalada por erro de cálculo"
+   ],
+   "body": "O Irã ampliou nesta quarta-feira os ataques contra vizinhos do Golfo, mirando uma base aérea dos EUA no Kuwait e lançando vários ataques contra o Bahrein. As ofensivas vieram depois que um caça americano atingiu, na terça, um local de lançamento de mísseis da Guarda Revolucionária na ilha de Qeshm, no Estreito de Ormuz — ação que, por sua vez, respondeu a um ataque iraniano a uma instalação de radar dos EUA no Bahrein.\n\nO Irã diz que os ataques respondem a voos de vigilância de drones americanos e a um ataque a torres de comunicação iranianas. Com a economia pressionada por um bloqueio naval dos EUA, especialistas avaliam que Teerã pode estar cansado do status quo. Hamidreza Azizi, do International Crisis Group, alertou que o acúmulo de incidentes aumenta o risco de escalada além do pretendido por qualquer lado.",
    "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests",
-   "published_at": "2026-11-17T14:09:49-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=1920%2C1440"
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/world/2026/11/18/iran-widens-gulf-attacks-firing-on-a-us-air-base-in-kuwait-and-at-targets-in-bahrain/",
+   "published_at": "2026-11-18T06:33:00-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/DBTFVGHI5F4EC25DJAHAQGKJFM.jpg?auth=6ed9fa6321377f0292618586444bb9a68ae62b401de834eda359c5e2f7ac42fe&width=700"
   },
   {
-   "id": "td17-mundo-03",
-   "title": "Conselho da Paz alerta para colapso do cessar-fogo em Gaza",
-   "summary": "O órgão que supervisiona o cessar-fogo mediado pelos EUA em Gaza apresentou ao Conselho de Segurança da ONU um relatório pessimista. O texto alerta que o acordo pode ruir sem medidas imediatas.",
+   "id": "mn18-mundo-06",
+   "title": "Coalizão saudita lança grande ataque contra os houthis no Iêmen",
+   "summary": "A coalizão liderada pela Arábia Saudita disse ter lançado um grande ataque aéreo contra territórios houthis no Iêmen; os rebeldes falam em ao menos 17 mortos. Em resposta, os houthis dispararam mísseis contra Riad.",
    "highlights": [
-    "É a primeira avaliação anual do Conselho da Paz",
-    "Pede que Israel e Hamas cumpram os compromissos",
-    "Distância entre o acordado e a realidade é o maior risco"
+    "Coalizão diz ter destruído \"60 alvos militares legítimos\"",
+    "Houthis lançaram dois mísseis de cruzeiro contra Riad",
+    "Petroleira estatal dos Emirados relata ataque a navio em Ormuz"
    ],
-   "body": "O Conselho da Paz, que supervisiona o cessar-fogo em Gaza mediado pelos EUA, entregou nesta terça ao Conselho de Segurança da ONU sua primeira avaliação anual, alertando para o colapso do frágil acordo se não houver passos para sua implementação completa.\n\nO relatório pede que Israel e o Hamas cumpram os compromissos assumidos no ano passado e que a ONU apoie a execução. \"A distância entre o que foi acordado e o que acontece no terreno continua sendo o principal risco ao processo\", diz o documento, obtido pela Associated Press, em meio a ataques israelenses letais e bloqueios à ajuda humanitária.",
+   "body": "A coalizão liderada pela Arábia Saudita que combate os houthis, apoiados pelo Irã, afirmou nesta quarta-feira ter realizado um grande ataque aéreo em territórios controlados pelos rebeldes no Iêmen. Os houthis disseram que ao menos 17 pessoas morreram. Segundo o porta-voz da coalizão, general Turki al-Malki, os bombardeios atingiram túneis que levam a depósitos de mísseis balísticos nas montanhas e oficinas de montagem de drones, destruindo \"60 alvos militares legítimos\".\n\nOs houthis responderam disparando dois mísseis de cruzeiro contra Riad. No mesmo dia, uma petroleira estatal dos Emirados Árabes Unidos disse que um de seus navios foi atacado ao cruzar o Estreito de Ormuz, enquanto o Irã intensificava ataques contra o Bahrein e uma base no Kuwait usada por forças americanas.",
    "category": "mundo",
-   "source": "AP / Local 10",
-   "url": "https://www.local10.com/news/world/2026/11/17/board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action/",
-   "published_at": "2026-11-17T14:04:22-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/YDQ4VV7O7LT6XCPWIIFA2AH4RA.jpg?auth=f2a97f8499002b481c38a1e6fb7bb67882d865535db3fa1ff8bee7e94e67af08&width=700"
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/world/2026/11/18/saudi-backed-forces-launch-major-attack-on-houthis-and-other-mideast-news/",
+   "published_at": "2026-11-18T06:18:16-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/Y4M5P23XJCY3OHVW2ALUFK7M2U.jpg?auth=4b7e06ce899d68cde3d4f4a089b7a2d69f949ed4214ceec1791ef590b2dd6688&width=700"
   },
   {
-   "id": "td17-mundo-04",
-   "title": "Eslovacos protestam contra premiê pró-Rússia Robert Fico",
-   "summary": "Manifestantes foram às ruas na Eslováquia contra o governo de Robert Fico no aniversário da Revolução de Veludo de 1989. Organizadores estimaram 25 mil pessoas em Bratislava.",
+   "id": "mn18-mundo-05",
+   "title": "Inflação do Reino Unido sobe ao maior nível em um ano",
+   "summary": "A inflação anual britânica subiu para 3,6% em outubro, puxada pelos combustíveis mais caros por causa da guerra no Irã. O resultado mantém viva a chance de nova alta de juros em dezembro.",
    "highlights": [
-    "Protestos em dezenas de cidades, convocados pela oposição",
-    "Fico é hoje o líder mais pró-Rússia da Europa",
-    "Oposição liberal e conservadora se uniu no ato"
+    "Taxa passou de 3,5% para 3,6%",
+    "Meta do Banco da Inglaterra é de 2%",
+    "Juros subiram neste mês para 4%, primeira alta em mais de três anos"
    ],
-   "body": "Eslovacos saíram às ruas nesta terça para protestar contra o governo do primeiro-ministro pró-Rússia Robert Fico, no aniversário da Revolução de Veludo de 1989, que pôs fim ao regime comunista na Tchecoslováquia. Partidos de oposição organizaram atos em dezenas de cidades.\n\nEm Bratislava, os organizadores estimaram 25 mil pessoas na praça SNP, gritando \"Chega de Fico\". Segundo a AP, Fico é o líder europeu mais pró-Rússia desde que o húngaro Viktor Orbán deixou o poder, em abril. O ato reuniu liberais, partidos pró-mercado, democratas-cristãos e uma aliança de minorias étnicas.",
+   "body": "A inflação no Reino Unido subiu ao nível mais alto em um ano, segundo dados oficiais divulgados nesta quarta-feira. O Escritório Nacional de Estatísticas informou que a taxa anual passou de 3,5% em setembro para 3,6% em outubro, principalmente por causa dos preços mais altos nos postos, reflexo da guerra no Irã.\n\nO índice se afasta ainda mais da meta de 2% do Banco da Inglaterra, que neste mês elevou os juros pela primeira vez em mais de três anos, de 3,75% para 4%. Muitos economistas esperam nova alta em dezembro. \"Esses números tornam difícil evitar uma alta de juros em dezembro\", disse Suren Thiru, economista-chefe do ICAEW.",
    "category": "mundo",
-   "source": "AP / Local 10",
-   "url": "https://www.local10.com/news/world/2026/11/17/angry-crowds-rally-against-slovakias-pro-russian-leader-on-velvet-revolution-anniversary/",
-   "published_at": "2026-11-17T13:50:10-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/FMBUERSSVD4NQC4T2EHRGF4SEA.jpg?auth=e3c1874e658fbea18fed1cd128be5903083bd2157f1be6023a2c7ac400e71c12&width=700"
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/18/uk-inflation-rises-to-year-high-and-keeps-possibility-of-second-straight-rate-hike-alive/",
+   "published_at": "2026-11-18T05:40:28-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/FLUH2YE4EQX5RKGMTX253S3UGU.jpg?auth=c70e2aab3d3747f132044fef7a7517aa1011f5deb997e6aff2b4183adc24ee40&width=700"
   },
   {
-   "id": "td17-mundo-02",
-   "title": "Irã lança 3º ataque contra alvos dos EUA no Bahrein",
-   "summary": "O Irã disparou drones nesta terça contra uma instalação de radar dos EUA no Bahrein, sede da 5ª Frota da Marinha americana. Foi o terceiro ataque em poucos dias após cerca de dois meses de trégua nos combates.",
+   "id": "mn18-mundo-03",
+   "title": "Trump reencontra Imelda Marcos em visita a Manila",
+   "summary": "Donald Trump se reencontrou nesta quarta com a amiga de longa data Imelda Marcos, viúva do ditador deposto Ferdinand Marcos e mãe do atual presidente filipino. O encontro foi no palácio presidencial.",
    "highlights": [
-    "Bahrein diz que sua defesa aérea interceptou os drones",
-    "Escalada ocorre após pausa de cerca de dois meses",
-    "CBS relata novos ataques dos EUA à ilha iraniana de Qeshm"
+    "Trump teve reunião bilateral com Ferdinand Marcos Jr.",
+    "Foi recebido com tapete vermelho e honras militares",
+    "Em jantar da ASEAN, elogiou os pais do presidente filipino"
    ],
-   "body": "O Irã lançou drones nesta terça-feira contra uma instalação de radar dos EUA no Bahrein, no terceiro ataque em poucos dias contra alvos militares americanos no pequeno reino do Golfo Pérsico, após uma pausa de cerca de dois meses nos combates. O Bahrein, que abriga a 5ª Frota da Marinha dos EUA, emitiu alerta e disse que seus sistemas de defesa aérea interceptaram os drones.\n\nNa sequência, a CBS News informou que os EUA lançaram ataques contra a ilha iraniana de Qeshm, no Estreito de Ormuz, em mais um sinal de escalada do conflito na região.",
+   "body": "O presidente dos EUA, Donald Trump, reencontrou nesta quarta-feira Imelda Marcos, viúva de um ditador deposto e mãe do atual presidente das Filipinas, famosa por sua enorme coleção de sapatos. O breve encontro ocorreu no palácio presidencial de Malacañang, em Manila, onde Trump teve reunião bilateral com Ferdinand Marcos Jr., que o recebeu com tapete vermelho e honras militares, segundo o embaixador filipino em Washington, Jose Manuel Romualdez.\n\nTrump chegou a Manila na terça à noite para participar das reuniões anuais da ASEAN. Em discurso num jantar, ele elogiou Marcos e os pais dele: \"Eu conhecia muito bem seus pais. Eles eram ótimos\".",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/world/2026/11/18/trump-meets-longtime-friend-imelda-marcos-while-visiting-her-son-the-philippine-president/",
+   "published_at": "2026-11-18T05:08:54-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/F5JIR7LEUK5YJ7QH3NMPN4DLU4.jpg?auth=f1d9dfada0a2eb2eee93899acf9e02071a3d227f6d52a81687e90f8a86d84c8c&width=700"
+  },
+  {
+   "id": "mn18-mundo-08",
+   "title": "China reduz emissões enquanto as dos EUA voltam a subir",
+   "summary": "Na COP31, na Turquia, China e EUA seguem como os maiores emissores de gases de efeito estufa, mas com trajetórias diferentes. As emissões chinesas estão estáveis ou em queda há dois anos e meio; as americanas subiram em 2025.",
+   "highlights": [
+    "Mais de 200 países participam da conferência do clima da ONU",
+    "China avança com renováveis, baterias e carros elétricos",
+    "EUA queimaram mais combustível fóssil em 2025"
+   ],
+   "body": "Enquanto mais de 200 países se reúnem na Turquia para a COP31, a conferência anual do clima da ONU, China e Estados Unidos continuam sendo os dois maiores emissores de gases de efeito estufa — mas suas histórias estão divergindo. Por anos, a poluição climática chinesa cresceu com o uso de carvão; nos últimos dois anos e meio, porém, as emissões do país ficaram estáveis ou caíram.\n\n\"É uma mudança notável\", disse Lauri Myllyvirta, do Centro de Pesquisa em Energia e Ar Limpo. A China vem substituindo carvão por energia renovável e baterias, e a expansão dos carros elétricos reduz o uso de petróleo. Já nos EUA, as emissões subiram em 2025, segundo a NPR.",
    "category": "mundo",
    "source": "NPR",
-   "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-   "published_at": "2026-11-17T13:34:31-05:00",
-   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4858+0+689/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F79%2Fdaf7ce984f009fe345ef7aff3a56%2Fap26320429061252.jpg"
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+   "published_at": "2026-11-18T05:00:00-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6144x3456+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2F6b%2F1fd709f74fc497a15eab546a81e8%2Fgettyimages-2280350167.jpg"
   },
   {
-   "id": "td17-mundo-09",
-   "title": "Jornalista é morto a tiros na Costa Rica, 1º caso em 25 anos",
-   "summary": "O jornalista Camilo Rodríguez, conhecido por denúncias contra supostos traficantes e políticos, foi morto a tiros na segunda-feira perto de San José. É o primeiro assassinato de jornalista no país em 25 anos.",
+   "id": "mn18-mundo-09",
+   "title": "Teme-se sanção dos EUA a juízes da CIJ antes de decisão sobre Mianmar",
+   "summary": "Cresce o temor de que os EUA sancionem juízes da Corte Internacional de Justiça caso o tribunal decida nesta quinta que Mianmar cometeu genocídio contra os rohingya. A decisão pode servir de precedente para o caso sobre Gaza.",
    "highlights": [
-    "Rodríguez, 51, foi atacado em rodovia movimentada",
-    "Presidente Laura Fernández condenou o crime",
-    "Costa Rica enfrenta alta da violência do narcotráfico"
+    "CIJ nunca condenou um Estado por genocídio",
+    "Entre os juízes está Navi Pillay, Nobel da Paz deste ano",
+    "Juízes buscaram orientação para proteger seus bens"
    ],
-   "body": "O jornalista costarriquenho Camilo Rodríguez, que ganhou destaque ao publicar denúncias contra supostos traficantes e políticos, foi morto a tiros na segunda-feira, informaram as autoridades. É o primeiro assassinato conhecido de um jornalista na Costa Rica em 25 anos.\n\nRodríguez, de 51 anos, foi atacado por volta das 15h20 (hora local) em uma rodovia movimentada nos arredores da capital, San José, segundo a Cruz Vermelha. A presidente Laura Fernández condenou o ataque. O crime ocorre em meio a uma onda de violência ligada ao narcotráfico internacional num país historicamente visto como um dos mais pacíficos da América Central.",
+   "body": "Há temores crescentes de que os Estados Unidos imponham sanções a juízes da Corte Internacional de Justiça (CIJ), entre eles a vencedora do Nobel da Paz deste ano, Navi Pillay, caso o tribunal decida na quinta-feira que o governo de Mianmar cometeu genocídio contra a minoria rohingya. Uma condenação poderia abrir precedente para o julgamento sobre as ações de Israel em Gaza.\n\nA CIJ nunca considerou um Estado responsável por genocídio, e provar a \"intenção\" de destruir um grupo tem sido um obstáculo. Advogados de sobreviventes rohingya dizem que o padrão de conduta dos militares de Mianmar em 2016 e 2017, como matar pessoas em fuga, mostra essa intenção. Segundo o Guardian, juízes já buscaram orientação sobre como proteger seus bens de possíveis sanções.",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
-   "published_at": "2026-11-17T12:19:12-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/aa64ef87330c205b86ab607a030790f6f68e6a5f/281_0_4426_3542/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4732bd54781e8ecf5dfb44a48c26f842"
+   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+   "published_at": "2026-11-18T04:58:28-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5"
   },
   {
-   "id": "td17-mundo-08",
-   "title": "Ucranianos usam gasoduto subterrâneo para atacar russos",
-   "summary": "Soldados ucranianos percorreram por semanas um gasoduto soviético desativado para surpreender tropas russas perto de Kupiansk, segundo a unidade envolvida. A operação teve combate corpo a corpo dentro do duto.",
+   "id": "mn18-mundo-07",
+   "title": "Carney diz que laços comerciais do Canadá com a China não preocupam Trump",
+   "summary": "O primeiro-ministro canadense, Mark Carney, afirmou em Shenzhen que a aproximação comercial do Canadá com a China não está entre as prioridades de Trump. Segundo ele, o país exporta principalmente commodities aos chineses.",
    "highlights": [
-    "\"Operação Veles\" foi feita pelo Corpo Khartiia, da Guarda Nacional",
-    "Soldados avançaram cerca de 14 km dentro do duto",
-    "Objetivo era impedir o avanço russo sobre Kupiansk"
+    "Declaração ocorreu antes da cúpula da APEC",
+    "Assessor Peter Navarro critica a aproximação com Pequim",
+    "EUA impuseram tarifas de 50% após negociações fracassarem em agosto"
    ],
-   "body": "Soldados ucranianos passaram semanas avançando por um gasoduto subterrâneo da era soviética, desativado, para chegar por trás das linhas inimigas e lançar um ataque surpresa contra tropas russas neste outono, segundo a unidade envolvida. A ação buscava impedir que os russos chegassem à cidade de Kupiansk, no leste.\n\nA chamada \"Operação Veles\" foi conduzida pelo Corpo Khartiia, da Guarda Nacional ucraniana, na região de Kharkiv. Os soldados rastejaram ou foram puxados em carrinhos por cerca de 14 km dentro do duto de aproximadamente um metro de diâmetro, superando barricadas russas e travando combate a curta distância.",
+   "body": "O primeiro-ministro do Canadá, Mark Carney, disse nesta quarta-feira, em entrevista coletiva em Shenzhen, que as relações comerciais crescentes entre Canadá e China não são prioridade para o presidente Donald Trump. Ele destacou que o Canadá exporta sobretudo commodities para a China, e não tecnologias sensíveis como semicondutores avançados. \"Na hierarquia de questões dele, não é de forma alguma o tema principal\", afirmou.\n\nAs declarações vêm em meio a críticas do assessor comercial da Casa Branca Peter Navarro à disposição canadense de se aproximar de Pequim, inclusive com a possível chegada de montadoras chinesas ao Canadá. As tarifas de Trump tensionaram a relação bilateral: após o colapso das negociações em agosto, Washington impôs tarifas de 50% sobre parte dos produtos canadenses.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/18/carney-says-canadas-growing-trade-ties-with-china-are-not-a-top-concern-for-trump/",
+   "published_at": "2026-11-18T04:08:01-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/C2DDVZNOCKWVPXQBNN6THYLDUA.jpg?auth=0dbc48dceb405efc3b1f1a11b61c2dcb90eb5fc31517e195b38aec23c1b84687&width=700"
+  },
+  {
+   "id": "mn18-mundo-02",
+   "title": "Xi defende comércio aberto na APEC enquanto Trump chega à China",
+   "summary": "O presidente chinês, Xi Jinping, disse a executivos em Shenzhen que a Ásia-Pacífico precisa de comércio mais aberto e crescimento equitativo. Trump chegou nesta quarta para a cúpula da APEC.",
+   "highlights": [
+    "Cúpula da APEC acontece em Shenzhen",
+    "Política \"America First\" de Trump contraria meta de livre comércio do bloco",
+    "Restrições a chips da Nvidia seguem como foco de tensão"
+   ],
+   "body": "O presidente da China, Xi Jinping, afirmou nesta quarta-feira, em Shenzhen, que a região Ásia-Pacífico deve buscar comércio mais aberto e crescimento mais justo para continuar estável e dinâmica. A declaração foi feita a empresários à margem da cúpula anual da Cooperação Econômica Ásia-Pacífico (APEC).\n\nO presidente americano, Donald Trump, chegou no mesmo dia, vindo das Filipinas, onde participou da cúpula da ASEAN. A abordagem \"America First\", com aumento de tarifas, vai contra o objetivo da APEC de criar uma zona de livre comércio no Pacífico. Xi e outros líderes pediram mais abertura sem criticar diretamente os EUA. Limites americanos ao acesso chinês a tecnologia de ponta, como os chips da Nvidia, seguem como fonte constante de atrito.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/18/chinas-xi-and-other-asian-leaders-say-asia-pacific-must-embrace-open-trade-fair-growth/",
+   "published_at": "2026-11-18T03:58:30-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/AORMPEWM4PERXUWU57AXDJHVFM.jpg?auth=38abfce2fc518cbf2d3613674dfc9c2a6589956a2f7eb5e98c009ab159f30255&width=700"
+  },
+  {
+   "id": "mn18-mundo-10",
+   "title": "Coreia do Sul usa alertas e recompensas contra cola em vestibular",
+   "summary": "A Coreia do Sul vai disparar alertas de emergência para expor celulares escondidos e oferecer recompensas de ao menos US$ 75 mil por denúncias de fraude no Suneung, o vestibular nacional desta quinta.",
+   "highlights": [
+    "Cerca de 550 mil estudantes devem fazer a prova",
+    "Medidas foram anunciadas pelo presidente Lee Jae Myung",
+    "Casos com óculos inteligentes e microcâmeras motivaram o endurecimento"
+   ],
+   "body": "O governo sul-coreano anunciou medidas duras contra fraudes no Suneung, o exame nacional de acesso à universidade marcado para quinta-feira, que deve reunir cerca de 550 mil estudantes. Alertas de emergência serão enviados aos celulares de todos os moradores antes da prova para identificar aparelhos não entregues, e quem denunciar fraudadores poderá receber ao menos US$ 75 mil.\n\n\"Nem o candidato mais ousado seria tolo de ser pego quando um aparelho escondido tocar durante a prova, não é?\", escreveu o presidente Lee Jae Myung no X, acrescentando que pediu que se avalie enviar alertas periódicos durante o exame. O endurecimento ocorre após casos de cola com óculos inteligentes e câmeras em miniatura em outros exames nacionais.",
+   "category": "mundo",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/south-korea-exam-cheating-.html",
+   "published_at": "2026-11-18T02:00:39-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108553810-1794973269290-gettyimages-1353902820-csj01317_2021111885924442.jpeg?v=1794973306&w=1920&h=1080"
+  },
+  {
+   "id": "mn18-mundo-04",
+   "title": "Homem com machado destruiu avião militar dos EUA na Irlanda, dizem promotores",
+   "summary": "Promotores americanos acusam um irlandês de invadir o aeroporto de Shannon e destruir com um machado um avião militar C-130 dos EUA avaliado em US$ 60 milhões. A aeronave não voará mais.",
+   "highlights": [
+    "Daithi O'Corrain, de 48 anos, foi indiciado em Manhattan",
+    "Ataque ocorreu em abril no aeroporto de Shannon",
+    "Apoiadores ligam o ato à raiva contra a atuação dos EUA no Oriente Médio"
+   ],
+   "body": "Um homem armado com um machado rompeu o perímetro de segurança do aeroporto de Shannon, na Irlanda, e destruiu um avião militar americano estacionado durante a noite, cortando linhas hidráulicas, quebrando instrumentos da cabine e despejando rolamentos nos tanques de combustível, segundo promotores dos EUA. Uma acusação aberta na terça-feira em Manhattan imputa a Daithi O'Corrain, de 48 anos, a destruição de propriedade do governo americano no episódio de abril.\n\nO avião, um C-130 Hercules da Guarda Nacional Aérea avaliado em US$ 60 milhões, ficou inoperante e não voará novamente. O'Corrain não está sob custódia dos EUA e pode pegar até 10 anos de prisão se condenado. Seus apoiadores atribuem o ataque à raiva com o envolvimento dos EUA em conflitos no Oriente Médio.",
    "category": "mundo",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/russia-ukraine-war-battle-in-underground-gas-pipeline-kupiansk/",
-   "published_at": "2026-11-17T12:16:06-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/94cbfebf-692a-4c30-9409-28a4983c9fc0/thumbnail/1200x630/b5509f16757fc99b53dfa85df279ef6c/ukraine-gas-pipeline-battle-kupiansk.png"
-  },
-  {
-   "id": "td17-mundo-06",
-   "title": "Papa Leão pede \"menos guerra, menos divisão\" nos EUA",
-   "summary": "Na volta de uma viagem pela América Latina, o papa Leão XIV pediu menos polarização política nos EUA após as eleições de meio de mandato. Ele também comentou o debate sobre padres casados.",
-   "highlights": [
-    "Papa nascido em Chicago se definiu \"um gringo em muitos sentidos\"",
-    "Defendeu diálogo e reconciliação",
-    "Disse que votar é dever de todo cidadão americano"
-   ],
-   "body": "Em conversa com jornalistas no voo de volta a Roma, após extensa viagem pela América Latina, o papa Leão XIV pediu menos polarização política nos Estados Unidos depois das eleições de meio de mandato. \"Gostaria de ver maior capacidade de diálogo, de construir pontes, reconciliação, menos controvérsia, menos guerra, menos divisão\", disse.\n\nO pontífice nascido em Chicago, que confirmou ter votado nas eleições de 2026, afirmou que participar do processo eleitoral é dever de todos os cidadãos americanos e falou de sua identidade americana. Ele também abordou o debate sobre a ordenação de homens casados.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/pope-leo-less-war-less-us-division-married-priests-debate/",
-   "published_at": "2026-11-17T11:02:10-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/a4ac1a9f-5119-477f-83a1-03a516856255/thumbnail/1200x630g2/094a2076d8c839bbc5cf3a5d6052b602/pope-leo-2304983213.jpg"
-  },
-  {
-   "id": "td17-mundo-07",
-   "title": "China demite cientista após morte de menina em teste genético",
-   "summary": "Um cientista chinês que ocultou a morte de uma menina de 6 anos em um ensaio de edição genética foi demitido após investigação do governo, segundo a mídia estatal. A morte não constava do estudo publicado na revista Nature.",
-   "highlights": [
-    "Pesquisador responsável é o neurocientista Zilong Qiu",
-    "Terapia buscava corrigir condição que não ameaçava a vida",
-    "Caso foi revelado por Science e Retraction Watch em julho"
-   ],
-   "body": "Um cientista chinês que escondeu a morte de uma menina de 6 anos em um ensaio de edição genética foi demitido após investigação do governo, informou a mídia estatal. A criança morreu no ano passado depois de receber uma terapia experimental para corrigir uma condição que não ameaçava sua vida.\n\nO neurocientista Zilong Qiu, líder do estudo, não mencionou a menina em artigo publicado na revista Nature, segundo investigação conjunta da Science e do Retraction Watch divulgada em julho. O hospital havia permitido o tratamento sob uma regra que dispensa aprovação de reguladores nacionais.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/girl-dies-gene-editing-trial-scientist-fired-china-state-media/",
-   "published_at": "2026-11-17T11:01:58-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/bee4748b-1257-48d1-8edc-6b64b7a12b9f/thumbnail/1200x630/a378c46bcbb755c1f2f062fdac004a79/ap20303494121847.jpg"
-  },
-  {
-   "id": "td17-mundo-01",
-   "title": "Trump anuncia acordos de minerais críticos com o Quad",
-   "summary": "Em Manila, Trump disse que os países do Quad (EUA, Índia, Austrália e Japão) fecharam acordos para proteger cadeias de suprimento de minerais críticos. Segundo ele, o objetivo é evitar \"coerção de qualquer fornecedor estrangeiro\".",
-   "highlights": [
-    "Reunião com Modi, Albanese e Takaichi nas Filipinas",
-    "Trump não citou a China, que domina as terras raras",
-    "Viagem pela Ásia inclui cúpula com Putin e Xi"
-   ],
-   "body": "O presidente Donald Trump afirmou que os membros do Quad, grupo de segurança formado por EUA, Índia, Austrália e Japão, chegaram a acordos para garantir cadeias de suprimento de minerais críticos. Ele se reuniu em Manila com o premiê indiano Narendra Modi, o australiano Anthony Albanese e a japonesa Sanae Takaichi.\n\nTrump disse que os acordos buscam impedir a \"coerção por qualquer fornecedor estrangeiro único\", sem mencionar diretamente a China, que domina o mercado global de terras raras. A passagem pelas Filipinas abre uma viagem pela Ásia que inclui uma cúpula com Vladimir Putin e Xi Jinping prevista para esta semana, segundo a CBS News.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila",
-   "published_at": "2026-11-17T10:59:41-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc51e7ef84-1794920935.jpg?resize=1920%2C1440"
+   "url": "https://www.cbsnews.com/news/us-military-plane-irish-airport/",
+   "published_at": "2026-11-17T17:54:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/dcefafe0-11fa-4a58-a5e9-c006f2077236/thumbnail/1200x630/e9ff760615ea5a8a32ff6de58d029c06/ap26321776390699.jpg"
   },
   {
    "id": "weston-02-20261117-md",
@@ -325,276 +341,324 @@
    "image_url": "https://westonjournal.com/img/weston-commission-swearing-in-nov-16.webp"
   },
   {
-   "id": "td17-miami-05",
-   "title": "FBI prende suspeito de assalto a Burger King no Halloween",
-   "summary": "Um homem com condenação anterior foi preso pelo FBI acusado de assaltar à mão armada três funcionários de um Burger King perto de Miami Gardens na manhã do Halloween. Ele agora responde a acusações federais.",
+   "id": "mn18-miami-01",
+   "title": "Enchentes fecham todas as escolas públicas de Broward nesta quarta",
+   "summary": "Fortes chuvas na noite de terça e na manhã de quarta causaram grandes alagamentos no Sul da Flórida. As Escolas Públicas do Condado de Broward fecharam todas as unidades e escritórios nesta quarta, 18.",
    "highlights": [
-    "Suspeito é Lavarise Gibson, 42, de Miami Gardens",
-    "Prisão ocorreu em operação da SWAT do FBI na sexta",
-    "Ele já cumpriu pena por outro assalto armado"
+    "Fechamento inclui atividades antes e depois das aulas",
+    "Decisão sobre quinta-feira sai ao longo do dia",
+    "Autoridades pedem cautela nas ruas alagadas"
    ],
-   "body": "Um homem já condenado por crime assustou três funcionários de um Burger King em Miami-Dade na manhã do Halloween ao assaltá-los sob a mira de uma arma, segundo as autoridades. Ele agora enfrenta acusações federais.\n\nLavarise Gibson, 42 anos, de Miami Gardens, foi preso após uma operação da equipe SWAT do FBI em sua casa na sexta-feira. Ele já havia cumprido pena em prisão estadual por outro assalto à mão armada, segundo documentos judiciais obtidos pela Local 10.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/17/feds-nab-felon-for-halloween-robbery-at-burger-king-near-miami-gardens-court-docs-say/",
-   "published_at": "2026-11-17T13:35:16-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/3GE4SSTXW5HRHPSHMIV75IZQN4.jpg?auth=8d839be6fd48cc3db824203dbdb1e05884078d92344002922cda28136569b01d&width=700"
-  },
-  {
-   "id": "td17-miami-02",
-   "title": "Alerta de chuva forte e alagamentos no Sul da Flórida",
-   "summary": "A CBS News Miami emitiu alerta meteorológico para chuvas fortes que podem alagar ruas na costa leste do Sul da Flórida a partir desta tarde. Um alerta de inundação vale das 17h de terça até quinta à noite.",
-   "highlights": [
-    "Maiores acumulados previstos na costa de Palm Beach e Broward",
-    "Totais prováveis de 5 a 10 cm até sexta",
-    "Ventos fortes também agitam o mar nas praias"
-   ],
-   "body": "A equipe de meteorologia da CBS News Miami emitiu um NEXT Weather Alert para rodadas de chuva forte que podem provocar alagamentos de ruas na costa leste do Sul da Flórida, de terça à tarde até quarta. Um alerta de inundação (flood watch) vale para todo o Sudeste da Flórida das 17h desta terça até a noite de quinta.\n\nUm sistema de baixa pressão no Golfo está estacionado perto da Flórida, concentrando umidade sobre a península, enquanto ventos de leste-nordeste sopram do Atlântico. Os maiores acumulados são esperados na faixa costeira de Palm Beach e Broward, com 2 a 4 polegadas (5 a 10 cm) até sexta, embora haja incerteza sobre onde as faixas mais intensas vão se formar.",
+   "body": "Grandes alagamentos foram registrados em todo o Sul da Flórida após sucessivas pancadas de chuva forte na noite de terça-feira e na manhã de quarta. Por isso, as Escolas Públicas do Condado de Broward (BCPS) fecharam todas as escolas e escritórios do distrito nesta quarta-feira, 18 de novembro.\n\nO fechamento inclui programas de cuidado antes e depois das aulas, atividades extracurriculares e eventos do distrito. As autoridades pediram cautela à população e informaram que a decisão sobre reabrir as escolas na quinta-feira será tomada ao longo desta quarta.",
    "category": "miami",
    "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-november-17-2026/",
-   "published_at": "2026-11-17T13:04:11-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/bfc3627e-f9f6-4867-98bf-117731b79757/thumbnail/1200x630/0a3dd014d9d7023fe55f0d5ebcd7c4ab/alert-day.png"
+   "url": "https://www.cbsnews.com/miami/news/south-florida-flooding-broward-miami-dade-roads-closed-november-2026/",
+   "published_at": "2026-11-18T06:40:44-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/143bcda0-b697-4727-bbdc-72c543343b8e/thumbnail/1200x630/a139a054c2f1679fac51a9b9921750bc/snapshot.jpg"
   },
   {
-   "id": "td17-miami-04",
-   "title": "Outra examinadora do DMV em Broward é presa por fraude",
-   "summary": "A Patrulha Rodoviária da Flórida prendeu uma segunda examinadora de carteiras de motorista em Broward em poucos dias. Lynnette Stitt Williams, 56, responde a 360 acusações de crimes graves.",
+   "id": "mn18-miami-03",
+   "title": "Alerta de criança desaparecida para bebê de 2 meses visto em Homestead",
+   "summary": "Autoridades emitiram um Alerta de Criança Desaparecida na Flórida para King Cambridge, de 2 meses, visto pela última vez em Homestead. Ele está desaparecido desde 16 de outubro.",
    "highlights": [
-    "Prisão ocorreu na segunda-feira",
-    "Outra examinadora foi presa na quinta com 77 acusações",
-    "Casos parecem não estar relacionados"
+    "Bebê pode estar com Paris Lowery, de 34 anos",
+    "Os dois podem estar no norte de Miami-Dade",
+    "Informações: 1-888-356-4774 ou 911"
    ],
-   "body": "Agentes da Florida Highway Patrol prenderam uma segunda examinadora de carteiras de motorista no condado de Broward em poucos dias, em um caso aparentemente sem relação com o anterior. Lynnette Stitt Williams, 56 anos, de Miami, foi presa na segunda-feira e enfrenta 360 acusações de crimes graves.\n\nNa quinta-feira, a examinadora Quonteria Lameshae Dixon, 37, do noroeste de Miami-Dade, havia sido presa com 77 acusações. Ambas são acusadas de fraude, mas as alegações parecem distintas, segundo a Local 10.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/17/another-south-florida-dmv-worker-accused-of-fraud-this-one-faces-360-felonies/",
-   "published_at": "2026-11-17T12:44:46-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-17-2026%2Ft_94e5c4f714b04f77ba754cd162fe682c_name_49695933143_hdtv.jpg?auth=9f06d26f09c1e409ecc67431978081772a6c6a968622dc060f94d577203818e3&width=700"
-  },
-  {
-   "id": "td17-miami-03",
-   "title": "Vento derruba muro de obra em Lighthouse Point",
-   "summary": "Ventos fortes derrubaram um muro de blocos de concreto sem apoio em uma casa em construção em Lighthouse Point, em Broward. Ninguém estava no local e não houve feridos.",
-   "highlights": [
-    "Queda ocorreu na manhã de terça perto do bloco 2800 da NE 35th Court",
-    "Blocos danificaram a cerca de um vizinho",
-    "Parte do material caiu dentro de uma piscina"
-   ],
-   "body": "Uma casa em construção em Lighthouse Point, no condado de Broward, desabou parcialmente por causa dos ventos fortes desta terça-feira. Segundo a polícia, o vento derrubou um muro de blocos de concreto sem apoio na obra, perto do bloco 2800 da Northeast 35th Court.\n\nNinguém estava no local no momento e não houve feridos. Alguns blocos danificaram a cerca de uma propriedade vizinha e caíram na piscina.",
+   "body": "O Departamento de Polícia da Flórida (FDLE) emitiu um Alerta de Criança Desaparecida para King Cambridge, bebê de 2 meses visto pela última vez no quarteirão 3000 da Northeast 41st Terrace, em Homestead. Ele está desaparecido desde 16 de outubro.\n\nSegundo os investigadores, o bebê pode estar com Paris Lowery, de 34 anos, que tem 1,57 m, cabelos pretos, olhos castanhos e um piercing abaixo do lábio. Os dois podem estar circulando pelo norte de Miami-Dade. As autoridades pedem que ninguém se aproxime e que informações sejam passadas ao FDLE (1-888-356-4774), à polícia de Homestead (305-247-1535) ou ao 911.",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/broward/lighthouse-point-construction-wall-collapse/",
-   "published_at": "2026-11-17T12:32:47-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-lighthouse-point-partial-collapse.png"
+   "url": "https://wsvn.com/news/local/miami-dade/king-cambridge-missing-homestead/",
+   "published_at": "2026-11-18T05:44:18-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261118_Paris_Lowery_and_Cameron_King_missing_baby.png"
   },
   {
-   "id": "td17-miami-07",
-   "title": "Costa da Flórida, já encharcada, se prepara para mais chuva",
-   "summary": "Moradores da costa leste da Flórida, que ainda limpam os estragos das chuvas históricas do início de novembro, se preparam para nova rodada de temporais. As chuvas devem se concentrar no corredor da I-95.",
+   "id": "mn18-miami-02",
+   "title": "Chuva torrencial alaga a I-95 e estacionamentos em Broward e Miami-Dade",
+   "summary": "Uma chuva torrencial na noite de terça inundou rodovias, cruzamentos e estacionamentos em Broward e Miami-Dade, com alerta de enchente repentina para o sul de Broward. A chuva chegou a cerca de 3 polegadas por hora.",
    "highlights": [
-    "Sistema semelhante trouxe mais de 50 cm de chuva a Brevard",
-    "Umidade do Golfo e ventos de leste convergem na costa",
-    "Solo saturado aumenta o risco de alagamentos"
+    "Tamarac registrou mais de 3 polegadas de chuva só na terça",
+    "I-95 norte ficou alagada perto da saída de Miami Gardens Drive",
+    "Carros ficaram presos em estacionamentos no nordeste de Miami-Dade"
    ],
-   "body": "Enquanto moradores da costa leste da Flórida ainda limpam os estragos das chuvas históricas do início de novembro, uma nova rodada de chuva forte pode trazer mais problemas nesta semana.\n\nUm sistema semelhante ao que provocou enchentes repentinas e mais de 20 polegadas (cerca de 50 cm) de chuva no condado de Brevard deve puxar umidade profunda do Golfo, enquanto fortes ventos de leste convergem ao longo do Atlântico. As maiores coberturas de chuva devem ficar novamente no corredor da I-95.",
+   "body": "Chuvas torrenciais atingiram os condados de Broward e Miami-Dade na noite de terça-feira, submergindo rodovias, cruzamentos de bairros e estacionamentos de shoppings, e levando à emissão de um alerta de enchente repentina para o sul de Broward, com taxas de chuva de cerca de 3 polegadas (7,6 cm) por hora.\n\nEm Tamarac, a água cobriu o cruzamento da Northwest 84th Terrace com a Commercial Boulevard; a cidade registrou mais de 3 polegadas de chuva só na terça. Por volta das 20h40, a visibilidade era ruim na Interstate 95 sentido norte, alagada cerca de uma milha antes da saída de Miami Gardens Drive. Em um centro comercial no nordeste de Miami-Dade, frequentadores de academia encontraram o estacionamento inundado.",
    "category": "miami",
-   "source": "AP / Local 10",
-   "url": "https://www.local10.com/weather/2026/11/17/already-saturated-florida-coast-braces-for-more-rain-and-potential-flooding/",
-   "published_at": "2026-11-17T11:43:33-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XGRUKZZ2ZNCCDBPRCPIHY5JQRI.png?auth=2802c899926928246e0ac4e8968769e144a19403d45b7e61669fce477493fc88&width=700"
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/tuesday-nov-17-2026-night-flash-flood-warning-broward-i-95-tamarac-margate-shopping-plaza/",
+   "published_at": "2026-11-17T23:51:33-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/fd592f2c-ee57-45f5-b534-baa44c6e1e91/thumbnail/1200x630/1860e8bba887c44f8f48fb089b5720db/snapshot-14.jpg"
   },
   {
-   "id": "td17-miami-06",
-   "title": "\"GTA VI\" coloca o Sul da Flórida em destaque",
-   "summary": "O lançamento de \"Grand Theft Auto VI\" chama atenção para a história e a arquitetura do Sul da Flórida. A Vice City do jogo é inspirada em Miami.",
+   "id": "mn18-miami-04",
+   "title": "Miami-Dade avança plano de US$ 3,9 mi para segurança no trânsito perto de escolas",
+   "summary": "Comissários de Miami-Dade aprovaram o avanço de uma proposta de quase US$ 3,9 milhões para melhorar a segurança viária em torno de sete escolas, incluindo a North Miami Senior High.",
    "highlights": [
-    "Desenvolvedores reproduziram prédios icônicos da região",
-    "Expectativa pelo jogo é \"astronômica\", diz entrevistada",
-    "Cultura local aparece em detalhes no game"
+    "Plano beneficia alunos que vão a pé ou de bicicleta",
+    "Cruzamento da NE 135th St com NE 7th Ave teve 79 acidentes entre 2019 e 2024",
+    "21 desses acidentes tiveram mortos ou feridos"
    ],
-   "body": "O Sul da Flórida ganhou papel central em \"Grand Theft Auto VI\". A Vice City do jogo é inspirada em Miami, e os desenvolvedores reproduziram prédios icônicos e traços da cultura local, segundo a WSVN.\n\n\"É um jogo fundamental, desenvolvido muito além da maioria dos outros jogos. A expectativa pelo lançamento é astronômica\", disse Julie Fornary à emissora. A reportagem destaca como o game evidencia a história e a arquitetura da região.",
+   "body": "Milhões de dólares podem em breve ser destinados a tornar mais seguras as ruas usadas por estudantes em Miami-Dade, inclusive os que vão à escola a pé ou de bicicleta. A North Miami Senior High School é uma das sete escolas incluídas na proposta de quase US$ 3,9 milhões, que avançou na comissão do condado.\n\nSegundo o plano de segurança viária Vision Zero de North Miami, foram registrados 79 acidentes no cruzamento da Northeast 135th Street com a Northeast 7th Avenue entre 2019 e 2024, 21 deles com mortos ou feridos. A estudante Perla Hernandez contou ter presenciado um quase atropelamento enquanto esperava o ônibus no local.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/miami-dade-commissioners-advance-3-9-million-school-traffic-safety-plan-for-seven-campuses/",
+   "published_at": "2026-11-17T23:12:28-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/23239c59-9396-4e2b-bc7b-264eccd62ea8/thumbnail/1200x630/9e2fe156fa9f98832f5bbcd608ddc7aa/screenshot-2026-11-17-at-11-09-44-pm.png"
+  },
+  {
+   "id": "mn18-miami-07",
+   "title": "Donos de condomínio em Pembroke Pines esperam reconstrução 5 anos após incêndio",
+   "summary": "Proprietários de unidades no Westview Condominiums, em Pembroke Pines, perderam seus imóveis num incêndio em fevereiro de 2021 e ainda aguardam a reconstrução. Eles dizem que a associação não responde às perguntas.",
+   "highlights": [
+    "Incêndio atingiu o prédio 7 em 16 de fevereiro de 2021",
+    "Veterano da Marinha vive de aluguel em Maryland enquanto espera",
+    "Investigação é da equipe da 7News"
+   ],
+   "body": "Moradores que perderam seus apartamentos em um grande incêndio há quase cinco anos em Pembroke Pines ainda esperam que a associação de condôminos reconstrua o prédio, segundo investigação da 7News. O fogo atingiu o prédio sete do Westview Condominiums em 16 de fevereiro de 2021.\n\nNestor Palma, que se aposentou após 20 anos na Marinha dos EUA e comprou sua unidade em 2015 para ficar perto da família, hoje aluga um apartamento em Maryland. \"Já passei da frustração. Estou muito irritado\", disse. Os proprietários afirmam que suas perguntas sobre quando poderão voltar seguem sem resposta.",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/entertainment/gta-vi-south-florida-detail/",
-   "published_at": "2026-11-17T11:32:46-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-GTA-VI-shining-a-spotlight-on-South-Floridas-rich-history-and-architecture.png"
+   "url": "https://wsvn.com/news/investigations/pembroke-pines-condo-fire-delay/",
+   "published_at": "2026-11-17T23:03:58-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-7Investigates-Condo-Fire.png"
   },
   {
-   "id": "td17-miami-01",
-   "title": "Taxista é preso após atropelar menino na Ocean Drive",
-   "summary": "A polícia de Miami Beach prendeu um taxista que, segundo as autoridades, atropelou um menino de 9 anos na Ocean Drive e fugiu. Ele dirigia com carteira suspensa e estava em liberdade condicional por fraude.",
+   "id": "mn18-miami-10",
+   "title": "Fãs de GTA VI visitam Miami e Heat terá noite temática \"Vice City\"",
+   "summary": "Fãs que vieram ao Sul da Flórida para celebrar o lançamento de \"Grand Theft Auto VI\" estão encantados com as ações promocionais na cidade. O Miami Heat fará a noite \"A Night in Vice City\" no jogo desta quarta.",
    "highlights": [
-    "Acidente ocorreu domingo de manhã perto da Sixth Street",
-    "Motorista identificado como Anson Jean-Pierre, 64",
-    "Criança teve ferimentos no rosto e foi levada ao Holtz Children's"
+    "Jogo do Heat contra o Milwaukee Bucks terá quadra especial rosa e azul",
+    "Ações ocorrem no Kaseya Center e arredores",
+    "GTA VI é o primeiro título principal da série desde 2013"
    ],
-   "body": "Um taxista em liberdade condicional por fraude dirigia com a carteira suspensa quando atropelou um menino de 9 anos na Ocean Drive e fugiu, segundo a polícia de Miami Beach. O caso ocorreu no domingo de manhã perto da Sixth Street, e o motorista foi identificado como Anson Jean-Pierre, 64 anos, de North Miami.\n\nDe acordo com o relatório policial, o menino brincava no Lummus Park por volta das 9h10 quando correu em direção à Ocean Drive na frente da van. Ele sofreu ferimentos no rosto, incluindo um dente deslocado, e foi levado ao Holtz Children's Hospital, no Jackson Memorial.",
+   "body": "Fãs que viajaram ao Sul da Flórida para comemorar o lançamento de \"Grand Theft Auto VI\" estão aproveitando as ações promocionais na cidade que inspira a Vice City do jogo. Edgar Flores e o pai vieram de Orlando para comparar a cidade real à versão do game, o primeiro lançamento principal da Rockstar Games desde 2013.\n\nEm uma das ações de maior destaque, o Miami Heat se uniu à Rockstar para promover \"A Night in Vice City\" no jogo contra o Milwaukee Bucks nesta quarta-feira, com atividades no Kaseya Center e arredores. O time mostrou a quadra especial nas cores rosa e azul que será usada apenas nessa partida.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/entertainment/rockstar-games-vice-city-promotion/",
+   "published_at": "2026-11-17T22:59:35-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-gta-6-kaseya-center-miami-heat.png"
+  },
+  {
+   "id": "mn18-miami-06",
+   "title": "Vídeo mostra prisão de homem embriagado que atirou em terminal do MIA",
+   "summary": "Imagens de câmeras corporais obtidas pela 7News mostram agentes do Gabinete do Xerife de Miami-Dade prendendo o homem que disparou contra um terminal do Aeroporto Internacional de Miami em 23 de setembro.",
+   "highlights": [
+    "Suspeito identificado como Francisco Ivan Mendiola, de 31 anos",
+    "Tiros partiram do 2º andar de um estacionamento",
+    "Bala atingiu lixeira e para-brisa de um carro vazio"
+   ],
+   "body": "Vídeos exclusivos de câmeras corporais obtidos pela 7News mostram agentes do Gabinete do Xerife de Miami-Dade chegando ao Aeroporto Internacional de Miami na tarde caótica de 23 de setembro, após relatos de tiros que fizeram passageiros procurarem abrigo. Os disparos partiram do segundo andar de um estacionamento.\n\nOs agentes localizaram e prenderam o suspeito, Francisco Ivan Mendiola, de 31 anos. Segundo a polícia, ele estava embriagado, sentado em um banco, quando carregou a arma e atirou contra um terminal; uma das balas atingiu uma lixeira e o para-brisa de um Dodge Challenger desocupado.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/miami-dade/miami-international-airport-shooting-arrest/",
+   "published_at": "2026-11-17T22:52:23-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111726-arrest-of-31-year-old-Francisco-Ivan-Mendiola.jpg?quality=60&strip=color"
+  },
+  {
+   "id": "mn18-miami-09",
+   "title": "Keys relembra casal assassinado por homem que será executado na quinta",
+   "summary": "A Flórida prevê realizar nesta quinta sua 20ª execução do ano: Thomas Overton, condenado há 30 anos pelo assassinato de um casal nas Florida Keys. Amigos e moradores pedem que as vítimas sejam lembradas.",
+   "highlights": [
+    "Mike e Susan \"Missy\" MacIvor foram mortos em 1991 em Tavernier",
+    "Missy estava grávida de oito meses",
+    "Execução está marcada para a Florida State Prison"
+   ],
+   "body": "A Flórida deve realizar nesta semana sua 20ª execução do ano. Thomas Overton, condenado há 30 anos pelo assassinato de um casal querido nas Florida Keys, está com execução marcada para quinta-feira na Florida State Prison. Moradores e amigos querem que as vítimas, Mike e Susan \"Missy\" MacIvor, sejam lembradas.\n\nO casal vivia em Tavernier. Missy, grávida de oito meses, ia começar o ano letivo como professora na Key Largo School. Em 22 de agosto de 1991, segundo o xerife do condado de Monroe, um invasor subiu uma escada para entrar na casa e matou o casal. \"Todos nos apaixonamos por eles\", disse o deputado estadual Jim Mooney à Local 10.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/17/taxi-driver-with-suspended-license-injures-child-in-ocean-drive-hit-and-run-cops-say/",
-   "published_at": "2026-11-17T11:26:40-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XPHKDD2M6ZG2LP747GLJTVECEM.jpg?auth=89e98bb9c0eb9b3d3ebd944a592d7fac79676bbdc336af73bfbe9bcd3bd5f05c&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/17/loved-ones-remember-keys-couple-murdered-by-man-set-for-execution-this-week/",
+   "published_at": "2026-11-17T22:41:17-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-18-2026%2Ft_aff6200519374425bfb643da0014840e_name_49704586631_hdtv.jpg?auth=629edfaffe66ac05d8d3424110667c8436f8470c0b8f8852f0e27f60a84a5cb7&width=700"
   },
   {
-   "id": "td17-tecnologia-06",
-   "title": "Califórnia proíbe Waymo em todas as rodovias expressas do estado",
-   "summary": "O DMV da Califórnia suspendeu as corridas sem motorista da Waymo em todas as freeways do estado, citando riscos à segurança. A proibição está em vigor desde 11 de novembro.",
+   "id": "mn18-miami-05",
+   "title": "North Miami dá posse ao prefeito eleito George Morgan após reviravolta judicial",
+   "summary": "North Miami empossaria na terça à noite o prefeito eleito George Morgan, depois que um juiz reverteu ordem que bloqueava a cerimônia. O prefeito em fim de mandato, Alix Desulme, promete continuar a briga judicial.",
    "highlights": [
-    "Robotáxis entraram em área de obras na US-101",
-    "Houve também incidente com a polícia rodoviária na Highway 280",
-    "Medida vale para todo o estado"
+    "Desulme alega que Morgan pagou 80 centavos a menos na taxa de candidatura",
+    "Morgan não negou o erro",
+    "Funcionamento da secretaria municipal também é questionado"
    ],
-   "body": "A Califórnia proibiu as corridas sem motorista da Waymo em todas as rodovias expressas do estado, citando potenciais riscos de segurança. Segundo comunicado do Departamento de Veículos Motorizados (DMV), a proibição entrou em vigor em 11 de novembro.\n\nA medida vem após dois incidentes recentes na região da Baía de São Francisco: robotáxis da Waymo entraram em uma área de obras interditada na US-101, perto de Burlingame, e houve outro episódio envolvendo viaturas da California Highway Patrol na Highway 280.",
+   "body": "A cidade de North Miami se preparava para empossar um novo prefeito na noite de terça-feira, em meio a uma disputa judicial sobre se ele estava habilitado a concorrer. O prefeito em fim de mandato, Alix Desulme, disse que um juiz reverteu a ordem da segunda-feira que bloqueava a cerimônia.\n\nDesulme argumenta que George Morgan deveria ter sido desqualificado por ter pago 80 centavos a menos na taxa de qualificação. Morgan não negou: \"Podemos cometer erros. A questão é o que fazemos quando erramos\". Antes, foi Morgan quem conseguiu desqualificar Desulme, que teria usado cheques administrativos em vez da conta de campanha exigida. Desulme diz que seguirá na Justiça mesmo após a posse.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/north-miami-george-morgan-swearing-in-judge-reverses-order-desulme-legal-challenge-clerk/",
+   "published_at": "2026-11-17T18:44:29-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/6147cb90-f552-4883-b1f3-4d1b1cc6e593/thumbnail/1200x630/76ff2e25759077436545a5851f4b3957/snapshot-8.jpg"
+  },
+  {
+   "id": "mn18-miami-08",
+   "title": "Idosa de Miami-Dade perde mais de US$ 200 mil em golpe; jovem é acusado",
+   "summary": "Uma mulher de 77 anos do sudoeste de Miami-Dade foi vítima de um golpe de mais de US$ 200 mil, segundo o Gabinete do Xerife. Emanuele Vito De-Caria, de 27 anos, de Sunny Isles Beach, foi acusado.",
+   "highlights": [
+    "Golpista se passou por suporte técnico",
+    "Vítima transferiu US$ 200 mil e entregou US$ 30 mil em dinheiro",
+    "Polícia orienta desconfiar de ligações em nome de bancos e governo"
+   ],
+   "body": "Uma idosa de 77 anos do sudoeste de Miami-Dade foi enganada em mais de US$ 200 mil por uma organização criminosa, segundo o Gabinete do Xerife de Miami-Dade. Emanuele Vito De-Caria, de 27 anos, morador de Sunny Isles Beach, foi acusado de fraude organizada e furto contra idoso.\n\nDe acordo com o boletim de prisão, a vítima recebeu ligação de um homem que dizia ser de uma empresa de suporte técnico e alegava que mais de US$ 100 mil haviam sido enviados por engano para a conta dela. Ela transferiu US$ 200 mil para contas desconhecidas e entregou US$ 30 mil em espécie a um mensageiro. O detetive Bryan Young alertou o público a desconfiar de contatos em nome de bancos, órgãos do governo e polícia.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/man-charged-organized-fraud-elderly-southwest-miami-dade-woman-november-2026/",
+   "published_at": "2026-11-17T18:03:57-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/e78c0a62-8add-4e63-9c1b-5b31c0d10782/thumbnail/1200x630/160ccd740011c7128cb4c89e3472e60a/gettyimages-2180329966.jpg"
+  },
+  {
+   "id": "mn18-tecnologia-08",
+   "title": "Suno passa a criar vídeos com IA para as músicas geradas na plataforma",
+   "summary": "A Suno lançou o recurso \"Visuals\", que transforma músicas em clipes de vídeo gerados por IA com sincronia labial e cria imagens a partir de texto para capas e miniaturas.",
+   "highlights": [
+    "Disponível na web, iOS e Android",
+    "Clipes de até 15 segundos por trecho da música",
+    "Imagem de referência pode ser preset, foto própria ou gerada"
+   ],
+   "body": "A Suno, plataforma de música feita por inteligência artificial, lançou o recurso \"Visuals\", que permite transformar canções em clipes de vídeo gerados por IA com sincronia labial automática com a letra, além de criar imagens por descrição em texto para usar como miniaturas e capas de álbum.\n\nA função está disponível na web, no iOS e no Android, em uma nova aba dentro do modo Create. O usuário escolhe um trecho da música de até 15 segundos e uma imagem de referência — um personagem pré-definido da Suno, uma foto própria ou uma imagem gerada na própria plataforma.",
    "category": "tecnologia",
    "source": "The Verge",
-   "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
-   "published_at": "2026-11-17T14:38:05-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25211546/Waymo_One_I_PACE_on_Freeway_.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+   "published_at": "2026-11-18T06:16:53-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-   "id": "td17-tecnologia-08",
-   "title": "WhatsApp testa backup próprio e gratuito na nuvem no Android",
-   "summary": "O WhatsApp começou a liberar em beta no Android uma opção própria de backup na nuvem, sem depender do Google Drive. O recurso inclui 2 GB gratuitos.",
+   "id": "mn18-tecnologia-07",
+   "title": "GTA VI chega após mais de uma década de espera",
+   "summary": "Grand Theft Auto VI chega em 19 de novembro para PS5 e Xbox Series X/S, em um dos lançamentos de videogame mais aguardados da história. O antecessor vendeu mais de 230 milhões de cópias.",
    "highlights": [
-    "Recurso aparece na versão beta 2.26.46.4",
-    "Até agora o app dependia do Google Drive",
-    "Novidade foi detectada pelo WABetaInfo"
+    "Disponível para PS5 e Xbox Series X/S",
+    "GTA V vendeu mais de 230 milhões de cópias em 13 anos",
+    "Espera foi marcada por vazamentos e adiamentos"
    ],
-   "body": "O WhatsApp está fazendo uma grande mudança nos backups de conversas: uma opção própria de armazenamento na nuvem no Android, que não depende do Google e é gratuita. Até agora, o aplicativo usava o Google Drive para transferir conversas entre aparelhos ou guardar cópias de segurança.\n\nO \"armazenamento em nuvem do WhatsApp\", identificado pelo WABetaInfo, aparece na versão beta 2.26.46.4 para Android, em distribuição agora, e inclui 2 GB de espaço gratuito.",
-   "category": "tecnologia",
-   "source": "9to5Google",
-   "url": "https://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/",
-   "published_at": "2026-11-17T14:00:00-05:00",
-   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2023/09/whatsapp-fi-04.webp?resize=1200,628"
-  },
-  {
-   "id": "td17-tecnologia-07",
-   "title": "Agente de IA do Google vira \"Tasks\" e fica gratuito",
-   "summary": "O Google rebatizou seu agente de IA Spark como \"Tasks\" e passou a oferecê-lo de graça. A ferramenta usa o novo modelo Gemini 4 Hydrogen.",
-   "highlights": [
-    "Cria planos de refeição e gerencia a agenda",
-    "Nos EUA, pode ligar para empresas e comprar com Google Pay",
-    "Gratuito em seis países, segundo o 9to5Google"
-   ],
-   "body": "O Google está rebatizando seu agente de IA Spark como \"Tasks\" e tornando-o gratuito. Movido pelo novo modelo Gemini 4 Hydrogen, ele pode criar planos de refeição, administrar a agenda e vasculhar e-mails em busca de despesas recorrentes desnecessárias.\n\nNos EUA, os usuários terão recursos extras, como permitir que o agente ligue para empresas para comparar preços e checar estoque, faça compras com o Google Pay e entre em contas compatíveis.",
+   "body": "Mais de uma década depois do lançamento de Grand Theft Auto V, a sequência finalmente chega: GTA VI fica disponível em 19 de novembro para PlayStation 5 e Xbox Series X/S, no que o The Verge descreve como possivelmente o lançamento de videogame mais aguardado de todos os tempos.\n\nParte da expectativa vem do sucesso do antecessor, que vendeu mais de 230 milhões de cópias em 13 anos, e parte do longo intervalo entre os jogos, marcado por vazamentos e adiamentos. O site reúne análise do jogo, entrevistas com a equipe da Rockstar e notícias sobre a recepção dos jogadores.",
    "category": "tecnologia",
    "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-   "published_at": "2026-11-17T13:58:01-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+   "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+   "published_at": "2026-11-18T06:06:16-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
   },
   {
-   "id": "td17-tecnologia-02",
-   "title": "Anthropic mantém IPO mesmo com mercado nervoso",
-   "summary": "A Anthropic, dona do chatbot Claude, segue com sua oferta inicial de ações apesar do temor de bolha de IA e da alta dos custos de financiamento. A operação pode levantar mais de US$ 60 bilhões na quinta-feira.",
+   "id": "mn18-tecnologia-02",
+   "title": "Exército chinês busca chips avançados da Nvidia, diz comissão dos EUA",
+   "summary": "Uma comissão do Congresso americano afirma que o Exército de Libertação Popular da China tem buscado \"ativamente\" os chips mais avançados da Nvidia para desenvolver capacidades militares com IA.",
    "highlights": [
-    "IPO pode rivalizar com o da SpaceX, em junho",
-    "Democratas prometem endurecer regras para o setor",
-    "Investidores estão receosos com uma bolha de IA"
+    "Relatório anual da comissão EUA-China foi divulgado nesta quarta",
+    "China tenta driblar controles de exportação, segundo o texto",
+    "Chips chineses de Huawei e Cambricon ficam atrás dos americanos"
    ],
-   "body": "Investidores temem uma bolha de inteligência artificial, os custos de financiamento sobem e democratas prometem endurecer a regulação do setor. Mesmo assim, a Anthropic, criadora do chatbot Claude, segue adiante com sua oferta pública inicial de ações, segundo a Associated Press.\n\nA operação pode levantar mais de US$ 60 bilhões na quinta-feira, valor que, dependendo do preço final, pode rivalizar com o IPO da SpaceX realizado em junho.",
+   "body": "O Exército de Libertação Popular da China vem \"solicitando ativamente\" os semicondutores mais avançados da Nvidia para desenvolver capacidades militares baseadas em inteligência artificial, segundo o relatório anual de 2026 da Comissão de Revisão Econômica e de Segurança EUA-China, divulgado nesta quarta-feira ao Congresso.\n\n\"A China busca driblar os controles de exportação dos EUA para obter os semicondutores mais avançados\", diz o texto, citando a defasagem entre os chips de empresas chinesas, como Huawei e Cambricon, e os de Nvidia e AMD. O relatório sai enquanto a Nvidia lida com a renúncia de Jensen Huang, após reportagens sobre um caso dele com uma suposta espiã chinesa ligada à Megaspeed, empresa de Singapura investigada por possível desvio de chips para a China.",
    "category": "tecnologia",
-   "source": "AP / Local 10",
-   "url": "https://www.local10.com/business/2026/11/17/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/",
-   "published_at": "2026-11-17T13:55:04-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/QELM5DKQ6WIPSIIJEZBD5TJSGY.jpg?auth=38e64f22811095e6d4f0b067bc6adcc04a9bc3579c6a39729f832c30195e46d3&width=700"
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+   "published_at": "2026-11-18T05:45:01-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108229164-17636513282025-11-05t081214z_2091479820_rc2nfgakvd7y_rtrmadp_0_china-chips.jpeg?v=1763651345&w=1920&h=1080"
   },
   {
-   "id": "td17-tecnologia-03",
-   "title": "OpenAI lança GPT-6.2 Astra e Sol no ChatGPT e no Codex",
-   "summary": "A OpenAI começou a liberar os modelos GPT-6.2 Astra e GPT-6.2 Sol no ChatGPT Work e no Codex. Segundo a empresa, eles concluem tarefas exigentes usando menos tokens.",
+   "id": "mn18-tecnologia-10",
+   "title": "Voyager 1 chega a um \"dia-luz\" de distância da Terra",
+   "summary": "A sonda Voyager 1, da NASA, lançada em 1977, atingiu na madrugada desta quarta a distância de um dia-luz da Terra — mais de 16 bilhões de milhas. É o objeto humano mais distante já enviado.",
    "highlights": [
-    "Astra segue como o modelo indicado para projetos mais difíceis",
-    "Menos tokens significa mais uso antes do limite",
-    "Lançamento vem uma semana após o Claude 5.2, segundo o 9to5Google"
+    "Sinais de rádio levam 24 horas para chegar à Terra",
+    "Sonda viaja a quase 38 mil milhas por hora",
+    "Voyager 1 e 2 seguem enviando dados do espaço interestelar"
    ],
-   "body": "A OpenAI anunciou os modelos GPT-6.2 Astra e GPT-6.2 Sol, que chegam juntos ao ChatGPT Work e ao Codex. A geração GPT-6 começou com o Astra em setembro, e o Sol foi atualizado para o GPT-6.1 semanas depois, no DevDay.\n\nSegundo a OpenAI, os novos modelos concluem tarefas exigentes com menos tokens de saída, permitindo fazer mais antes de atingir o limite de uso. O Astra continua sendo o recomendado para os projetos mais difíceis, como recriar uma apresentação inteira a partir da captura de tela de um slide.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
-   "published_at": "2026-11-17T12:51:47-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628"
-  },
-  {
-   "id": "td17-tecnologia-05",
-   "title": "Google Wallet chega ao iPhone nos EUA",
-   "summary": "O app Google Wallet ficou disponível para iOS nos EUA para organizar compras, ingressos, cartões de embarque e cartões de fidelidade. Por restrições da plataforma, ele não permite pagamentos por aproximação.",
-   "highlights": [
-    "App reúne compras, passagens e cartões de fidelidade",
-    "Sem pagamento por aproximação no iPhone",
-    "Visual adota o estilo Liquid Glass"
-   ],
-   "body": "O Google Wallet passou a estar disponível no iOS nos Estados Unidos, com a proposta de \"organizar compras, ingressos, cartões de embarque e mais em um só lugar\". No iPhone, porém, o app não oferece pagamento por aproximação, por restrições da plataforma.\n\nA navegação usa uma barra flutuante no estilo Liquid Glass com duas abas. A tela inicial mostra um carrossel de compras a caminho, seguido de cartões de embarque e de uma grade de cartões de fidelidade.",
-   "category": "tecnologia",
-   "source": "9to5Google",
-   "url": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
-   "published_at": "2026-11-17T12:49:25-05:00",
-   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Wallet-iOS-1.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "td17-tecnologia-04",
-   "title": "iCloud, App Store e outros serviços da Apple têm instabilidade",
-   "summary": "Usuários relataram falhas de conexão e problemas de login no iCloud, na App Store, no Apple Pay e em outros serviços da Apple nesta terça. A Apple confirmou problemas em parte dos serviços.",
-   "highlights": [
-    "Downdetector registrou relatos em vários serviços",
-    "Ativação de iPhone e Apple Support também afetados",
-    "Apple reconheceu problemas em suas páginas de status"
-   ],
-   "body": "Os serviços da Apple tiveram uma terça-feira difícil. iCloud, App Store e outros serviços apresentaram uma aparente pane, com usuários relatando falhas de conexão e dificuldade para entrar em suas contas, segundo o 9to5Mac.\n\nO Downdetector mostrou reclamações em vários serviços, entre eles App Store, iCloud, Apple Pay, Apple Support e ativação de iPhone. A Apple confirmou que alguns serviços estavam com problemas em suas páginas de status geral e para desenvolvedores.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-   "published_at": "2026-11-17T12:33:58-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "td17-tecnologia-01",
-   "title": "Jensen Huang diz que voltaria a comandar a Nvidia",
-   "summary": "Em sua primeira declaração desde que renunciou, Jensen Huang admitiu \"erros graves\" na vida pessoal e disse que aceitaria voltar como CEO da Nvidia se o conselho pedir. Ele afirmou que vai cooperar com a investigação independente.",
-   "highlights": [
-    "Huang deixou a empresa após revelações de casos extraconjugais",
-    "Diz assumir totalmente seus erros",
-    "Também aceitou depor ao Congresso em 1º de dezembro"
-   ],
-   "body": "O cofundador da Nvidia Jensen Huang quebrou o silêncio após renunciar ao cargo de CEO, depois de revelações sobre múltiplos casos extraconjugais, e disse que estaria disposto a voltar ao comando. \"Não estive à altura dos padrões esperados de todos na Nvidia e cometi erros graves na minha vida pessoal\", afirmou em comunicado nesta terça.\n\nHuang disse lamentar os problemas criados para o conselho, assumir totalmente seus erros e estar comprometido a cooperar com a investigação independente. Ele acrescentou que se sentiria honrado em voltar caso o conselho o convide. A declaração ocorre às vésperas do balanço trimestral da empresa.",
+   "body": "A sonda Voyager 1, lançada pela NASA em 1977 para fazer as primeiras imagens de perto de Júpiter, Saturno e suas luas, alcançou na madrugada desta quarta-feira (por volta das 5h16, horário de Nova York) a distância de um dia-luz da Terra — mais de 16 bilhões de milhas, cerca de 26 bilhões de km. É o ponto mais distante já alcançado por um artefato humano.\n\nA essa distância, sinais de rádio, viajando a 186 mil milhas por segundo, levam 24 horas para chegar ao controle da missão. A sonda gêmea, Voyager 2, também está no espaço interestelar desde 2018. As duas continuam enviando dados sobre campos magnéticos, partículas e plasma entre as estrelas, enquanto sua energia diminui gradualmente.",
    "category": "tecnologia",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/",
-   "published_at": "2026-11-17T11:59:55-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/51779405-afcc-4d02-9a40-4c95399dbc3e/thumbnail/1200x630/f6294eed103f0baf6b4185c0415b1e43/gettyimages-2301328017.jpg"
+   "url": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
+   "published_at": "2026-11-18T02:06:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/6bcdebd7-059f-4f17-afce-ce10719d607c/thumbnail/1200x630/9317139bc97194d9795b185740bebdcb/voyager-artist1.jpg"
   },
   {
-   "id": "td17-tecnologia-09",
-   "title": "Tesla apresenta Powercore, transformador de estado sólido",
-   "summary": "A Tesla revelou o Powercore, transformador de média tensão de estado sólido que também faz as funções de inversor e disjuntor. O equipamento, fabricado nos EUA, deve começar a operar em 2027.",
+   "id": "mn18-tecnologia-09",
+   "title": "JPMorgan testa pagamentos feitos por agentes de IA sem humanos",
+   "summary": "O JPMorgan Chase e o sul-coreano Hyundai Card testam como agentes de inteligência artificial podem fazer transações financeiras sem intervenção humana direta, inclusive negociando entre si.",
    "highlights": [
-    "Potência contínua de 7,4 MW (9 MVA) a 34,5 kV",
-    "Concorre com o Heron Link, de ex-executivo da Tesla",
-    "Tesla divulgou ficha técnica e planos para data centers"
+    "Prova de conceito simulou uma operação de câmbio",
+    "Próxima fase, com vários agentes, prevista para o 1º semestre de 2027",
+    "Projeto envolve a Kinexys, unidade de blockchain do JPMorgan"
    ],
-   "body": "A Tesla apresentou o Powercore, um transformador de média tensão de estado sólido que reúne em uma única unidade as funções de inversor e disjuntor. A empresa informa capacidade contínua de 7,4 MW (9 MVA) a 34,5 kV, com suporte de formação de rede para até 10 MVA de pico. O equipamento é fabricado nos EUA e deve entrar em operação em 2027.\n\nÉ o mesmo ano em que a Heron Power, startup fundada pelo ex-engenheiro-chefe da Tesla Drew Baglino, planeja iniciar a produção em volume do seu transformador, o Heron Link. A Tesla depois divulgou ficha técnica completa, com eficiência, garantia e planos para data centers.",
+   "body": "O JPMorgan Chase e a sul-coreana Hyundai Card estão testando como agentes de IA podem lidar com transações financeiras sem intervenção humana direta, incluindo a possibilidade de negociarem e fazerem pagamentos entre si. As empresas concluíram uma prova de conceito inicial com uma operação de câmbio simulada.\n\nA meta é iniciar no primeiro semestre de 2027 uma fase mais complexa, com múltiplos agentes. Segundo Wee Kee Toh, chefe global da Kinexys Insights, do JPMorgan, o próximo passo é observar o que acontece quando agentes autônomos vão além da execução e começam a interagir entre si em um ecossistema.",
    "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
-   "published_at": "2026-11-17T11:35:25-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Powercore.jpeg?quality=82&strip=all&resize=1200,628"
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "published_at": "2026-11-18T01:18:11-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108552580-1794869610494-gettyimages-2289913001-golba-dailylif260806_npPSj.jpeg?v=1794869642&w=1920&h=1080"
   },
   {
-   "id": "td17-tecnologia-10",
-   "title": "Elétricos da GM passam a carregar só plugando na Electrify America",
-   "summary": "Motoristas de elétricos Chevrolet, Cadillac e GMC inscritos no Energy Pass da GM agora podem iniciar a recarga em estações Electrify America apenas conectando o carro. Não é preciso app nem cartão.",
+   "id": "mn18-tecnologia-04",
+   "title": "Apple ajusta preços da App Store e anuncia novas regras de imposto na Califórnia",
+   "summary": "A Apple vai ajustar preços de apps e compras internas em cinco países a partir de 3 de dezembro, por mudanças em impostos e câmbio. Em 2027, algumas categorias passarão a pagar imposto sobre vendas na Califórnia.",
    "highlights": [
-    "Recurso Plug & Charge vale para modelos com porta CCS",
-    "Modelos com porta NACS ganham a função no início de 2027",
-    "Energia começa a fluir em cerca de 45 segundos"
+    "Mudança de preços começa em 3 de dezembro",
+    "Nova categoria fiscal \"Software como Serviço\" (SaaS)",
+    "Na Califórnia, total pago pelo cliente pode subir a partir de 1º de janeiro"
    ],
-   "body": "Motoristas de veículos elétricos Chevrolet, Cadillac e GMC inscritos no programa Energy Pass, da GM, já podem simplesmente plugar o carro em uma estação Electrify America para começar a carregar, sem aplicativo ou cartão de crédito. A cobrança é feita pelo método de pagamento vinculado.\n\nO recurso está disponível para modelos com porta CCS nativa (anteriores ao ano-modelo 2027); os mais novos, com porta NACS, ganharão a função no início de 2027. Segundo testes internos da GM, a energia começa a fluir cerca de 45 segundos após a conexão.",
+   "body": "A Apple anunciou em seu portal de desenvolvedores que os preços de apps e compras dentro de apps serão ajustados em cinco países a partir de 3 de dezembro, refletindo mudanças em impostos e taxas de câmbio. A empresa não detalhou de quanto será a mudança nem se será para cima ou para baixo; preços com gestão manual e assinaturas autorrenováveis não são afetados. Também foi criado o atributo fiscal \"Software as a Service (SaaS)\".\n\nA partir de 1º de janeiro de 2027, apps e compras nas categorias SaaS, App Store Software, Software Training Material, Dating e Boosting ficarão sujeitos a impostos sobre vendas na Califórnia. Como os preços nos EUA são exibidos sem impostos, o valor de tabela não muda, mas o total cobrado do cliente pode aumentar.",
    "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/17/gm-easier-ev-drivers-charge-electrify-america/",
-   "published_at": "2026-11-17T11:27:53-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/GM-EV-Charging-Electrify-America.jpeg?quality=82&strip=all&resize=1200,628"
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
+   "published_at": "2026-11-17T21:17:48-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?resize=1200,628"
+  },
+  {
+   "id": "mn18-tecnologia-01",
+   "title": "Nvidia supera previsões no primeiro balanço sem Jensen Huang",
+   "summary": "A Nvidia reportou lucro trimestral de US$ 65,3 bilhões e receita de US$ 115,8 bilhões, acima das expectativas. Foi o primeiro balanço comandado pela CEO interina Colette Kress após a renúncia de Huang.",
+   "highlights": [
+    "Lucro subiu 105% em um ano",
+    "Empresa projeta receita de US$ 130 bilhões no próximo trimestre",
+    "Analistas esperavam receita de cerca de US$ 109 bilhões"
+   ],
+   "body": "A Nvidia apresentou forte crescimento no terceiro trimestre fiscal, no primeiro balanço conduzido pela CEO interina Colette Kress desde que o fundador Jensen Huang renunciou na semana passada, após revelações de casos extraconjugais. O lucro foi de US$ 65,3 bilhões, alta de 105% sobre os US$ 31,9 bilhões de um ano antes, e a receita chegou a US$ 115,8 bilhões, ante US$ 57 bilhões.\n\nAnalistas consultados pela FactSet esperavam receita de quase US$ 109 bilhões. Para o quarto trimestre fiscal, a empresa projeta US$ 130 bilhões, impulsionados pela forte demanda por infraestrutura de inteligência artificial. É a primeira vez que a Nvidia divulga resultados sem Huang, que cofundou a empresa em 1993.",
+   "category": "tecnologia",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
+   "published_at": "2026-11-17T19:25:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/ac8cf31f-ccee-4b7d-8263-e31613ed0cf6/thumbnail/1200x630/1e66702babb9fa6a8271717e71c47b11/gettyimages-2304264971.jpg"
+  },
+  {
+   "id": "mn18-tecnologia-06",
+   "title": "iFixit desmonta o Apple HomeView e encontra muita cola",
+   "summary": "A desmontagem do novo Apple HomeView feita pela iFixit revela um aparelho quase impossível de abrir e consertar. Tela, alto-falantes, antenas e placa lógica estão fortemente colados.",
+   "highlights": [
+    "Aparelho foi lançado na semana passada",
+    "iFixit analisou as versões de mesa e de parede",
+    "Um alto-falante quebrou durante a remoção"
+   ],
+   "body": "A iFixit publicou a desmontagem do Apple HomeView, central de casa inteligente lançada na semana passada, e concluiu que o aparelho é quase impossível de abrir e reparar. Ao contrário de produtos recentes da Apple, que mostraram avanços em modularidade, o HomeView \"resistiu\" quase o tempo todo.\n\nTela, alto-falantes, antenas e placa lógica estão colados com adesivos fortes. Mesmo após amolecer a cola com álcool isopropílico, um dos alto-falantes quebrou na remoção, e a placa lógica exigiu força considerável por causa do adesivo térmico. A análise cobriu os dois modelos: o de mesa e o de parede.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
+   "published_at": "2026-11-17T18:36:09-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "mn18-tecnologia-03",
+   "title": "Apple restabelece serviços após pane no iCloud e Apple Pay",
+   "summary": "A Apple diz ter restaurado todos os serviços depois que usuários relataram problemas com Apple Pay, iCloud, Suporte e outros produtos na terça. Segundo a empresa, a falha não foi um ataque cibernético.",
+   "highlights": [
+    "Sistemas ficaram \"verdes\" por volta das 17h46 (horário de NY)",
+    "Milhares de relatos no Downdetector a partir do fim da manhã",
+    "Apple é a mais recente de uma série de empresas com panes"
+   ],
+   "body": "A Apple informou ter restabelecido todos os serviços após usuários relatarem problemas com Apple Pay, Apple Support, iCloud e outros produtos na terça-feira. Um porta-voz disse à CBS News que, por volta das 17h46 (horário de Nova York), a página de status estava \"verde em todos os itens\". Os relatos no Downdetector começaram a subir antes do meio-dia e duraram várias horas.\n\nSegundo o porta-voz, as falhas não resultaram de um ataque cibernético. A Apple é a mais recente empresa a sofrer interrupções em meio a uma série de panes que atingiram outros setores nos EUA nos últimos dias.",
+   "category": "tecnologia",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
+   "published_at": "2026-11-17T17:59:00-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/ab8d7caf-bd13-4396-9753-1b37ea889cd6/thumbnail/1200x630g2/db439b53f9e2dcfe31262a3565b82bdc/gettyimages-2305585682.jpg"
+  },
+  {
+   "id": "mn18-tecnologia-05",
+   "title": "Epic acusa Apple de reter 122 mil documentos e pede multas diárias",
+   "summary": "Em novo processo, a Epic Games acusa a Apple de reter mais de 122 mil documentos ligados às comissões propostas para a App Store. A empresa pede multa diária até que a Apple cumpra a ordem.",
+   "highlights": [
+    "Disputa começou em 2020",
+    "Apple foi considerada em desacato por cobrar até 27% em links externos",
+    "Caso sobre o desacato chegou à Suprema Corte"
+   ],
+   "body": "A Epic Games acusou a Apple, em nova petição, de reter mais de 122 mil documentos relacionados às comissões que a empresa propôs cobrar na App Store, e pediu à Justiça que imponha multas diárias até que a Apple entregue o material.\n\nNa ação aberta pela Epic em 2020, a juíza Yvonne Gonzalez Rogers determinou em 2021 que a Apple permitisse aos desenvolvedores direcionar usuários a meios de pagamento externos. A Apple liberou os links, mas cobrou comissão de até 27%, o que levou a corte a considerá-la em desacato. A Apple tenta derrubar essa decisão na Suprema Corte, enquanto a primeira instância define que comissão, se alguma, poderá cobrar.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/17/epic-accuses-apple-of-withholding-122000-documents-seeks-daily-fines/",
+   "published_at": "2026-11-17T16:22:55-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&strip=all&resize=1200,628"
   }
  ]
 }
