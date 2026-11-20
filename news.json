@@ -1,280 +1,344 @@
 {
  "version": 2,
- "generated_at": "2026-11-20T10:41:02-05:00",
- "edition": "meio-dia",
+ "generated_at": "2026-11-20T14:52:01-05:00",
+ "edition": "tarde",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "md20-eua-01",
-   "title": "Bolsas despencam com incertezas sobre IA, Irã e paralisação",
-   "summary": "O Dow Jones caiu 1.101 pontos (2,2%) na quinta-feira, e o S&P 500 recuou 2%, com mais de 90% das ações do índice em queda. Na abertura desta sexta, os mercados operavam mistos, com a Nasdaq ainda em baixa.",
+   "id": "td20-eua-03",
+   "title": "Mike Johnson cobra presença de republicanos faltosos",
+   "summary": "O presidente da Câmara, Mike Johnson, reclamou em carta que muitos deputados republicanos faltaram ao trabalho nesta semana. As ausências forçaram o adiamento de uma votação nos últimos dias de controle republicano do Congresso.",
    "highlights": [
-    "Nasdaq caiu 2,3% na quinta e mais 1,5% no início de sexta",
-    "Analistas não apontam um único gatilho para a queda",
-    "Temores incluem gastos com IA, Irã e paralisação do governo"
+    "14 republicanos ausentes derrubaram votação procedimental",
+    "Mandato atual vai até 3 de janeiro, lembrou Johnson",
+    "Na quinta, 21 republicanos e 10 democratas faltaram às votações"
    ],
-   "body": "As bolsas americanas desabaram na quinta-feira diante de uma série de fatores que podem prejudicar os lucros das empresas e aumentar a incerteza econômica. O Dow Jones caiu 1.101 pontos, ou 2,2%, e fechou em 49.097 pontos; o S&P 500 recuou 2% e a Nasdaq, de perfil mais tecnológico, perdeu 2,3%. Mais de 90% das ações do S&P 500 terminaram o dia em queda.\n\nNa abertura desta sexta, o quadro era misto: a Nasdaq caía 370 pontos (1,5%) no início do pregão, o S&P 500 recuava 0,4% e o Dow subia 0,6%.\n\nSegundo analistas de Wall Street, não houve um único catalisador. Pesaram as dúvidas sobre se os gastos pesados com inteligência artificial vão gerar lucro, o temor renovado de que EUA e Israel planejem novos ataques ao Irã e o risco de uma paralisação do governo já em dezembro. \"As pessoas simplesmente não têm muito entusiasmo por este mercado\", escreveu Adam Crisafulli, da Vital Knowledge.",
+   "body": "O presidente da Câmara dos Representantes, Mike Johnson, publicou nesta sexta uma carta aos colegas dizendo que \"precisamos que todos os republicanos da Câmara permaneçam totalmente engajados\". Ele lamentou que uma votação marcada para esta semana tenha sido adiada \"porque não tínhamos membros suficientes na cidade\".\n\nA liderança republicana teve de retirar da pauta uma votação procedimental porque 14 republicanos estavam ausentes. Johnson lembrou que, pela 20ª Emenda, o mandato só termina ao meio-dia de 3 de janeiro, e os parlamentares seguem recebendo salário até lá — US$ 174 mil por ano no caso de um deputado comum.\n\nRepublicanos e democratas faltaram a votações nesta semana, mas os republicanos em maior número. Segundo a secretaria da Câmara, entre 23 e 35 membros deixaram de votar em cada uma das últimas seis votações desde 11 de novembro; na quinta-feira, 21 republicanos, 10 democratas e um independente faltaram.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/",
-   "published_at": "2026-11-20T10:23:30-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/5ce177f4-4d18-4f63-97d5-f529b7ad2d46/thumbnail/1200x630/ebc0457b01571f21611b5467f6863ebf/gettyimages-2303204796.jpg"
+   "url": "https://www.cbsnews.com/news/johnson-house-republican-absences/",
+   "published_at": "2026-11-20T14:28:16-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/20/ee12ad42-d3ea-4428-80d7-615fd9e969f7/thumbnail/1200x630g1/73502669a94a6d46e3569fd35048ac96/ap26316640526887.jpg"
   },
   {
-   "id": "md20-eua-08",
-   "title": "Enchente recorde no centro da Flórida leva a centenas de resgates",
-   "summary": "Mais de 60 cm de chuva em dois dias provocaram enchentes extremas no centro da Flórida e centenas de resgates. No condado de Brevard, o rio St. Johns atingiu o nível mais alto já registrado.",
+   "id": "td20-eua-04",
+   "title": "Morre Fiona, a hipopótamo do Zoológico de Cincinnati",
+   "summary": "Fiona, a hipopótamo que sobreviveu a um nascimento prematuro e conquistou fãs no mundo todo, morreu após engolir um gorro de tricô. A necropsia mostrou que o objeto estava preso no intestino delgado.",
    "highlights": [
-    "Mais de 100 resgates em Brevard, muitos na cidade de Cocoa",
-    "Rio St. Johns passou de 18 pés, quebrando recorde de 70 anos",
-    "Não há mortes registradas, segundo o xerife"
+    "Gorro foi lançado por um visitante e caiu no recinto por causa de um ventilador",
+    "Endoscopias não alcançaram o objeto e cirurgia não era opção",
+    "Veterinários chegaram a usar uma plataforma vibratória de haras"
    ],
-   "body": "Enchentes extremas no centro da Flórida levaram a centenas de resgates na água depois de mais de 2 pés (60 cm) de chuva em dois dias em alguns pontos — e a ameaça ainda não acabou. Foram mais de 100 resgates no condado de Brevard, muitos deles na cidade de Cocoa, onde o rio St. Johns superou 18 pés (5,5 m), quebrando um recorde de 70 anos.\n\n\"Podemos ter danos materiais substanciais, veículos e empresas danificados, mas neste momento não temos absolutamente ninguém que tenha perdido a vida nesta tempestade\", disse o xerife de Brevard, Wayne Ivey, na quinta-feira. A chuva mais forte segue agora para o norte, rumo a Daytona e Jacksonville, e deve chegar às Carolinas no fim de semana.\n\nUm alerta de enchente segue em vigor para toda a costa leste da Flórida até pelo menos as 19h desta sexta, com previsão de mais 6 a 8 polegadas (15 a 20 cm) de chuva antes de o tempo secar no fim de semana. O rio St. Johns deve continuar subindo até a noite de sexta.",
+   "body": "Fiona, a hipopótamo-do-nilo que sobreviveu a um nascimento prematuro há quase uma década e virou celebridade mundial, morreu, anunciou o Zoológico e Jardim Botânico de Cincinnati. Há quase duas semanas, ela engoliu um gorro de tricô que foi parar acidentalmente em seu recinto; segundo um porta-voz, o gorro foi jogado para o alto por um visitante e lançado para dentro por um ventilador de teto.\n\n\"Estamos em choque. Não esperávamos esse desfecho. Ela lutou até não conseguir mais\", disse o diretor do zoológico, Dave Jenike. A necropsia, divulgada nesta sexta, mostrou que o gorro estava no meio do intestino delgado, longe demais para ser alcançado por endoscopia, e a cirurgia não era uma alternativa.\n\nAntes da morte, a equipe tentou métodos pouco convencionais para ajudá-la a eliminar a obstrução, incluindo uma plataforma vibratória emprestada de um haras. Segundo o diretor de saúde animal, Mike Wenninger, nenhum tratamento de suporte teria funcionado.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/florida-flooding-rain-brevard-county/",
-   "published_at": "2026-11-20T09:52:09-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/5d5c85cb-16f8-44dc-8119-3baf33bdcf7a/thumbnail/1200x630/3665f59d608ebf14453e1721767a6d55/ap26323714134181.jpg"
+   "url": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/",
+   "published_at": "2026-11-20T14:26:47-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/6e294b5f-56fe-4c30-a6f0-0e2835d04ea7/thumbnail/1200x630/fda5c24a16515c4fa385e098a0a643c0/ap18068671681006.jpg"
   },
   {
-   "id": "md20-eua-04",
-   "title": "Terremoto de magnitude 4,2 sacode a região de Los Angeles",
-   "summary": "Um tremor de magnitude 4,2 atingiu a região de Los Angeles na madrugada desta sexta, com epicentro perto de Commerce, a cerca de 11 km do centro. Não há relatos de danos ou feridos.",
+   "id": "td20-eua-10",
+   "title": "Ameaça de enchente avança para o nordeste da Flórida",
+   "summary": "As chuvas que inundaram boa parte da costa atlântica da Flórida avançaram para o norte nesta sexta. Há alertas de enchente numa faixa de cerca de 320 km, do sul de Melbourne até a região de Jacksonville.",
    "highlights": [
-    "Tremor foi sentido de Lancaster a Poway",
-    "Prefeita Karen Bass disse que não houve impacto no LAX",
-    "Bombeiros encerraram o \"modo terremoto\" após vistoria"
+    "Previsão de mais 5 a 15 cm de chuva até sábado",
+    "Rio St. Johns superou recorde de 1953 perto de Cocoa",
+    "Sistema de baixa pressão pode virar tempestade subtropical ou tropical"
    ],
-   "body": "Um terremoto de magnitude 4,2 sacudiu a região de Los Angeles no início da manhã desta sexta-feira. Segundo o Serviço Geológico dos EUA (USGS), o tremor ocorreu a cerca de 800 metros a norte-noroeste de Commerce, na Califórnia, a uns 11 km do centro de Los Angeles.\n\nA prefeita Karen Bass afirmou nas redes sociais que o tremor provavelmente acordou muitos moradores, mas que não havia relatos imediatos de danos ou impactos operacionais, inclusive no aeroporto LAX. O tremor foi sentido em Lancaster, cerca de 130 km ao norte, e em Poway, a cerca de 185 km ao sul.\n\nPouco depois das 5h30 (horário local), o Corpo de Bombeiros de Los Angeles informou que não foram registrados danos significativos à infraestrutura nem feridos, e que as operações voltariam ao normal. O órgão pediu que o episódio sirva de lembrete para a população se preparar para terremotos.",
+   "body": "As chuvas fortes que deixaram grandes áreas da costa atlântica da Flórida debaixo d'água e levaram a dezenas de resgates avançaram para o norte nesta sexta. Meteorologistas alertam que a ameaça de enchentes pode se estender até a próxima semana, quando um grande rio deve atingir níveis bem acima do recorde.\n\nO Serviço Nacional de Meteorologia emitiu alertas numa faixa de cerca de 320 quilômetros, do sul de Melbourne até a área de Jacksonville, com previsão de mais 5 a 15 centímetros de chuva até sábado e até 20 a 25 centímetros em alguns pontos. \"Áreas que normalmente não sofrem inundações repentinas vão alagar\", advertiu o órgão.\n\nO rio St. Johns, o mais longo da Flórida, ultrapassou na quinta perto de Cocoa um recorde de 1953 e deve ficar ao menos 60 centímetros acima do nível de enchente até o início da próxima semana. O Centro Nacional de Furacões também previu a formação de um sistema de baixa pressão que pode virar tempestade subtropical ou tropical na costa sudeste, com ventos fortes e ressaca antes do feriado de Ação de Graças.",
+   "category": "eua",
+   "source": "WSVN (AP)",
+   "url": "https://wsvn.com/news/local/florida/florida-coast-flooding-rescues/",
+   "published_at": "2026-11-20T13:36:09-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261120_St_Johns_County_Florida_flooding_aerial.png"
+  },
+  {
+   "id": "td20-eua-01",
+   "title": "Segundo juiz barra construção do arco de Trump",
+   "summary": "A juíza federal Leonie Brinkema, da Virgínia, anunciou que vai conceder uma liminar que bloqueia por tempo indeterminado o arco triunfal proposto por Trump. É a segunda decisão judicial contra o projeto nesta semana.",
+   "highlights": [
+    "Ação foi movida pelo condado de Arlington em outubro",
+    "Arco de 76 metros ficaria no Memorial Circle, perto do Cemitério de Arlington",
+    "Departamento de Justiça diz que vai recorrer imediatamente"
+   ],
+   "body": "Uma juíza federal da Virgínia afirmou, em audiência nesta sexta-feira, que vai emitir uma liminar bloqueando indefinidamente o arco triunfal proposto pelo presidente Donald Trump. Leonie Brinkema atendeu ao pedido do conselho do condado de Arlington, que processou o governo em outubro. O Departamento de Justiça disse à NPR que vai recorrer imediatamente.\n\nO arco, de cerca de 250 pés (76 metros), seria erguido no Memorial Circle, área que pertence a Washington mas fica do lado da Virgínia do rio Potomac, perto do Cemitério Nacional de Arlington e do aeroporto Reagan. O condado argumenta que a obra aumentaria ruído e poluição, congestionaria vias usadas por serviços de emergência e atrapalharia os 24 a 27 funerais realizados por dia útil no cemitério.\n\nOs autores da ação acusam o governo de acelerar as revisões ambientais obrigatórias. Brinkema é a segunda juíza a decidir contra o arco nesta semana: na quarta-feira, a juíza Tanya Chutkan, de Washington, já havia prorrogado uma ordem de restrição contra o projeto. A Casa Branca diz confiar que será \"totalmente vindicada\" no processo.",
+   "category": "eua",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+   "published_at": "2026-11-20T13:25:09-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x3920+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg"
+  },
+  {
+   "id": "td20-eua-09",
+   "title": "Bolsas caminham para 7ª queda seguida; Nasdaq cai 3,5%",
+   "summary": "O S&P 500 caminha para sete pregões seguidos de queda, a pior sequência desde fevereiro de 2020. No início da tarde desta sexta, a Nasdaq afundava 3,5% e o S&P 500 recuava 2,1%.",
+   "highlights": [
+    "Temor de que investimentos em IA não deem retorno",
+    "Anthropic registrou perdas de cerca de US$ 104 bi em nove meses",
+    "Investidores temem leis contra data centers com Congresso democrata"
+   ],
+   "body": "O mercado de ações vive seu pior momento desde o início da pandemia. As bolsas voltaram a cair nesta sexta depois do tombo de quinta, e o S&P 500 caminha para seu sétimo pregão consecutivo de perdas, a sequência mais longa desde fevereiro de 2020. No início da tarde, a Nasdaq caía 865 pontos (3,5%), o S&P 500 recuava 2,1% e o Dow Jones, 0,7%.\n\nUm dos principais fatores é o temor de que os gastos enormes com data centers e infraestrutura de inteligência artificial não tragam o retorno esperado. A Anthropic, primeiro laboratório de IA a abrir capital, mostrou crescimento rápido de receita, mas seus documentos regulatórios apontam perdas de cerca de US$ 104 bilhões nos nove primeiros meses de 2026.\n\nOutro ponto de preocupação, segundo a CBS News, é a possibilidade de que, com os democratas prestes a assumir o controle do Congresso, surjam novas leis restringindo data centers.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/",
-   "published_at": "2026-11-20T09:14:52-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/20/fb6efe23-8604-4ebd-8ec0-6a10768cc5d7/thumbnail/1200x630/88127d5099b7774fc42b867d2baf5a0a/la-quake-map.jpg"
+   "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
+   "published_at": "2026-11-20T12:45:34-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/05/ad40c94d-fea7-44e3-a7b1-72dbba042c8a/thumbnail/1200x630/ed316bbaf51eb364d949829dbb6108a1/gettyimages-1206312753.jpg"
   },
   {
-   "id": "md20-eua-06",
-   "title": "Democrata cobra preservação de mensagens do governo Trump em apps como Signal",
-   "summary": "O deputado Jamie Raskin exigiu que FBI, Departamento de Justiça, DHS, Bureau de Prisões e ICE preservem comunicações feitas em aplicativos não governamentais. Ele suspeita que mensagens sobre assuntos oficiais estejam sendo apagadas.",
+   "id": "td20-eua-05",
+   "title": "Mamdani apresenta plano para fechar Rikers até 2032",
+   "summary": "O prefeito de Nova York, Zohran Mamdani, apresentou um plano para fechar o complexo prisional de Rikers Island e substituí-lo por quatro presídios menores. A cidade admite que não cumprirá o prazo legal de agosto de 2027.",
    "highlights": [
-    "Raskin deve presidir a Comissão Judiciária da Câmara",
-    "Apps como o Signal podem apagar mensagens automaticamente",
-    "Ele cita troca de mensagens entre advogado do FBI e aliado de Trump Jr."
+    "Novos presídios terão capacidade para cerca de 4.100 pessoas",
+    "Primeira unidade abre no Brooklyn em 2029; Manhattan em 2032",
+    "Plano de seis anos depende de aprovação legislativa"
    ],
-   "body": "Um dos principais democratas da Câmara está exigindo que várias agências do governo preservem comunicações feitas em aplicativos de mensagens não governamentais e investiguem se registros sobre assuntos oficiais foram apagados. O deputado Jamie Raskin, principal democrata da Comissão Judiciária e futuro presidente do colegiado, tornou públicas na sexta-feira cartas quase idênticas enviadas ao FBI, ao Departamento de Justiça, ao Departamento de Segurança Interna, ao Bureau de Prisões e ao ICE.\n\nRaskin diz temer que o governo Trump esteja driblando as regras de arquivamento ao usar aplicativos como o Signal, que podem ser configurados para apagar mensagens automaticamente. \"Há evidências significativas de que funcionários do governo Trump se envolveram na destruição, mutilação e ocultação generalizada de registros governamentais\", escreveu.\n\nComo exemplo, o deputado de Maryland citou uma troca de mensagens no Signal, que afirma ter obtido, entre o principal advogado do FBI e um associado de Donald Trump Jr., filho mais velho do presidente.",
-   "category": "eua",
-   "source": "Local10 (AP)",
-   "url": "https://www.local10.com/news/politics/2026/11/20/trump-administration-use-of-encrypted-messaging-apps-like-signal-is-scrutinized-by-house-democrat/",
-   "published_at": "2026-11-20T09:08:07-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/HW3LW6Z2ETFPNTZYLQWVNXC5LY.jpg?auth=8603c4c3fbf93ae1b56d7d7caf2530868a205f635268df7791d440a0ba08554e&width=700"
-  },
-  {
-   "id": "md20-eua-03",
-   "title": "Promotores processam governo por desmonte de lei de transparência empresarial",
-   "summary": "Duas promotoras locais processam o Departamento do Tesouro para impedir a eliminação de cerca de 15 milhões de registros de donos de empresas. A regra deixou de ser aplicada em 2025, um dia após Elon Musk dizer que \"ia olhar\" o caso.",
-   "highlights": [
-    "Ação foi movida por promotoras de Minnesota e do Arizona",
-    "Lei em questão é a Corporate Transparency Act",
-    "Registros ajudariam a investigar lavagem de dinheiro e fraudes"
-   ],
-   "body": "Em março de 2025, o comediante conservador Terrence K. Williams pediu a Elon Musk, no X, que convencesse o presidente Trump a derrubar uma regra federal que obrigava empresas a revelar seus verdadeiros donos. Musk respondeu: \"Posso dar uma olhada\". No dia seguinte, o Departamento do Tesouro anunciou que deixaria de aplicar multas e penalidades a cidadãos e empresas americanas com base na lei, conhecida como Corporate Transparency Act.\n\nAgora, segundo apurou a CBS News, duas promotoras locais estão processando o governo para impedir que sejam apagados cerca de 15 milhões de registros de propriedade de empresas já coletados. Na quinta-feira, Mary Moriarty, do condado de Hennepin (Minnesota), e Laura Conover, do condado de Pima (Arizona), ambas democratas, alegaram que o Tesouro violou a lei ao isentar empresas americanas e permitir que estrangeiras omitissem seus donos americanos.\n\nAs promotoras afirmam que os registros ajudariam seus escritórios a investigar lavagem de dinheiro de cartéis, roubo de salários, fraudes e furtos organizados no varejo praticados por meio de empresas de fachada.",
+   "body": "O prefeito de Nova York, Zohran Mamdani, revelou sua estratégia para fechar Rikers Island e substituir o complexo por quatro presídios menores espalhados pela cidade. Por lei, Rikers deveria fechar até agosto de 2027, mas Mamdani reconhece que o prazo não será cumprido e propõe 2032 como nova data, junto com uma reforma no tratamento de pessoas que aguardam julgamento.\n\nOs quatro novos presídios terão capacidade para cerca de 4.100 pessoas, bem menos que as cerca de 6.700 que estavam sob custódia em Rikers em junho. A primeira unidade abrirá no Brooklyn em 2029, seguida pelo Bronx e Queens em 2031 e Manhattan em 2032. O plano precisa de aprovação legislativa.\n\nEnquanto isso, a prefeitura vai destinar milhões para reduzir a população carcerária e melhorar as condições, incluindo US$ 50 milhões para capacitação profissional, educação, saúde mental e tratamento contra drogas.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/elon-musk-corporate-disclosure-lawsuit/",
-   "published_at": "2026-11-20T08:28:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/010c3b35-d383-44a9-8bb5-313e458e8ef7/thumbnail/1200x630/cbb63b587b75d7e4d08d56711f967d0e/ap26281662471891.jpg"
+   "url": "https://www.cbsnews.com/news/zohran-mamdani-rikers-island-closing-plan-nyc/",
+   "published_at": "2026-11-20T12:31:47-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/04/05/5e6ba285-59b1-4480-a4a5-cce8b8cdba34/thumbnail/1200x630/4f0b5c0bc0acb6ab1f7010c98008cce9/ap-21237073008309.jpg"
   },
   {
-   "id": "md20-eua-05",
-   "title": "Juíza diz que ICE \"zombou de ordens judiciais\" ao prender de novo imigrantes soltos",
-   "summary": "Uma juíza federal do Colorado declarou autoridades do ICE em desacato por prenderem imediatamente um homem cuja soltura ela havia ordenado. Ela não aplicou novas sanções porque a prática foi encerrada.",
+   "id": "td20-eua-02",
+   "title": "Diretor nacional de cibersegurança deixa a Casa Branca",
+   "summary": "Sean Cairncross está deixando o cargo de diretor nacional de cibersegurança da Casa Branca; segundo fontes da CBS News, ele foi demitido. Trump nomeou Kirsten Davies, do Pentágono, para o lugar.",
    "highlights": [
-    "Juíza Charlotte Sweeney criticou nova \"política\" de redetenção",
-    "Ao menos 18 pessoas no Colorado foram afetadas em seis semanas",
-    "Advogados dizem que a prática está crescendo no país"
+    "Chefe de gabinete Stephen Miller queria a saída de Cairncross",
+    "Saída ocorre após semana de apagões em serviços da Microsoft, controle aéreo e bancos",
+    "Kirsten Davies precisará de confirmação do Senado"
    ],
-   "body": "A juíza federal Charlotte Sweeney, do Colorado, afirmou que o Serviço de Imigração e Alfândega dos EUA (ICE) \"zombou de ordens judiciais\" e considerou autoridades do governo em desacato por prenderem novamente, de forma imediata, um homem que ela havia mandado soltar.\n\nSweeney não tomou outras medidas porque, segundo ela, as autoridades \"sanaram o desacato ao encerrar a prática\", conforme declarou um funcionário sob juramento. \"A nova 'política' do ICE de redeter imediatamente os requerentes após a soltura zombou das ordens judiciais que determinavam a libertação imediata\", escreveu a juíza na quarta-feira.\n\nSegundo a CPR News, da rádio pública do Colorado, ao menos 18 pessoas no estado ficaram detidas mais tempo do que deveriam ou foram presas de novo minutos após a soltura determinada pela Justiça nas últimas seis semanas. Advogados de imigração dizem que o número pode ser maior e que o fenômeno vem crescendo no país.",
+   "body": "O diretor nacional de cibersegurança da Casa Branca, Sean Cairncross, vai deixar o cargo, informou um funcionário do governo à CBS News. Várias fontes disseram que ele foi demitido. O chefe de gabinete Stephen Miller, que substituiu Susie Wiles no início do mês, há tempos queria Cairncross fora, por considerar que ele não tinha a experiência necessária.\n\nMiller escolheu Kirsten Davies, atual diretora de informação do Pentágono, para a vaga, e a Casa Branca anunciou sua nomeação nesta sexta. Ela precisará de confirmação do Senado para ocupar o cargo de forma permanente.\n\nA saída acontece enquanto os EUA enfrentam uma série de apagões tecnológicos na última semana, que atingiram serviços da Microsoft, sistemas de controle de tráfego aéreo, bancos e a rede interna da NSA. O secretário de Segurança Interna, Markwayne Mullin, disse estar \"98% confiante\" de que as falhas não resultam de ação estrangeira maliciosa.",
    "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
+   "published_at": "2026-11-20T12:09:20-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/787a3b3e-f5a0-4042-a85c-6be1659ed842/thumbnail/1200x630g2/2b076860b3f77dd9d1af8a957147cc7e/ap26320828805068.jpg"
+  },
+  {
+   "id": "td20-eua-06",
+   "title": "Indiano pega 19 anos e meio por plano para matar líder sikh em NY",
+   "summary": "Nikhil Gupta foi condenado a 19 anos e meio de prisão por tramar o assassinato do ativista sikh Gurpatwant Singh Pannun em Nova York. Segundo a acusação, ele foi recrutado por um ex-agente de inteligência indiano.",
+   "highlights": [
+    "Gupta se declarou culpado de assassinato por encomenda",
+    "Plano foi frustrado por agentes da DEA",
+    "Índia nega envolvimento no caso"
+   ],
+   "body": "Um cidadão indiano acusado de planejar o assassinato de um proeminente dissidente político em Nova York, supostamente a mando de um funcionário da inteligência do governo da Índia, foi condenado nesta sexta a 19 anos e meio de prisão, informou o Departamento de Justiça.\n\nNikhil Gupta, que se declarou culpado neste ano de assassinato por encomenda, conspiração e lavagem de dinheiro, teria sido recrutado em 2023 pelo ex-agente de inteligência Vikash Yadav para matar Gurpatwant Singh Pannun. Yadav, também acusado, permanece na Índia. O plano foi frustrado pela DEA depois que Gupta, sem saber, contatou uma fonte confidencial da agência para organizar o crime.\n\nPannun, com cidadania canadense e americana, é separatista sikh, crítico do premiê Narendra Modi e fundador do grupo Sikhs for Justice. A Índia nega envolvimento. O caso ocorreu na mesma época do assassinato de Hardeep Singh Nijjar no Canadá, que autoridades canadenses ligaram a agentes do governo indiano.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/plot-assassinate-sikh-dissident-nyc-prison-sentence/",
+   "published_at": "2026-11-20T11:45:54-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/63074bb4-b3c5-4fcf-956e-97f0539ce26d/thumbnail/1200x630/1081aa61da8dada3e516c2e6bd8a132a/gettyimages-1161835284.jpg"
+  },
+  {
+   "id": "td20-eua-07",
+   "title": "Senado aprova projeto para acelerar licenças de energia",
+   "summary": "O Senado aprovou por 62 a 33 um projeto bipartidário que acelera a aprovação de usinas, linhas de transmissão e outros projetos de energia. Trump disse que vai sancionar se a Câmara também aprovar.",
+   "highlights": [
+    "15 democratas, incluindo Chuck Schumer, votaram a favor",
+    "Texto encurta revisões federais e limita contestações na Justiça",
+    "Pressão vem das contas de luz e da demanda gerada pela IA"
+   ],
+   "body": "O Senado dos EUA aprovou na quinta-feira um projeto bipartidário para agilizar a aprovação de usinas, linhas de transmissão e outros empreendimentos de energia, num momento em que parlamentares sofrem pressão para baixar as contas de luz e atender à demanda crescente impulsionada pela inteligência artificial.\n\nA votação terminou em 62 a 33: 15 democratas, entre eles o líder da minoria Chuck Schumer, apoiaram o texto, e dois republicanos votaram contra. O presidente Trump havia pedido a aprovação e disse que sancionará a lei se ela passar na Câmara.\n\nO chamado Bipartisan American Affordability and Jobs Act encurta os prazos das revisões federais e limita como as aprovações podem ser contestadas na Justiça, alterando leis ambientais como a NEPA. \"Vamos facilitar construir na América de novo\", disse o senador republicano Mike Lee, um dos quatro coautores.",
+   "category": "eua",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals",
+   "published_at": "2026-11-20T11:10:12-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b006722d46b5-1795188514.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "td20-eua-08",
+   "title": "Jantar de Ação de Graças fica 6% mais caro, diz Farm Bureau",
+   "summary": "O custo médio de uma ceia de Ação de Graças para 10 pessoas deve subir 6%, para US$ 58,63, segundo a American Farm Bureau Federation. É a primeira alta desde 2022.",
+   "highlights": [
+    "Peru de 16 libras custa em média US$ 23,68, ante US$ 21,50",
+    "Diesel caro encarece transporte de leite, pães, batatas e cranberries",
+    "Diesel está 58% mais caro que há um ano, segundo a AAA"
+   ],
+   "body": "Preços recordes do peru e combustível mais caro devem encarecer a ceia de Ação de Graças neste ano, segundo pesquisa da American Farm Bureau Federation. O custo de uma refeição média para 10 pessoas deve subir 6% em relação ao ano passado, para US$ 58,63 — a primeira alta desde 2022, quando o valor chegou ao recorde de US$ 64,05.\n\nO diesel caro aumentou o custo de processar e transportar itens como leite, pães, batatas e cranberries. Os preços do diesel dispararam desde o início da guerra com o Irã e atingiram média recorde de US$ 6,53 por galão em setembro; na quarta-feira, a média era de US$ 5,96, alta de 58% em um ano, segundo a AAA.\n\nO peru de 16 libras da pesquisa custou em média US$ 23,68, ante US$ 21,50 no ano passado. A gripe aviária vem dizimando criações desde 2022, mas os casos estão diminuindo e a produção aumentou neste ano, ao mesmo tempo em que a demanda por proteína magra cresce.",
+   "category": "eua",
+   "source": "WSVN (AP)",
+   "url": "https://wsvn.com/news/us-world/thanksgiving-dinner-prices-rise/",
+   "published_at": "2026-11-20T10:53:09-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261120_Thanksgiving_turkey_biz_buzz.png"
+  },
+  {
+   "id": "td20-mundo-09",
+   "title": "Dimon diz que JP Morgan vai compensar alta de imposto no Reino Unido",
+   "summary": "O CEO do JP Morgan, Jamie Dimon, disse que vai encontrar formas de compensar o aumento do imposto sobre bancos no Reino Unido, que chamou de injusto. A sobretaxa bancária sobe de 3% para 6% em janeiro.",
+   "highlights": [
+    "Medida temporária valerá por 15 meses",
+    "JP Morgan emprega 23 mil pessoas no Reino Unido",
+    "Dimon já ameaçou rever nova sede de £3 bi em Canary Wharf"
+   ],
+   "body": "Jamie Dimon, presidente-executivo do JP Morgan, afirmou que vai buscar formas de compensar o aumento de impostos sobre bancos anunciado pelo governo britânico. Num evento em Londres na quinta-feira, ele disse estar \"dando um exemplo para que [os governos] entendam as consequências dessas penalidades injustas\", e que a decisão era tomada \"mais com tristeza\" do que com raiva.\n\nA sobretaxa bancária vai subir de 3% para 6% em janeiro, como medida temporária de 15 meses, anunciada pelo chanceler John Healey em seu primeiro orçamento, em outubro. Não está claro como o banco, que emprega 23 mil pessoas no Reino Unido, vai compensar o custo extra.\n\nDimon vem fazendo lobby contra aumentos de impostos para bancos e chegou a sugerir, em maio, que poderia desistir da nova torre de £3 bilhões em Canary Wharf que deve abrigar a sede britânica do banco.",
+   "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
-   "published_at": "2026-11-20T08:26:36-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/3c0c137584fdb0aa5335b7a72faa63b432a70e73/610_0_5970_4775/master/5970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f349a4d65f692bce8d4877ec2fd87da"
+   "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+   "published_at": "2026-11-20T14:38:59-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c3cd3b74d57bb7e2a84fd1e122e5e8e"
   },
   {
-   "id": "md20-eua-02",
-   "title": "EUA e Israel avaliam novo ataque ao Irã, dizem fontes",
-   "summary": "Israel e EUA estudam lançar uma nova ofensiva contra o Irã no curto prazo, segundo fontes ouvidas pela CBS News. O governo Netanyahu se preocupa com a rapidez com que Teerã reconstrói sua capacidade de produzir mísseis.",
+   "id": "td20-mundo-10",
+   "title": "Explosão mata dois soldados salvadorenhos no Haiti",
+   "summary": "Dois soldados de El Salvador morreram e outros dois ficaram feridos numa detonação enquanto manipulavam explosivos num acampamento no Haiti. Eles participam da operação para resgatar quatro técnicos desaparecidos após ataque de gangues.",
    "highlights": [
-    "Irã estaria levando infraestrutura militar e nuclear para o subsolo",
-    "Não está claro se Trump quer ordenar nova ação militar",
-    "Negociações indiretas não reabriram o Estreito de Ormuz"
+    "Mais de 2.500 soldados salvadorenhos estão no Haiti",
+    "Técnicos sumiram em 18 de outubro após emboscada em Croix-des-Bouquets",
+    "Eles integravam a força internacional contra gangues autorizada pela ONU"
    ],
-   "body": "Israel e os Estados Unidos estão considerando lançar um novo ataque contra o Irã em curto prazo, segundo fontes familiarizadas com o assunto ouvidas pela CBS News. O governo do primeiro-ministro Benjamin Netanyahu está preocupado com a velocidade com que os iranianos reconstroem a produção de mísseis balísticos e com o ritmo em que o país transfere sua infraestrutura militar e nuclear para instalações subterrâneas.\n\nO presidente Trump disse nesta semana que o Irã pode estar tentando desenvolver armas químicas ou biológicas, sem apresentar provas. Meses de negociações indiretas não produziram um cessar-fogo que reabra o Estreito de Ormuz, e o Irã se recusa a discutir seu programa nuclear a menos que os EUA suspendam o bloqueio naval e aceitem outras seis condições.\n\nSegundo as fontes, as Forças Armadas israelenses estão prontas para uma nova rodada de combates e em postura defensiva máxima. O governo Netanyahu preferiria uma operação conjunta com os EUA, mas ainda não está claro se Trump quer ordenar nova ação militar — nem de que tipo.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assault-sources-say/",
-   "published_at": "2026-11-20T07:02:39-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/9fba965e-6b65-4f59-ad59-b2d1e54e270a/thumbnail/1200x630/3b0521c70f5d9b290ca2a0e1f561290a/trump-netanyahu-2302293445.jpg"
+   "body": "As Forças Armadas de El Salvador informaram nesta sexta que dois soldados morreram e outros dois ficaram feridos em uma detonação enquanto manipulavam material explosivo em um acampamento no Haiti. Os feridos recebem atendimento médico, mas seu estado não foi divulgado.\n\nMais de 2.500 militares salvadorenhos estão no Haiti numa operação para resgatar quatro técnicos que desapareceram em 18 de outubro, depois de serem emboscados por gangues quando voltavam de um supermercado em um veículo blindado na região de Croix-des-Bouquets.\n\nOs técnicos faziam parte da Força de Repressão às Gangues (GSF), força internacional autorizada pelo Conselho de Segurança da ONU desde outubro de 2025. O governo de Nayib Bukele havia informado no fim de outubro que mantinha o envio de tropas para a missão de resgate.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/espanol/2026/11/20/mueren-dos-soldados-salvadorenos-y-otros-dos-resultan-heridos-tras-detonacion-de-explosivo-en-haiti/",
+   "published_at": "2026-11-20T14:29:59-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/F7XHMW5E3ZPOHORJXVZCM2OBYI.jpg?auth=d52c6beddc50e6d998bbf020fdd8d012c945f9d9705443a2b31a483576563dde&width=700"
   },
   {
-   "id": "md20-eua-07",
-   "title": "Arco proposto por Trump perto de Arlington revolta famílias de militares",
-   "summary": "O arco dourado de 76 metros que o presidente Trump quer construir a cerca de 800 metros da entrada do Cemitério Nacional de Arlington enfrenta oposição de veteranos e famílias de mortos. Grupos já entraram na Justiça.",
+   "id": "td20-mundo-05",
+   "title": "Prefeito de Belgrado é acusado de agredir vereadora da oposição",
+   "summary": "Promotores sérvios acusaram o prefeito de Belgrado, Aleksandar Sapic, de ferir gravemente uma vereadora de oposição durante uma discussão em setembro. Eles pedem pena de três anos.",
    "highlights": [
-    "Obra ficaria numa rotatória perto da entrada do cemitério",
-    "Nove membros da família Kennedy estão entre os autores de ações",
-    "Pai de fuzileiro morto chamou o arco de \"outdoor para um ego\""
+    "Vereadora Tatjana Micic teve fraturas no nariz e no maxilar",
+    "Sapic é figura importante do partido governista SNS",
+    "Prefeito nega a agressão, mas admite briga com o marido dela"
    ],
-   "body": "O arco dourado de 250 pés (76 metros) proposto pelo presidente Donald Trump poderia projetar uma longa sombra sobre o Cemitério Nacional de Arlington, com potencial para literalmente sombrear sepulturas, perturbar visitas com o barulho das obras e alterar a paisagem histórica cuidadosamente planejada da capital americana, segundo reportagem da AP.\n\nPara muitos veteranos e suas famílias, o monumento não tem lugar tão perto do cemitério. A oposição gerou ações judiciais de grupos de veteranos e outros, incluindo nove membros da família Kennedy, que argumentam que o arco, previsto para uma rotatória a cerca de 800 metros da entrada principal, mudará fundamentalmente a experiência de visitar o local.\n\n\"É um outdoor para um ego. Uma peça de marketing barulhenta, arrogante e espalhafatosa jogada em solo sagrado\", disse Bart Collart, pai do cabo Spencer Collart, fuzileiro naval que morreu aos 21 anos em 2023, num acidente com uma aeronave Osprey na Austrália, ao tentar salvar colegas.",
-   "category": "eua",
-   "source": "Local10 (AP)",
-   "url": "https://www.local10.com/news/politics/2026/11/20/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery/",
-   "published_at": "2026-11-20T06:53:51-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/XIWL65BSIIENNMBNL3TZ4ZSBQQ.jpg?auth=2ce7b7c05f2d2dcc6139a8a3f789045f1df7525df42ce35443ba31855d1ac938&width=700"
+   "body": "O prefeito de Belgrado, capital da Sérvia, foi formalmente acusado nesta sexta de ferir uma política de oposição durante uma discussão em setembro. Aleksandar Sapic, figura de destaque do Partido Progressista Sérvio (SNS), nacionalista de direita, é acusado de agarrar o braço da vereadora Tatjana Micic e socar seu rosto.\n\nSegundo os promotores, Micic sofreu fraturas no nariz e em parte do maxilar superior, além de lesões no braço direito e no pescoço, o que configura lesão corporal grave. A promotoria pede pena de três anos e uma medida que proíba Sapic de se aproximar ou se comunicar com a vereadora.\n\nSapic nega ter atacado Micic, mas reconhece uma discussão e um tumulto com o marido dela. A promotoria afirmou que aplica \"os mesmos critérios a todos os réus, independentemente do cargo que ocupam\".",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia",
+   "published_at": "2026-11-20T14:15:18-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=1920%2C1440"
   },
   {
-   "id": "md20-mundo-07",
-   "title": "Jovens fazem protestos coordenados em mais de 20 países da Europa",
-   "summary": "Estudantes e jovens trabalhadores foram às ruas em mais de 20 países europeus contra o custo de vida e da moradia, a piora do ensino e o aumento dos gastos militares. Os organizadores falam em atos em cerca de 400 cidades.",
+   "id": "td20-mundo-02",
+   "title": "Ucrânia derruba trecho rodoviário da ponte de Kerch",
+   "summary": "Em três dias de ataques, a Ucrânia derrubou a seção rodoviária da ponte de Kerch e pode ter inutilizado a ferroviária. A ponte é rota de abastecimento crucial da Rússia para a Crimeia.",
    "highlights": [
-    "Lema comum: \"lute pelo nosso futuro, não pelas guerras deles\"",
-    "Mais de 50 grupos participaram, de Portugal à Grécia",
-    "Pautas incluem fim do alistamento e mais investimento em educação"
+    "Foi a quarta e mais complexa operação ucraniana contra a ponte",
+    "Drones Palyanytsia e mísseis Neptune e Flamingo foram usados",
+    "Putin chamou a ponte de \"instalação puramente civil\""
    ],
-   "body": "Estudantes e jovens trabalhadores saíram às ruas nesta sexta-feira em mais de 20 países europeus, em protestos coordenados contra a alta do custo de vida e da moradia, a deterioração das condições de ensino e o aumento dos gastos militares. Ativistas de mais de 50 grupos, em países como Bélgica, França, Alemanha, Grécia, Itália, Portugal, Espanha e Reino Unido, acenderam sinalizadores, queimaram tanques de papelão e exibiram cartazes com a frase \"lute pelo nosso futuro\".\n\nA coalizão Youth Strike chamou os atos de o maior protesto juvenil coordenado da Europa nos últimos anos, com manifestações previstas em cerca de 400 cidades sob o lema \"lute pelo nosso futuro, não pelas guerras deles\". O grupo fez cinco reivindicações, incluindo o fim da militarização e do serviço militar obrigatório, investimento estrutural em educação e bem-estar social, solidariedade à Palestina e justiça climática e social.\n\n\"Como jovens, sabemos que precisamos nos organizar e lutar pelo nosso futuro, porque ninguém fará isso por nós\", disse a organizadora portuguesa Leonor Chicó.",
+   "body": "A quarta e mais complexa operação da Ucrânia contra a ponte de Kerch derrubou a seção rodoviária e pode ter inutilizado a ferroviária ao longo de três dias de ataques, tirando do mapa uma rota crucial de abastecimento russo para a Crimeia. \"A rota curta de abastecimento a partir do território russo foi destruída\", declarou o Estado-Maior ucraniano.\n\nSegundo Kiev, os militares passaram um mês destruindo defesas antiaéreas, radares e equipamentos de guerra eletrônica no caminho. Em 17 de novembro, o serviço de segurança SBU disse ter usado drones kamikaze Palyanytsia para derrubar o trecho rodoviário; Zelensky afirmou que mísseis Neptune e Flamingo e drones Ruta atingiram o vão ferroviário, onde o serviço de trens foi suspenso.\n\nOs ataques fazem parte de uma ofensiva mais ampla contra instalações de petróleo e rotas de suprimento nas regiões russas de Rostov e Krasnodar. Putin minimizou a operação, dizendo que se tratava de \"uma instalação puramente civil\".",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs",
+   "published_at": "2026-11-20T13:37:35-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0095d668-1795200470.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "td20-mundo-08",
+   "title": "Espanha solta ativista procurado pelos EUA; polícia irlandesa faz buscas",
+   "summary": "A Justiça espanhola libertou sob fiança o ativista e doador americano James \"Fergie\" Chambers, alvo de pedido de extradição dos EUA. No mesmo dia, a polícia irlandesa fez buscas numa casa dele em Dublin.",
+   "highlights": [
+    "É o primeiro caso conhecido de extradição pedida por suposto apoio ao Hamas",
+    "Soltura se deve a problemas na tradução do pedido americano",
+    "Chambers estava preso desde 10 de julho, quando foi detido em Ibiza"
+   ],
+   "body": "Num dia agitado em torno do esforço do governo Trump para extraditá-lo, a Espanha libertou sob fiança o rico ativista e doador americano James \"Fergie\" Chambers, enquanto a polícia da Irlanda fazia buscas, a pedido dos EUA, numa casa em Dublin que pertence a ele e à companheira, Stella Schnabel.\n\nÉ o primeiro caso conhecido em que os EUA tentam extraditar um cidadão por suposto apoio ao Hamas, acusação aparentemente ligada a lavagem de dinheiro e a doações a organizações que ajudam palestinos em Gaza. Ao sair da prisão de Aranjuez, em Madri, Chambers chamou as acusações de \"infundadas\".\n\nUm tribunal de apelação ordenou a soltura condicional por causa de problemas na tradução para o espanhol dos documentos centrais do pedido de extradição. Os EUA admitiram em 17 de novembro ter alterado a tradução, chamando as mudanças de \"substanciais [e] inadvertidas\".",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
-   "published_at": "2026-11-20T10:15:28-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/9c1bf9801071520c294977f97d1d1d9838a1dab4/390_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7217b3024aa3f27fa452cbcdc33ab10"
+   "url": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+   "published_at": "2026-11-20T13:34:13-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/74547b1071ce9ebdb86931120adc604b11828149/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc53dede94532a3bebec6935598175ef"
   },
   {
-   "id": "md20-mundo-06",
-   "title": "Houthis e coalizão saudita trocam ameaças de bombardear portos",
-   "summary": "Os houthis ameaçaram atacar os portos sauditas no Mar Vermelho se a coalizão liderada por Riad bombardear o porto de Hodeidah, no Iêmen. O grupo também pediu que companhias aéreas evitem o espaço aéreo saudita.",
+   "id": "td20-mundo-01",
+   "title": "Polônia acusa Rússia de \"provocação intencional\" após mísseis",
+   "summary": "O governo polonês disse que armas russas caíram em seu território durante um dos maiores ataques da guerra contra a Ucrânia. Os bombardeios mataram ao menos oito pessoas na Ucrânia, segundo Zelensky.",
    "highlights": [
-    "Coalizão pediu evacuação de áreas do porto de Hodeidah",
-    "Houthis citaram Jeddah como possível alvo",
-    "Na véspera, o grupo atingiu o arranha-céu mais alto de Riad"
+    "Rússia disparou mais de 400 drones e 110 mísseis, diz Zelensky",
+    "Caças de países da Otan foram acionados",
+    "Embaixada da Áustria em Kiev foi atingida; França pede reunião na ONU"
    ],
-   "body": "Os houthis do Iêmen e a coalizão liderada pela Arábia Saudita trocaram ameaças de bombardear portos estratégicos, em nova escalada entre as partes. Nesta sexta-feira, a coalizão que apoia o governo iemenita reconhecido internacionalmente pediu que civis deixassem áreas do porto de Hodeidah, controlado pelos houthis, sem dar mais detalhes.\n\nO porta-voz militar houthi, Yahya Saree, respondeu no X que o porto de Jeddah e todos os portos sauditas no Mar Vermelho se tornariam \"alvos\" se a coalizão atacasse Hodeidah, e pediu que trabalhadores e empresas de navegação deixassem esses portos. O grupo, apoiado pelo Irã, também alertou companhias aéreas a evitarem o espaço aéreo saudita, que \"será palco de nossas operações nas próximas horas\".\n\nAs ameaças vêm um dia depois de os houthis atingirem o arranha-céu mais alto de Riad, o que aumentou o temor de uma escalada num conflito que já provocou crise humanitária no Iêmen, em paralelo à guerra liderada pelos EUA contra o Irã.",
+   "body": "A Polônia afirmou que mísseis russos caíram em seu território durante a noite, enquanto as forças de Vladimir Putin atacavam a Ucrânia no que o presidente Volodymyr Zelensky chamou de \"um dos maiores ataques\" desde o início da guerra. Os bombardeios mataram ao menos oito pessoas na Ucrânia.\n\n\"Sabemos que o que caiu em solo polonês veio da Rússia. Não parece um acidente. Parece que estamos lidando com uma provocação intencional\", disse o premiê polonês Donald Tusk. Caças F-16 poloneses, Gripens suecos e um avião-tanque holandês, entre outros, responderam ao incidente; segundo o ministro da Defesa, três armas — provavelmente dois mísseis e um drone — entraram no espaço aéreo do sudeste do país, sem feridos.\n\nZelensky disse que a Rússia lançou mais de 400 drones e 110 mísseis, incluindo munições de fragmentação. Parte das armas atingiu a embaixada da Áustria e caiu perto da embaixada da Holanda em Kiev, e a França pediu uma reunião do Conselho de Segurança da ONU.",
+   "category": "mundo",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
+   "published_at": "2026-11-20T13:21:50-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/20/1ae49c17-83f2-47a1-8f33-1da27e18b43e/thumbnail/1200x630/61884d8ef5100c1f56239413db222432/poland-russia-missile-ukraine.jpg"
+  },
+  {
+   "id": "td20-mundo-03",
+   "title": "Dinamarca expulsa adido russo após plano para matar rapper",
+   "summary": "A Dinamarca vai expulsar o adido de defesa da Rússia depois que a inteligência dinamarquesa concluiu que Moscou planejou matar o rapper ucraniano-americano Kyivstoner. O país também estuda suspender vistos Schengen para russos.",
+   "highlights": [
+    "Plano foi frustrado em setembro, antes de um show na Dinamarca",
+    "Três homens ligados ao crime organizado foram presos",
+    "Expulsão deve ocorrer em até sete dias"
+   ],
+   "body": "O chanceler dinamarquês, Lars Løkke Rasmussen, anunciou que o adido de defesa da Rússia em Copenhague será expulso depois que Moscou passou a ser suspeita de planejar o assassinato do rapper ucraniano-americano Kyivstoner. \"Estamos dizendo muito claramente: nós expusemos vocês\", afirmou. A expulsão deve ocorrer em até sete dias.\n\nSegundo a polícia, o plano foi frustrado com a prisão de três homens ligados ao submundo do crime dinamarquês pouco antes de um show marcado para 25 de setembro, que acabou cancelado. O chefe do serviço de inteligência do país disse ser \"clara avaliação\" que a tentativa foi planejada pela inteligência russa. O rapper, cujo nome verdadeiro é Albert Viktorovich Vasiliev, tem cidadania americana e ucraniana.\n\nRasmussen disse ainda que a Dinamarca considera suspender vistos Schengen para russos e trabalha no nível europeu para restringir o acesso de cidadãos russos à Europa, mantendo o apoio à Ucrânia.",
+   "category": "mundo",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "published_at": "2026-11-20T13:16:12-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=081d395a4370a5d19c713130bb52b78f"
+  },
+  {
+   "id": "td20-mundo-04",
+   "title": "Reino Unido fecha acordo com a UE e mira laços ainda mais próximos",
+   "summary": "O premiê britânico Andy Burnham anunciou um acordo com a União Europeia sobre exportações de alimentos, comércio de emissões e um programa para jovens. O Tesouro estima ganho de até £17 bilhões por ano.",
+   "highlights": [
+    "Fim da maioria dos controles sobre exportações de alimentos a partir de 2028",
+    "Conservadores dizem que acordo \"não é justo\"; Farage fala em \"traição\"",
+    "Lei para implementar o acordo deve chegar ao Parlamento na próxima semana"
+   ],
+   "body": "O primeiro-ministro do Reino Unido, Andy Burnham, disse que o país vai discutir opções para laços ainda mais estreitos com a União Europeia depois de fechar, em Bruxelas, um acordo que abrange exportações de alimentos, comércio de emissões e um programa de experiência para jovens. Segundo ele, o Tesouro calcula que o pacto pode impulsionar a economia britânica em até £17 bilhões por ano.\n\nO acordo prevê o fim da maior parte dos controles sobre exportações britânicas de alimentos, em troca de o Reino Unido seguir algumas regras da UE, a partir de 2028. O presidente do Conselho Europeu, António Costa, disse que o bloco segue \"aberto à relação mais próxima possível\".\n\nA líder conservadora Kemi Badenoch afirmou que o acordo \"não é justo\", e Nigel Farage, do Reform, chamou-o de \"traição ao povo britânico\". O pacto é a mais nova etapa do \"reset\" pós-Brexit iniciado pelo ex-premiê Keir Starmer, e a legislação deve ser apresentada ao Parlamento na próxima semana.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+   "published_at": "2026-11-20T12:49:48-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "id": "td20-mundo-06",
+   "title": "Catar promete € 15 bilhões em investimentos na Alemanha",
+   "summary": "Em visita a Berlim, o emir do Catar, xeque Tamim bin Hamad Al Thani, ampliou a cooperação com a Alemanha em defesa e tecnologia. O chanceler Friedrich Merz disse que o Catar prometeu € 15 bilhões em novos investimentos.",
+   "highlights": [
+    "Investimento deve reforçar IA, chips e aviação",
+    "Países vão cooperar contra ataques cibernéticos",
+    "Conversas incluíram o fim da guerra no Irã e Ormuz"
+   ],
+   "body": "O emir do Catar, xeque Tamim bin Hamad Al Thani, conversou com líderes alemães em Berlim sobre ampliar a cooperação diplomática e de defesa, numa relação até aqui centrada em comércio e investimentos. Em entrevista conjunta, o chanceler Friedrich Merz disse que o Catar se comprometeu com mais € 15 bilhões (US$ 16,5 bilhões) em investimentos.\n\nSegundo Merz, o dinheiro vai fortalecer a cooperação em inteligência artificial, chips e aviação, e a Alemanha tem interesse em parcerias na indústria de defesa com o Catar. Os dois países também concordaram em trabalhar juntos na proteção contra ataques cibernéticos.\n\nAs conversas ocorrem enquanto o Catar busca uma solução diplomática para a guerra de EUA e Israel contra o Irã, que afetou o tráfego no Estreito de Ormuz. O presidente alemão, Frank-Walter Steinmeier, propôs uma conferência de segurança regional para o Oriente Médio.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports",
-   "published_at": "2026-11-20T09:48:04-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b003d8ba895-1795177867.jpg?resize=1200%2C675"
+   "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit",
+   "published_at": "2026-11-20T11:13:57-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-20T145442Z_797258609_RC2QROACJ71P_RTRMADP_3_GERMANY-QATAR-STATEMENT-1795187864.jpg?resize=1920%2C1440"
   },
   {
-   "id": "md20-mundo-08",
-   "title": "Japão pode suspender veto de 76 anos à batata americana sob pressão de Trump",
-   "summary": "O Japão, que importa 60% de seus alimentos, pode ser forçado a liberar a importação de batatas dos EUA pela primeira vez em 76 anos. A proposta, ainda não confirmada, já enfrenta forte oposição dos agricultores japoneses.",
+   "id": "td20-mundo-07",
+   "title": "Quase 600 mulheres foram mortas na África do Sul em três meses",
+   "summary": "Estatísticas oficiais mostram que 581 mulheres foram assassinadas na África do Sul entre julho e setembro. O número inclui 13 mulheres encontradas mortas em torno de Joanesburgo, caso que gerou comoção nacional.",
    "highlights": [
-    "EUA pedem a liberação desde 2020, no primeiro mandato de Trump",
-    "Produtores temem pragas, doenças e preços mais baixos",
-    "Ministério da Agricultura já avalia riscos sanitários"
+    "131 das mortes ocorreram na província de Gauteng",
+    "País registrou 5.590 homicídios no trimestre, cerca de 60 por dia",
+    "Polícia tinha parado de divulgar dados sobre mulheres por \"anomalias\""
    ],
-   "body": "Pela primeira vez em 76 anos, o Japão pode ser forçado a suspender a proibição à importação de batatas dos Estados Unidos, sob forte pressão do presidente Donald Trump. A proposta, ainda não confirmada, já provoca oposição de produtores japoneses, que temem a entrada de pragas e doenças estrangeiras e a concorrência de importações baratas.\n\nOs EUA pediram pela primeira vez a liberação em 2020, no primeiro mandato de Trump, e voltaram a pressionar neste ano. Em março, parlamentares americanos pediram que Trump tratasse do tema em reunião com a primeira-ministra Sanae Takaichi. Segundo observadores, Tóquio passou a considerar seriamente o assunto, possivelmente como moeda de troca nas disputas comerciais e tarifárias.\n\nDe acordo com a imprensa japonesa, o Ministério da Agricultura do Japão está identificando possíveis problemas, como doenças e pragas, para depois cobrar medidas dos EUA. O país importa 60% de seus alimentos, mas batata crua e arroz sempre foram exceções, e a batata tem importância histórica e cultural em pratos populares como o nikujaga.",
+   "body": "Quase 600 mulheres foram mortas na África do Sul entre julho e setembro deste ano, segundo as estatísticas criminais divulgadas nesta sexta. Ao todo foram 581 vítimas, 131 delas na província de Gauteng, onde fica Joanesburgo. O número inclui 13 mulheres cujos corpos foram encontrados em áreas públicas em torno da cidade, o que provocou indignação nacional.\n\nNo caso mais recente, cinco mulheres e uma criança pequena foram mortas a tiros na província de Free State nesta semana. O país tem uma das maiores taxas de violência de gênero e de homicídios do mundo.\n\nA polícia registrou 5.590 homicídios no trimestre, 204 a menos que no mesmo período do ano passado — ainda assim, cerca de 60 por dia. Não está claro se o número de mulheres mortas subiu ou caiu, porque a polícia havia deixado de divulgar esse dado por causa de \"anomalias significativas\" nas estatísticas.",
    "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple",
-   "published_at": "2026-11-20T09:38:25-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2299431678-1795183029.jpg?resize=1920%2C1440"
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+   "published_at": "2026-11-20T10:55:16-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg"
   },
   {
-   "id": "md20-mundo-03",
-   "title": "COP31 na Turquia é criticada por omitir combustíveis fósseis do rascunho final",
-   "summary": "Ativistas e líderes reagiram com indignação depois que o termo \"combustíveis fósseis\" ficou de fora do rascunho do acordo final da COP31, em Antália. As negociações devem se estender até sábado.",
+   "id": "td20-weston-01",
+   "title": "Feriado de MLK 2027: o que fecha em Weston e eventos grátis",
+   "summary": "O Weston Journal publicou o guia do feriado de Martin Luther King Jr., em 18 de janeiro de 2027: escritórios da prefeitura fecham, a coleta de lixo é normal e não há aula. Sunrise, a cerca de 16 km, terá eventos gratuitos em 16 e 17 de janeiro.",
    "highlights": [
-    "Sexta era o último dia previsto da cúpula de duas semanas",
-    "Ativista alerta para risco de \"pior COP de todas\"",
-    "Panamá promete objeção formal se exigências forem ignoradas"
+    "Prefeitura de Weston fecha; parques funcionam normalmente",
+    "Sunrise Civic Center terá oficina de poesia, filme \"Dreamgirls\" e show",
+    "Weston ainda não anunciou evento próprio de MLK"
    ],
-   "body": "As negociações climáticas da ONU deste ano estão chegando ao fim em Antália, na Turquia, com os negociadores ainda debatendo como enfrentar o aquecimento global. Ativistas e líderes de países reagiram com revolta na sexta-feira, último dia previsto da cúpula de duas semanas conhecida como COP31, depois que o termo \"combustíveis fósseis\" ficou fora do rascunho do acordo final. Os negociadores, que viraram a noite, esperam que a conferência se estenda até sábado.\n\nConferências anteriores não chegaram a um acordo sobre como abandonar carvão, petróleo e gás. Se o fim dos combustíveis fósseis não entrar no texto final, a cúpula corre o risco de ser a \"pior COP de todas\", disse Mohamed Adow, diretor da Power Shift Africa.\n\nEm um gesto raro, o Panamá prometeu \"objetar formalmente\" caso o acordo não inclua financiamento climático, um teto para a produção de petróleo e o reconhecimento de metas não cumpridas. O ministro do Meio Ambiente, Juan Carlos Navarro, disse que as negociações estão reféns de uma \"máfia do petróleo\".",
-   "category": "mundo",
-   "source": "Local10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/20/un-climate-talks-in-turkey-risk-being-worst-cop-ever-as-fossil-fuels-go-unmentioned/",
-   "published_at": "2026-11-20T09:10:03-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/LNFZ4RK35G3V36MXVRFTH2XHCA.jpg?auth=8db3741685821ef7a3b8714517cb9c96d5969483ed8b359562b6d401de432878&width=700"
-  },
-  {
-   "id": "md20-mundo-02",
-   "title": "Tropas de 11 países europeus treinam na Polônia para missão pós-guerra na Ucrânia",
-   "summary": "Milhares de soldados europeus participam de um exercício inédito no sudeste da Polônia para preparar uma possível missão de estabilização na Ucrânia após o fim da guerra. A força é liderada por França e Reino Unido.",
-   "highlights": [
-    "Iniciativa é da \"Coalizão dos Dispostos\", fora da Otan",
-    "Exercício de duas semanas começou em 9 de novembro",
-    "Polônia vê queda de míssil russo como recado às manobras"
-   ],
-   "body": "Milhares de soldados europeus participam de um exercício militar sem precedentes no sudeste da Polônia, para se preparar para uma possível missão na Ucrânia depois da guerra, voltada a ajudar a estabilizar o país e reconstruir suas Forças Armadas. Liderada por França e Reino Unido, a força é uma iniciativa militar fora da Otan da chamada Coalizão dos Dispostos, grupo político de 37 países que apoiam a Ucrânia.\n\nO exercício de duas semanas, iniciado em 9 de novembro, testa pela primeira vez a capacidade da coalizão de se deslocar para a Ucrânia quando a guerra acabar. A ideia é tanto testar planos quanto mandar um recado à Rússia e ao governo Trump de que os europeus estão reforçando sua presença militar.\n\nDurante as manobras, o premiê polonês Donald Tusk disse que um míssil russo caiu perto da fronteira com a Ucrânia, a cerca de 75 km dos exercícios, provavelmente como provocação intencional. \"Não foi um evento acidental. Foi coordenado com a nossa demonstração de força\", afirmou o ministro da Defesa, Władysław Kosiniak-Kamysz.",
-   "category": "mundo",
-   "source": "Local10 (AP)",
-   "url": "https://www.local10.com/news/world/2026/11/20/european-troops-from-11-countries-hold-a-drill-in-poland-for-a-potential-postwar-ukraine-mission/",
-   "published_at": "2026-11-20T08:58:44-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/VGYJ2UKN2C52A4BQL7IMAX3ISQ.jpg?auth=28a041b12a7ee631a17e1ec84570ca4253a891bd3643234d2c8cb2e11c1db6f6&width=700"
-  },
-  {
-   "id": "md20-mundo-01",
-   "title": "Míssil russo cai na Polônia durante exercício de aliados da Ucrânia",
-   "summary": "A Polônia afirma que um míssil de cruzeiro russo Kh-101 estava entre três objetos que violaram seu espaço aéreo na madrugada desta sexta. O premiê Donald Tusk disse que o episódio não parece acidental.",
-   "highlights": [
-    "Míssil caiu em área rural a cerca de 50 km da fronteira ucraniana",
-    "Ninguém ficou ferido e não houve danos",
-    "Otan acionou caças e condenou \"graves violações\""
-   ],
-   "body": "A Polônia afirma que um míssil de cruzeiro russo estava entre três objetos que violaram seu espaço aéreo na madrugada desta sexta-feira. O primeiro-ministro Donald Tusk disse que o episódio não parece ter sido um acidente, já que ocorreu durante exercícios militares ocidentais na região. Ninguém ficou ferido e não houve danos, mas Varsóvia classificou o incidente como uma \"provocação\" de Moscou.\n\nSegundo o ministro da Defesa, Władysław Kosiniak-Kamysz, o míssil Kh-101 caiu numa área rural em Nowy Lipowiec, no sudeste do país, a cerca de 50 km da fronteira com a Ucrânia, por volta das 6h30 locais. Outro possível míssil caiu perto de Rudnik nad Sanem, e um drone a jato caiu mais ao sul, perto de Mołodycz. O ministro disse que pedirá apoio adicional à Otan.\n\nA Rússia não comentou as violações, ocorridas durante um dos maiores ataques aéreos contra a Ucrânia desde o início da invasão em larga escala, em 2022. O secretário-geral da Otan, Mark Rutte, condenou as \"graves violações do espaço aéreo polonês\" e informou que caças da aliança foram acionados.",
-   "category": "mundo",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
-   "published_at": "2026-11-20T08:52:04-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "id": "md20-mundo-04",
-   "title": "Trump, Putin e Xi prometem mais combustível ao mundo, mas analistas duvidam",
-   "summary": "Após a cúpula trilateral em Shenzhen, os líderes de EUA, China e Rússia disseram em comunicado que planejam aumentar a produção e oferta de derivados de petróleo. Analistas consideram a promessa difícil de cumprir em meio às guerras no Irã e na Ucrânia.",
-   "highlights": [
-    "EUA têm pouca ou nenhuma capacidade ociosa de refino",
-    "Refinarias russas sofrem ataques ucranianos",
-    "Economista chamou o anúncio de \"ruído político\""
-   ],
-   "body": "Os Estados Unidos, a China e a Rússia prometeram aumentar a oferta de combustíveis enquanto as guerras no Irã e na Ucrânia continuam a abalar os mercados globais de energia. Após a cúpula trilateral em Shenzhen, na quinta-feira, Donald Trump, Xi Jinping e Vladimir Putin disseram em comunicado conjunto que \"planejam aumentar a produção e a oferta de derivados de petróleo em benefício de todas as nações\" e reafirmaram a importância de fluxos estáveis de energia.\n\nAnalistas, porém, são céticos: os EUA têm pouca ou nenhuma capacidade ociosa de refino, a Rússia é limitada pelos ataques ucranianos à sua infraestrutura energética e as importações de petróleo bruto da China foram afetadas pela guerra de EUA e Israel contra o Irã.\n\n\"O comunicado trilateral deve ser tratado como ruído político, e não como o primeiro passo para ampliar a oferta global de combustíveis\", disse à Al Jazeera Hamad Hussain, economista da Capital Economics. China e EUA são os maiores refinadores do mundo em capacidade, seguidos por Rússia e Índia.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how",
-   "published_at": "2026-11-20T08:42:56-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-20T163141Z_958203687_RC23TKA36O31_RTRMADP_3_OIL-INVENTORIES-EIA-1778555463.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "md20-mundo-05",
-   "title": "Mianmar e China rejeitam decisão da CIJ sobre genocídio dos rohingya",
-   "summary": "O governo de Mianmar chamou de \"injusta\" a decisão da Corte Internacional de Justiça que reconheceu genocídio contra a minoria rohingya em 2017. A China, aliada do regime militar, também criticou o veredicto.",
-   "highlights": [
-    "Porta-voz de Mianmar destacou que decisão não foi unânime",
-    "Nove dos 15 juízes votaram pelo reconhecimento do genocídio",
-    "CIJ apontou execuções em massa, estupros e vilas queimadas"
-   ],
-   "body": "O governo de Mianmar rejeitou a decisão da Corte Internacional de Justiça (CIJ) segundo a qual suas forças de segurança cometeram genocídio patrocinado pelo Estado contra a minoria muçulmana rohingya, numa ofensiva em 2017. \"Nosso país foi acusado injustamente. Essa decisão não foi unânime; não é justa\", disse a porta-voz do governo militar, Khaing Khaing Soe, nesta sexta-feira.\n\nA China, aliada do regime militar, também criticou o veredicto, afirmando que decisões desse tipo \"não contribuem para a solução de disputas\". Um dia antes, Pequim havia divulgado comunicado com EUA e Rússia pedindo que órgãos internacionais como a CIJ não abusem de sua jurisdição.\n\nA corte concluiu que os militares de Mianmar realizaram execuções em massa de homens e meninos, cometeram estupros e violência sexual generalizados contra mulheres rohingya e queimaram ou arrasaram centenas de vilarejos nas chamadas \"operações de limpeza\". Dos 15 juízes, nove votaram pelo reconhecimento do genocídio.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling",
-   "published_at": "2026-11-20T08:41:49-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00161225-1795167762.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "md20-mundo-09",
-   "title": "EUA apertam bloqueio ao Irã e miram transferências entre navios",
-   "summary": "O Comando Central dos EUA avisou que navios que recebam carga iraniana por transferência em alto-mar podem ser parados, abordados ou até apreendidos. A medida tenta fechar uma brecha usada para escoar derivados de petróleo do Irã.",
-   "highlights": [
-    "Bloqueio aos portos e ao petróleo iraniano vigora desde meados de julho",
-    "Guarda Revolucionária ameaça retaliar ataques a navios iranianos",
-    "Analista vê um dos cenários de escalada mais perigosos das últimas semanas"
-   ],
-   "body": "As Forças Armadas dos Estados Unidos endureceram o bloqueio naval ao Irã, avisando que navios que recebam carga iraniana por meio de transferências entre embarcações enfrentarão ação militar. Em comunicado na quarta-feira, o Comando Central dos EUA (Centcom) disse que navios que recebem carga de embarcações carregadas em portos ou na costa iraniana podem ser considerados como \"evadindo o bloqueio\".\n\nA medida busca fechar uma brecha que permitia que parte dos derivados de petróleo iranianos chegasse aos mercados internacionais, apesar do bloqueio americano aos portos e às exportações de petróleo do Irã desde meados de julho. Teerã procura formas de retomar as exportações, e a Guarda Revolucionária tem alertado repetidamente que retaliará ataques a navios iranianos.\n\nAnalistas avaliam que o Irã dificilmente romperá o bloqueio militarmente, mas pode tentar tornar sua aplicação cara política e economicamente para Washington, o que eleva o risco de um confronto regional mais amplo. \"Este é potencialmente um dos cenários de escalada mais perigosos que vimos nas últimas semanas\", disse Andreas Krieg, do King's College London.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade",
-   "published_at": "2026-11-20T07:19:24-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0023dc-1795171292.jpg?resize=1920%2C1440"
+   "body": "O Dia de Martin Luther King Jr. será na segunda-feira, 18 de janeiro de 2027. Em Weston, fecham a prefeitura, o Administrative Services Center, o Community Center e o Public Works Services Center; os parques mantêm o horário normal e a coleta de lixo e recicláveis funciona como de costume. Não haverá aula nas escolas públicas de Broward.\n\nA comemoração mais próxima já com programação definida é em Sunrise, cerca de 16 km ao norte, onde o Sunrise Civic Center (10610 W. Oakland Park Blvd.) terá eventos gratuitos em 16 e 17 de janeiro: oficina de poesia para adolescentes, exibição em família do filme \"Dreamgirls\", abertura de exposição de arte e show da FM Band. As vagas são limitadas; informações pelo 954-747-4646.\n\nSegundo o Weston Journal, a cidade de Weston não havia divulgado evento próprio de MLK até 20 de novembro. Os próximos eventos municipais em janeiro são um Moonlight Movie no Regional Park em 9 de janeiro e a Winter Safety Expo em 22 de janeiro.",
+   "category": "weston",
+   "source": "Weston Journal",
+   "url": "https://westonjournal.com/mlk-day/",
+   "published_at": "2026-11-20T02:59:00-05:00",
+   "image_url": "https://westonjournal.com/share/mlk-day-a179960454.png"
   },
   {
    "id": "md20-weston-01",
@@ -293,228 +357,324 @@
    "image_url": "https://seabreeze-media.atl1.digitaloceanspaces.com/wp-content/uploads/sites/47/2026/11/17092925/flamingo-gardens-winter-wonderland-tree-lights.jpg"
   },
   {
-   "id": "md20-miami-03",
-   "title": "Homem é preso por atirar na esposa que queria se separar em Pompano Beach",
-   "summary": "Herbert Rozier, de 52 anos, foi preso na quinta-feira acusado de atirar na esposa durante uma discussão sobre o fim do casamento, em 11 de novembro, em Pompano Beach. A vítima foi atingida no ombro.",
+   "id": "td20-miami-02",
+   "title": "Moradora de Davie perde quase tudo após enchente e incêndio",
+   "summary": "Sandra Rice perdeu o noivo e, dias depois, quase tudo o que tinha em casa com a enchente em Davie, que causou também um incêndio elétrico. A rua dela, a Southwest 31st Street, continua alagada.",
    "highlights": [
-    "Disparo ocorreu perto do bloco 800 da NW 6th Street",
-    "Vítima foi levada ao Broward Health North",
-    "Filho da mulher diz ter testemunhado o tiro"
+    "Água invadiu a casa e provocou incêndio na terça à noite",
+    "Família espera ajuda da Cruz Vermelha e da FEMA",
+    "Inspeção ainda não foi possível por causa da água alta"
    ],
-   "body": "Um homem de 52 anos acusado de atirar na esposa durante uma discussão sobre o casamento foi preso, segundo o Gabinete do Xerife de Broward (BSO). Registros da prisão mostram que Herbert Rozier foi detido na quinta-feira pelo disparo de 11 de novembro, ocorrido pouco antes das 16h perto do bloco 800 da Northwest Sixth Street, em Pompano Beach. A vítima foi baleada no ombro direito e levada ao Broward Health North.\n\nSegundo o boletim, a discussão começou porque ela não queria mais continuar casada. Rozier chegou à casa da mulher num SUV Honda 2026; ela pediu repetidamente que ele fosse embora e, diante da recusa, quebrou vidros do carro dele com uma ferramenta. Ele então sacou uma arma e disparou várias vezes.\n\nA vítima disse aos policiais acreditar que Rozier era \"capaz de matá-la\". O filho dela afirmou que estava do lado de fora do apartamento e viu o acusado atirar.",
+   "body": "Sandra Rice perdeu o noivo e, em poucos dias, quase tudo o que havia em sua casa por causa das enchentes provocadas pelas chuvas em Davie. A água continua cobrindo sua rua, a Southwest 31st Street, e entrou na casa dela e dos vizinhos dias atrás. No caso dela, também provocou um incêndio elétrico na noite de terça-feira, que deixou o quarto carbonizado.\n\nO que sobrou de seus pertences está do lado de fora, em volta da piscina que fica cada vez mais marrom com a água da enchente. Rice espera ajuda da Cruz Vermelha e da FEMA, mas até agora a água está alta demais para que esses órgãos ou o corpo de bombeiros inspecionem o imóvel. \"Para onde vamos se condenarem a casa?\", perguntou.\n\nPor enquanto, ela dorme num pequeno espaço da sala, e a filha dorme na caminhonete, cada uma com um dos dois cachorros. Rice agradece a ajuda de vizinhos: \"Temos de olhar para o amanhã, estamos vivos.\"",
    "category": "miami",
-   "source": "Local10",
-   "url": "https://www.local10.com/news/local/2026/11/20/pompano-beach-man-accused-of-shooting-wife-after-she-threatened-to-leave-him/",
-   "published_at": "2026-11-20T09:53:35-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-20-2026%2Ft_9bd4d980441a44118f3d70776ca86b50_name_49754199053_hdtv.jpg?auth=ba4bdb419b57e69e61fcdf782d120263be1c7f3d86457188f4ff1fdda9e4247e&width=700"
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/20/davie-woman-loses-nearly-everything-after-floods/",
+   "published_at": "2026-11-20T13:52:06-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-20-2026%2Ft_983a139cd2c641fcad9eaa919f48c0b5_name_49757591447_hdtv.jpg?auth=fc9666ce2e91025d5d5277d6ea38cc52e2bbe523898983f4a648b16e5497e9b9&width=700"
   },
   {
-   "id": "md20-miami-05",
-   "title": "Shops at Merrick Park acende árvore de Natal em Coral Gables",
-   "summary": "O shopping Shops at Merrick Park, em Coral Gables, realizou na quinta-feira sua 23ª cerimônia anual de iluminação da árvore de Natal, com Papai Noel e a apresentadora Lili Estefan. Doral e Hollywood fazem suas cerimônias nesta sexta.",
+   "id": "td20-miami-03",
+   "title": "Cão policial baleado em Cooper City segue em estado crítico",
+   "summary": "O K-9 Scuba, do Gabinete do Xerife de Broward, continua em estado crítico, mas estável, após ser baleado durante investigação de arrombamento em Cooper City. Um deputado foi atendido e liberado, e o suspeito também está em estado crítico.",
    "highlights": [
-    "Árvore de 50 pés (15 m) foi acesa com apresentação do Miami City Ballet",
-    "Evento teve apoio do Nicklaus Children's Hospital",
-    "Doral (18h) e Hollywood (17h) acendem árvores nesta sexta"
+    "Tiroteio ocorreu por volta das 4h de quinta em Stirling Springs",
+    "Suspeito é Michael Aaron Joseph Whitehead, 27, de Fort Lauderdale",
+    "Policiais de Davie e Pembroke Pines ajudaram na operação"
    ],
-   "body": "Papai Noel passou por Coral Gables para ajudar a acender uma árvore de Natal e marcar o início da temporada de festas. Acompanhado do Corpo de Bombeiros de Coral Gables e da apresentadora Lili Estefan, ele participou na quinta-feira da 23ª cerimônia anual de iluminação da árvore do Shops at Merrick Park.\n\nDepois de acesa, a árvore de 50 pés (cerca de 15 metros) encantou o público, que também assistiu a uma apresentação especial do Miami City Ballet. O evento foi organizado em parceria com o Miami Mom Collective e patrocinado pelo Nicklaus Children's Hospital.\n\nAs festividades continuam nesta sexta-feira pelo Sul da Flórida: Doral realiza sua cerimônia no Downtown Doral Park às 18h, e Hollywood promove a sua no ArtsPark at Young Circle às 17h.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/miami-dade/merrick-park-tree-lighting/",
-   "published_at": "2026-11-20T09:45:41-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/111926-coral-gables-christmas-tree-lighting.png"
-  },
-  {
-   "id": "md20-miami-01",
-   "title": "Sul da Flórida começa a secar, mas chuva volta no sábado",
-   "summary": "A sexta-feira deve ser majoritariamente seca no Sul da Flórida, o que permite que a água acumulada das enchentes baixe. Um sistema de baixa pressão no Golfo deve trazer pancadas de chuva no sábado à tarde.",
-   "highlights": [
-    "Partes de Broward tiveram quase 5 polegadas de chuva na quinta",
-    "Máximas na casa dos 27-28 °C nesta sexta",
-    "Dia de Ação de Graças deve ser seco e mais fresco"
-   ],
-   "body": "A equipe de meteorologia da CBS News Miami prevê um dia majoritariamente seco nesta sexta-feira no Sul da Flórida, com apenas algumas pancadas rápidas e isoladas — nada comparado à chuva do início da semana. Na quinta, partes do condado de Broward receberam quase 5 polegadas (12 cm) de chuva, e o tempo seco deve permitir que a água parada das enchentes recue.\n\nA nebulosidade baixa deve bloquear boa parte do sol, e as máximas ficam na casa dos 80 °F (cerca de 27 °C). Um centro de baixa pressão atravessando o Golfo deve empurrar pancadas de chuva para a região no sábado à tarde.\n\nO tempo melhora no domingo e na segunda, mas a chuva retorna na terça e na quarta-feira. A previsão para o Dia de Ação de Graças, na quinta, é de tempo seco e mais fresco.",
+   "body": "Um deputado do Gabinete do Xerife de Broward (BSO) recebeu alta do hospital, mas um cão policial e um suspeito armado continuam em estado crítico, porém estável, após um tiroteio em Cooper City na madrugada de quinta-feira. Os agentes atendiam a um chamado de possível arrombamento no condomínio Stirling Springs, perto da North Palm Avenue com a Southwest 57th Court, por volta das 4h.\n\nDurante a investigação, um deputado da unidade K-9 encontrou o suspeito armado, identificado como Michael Aaron Joseph Whitehead, 27, de Fort Lauderdale. \"Em algum momento houve um tiroteio; um deputado, um K-9 do BSO e o suspeito foram atingidos\", disse o porta-voz Carey Codd. Policiais de outras cidades, como Davie e Pembroke Pines, reforçaram a operação.\n\nNa atualização desta sexta, o BSO informou que o K-9 Scuba segue se recuperando no VCA Hollywood Animal Hospital. \"Scuba passou bem a noite, e os médicos continuam acompanhando sua evolução\", disse o gabinete.",
    "category": "miami",
    "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-november-20-2026/",
-   "published_at": "2026-11-20T09:01:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/d87bba7a-a942-42af-aca1-bc52796f4ea1/thumbnail/1200x630/ec9a6c6b337d3c0b8ffc1475b9a7eb87/hour-by-hour-today.png"
+   "url": "https://www.cbsnews.com/miami/news/cooper-city-shooting-investigation-broward-sheriffs-office/",
+   "published_at": "2026-11-20T13:16:16-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/005072ac-657e-458a-aca2-6a9d60442779/thumbnail/1200x630/e097aa945e99a6eab5b9ac305cad8411/cbsmiami-cooper-city-shooting-1.jpg"
   },
   {
-   "id": "md20-miami-06",
-   "title": "Miami Hurricanes recebem Virginia Tech com vaga na final da ACC em jogo",
-   "summary": "O Miami, 5º do ranking e 9-1 na temporada, pode garantir no sábado a vaga na final da ACC de 5 de dezembro se vencer Virginia Tech. O time segue sem o recebedor Malachi Toney, lesionado.",
+   "id": "td20-miami-04",
+   "title": "Carro afunda em canal de Miami Beach; motorista se salva a nado",
+   "summary": "Uma pessoa foi levada ao hospital depois que um carro afundou num canal de Miami Beach na manhã desta sexta. O único ocupante conseguiu sair do veículo e nadar até um local seguro.",
    "highlights": [
-    "Hurricanes estão 7-0 na conferência e em 7º no ranking do CFP",
-    "Time igualou sua maior sequência de vitórias na ACC: 11 seguidas",
-    "Virginia Tech, de James Franklin, tem campanha de 6-4"
+    "Caso ocorreu pouco depois das 11h15 entre a Collins Avenue e a Pine Tree Drive",
+    "Ocupante foi levado ao Mount Sinai em condição estável",
+    "Trânsito na região foi afetado"
    ],
-   "body": "O Miami Hurricanes, 5º colocado no ranking e com campanha de 9-1 (7-0 na Atlantic Coast Conference e 7º no ranking do College Football Playoff), pode garantir neste sábado sua vaga na final da ACC, marcada para 5 de dezembro, com uma vitória sobre Virginia Tech (6-4, 3-4), em Miami Gardens.\n\nSeria preciso um colapso de proporções épicas para o time ficar fora da decisão, mas o elenco mantém o foco semana a semana. \"Só mantendo a mentalidade de 1-0\", disse o quarterback Darian Mensah. Os Hurricanes venceram 11 jogos seguidos na ACC, igualando a maior sequência do time desde que entrou na conferência, em 2004.\n\nO Miami seguirá sem o recebedor Malachi Toney, que se recupera de uma entorse alta no tornozelo; mesmo sem ele, o time marcou 36 pontos contra Duke na semana passada. \"Uma oportunidade tremenda contra um time muito bom\", disse o técnico de Virginia Tech, James Franklin.",
+   "body": "Uma pessoa foi hospitalizada depois que um carro afundou num canal em Miami Beach nesta sexta-feira, segundo a polícia. O veículo caiu na água pouco depois das 11h15, entre a Collins Avenue e a Pine Tree Drive, a oeste do bairro de Mid-Beach.\n\nSegundo o porta-voz da polícia de Miami Beach, Christopher Bess, o único ocupante conseguiu sair do carro e nadar até a margem perto da 46th Avenue. Os bombeiros levaram a pessoa, em condição estável, ao Mount Sinai Medical Center por precaução.\n\nImagens aéreas mostraram o carro verde totalmente submerso. A polícia pediu que quem tiver informações ligue para o Crime Stoppers de Miami-Dade, no 305-471-8477.",
    "category": "miami",
-   "source": "WSVN 7News (AP)",
-   "url": "https://wsvn.com/sports/college/miami-hurricanes/miami-eye-acc-title-game/",
-   "published_at": "2026-11-20T08:31:23-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2020/01/miami-hurricanes-football-senior-day-11-9-19_1_moment.jpg?quality=60&strip=color"
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/20/police-officers-investigate-car-submerged-in-miami-beach-canal/",
+   "published_at": "2026-11-20T13:11:44-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-20-2026%2Ft_40b8855a40b34425852e676a2366dcdc_name_49757243807_hdtv.jpg?auth=86d608977ae5ba7bd64ade88af6e1d35ab961d76809125beed716d0dcdc4abb1&width=700"
   },
   {
-   "id": "md20-miami-04",
-   "title": "Dolphin Expressway terá fechamentos noturnos e Metrorail muda neste fim de semana",
-   "summary": "O FDOT fechará trechos da Dolphin Expressway (SR 836) nas noites de sexta e sábado para instalar vigas de ponte sobre os trilhos do Metrorail, no centro de Miami. Também haverá mudanças no Metrorail e nas pontes levadiças.",
+   "id": "td20-miami-10",
+   "title": "Quase 30 adoções são oficializadas no Dia Nacional da Adoção em Miami",
+   "summary": "Quase 30 crianças tiveram adoções finalizadas nesta sexta durante celebração do Dia Nacional da Adoção no Miami Children's Museum. Entre elas, Michael, 2, adotado pelo tio.",
    "highlights": [
-    "Sentido leste fecha na NW 17th Avenue das 22h às 10h",
-    "Obra faz parte do projeto I-395/Dolphin/I-95",
-    "Motoristas serão desviados por ruas locais"
+    "Michael nasceu na calçada em Miami Beach, conta o tio",
+    "Alex Monsalve já tinha três filhos quando acolheu o sobrinho",
+    "Juiz Charlie Johnson presidiu a adoção"
    ],
-   "body": "Motoristas, passageiros do Metrorail e navegantes devem se preparar para fechamentos noturnos, mudanças temporárias no transporte e alterações nos horários de pontes levadiças a partir desta sexta-feira, por causa de uma grande obra viária no centro de Miami, segundo o Departamento de Transportes da Flórida (FDOT).\n\nAs pistas da Dolphin Expressway serão fechadas nas noites de sexta e sábado para a instalação de vigas de ponte sobre os trilhos do Metrorail, como parte do projeto I-395/Dolphin Expressway/I-95. No sentido leste, o fechamento será na Northwest 17th Avenue, das 22h de sexta às 10h de sábado, e de novo das 22h de sábado às 10h de domingo.\n\nOs motoristas serão desviados para ruas locais, com rotas diferentes conforme o horário. Quem segue para a I-95 poderá acessar as rampas norte e sul pela South Miami Avenue.",
+   "body": "Quase 30 crianças ganharam oficialmente uma família nesta sexta-feira, com adoções finalizadas durante a celebração do Dia Nacional da Adoção no Miami Children's Museum.\n\nPara Alex Monsalve, o dia marcou a adoção oficial do filho Michael, de 2 anos. Ele contou que soube do nascimento quando o hospital ligou porque ele era o contato de emergência da irmã, que vivia nas ruas; a família nem sabia da gravidez. \"Ele nasceu na rua em Miami Beach, na calçada\", disse Monsalve, que aceitou acolher o recém-nascido mesmo já criando três filhos.\n\nO juiz Charlie Johnson, que presidiu a adoção de Michael, disse que a empolgação das famílias é o que torna a ocasião especial.",
    "category": "miami",
-   "source": "Local10",
-   "url": "https://www.local10.com/traffic/2026/11/20/fdot-dolphins-expressway-closures-metrorail-changes-begin-friday-in-miami/",
-   "published_at": "2026-11-20T08:09:57-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/FNPIVV4YNVBUFIZ2KBFZRVHHEE.jpg?auth=ec24f2b2a2c9adf75efccb75beabfc3bd2f2b5eab9559ba90471b9165684d60a&width=700"
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/20/nearly-30-childrens-adoptions-finalized-during-national-adoption-day-celebration-in-miami/",
+   "published_at": "2026-11-20T13:00:55-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-20-2026%2Ft_d440e040f5a44d13bec1040fb03cc632_name_49756996439_hdtv.jpg?auth=e7b80afbd3c75b396d9e3f51a2d0967de39b768f559d1ab4b26dd14d4a1e812e&width=700"
   },
   {
-   "id": "md20-miami-02",
-   "title": "Mais de 140 passam mal em cruzeiro que saiu de Fort Lauderdale",
-   "summary": "Mais de 130 passageiros e 14 tripulantes do Caribbean Princess relataram doença gastrointestinal durante um cruzeiro de 12 noites com ida e volta por Fort Lauderdale, segundo o CDC. A causa ainda não foi identificada.",
+   "id": "td20-miami-05",
+   "title": "Dono de reboque é acusado de planejar fraudes de dentro da cadeia",
+   "summary": "Oscar Rodriguez, dono da ASAP Towing, foi ouvido em ligações da cadeia de Miami-Dade orientando um funcionário a lesar locadoras de veículos, segundo os investigadores. Ele agora enfrenta mais duas acusações de crime grave.",
    "highlights": [
-    "134 dos 2.936 passageiros (4,6%) adoeceram",
-    "Navio deve voltar a Port Everglades na segunda-feira",
-    "Princess reforçou limpeza e isolou os doentes"
+    "Ele instruiu como fazer um carro parecer danificado por água, diz a polícia",
+    "Rodriguez está preso desde julho por uso ilegal de terreno do condado",
+    "Já cumpre liberdade condicional por furto e desmanche de carros"
    ],
-   "body": "Mais de 130 passageiros e 14 tripulantes de um navio da Princess Cruises relataram doença gastrointestinal durante uma viagem pelo Caribe, segundo os Centros de Controle e Prevenção de Doenças (CDC). O surto a bordo do Caribbean Princess foi comunicado ao Programa de Saneamento de Navios do CDC em 15 de novembro, durante um cruzeiro de 12 noites com saída e retorno em Fort Lauderdale.\n\nDe acordo com o CDC, 134 dos 2.936 passageiros (4,6%) e 14 dos 1.132 tripulantes (1,2%) apresentaram sintomas, principalmente vômito e diarreia. A causa do surto ainda não foi identificada. A viagem começou em 11 de novembro, passou por Aruba, Colômbia, Panamá, Costa Rica e Grand Cayman, e deve retornar a Port Everglades na segunda-feira.\n\nA Princess reforçou a limpeza e a desinfecção do navio, isolou passageiros e tripulantes com sintomas e coletou amostras para exames laboratoriais. O CDC acompanha a situação remotamente.",
+   "body": "Nem estar preso impediu o dono de uma empresa de reboque de Miami-Dade de cometer fraudes, segundo os deputados do xerife: Oscar Rodriguez, da ASAP Towing, foi ouvido em ligações gravadas na cadeia incentivando um funcionário a enganar locadoras de veículos. Ele agora enfrenta mais duas acusações de crime de primeiro grau.\n\nRodriguez, de 37 anos, conhecido como \"Pipo\", já cumpre cinco anos de liberdade condicional por acusações como furto qualificado, desmanche de veículos e fraude de documentos, e passou pela prisão estadual em 2015. Está detido desde julho por usar ilegalmente um terreno vazio do condado para guardar carros rebocados e apresentar um contrato de aluguel supostamente fraudulento.\n\nDe dentro da cadeia, segundo os investigadores, ele explicou ao gerente como fazer um carro parecer danificado por água para justificar cobranças às locadoras. A empresa fica na NW 95th St., na área de West Little River.",
    "category": "miami",
-   "source": "Local10",
-   "url": "https://www.local10.com/health/2026/11/20/140-report-stomach-illness-aboard-caribbean-princess-cruise-on-round-trip-from-fort-lauderdale/",
-   "published_at": "2026-11-20T07:46:36-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/DBEZ4UCPLWHWUPBQGKB6NVNR2I.jpg?auth=b8447228f8fbf388f1fa9c353e1717e7c99a10ab953f63c07c408d051a26d21c&width=700"
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/20/troubled-tow-company-owner-heard-in-miami-dade-jail-calls-plotting-more-fraud-from-behind-bars-cops/",
+   "published_at": "2026-11-20T12:51:59-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/6TZ6XXXD6ZDMVJIFAJ7ZM4S54A.png?auth=caeb80865a1740ed6b3916fc22cd6cc98873b8a0cc38138880d9e4867ee5f250&width=700"
   },
   {
-   "id": "md20-tecnologia-08",
-   "title": "Volkswagen revela ID. Polo GTI Clubsport, conceito elétrico de 362 cv",
-   "summary": "A Volkswagen apresentou o ID. Polo GTI Clubsport Concept, versão conceitual e mais potente do seu primeiro GTI 100% elétrico. O modelo tem 362 cv e uma enorme asa traseira.",
+   "id": "td20-miami-01",
+   "title": "Líderes visitam Hollywood e sinagoga danificada pela enchente",
+   "summary": "Deputados federais e o prefeito de Hollywood percorreram nesta sexta áreas atingidas pela enchente histórica da semana. O telhado da sinagoga Temple Sinai desabou parcialmente com a chuva.",
    "highlights": [
-    "Motor dianteiro APP550 vem de modelos maiores como ID. Tiguan e ID.7",
-    "ID. Polo GTI de série tem 233 cv",
-    "GTI completa 50 anos desde o primeiro Golf GTI, de 1976"
+    "Bairro Park East teve inundação grave",
+    "Debbie Wasserman Schultz e Jared Moskowitz participaram da visita",
+    "Comunidade do Temple Sinai planeja reconstruir"
    ],
-   "body": "A Volkswagen revelou o ID. Polo GTI Clubsport Concept, um hatch elétrico esportivo com uma enorme asa traseira e 362 cavalos de potência. A marca lançou o primeiro Golf GTI em 1976, praticamente definindo a categoria dos hot hatches, e agora entra numa nova era com seu primeiro GTI totalmente elétrico.\n\nDepois de abrir a pré-venda do ID. Polo GTI no mês passado, a Volkswagen apresentou a versão conceitual Clubsport, de duas portas. Ela usa a mesma plataforma MEB+ do modelo de série, mas foi reprojetada com um motor elétrico maior: o APP550 dianteiro de 362 cv (270 kW), normalmente usado na traseira de elétricos maiores como o ID. Tiguan e o ID.7. O ID. Polo GTI padrão tem 233 cv.\n\nSegundo o chefe de desenvolvimento técnico da VW, Kai Grünitz, o conceito mostra \"quanto potencial ainda existe no mundo GTI elétrico\". O Electrek observa que se trata do hot hatch elétrico que gostaria de ter, mas que não estará disponível.",
+   "body": "Membros do Congresso e o prefeito de Hollywood, Josh Levy, viram de perto nesta sexta os estragos deixados pela enchente histórica que atingiu a cidade e outras comunidades do Sul da Flórida nesta semana. Houve inundação grave no bairro Park East, e o telhado da sinagoga Temple Sinai desabou parcialmente por causa da chuva forte.\n\nO rabino Gideon Goldenholtz conduziu a visita pela sinagoga para os deputados Debbie Wasserman Schultz e Jared Moskowitz e para o prefeito. \"Eles se importam com esta comunidade. Isso nos faz sentir que não estamos sozinhos\", disse à CBS News Miami. Os líderes afirmaram que a sinagoga será reconstruída.\n\nDepois do Temple Sinai, o grupo percorreu outros bairros duramente atingidos pelas inundações desta semana.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/hollywood-florida-flooding-temple-sinai-roof-collapse/",
+   "published_at": "2026-11-20T12:34:58-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/20/5bf62622-2875-4679-9f3e-9943b65d99c2/thumbnail/1200x630/13df3bedfa9dd15376f997dcb06ec414/cbsmiami-hollywood-tour-1.jpg"
+  },
+  {
+   "id": "td20-miami-08",
+   "title": "Aos 90 anos, moradora de Miami Springs faz colchonetes para sem-teto",
+   "summary": "Elizabeth King, quase 91 anos, transforma sacolas plásticas de supermercado em colchonetes para pessoas em situação de rua. Ela já fez mais de mil ao longo de 20 anos.",
+   "highlights": [
+    "Cada colchonete usa cerca de 1.000 sacolas",
+    "Grupo se reúne às quartas no centro comunitário de Miami Springs",
+    "Ela vai de triciclo até o centro"
+   ],
+   "body": "Com quase 91 anos, Elizabeth King não pensa em desacelerar. Ex-corretora de imóveis do Alabama, ela passa o tempo transformando sacolas plásticas descartadas em colchonetes para pessoas em situação de rua. Há 20 anos ela une a habilidade no crochê ao compromisso de ajudar os outros.\n\nToda quarta-feira, King vai de triciclo até o Miami Springs Adult Community Center, onde se junta a amigas para o processo conhecido como \"plarning\": as sacolas são dobradas, cortadas em tiras e unidas num fio plástico, depois trabalhado no crochê. São necessárias 12 tiras para uma fileira, e cada colchonete usa cerca de mil sacolas.\n\nKing leva cerca de uma semana para terminar um colchonete e já fez mais de mil. As peças têm alças e uma tira central para facilitar o transporte e são distribuídas pelo Sul da Flórida. \"Vou fazer 91 em fevereiro e me surpreendo com o quanto me sinto bem\", disse.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/features/2026/11/20/miami-springs-woman-90-turns-plastic-grocery-bags-into-sleeping-mats-for-homeless/",
+   "published_at": "2026-11-20T11:43:44-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-20-2026%2Ft_faa4058a19234f80babcc3162d55e87d_name_49755888950_hdtv.jpg?auth=b355e61db858f19cb3aa9a3b45b6c08139b2004a81d788f9b97d8c3cef947d4e&width=700"
+  },
+  {
+   "id": "td20-miami-06",
+   "title": "Mulher de Fort Lauderdale é acusada de jogar líquido fervente em vizinha",
+   "summary": "Tracy Nicole Williams, 39, é acusada de jogar um líquido fervente, possivelmente água sanitária, numa vizinha, deixando-a cega de um olho e com queimaduras. Um juiz fixou fiança de US$ 12.500 nesta sexta.",
+   "highlights": [
+    "Ataque teria ocorrido em 13 de outubro, após discussão sobre um carro",
+    "Vítima ficou cega do olho direito, segundo a polícia",
+    "Suspeita foi presa na quinta-feira"
+   ],
+   "body": "Um juiz de Broward fixou nesta sexta fiança de US$ 12.500 para uma moradora de Fort Lauderdale acusada de atirar um líquido fervente — possivelmente água sanitária — em uma vizinha, causando cegueira no olho direito e \"queimaduras químicas por todo o corpo\". A polícia prendeu Tracy Nicole Williams, 39, na quinta-feira.\n\nSegundo o mandado de prisão, por volta das 21h30 de 13 de outubro, em um conjunto de duplexes no quarteirão 2500 da Northwest 20th Street, Williams confrontou a vítima gritando que ela havia danificado seu carro. A vítima disse que a acusação era falsa; em seguida, Williams teria enchido um balde com o líquido fervente e jogado nela.\n\nA vítima relatou que sentiu queimação e cheiro de água sanitária e ficou imediatamente cega de um olho. Ao lavar o rosto com água e leite, notou que a camisa começava a desbotar, como acontece com alvejante.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/20/fort-lauderdale-woman-accused-of-throwing-boiling-chemical-on-neighbor-causing-burns-blindness/",
+   "published_at": "2026-11-20T11:26:14-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-20-2026%2Ft_d6bfd8bd85e2495dbc871fd3ec3172a1_name_49756410885_hdtv.jpg?auth=d37e90627e3c57226bfef0634eb9dc98e6f639b9b5119ef2a74a2fe0290540d5&width=700"
+  },
+  {
+   "id": "td20-miami-07",
+   "title": "Mulher é presa por fraude imobiliária de US$ 1,4 milhão em Miami-Dade",
+   "summary": "Ailin De Los Angeles Fernandez, 62, é acusada de usar modelos do site Law Depot para forjar um testamento e uma escritura e tomar posse de uma casa em Redlands. Com isso, obteve uma hipoteca de US$ 850 mil, segundo os investigadores.",
+   "highlights": [
+    "Documentos falsos datados de 2006 foram criados em 2022",
+    "Proprietário havia morrido mais de 15 anos antes",
+    "Ela responde a nove acusações, incluindo fraude organizada"
+   ],
+   "body": "Uma mulher de 62 anos estava presa nesta sexta acusada de uma fraude imobiliária de US$ 1,4 milhão em Miami-Dade. Deputados do Gabinete do Xerife prenderam Ailin De Los Angeles Fernandez na quinta-feira à tarde, numa casa na região de Redlands.\n\nSegundo um detetive, ela usou o Law Depot, site de modelos de documentos, para falsificar um testamento e uma escritura e assumir a propriedade de uma casa unifamiliar num terreno de cerca de 4,8 acres. Os documentos, com data de \"2006\", teriam sido criados em 2022, mais de 15 anos após a morte do proprietário, e em janeiro de 2023 ela obteve uma hipoteca de US$ 850 mil sobre o imóvel.\n\nFernandez responde a nove acusações, entre elas fraude organizada acima de US$ 50 mil, furto contra idoso e furto qualificado de primeiro grau acima de US$ 100 mil.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/20/woman-accused-of-using-law-depot-during-14m-real-estate-fraud-in-miami-dade-detective/",
+   "published_at": "2026-11-20T11:20:57-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/BEECGMT5PJCRTE2TMWMX3EB6XE.jpg?auth=9431dc9ef10121c28230119b2fb8ffaabe2f5f5e2a8e93114033c5645e51ce1d&width=700"
+  },
+  {
+   "id": "td20-miami-09",
+   "title": "Homem é preso por ato obsceno diante de crianças em academia",
+   "summary": "Um homem de 26 anos foi preso depois de ser flagrado se masturbando enquanto olhava crianças brincando na área infantil de uma LA Fitness em West Miami-Dade. Ele responde por exposição indecente diante de menor de 16 anos.",
+   "highlights": [
+    "Caso ocorreu na quarta à noite, na unidade da W. Flagler St.",
+    "Uma mulher viu o suspeito na janela do Kids Klub e chamou a polícia",
+    "Suspeito foi identificado como Richard Alejandroflorian"
+   ],
+   "body": "Um homem foi preso depois de ser flagrado se tocando enquanto olhava, por uma janela, crianças brincando dentro de uma academia LA Fitness em West Miami-Dade, segundo as autoridades. A unidade fica no 9291 da W. Flagler St.\n\nDe acordo com o boletim de prisão, pouco depois das 21h30 de quarta-feira uma mulher entrou no Kids Klub da academia e viu Richard Alejandroflorian, de 26 anos, \"de pé na janela olhando para dentro do clube onde as crianças brincavam\", com a mão dentro da calça.\n\nEle foi detido na própria academia, pediu um advogado e responde a uma acusação de crime grave de exposição indecente enquanto observava uma criança menor de 16 anos.",
+   "category": "miami",
+   "source": "WSVN",
+   "url": "https://wsvn.com/news/local/man-arrested-la-fitness-indecent-exposure/",
+   "published_at": "2026-11-20T10:57:58-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Richard-Alejandroflorian.png"
+  },
+  {
+   "id": "td20-tecnologia-04",
+   "title": "GTA VI fatura US$ 3,79 bilhões no primeiro dia",
+   "summary": "A Rockstar Games anunciou que GTA VI faturou US$ 3,79 bilhões no primeiro dia de vendas, um recorde para o entretenimento em qualquer mídia. O jogo também teve 32,5 milhões de unidades em pré-venda.",
+   "highlights": [
+    "Lançamento ocorreu na quinta-feira",
+    "Rockstar fala no \"maior lançamento de entretenimento da história\"",
+    "Crítica do The Verge diz que o jogo correspondeu à expectativa"
+   ],
+   "body": "GTA VI faturou US$ 3,79 bilhões no primeiro dia de vendas, o que estabelece \"um novo recorde para o entretenimento em qualquer mídia\", segundo a Rockstar Games. O jogo também vendeu 32,5 milhões de cópias em pré-venda.\n\n\"É com imensa gratidão que entramos num novo capítulo da Rockstar Games com o lançamento de Grand Theft Auto VI\", disse Sam Houser, presidente e fundador do estúdio. A empresa afirma que o lançamento, ocorrido na quinta-feira, foi \"o maior da história do entretenimento\".\n\nO resultado vem depois de vazamentos, adiamentos e enorme expectativa — muitos outros jogos evitaram lançar perto de GTA VI. Segundo a crítica do The Verge, o jogo correspondeu ao hype.",
+   "category": "tecnologia",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+   "published_at": "2026-11-20T14:35:06-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+   "id": "td20-tecnologia-10",
+   "title": "Trump diz ter falado de Jensen Huang com Xi, contrariando Bessent",
+   "summary": "Trump afirmou que conversou com Xi Jinping sobre o ex-CEO da Nvidia Jensen Huang, contradizendo o secretário do Tesouro, Scott Bessent, que disse que o tema não foi tratado. Trump voltou a defender a volta de Huang ao comando da Nvidia.",
+   "highlights": [
+    "\"Ele é um homem brilhante\", teria dito Xi, segundo Trump",
+    "Huang renunciou em meio a acusações de caso com espiã chinesa",
+    "Nvidia é comandada interinamente por Colette Kress"
+   ],
+   "body": "O presidente Donald Trump disse nesta sexta que ele e o líder chinês Xi Jinping falaram nesta semana sobre a admiração que ambos têm pelo ex-CEO da Nvidia Jensen Huang. \"Discuti isso com o presidente Xi, e ele disse: 'Brilhante, brilhante! É um homem brilhante'\", afirmou Trump na coletiva da Casa Branca.\n\nA declaração parece contradizer o secretário do Tesouro, Scott Bessent, que mais cedo, no programa \"Squawk on the Street\" da CNBC, respondeu apenas \"não\" quando perguntado se Huang havia sido mencionado nas conversas com a China em Shenzhen. O Tesouro não respondeu de imediato ao pedido de comentário.\n\nTrump também reiterou que gostaria de ver Huang de volta ao comando da Nvidia. Huang foi substituído pela CEO interina Colette Kress após renunciar em meio a acusações de um caso extraconjugal com uma espiã chinesa. \"Somos um país de segundas chances\", disse Trump.",
+   "category": "tecnologia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+   "published_at": "2026-11-20T14:15:44-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080"
+  },
+  {
+   "id": "td20-tecnologia-01",
+   "title": "Trump ameaça \"imposto tremendo\" para data centers fora dos EUA",
+   "summary": "Trump prometeu taxar pesadamente empresas americanas que construírem data centers de IA fora do país. Ele disse que ainda nem havia comentado a ideia com sua equipe.",
+   "highlights": [
+    "Anúncio foi feito em entrevista após cúpula com Xi e Putin",
+    "\"Se permitirmos, a China vai ficar com todos\", disse Trump",
+    "Medida pode esbarrar no novo Congresso de maioria democrata"
+   ],
+   "body": "O presidente Donald Trump prometeu aplicar um \"imposto tremendo\" a empresas que construírem data centers fora dos Estados Unidos. \"Não vamos permitir que nossas empresas construam data centers fora do nosso país\", disse em entrevista coletiva nesta sexta, após a cúpula com o chinês Xi Jinping e o russo Vladimir Putin. \"Eles deixaram isso acontecer com os chips e foi muito destrutivo.\" Caso contrário, afirmou, \"a China vai ficar com todos\".\n\nTrump não deu detalhes e aparentemente apresentou a ideia em público pela primeira vez. \"Não sei se é uma notícia de última hora, mas eu ainda nem disse isso ao meu pessoal. Estou dizendo agora\", afirmou, ao lado do vice JD Vance e do secretário de Estado Marco Rubio.\n\nSegundo o The Verge, a promessa pode ser difícil de cumprir com o novo Congresso de maioria democrata tomando posse em alguns meses, enquanto estados e cidades americanos impõem restrições a novos pedidos de data centers.",
+   "category": "tecnologia",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "published_at": "2026-11-20T13:50:19-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+   "id": "td20-tecnologia-02",
+   "title": "Ação da Anthropic cai 12% no primeiro dia cheio de negociação",
+   "summary": "As ações da Anthropic caíam 12% nesta sexta, aproximando-se do preço do IPO, de US$ 83, em meio à onda de vendas no setor de IA. Na estreia, a ação abriu a US$ 111,50 e fechou a US$ 97,17.",
+   "highlights": [
+    "Empresa levantou US$ 81,3 bilhões no maior IPO da história, segundo a CNBC",
+    "Nvidia, AMD, Amazon e Microsoft também caíam",
+    "Bessent chamou a Anthropic de história \"só possível na América\""
+   ],
+   "body": "As ações da Anthropic recuavam 12% nesta sexta, aproximando-se do preço de lançamento de US$ 83, enquanto as preocupações com o setor de inteligência artificial continuavam pressionando as ações de tecnologia. Na quinta, a ação abriu a US$ 111,50 na Nasdaq, depois de a empresa levantar US$ 81,3 bilhões no maior IPO de todos os tempos, mas caiu ao longo do dia e fechou a US$ 97,17.\n\nInvestidores esperavam que a estreia revitalizasse o mercado de IA, que vem sob pressão desde a saída de Jensen Huang do comando da Nvidia, a piora da opinião pública sobre data centers e o temor de que juros mais altos afetem a construção de infraestrutura de IA. Nvidia, AMD, Amazon e Microsoft também caíam nesta sexta.\n\nO secretário do Tesouro, Scott Bessent, disse à CNBC que a Anthropic é uma história \"que só acontece na América\": \"Em 2021 eram sete pessoas num parque em São Francisco com laptops e um sonho, e ontem vimos o IPO mais valioso da história.\"",
+   "category": "tecnologia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+   "published_at": "2026-11-20T13:32:16-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108556066-1795129874503-108556066-1795129228984-gettyimages-2305354070-ANTHROPIC_IPO.jpeg?v=1795144010&w=1920&h=1080"
+  },
+  {
+   "id": "td20-tecnologia-03",
+   "title": "Google aposenta app Nest e Assistente em alto-falantes em 2027",
+   "summary": "O app Nest deixa de funcionar em 25 de janeiro de 2027 e será substituído pelo Google Home. O Google Assistente em alto-falantes e telas inteligentes acaba em 2 de agosto de 2027.",
+   "highlights": [
+    "Clipes de vídeo personalizados precisam ser baixados antes da mudança",
+    "Nenhum termostato, câmera ou campainha Nest perde suporte",
+    "Nest Aware (1ª geração) migra para Google Home Premium sem custo extra"
+   ],
+   "body": "Depois de descontinuar o Google Assistente no Android em setembro, o Google anunciou que o assistente também vai sair de alto-falantes e telas inteligentes em 2 de agosto de 2027. Além disso, o app Google Home vai substituir totalmente o app Nest em janeiro.\n\nO app Nest para Android, iOS e web para de funcionar em 25 de janeiro de 2027, e será preciso usar o Google Home, com conta Google, para controlar remotamente e receber notificações dos aparelhos Nest. Os dispositivos migram automaticamente, e nenhum termostato, câmera, campainha, detector de fumaça ou fechadura Nest perde suporte.\n\nCom o fim do home.nest.com, clipes de vídeo personalizados não serão transferidos e precisam ser baixados — há um botão \"Download All\". As assinaturas Nest Aware (1ª geração) passam automaticamente para o Google Home Premium sem custo adicional.",
+   "category": "tecnologia",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/20/nest-app-google-assistant/",
+   "published_at": "2026-11-20T13:00:00-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2023/11/nest-app-pixel-1.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td20-tecnologia-06",
+   "title": "Renault Twingo elétrico custa menos de US$ 20 mil no Reino Unido",
+   "summary": "O novo Renault Twingo E-Tech, versão elétrica do clássico dos anos 1990, terá preço inicial de £14.745 no Reino Unido, cerca de US$ 19.500, já com incentivo. É mais barato que o elétrico mais barato da BYD no país.",
+   "highlights": [
+    "Na Alemanha parte de cerca de € 13.990 com subsídio",
+    "Custa menos que o Dacia Sandero a gasolina no Reino Unido",
+    "Modelo não será vendido nos EUA"
+   ],
+   "body": "A Renault anunciou que o novo Twingo E-Tech, remake elétrico do seu carro urbano icônico dos anos 1990, custará a partir de £14.745 no Reino Unido, cerca de US$ 19.500, valor que já inclui o subsídio governamental de £3.750. O modelo começou a ser vendido na Europa neste ano por menos de € 20 mil antes de incentivos; na Alemanha, sai por cerca de € 13.990 com o subsídio federal.\n\nPor esse preço, o Twingo está entre os carros mais baratos do mercado britânico, inclusive a combustão: custa menos que o Dacia Sandero a gasolina (£14.765) e que o Dolphin Surf (£18.675), o elétrico mais barato da BYD. Só alguns modelos, como o Dacia Spring e o Leapmotor T03, são mais baratos.\n\nCom 3,79 metros de comprimento, é um pouco menor que o Hyundai Inster e o BYD Dolphin Surf. O Electrek lamenta que seja mais um elétrico acessível que os EUA não verão.",
    "category": "tecnologia",
    "source": "Electrek",
-   "url": "https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/",
-   "published_at": "2026-11-20T10:29:31-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Polo-GTI-Clubsport-hot-hatch.jpeg?quality=82&strip=all&resize=1200,628"
+   "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/",
+   "published_at": "2026-11-20T12:38:44-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Renault-Twingo-E-Tech-price.jpeg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "md20-tecnologia-01",
-   "title": "Anthropic eleva captação do IPO para US$ 93,5 bilhões",
-   "summary": "Os coordenadores do IPO da Anthropic exerceram o lote suplementar (\"greenshoe\") de ações, elevando o total captado para US$ 93,5 bilhões. Com a colocação privada paralela, os recursos brutos chegam a US$ 119,5 bilhões.",
+   "id": "td20-tecnologia-08",
+   "title": "Matemático da Anthropic diz ter provado a hipótese de Riemann com o Claude",
+   "summary": "Levent Alpöge, matemático da Anthropic, afirma ter provado a hipótese de Riemann, um dos Problemas do Milênio, com ajuda do Claude. A solução ainda não foi verificada de forma independente.",
    "highlights": [
-    "Empresa vendeu 1,127 bilhão de ações a US$ 83 cada",
-    "Lote extra rendeu mais US$ 12,2 bilhões",
-    "Ação chegou a cair 12% no pré-mercado desta sexta"
+    "Anthropic não comentou nem participou do anúncio",
+    "Alpöge diz ter avisado Dario Amodei e esperado o IPO para publicar",
+    "Hipótese de 1859 trata da distribuição dos números primos"
    ],
-   "body": "Os bancos coordenadores da oferta pública inicial da Anthropic exerceram oficialmente o lote suplementar de ações, elevando o total captado para US$ 93,5 bilhões, segundo comunicado desta sexta-feira. A empresa de inteligência artificial levantou US$ 81,3 bilhões na quarta e mais US$ 12,2 bilhões com o lote extra, conhecido como \"greenshoe\", superando o IPO recorde da SpaceX, em junho.\n\nA Anthropic vendeu ao todo 1,127 bilhão de ações Classe A a US$ 83 cada. Além disso, concluiu uma colocação privada de US$ 26 bilhões em ações Classe N, ao preço do IPO, com empresas como AMD, Google, Microsoft e Nvidia. Somando tudo, os recursos brutos chegam a US$ 119,5 bilhões antes das despesas.\n\nAs ações da criadora do Claude abriram a US$ 111,50 na Nasdaq na quinta, mas recuaram ao longo do dia e fecharam a US$ 97,17. Nesta sexta, chegaram a cair 12% no pré-mercado, em meio a uma ampla onda de vendas no setor de tecnologia.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-   "published_at": "2026-11-20T09:59:38-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108555352-17951019042026-11-19t145814z_563319887_rc21roaktnjs_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101947&w=1920&h=1080"
-  },
-  {
-   "id": "md20-tecnologia-02",
-   "title": "Cursor, da SpaceX, avalia abandonar modelos de IA chineses",
-   "summary": "A plataforma de programação com IA Cursor, comprada pela SpaceX, informou a comissões da Câmara dos EUA que estuda deixar de usar modelos chineses por \"risco geopolítico\". Seu modelo Composer 2 foi construído sobre o Kimi K2.5, da Moonshot AI.",
-   "highlights": [
-    "Informação está em relatório de comissões da Câmara obtido pela CNBC",
-    "Airbnb e DoorDash também participaram da investigação",
-    "SpaceX comprou o Cursor por valor implícito de US$ 60 bilhões"
-   ],
-   "body": "O Cursor, plataforma de programação com inteligência artificial da SpaceX, está considerando deixar de usar modelos de IA chineses por causa de \"risco geopolítico\", apurou a CNBC. A empresa, adquirida pela SpaceX em agosto por um valor implícito de US$ 60 bilhões, construiu seu modelo de programação Composer 2 sobre o Kimi K2.5, do laboratório chinês Moonshot AI.\n\nSegundo relatório da Comissão de Segurança Interna e da Comissão Especial sobre a China da Câmara, compartilhado com exclusividade com a CNBC, o Cursor informou aos parlamentares que planeja \"explorar a eliminação gradual de modelos abertos desenvolvidos na China\". O relatório resulta de meses de investigação sobre a adoção de modelos chineses por empresas americanas; Airbnb e DoorDash também participaram.\n\nO uso de modelos chineses disparou neste ano, o que preocupa Washington em meio à disputa pela supremacia em IA. A SpaceX desenvolve a família de modelos Grok, em cujo treinamento o Cursor tem participado. Cursor, SpaceX e DoorDash não responderam à CNBC; o Airbnb não quis comentar.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-   "published_at": "2026-11-20T09:07:24-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108295661-1776885403878-gettyimages-2271955278-boivin-notitle260422_npyod.jpeg?v=1776885479&w=1920&h=1080"
-  },
-  {
-   "id": "md20-tecnologia-05",
-   "title": "iOS 27.3 traz novo app Saúde e deve sair em dezembro",
-   "summary": "O iOS 27.3, em beta para desenvolvedores e testadores públicos, traz o redesenhado app Saúde e novidades para o iPhone Duo. A expectativa é que a Apple libere a atualização na primeira metade de dezembro.",
-   "highlights": [
-    "App Saúde terá abas Insights, Longevidade e Explorar",
-    "Recurso \"idade de saúde\" usa dados do Apple Watch",
-    "iOS 27.3 equivale na prática ao tradicional x.2 de dezembro"
-   ],
-   "body": "O iOS 27.3 está em testes beta com desenvolvedores e usuários do programa público e traz vários recursos novos para o iPhone, incluindo o redesenhado app Saúde e atualizações para o iPhone Duo. Segundo o 9to5Mac, a Apple deve liberar a versão para todos na primeira metade de dezembro — neste ano, ela faz o papel da tradicional atualização x.2, já que o iOS 27.1 foi exclusivo do iPhone Duo.\n\nO novo app Saúde, que chegou a aparecer nos testes do iOS 27.2 mas ficou fora da versão final, volta no 27.3. Ele é dividido em três abas — Insights, Longevidade e Explorar — e tem um design que se adapta aos dados do usuário, com ajuda do Apple Intelligence.\n\nA aba Longevidade inclui o recurso \"idade de saúde\", que usa dados do Apple Watch para mostrar como as métricas da pessoa se comparam à sua idade real. Donos do Apple Watch Series 12 e Ultra 4 também terão acesso fácil à pontuação de prontidão (Readiness).",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/20/ios-27-3-new-features-release-date-more/",
-   "published_at": "2026-11-20T08:44:23-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "md20-tecnologia-04",
-   "title": "Modelos de iPhone Air 2 mostram nova câmera dupla",
-   "summary": "Unidades de demonstração do iPhone Air 2 e do iPhone 18 publicadas nas redes sociais mostram que o novo Air deve ganhar duas câmeras traseiras. A Apple deve lançar os aparelhos na próxima primavera (no hemisfério norte).",
-   "highlights": [
-    "Air 2 deve acrescentar câmera ultra-angular à principal de 48 MP",
-    "Modelo deve ter chip A20 Pro e resfriamento por câmara de vapor",
-    "iPhone 18 básico mantém visual parecido com o do 17"
-   ],
-   "body": "A Apple deve lançar o iPhone 18 e o iPhone Air 2 na próxima primavera do hemisfério norte. Antes disso, unidades de demonstração (dummies) publicadas no X por Sonny Dickson dão uma ideia dos aparelhos, com destaque para o novo sistema de câmera dupla do iPhone Air 2. Já o iPhone 18 básico parece praticamente igual ao iPhone 17.\n\nO iPhone Air de primeira geração tem uma única câmera principal de 48 MP; a segunda geração deve ganhar uma ultra-angular, com as lentes dispostas na horizontal no módulo em formato de pílula.\n\nSegundo relatos, o iPhone Air 2 deve usar o chip A20 Pro, e a Apple trabalha para melhorar a bateria. O The Information informou que o aparelho terá resfriamento por câmara de vapor, estreado no iPhone 17 Pro, e outro relato aponta uma Dynamic Island menor.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/20/iphone-air-2-dual-camera-system/",
-   "published_at": "2026-11-20T07:56:31-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "md20-tecnologia-07",
-   "title": "Lagarde defende que UE assuma primeiras perdas em fábricas de chips e data centers",
-   "summary": "A presidente do BCE, Christine Lagarde, disse que fundos públicos europeus devem absorver as primeiras perdas em grandes projetos de chips e data centers para atrair capital privado. Ela deixa o comando do banco em fevereiro.",
-   "highlights": [
-    "Proposta envolve parcerias público-privadas em escala europeia",
-    "Lagarde já alertou que a Europa tem pouca capacidade de data centers",
-    "Projetos ligados à IA enfrentam crescente resistência"
-   ],
-   "body": "A presidente do Banco Central Europeu, Christine Lagarde, afirmou nesta sexta-feira que fundos públicos da União Europeia devem assumir as primeiras perdas em grandes projetos de fábricas de chips e data centers, como forma de atrair capital privado. \"Em tecnologia, onde projetos como fábricas de chips e data centers precisam de escala europeia, isso significa parcerias público-privadas em nível europeu, com dinheiro público, inclusive do orçamento da UE, assumindo as primeiras perdas\", disse em seu último discurso no Congresso Bancário Europeu de Frankfurt antes de deixar o cargo, em fevereiro.\n\nLagarde já havia alertado que a Europa não tem capacidade suficiente de data centers para a própria demanda e que os planos de até sete gigafábricas na UE não bastam.\n\nA fala ocorre num momento em que projetos de infraestrutura ligados à IA ficam cada vez mais controversos, complexos e caros. Pesquisas de boca de urna da CBS indicam que a oposição a data centers foi um fator importante para mais da metade dos eleitores nas eleições de meio de mandato de 3 de novembro nos EUA.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
-   "published_at": "2026-11-20T07:52:15-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108556334-1795172901004-gettyimages-2305429982-FRANKFURT_BANKING.jpeg?v=1795173251&w=1920&h=1080"
-  },
-  {
-   "id": "md20-tecnologia-03",
-   "title": "Signal bloqueia capturas de tela para impedir que IAs leiam suas mensagens",
-   "summary": "O Signal passou a restringir capturas de tela no iOS 27 e no Android para impedir que agentes de IA como Siri e Gemini leiam o conteúdo das conversas. A presidente Meredith Whittaker cobrou de Apple, Google e Microsoft ferramentas melhores para desenvolvedores.",
-   "highlights": [
-    "Usuário pode reativar capturas nas configurações, com risco à privacidade",
-    "Proteção ainda não é possível no macOS",
-    "Whittaker admite que a solução é \"incompleta\""
-   ],
-   "body": "O Signal está restringindo a possibilidade de fazer capturas de tela no Android e no iOS para evitar que agentes de inteligência artificial leiam as mensagens e outros dados dos usuários. Segundo a presidente do Signal, Meredith Whittaker, os recursos de IA embutidos nos sistemas operacionais, que analisam o que aparece na tela, estão \"minando a capacidade do Signal de garantir a privacidade de forma independente\".\n\nCom o bloqueio de capturas no iOS 27 e no Android, Siri, Gemini e outros assistentes não devem conseguir ler o conteúdo exibido no app. Os usuários podem reativar as capturas nas configurações, mas Whittaker alerta que isso pode expor o conteúdo deles e de seus contatos a esses agentes.\n\nWhittaker afirmou que Google, Apple, Microsoft e outras empresas não oferecem formas fáceis de os desenvolvedores restringirem o acesso de IAs aos dados sem comprometer a experiência do usuário — razão pela qual a proteção ainda não pode ser implementada no macOS. Ela reconheceu que a solução é \"incompleta\".",
+   "body": "O matemático Levent Alpöge, da Anthropic, afirma ter provado a hipótese de Riemann — um dos problemas mais notoriamente difíceis da matemática — com a ajuda do Claude. Se confirmada, seria mais uma conquista marcante da inteligência artificial na matemática.\n\nA solução ainda não foi verificada de forma independente, e a Anthropic não comentou nem se envolveu no anúncio. Em documento em seu site, Alpöge diz ter mandado mensagem ao CEO Dario Amodei sobre a prova \"tarde da noite de domingo\" e sugere que esperou o IPO da empresa, na quinta-feira, para publicá-la. \"Acredito ter descoberto, trabalhando com o Claude, uma prova da Hipótese de Riemann\", escreveu.\n\nProposta em 1859, a hipótese de Riemann trata da distribuição dos números primos e é um dos sete Problemas do Milênio, considerados alguns dos desafios em aberto mais formidáveis da matemática.",
    "category": "tecnologia",
    "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-   "published_at": "2026-11-20T07:30:47-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "published_at": "2026-11-20T11:34:13-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-   "id": "md20-tecnologia-06",
-   "title": "Por que os robôs estão abandonando a Uber",
-   "summary": "A Waymo vai encerrar sua parceria exclusiva de robotáxis com a Uber em Austin e Atlanta, e a Serve Robotics não renovará o acordo com a Uber Eats. Segundo o The Verge, as empresas de autonomia não querem mais um intermediário entre elas e os clientes.",
+   "id": "td20-tecnologia-07",
+   "title": "Chave do carro no Apple Wallet chega a Chevrolet, GMC e Cadillac",
+   "summary": "A GM vai ampliar em dezembro o suporte a chaves digitais no Apple Wallet para diversos modelos da Cadillac, Chevrolet e GMC. A liberação começou de forma limitada com alguns Cadillacs entre setembro e outubro.",
    "highlights": [
-    "A partir de janeiro de 2028, Waymo poderá ser chamada pelo próprio app nas duas cidades",
-    "Co-CEO da Waymo chamou a frota mista de \"loteria\" para clientes",
-    "Parceria da Serve com a Uber Eats termina em 2027"
+    "Recurso havia sido anunciado pela Apple em junho de 2025",
+    "É uma das maiores expansões recentes de chaves digitais",
+    "Clientes serão avisados no app do veículo quando houver suporte"
    ],
-   "body": "Em agosto, o CEO da Uber, Dara Khosrowshahi, elogiou a parceria \"muito forte\" com a Waymo, líder mundial em robotáxis, que operava com exclusividade na plataforma em Austin e Atlanta. Semanas depois, a co-CEO da Waymo, Tekedra Mawakana, revelou que a empresa encerraria a parceria exclusiva, chamando a experiência de frota mista de \"loteria\" para os clientes. A partir de janeiro de 2028, os passageiros dessas cidades poderão chamar corridas sem motorista diretamente pelo app da Waymo.\n\nA Waymo não é a única. A Serve Robotics, que opera milhares de robôs de entrega em calçadas em dezenas de cidades americanas, anunciou que não renovará sua parceria com a Uber Eats quando ela vencer, em 2027.\n\nSegundo a análise do The Verge, a autonomia já é um negócio comercial de verdade — ainda que não lucrativo — e as empresas que constroem os robôs não querem mais um intermediário entre elas e seus clientes.",
+   "body": "As chaves de carro no Apple Wallet vão ganhar uma grande expansão: a GM está liberando o recurso para vários veículos de três de suas marcas populares — Cadillac, Chevrolet e GMC. A Apple havia mencionado a parceria pela primeira vez em junho de 2025.\n\nSegundo o anúncio, uma liberação bem limitada começou entre o fim de setembro e outubro para alguns Cadillacs, mas o recurso chegará a muito mais veículos em dezembro, incluindo modelos Chevrolet e GMC.\n\nA GM afirma que a implementação \"vai continuar em outros veículos GM ao longo do tempo\" e que os clientes serão avisados na seção \"What's New\" do app do veículo quando o carro ganhar suporte. Para o 9to5Mac, é uma das expansões mais amplas de chaves digitais dos últimos tempos.",
    "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-   "published_at": "2026-11-20T07:00:00-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/20/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/",
+   "published_at": "2026-11-20T11:11:34-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td20-tecnologia-05",
+   "title": "Itália aprova o FSD da Tesla, primeiro grande mercado da UE",
+   "summary": "O Ministério dos Transportes da Itália concedeu aprovação provisória ao Tesla Assisted Driving, nome do \"Full Self-Driving (Supervised)\" na Europa. A Itália é o 12º país europeu a liberar o sistema.",
+   "highlights": [
+    "Itália não esperou a votação do comitê da UE, prevista para dezembro",
+    "Matteo Salvini anunciou a decisão no X",
+    "Sistema segue como nível 2 e exige supervisão do motorista"
+   ],
+   "body": "O Ministério dos Transportes da Itália concedeu aprovação provisória ao Tesla Assisted Driving, nome que a Tesla usa na Europa para o \"Full Self-Driving (Supervised)\". O país se torna o 12º da Europa a permitir o sistema e o primeiro entre os grandes mercados da União Europeia.\n\nA Itália não esperou Bruxelas: o comitê da UE que decide sobre o reconhecimento em todo o bloco não deve votar antes de dezembro. O vice-premiê e ministro dos Transportes, Matteo Salvini, anunciou no X que a liberação veio após \"uma verificação técnica minuciosa\". A Tesla Europa respondeu que \"a implementação começa em breve\", sem data definida.\n\nO sistema continua sendo de nível 2: pode esterçar, frear, acelerar e lidar com cruzamentos e trocas de faixa, mas o motorista deve supervisionar o tempo todo e segue totalmente responsável. A autoridade holandesa RDW foi a primeira a aprovar o FSD Supervised, em 10 de abril.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
+   "published_at": "2026-11-20T10:50:46-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td20-tecnologia-09",
+   "title": "Microsoft vai encerrar o app To Do, herdeiro do Wunderlist",
+   "summary": "A Microsoft anunciou que o app To Do será aposentado em 30 de junho de 2027, com o foco migrando para o Planner. Usuários de contas pessoais terão de escolher outro aplicativo.",
+   "highlights": [
+    "Tarefas do To Do não serão migradas para o novo plano privado do Planner",
+    "To Do foi construído sobre o Wunderlist, comprado em 2015",
+    "Conexões de outros apps com o To Do continuam por mais tempo"
+   ],
+   "body": "A Microsoft anunciou nesta semana que vai encerrar o app To Do no fim de junho de 2027, levando junto o legado do Wunderlist. A empresa vai concentrar o gerenciamento de tarefas pessoais no Planner. \"Os apps To Do serão aposentados em 30 de junho de 2027\", informou.\n\nAs conexões que outros aplicativos usam para acessar as tarefas do To Do continuarão depois dessa data, com aviso separado antes de serem desligadas. Embora as tarefas já apareçam no Planner, elas não serão migradas para o novo plano privado, e clientes com contas pessoais da Microsoft precisarão escolher outro app.\n\nO To Do foi criado a partir do Wunderlist, app de listas muito popular que a Microsoft comprou em 2015 e encerrou em 2020. Segundo o 9to5Google, a mudança deixa o consumidor comum sem substituto, já que o Planner não está disponível para todos como o To Do.",
+   "category": "tecnologia",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/20/microsoft-to-do-shut-down-wunderlist/",
+   "published_at": "2026-11-20T10:40:00-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/microsoft-to-do-1-copy.jpg?quality=82&strip=all&resize=1200,628"
   }
  ]
 }
