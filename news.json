@@ -1,456 +1,504 @@
 {
  "version": 2,
- "generated_at": "2026-11-21T10:45:34-05:00",
- "edition": "meio-dia",
+ "generated_at": "2026-11-21T14:45:53-05:00",
+ "edition": "tarde",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "md21-eua-03",
-   "title": "Eleitores derrubam xerifes que ajudavam a imigração de Trump",
-   "summary": "Alguns xerifes que assinaram acordos para colaborar com a ofensiva migratória do governo Trump foram derrotados nas eleições. Na Carolina do Norte, o republicano Terry Johnson perdeu para Shannon Long numa campanha marcada pela relação com a comunidade latina.",
+   "id": "td21-eua-09",
+   "title": "Mecha de cabelo de George Washington é leiloada por US$ 4 mil",
+   "summary": "Uma mecha de cabelo de George Washington foi vendida em leilão no sábado por US$ 4 mil, segundo a casa Richmond Auctions, da Carolina do Sul. A peça veio de John Gadsby, que recebeu o primeiro presidente em seus últimos aniversários.",
    "highlights": [
-    "Em Alamance County (NC), Terry Johnson perdeu para Shannon Long",
-    "Shannon Long diz que latinos vivem com medo",
-    "Poucos xerifes no país foram derrotados por críticos da cooperação"
+    "Gadsby organizou as festas de aniversário de Washington em 1798 e 1799",
+    "Neta de Gadsby atestou a origem da mecha em declaração de 1928",
+    "Comprador não foi identificado"
    ],
-   "body": "Alguns xerifes dos EUA que firmaram parcerias com o governo de Donald Trump para ajudar na fiscalização da imigração perderam o cargo nas eleições deste mês, segundo a Associated Press. O caso mais emblemático é o do condado de Alamance, na Carolina do Norte, onde o xerife republicano Terry Johnson foi derrotado por Shannon Long.\n\nLong, pastor, empresário e ex-delegado, disse à AP que a confiança entre a polícia e a crescente comunidade latina do condado estava tão abalada que até sua van de campanha com a palavra \"sheriff\" dificultava conversas com eleitores. \"Eles vivem com medo. Sentem que não têm voz\", afirmou.\n\nAtivistas, eleitores e autoridades locais dizem que a disputa girou em parte em torno da fiscalização migratória e do tratamento dado aos moradores latinos. Johnson é um dos poucos xerifes do país derrotados por adversários críticos da cooperação com a política migratória de Trump.",
-   "category": "eua",
-   "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/2026/11/21/voters-oust-some-sheriffs-who-signed-pacts-to-help-trumps-immigration-enforcement-efforts/",
-   "published_at": "2026-11-21T10:02:24-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/SGASPF3E2ZT5JQZ7PJTBBO3GJ4.jpg?auth=d31feedbcf2e7df844a8abc8fde2154135fd8c5d3006da228bb13797abd7fd8a&width=700"
-  },
-  {
-   "id": "md21-eua-05",
-   "title": "Juiz mantém preso imigrante baleado pelo ICE em NY",
-   "summary": "Um juiz federal negou o pedido de soltura de Oscar Belgal, dominicano de 28 anos baleado por agentes de imigração em outubro, em Nova York. O magistrado reconheceu um possível erro processual, mas o considerou meramente técnico.",
-   "highlights": [
-    "Belgal foi baleado enquanto levava o filho de 5 anos da escola",
-    "Juiz Hector Gonzalez viu erro técnico na entrega do mandado",
-    "Ele entrou ilegalmente nos EUA em 2021 e tem condenação por furto"
-   ],
-   "body": "O juiz federal Hector Gonzalez negou na sexta-feira o pedido para libertar Oscar Belgal, homem baleado e ferido por agentes de imigração durante sua prisão em Nova York, em outubro, quando levava o filho de cinco anos para casa depois da escola.\n\nNa decisão, o juiz escreveu que os agentes podem ter cometido um erro processual ao cumprir o mandado de prisão antes de Belgal receber a notificação para comparecer ao tribunal de imigração. Para ele, porém, trata-se de um erro técnico que não obriga a soltura enquanto corre o processo de deportação.\n\nSegundo o Guardian, Belgal, de 28 anos, entrou ilegalmente nos EUA em 2021; cerca de dois anos depois, foi preso por roubo e outras acusações e acabou se declarando culpado de furto qualificado, recebendo pena de liberdade condicional.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
-   "published_at": "2026-11-21T09:52:30-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=570baa935c29fbc4aa53c677edcc2611"
-  },
-  {
-   "id": "md21-eua-07",
-   "title": "Hackers invadem sistema de pagamentos a agricultores do USDA",
-   "summary": "O Departamento de Agricultura dos EUA (USDA) teve um sistema de pagamentos a agricultores alvo de ataque hacker, segundo a NBC News. A invasão se soma à do banco de dados criminal do FBI, em meio a uma série de panes tecnológicas no país.",
-   "highlights": [
-    "Ainda não se sabe se os ataques estão ligados nem quem os fez",
-    "Ex-funcionários temem uso do sistema como porta para dados sensíveis",
-    "Trump pediu à população que \"relaxe\" diante das panes"
-   ],
-   "body": "Hackers invadiram o Departamento de Agricultura dos EUA (USDA) e o FBI, segundo reportagens da NBC News e da CNN publicadas na sexta-feira. No caso do USDA, funcionários foram informados de que um sistema usado para pagamentos a agricultores foi alvo de um ciberataque, de acordo com dois ex-funcionários citados pela NBC.\n\nOs ex-funcionários disseram temer que os invasores usem o sistema de pagamentos como porta de entrada para materiais mais sensíveis. Ainda não está claro se as invasões estão relacionadas nem quem é o responsável.\n\nOs ataques ocorrem em meio a uma série de grandes panes que, nas últimas semanas, afetaram viagens, comunicações e o comércio eletrônico nos EUA, atingindo até uma rede ultrassecreta da NSA. Trump pediu que a população \"relaxe\", e autoridades afirmaram que as panes não estavam ligadas a atividade criminosa.",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
-   "published_at": "2026-11-21T09:09:02-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef35fbc11a191152a78412d3fa0017c6"
-  },
-  {
-   "id": "md21-eua-02",
-   "title": "Escolha do líder democrata no Senado testa novatos",
-   "summary": "Os 13 novos senadores democratas, maior turma de calouros em décadas, precisam decidir se apoiam Chuck Schumer ou o desafiante Chris Van Hollen para liderar a nova maioria. A disputa testa a promessa de mudança feita na campanha.",
-   "highlights": [
-    "Progressistas como Abdul El-Sayed e Peggy Flanagan apoiam Van Hollen",
-    "Sherrod Brown, que volta ao Senado, apoia Schumer",
-    "Eleitos de estados republicanos ainda não se definiram"
-   ],
-   "body": "Os novos senadores democratas ainda nem tomaram posse, mas a decisão sobre quem vai liderar a nova maioria já põe à prova a promessa de mudança feita durante a campanha, segundo a Associated Press. São 13 novos democratas, a maior turma de calouros no Senado em décadas, vários deles eleitos em redutos republicanos com a promessa de sacudir Washington.\n\nAgora eles estão no meio de uma disputa interna clássica: manter o veterano líder Chuck Schumer, de Nova York, ou apoiar o desafiante Chris Van Hollen, de Maryland, que promete uma atuação legislativa mais agressiva. Progressistas recém-eleitos, como Abdul El-Sayed (Michigan) e Peggy Flanagan (Minnesota), já declararam apoio a Van Hollen, enquanto Sherrod Brown (Ohio), que volta a Washington após perder a cadeira em 2024, apoia Schumer.\n\nOs eleitos de estados tradicionalmente republicanos, como Texas, Mississippi, Iowa e Carolina do Sul — cujas vitórias garantiram a maioria democrata —, ainda não tomaram partido publicamente.",
-   "category": "eua",
-   "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/politics/2026/11/21/democrats-who-swept-into-the-senate-promised-change-a-leadership-vote-is-testing-them-early/",
-   "published_at": "2026-11-21T09:03:02-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/JENYTR2C3JIBNNJ3VGOPX7CBD4.jpg?auth=2aca4f7d3c662b6cea52f33ccbf9c5e1e83bbab44a28c7e50ca8ab06f673de0e&width=700"
-  },
-  {
-   "id": "md21-eua-06",
-   "title": "Líder dos Oath Keepers diz estar \"totalmente farto\" de Trump",
-   "summary": "Stewart Rhodes, fundador da milícia Oath Keepers e condenado por conspiração sediciosa pelo 6 de janeiro, rompeu com Donald Trump. Ele agora chama o presidente de traidor e \"um dos piores\" da história do país.",
-   "highlights": [
-    "Rhodes chegou a tatuar o rosto de Trump na prisão",
-    "Ele foi condenado por conspiração sediciosa pelo ataque ao Capitólio",
-    "Rompimento reflete perda de apoio até entre seguidores radicais"
-   ],
-   "body": "Stewart Rhodes, fundador da milícia de extrema direita Oath Keepers, foi preso por seu papel no ataque de 6 de janeiro ao Capitólio e, na prisão, chegou a tatuar o rosto desafiador de Trump depois do atentado em Butler, na Pensilvânia. Agora, diz que tudo isso acabou.\n\n\"Estou totalmente farto de Trump\", afirmou Rhodes à Associated Press em Irving, no Texas. Ele considera o presidente não apenas um traidor, mas \"um dos piores da história do nosso país\".\n\nPara a AP, o repúdio de um ex-seguidor fiel — condenado por conspiração sediciosa por orquestrar a tentativa de manter Trump no poder seis anos atrás — é mais um sinal de que a lealdade ao presidente vem diminuindo até entre seus apoiadores mais extremos.",
-   "category": "eua",
-   "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/politics/2026/11/21/oath-keepers-founder-and-jan-6-leader-stewart-rhodes-is-absolutely-done-with-trump/",
-   "published_at": "2026-11-21T08:00:44-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/AZOYKAICWZRPBN3Q6D26CRVFTQ.jpg?auth=66487d5cda3076fa9c592f46801b94896009906d5d57cd59ce27f8fa0ba35f45&width=700"
-  },
-  {
-   "id": "md21-eua-04",
-   "title": "Navios \"classe Trump\" estouram custo da frota em bilhões",
-   "summary": "Um relatório do Escritório de Orçamento do Congresso (CBO) concluiu que a Marinha subestimou em bilhões o custo de sua nova frota, em grande parte por causa dos 15 encouraçados \"classe Trump\". O secretário interino da Marinha admitiu que a guerra com o Irã está \"esticando\" a capacidade da frota.",
-   "highlights": [
-    "Construção naval custaria em média US$ 54 bi/ano, 18% acima do previsto",
-    "Senado propôs zerar US$ 1 bi pedido para os navios classe Trump",
-    "EUA ficaram três meses sem porta-aviões no Pacífico"
-   ],
-   "body": "A aposta da Marinha dos EUA nos novos encouraçados \"classe Trump\" elevou em bilhões de dólares o custo da nova frota, segundo análise do Escritório de Orçamento do Congresso (CBO) sobre o plano de construção naval de 2027. O órgão calcula que os custos chegariam em média a US$ 54 bilhões por ano nos próximos 30 anos, cerca de 18% acima das estimativas da Marinha, e que parte das projeções anteriores era \"irrealisticamente baixa\".\n\nSegundo o CBO, boa parte do custo extra vem da decisão de comprar 15 grandes encouraçados fortemente armados, o que concentra poder de fogo em poucos navios e contraria a meta declarada de distribuí-lo. Trump diz que os navios serão 100 vezes mais poderosos que qualquer outro da frota. Nesta semana, porém, comissões do Senado propuseram zerar o US$ 1 bilhão pedido para compras antecipadas desses navios.\n\nA pressão sobre a Marinha ficou evidente com o retorno do porta-aviões USS George Washington do Oriente Médio, que encerrou um raro período de três meses sem porta-aviões americano no Pacífico. O secretário interino Hung Cao admitiu no Senado que a guerra com o Irã \"é um peso para a nossa Marinha\".",
-   "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
-   "published_at": "2026-11-21T08:00:00-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3ec49020bf3ce89997f20fdc3c6d007"
-  },
-  {
-   "id": "md21-eua-01",
-   "title": "Justiça suspende detonação de explosivos com chumbo em Iowa",
-   "summary": "Um tribunal federal suspendeu na sexta-feira o plano do Exército dos EUA de detonar várias toneladas de explosivos instáveis de azida de chumbo numa fábrica de munições em Iowa. A decisão veio após protestos de moradores e ação de grupos ambientais, preocupados com uma nuvem de poeira tóxica sobre Iowa e Illinois.",
-   "highlights": [
-    "8º Tribunal de Apelações concedeu pedido de emergência",
-    "Explosões estavam previstas em Middletown, cidade de 360 habitantes",
-    "Exército diz ter planejado a operação desde março com EPA e HHS"
-   ],
-   "body": "O 8º Tribunal de Apelações dos EUA concedeu na sexta-feira um pedido de emergência para suspender a demolição de azida de chumbo — um explosivo instável — numa fábrica de munições do Exército em Middletown, Iowa. A ação foi movida por grupos ambientais depois de forte reação da comunidade ao risco de partículas tóxicas de chumbo se espalharem numa nuvem de poeira por partes de Iowa e Illinois.\n\nDuas explosões controladas estavam originalmente marcadas para sexta-feira ao meio-dia em Middletown, comunidade rural de 360 moradores a cerca de quatro horas de Chicago. O Exército já havia adiado a operação para segunda-feira antes de o tribunal intervir.\n\nEm nota, os militares disseram trabalhar com o Departamento de Saúde (HHS) e a Agência de Proteção Ambiental (EPA) para que a detonação fosse feita da forma mais segura possível, afirmando que o evento vinha sendo planejado meticulosamente desde março.",
+   "body": "Uma mecha de cabelo de George Washington foi vendida em leilão no sábado por US$ 4 mil, segundo a Richmond Auctions, da Carolina do Sul. A peça foi obtida pelo colecionador John K. Lattimer e tem origem em John Gadsby, que sediou as duas últimas festas de aniversário do primeiro presidente americano, em 1798 e 1799, no City Hotel and Tavern, em Alexandria, Virgínia.\n\nUma neta de Gadsby, Julia Ten Eyck McBlair, declarou em 1928 que o avô recebeu a mecha \"em vista da amizade e convivência\" com Washington em seus últimos dias, e que a peça ficava emoldurada sob um retrato do general na casa da família em Washington. Segundo a Associação Histórica da Casa Branca, Gadsby teria comprado e vendido pessoas escravizadas para trabalhar em seus hotéis.\n\nA mecha está numa moldura redonda de madeira dourada de cerca de 23 cm por 6 cm, com janela de vidro. A casa de leilões não forneceu detalhes sobre o comprador.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/lead-azide-detonation-iowa-army-explosives/",
-   "published_at": "2026-11-21T07:00:15-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/a79a9150-aa6c-4e96-bd3b-b58abff5e64a/thumbnail/1200x630/5babee0aa9ef978b2cd957afe4739a3d/cbsn-fusion-the-us-wants-to-detonate-unstable-explosives-in-iowa-that-could-affect-thousands-of-americans-thumbnail.jpg"
+   "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
+   "published_at": "2026-11-21T14:12:45-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2019/01/08/dd0b0d3f-c2ef-4479-847e-55d094359764/thumbnail/1200x630/768a9969dc7b59df4e5880059b0649db/george-washington-portrait-library-of-congress.jpg"
   },
   {
-   "id": "md21-mundo-04",
-   "title": "Petroleiros são atingidos no Estreito de Ormuz",
-   "summary": "A agência marítima britânica UKMTO relatou dois incidentes com petroleiros atingidos por projéteis não identificados no Estreito de Ormuz, perto de Omã. O Irã disse que um petroleiro pegou fogo por causa de uma mina naval.",
+   "id": "td21-eua-08",
+   "title": "Homem é acusado de matar desconhecida em trilha e colega com besta na Louisiana",
+   "summary": "Jared Schurr, de 36 anos, é acusado de estrangular uma mulher que não conhecia numa trilha ao norte de Nova Orleans e, dois dias depois, matar um colega de trabalho com uma besta. Ele foi preso no Mississippi após perseguição policial.",
    "highlights": [
-    "Um navio foi atingido a cerca de 20 km ao norte de Khasab, em Omã",
-    "Irã aperta controle sobre a rota de quase 1/5 do petróleo mundial",
-    "Guerra com EUA e Israel começou no fim de fevereiro"
+    "Vítimas são Lizeht Rodriguez, 24, e Woodrow Scott, 37",
+    "Crimes ocorreram em 11 e 13 de novembro",
+    "Segundo a polícia, Schurr confessou o ataque na trilha"
    ],
-   "body": "Autoridades marítimas britânicas relataram no sábado dois incidentes envolvendo petroleiros atingidos por projéteis não identificados no Estreito de Ormuz, enquanto o Irã continua restringindo a navegação na via. Segundo o centro UKMTO, que monitora ameaças à navegação comercial, um dos navios foi atingido na popa a cerca de 20 km ao norte de Khasab, cidade portuária no norte de Omã.\n\nO Irã, por sua vez, afirmou que um petroleiro pegou fogo após atingir uma mina naval. Os episódios ocorrem em meio à guerra que envolve Teerã, Washington e Israel, iniciada quando EUA e Israel atacaram o Irã no fim de fevereiro.\n\nDesde então, Teerã tenta ampliar o controle sobre o estreito, por onde passava quase um quinto do petróleo bruto mundial antes do conflito.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
-   "published_at": "2026-11-21T10:01:18-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261013__D3722EZ__v1__HighRes__UaeIranUsIsraelWarHormuzShipping-1795270231.jpg?resize=1920%2C1440"
+   "body": "Um homem estrangulou até a morte uma mulher que não conhecia numa trilha ao norte de Nova Orleans e, dois dias depois, matou um colega de trabalho com uma besta, antes de ser preso no Mississippi após uma perseguição policial, segundo as autoridades. Jared Schurr, de 36 anos, responde por homicídio qualificado de segundo grau pelas mortes de Lizeht Rodriguez, 24, e Woodrow Scott, 37, em 11 e 13 de novembro.\n\nO corpo de Rodriguez foi encontrado no centro de natureza Northlake, em Mandeville, Louisiana. No sábado, detetives do xerifado da paróquia de St. Tammany obtiveram mandado de prisão contra Schurr pelo crime. Segundo o comunicado, ele confessou ter cruzado com Rodriguez na trilha, agarrado e estrangulado a jovem e arrastado o corpo até o local onde foi achado por outra pessoa.\n\nQuando o mandado foi expedido, Schurr já era procurado pelo mesmo xerifado por um homicídio separado, ocorrido dois dias depois. As autoridades descrevem a morte de Rodriguez como um exemplo raro nos EUA de assassinato aleatório cometido por um estranho.",
+   "category": "eua",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+   "published_at": "2026-11-21T13:50:00-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/f4c6abe204a85016df59a803d74bfc353e054666/430_0_4250_3400/master/4250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d89a80db7011036e0f518269b0b73d9"
   },
   {
-   "id": "md21-mundo-02",
-   "title": "Ataque russo à cidade natal de Zelensky mata 2 e fere 60",
-   "summary": "Um ataque russo com míssil balístico atingiu o centro de Kryvyi Rih, cidade natal do presidente ucraniano, matando um menino de 7 anos e uma jovem de 20. Sessenta pessoas ficaram feridas, incluindo seis crianças.",
+   "id": "td21-eua-01",
+   "title": "Trump manda empresas contratadas consultarem a Casa Branca antes de responder ao Congresso",
+   "summary": "Uma ordem executiva assinada por Trump na sexta-feira à noite obriga empresas contratadas pelo governo federal a consultar a administração sobre pedidos do Congresso e a reter comunicações que a Casa Branca considere privilegiadas. Quem descumprir pode ter contratos rescindidos.",
    "highlights": [
-    "Ataque danificou cerca de 25 prédios, hospital e escolas",
-    "Navio de carga russo pegou fogo no Golfo da Finlândia após drones",
-    "Premiê da Finlândia alertou que a guerra transborda para a região"
+    "Contratadas e subcontratadas devem coordenar \"respostas apropriadas\" com a Casa Branca",
+    "Descumprimento pode levar à rescisão de contratos e suspensão de futuros trabalhos",
+    "Medida antecipa ofensiva de investigações dos democratas a partir de janeiro"
    ],
-   "body": "Um ataque russo na noite de sexta-feira contra o centro de Kryvyi Rih, cidade natal do presidente Volodymyr Zelensky, na região central da Ucrânia, matou duas pessoas e feriu 60, informaram autoridades locais no sábado. Entre os mortos estão um menino de 7 anos e uma mulher de 20, segundo o chefe da administração da cidade, Oleksandr Vilkul.\n\nO chefe da administração militar regional, Oleksandr Hanzha, disse que seis crianças estão entre os feridos. O ataque provocou quatro incêndios e danificou cerca de 25 prédios residenciais, um hospital, escolas e uma instalação industrial, além de comércios e veículos.\n\nNo mesmo dia, um navio de carga russo com destino a Kaliningrado pegou fogo no Golfo da Finlândia após ser atingido por drones, segundo autoridades finlandesas e russas. O primeiro-ministro finlandês alertou que a guerra está transbordando para a região.",
+   "body": "O presidente Donald Trump determinou que empresas contratadas e subcontratadas pelo governo federal consultem sua administração sobre qualquer pedido que recebam do Congresso e retenham comunicações que a Casa Branca considere privilegiadas, segundo uma ordem executiva assinada no fim da sexta-feira. As empresas também terão de coordenar com a Casa Branca e as agências federais as \"respostas apropriadas\" a esses pedidos; caso não cumpram, os contratos podem ser rescindidos e futuros trabalhos com o governo, suspensos.\n\nA ordem é o esforço mais recente do governo para resistir às investigações amplas e agressivas que os democratas devem lançar quando assumirem o controle do Congresso, em janeiro. Os democratas colocaram os contratos do governo entre seus principais alvos, apontando que dinheiro federal tem fluído para empresas ligadas à família de Trump, sobretudo no Pentágono.\n\nNa segunda-feira, o conselheiro jurídico da Casa Branca, Will Scharf, já havia avisado às agências federais que precisam de aprovação de seu gabinete e do Escritório de Assuntos Legislativos antes de aceitar comparecer ao Congresso. Scharf também sugeriu, em carta ao deputado Robert Garcia, principal democrata do Comitê de Supervisão da Câmara, que algumas investigações do Congresso podem configurar \"criminalidade flagrante\".",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
+   "published_at": "2026-11-21T13:33:46-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/21/51a0968f-83e8-4f80-a20e-ab205a8cff26/thumbnail/1200x630/e389042c61d9f0e67a780c899b09dde8/ap26323678599076.jpg"
+  },
+  {
+   "id": "td21-eua-02",
+   "title": "Trump promete trabalhar com democratas para limitar juros do cartão",
+   "summary": "Trump disse à Fox News que vai trabalhar com o novo Congresso democrata para limitar os juros do cartão de crédito, promessa da campanha de 2024 que não avançou com os republicanos. A proposta padrão é um teto de 10% ao ano.",
+   "highlights": [
+    "Juro mediano do cartão nos EUA é de cerca de 22,2%, segundo o Fed de Nova York",
+    "Bancos dizem que o teto levaria ao cancelamento de cartões e corte de recompensas",
+    "Elizabeth Warren deve presidir o Comitê Bancário do Senado"
+   ],
+   "body": "O presidente Donald Trump afirmou que trabalharia com o Congresso de maioria democrata que toma posse em janeiro para limitar os juros do cartão de crédito. \"Eu faria isso. Essas empresas de cartão ganharam muito\", disse ele ao programa \"Saturday in America\", da Fox News. A promessa foi feita na campanha de 2024, mas não avançou por pressão do setor e falta de interesse dos próprios republicanos.\n\nDemocratas e o presidente defendem um teto, normalmente proposto em 10%. Segundo pesquisa de agosto do Fed de Nova York, o juro mediano dos cartões é de cerca de 22,2%. Com taxa de 10%, quem tem saldo de US$ 5 mil pagaria cerca de US$ 42 por mês em juros, contra cerca de US$ 100 com a taxa média atual de 22%.\n\nBancos e emissoras de cartão reagiram de forma agressiva quando Trump propôs o teto em janeiro, alegando que seriam forçados a cancelar cartões de clientes mais pobres e com pior crédito ou cortar recompensas. Com os democratas no controle da Câmara e do Senado, o cenário pode mudar; a senadora Elizabeth Warren deve assumir a presidência do Comitê Bancário do Senado.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
+   "published_at": "2026-11-21T13:27:57-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/ca3d845e-2e76-4093-9b96-5798868f6369/thumbnail/1200x630g3/9332f7876c080ed03093c3d2d3f0256a/gettyimages-2302566480.jpg"
+  },
+  {
+   "id": "td21-eua-07",
+   "title": "Tempestades nas duas costas ameaçam viagens de Ação de Graças",
+   "summary": "Novas tempestades devem atingir as costas leste e oeste dos EUA no início da próxima semana, justamente quando os americanos viajam para o feriado de Ação de Graças. O prefeito de San Francisco pediu que só viajem se for essencial.",
+   "highlights": [
+    "San Francisco se prepara para marés extremas e chuva de segunda a quarta",
+    "Califórnia e Flórida tiveram enchentes e alagamentos na última semana",
+    "Outono chuvoso é atribuído em parte a um \"Super El Niño\""
+   ],
+   "body": "Antes de se preocupar com o peru, os viajantes podem enfrentar outra incerteza na próxima semana: o tempo, que afeta as duas costas dos EUA. \"Vou pedir a todos que considerem não viajar a menos que seja absolutamente essencial\", escreveu no X o prefeito de San Francisco, Daniel Lurie, ao informar que a cidade se prepara para marés extremamente altas e chuva entre segunda à tarde e quarta-feira.\n\nNa última semana, cidades da Califórnia tiveram deslizamentos de lama, trombas d'água e enchentes, enquanto a Flórida enfrentou alagamentos costeiros e ruas inundadas. Um novo conjunto de tempestades deve atingir os dois lados do país no início da semana, no momento em que muitos pegam a estrada para o feriado.\n\nO outono tem sido chuvoso em grande parte do país, em parte por causa de um \"Super El Niño\", padrão climático natural que altera o tempo no mundo todo. Enchentes devastadoras no sudoeste deixaram mortos e centenas de ilhados, e a Califórnia e o noroeste do Pacífico têm enfrentado nível do mar elevado e fortes rios atmosféricos.",
+   "category": "eua",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+   "published_at": "2026-11-21T13:22:46-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F0b%2F4ca5429c4444a8280c4ead69cf19%2Fgettyimages-2305764692.jpg"
+  },
+  {
+   "id": "td21-eua-05",
+   "title": "Vance evita endossar tese de Trump de que Irã estava perto da bomba",
+   "summary": "Em entrevista coletiva na Casa Branca, o vice-presidente JD Vance não endossou a afirmação de Trump de que o Irã estava tão perto de uma arma nuclear em fevereiro que a guerra era essencial. Ele disse que não lhe cabe questionar o presidente.",
+   "highlights": [
+    "Trump nega estar insatisfeito com declaração de Vance sobre derrota nas eleições",
+    "Presidente diz que faria a guerra de novo \"absolutamente\"",
+    "Alegação contrasta com depoimento de Tulsi Gabbard ao Congresso em março de 2025"
+   ],
+   "body": "Em entrevista coletiva na Casa Branca na sexta-feira, o vice-presidente JD Vance não chegou a endossar a afirmação de Donald Trump de que o Irã estava tão perto de obter uma arma nuclear em fevereiro que era essencial os EUA entrarem em guerra. Vance disse que não lhe cabe questionar o presidente.\n\nTrump foi perguntado sobre relatos de que estaria insatisfeito com a declaração de Vance atribuindo à guerra com o Irã as derrotas republicanas nas eleições de meio de mandato. \"Eu não disse que estava insatisfeito\", respondeu, acrescentando que, se perguntado se faria tudo de novo, a resposta seria \"absolutamente sim, porque não podemos permitir que o Irã tenha uma arma nuclear\".\n\nSegundo o Guardian, a alegação de Trump — repetida dezenas de vezes nos últimos nove meses, inclusive num comício no Alasca em que disse que o Irã estava \"a duas semanas\" de uma bomba — é contrariada por evidências públicas e por suas próprias declarações anteriores. Em 25 de março de 2025, a então diretora de Inteligência Nacional, Tulsi Gabbard, disse ao Congresso que as agências avaliavam que o Irã não estava tentando fabricar uma arma nuclear.",
+   "category": "eua",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+   "published_at": "2026-11-21T12:24:51-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/b5b32185795e8abee801ae63027a8874bf8934f3/853_0_6654_5323/master/6654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cef99a1c304f4e3848119bc0bd90afb9"
+  },
+  {
+   "id": "td21-eua-04",
+   "title": "Famílias de soldados mortos criticam investigação do Pentágono sobre ataque de drone",
+   "summary": "Famílias de seis reservistas do Exército mortos por um drone iraniano no Kuwait em 1º de março disseram à CBS News que os briefings sobre o relatório militar não responderam às suas dúvidas. O relatório ainda não foi divulgado ao público.",
+   "highlights": [
+    "Ataque em Port Shuaiba foi o mais letal contra tropas dos EUA na guerra com o Irã",
+    "Pentágono indica que relatório pode sair em questão de dias",
+    "Investigação da CBS apontou alertas ignorados sobre a ameaça de drones"
+   ],
+   "body": "Famílias \"Gold Star\" — que perderam militares em serviço — disseram à CBS News que os briefings sobre um relatório militar a ser divulgado não responderam satisfatoriamente às suas preocupações sobre a preparação e a resposta ao ataque mais letal contra soldados americanos no conflito com o Irã. Seis reservistas do Exército morreram quando um drone atingiu seu posto de comando em Port Shuaiba, no Kuwait, em 1º de março, no início da Operação Epic Fury.\n\nO relatório oficial ainda não foi publicado, mas o Pentágono indicou que pode ser divulgado em dias. Na última semana, o Exército informou ao menos três famílias sobre a investigação, e vários parentes disseram ter ficado frustrados com o que ouviram.\n\nSegundo alguns deles, o documento pouco trata das conclusões de uma investigação de oito meses da CBS News, na qual fontes afirmaram que comandantes ignoraram repetidos alertas sobre a ameaça de drones. Testemunhas disseram que as instalações não eram fortificadas contra drones de ataque, que o local constava de uma lista de alvos iranianos segundo inteligência americana e que faltavam suprimentos médicos e um plano para incidentes com muitas vítimas.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+   "published_at": "2026-11-21T12:02:37-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/08/f7e9b198-2ed5-435f-951f-a0bae1880da0/thumbnail/1200x630g6/fa64da75c788d35dadf1e52dd585a875/img-0213.jpg"
+  },
+  {
+   "id": "td21-eua-03",
+   "title": "FBI investiga aparente invasão de banco de dados criminal nacional",
+   "summary": "O FBI investiga uma aparente invasão hacker do NCIC, banco de dados nacional com informações sobre foragidos, desaparecidos e antecedentes criminais usado por polícias de todo o país. Trump disse que \"não é bom\".",
+   "highlights": [
+    "NCIC é usado por polícias locais, estaduais e federais",
+    "FBI não comentou; alcance do problema ainda não está claro",
+    "Bureau já investigava em setembro invasão de seu portal de empregos"
+   ],
+   "body": "O FBI está investigando uma aparente invasão de um banco de dados nacional de aplicação da lei mantido pelo órgão, disse no sábado uma pessoa a par do assunto à Associated Press. O National Crime Information Center (NCIC) reúne informações de justiça criminal disponíveis para polícias locais, estaduais e federais, incluindo registros de foragidos, pessoas desaparecidas, antecedentes criminais e bens roubados.\n\nO FBI se recusou a comentar o caso, revelado primeiro pela CNN, e o alcance do problema não estava claro. Questionado em entrevista à Fox News, o presidente Donald Trump afirmou: \"Acabamos de saber disso e devo dizer que não é bom\".\n\nA notícia surge depois de uma série de panes digitais no governo e no setor privado que autoridades atribuíram a atualizações de rotina, e não a ciberataques; não havia indicação imediata de ligação com o caso do FBI. O bureau é alvo frequente de hackers: em setembro, investigou a invasão de seu portal de empregos após o grupo ShinyHunters alegar ter obtido grande volume de dados de funcionários e candidatos.",
+   "category": "eua",
+   "source": "Local 10 / AP",
+   "url": "https://www.local10.com/news/politics/2026/11/21/fbi-investigating-apparent-hack-of-a-key-criminal-justice-information-database-ap-source-says/",
+   "published_at": "2026-11-21T11:41:58-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/HW3LW6Z2ETFPNTZYLQWVNXC5LY.jpg?auth=8603c4c3fbf93ae1b56d7d7caf2530868a205f635268df7791d440a0ba08554e&width=700"
+  },
+  {
+   "id": "td21-eua-06",
+   "title": "Criança morre de sarampo na Virgínia, primeira morte do estado em 2026",
+   "summary": "A Virgínia registrou sua primeira morte associada ao sarampo em 2026, de uma criança de até quatro anos. O caso se soma a um surto nacional que custou aos EUA o status de país livre da doença após 26 anos.",
+   "highlights": [
+    "Estado não divulgou a situação vacinal da criança",
+    "Pensilvânia, estado mais atingido, tem 8 mortes e 1.631 casos",
+    "Virgínia soma 220 casos no ano, 179 em não vacinados"
+   ],
+   "body": "A Virgínia informou na sexta-feira sua primeira morte associada ao sarampo em 2026, envolvendo uma criança com quatro anos ou menos que testou positivo para a doença. O departamento de saúde estadual não divulgou outros detalhes, como a situação vacinal, citando a privacidade da família.\n\nA morte se soma a um surto nacional que se agrava e que recentemente fez os EUA perderem o status de eliminação do sarampo, mantido por 26 anos. A Pensilvânia, estado mais atingido, registrou a oitava morte e 1.631 casos confirmados até sexta; Wisconsin tem duas mortes e Nova York registrou sua primeira, também de uma criança. O CDC confirma seis mortes no ano, divergência atribuída à mudança na fonte de dados adotada sob o secretário de Saúde Robert F. Kennedy Jr.\n\nA Virgínia soma 220 casos em 2026, incluindo 40 em crianças de até quatro anos e 75 entre 5 e 12 anos. Do total, 179 envolveram pessoas não vacinadas e 39, pessoas com situação vacinal desconhecida.",
+   "category": "eua",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+   "published_at": "2026-11-21T10:30:07-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad013cc73e34176b2dfd6bea35894414"
+  },
+  {
+   "id": "td21-mundo-01",
+   "title": "Violência após prisão de \"El Chapo Isidro\" deixa 11 mortos no México",
+   "summary": "Ao menos 11 pessoas morreram em confrontos no estado de Sinaloa após a captura do chefe de cartel Fausto Isidro Meza Flores, o \"El Chapo Isidro\". Entre os mortos estão sete supostos pistoleiros e quatro soldados.",
+   "highlights": [
+    "Tiroteio começou na sexta à noite e se estendeu pela madrugada",
+    "Meza Flores estava na lista dos 10 mais procurados do FBI",
+    "Operação usou inteligência dos EUA; oito pessoas foram presas"
+   ],
+   "body": "Ao menos 11 pessoas foram mortas numa onda de violência no estado mexicano de Sinaloa após a captura do chefe de cartel Fausto Isidro Meza Flores, conhecido como \"El Chapo Isidro\". O Gabinete de Defesa do México informou no sábado à tarde que sete supostos pistoleiros e quatro soldados morreram no intenso tiroteio que começou na sexta à noite e seguiu madrugada adentro, com caminhões incendiados.\n\nMeza Flores, um dos 10 fugitivos mais procurados pelo FBI, estava entre as oito pessoas presas na operação, feita com inteligência fornecida pelos EUA. Ele subiu na hierarquia até liderar o cartel Beltrán Leyva e depois fundou seu próprio grupo; Washington oferecia recompensa de US$ 5 milhões por informações que levassem à sua prisão, por tráfico de drogas para os EUA e porte ilegal de armas.\n\nO governo mexicano disse que a inteligência da administração Trump ajudou na captura, mas deu poucos detalhes sobre a coordenação entre os dois países. Meza Flores também era aliado-chave dos \"Los Mayos\", facção do Cartel de Sinaloa.",
    "category": "mundo",
    "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/world/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-in-central-ukraine-kills-2-wounds-60/",
-   "published_at": "2026-11-21T09:53:13-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-21-2026%2Ft_2fc0779b550e449d9a8c5aa98d702b39_name_49773988219_hdtv.jpg?auth=f9c4d7d0c6abb79bb5a96ac8d95d8bfdffbf1185befe046608d5f160d8d18132&width=700"
+   "url": "https://www.local10.com/business/2026/11/21/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa/",
+   "published_at": "2026-11-21T14:27:32-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/RKNM26WLFSAUMBF4ODDFHZWGMQ.jpg?auth=1dfe862f65ebfcb3ce5795626974c216dfed68976895d9d23c32fdaf40386407&width=700"
   },
   {
-   "id": "md21-mundo-05",
-   "title": "Irã exibe lançador de mísseis duplo; Trump diz não ter pressa",
-   "summary": "A Guarda Revolucionária do Irã exibiu na TV estatal um novo lançador capaz de disparar dois mísseis de combustível líquido. Trump afirmou que não tem pressa para tomar decisões sobre o Irã e que o próximo passo pode ficar para 2027.",
+   "id": "td21-mundo-07",
+   "title": "Senador dos EUA minimiza restrições do Pentágono ao Canadá",
+   "summary": "O senador republicano Mike Rounds disse que as novas restrições do Pentágono à cooperação com o Canadá miram sobretudo eventos de think tanks e compromissos sociais, não operações militares nem troca de inteligência. O ministro da Defesa canadense falou em \"normalidade\".",
    "highlights": [
-    "Novo lançador seria avanço sobre modelo de combustível sólido",
-    "Comandante diz que capacidades do Irã \"se expandiram muito\"",
-    "Teerã nega acusações sobre armas químicas"
+    "Washington Post revelou memorando sigiloso de Pete Hegseth",
+    "Pentágono já não envia oficiais ao Fórum de Halifax desde 2025",
+    "Relações estão tensas com guerra comercial e ameaças de anexação"
    ],
-   "body": "A TV estatal iraniana exibiu imagens de uma instalação subterrânea de mísseis onde a Guarda Revolucionária apresentou um novo lançador que, segundo ela, pode disparar dois mísseis de combustível líquido. O equipamento parece ser um avanço em relação ao lançador duplo usado antes, que disparava mísseis de combustível sólido; o combustível líquido permite ajustar velocidade e trajetória.\n\nA localização não foi revelada. A transmissão buscou exaltar a capacidade de mísseis do Irã e rebater alegações dos EUA de que o programa foi destruído. O comandante da Força Aeroespacial da Guarda, general Seyyed Majid Mousavi, disse que as capacidades do país \"se expandiram significativamente\" e que há \"surpresas\" integradas à estrutura de combate.\n\nSegundo a cobertura ao vivo da CBS News, Trump insistiu que \"não está com pressa para tomar decisões sobre o Irã\" e indicou que o próximo movimento pode não vir antes de 2027, enquanto Teerã nega acusações sobre armas químicas.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-   "published_at": "2026-11-21T09:51:15-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/21/7b8db557-c10a-4e28-9651-f04b2fb59085/thumbnail/1200x630/f1f01dc70b3dee71db9876ec6023cd3c/2026-11-20t110959z-602263553-rc2kroa2p306-rtrmadp-3-iran-crisis.jpg"
-  },
-  {
-   "id": "md21-mundo-01",
-   "title": "México prende \"El Chapo Isidro\", da lista dos mais procurados do FBI",
-   "summary": "Forças especiais mexicanas capturaram Fausto Isidro Meza-Flores, o \"El Chapo Isidro\", um dos 10 fugitivos mais procurados pelo FBI. A prisão, num operativo em Sinaloa na noite de sexta-feira, foi seguida por violência no estado.",
-   "highlights": [
-    "Outros dois líderes da organização também foram presos",
-    "FBI descreve o grupo como fortemente armado e baseado em Sinaloa",
-    "Cartel é acusado de traficar fentanil, heroína e cocaína para os EUA"
-   ],
-   "body": "As Forças Armadas do México anunciaram no sábado a captura de Fausto Isidro Meza-Flores, conhecido como \"El Chapo Isidro\", que estava na lista dos 10 mais procurados do FBI. Ele e outros dois líderes de sua organização foram presos por forças especiais durante uma operação em Sinaloa na noite de sexta-feira, segundo a Secretaria de Defesa Nacional.\n\nMeza-Flores é apontado como chefe da Organização Criminosa Transnacional Meza-Flores, que o FBI descreve como um grupo de narcotráfico \"fortemente armado\" com base em Sinaloa. A organização é acusada de produzir, transportar e enviar aos EUA heroína, metanfetamina, cocaína, fentanil e maconha.\n\nApós a prisão, eclodiu violência no estado de Sinaloa, assustando a população civil, segundo a CBS News.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
-   "published_at": "2026-11-21T09:24:28-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/10dd40a3-459d-42a3-920f-e6be48f6daad/thumbnail/1200x630/c03d946daa157a09a648f9fed4bdeaf3/2026-11-21t133748z-174175452-rc2dsoamky38-rtrmadp-3-mexico-chapoisidro.jpg"
-  },
-  {
-   "id": "md21-mundo-06",
-   "title": "Princesa Kate fala da vida após o câncer em documentário",
-   "summary": "Catherine, princesa de Gales, fala sobre esperança e alegria em meio à incerteza no documentário \"Heal\". O filme acompanha o Desafio dos Três Picos, em que ela escalou as montanhas mais altas da Escócia, Inglaterra e País de Gales em 24 horas.",
-   "highlights": [
-    "Trailer foi divulgado no sábado pelo Palácio de Kensington",
-    "Desafio, em junho, arrecadou fundos para o Royal Marsden",
-    "Kate anunciou o câncer em março de 2024"
-   ],
-   "body": "Catherine, princesa de Gales, fala sobre encontrar esperança e alegria em meio à incerteza no novo documentário \"Heal\", que explora sua vida desde o diagnóstico de câncer em 2024. O trailer foi divulgado no sábado pelo Palácio de Kensington.\n\nO filme acompanha Kate, de 44 anos, no Desafio dos Três Picos: escalar as montanhas mais altas da Escócia, da Inglaterra e do País de Gales em 24 horas. Ela completou o feito em junho para arrecadar dinheiro para a instituição beneficente do Royal Marsden Hospital, onde foi tratada, e conversa com outras pessoas sobre suas experiências com a doença.\n\nKate anunciou em março de 2024 que tinha câncer e fazia quimioterapia após uma grande cirurgia abdominal, sem revelar o tipo da doença.",
+   "body": "As restrições do Pentágono ao Canadá visam em grande parte a participação de oficiais militares americanos em eventos de think tanks e compromissos sociais, e não operações militares ou compartilhamento de inteligência, disse no sábado o senador republicano Mike Rounds. O ministro da Defesa do Canadá descreveu a cooperação militar como \"normal\".\n\nO Washington Post informou na sexta-feira que o secretário de Defesa, Pete Hegseth, fez circular na semana passada um memorando sigiloso impondo novas restrições à cooperação militar com o Canadá. A notícia surge num momento em que a guerra comercial de Donald Trump e suas repetidas ameaças de transformar o Canadá no 51º estado americano estremecem a relação entre os aliados.\n\nFalando no Fórum Internacional de Segurança de Halifax — evento do qual o governo Trump já havia barrado autoridades do Pentágono em 2025 —, Rounds disse que, segundo o assessor do Pentágono que acompanha a delegação, a orientação parece coerente com práticas existentes. \"Não esperamos nenhuma mudança real em relação ao último ano, ano e meio\", afirmou.",
    "category": "mundo",
    "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/world/2026/11/21/britains-princess-catherine-reflects-on-life-after-cancer-diagnosis-in-a-new-documentary/",
-   "published_at": "2026-11-21T08:37:59-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/R2HIXQEV3MDI4JN3VFSASLDKJQ.jpg?auth=09fe11bea7e90ef415aaee262bd578201edb3d39dec224aee03a6789a07c5a22&width=700"
+   "url": "https://www.local10.com/news/world/2026/11/21/us-senator-says-pentagon-restrictions-on-canada-focus-on-think-tanks-and-social-events/",
+   "published_at": "2026-11-21T14:21:17-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/DYHMRVQWUS5UOKDCR2Y2KMRIEQ.jpg?auth=ddacc5745ad1e7873632b6735aebfc36718d8fc28ec17c61bb657e1544fa002c&width=700"
   },
   {
-   "id": "md21-mundo-03",
-   "title": "Drones atingem navio russo perto da costa da Finlândia",
-   "summary": "O cargueiro russo Sparta II pegou fogo após ser atingido por dois drones no Golfo da Finlândia e derivou para águas finlandesas. Autoridades da Finlândia dizem que o navio tem ligações com as Forças Armadas russas.",
+   "id": "td21-mundo-04",
+   "title": "Vila inglesa vota por \"sair do Reino Unido\" em protesto contra abrigo de refugiados",
+   "summary": "Moradores de Barnham, em Suffolk, votaram num referendo simbólico por \"deixar o Reino Unido\" em resposta ao plano do governo de abrigar 930 solicitantes de asilo numa antiga base militar próxima. Foram 257 votos a favor e 16 contra.",
    "highlights": [
-    "Ataque ocorreu a oeste da ilha de Gogland na manhã de sábado",
-    "Finlândia restringiu tráfego aéreo e marítimo no leste do golfo",
-    "Guarda de Fronteira finlandesa enviou equipes de resgate"
+    "Cerca de 500 moradores podiam votar",
+    "Proposta é buscar status de \"dependência da Coroa\", como Jersey",
+    "Vila de Piddington fez votação semelhante em setembro"
    ],
-   "body": "Equipes de resgate atuam no Golfo da Finlândia depois que o cargueiro russo Sparta II foi atingido por drones perto da fronteira marítima da Rússia, na manhã de sábado. O navio está em chamas e derivou para águas territoriais finlandesas, segundo as autoridades.\n\nO Ministério da Defesa da Finlândia informou ter detectado um ataque com drones contra uma embarcação russa em águas internacionais, a oeste da ilha de Gogland, e enviou unidades da Guarda de Fronteira ao local. Uma foto feita por um avião de patrulha mostra chamas e fumaça espessa na parte traseira do navio.\n\nA Finlândia impôs restrições temporárias ao tráfego aéreo e marítimo na parte leste do golfo. Segundo a Guarda de Fronteira finlandesa, o navio tem ligações conhecidas com as Forças Armadas russas.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
-   "published_at": "2026-11-21T07:45:24-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/09fd6901-3d7d-bc30-6521-cfb976d7a4da-1795270452.jpg?resize=1200%2C593&quality=80"
-  },
-  {
-   "id": "md21-mundo-08",
-   "title": "Ataques israelenses matam ao menos quatro em Gaza",
-   "summary": "Pelo menos quatro palestinos morreram em ataques israelenses em Gaza no sábado, apesar do cessar-fogo do ano passado. Três morreram quando um drone atingiu uma van que levava comida a deslocados na Cidade de Gaza.",
-   "highlights": [
-    "Van humanitária foi atingida no bairro de Tal al-Hawa",
-    "Um homem foi morto a tiros no campo de Halawa, perto de Jabalia",
-    "Enchentes de inverno agravam a crise humanitária"
-   ],
-   "body": "Ataques israelenses em Gaza mataram pelo menos quatro palestinos no sábado, em violação ao \"cessar-fogo\" do ano passado, enquanto as enchentes de inverno aprofundam a crise humanitária no território, segundo a Al Jazeera.\n\nAo menos três pessoas morreram quando uma van que entregava alimentos a deslocados foi atingida por um drone israelense no bairro de Tal al-Hawa, na Cidade de Gaza. O correspondente Ibrahim al-Khalili disse que se tratava de \"um veículo humanitário destinado a entregar ajuda\".\n\nSeparadamente, um homem foi morto por tiros israelenses no campo de deslocados de Halawa, a leste do campo de refugiados de Jabalia, no norte de Gaza, e levado ao Hospital al-Shifa. Mais cedo, um ataque atingiu um jovem numa bicicleta elétrica em al-Mawasi.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
-   "published_at": "2026-11-21T07:29:49-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b018e5c201e-1795264092.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "md21-mundo-09",
-   "title": "Reform UK avalia pacto com Restore Britain para frear queda",
-   "summary": "O partido Reform UK, de Nigel Farage, discute um possível pacto eleitoral com o Restore Britain, sigla de extrema direita criada por Rupert Lowe. O Reform perdeu cinco eleições desde setembro, em parte por votos tirados pelo rival.",
-   "highlights": [
-    "Eleição suplementar em Castle Bromwich é novo teste na quinta",
-    "Uma das derrotas foi por apenas dois votos",
-    "Conservadores avançam nas pesquisas recentes"
-   ],
-   "body": "O Reform UK, partido de Nigel Farage, está considerando oferecer um pacto eleitoral ao Restore Britain, legenda de extrema direita fundada pelo deputado Rupert Lowe depois de romper com Farage, segundo o Guardian. A ideia é discutida por figuras da sede do partido em Millbank.\n\nO Reform perdeu cinco eleições desde setembro — uma delas por apenas dois votos — depois que o Restore atraiu eleitores que, de outro modo, votariam no partido de Farage. Enquanto isso, os conservadores vêm avançando nas pesquisas.\n\nO próximo teste é uma eleição suplementar pouco notada na quinta-feira em Castle Bromwich, nas West Midlands, num momento em que o Reform está particularmente vulnerável.",
+   "body": "Moradores de uma vila de Suffolk, no leste da Inglaterra, votaram por \"sair do Reino Unido\" num referendo realizado em resposta ao plano do governo de abrigar 930 solicitantes de asilo numa antiga base militar próxima. Cerca de 500 pessoas em Barnham podiam participar da votação simbólica no sábado: foram 257 votos pela independência, 16 contra e um nulo.\n\nA RAF Barnham é um dos três terrenos do Ministério da Defesa indicados em junho como possíveis locais para novas instalações para solicitantes de asilo. O referendo perguntava se os moradores apoiavam buscar o status de \"dependência da Coroa\", semelhante ao de Jersey, Guernsey e Ilha de Man, o que, segundo o presidente do conselho da paróquia, John Bauer, permitiria manter lealdade à Coroa, mas sair da jurisdição do Home Office.\n\nUma votação semelhante ocorreu em setembro em Piddington, Oxfordshire, contra plano de abrigar mais de mil migrantes em outra antiga base. O deputado local disse que críticas legítimas aos planos estão sendo cooptadas por partidos de oposição que \"atiçam a discórdia racial\".",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-   "published_at": "2026-11-21T07:22:54-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc5e49af595932ba424735ecfb25764f"
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+   "published_at": "2026-11-21T13:20:37-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/master/4628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d61639006bf904f3990b58161dc39181"
   },
   {
-   "id": "md21-mundo-07",
-   "title": "Tropas de El Salvador combatem gangues no Haiti",
-   "summary": "Tropas de El Salvador e a polícia haitiana retomaram o estádio Sylvio Cator, em Porto Príncipe, que estava sob controle de gangues desde 2024. Muitos haitianos comemoram, mas outros temem que a ofensiva agrave a instabilidade.",
+   "id": "td21-mundo-06",
+   "title": "Taiwan alerta Canadá sobre riscos de aproximação com a China",
+   "summary": "O vice-chanceler de Taiwan, Chen Ming-chi, disse que o premiê canadense Mark Carney arrisca expor o Canadá à coerção econômica que ele mesmo condena ao estreitar laços comerciais com Pequim. \"Nós nos preocupamos\", afirmou à AP.",
    "highlights": [
-    "Estádio servia de base para homens do chefe de gangue Izo",
-    "Seleção haitiana teve de jogar eliminatórias no exterior",
-    "El Salvador é governado por Nayib Bukele"
+    "Declaração foi feita no Fórum Internacional de Segurança de Halifax",
+    "Chen lembrou o caso dos \"dois Michaels\" detidos na China",
+    "Carney se reuniu com Xi Jinping em Shenzhen dias antes"
    ],
-   "body": "Combatentes estrangeiros enviados por El Salvador estão sendo recebidos por muitos haitianos após anos de domínio das gangues em Porto Príncipe, mas há quem tema que a ofensiva piore uma situação já volátil, segundo reportagem do Guardian.\n\nNa semana passada, a polícia haitiana e tropas salvadorenhas reconquistaram o estádio Sylvio Cator, o principal campo de futebol da capital, onde já jogaram craques como Ronaldo e Roberto Carlos. Em 2024, quando a cidade foi quase toda tomada por gangues fortemente armadas, o estádio passou ao controle criminoso e virou posto avançado de homens de um chefe de gangue chamado Izo.\n\nCom isso, a seleção haitiana ficou sem casa e teve de disputar suas partidas das eliminatórias da Copa do Mundo no exterior. As tropas são de El Salvador, país governado por Nayib Bukele.",
+   "body": "O vice-ministro das Relações Exteriores de Taiwan, Chen Ming-chi, alertou no sábado que o primeiro-ministro do Canadá, Mark Carney, corre o risco de expor o país à mesma coerção econômica contra a qual tem advertido, ao aprofundar os laços comerciais com a China. \"Nós nos preocupamos\", disse Chen em entrevista à Associated Press no Fórum Internacional de Segurança de Halifax.\n\nCarney tem dito que grandes potências usam a integração econômica como arma, citando as tarifas dos EUA e as restrições chinesas a minerais críticos, e defende que potências médias diversifiquem parceiros. Chen elogiou o discurso de Carney em Davos, mas questionou se o Canadá deve se aproximar de países que não compartilham seus valores democráticos.\n\n\"Vocês têm sua própria história. Vocês têm os dois Michaels\", disse, referindo-se ao ex-diplomata Michael Kovrig e ao empresário Michael Spavor, detidos por quase três anos na China após o Canadá prender a executiva da Huawei Meng Wanzhou em 2018. O alerta veio dias depois de Carney se reunir com Xi Jinping em Shenzhen.",
+   "category": "mundo",
+   "source": "Local 10 / AP",
+   "url": "https://www.local10.com/business/2026/11/21/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against/",
+   "published_at": "2026-11-21T12:39:51-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/NXYECGCAEBG3UBM7VG4ZIOXX6I.jpg?auth=245730ad41c4f6b8acffb60b08a722d627cb04ec08e4ee25211d2af86e3863dd&width=700"
+  },
+  {
+   "id": "td21-mundo-05",
+   "title": "Ex-chefe da polícia italiana é encontrado morto antes de depor sobre atentado de 1992",
+   "summary": "Gianni De Gennaro, de 78 anos, ex-chefe da polícia nacional da Itália, foi encontrado morto no sábado em sua casa na Toscana. Ele era investigado por suposto acobertamento no inquérito sobre o atentado que matou o juiz Paolo Borsellino em 1992.",
+   "highlights": [
+    "Autoridades tratam o caso como aparente suicídio; autópsia pendente",
+    "Meloni disse estar \"profundamente chocada\"",
+    "De Gennaro negava ter obstruído as investigações"
+   ],
+   "body": "A primeira-ministra da Itália, Giorgia Meloni, disse estar chocada com a morte de Gianni De Gennaro, ex-chefe da polícia nacional, cujo corpo foi encontrado no sábado em sua casa de veraneio na Toscana. De Gennaro, de 78 anos, era investigado por suposto acobertamento num inquérito sobre um atentado ligado ao crime organizado na Sicília.\n\nA promotoria local abriu uma investigação sobre as circunstâncias da morte, tratada como aparente suicídio; o resultado da autópsia ainda é aguardado. \"Estou profundamente chocada com a trágica morte de Gianni De Gennaro\", disse Meloni em nota.\n\nDe Gennaro havia sido convocado a depor no mês que vem no inquérito sobre o atentado de 1992 em Palermo que matou o magistrado Paolo Borsellino e cinco policiais, e negava veementemente ter obstruído as investigações. Ao longo da carreira, ocupou cargos focados no combate ao crime organizado e chefiou a polícia nacional por sete anos, até 2007.",
+   "category": "mundo",
+   "source": "Local 10 / AP",
+   "url": "https://www.local10.com/news/world/2026/11/21/meloni-expresses-shock-as-italian-ex-police-chief-found-dead-as-he-faced-inquiry-over-1992-bombing/",
+   "published_at": "2026-11-21T12:38:18-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/Z6R6T5GTDNBIWLVPVGT5CO3WAM.jpg?auth=24e86615dc3d48199d43b95c98a08fa4273fab1997c7deeb0374c2c3d5c6a05d&width=700"
+  },
+  {
+   "id": "td21-mundo-02",
+   "title": "Fracassam negociações na ONU para controlar armas autônomas",
+   "summary": "Após uma semana de discussões em Genebra, países não conseguiram aprovar um mandato para negociar um tratado vinculante sobre armas autônomas, diante de objeções da Rússia. A conferência adotou uma opção bem mais fraca.",
+   "highlights": [
+    "Mais de 100 países defendiam uma nova lei internacional",
+    "EUA também resistiram a um protocolo juridicamente vinculante",
+    "Mandato aprovado pode não trazer obrigações legais"
+   ],
+   "body": "Os esforços de uma semana para aprovar um mandato de negociação de um tratado internacional juridicamente vinculante para controlar armas autônomas fracassaram pouco antes das 5h, após conversas que atravessaram a noite sem superar as objeções russas. Embora a grande maioria dos países na Convenção sobre Certas Armas Convencionais (CCW), da ONU, em Genebra, quisesse o mandato, a exigência de consenso forçou a adoção de uma opção muito mais fraca, que pede aos países que elaborem \"por consenso\" um instrumento que pode não ter obrigações legais.\n\nA Rússia liderou as objeções com táticas de obstrução, mas outras potências militares investidas em guerra com IA, como os EUA, também relutaram em se comprometer com um protocolo que proteja civis de drones-robôs e outras armas autônomas. Alguns argumentaram que o direito internacional humanitário já é suficiente.\n\nMais de 100 países defendiam uma nova lei, dizendo que essas armas trazem desafios inteiramente novos. Segundo o Guardian, os EUA disseram que a necessidade de controle humano sobre armas autônomas foi discutida na cúpula da Apec entre Xi Jinping e Donald Trump nesta semana, mas Washington não quis um tratado vinculante.",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-   "published_at": "2026-11-21T06:00:57-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=931c27cb117e8218216b479384328691"
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "published_at": "2026-11-21T11:36:11-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79"
   },
   {
-   "id": "md21-miami-07",
-   "title": "Humane Society de Broward busca lar para o cãozinho Irving",
-   "summary": "A Humane Society de Broward procura uma família para Irving, um mestiço de Shih Tzu com poodle de cerca de 4 kg e 9 anos. O abrigo também anunciou o evento de adoção Black Fur Day na Black Friday.",
+   "id": "td21-mundo-03",
+   "title": "Oposição indiana protesta contra a Meta por bloqueio de contas",
+   "summary": "A ala jovem do Partido do Congresso, principal sigla de oposição da Índia, protestou em escritórios da Meta em três cidades exigindo a restauração de contas do Instagram de seus líderes. O grupo deu à empresa um \"ultimato\" de sete dias.",
    "highlights": [
-    "Irving foi encontrado no quintal de uma casa",
-    "Abrigo oferece segunda adoção de coelho sem taxa",
-    "Black Fur Day abre os canis às 8h na Black Friday"
+    "Protestos em Hyderabad, Mumbai e Gurugram tiveram confrontos com a polícia",
+    "Partido acusa a Meta de agir por ordem do governista BJP",
+    "Duas contas foram restauradas após os protestos, segundo o grupo"
    ],
-   "body": "A Humane Society do Condado de Broward, em Fort Lauderdale, quer encontrar um lar para Irving, um mestiço de Shih Tzu com poodle de 9 libras (cerca de 4 kg), com idade estimada de 9 anos. Ele foi encontrado no jardim de uma casa e levado ao abrigo depois que as buscas pelo dono não deram resultado.\n\nCherie Wachter, do abrigo, descreve Irving como doce, sociável e muito carinhoso; ele também gosta de passear de carro. O abrigo tem ainda vários coelhos para adoção, todos castrados, e quem adotar um pode levar um segundo sem pagar a taxa.\n\nO evento anual de adoção Black Fur Day acontece na Black Friday, com promoções o dia todo e canis abertos a partir das 8h. Interessados em Irving podem preencher o formulário em humanebroward.com.",
+   "body": "A ala jovem do Partido do Congresso, principal legenda de oposição da Índia, realizou protestos diante de escritórios da Meta em três cidades exigindo que a empresa americana restaure as contas do Instagram de seus dirigentes. Os atos em Hyderabad, Mumbai e Gurugram, perto de Nova Délhi, ocorreram na sexta-feira e tiveram confrontos com policiais e seguranças, segundo vídeos divulgados pelo Congresso Jovem Indiano.\n\nEm Hyderabad, manifestantes entraram no prédio da Meta; em Mumbai, picharam slogans nos muros; em Gurugram, exibiram faixas pedindo a restauração das contas. O partido alega que, em 19 de novembro, a Meta reteve ilegalmente as contas do presidente da ala jovem e do dirigente responsável por ela por ordem do governista Bharatiya Janata Party (BJP).\n\n\"Se a Meta quer fazer negócios na Índia, deve respeitar a Constituição indiana, não se render a ordens arbitrárias do governo do BJP\", disse o grupo. Manu Jain, que cuida das redes sociais da ala, disse à Reuters que duas contas foram restauradas após os protestos, mas que milhares de contas de jornalistas, criadores e influenciadores críticos ao governo continuariam afetadas.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals",
+   "published_at": "2026-11-21T11:14:01-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b01aa96-1795271318.jpg?resize=1200%2C675"
+  },
+  {
+   "id": "td21-weston-01",
+   "title": "Cypress Bay recebe Western hoje às 19h na semifinal regional",
+   "summary": "Invicto, o Cypress Bay (11-0), de Weston, enfrenta o Western (8-3), de Davie, neste sábado às 19h, na semifinal da Região 4 da Classe 6A. O jogo foi adiado de sexta por causa das chuvas recordes.",
+   "highlights": [
+    "Revanche do jogo de setembro, vencido pelo Cypress Bay por 21-18 na prorrogação",
+    "Vencedor enfrenta o Miami Palmetto na final regional em 27/11",
+    "Miami Palmetto bateu West Broward por 47-35 na sexta"
+   ],
+   "body": "O Cypress Bay, de Weston, invicto com 11 vitórias, recebe o Western, de Davie (8-3), neste sábado, 21 de novembro, às 19h, pela semifinal regional da Classe 6A, Região 4, dos playoffs de futebol americano da FHSAA. A partida estava marcada para sexta, mas chuvas recordes na costa leste da Flórida levaram a federação a permitir remarcações até segunda-feira, 23 de novembro, e três semifinais da 6A foram adiadas para o fim de semana.\n\nO confronto é uma revanche: em setembro, o Cypress Bay venceu o Western por 21-18 na prorrogação, depois de perder por 12-3 no intervalo. Na rodada anterior, o Cypress Bay bateu o Palm Beach Central por 17-12 e o Western venceu o Spanish River por 14-12.\n\nO vencedor enfrenta o Miami Palmetto, cabeça de chave nº 1 da região, na final regional de 27 de novembro. O Palmetto avançou na sexta ao vencer o West Broward por 47-35.",
+   "category": "weston",
+   "source": "HS Football Nation",
+   "url": "https://hsfootballnation.com/fhsaa-football-playoff-bracket-projections-2026/",
+   "published_at": "2026-11-21T00:20:07-05:00",
+   "image_url": "https://hsfootballnation.com/wp-content/uploads/2026/10/FHSAA-football-playoff-bracket-projections-2026-2.webp"
+  },
+  {
+   "id": "td21-weston-02",
+   "title": "Weston empossa dois novos comissários municipais",
+   "summary": "Patricia C. Bernardini e Alfredo Ortega tomaram posse como comissários de Weston na reunião da Comissão Municipal de 16 de novembro. Segundo a prefeitura, a plateia lotou a Câmara.",
+   "highlights": [
+    "Bernardini ocupa a Cadeira 3; Ortega, a Cadeira 4",
+    "Ortega foi empossado pelo comissário de Miami-Dade Juan Carlos Bermudez",
+    "Eles se juntam à prefeita Margaret Brown, ao vice Henry Mead e a Fabio Andrade"
+   ],
+   "body": "Weston tem dois novos comissários municipais. Patricia C. Bernardini e Alfredo Ortega prestaram juramento na segunda-feira, 16 de novembro, durante a reunião regular da Comissão Municipal, diante de uma plateia que, segundo a prefeitura, lotou a Câmara no City Hall.\n\nBernardini, eleita para a Cadeira 3, recebeu o juramento da filha, Catalina Bernardini Yanez. Ortega, eleito para a Cadeira 4, foi empossado pelo amigo Juan Carlos \"JC\" Bermudez, comissário do condado de Miami-Dade, ao lado da esposa e dos filhos.\n\nOs dois se juntam à prefeita Margaret Brown, ao vice-prefeito Henry Mead e ao comissário Fabio A. Andrade na comissão de cinco membros. A prefeitura planeja entrevistar os novos comissários na próxima semana; no outono, a cidade homenageou os comissários Byron L. Jaffe e Mary Molina-Macfie pelo fim de seus mandatos.",
+   "category": "weston",
+   "source": "Weston Together",
+   "url": "https://westontogether.com/2026/11/17/weston-welcomes-new-city-commissioners-bernardini-ortega/",
+   "published_at": "2026-11-17T10:28:01-05:00",
+   "image_url": "https://seabreeze-media.atl1.digitaloceanspaces.com/wp-content/uploads/sites/47/2026/11/17092600/weston-city-commission-november-2026.jpg"
+  },
+  {
+   "id": "td21-miami-03",
+   "title": "The Rock aplica \"Rock Bottom\" em Pat McAfee no College GameDay em Coral Gables",
+   "summary": "Dwayne \"The Rock\" Johnson, ex-jogador dos Hurricanes, jogou Pat McAfee sobre uma mesa durante o College GameDay da ESPN no campus da Universidade de Miami. O astro reagiu a críticas de McAfee ao time.",
+   "highlights": [
+    "McAfee havia chamado reclamações de Miami de \"a coisa mais mole\" que já viu",
+    "Johnson foi o convidado do programa antes de Miami x Virginia Tech",
+    "The Rock jogou pelos Hurricanes de 1991 a 1994"
+   ],
+   "body": "Dwayne \"The Rock\" Johnson levou sua persona da luta livre ao College GameDay da ESPN no sábado, aplicando seu golpe característico, o \"Rock Bottom\", em Pat McAfee depois de se ofender com comentários do apresentador sobre Miami. O programa foi transmitido do campus da Universidade de Miami, em Coral Gables, antes do jogo dos Hurricanes contra o Virginia Tech no Hard Rock Stadium.\n\nMcAfee havia criticado as reclamações sobre uma polêmica decisão de arbitragem envolvendo o tight end Elija Lofton na derrota de Miami para Notre Dame por 31 a 24, chamando a reação de \"a coisa mais mole que já viu\". Após uma entrada dramática com sua música da WWE, Johnson disse a McAfee que ele \"já estava falando mal de Miami\" e, pouco depois, o levantou e o arremessou sobre uma mesa.\n\nA aparição foi uma volta para casa para Johnson, que jogou como defensive tackle pelos Hurricanes de 1991 a 1994 e fez parte do time campeão nacional de 1991. O recebedor Malachi Toney, que se recupera de lesão, também apareceu no programa.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/pets/2026/11/21/humane-society-of-broward-introduces-irving-a-cuddly-9-pound-shih-tzu-poodle-mix/",
-   "published_at": "2026-11-21T10:24:38-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-21-2026%2Ft_1d275107f2964514bb1bebd1601c9849_name_49774537962_hdtv.jpg?auth=2ff4a4bd5519e0c990b9fe3556c31172eb44c22c6b41a4b85b7dbbda59f84fcf&width=700"
+   "url": "https://www.local10.com/sports/local/2026/11/21/dwayne-johnson-delivers-rock-bottom-to-mcafee-toney-appears-at-college-gameday-in-coral-gables/",
+   "published_at": "2026-11-21T14:19:15-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/3JIMDB463NHJ3O7ALSDRNW5IWE.jpg?auth=a6fd56eb13464559da5681b35dd6c65d6cee789ae5b09b9a44402b37a5ec319e&width=700"
   },
   {
-   "id": "md21-miami-02",
-   "title": "Sábado chuvoso no Sul da Flórida, com tempo seco depois",
-   "summary": "Pancadas de chuva e algumas tempestades atravessam o Sul da Flórida no meio do dia, sobretudo em Broward e no norte de Miami-Dade. Com o solo ainda encharcado pelas enchentes, há risco de alagamento de ruas; o tempo deve firmar à noite.",
+   "id": "td21-miami-02",
+   "title": "Mulher é acusada de jogar água sanitária fervente em vizinha em Fort Lauderdale",
+   "summary": "A polícia de Fort Lauderdale prendeu Tracy Nicole Williams, de 39 anos, acusada de jogar um balde de água sanitária fervente numa vizinha em outubro. A vítima disse ter ficado cega do olho direito na hora.",
    "highlights": [
-    "Risco nível 1 de alagamento de ruas",
-    "Domingo e segunda secos; chuva volta terça e quarta",
-    "Previsão de tempo seco no Dia de Ação de Graças e na Black Friday"
+    "Briga começou por suposto dano ao carro da acusada",
+    "Ela também teria destruído o carro da vítima com taco de beisebol",
+    "Responde por lesão corporal agravada com desfiguração permanente"
    ],
-   "body": "A equipe de meteorologia da CBS Miami acompanha um meio-dia chuvoso no Sul da Flórida, com tempestades vindo do oeste. As pancadas devem somar menos de 6 mm em muitos locais, mas caem sobre áreas ainda saturadas pelas enchentes desta semana, principalmente em Broward e no norte de Miami-Dade.\n\nA combinação de chuva extra e solo encharcado deve causar alagamentos de ruas, com risco de nível 1. À noite, o tempo deve abrir.\n\nDomingo e segunda-feira devem ser secos, antes de a chuva voltar na terça e quarta com um sistema de baixa pressão que cruza o Golfo. Depois disso, a previsão é de tempo seco no Dia de Ação de Graças e na Black Friday.",
+   "body": "A polícia de Fort Lauderdale indiciou uma mulher acusada de jogar água sanitária fervente em outra mulher no mês passado. Segundo registros judiciais analisados pela CBS News Miami, Tracy Nicole Williams, de 39 anos, foi presa na quinta-feira, 19 de novembro, durante uma abordagem de trânsito, por um caso registrado em 13 de outubro.\n\nDe acordo com a polícia, Williams confrontou a vítima — sua vizinha havia cerca de dois anos — por suposto dano ao seu carro na Northwest 20th Street; a vizinha negou. A declaração de prisão afirma que Williams encheu um balde com água sanitária fervente e o jogou na vítima, que disse ter ficado cega do olho direito imediatamente e sentido a queimadura química descer pelo lado direito do corpo.\n\nA vítima contou que, já dentro de casa, viu pelas câmeras de segurança Williams destruir seu carro com um taco de beisebol; os danos foram estimados em cerca de US$ 7 mil. Williams responde por lesão corporal agravada com desfiguração permanente e dano criminal acima de US$ 1 mil.",
    "category": "miami",
    "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/south-florida-saturday-forecast-11-21-2026/",
-   "published_at": "2026-11-21T10:10:27-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/e6445595-3277-4f82-a92e-5ba528285d92/thumbnail/1200x630/52ce748b66f0e1454b41fddb21ab199f/hour-by-hour-today.png"
+   "url": "https://www.cbsnews.com/miami/news/fort-lauderdale-boiling-bleach-incident-11-21-2026/",
+   "published_at": "2026-11-21T14:09:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/27/f0a3ac7b-7c84-4cd5-8f78-a98cf1ff8a80/thumbnail/1200x630/5b4c4a8691214e79074152324740000b/gettyimages-2213986074.jpg"
   },
   {
-   "id": "md21-miami-06",
-   "title": "Terapeuta ocupacional transforma paixão por biscoitos em negócio",
-   "summary": "Dominique Delicieux, que trabalha 10 horas por dia na área da saúde, criou a confeitaria Dom's Delights no Sul da Flórida. Ela concilia o emprego com o sonho de infância de abrir uma padaria.",
+   "id": "td21-miami-05",
+   "title": "Polícia procura mulher de 31 anos desaparecida no sudoeste de Miami-Dade",
+   "summary": "O Gabinete do Xerife de Miami-Dade pede ajuda para encontrar Michelle A. Monserrat, de 31 anos, vista pela última vez na sexta-feira no sudoeste do condado. Segundo os detetives, ela tem esquizofrenia e transtorno de ansiedade.",
    "highlights": [
-    "Negócio começou em abril deste ano",
-    "Rotina inclui noites longas e orçamento apertado",
-    "História faz parte da série Hustle & Heart da CBS Miami"
+    "Última vez vista no quarteirão 9300 da SW 152nd Street",
+    "Usava camiseta branca, shorts e sandálias pretas",
+    "Informações: 305-715-3300 ou Crime Stoppers 305-471-8477"
    ],
-   "body": "Para a confeiteira Dominique Delicieux, do Sul da Flórida, o sonho de infância de abrir uma padaria está ganhando forma, uma fornada de biscoitos por vez. Terapeuta ocupacional que trabalha 10 horas por dia, ela transformou a paixão por confeitaria num negócio paralelo chamado Dom's Delights.\n\n\"Um dia, em abril, acordei e pensei: quer saber? Vou abrir um negócio\", contou ela à CBS Miami na série Hustle & Heart. Conciliar a empresa com a carreira em tempo integral significa noites longas, orçamento cuidadoso e aprender a recusar encomendas.\n\nQuando criança, Delicieux assava biscoitos e os vendia na escola, e dizia à mãe que faria escola de culinária e abriria a própria confeitaria — mas acabou seguindo carreira na saúde.",
+   "body": "O Gabinete do Xerife de Miami-Dade pede ajuda ao público para localizar uma mulher desaparecida no sudoeste do condado. Michelle A. Monserrat, de 31 anos, foi vista pela última vez na sexta-feira no quarteirão 9300 da Southwest 152nd Street, vestindo camiseta branca, shorts pretos e sandálias pretas.\n\nEla tem olhos castanhos, cabelo preto, cerca de 1,70 m e 82 kg. Segundo os detetives, Monserrat sofre de esquizofrenia e transtorno de ansiedade. Quem tiver informações deve ligar para o xerifado no 305-715-3300 ou para o Crime Stoppers no 305-471-TIPS (8477).",
+   "category": "miami",
+   "source": "WSVN",
+   "url": "https://wsvn.com/news/local/miami-dade/michelle-monserrat-missing-miami-dade/",
+   "published_at": "2026-11-21T13:15:03-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-21-131345.png"
+  },
+  {
+   "id": "td21-miami-01",
+   "title": "Alerta de tornado atinge partes de Miami-Dade e Broward e é cancelado",
+   "summary": "O Serviço Nacional de Meteorologia emitiu e depois cancelou um alerta de tornado para o norte de Miami-Dade e o centro-sul de Broward no sábado, após radar indicar rotação numa tempestade perto de Hialeah. Ventos fortes e chuva continuam possíveis.",
+   "highlights": [
+    "Alerta incluía Pembroke Pines, Miramar, Miami Gardens e Hialeah",
+    "Tempestade enfraqueceu abaixo do nível severo",
+    "Pode ter havido granizo de cerca de 2 cm"
+   ],
+   "body": "O Serviço Nacional de Meteorologia (NWS) cancelou no sábado à tarde um alerta de tornado emitido para o norte do condado de Miami-Dade e o centro-sul de Broward. O aviso valeria até 12h30, mas foi cancelado minutos depois. Segundo o NWS, uma tempestade severa capaz de produzir tornado estava perto de Hialeah pouco antes do meio-dia, com o radar indicando rotação.\n\nAlém de Hialeah, a área do alerta incluía Pembroke Pines, Miramar, Miami Gardens, North Miami, Miami Lakes, Hialeah Gardens, Opa-Locka, Miami Shores, Medley e a região do Hard Rock Stadium, entre outras. Os moradores foram orientados a se abrigar num cômodo interno do andar mais baixo de um prédio sólido, longe de janelas.\n\nAo cancelar o aviso, o NWS disse que a tempestade enfraqueceu abaixo dos limites de severidade e já não parecia capaz de gerar tornado, mas ventos fortes e chuva pesada ainda eram possíveis. A tempestade pode ter produzido granizo de cerca de três quartos de polegada (aprox. 2 cm).",
    "category": "miami",
    "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/south-florida-baker-doms-delights-cookie-business-side-hustle/",
-   "published_at": "2026-11-21T09:55:55-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/21/44ec055f-2026-4afb-ba2c-b8f72da2f280/thumbnail/1200x630/bb2b17965a0eb093218e0a253ef2186d/d2b0804c688e053fbfcfa5d5139a5bfc.jpg"
+   "url": "https://www.cbsnews.com/miami/news/miami-dade-broward-tornado-warning-11-21-2026/",
+   "published_at": "2026-11-21T12:17:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/18/23a5ba2f-09b1-48d1-b67c-ead24010bc52/thumbnail/1200x630/0c9f5b43a7766df90932491dd39e5cce/cbsmiami-next-weather-alert-1.jpg"
   },
   {
-   "id": "md21-miami-05",
-   "title": "Presos relatam calor de 48 °C em prisão perto de Miami",
-   "summary": "Detentos do Dade Correctional Institution, prisão estadual sem ar-condicionado ao sul de Miami, depuseram num processo sobre calor extremo, com índices de até 119 °F (48 °C). Eles alegam que a temperatura contribuiu para a morte de um preso.",
+   "id": "td21-miami-06",
+   "title": "Xerifado busca homem de 54 anos não verbal desaparecido no NW de Miami-Dade",
+   "summary": "O Gabinete do Xerife de Miami-Dade procura Lorenzo Felder, de 54 anos, que tem deficiência intelectual, não fala e foi dado como desaparecido e em perigo. Ele foi visto pela última vez na sexta-feira à tarde.",
    "highlights": [
-    "Bloco H é apelidado de \"dormitório do inferno\"",
-    "Juiz autorizou 31 sensores de temperatura na prisão",
-    "Ação é movida pelo Florida Justice Institute"
+    "Visto perto do quarteirão 3900 da NW 24th Court pouco antes das 17h30",
+    "Usava suéter cinza e mochila preta da Puma",
+    "Informações: 305-715-3249 ou Crime Stoppers 305-471-8477"
    ],
-   "body": "Na terça-feira, Dwayne Wilson, de 69 anos, depôs sobre o calor sufocante no Dade Correctional Institution, prisão estadual de concreto ao sul de Miami sem ar-condicionado. \"Às vezes é tão quente que você precisa jogar água no chão para tentar se refrescar\", disse, emocionado.\n\nWilson está nos dormitórios H, um prédio em forma de T apelidado pelos presos de \"hell dorm\" (dormitório do inferno) porque as paredes irradiam o calor absorvido do sol. Segundo o processo, as temperaturas contribuíram para a morte de um homem que tinha dificuldade para respirar.\n\nO escritório dos autores, o Florida Justice Institute, convenceu um juiz a permitir a instalação temporária de 31 sensores na prisão, que registraram índices de calor de até 119 °F (cerca de 48 °C), segundo o Guardian.",
-   "category": "miami",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
-   "published_at": "2026-11-21T09:38:58-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b914420e05e6df13f764fa555e9749f"
-  },
-  {
-   "id": "md21-miami-01",
-   "title": "Casal é achado morto em suposto homicídio-suicídio em Islamorada",
-   "summary": "Um casal foi encontrado morto dentro de casa em Islamorada, nas Florida Keys, na noite de sexta-feira, num aparente caso de homicídio seguido de suicídio. Amigos encontraram os corpos de um homem de 65 anos e uma mulher de 63.",
-   "highlights": [
-    "Delegados foram chamados às 18h52 na Old Highway",
-    "Nomes não foram divulgados até a família ser avisada",
-    "Xerife de Monroe diz não haver perigo ao público"
-   ],
-   "body": "Um casal foi encontrado morto dentro de sua casa em Islamorada, nas Florida Keys, num aparente homicídio seguido de suicídio na noite de sexta-feira, segundo o Gabinete do Xerife do Condado de Monroe (MCSO).\n\nO porta-voz Adam Linhardt disse que os delegados foram chamados à casa, na Old Highway, por volta das 18h52, depois que amigos do casal os encontraram. As vítimas são um homem de 65 anos e uma mulher de 63; os nomes não foram divulgados até a notificação dos familiares.\n\nDetetives de crimes graves e o Instituto Médico Legal do condado investigam as mortes. Segundo Linhardt, não há perigo para o público; a investigação continua e os resultados das autópsias estão pendentes.",
+   "body": "Agentes do Gabinete do Xerife de Miami-Dade pediram no sábado ajuda do público para localizar Lorenzo Felder, de 54 anos, dado como desaparecido e em situação de risco. Segundo os investigadores, Felder tem deficiência intelectual, não é verbal e foi visto pela última vez pouco antes das 17h30 de sexta-feira perto do quarteirão 3900 da Northwest 24th Court.\n\nEle vestia suéter cinza, calça cinza-escura, shorts pretos e carregava uma mochila preta da Puma. Felder não fez contato com familiares ou amigos e pode precisar de assistência. Informações podem ser passadas ao xerifado pelo 305-715-3249 ou ao Crime Stoppers de Miami-Dade pelo 305-471-8477.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/21/couple-found-dead-in-suspected-murder-suicide-in-islamorada-deputies-say/",
-   "published_at": "2026-11-21T09:02:14-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/VO552JIY3NIEJWK3G7TGHTTP4I.jpg?auth=986e9378ebf52e7eac6009ce2a776fdd20b77b120b2576a0f9879dff8c8fa86a&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/21/miami-dade-deputies-seek-54-year-old-nonverbal-man-reported-missing-endangered/",
+   "published_at": "2026-11-21T11:58:53-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/NHUSP5MKTVBT7IJQAAXLDT5L3Q.jpg?auth=ba5d7a0835db0e325015c001fd2a002804c80cfe69fae69e1e11e585d5dd1e9f&width=700"
   },
   {
-   "id": "md21-miami-03",
-   "title": "Giannis ajuda banco de fraldas em Hialeah antes do Thanksgiving",
-   "summary": "O astro do Miami Heat Giannis Antetokounmpo e sua esposa foram voluntários no Miami Diaper Bank, em Hialeah. O casal ajudou a embalar e entregar 250 mil fraldas e lenços a famílias locais.",
+   "id": "td21-miami-04",
+   "title": "Malachi Toney pode voltar ao Miami em duas semanas, diz Cristobal",
+   "summary": "O técnico do Miami, Mario Cristobal, disse que o astro recebedor Malachi Toney pode voltar de uma cirurgia no tornozelo em cerca de duas semanas. O prazo abriria caminho para ele disputar a final da ACC em 5 de dezembro.",
    "highlights": [
-    "Doação acontece antes do Dia de Ação de Graças",
-    "Giannis diz que ajudar sua nova cidade é prioridade",
-    "Quase metade das famílias tem dificuldade para comprar fraldas"
+    "Miami (9-1) pode garantir vaga na final da ACC vencendo Virginia Tech neste sábado",
+    "Toney se machucou em treino em 4 de novembro e foi operado no dia seguinte",
+    "ESPN mostrou vídeo do jogador correndo"
    ],
-   "body": "O jogador do Miami Heat Giannis Antetokounmpo e sua esposa trabalharam como voluntários no Miami Diaper Bank, em Hialeah, ajudando a embalar e entregar 250 mil fraldas e lenços umedecidos a famílias da região antes do Dia de Ação de Graças, segundo a WSVN.\n\n\"Quando nos mudamos para Miami, prometemos ir à comunidade para ouvir o máximo possível e aprender quais são as necessidades\", disse o jogador, que afirmou que retribuir à sua nova cidade é prioridade.\n\nSegundo a organização, quase metade das famílias tem dificuldade para pagar por fraldas.",
+   "body": "O Miami, 5º do ranking, pode ter de volta o astro recebedor Malachi Toney, recuperado de uma cirurgia por entorse alta no tornozelo, em até duas semanas, disse o técnico Mario Cristobal em entrevista à ESPN na sexta-feira. O prazo permitiria a Toney jogar a final da Atlantic Coast Conference em 5 de dezembro, caso os Hurricanes (9-1, 7-0 na ACC) se classifiquem — o que pode acontecer já com uma vitória sobre o Virginia Tech neste sábado.\n\n\"Ele sabe que não está jogando agora e precisa incentivar os companheiros enquanto se prepara para jogar, mas provavelmente está a uma semana e meia\", disse Cristobal. O Miami liberou Toney apenas para a ESPN no sábado, o que pode indicar retorno próximo, já que o clube raramente expõe jogadores lesionados antes da volta.\n\nA emissora exibiu vídeo de Toney correndo. \"Me ver, poucas semanas depois da cirurgia, correndo quase 100%, é incrível\", disse o jogador. Ele se machucou num treino em 4 de novembro, três dias antes da derrota para Notre Dame, e foi operado no dia seguinte.",
    "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/sports/miami-heat/giannis-antetokounmpo-miami-diaper-bank/",
-   "published_at": "2026-11-21T08:57:09-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112126-Giannis-Miami-Diaper-Bank-Hialeah.png"
+   "source": "WSVN / AP",
+   "url": "https://wsvn.com/sports/college/miami-hurricanes/miami-malachi-toney-return-update/",
+   "published_at": "2026-11-21T11:12:59-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/08426-Miami-Hurricanes-head-coach-Mario-Cristobal-receives-contract-extension.png"
   },
   {
-   "id": "md21-miami-04",
-   "title": "Polícia procura jovem de 23 anos desaparecido em Allapattah",
-   "summary": "A Polícia de Miami pede ajuda para localizar Kevin Michael Regalado, de 23 anos, desaparecido há pelo menos uma semana. Ele foi visto pela última vez no bairro de Allapattah.",
+   "id": "td21-miami-07",
+   "title": "Menino de 11 anos de Miami Gardens passa por cirurgia para retirar tumor cerebral",
+   "summary": "Liam Carmichael, de 11 anos, que luta contra uma forma agressiva de câncer cerebral, passou por cirurgia na sexta-feira no Joe DiMaggio Children's Hospital, e a família disse que tudo correu bem. Uma ressonância ainda vai mostrar se o tumor foi totalmente removido.",
    "highlights": [
-    "Usava regata branca, jeans e estava descalço",
-    "Tem 1,88 m, cerca de 82 kg e cabelo preto longo e cacheado",
-    "Informações: unidade de vítimas especiais, 305-603-6300"
+    "Aluno do 6º ano manteve o bom humor antes da operação",
+    "Mãe também enfrenta problemas de saúde após um AVC",
+    "Família criou um GoFundMe para ajudar nas despesas"
    ],
-   "body": "O Departamento de Polícia de Miami pediu no sábado ajuda do público para localizar Kevin Michael Regalado, de 23 anos, desaparecido há pelo menos uma semana. Segundo a polícia, ele foi visto pela última vez no sábado passado no bairro de Allapattah, usando regata branca, jeans e sem sapatos.\n\nRegalado tem 1,88 m, pesa cerca de 82 kg e tem olhos castanhos e cabelo preto, longo e cacheado.\n\nQuem tiver informações deve ligar para a Unidade de Vítimas Especiais da polícia de Miami, no 305-603-6300.",
+   "body": "Um menino de 11 anos do Sul da Flórida que luta contra uma forma agressiva de câncer no cérebro se recupera após cirurgia para retirar o tumor, contou a família ao Local 10 News. Liam Carmichael, de Miami Gardens, foi operado na sexta-feira à noite no Joe DiMaggio Children's Hospital; os médicos ainda precisam fazer uma ressonância para saber se todo o tumor foi removido.\n\nAluno de destaque do sexto ano, Liam manteve o otimismo, fazendo piadas e falando do amor por videogames. \"Nunca desista, mesmo se sentir que precisa, só não desista\", disse ele antes da cirurgia.\n\nA mãe, Ruth Carmichael, também enfrenta problemas de saúde após sofrer um AVC recentemente e diz que a força do filho a tem ajudado. A família criou uma página no GoFundMe para ajudar com as despesas do tratamento.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/21/police-seek-man-23-reported-missing-from-miamis-allapattah-area/",
-   "published_at": "2026-11-21T06:36:13-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/KHOQRD43JRASHIJPNZ2I7I2N6I.jpg?auth=e63f0bbdbfed9cff7dcb8b7627f4b721fe0914afafaf4d55e876761ce1578904&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/21/brave-11-year-old-boy-needs-your-help-after-having-surgery-to-remove-brain-tumor/",
+   "published_at": "2026-11-21T10:54:53-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-21-2026%2Ft_d15926211fba42e88281bf0e7f360109_name_49775229159_hdtv.jpg?auth=04aac639c1c89cc0e816296e5299e48912e6cd6eade8f553d4f5938f0c43b75e&width=700"
   },
   {
-   "id": "md21-tecnologia-02",
-   "title": "Musk trava em lançamento da Tesla na Argentina: \"Não sei o que dizer\"",
-   "summary": "A Tesla foi lançada oficialmente na Argentina na sexta-feira, com o presidente Javier Milei no palco em Buenos Aires. Elon Musk entrou por vídeo de um avião, mas travou após uma frase e a chamada terminou em cerca de dois minutos.",
+   "id": "td21-tecnologia-01",
+   "title": "O que esperar dos iPhones de 2027",
+   "summary": "O 9to5Mac resume os rumores para 2027, ano que deve ser movimentado para a Apple: iPhone 18 básico lançado na primavera, com calendário dividido, e novos modelos topo de linha no outono para os 20 anos do iPhone.",
    "highlights": [
-    "Evento foi no Arenas Studio, no bairro de La Boca",
-    "Tesla pôs à venda Model 3 e Model Y no país",
-    "Milei falou por menos de oito minutos"
+    "iPhone 18 básico deve chegar na primavera com chip A20 e modem C2",
+    "Preço deve partir de US$ 899, segundo o site",
+    "Outono terá linha comemorativa de 20 anos do iPhone"
    ],
-   "body": "A Tesla estreou oficialmente na Argentina na sexta-feira, num evento no Arenas Studio, no bairro de La Boca, em Buenos Aires, com a presença do presidente Javier Milei. Elon Musk participou por vídeo, do que parecia ser a cabine de um avião, para dar as boas-vindas ao novo mercado.\n\nSegundo o Electrek, Musk começou bem — \"Olá, Argentina. Bem, aqui estamos. É uma alegria compartilhar a Tesla com vocês\" —, mas travou logo depois: \"Desculpem, eu não sei bem o que quero dizer\". A chamada terminou cerca de dois minutos depois, sem uma apresentação de verdade dos Model 3 e Model Y que a Tesla acabara de pôr à venda.\n\nMilei, que falou por menos de oito minutos antes de Musk aparecer no telão, caiu na gargalhada e pulava no palco ao ver o empresário.",
+   "body": "Mesmo com o iPhone 18 Pro e o iPhone Duo no mercado há algum tempo — e o Duo ainda difícil de encomendar com prazo razoável —, o 9to5Mac reuniu o que esperar de quem pretende pular a geração atual. Segundo o site, 2027 será um ano relativamente grande para a Apple, que vai completar a linha iPhone 18 com calendário de lançamentos dividido e, no outono, apresentar novos modelos topo de linha para celebrar os 20 anos do iPhone.\n\nPela primeira vez, o iPhone básico deve ser lançado na primavera. As melhorias do iPhone 18 ainda não estão claras, mas os rumores falam em mais memória RAM, melhorias térmicas e o novo modem Apple C2, além do chip A20. O site estima preço inicial de US$ 899, o mesmo do iPhone 17 após o aumento em setembro.\n\nUm iPhone 18e também deve sair na primavera, provavelmente apenas com a troca do chip A19 pelo A20; relatos anteriores indicaram que ele compartilharia vários componentes com o iPhone 18.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
+   "published_at": "2026-11-21T14:35:44-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td21-tecnologia-02",
+   "title": "Atualização deixa raio de giro do Cybertruck ainda menor",
+   "summary": "A Tesla está liberando uma atualização que reduz ainda mais o raio de giro do Cybertruck, mas só para unidades do ano-modelo 2027. A empresa planeja encerrar a produção da picape até o fim do próximo verão.",
+   "highlights": [
+    "Recurso exige software 2026.44 ou superior",
+    "Tesla não informou o novo diâmetro de giro",
+    "Antes, o Cybertruck já girava em cerca de 13,25 m, menos que F-150 Lightning e Rivian R1T"
+   ],
+   "body": "A Tesla começou a liberar uma atualização que faz o Cybertruck fazer curvas ainda mais fechadas, melhorando um dos melhores raios de giro entre as picapes grandes. A conta oficial do Cybertruck publicou no sábado um vídeo de drone comparando o círculo de giro \"antes\" e \"depois\": \"Curvas ainda mais fechadas chegando aos novos Cybertrucks\".\n\nHá um porém: segundo a Tesla, a melhoria exige o software 2026.44 ou mais recente e \"só se aplica aos Cybertrucks ano-modelo 2027\" — e a empresa planeja parar de fabricar a picape até o fim do próximo verão. A Tesla não divulgou o novo número; no vídeo, o círculo \"depois\" parece ao menos um pé (30 cm) menor.\n\nA manobrabilidade vem do esterçamento nas rodas traseiras combinado com direção por fio (steer-by-wire): em baixa velocidade, as rodas de trás viram no sentido oposto às dianteiras. O manual já indicava diâmetro de giro de cerca de 43,5 pés (13,25 m), melhor que o F-150 Lightning (cerca de 47,8 pés) e o Rivian R1T (44,9 pés).",
    "category": "tecnologia",
    "source": "Electrek",
-   "url": "https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/",
-   "published_at": "2026-11-21T10:11:17-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&resize=1200,628"
+   "url": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
+   "published_at": "2026-11-21T14:14:57-05:00",
+   "image_url": null
   },
   {
-   "id": "md21-tecnologia-05",
-   "title": "Chess.com lança plataforma com mahjong, go, sudoku e mais",
-   "summary": "O Chess.com lançou em beta público neste sábado a plataforma Classic Games, com 10 jogos clássicos como gamão, damas, go, mahjong e sudoku. O serviço está na web e num novo app para iOS e Android.",
+   "id": "td21-tecnologia-03",
+   "title": "Toyota apresenta minimoto elétrica dobrável que cabe no porta-malas",
+   "summary": "A Toyota revelou o BKE Concept, um pequeno veículo elétrico de duas rodas que dobra em cerca de 30 segundos e cabe no porta-malas do esportivo GR86. O modelo faz parte da nova Scion, relançada como \"laboratório de mobilidade\".",
    "highlights": [
-    "Inclui ainda copas, shogi, paciência, xiangqi e um rival do Scrabble",
-    "Empresa já havia lançado o Gambit, pôquer sem apostas",
-    "Chess.com tem quase 300 milhões de membros"
+    "Sem pedais, o BKE é mais um patinete com assento do que uma bicicleta elétrica",
+    "Scion revivida também mostrou o minicaminhão KEI-01",
+    "Toyota chama a nova Scion de \"freedom lab\""
    ],
-   "body": "O Chess.com quer ir muito além do xadrez. Depois de lançar neste ano o Gambit, um site de pôquer sem apostas, a empresa está adicionando 10 jogos: gamão, damas, go, copas, mahjong, shogi, sudoku, paciência, xiangqi e um jogo de palavras alternativo ao Scrabble.\n\nTodos fazem parte da nova plataforma Classic Games, que entrou em beta público no sábado na web e num novo aplicativo para iOS e Android, segundo o The Verge.\n\nO diretor de crescimento Albert Cheng disse que muitas pessoas procuravam os fundadores pedindo um \"Chess.com\" para jogos como mahjong e go, já que a comunidade de quase 300 milhões de membros do site não tem paralelo nesses outros jogos clássicos.",
+   "body": "A Toyota apresentou o BKE Concept, um pequeno veículo elétrico dobrável de duas rodas pensado como companheiro compacto para trajetos curtos, passeios ao ar livre e a \"última milha\". Segundo a empresa, ele dobra em cerca de 30 segundos e fica pequeno o bastante para caber no porta-malas do esportivo GR86 — algo como a versão da Toyota do Motocompacto, da Honda.\n\nO BKE foi revelado como parte da Scion by Toyota, marca revivida que a empresa posiciona menos como retorno da antiga marca jovem e mais como um \"freedom lab\", um laboratório de mobilidade para conceitos que não se encaixam na linha tradicional. Junto com ele, a Toyota mostrou o minicaminhão utilitário KEI-01 e um veículo híbrido do tipo side-by-side.\n\nEmbora a Toyota o chame de \"bicicleta elétrica\", o Electrek observa que a falta de pedais impede que ele seja classificado como bicicleta elétrica na Europa ou na América do Norte; na prática, é um pequeno patinete elétrico com assento.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
+   "published_at": "2026-11-21T13:34:13-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/toyotabke-1.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td21-tecnologia-04",
+   "title": "Acordo da Siri: quem comprou iPhone pode receber cerca de US$ 61",
+   "summary": "Falta um mês para pedir indenização no acordo de US$ 250 milhões que a Apple fechou por atrasar a Siri com IA. Advogados estimam pagamento de ao menos US$ 61 por iPhone elegível.",
+   "highlights": [
+    "Prazo para reivindicar vai até 21 de dezembro",
+    "Valor mínimo é US$ 25 e máximo US$ 95 por aparelho",
+    "Vale para iPhone 15 Pro e linha iPhone 16 comprados entre jun/2024 e mar/2025"
+   ],
+   "body": "Em maio, a Apple aceitou pagar US$ 250 milhões para encerrar uma ação coletiva nos EUA pelo atraso no lançamento da Siri com IA, e resta um mês para enviar pedidos pelo site do acordo. Em documento judicial desta semana, os advogados disseram que os participantes devem receber ao menos US$ 61 por iPhone elegível, com base na adesão até agora.\n\nO acordo prevê mínimo de US$ 25 e máximo de US$ 95 por aparelho, dependendo do número de pedidos válidos; o prazo vai até 21 de dezembro. Têm direito moradores dos EUA que compraram iPhone 15 Pro, 15 Pro Max ou modelos da linha iPhone 16 (incluindo o 16e) entre 10 de junho de 2024 e 29 de março de 2025.\n\nA ação acusava a Apple de propaganda enganosa por anunciar em 2024 recursos da Siri personalizada que foram adiados em março de 2025. A Apple nega as acusações e diz ter feito o acordo para evitar custos de um julgamento; a audiência de aprovação final está marcada para 24 de fevereiro de 2027, e os pagamentos só devem começar no ano que vem.",
+   "category": "tecnologia",
+   "source": "MacRumors",
+   "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
+   "published_at": "2026-11-21T12:08:36-05:00",
+   "image_url": "https://images.macrumors.com/t/_tjfK0vua64wDcGeqmNXpkPzL54=/2048x/article-new/2026/11/Siri-AI-Icon.jpeg"
+  },
+  {
+   "id": "td21-tecnologia-05",
+   "title": "Carros elétricos viram rotina em Vice City no GTA 6",
+   "summary": "No GTA 6, os carros elétricos fazem parte do trânsito cotidiano de Vice City, versão do jogo para Miami, com sósias de Tesla e Porsche e paródia da rede Electrify America. Pela primeira vez na série, energia importa: carros a gasolina precisam de bomba e os elétricos, de tomada.",
+   "highlights": [
+    "Elétricos ficam mais comuns quanto mais perto de Vice City",
+    "Nas \"Keys\" do jogo predominam carros velhos a combustão",
+    "Jogo recria até carros a gasolina bloqueando carregadores"
+   ],
+   "body": "Os veículos elétricos finalmente se popularizaram em Grand Theft Auto. Segundo o Electrek, no GTA 6, lançado na quinta-feira, os elétricos fazem parte do trânsito comum de Vice City — versão do jogo para Miami —, de sósias de Tesla e Porsche a uma paródia da rede de recarga Electrify America. É uma mudança para uma série que por mais de uma década tratou os elétricos como piada sobre a Tesla.\n\nO jogo começa nas \"Keys\", versão das Florida Keys, região mais pobre de Leonida com muitos carros velhos. Conforme o jogador segue para Vice City, aparecem mais elétricos e estações de recarga, refletindo a adoção real, concentrada em grandes áreas metropolitanas mais ricas.\n\nO GTA 6 é o primeiro da série principal em que a energia importa: carros a gasolina consomem combustível e precisam de bomba, e os elétricos têm nível de bateria e precisam de tomada. O jogo recria até a velha queixa de carros a combustão bloqueando vagas de carregadores.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/21/gta-6-electric-vehicles-mainstream-vice-city/",
+   "published_at": "2026-11-21T11:21:57-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/GTA6-electric-cars.jpeg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td21-tecnologia-06",
+   "title": "Apple contrata engenheiros para criar seu próprio agente de IA",
+   "summary": "Um anúncio de vaga já removido, revelado pela Bloomberg, mostra que a Apple desenvolve um agente de IA capaz de navegar na web, operar apps, escrever código e acionar serviços pelo usuário. O projeto envolve as equipes da Siri e dos Apple Foundation Models.",
+   "highlights": [
+    "Agente concorreria com Muse (Meta), Dots (OpenAI), Duet (Anthropic) e Tasks (Google)",
+    "Vaga fala em agentes que coordenam \"subagentes\" especializados",
+    "iOS 27.3 vai abrir a Siri com IA para \"todos os apps\" em prévia para desenvolvedores"
+   ],
+   "body": "A Apple está desenvolvendo seu próprio agente de IA, capaz de navegar na web, trabalhar entre aplicativos, escrever código e acionar serviços para o usuário, segundo um anúncio de vaga — já removido — revelado pela Bloomberg. A empresa buscava um engenheiro para liderar a criação de um assistente de IA \"agêntico\", o que a colocaria na disputa com o Muse, da Meta, o Dots, da OpenAI, o Duet, da Anthropic, e o Tasks, do Google.\n\n\"Estamos construindo agentes de IA que planejam e executam tarefas de várias etapas entre apps, navegadores, linhas de comando, código e APIs, e podem coordenar subagentes especializados\", dizia o anúncio, que prevê trabalho conjunto com as equipes da Siri, de UI Frameworks e dos Apple Foundation Models.\n\nA Apple começou a liberar a Siri com IA em setembro, e a Bloomberg relatou planos de dar a ela mais capacidades autônomas, como editar imagens no Fotos ou organizar abas do Safari. Com o iOS 27.3, a empresa também dará a desenvolvedores, em prévia, a possibilidade de integrar a Siri com IA a \"todos os apps\".",
    "category": "tecnologia",
    "source": "The Verge",
-   "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-   "published_at": "2026-11-21T09:00:00-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-  },
-  {
-   "id": "md21-tecnologia-01",
-   "title": "IPO recorde da Anthropic coincide com pior semana das techs desde 2020",
-   "summary": "A Anthropic levantou um recorde de US$ 93,5 bilhões em seu IPO, mais US$ 26 bilhões de gigantes da tecnologia, e subiu 17% na estreia. Ao mesmo tempo, Wall Street viveu a pior semana para o setor de tecnologia desde 2020.",
-   "highlights": [
-    "Valor de mercado da Anthropic chegou a US$ 1,8 trilhão",
-    "Investidores do Vale do Silício celebram a liquidez",
-    "Vendas foram puxadas por temores sobre IA"
-   ],
-   "body": "A Anthropic levantou um recorde de US$ 93,5 bilhões em sua oferta pública inicial e outros US$ 26 bilhões de gigantes de tecnologia que compraram ações ao preço da oferta, segundo a CNBC. A ação subiu 17% na estreia, na quinta-feira, levando o valor de mercado da empresa a US$ 1,8 trilhão e dando um alívio ao ecossistema de startups do Vale do Silício.\n\nO entusiasmo é tanto que o investidor Ben Narasin, da Tenacity Venture Capital — que nem investiu na empresa —, planeja uma festa com champanhe Krug e caviar, chamando o IPO de \"o evento mais significativo que já aconteceu no venture capital\".\n\nO contraste foi grande: Wall Street passou a semana numa onda de vendas movida pelos temores sobre a inteligência artificial, registrando a pior semana para as ações de tecnologia desde 2020.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-   "published_at": "2026-11-21T08:00:01-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108555254-1795098552302-gettyimages-2305298530-AFP_D7ZG87P.jpeg?v=1795137591&w=1920&h=1080"
-  },
-  {
-   "id": "md21-tecnologia-03",
-   "title": "Xiaomi 18 Pro mostra que duas telas não são melhores que uma",
-   "summary": "Em análise, o The Verge avaliou os Xiaomi 18 Pro e Pro Max, primeiros modelos com tela traseira lançados fora da China. A segunda tela ajuda em selfies, mas tem pouca utilidade além disso.",
-   "highlights": [
-    "Câmeras, baterias e tela de privacidade foram elogiadas",
-    "Preços estão mais altos por causa da crise de memória RAM",
-    "Modelos 17 Pro com tela traseira ficaram restritos à China"
-   ],
-   "body": "A Xiaomi colocou uma segunda tela na traseira de seus celulares topo de linha com os 17 Pro do ano passado, mas eles não saíram da China. Os novos 18 Pro e 18 Pro Max são, portanto, a primeira chance de testar a ideia fora do país, segundo a análise do The Verge.\n\nDepois de uma ou duas semanas com os aparelhos, o revisor não se convenceu: a tela traseira tem um uso óbvio — ajudou a tirar algumas das melhores selfies que ele já fez —, mas pouca utilidade fora isso.\n\nO restante dos celulares é ótimo, com boas câmeras, baterias grandes e uma versão mais flexível da tela de privacidade vista no Galaxy S26 Ultra. O problema é o preço, mais alto do que nunca por causa da crise de memória RAM.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-   "published_at": "2026-11-21T08:00:00-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
-  },
-  {
-   "id": "md21-tecnologia-04",
-   "title": "Harbinger aposta em caminhões elétricos de entrega",
-   "summary": "A startup Harbinger levantou US$ 240 milhões numa rodada Série D, após um pedido de US$ 300 milhões da FedEx e um contrato com as Forças Armadas dos EUA. A empresa foca em vans e caminhões comerciais das classes 4 a 6.",
-   "highlights": [
-    "Montadoras tradicionais freiam investimentos em elétricos",
-    "Harbinger evita o mercado de carros de consumo",
-    "CEO John Harris mira segmentos negligenciados"
-   ],
-   "body": "Enquanto montadoras tradicionais pisam no freio dos veículos elétricos, a fabricante de caminhões elétricos Harbinger acelera. Neste mês, a startup levantou US$ 240 milhões numa rodada Série D, coroando uma fase que inclui um pedido de US$ 300 milhões da FedEx e um novo contrato de defesa com as Forças Armadas americanas, segundo o The Verge.\n\nA Harbinger evita o ciclo de hype dos elétricos de consumo e se concentra em veículos de trabalho pouco glamourosos: vans de entrega e caminhões-baú das classes 4 a 6.\n\nA tese, segundo o CEO John Harris, é atacar segmentos comerciais negligenciados, onde os caminhões tradicionais são fracos e as grandes montadoras não se interessam em competir. \"Não estamos resolvendo o problema óbvio, porque todo mundo vai resolvê-lo e as margens vão a zero\", disse.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-   "published_at": "2026-11-21T07:00:00-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0%2C10.656236394691%2C100%2C78.687527210619&w=1200"
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "published_at": "2026-11-19T17:31:41-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200"
   }
  ]
 }
