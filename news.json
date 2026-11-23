@@ -1,552 +1,632 @@
 {
  "version": 2,
- "generated_at": "2026-11-23T10:43:21-05:00",
- "edition": "meio-dia",
+ "generated_at": "2026-11-23T14:46:36-05:00",
+ "edition": "tarde",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "md23-eua-01",
-   "title": "Trump diz não ver risco à segurança nacional na volta de Huang à Nvidia",
-   "summary": "O presidente Trump afirmou nesta segunda-feira que o governo \"não tem motivo para acreditar\" que o retorno de Jensen Huang ao comando da Nvidia represente risco à segurança nacional. Huang havia deixado o cargo após revelações de um caso com uma mulher que agências de inteligência suspeitam ser espiã da China.",
+   "id": "td23-eua-01",
+   "title": "Trump manda Exército suspender detonação de explosivos em Iowa",
+   "summary": "O presidente Trump ordenou que os militares não detonem, por ora, explosivos instáveis armazenados numa fábrica de munições em Middletown, Iowa. A decisão fica condicionada ao aval do Tribunal de Apelações do 8º Circuito e do governador eleito Rob Sand.",
    "highlights": [
-    "Trump comemorou a decisão do conselho no Truth Social",
-    "Segundo Trump, o secretário de Justiça Todd Blanche não tem provas de conduta ilegal",
-    "Presidente defende que a investigação interna da Nvidia continue"
+    "Exército pretendia detonar o material até terça, antes do frio intenso",
+    "Tribunal de apelações suspendeu a operação na quinta-feira",
+    "Trump diz que responsabilizará o governador eleito se algo acontecer"
    ],
-   "body": "O presidente Donald Trump disse nesta segunda-feira que o governo dos EUA \"não tem motivo para acreditar\" que a volta de Jensen Huang ao cargo de CEO da Nvidia \"represente qualquer risco à segurança nacional\". A declaração foi publicada no Truth Social logo depois de a Nvidia anunciar que seu conselho havia reintegrado Huang, que saiu em meio a um escândalo envolvendo um caso com uma mulher que agências de inteligência americanas suspeitam ter espionado para a China — o que Pequim nega.\n\nTrump afirmou que o secretário de Justiça, Todd Blanche, \"confirmou que o governo dos EUA não possui evidências de que ele tenha praticado qualquer conduta ilegal\". \"O país precisa da liderança de Jensen na Nvidia\", escreveu o presidente, que vinha apoiando o movimento pelo retorno de Huang depois que as ações da empresa despencaram com as denúncias.\n\nApesar do apoio, Trump disse acreditar que a Nvidia deve continuar sua investigação interna, já que Huang foi reintegrado antes de ela terminar. A CBS News procurou o Departamento de Justiça para comentar. Huang transformou a Nvidia numa das empresas mais valiosas do mundo, com chips centrais na disputa entre EUA e China pela liderança em IA.",
+   "body": "O presidente Donald Trump anunciou no Truth Social que mandou as Forças Armadas segurarem a detonação de toneladas de explosivos instáveis numa fábrica de munições da Segunda Guerra em Middletown, no sudeste de Iowa. O Exército havia dito que seguiria com a operação nesta semana, apesar de uma ordem judicial que a suspendia, alegando risco de explosão espontânea do material — tambores de azida de chumbo que começaram a se recristalizar.\n\nMoradores temem que partículas tóxicas se espalhem por Iowa e pelo vizinho Illinois. Na semana passada, dois grupos ambientais recorreram ao 8º Circuito contestando a licença emergencial da Agência de Proteção Ambiental (EPA), e o tribunal concedeu a suspensão na quinta-feira até decidir sobre a validade da licença.\n\nTrump escreveu que há \"chance substancial\" de o material explodir sozinho e que detonar agora seria o mais seguro, mas que seguirá o que decidirem os tribunais e o governador eleito democrata Rob Sand. Se eles não concordarem, disse, a operação não ocorrerá e ele responsabilizará o novo governador por \"qualquer morte ou destruição\". O governo havia dito à Justiça que precisava agir até terça, antes de a temperatura cair abaixo de zero.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
-   "published_at": "2026-11-23T10:34:18-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/2226dae3-c729-4132-bbdf-5fd3a31504a6/thumbnail/1200x630/f7a1e54aae2e7e0553c28d53bae576e1/ap26281716799324.jpg"
+   "url": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/",
+   "published_at": "2026-11-23T14:26:32-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/92eabf07-5631-4d13-bd7d-555571190eb6/thumbnail/1200x630/dc5fac32e6d2d81a3d442048e904db52/ap26322823699168.jpg"
   },
   {
-   "id": "md23-eua-04",
-   "title": "Pequenas transportadoras lutam para sobreviver ao diesel caro",
-   "summary": "A alta do diesel provocada pela guerra entre EUA e Irã pressiona as pequenas empresas de caminhões, que formam a maior parte do setor de transporte rodoviário americano. Com menos reservas que as grandes frotas, muitas absorvem os custos enquanto esperam os fretes se ajustarem.",
+   "id": "td23-eua-03",
+   "title": "Trump, Musk e Altman comemoram retorno de Huang; democratas atacam",
+   "summary": "Trump e grandes nomes do setor de tecnologia aplaudiram a decisão da Nvidia de reintegrar Jensen Huang como CEO. Já senadores democratas como Elizabeth Warren e Chuck Schumer classificaram a medida como imprudente e prometeram investigar.",
    "highlights": [
-    "Diesel passou de US$ 6 o galão em setembro",
-    "Transportadora de Minnesota criou sobretaxa de combustível de até 12,5%",
-    "Pequenos operadores esperam de três a quatro semanas para repassar custos"
+    "Musk escreveu no X que \"o erro foi corrigido\"",
+    "Ação da Nvidia subiu 32% e somou mais de US$ 1 trilhão em valor",
+    "Warren pede aprovação de projetos de controle de exportação de chips"
    ],
-   "body": "Quando o diesel passou de US$ 4 o galão no início da guerra entre EUA e Irã, Kevin Otto achou que daria conta pedindo aos 16 motoristas de sua transportadora em Minnesota que reduzissem a velocidade. Rodar a 65 milhas por hora renderia um pouco mais por galão e economizaria cerca de US$ 7 mil por caminhão. Mas os preços continuaram subindo: depois que o diesel ultrapassou US$ 6 em setembro, ele passou a cobrar pela primeira vez uma sobretaxa de combustível, começando em 5% e chegando a 12,5%.\n\nO diesel alto pressiona as pequenas empresas que formam a maior parte das transportadoras do país. A guerra elevou um dos maiores e menos evitáveis custos diários do setor justamente quando o transporte rodoviário americano, muito fragmentado, dava sinais tímidos de recuperação de anos de demanda fraca e fretes baixos.\n\nAs pequenas transportadoras costumam ter menos proteção financeira que as grandes, que têm mais caixa, compram diesel com desconto por volume e negociam contratos longos com sobretaxas ajustáveis. Muitos pequenos operadores negociam frete carga a carga e precisam absorver os preços na bomba por três a quatro semanas até que as tarifas do mercado spot se ajustem, segundo a DAT Freight & Analytics.",
-   "category": "eua",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/23/small-us-trucking-firms-scramble-to-survive-mounting-diesel-costs/",
-   "published_at": "2026-11-23T10:07:15-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/W67W4TXR6UEIGAN3IMOPTPJUTE.jpg?auth=76072df248915559251332dfdd046dcfce53de9f87b1c1c3fd43bc89a7018084&width=700"
-  },
-  {
-   "id": "md23-eua-02",
-   "title": "Bolsas dos EUA disparam após volta de Huang à Nvidia",
-   "summary": "Os mercados americanos subiram forte nesta segunda-feira, recuperando parte do tombo de sexta-feira que levou o S&P 500 e o Dow à zona de correção. A alta veio depois que a Nvidia anunciou a reintegração de Jensen Huang como CEO.",
-   "highlights": [
-    "Nasdaq subiu 6%, S&P 500 4,2% e Dow 2,1%",
-    "Ação da Nvidia avançou 30% após a abertura",
-    "Analistas veem alta como técnica e seguem cautelosos com o setor de IA"
-   ],
-   "body": "Os mercados financeiros dos EUA dispararam nesta segunda-feira, com as ações de tecnologia se recuperando da forte liquidação de sexta-feira, que havia derrubado o S&P 500 e o Dow Jones para a zona de correção. A retomada veio depois que o conselho da Nvidia anunciou a volta de Jensen Huang como presidente e CEO, menos de duas semanas após sua renúncia. A ação da Nvidia subiu 30% depois da abertura.\n\nO Nasdaq saltou 6%, recuperando terreno depois de cair 1.261 pontos (5,3%) em 20 de novembro, seu segundo pior dia de 2026. O S&P 500 avançou 4,2% e o Dow Jones, 2,1%.\n\nMesmo assim, analistas dizem que os investidores seguem nervosos com a possibilidade de o setor de inteligência artificial estar se desfazendo. \"O sentimento continua bastante sombrio — a maioria vê essa alta como algo meramente técnico, uma reversão parcial de condições extremamente sobrevendidas\", escreveu Adam Crisafulli, da Vital Knowledge. Na sexta-feira, as quedas foram puxadas por temores de desaceleração na construção de data centers e de restrições mais duras à exportação de chips.",
+   "body": "O presidente Trump chamou a reintegração de Huang de \"decisão absolutamente ÓTIMA\" e disse à CNBC que conversou com membros do conselho da Nvidia para incentivá-los: \"Temos de proteger nossos gênios\". Elon Musk, CEO da SpaceX e da Tesla, publicou que \"o erro foi corrigido\", e Sam Altman, da OpenAI, escreveu apenas \"Jensen!\". Huang havia renunciado em 12 de novembro após revelações de um caso com uma empresária chinesa suspeita de espionagem pela inteligência americana.\n\nO presidente do conselho, Harvey Jones, afirmou que a volta de Huang é \"do melhor interesse\" de acionistas, funcionários e clientes — na semana passada, ele dissera que não havia intenção de recontratá-lo. Investidores também reagiram bem: a ação da Nvidia subiu US$ 39,80, ou 32%, adicionando mais de US$ 1 trilhão em valor de mercado.\n\nNem todos comemoraram. A senadora Elizabeth Warren chamou a decisão de \"imprudente\" e disse que ela aumenta a urgência de aprovar projetos bipartidários de controle de exportações. O líder democrata Chuck Schumer afirmou que os democratas usarão \"todo o seu poder\" para investigar eventuais irregularidades do governo, de Huang e de executivos da Nvidia.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
-   "published_at": "2026-11-23T10:06:24-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/0bccedb6-e6d9-406b-a46c-becfdde60cac/thumbnail/1200x630/cc2c29cdfd53edb250d6193c3c8b69b6/gettyimages-2305519677.jpg"
+   "url": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/",
+   "published_at": "2026-11-23T14:14:19-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/67f500b8-92cf-4d83-b856-e07b6e4d5fe6/thumbnail/1200x630/023e74418dc093d1149e11dd4efceb3e/gettyimages-2300708840.jpg"
   },
   {
-   "id": "md23-eua-03",
-   "title": "Trump discursa a um Departamento de Justiça transformado por sua agenda",
-   "summary": "Trump faz nesta segunda-feira seu segundo discurso em menos de dois anos no Departamento de Justiça, órgão que passou a perseguir casos contra adversários do presidente. A Casa Branca diz que o tema será a proteção das famílias americanas.",
+   "id": "td23-eua-07",
+   "title": "Batida entre ônibus mata dois motoristas em Columbus, Ohio",
+   "summary": "Dois motoristas de ônibus do transporte público morreram e nove pessoas ficaram feridas após uma colisão frontal entre dois coletivos em Columbus, Ohio, na manhã de segunda-feira. Um terceiro veículo também atingiu um dos ônibus.",
    "highlights": [
-    "Discurso acontece no Grande Salão do prédio do departamento",
-    "Secretário de Justiça Todd Blanche, ex-advogado de Trump, estará ao lado dele",
-    "Democratas que assumem o Congresso podem abrir investigações sobre o órgão"
+    "Um dos ônibus cruzou a faixa dupla amarela, segundo a polícia",
+    "Nove feridos estão estáveis, sem risco de morte",
+    "Acidente ocorreu por volta das 8h, no horário de pico"
    ],
-   "body": "O presidente Donald Trump deve discursar nesta segunda-feira no Departamento de Justiça, seu segundo pronunciamento em menos de dois anos numa agência que, segundo a AP, agiu de forma agressiva para cumprir a agenda da Casa Branca e abrir processos criminais contra adversários do presidente. A Casa Branca informou que a fala, no Grande Salão cerimonial do prédio, será sobre a proteção das famílias americanas.\n\nNão está claro até que ponto o evento servirá para Trump voltar a incentivar processos contra opositores políticos ou retomar antigas queixas contra um departamento que o investigou repetidas vezes na última década. A influência do presidente sobre o órgão é simbolizada por um banner com seu rosto pendurado na fachada do edifício, o que críticos veem como sinal da erosão da independência histórica da instituição.\n\nO discurso ocorre após as amplas derrotas republicanas nas eleições de meio de mandato, que deram aos democratas o controle do Congresso e abrem caminho para investigações sobre desde demissões em massa de agentes e promotores que investigaram Trump até casos politicamente carregados rejeitados por grandes júris e juízes. Trump estará acompanhado do secretário de Justiça Todd Blanche, seu ex-advogado de defesa pessoal.",
+   "body": "Dois ônibus da Central Ohio Transit Authority (COTA) bateram de frente por volta das 8h desta segunda-feira na zona norte de Columbus, capital de Ohio, e um terceiro veículo atingiu a traseira ou a lateral de um deles. Um dos motoristas morreu no local e o outro foi levado em estado crítico ao hospital, onde morreu depois.\n\n\"As primeiras indicações são de que um dos ônibus, por motivos desconhecidos, cruzou a faixa dupla amarela e atingiu o outro de frente\", disse o sargento Joseph Albert, da polícia de Columbus. Nove pessoas, entre passageiros dos ônibus e ocupantes do terceiro carro, foram hospitalizadas em condição estável; nenhum pedestre se feriu.\n\nIntegrantes da Câmara Municipal classificaram o acidente como \"devastador\" e lembraram que as famílias das vítimas estarão de luto em plena temporada de festas.",
    "category": "eua",
    "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/politics/2026/11/23/trump-will-address-a-justice-department-transformed-by-his-pursuit-of-political-adversaries/",
-   "published_at": "2026-11-23T09:50:50-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/4ETTTK3UGKG5CA7JR3ABZ4P4I4.jpg?auth=49be255cc2f7914e4e07ed4ebf9d7c8203066f6e71c446c5522411a6cecdd4b4&width=700"
+   "url": "https://www.local10.com/news/national/2026/11/23/two-central-ohio-bus-drivers-killed-nine-others-injured-after-head-on-crash/",
+   "published_at": "2026-11-23T13:56:00-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/YQZDBAJY7OKTVO2K6S3VDZEILU.jpg?auth=a2eb9cbd83db5d06591d1e4a57e6077fb05e0d586a4ffd9195909ab3e6ab224e&width=700"
   },
   {
-   "id": "md23-eua-06",
-   "title": "Trem da Amtrak descarrila após bater em carreta na Louisiana",
-   "summary": "Um trem da Amtrak colidiu com uma carreta numa passagem de nível perto de Lafayette, na Louisiana, no domingo à noite, descarrilando a locomotiva e dois vagões de bagagem. Ao menos cinco passageiros tiveram ferimentos sem risco de morte.",
+   "id": "td23-eua-02",
+   "title": "Congresso critica volta de Huang à Nvidia e promete investigação",
+   "summary": "Parlamentares dos dois partidos reagiram com indignação à reintegração de Jensen Huang como CEO da Nvidia, 11 dias após sua renúncia. Trump disse à CNBC que interveio pessoalmente junto ao conselho: \"Eu fiz o acordo\".",
    "highlights": [
-    "Trem Sunset Limited ia da Califórnia para Nova Orleans",
-    "Carreta transportava uma escavadeira",
-    "Havia 95 passageiros a bordo e os vagões ficaram de pé"
+    "Republicano Don Bacon chamou a decisão de \"falha de caráter\"",
+    "Huang depõe a comitês da Câmara a partir de 1º de dezembro",
+    "Comitê bancário do Senado marcou audiência pública para 3 de dezembro"
    ],
-   "body": "Um trem da Amtrak bateu numa carreta numa passagem de nível no centro-sul da Louisiana no domingo à noite, descarrilando a locomotiva principal e dois vagões de bagagem e ferindo alguns passageiros. Ao menos cinco pessoas tiveram ferimentos que não colocam a vida em risco, segundo as autoridades.\n\nO trem era o Sunset Limited, que viajava da Califórnia para Nova Orleans. Ele colidiu com o caminhão de 18 rodas, que levava uma escavadeira, perto de Lafayette — cerca de 217 km a oeste de Nova Orleans — por volta das 18h15 no horário local. A Amtrak disse que \"todos os vagões de passageiros permaneceram de pé\" e que havia 95 clientes a bordo.\n\nA polícia de Lafayette informou que os ferimentos relatados eram leves e que alguns passageiros foram levados ao hospital. Os bombeiros disseram que equipes de materiais perigosos e resgate garantiram a segurança do local antes de ajudar os feridos e levar os demais passageiros, com suas bagagens, para um lugar seguro.",
+   "body": "Membros do Congresso de ambos os partidos expressaram revolta nesta segunda-feira e reforçaram pedidos de investigação depois que a Nvidia anunciou a volta de Jensen Huang à presidência da empresa. Para os parlamentares, a decisão levanta mais dúvidas sobre o processo decisório da companhia e sobre as avaliações de segurança nacional do governo Trump, somadas às preocupações com o desvio de chips avançados de IA para a China.\n\n\"É inexplicável para mim por que querem esse cara de volta como CEO. Para mim, é uma falha de caráter\", disse o deputado republicano Don Bacon, de Nebraska. Ele defendeu que o próximo Congresso faça uma fiscalização rigorosa e sugeriu que o secretário de Comércio, Howard Lutnick, responsável pelos controles de exportação de chips, pode ter responsabilidade no caso.\n\nHuang tem depoimento a portas fechadas marcado com três comitês da Câmara a partir de 1º de dezembro, e o comitê bancário do Senado anunciou uma audiência pública para 3 de dezembro. A Nvidia afirmou ter recebido \"input de altos escalões do governo dos EUA\" e disse estar confiante de que a reintegração \"não representa risco à segurança nacional\".",
    "category": "eua",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/amtrak-derailment-louisiana",
-   "published_at": "2026-11-23T09:32:40-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/1087d91a2299463a2187036d05af742504229e66/300_276_1155_924/master/1155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4aff9d8e156fa6ba388c322f0715e1ac"
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+   "published_at": "2026-11-23T13:42:36-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108399389-1791829326012-gettyimages-2282602332-house_gop_1_039_062426.jpeg?v=1795451436&w=1920&h=1080"
   },
   {
-   "id": "md23-eua-05",
-   "title": "Passos rumo ao \"Medicare for All\" entram na agenda democrata",
-   "summary": "Ideias de saúde universal antes vistas como improváveis, como o Medicare for All de Bernie Sanders, ganharam espaço na agenda dos democratas para o novo Congresso. O partido planeja reverter cortes no Medicaid e retomar subsídios do Obamacare nos primeiros 100 dias.",
+   "id": "td23-eua-04",
+   "title": "Por dentro da gala de Trump para compradores da moeda $TRUMP",
+   "summary": "Trump recebeu no domingo, em seu clube de golfe no norte da Virgínia, investidores da memecoin $TRUMP, na terceira gala do tipo. O evento renova questionamentos sobre possível corrupção nos negócios cripto da família do presidente.",
    "highlights": [
-    "Jeffries propôs reduzir a idade do Medicare para abaixo de 65 anos",
-    "Plano inclui cobertura odontológica, de visão e aparelhos auditivos",
-    "Democratas assumem o comando em 3 de janeiro de 2027"
+    "VIPs ganharam relógios e perfume \"Trump Victory\"",
+    "Trump falou em dominar cripto, chips e IA e elogiou Huang",
+    "CBS rastreou empresa ligada a Singapura que diz ser a maior detentora do token"
    ],
-   "body": "Ideias de saúde universal que antes pareciam improváveis — defendidas pelo senador Bernie Sanders com o Medicare for All — foram catapultadas para o centro da agenda democrata no novo Congresso, que começa em janeiro. Nos primeiros 100 dias, o partido planeja agir rápido para reverter cortes recentes no Medicaid, que ameaçam deixar milhões sem atendimento, e restabelecer benefícios fiscais para quem compra seguro pelo Affordable Care Act.\n\nMas os democratas têm metas bem mais ambiciosas ao assumir em 3 de janeiro de 2027. O líder Hakeem Jeffries, encaminhado para ser presidente da Câmara, anunciou num discurso pós-eleição a intenção de dar passos rumo ao Medicare for All, incluindo reduzir a idade de elegibilidade ao Medicare para menos de 65 anos, acrescentar cobertura odontológica, de visão e aparelhos auditivos e abrir o programa para crianças.\n\nSanders, que assume a presidência do comitê de saúde do Senado, apresentou sua própria proposta para partes do Medicare for All. Até o ex-presidente Barack Obama incentivou os democratas recém-eleitos a irem além do Obamacare, uma de suas principais realizações.",
+   "body": "O presidente Donald Trump organizou no domingo à noite uma gala para investidores da $TRUMP, moeda digital cujo valor sobe e desce conforme o interesse dos compradores. Para conseguir acesso ao jantar e proximidade com o presidente, participantes competem acumulando grandes quantidades do token, o que reacende dúvidas sobre conflitos de interesse, já que o negócio da família lida com investidores do mundo todo. A CBS News obteve vídeos e fotos exclusivos do evento, onde convidados VIP receberam relógios da marca Trump e perfume \"Trump Victory\".\n\nNo palco, Trump defendeu que os EUA dominem cripto, chips e inteligência artificial e disse que, se o país não fizer isso, \"a China vai fazer\". Ele também afirmou que gostaria de ver Jensen Huang de volta à Nvidia — na manhã seguinte, o conselho anunciou o retorno — e elogiou o CEO da Anthropic como \"um cara bom\", defendendo \"alguns freios e contrapesos\" para o setor de IA.\n\nEntre os presentes estava uma mulher conhecida como Addy, líder da FastX, empresa ligada a Singapura que diz ser \"a maior detentora de Trump\", com mais de 2 milhões de tokens. A CBS rastreou o vídeo da empresa até um prédio comercial em Singapura, mas não encontrou ninguém no local.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/trump-gala-dinner-crypto-meme-coin/",
+   "published_at": "2026-11-23T12:51:00-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/ae39381f-11c9-483e-961d-d708a79f76c9/thumbnail/1200x630/37d98775acdfbf249502e3ccea0508ed/trump-crypto-dinner.jpg"
+  },
+  {
+   "id": "td23-eua-06",
+   "title": "Neurocientista chinesa de Princeton é detida pelo ICE em aeroporto",
+   "summary": "Eva Yi Xie, doutoranda de neurociência em Princeton, foi detida pelo ICE no aeroporto Reagan, em Washington, ao tentar voltar de uma conferência. É mais um caso de detenções de imigração em aeroportos, que vêm se intensificando desde o verão.",
+   "highlights": [
+    "DHS diz que ela excedeu o prazo do visto em 2016",
+    "Advogada afirma que pedido de asilo pendente lhe dá permissão para estudar",
+    "Ela está no centro de detenção de Caroline, na Virgínia"
+   ],
+   "body": "Uma pesquisadora chinesa de neurociência da Universidade de Princeton está sob custódia do Serviço de Imigração e Alfândega (ICE) depois de ser detida na quinta-feira no Aeroporto Nacional Ronald Reagan, em Washington, quando tentava voltar para Nova Jersey após uma conferência. Eva Yi Xie é aluna do terceiro ano de doutorado, segundo seu orientador, Carlos Brody. O reitor da pós-graduação, Rodney Priestley, disse esperar que ela possa retomar logo os estudos.\n\nO Departamento de Segurança Interna (DHS) afirma que Xie chegou com visto temporário em março de 2016 e não deixou o país no prazo, em setembro daquele ano, e que um pedido pendente \"não confere status legal\". A advogada Kerry Doyle diz que Xie chegou aos EUA aos 14 anos com a família e tem pedido de asilo pendente há anos, o que lhe daria permissão para viver, trabalhar e estudar no país.\n\nDois dias depois da detenção de Xie, agentes mascarados detiveram pai e filha numa ponte de embarque do aeroporto de Seattle. O ICE vem ampliando as detenções em aeroportos desde o verão, principalmente de pessoas que, segundo o órgão, excederam o prazo dos vistos.",
    "category": "eua",
    "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/business/2026/11/23/medicare-for-all-was-once-a-long-shot-now-steps-toward-it-are-part-of-the-democratic-agenda/",
-   "published_at": "2026-11-23T07:09:05-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/3QZ2RHUUYW5SALRWGNZBJ3OOWQ.jpg?auth=42de0ad8d896d854b39cda3126f654a0b5c6625c290ff24fec36fddac64401d0&width=700"
+   "url": "https://www.local10.com/news/politics/2026/11/23/chinese-neuroscientist-at-princeton-is-held-by-ice-after-detention-at-washington-airport/",
+   "published_at": "2026-11-23T12:50:05-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/OSU33OK7UKSX2D3AYGRMIGGH34.jpg?auth=373330261fa1163bd981adca92a714014896ed464bc22cdaa8b0aa9cc6730ad1&width=700"
   },
   {
-   "id": "md23-eua-07",
-   "title": "Americanos culpam governo Trump por apagões de tecnologia",
-   "summary": "Depois da paralisação nacional de voos da FAA e das falhas nos serviços da Microsoft na semana passada, leitores do Guardian em todo o país relataram frustração. Muitos direcionam a raiva ao governo Trump e cobram mais transparência e responsabilização.",
+   "id": "td23-eua-08",
+   "title": "Falhas de companhias aéreas e tempestades ameaçam viagens de Ação de Graças",
+   "summary": "A semana mais movimentada do ano para viagens nos EUA começa com receio de novas panes nas companhias aéreas, tempestades nas duas costas e passagens mais caras. Ventos fortes podem até afetar os balões do desfile da Macy’s.",
    "highlights": [
-    "Instalação de um roteador causou sobrecarga na rede de telecomunicações da FAA",
-    "Troca de fios de cobre por fibra foi feita pela contratada L3Harris no Arkansas",
-    "Leitores questionam a falta de sistemas de backup"
+    "Delta diz que operação está estável após mais de mil voos atrasados no domingo",
+    "Passagens domésticas estão mais de um terço mais caras que em 2025",
+    "Tempestade na Costa Leste deve atingir Nova York no Dia de Ação de Graças"
    ],
-   "body": "A suspensão de todos os voos dos EUA pela FAA na semana passada, somada a falhas separadas nos serviços da Microsoft, causou transtornos generalizados no país. Embora voos e aplicativos já tenham voltado ao normal, leitores de todo o país compartilharam suas frustrações com o Guardian, e muitos culpam o governo Trump, questionando sua competência e pedindo mais responsabilização e transparência sobre os sistemas dos quais milhões dependem.\n\nMona Berrier, aposentada de 69 anos na Califórnia, questionou a falta de redundância depois que a instalação de um roteador — durante a troca de fios de cobre por cabos de fibra óptica feita pela contratada L3Harris no Arkansas — provocou uma sobrecarga de dados na infraestrutura de telecomunicações da FAA. \"Acho impossível acreditar que um único roteador colocou o país de joelhos. Não haveria redundância nem plano de contingência. É possível um governo funcionar assim?\", disse.\n\nBerrier contou que o episódio a deixou mais receosa de viajar e expressou uma desconfiança mais ampla em relação ao governo.",
+   "body": "As viagens de Ação de Graças prometem ser caóticas depois de uma série de falhas que afetaram a aviação nas últimas semanas: primeiro, uma pane na rede da FAA provocou a mais longa paralisação nacional de voos em 25 anos; depois, United e Delta tiveram suas próprias falhas. A Delta disse que a operação estava estável nesta segunda, um dia após mais de 1.000 voos atrasarem por defeito num sistema automatizado que calcula o peso das aeronaves. Segundo a Hopper, passagens domésticas de ida e volta estão mais de um terço mais caras que no ano passado.\n\nO Serviço Meteorológico prevê semana chuvosa nas duas costas. Na Costa Leste, chuva forte e ventos devem começar na noite de quarta nas Carolinas, chegar a Nova York no Dia de Ação de Graças e ao Maine na sexta. A lei da cidade proíbe os balões gigantes do 100º desfile da Macy’s se os ventos sustentados passarem de 37 km/h ou as rajadas, de 56 km/h.\n\nNa Costa Oeste, há previsão de inundações costeiras moderadas a graves do estado de Washington ao sul da Califórnia, por causa de marés reais (king tides) possivelmente recordes.",
+   "category": "eua",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/tech/2026/11/23/airline-glitches-storms-could-make-for-a-messy-thanksgiving-travel-week/",
+   "published_at": "2026-11-23T12:41:49-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/ZJ4GFBJLHUG5WVOOUIMG57ZKDQ.jpg?auth=fd382705917852ceddd22e995e500874f21a96f167ce0259d652b15bc04f5aed&width=700"
+  },
+  {
+   "id": "td23-eua-10",
+   "title": "Mamdani limita preço de corridas de bicicleta elétrica da Citi Bike em NY",
+   "summary": "O prefeito de Nova York, Zohran Mamdani, anunciou acordo com a Lyft, dona da Citi Bike, para limitar a US$ 3,65 as corridas de e-bike de até 45 minutos para membros. A mudança vale a partir de 19 de janeiro de 2027.",
+   "highlights": [
+    "Hoje, uma corrida de 45 minutos custa US$ 12,15 a membros",
+    "Medida deve baratear cerca de 5 milhões de viagens por ano",
+    "Anuidade de US$ 239 fica congelada até maio de 2029"
+   ],
+   "body": "O prefeito Zohran Mamdani anunciou nesta segunda-feira um acordo com a Lyft, controladora do sistema de bicicletas compartilhadas Citi Bike, para limitar o preço das corridas de bicicleta elétrica para membros. Uma viagem de 45 minutos, que hoje custa US$ 12,15, passará a custar no máximo US$ 3,65 a partir de 19 de janeiro de 2027.\n\n\"Esse teto vai reduzir significativamente o custo de cerca de 5 milhões de corridas feitas por nova-iorquinos todos os anos\", disse Mamdani, acrescentando que, se a regra existisse no ano passado, teria economizado mais de US$ 10,9 milhões aos usuários. Pelo acordo, a Lyft também congela a anuidade da Citi Bike, de US$ 239, até maio de 2029, quando vence o contrato atual com a cidade.\n\nO prefeito apresentou a medida como parte da meta de sua gestão de tornar a vida mais acessível na cidade. O gerente-geral da Citi Bike, Patrick Knoth, elogiou a mudança, dizendo que ela dará a mais pessoas a chance de se deslocar de bicicleta.",
    "category": "eua",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/us-tech-outages-flights-microsoft",
-   "published_at": "2026-11-23T07:00:29-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/aa1b35e93c4a8effd14713a671f4238d890247a5/924_730_3248_2598/master/3248.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85a35d2d9f359acb86a5ce5c29a86ee5"
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani",
+   "published_at": "2026-11-23T12:22:05-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/422807dd08bc795757646d9d4abe905dfef69ef2/1363_0_6829_5464/master/6829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23a5dd5de0249aabe0b01a7e078c0217"
   },
   {
-   "id": "md23-mundo-01",
-   "title": "Captura de \"Chapo Isidro\" leva a novas prisões no México",
-   "summary": "O Exército mexicano prendeu oito supostos membros da quadrilha de Fausto Isidro Meza Flores, o \"Chapo Isidro\", após a onda de violência em Sinaloa que se seguiu à captura do chefão. Ele estava na lista dos mais procurados do FBI.",
+   "id": "td23-eua-05",
+   "title": "EUA vão sediar a Copa do Mundo Feminina de 2031",
+   "summary": "A FIFA confirmou nesta segunda-feira que os EUA liderarão a organização da Copa do Mundo Feminina de 2031, em parceria com México, Costa Rica e Jamaica. A Inglaterra, à frente de um projeto britânico, sediará a edição de 2035.",
    "highlights": [
-    "Chapo Isidro foi capturado na sexta em operação com inteligência dos EUA",
-    "Entre os presos há um menor que participou de bloqueios de estradas",
-    "Militares apreenderam armas e veículos blindados improvisados"
+    "Primeiras Copas femininas com 48 seleções e 104 jogos",
+    "Candidatura prevê estádios em 20 cidades, 14 delas nos EUA",
+    "Edição de 2027 será no Brasil, ainda com 32 seleções"
    ],
-   "body": "Oito supostos membros de uma quadrilha liderada por Fausto Isidro Meza Flores foram presos, informou o Ministério da Defesa do México no domingo, depois que uma onda de violência tomou o estado de Sinaloa após a captura do narcotraficante. Meza Flores, conhecido como \"Chapo Isidro\", foi capturado na sexta-feira numa operação de forças especiais coordenada com a inteligência dos EUA, que provocou pânico em Guasave, com civis fugindo de tiroteios.\n\nAs novas prisões ocorreram durante uma patrulha de forças especiais que \"foi alvo de disparos de membros de um grupo criminoso\" ligado a Chapo Isidro, segundo o ministério. Entre os oito presos da organização Beltrán Leyva há um menor que participou dos bloqueios de 20 de novembro. Os militares também apreenderam armas de alto calibre e seis veículos, dois deles com blindagem improvisada e torre para metralhadoras.\n\nChapo Isidro, de 44 anos, comandava uma organização de tráfico afiliada ao grupo Beltrán Leyva.",
+   "body": "Os Estados Unidos vão receber mais uma Copa do Mundo: a FIFA confirmou que o país liderará a candidatura conjunta da Concacaf para o Mundial Feminino de 2031, ao lado de México, Costa Rica e Jamaica. Já o projeto do Reino Unido, liderado pela Inglaterra, foi ratificado para 2035 — será a primeira vez que os ingleses sediam uma Copa desde 1966.\n\nAs duas edições serão as primeiras do torneio feminino com 48 seleções e 104 partidas, igualando o formato masculino, que estreou neste ano nos EUA, Canadá e México. \"Este será o maior evento esportivo feminino da história\", disse a presidente da Federação de Futebol dos EUA, Cindy Parlow Cone, em Zurique. A próxima Copa, em 2027 no Brasil, terá 32 seleções.\n\nA proposta de 2031 oferece estádios em 20 cidades: 14 nos EUA, quatro no México, além de San José (Costa Rica) e Kingston (Jamaica). Atlanta, que recebeu jogos da Copa masculina deste ano, está entre as sedes americanas incluídas.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/us-host-2031-fifa-women-world-cup-announcement/",
+   "published_at": "2026-11-23T11:59:31-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/568b5d53-3464-4c24-8691-8e31f677c7da/thumbnail/1200x630/80eb8522140f258a6e3ed3d121f1a343/ap26327543485466.jpg"
+  },
+  {
+   "id": "td23-eua-09",
+   "title": "Califórnia em alerta para marés recordes e enchentes no feriado",
+   "summary": "Cidades costeiras da Califórnia se preparam para possíveis inundações históricas na semana de Ação de Graças, com marés reais somadas ao super El Niño. O prefeito de São Francisco pediu que moradores evitem viagens desnecessárias até quarta.",
+   "highlights": [
+    "Primeira maré real ocorre entre 22 e 24 de novembro",
+    "Chuva forte nesses dias pode ter impacto \"desastroso\"",
+    "Aeroporto de São Francisco corre risco de alagamento, diz meteorologista"
+   ],
+   "body": "Depois de um ano de enchentes, ondas extremas e erosão de praias durante o super El Niño, especialistas alertam que a semana de Ação de Graças pode trazer mais estragos à costa da Califórnia. Os níveis do mar, já elevados, devem subir ainda mais com as chamadas marés reais (king tides), a primeira delas entre 22 e 24 de novembro.\n\nSe tempestades fortes coincidirem com esses dias, dizem cientistas, o efeito combinado pode ser desastroso para casas, infraestrutura e transporte — aeroportos, estradas e trens — em alguns dos dias de maior movimento do ano, inclusive em áreas que nunca foram inundadas.\n\nO prefeito de São Francisco, Daniel Lurie, pediu que moradores evitem deslocamentos desnecessários de segunda à tarde até quarta, dizendo que a previsão é \"extremamente séria\" e que a cidade espera \"marés altas e chuva que nunca viu\". Ele recomendou estocar comida e itens essenciais, enquanto um meteorologista alertou que o aeroporto internacional da cidade pode ser inundado.",
+   "category": "eua",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/california-high-tides-floods-weather-thanksgiving",
+   "published_at": "2026-11-23T10:43:23-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/a47eb19ae70cc87e3125f00f92121acfdefeac14/469_0_4688_3750/master/4688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3245645cbb33a6ee2c5ac3dbf4c7c19c"
+  },
+  {
+   "id": "td23-mundo-07",
+   "title": "Diretor da OMS visita Cuba em meio ao colapso do sistema de saúde",
+   "summary": "O diretor-geral da OMS, Tedros Adhanom Ghebreyesus, começou uma visita de três dias a Cuba, onde hospitais sofrem com falta de insumos e apagões. Ele percorreu um centro de cardiologia pediátrica às escuras nesta segunda-feira.",
+   "highlights": [
+    "Faltam seringas, gaze, vacinas e anestésicos nos hospitais",
+    "Sobrevivência de crianças com câncer caiu de 85% para 65%, diz governo",
+    "Analistas culpam crise econômica e sanções dos EUA à energia"
+   ],
+   "body": "Tedros Adhanom Ghebreyesus chegou a Havana no domingo, a convite das autoridades de saúde, e nesta segunda visitou um centro de cardiologia pediátrica sem luz ao lado do ministro da Saúde Pública, José Ángel Portal Miranda. Segundo o jornal estatal Granma, Tedros disse querer entender os desafios do país e se dispôs a \"mobilizar a comunidade internacional\" para ajudar.\n\nO sistema cubano de saúde universal e gratuito, antes elogiado, se deteriorou fortemente. Analistas dizem que a crise foi agravada pela falta de combustível, atribuída ao endurecimento das sanções americanas ao setor de energia da ilha. Hospitais carecem de seringas, gaze, vacinas e anestésicos, além de peças para reparar máquinas de hemodiálise e tomógrafos.\n\nUm relatório do governo divulgado em junho apontou que a taxa de sobrevivência de crianças com câncer caiu de 85% para 65% desde o início do bloqueio energético, em janeiro. É a segunda visita de Tedros a Cuba como diretor-geral da OMS.",
    "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
-   "published_at": "2026-11-23T10:18:20-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/8d3a216a-b007-41d4-aaae-5e0e35a67dc5/thumbnail/1200x630/fbef4429daf27728001ed33722ff5bf7/mexico-screenshot-2026-11-23-093551.png"
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/23/who-director-general-visits-cuba-as-healthcare-system-breaks-down/",
+   "published_at": "2026-11-23T14:20:12-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/CIHB72OPECF7OHDSNMUCIKJ3XA.jpg?auth=3f74dacd3f0c172f20879cb8b89be83edc02701cdf3e3a6bb032cb1950a7c2c3&width=700"
   },
   {
-   "id": "md23-mundo-04",
-   "title": "Escolas da Alemanha e da Dinamarca recebem ameaças de bomba",
-   "summary": "A polícia investiga ameaças de bomba enviadas por e-mail a escolas da Alemanha e da Dinamarca, incluindo em Berlim e Copenhague. As autoridades alemãs concluíram que as ameaças não representam \"perigo concreto\".",
+   "id": "td23-mundo-08",
+   "title": "Bukele revela como morreram três soldados salvadorenhos no Haiti",
+   "summary": "O presidente de El Salvador, Nayib Bukele, identificou três militares mortos na sexta-feira combatendo gangues no Haiti. Dois cabos morreram ao tentar desarmar uma granada presa a um drone para proteger colegas.",
    "highlights": [
-    "Cerca de 450 escolas foram afetadas na Alemanha",
-    "E-mails quase idênticos afirmam ter colocado explosivos",
-    "Onda segue ameaças falsas enviadas a escolas da Europa no início do mês"
+    "Mortos: tenente Cristian Palacios Santos e cabos Emerson Zepeda e Wilber Serrano",
+    "Bukele diz que tropas que quiserem sair do Haiti podem voltar sem represálias",
+    "El Salvador enviou 2.500 soldados ao Haiti no mês passado"
    ],
-   "body": "A polícia investiga ameaças de bomba feitas contra escolas na Alemanha e na Dinamarca, com unidades de Berlim e Copenhague entre os alvos, informaram as autoridades nesta segunda-feira. Os avisos chegaram por e-mail, depois de uma onda de ameaças semelhantes em toda a Europa no início de novembro.\n\nAlém da capital, a polícia alemã disse que escolas nos estados de Baden-Württemberg, Turíngia, Saxônia-Anhalt e Renânia-Palatinado estão entre as 450 afetadas no país. Os investigadores concluíram rapidamente que as ameaças não representavam \"perigo concreto\" e \"não eram sérias\".\n\nAutoridades da Turíngia orientaram as escolas a funcionar normalmente, já que a intenção aparente dos autores era assustar sem agir. Segundo a polícia da Renânia-Palatinado, os e-mails \"em grande parte idênticos\" eram anônimos e afirmavam ter colocado explosivos nos prédios.",
+   "body": "Nayib Bukele identificou os mortos como o tenente Cristian Daniel Palacios Santos e os cabos Emerson Alexander Zepeda Zelada e Wilber Manuel Serrano Medina. Segundo ele, no X, os dois cabos tentavam soltar uma granada de um drone cuja bateria estava acabando: Serrano Medina segurou o aparelho enquanto Zepeda Zelada desarmava a granada manualmente, e ambos morreram na explosão. \"Não foi possível direcionar o drone para uma área totalmente segura\", escreveu.\n\nPalacios Santos morreu no mesmo incidente, mas Bukele não detalhou como. Disse que o tenente assumiu o controle num \"momento crítico\" de uma operação em que alguns contratados supostamente recuaram, salvando várias vidas. O presidente também afirmou que soldados que desejarem deixar o Haiti podem fazê-lo imediatamente, sem represálias.\n\nOs militares integravam o contingente de 2.500 salvadorenhos enviado ao Haiti no mês passado, depois que quatro soldados do país desapareceram num ataque em 18 de outubro em território controlado por gangues.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/world/2026/11/23/bukele-reveals-circumstances-in-which-3-salvadoran-soldiers-died-fighting-gangs-in-haiti/",
+   "published_at": "2026-11-23T13:53:35-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/WNW3NJAGCMMWRYPJDDKCPEWSRQ.jpg?auth=a1c10c5e02825156006db5264e20940cca2baa85948963bb992c892f2d9c08d0&width=700"
+  },
+  {
+   "id": "td23-mundo-09",
+   "title": "Ataque com drones atinge base policial em Cúcuta, na Colômbia",
+   "summary": "Drones carregados de explosivos atingiram uma base da polícia em Cúcuta, na fronteira com a Venezuela, ferindo dois civis e danificando 60 casas. As autoridades não disseram quem foi o responsável.",
+   "highlights": [
+    "Presidente Abelardo de la Espriella intensificou ofensivas contra rebeldes",
+    "Grupos armados respondem com drones, foguetes e bombas",
+    "Cúcuta é polo comercial e centro de grupos criminosos"
+   ],
+   "body": "Drones com explosivos atacaram nesta segunda-feira uma base da Polícia de Norte de Santander em Cúcuta, cidade de meio milhão de habitantes perto da fronteira com a Venezuela. Dois civis ficaram feridos e 60 casas foram danificadas, segundo as autoridades, que não apontaram de imediato os autores.\n\nO ataque ocorre enquanto o presidente Abelardo de la Espriella, conservador que assumiu em agosto, amplia ofensivas militares e bombardeios contra guerrilhas e cartéis e cancelou as negociações de paz conduzidas por seu antecessor, Gustavo Petro. Os grupos armados têm reagido atacando bases e delegacias com pequenos drones, foguetes feitos com botijões de gás e bombas à beira de estradas.\n\nGuerrilhas como o Exército de Libertação Nacional (ELN) e a FARC-EMC atuam na vizinha região de Catatumbo, onde cobram \"impostos\" de empresas e promovem o cultivo de coca. A violência cresceu em áreas de fronteira desde o acordo de paz de 2016, com grupos menores disputando territórios deixados pelas Farc.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/world/2026/11/23/drone-attack-on-colombian-police-base-injures-civilians-and-damages-homes/",
+   "published_at": "2026-11-23T13:52:20-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/V2J7XAUMW2GXVVVT27S5WMKM7Y.jpg?auth=c0abb08b5d9eae0df673174fd8850589af7929ecc654ca5bf1610f90d8453bde&width=700"
+  },
+  {
+   "id": "td23-mundo-02",
+   "title": "Índia anuncia US$ 1,6 bilhão para reconstrução do Nepal após enchentes",
+   "summary": "A Índia vai destinar um pacote econômico de US$ 1,62 bilhão ao Nepal após as enchentes devastadoras de agosto. O anúncio foi feito durante a visita do premiê nepalês Balendra Shah a Nova Délhi, sua primeira viagem bilateral desde que assumiu, em março.",
+   "highlights": [
+    "Enchentes deixaram mais de 1.300 mortos e 5 mil desaparecidos",
+    "É um dos maiores compromissos de ajuda da história da Índia",
+    "Índia e China disputam influência no Nepal"
+   ],
+   "body": "A Índia anunciou nesta segunda-feira um pacote de cooperação de 240 bilhões de rúpias nepalesas (cerca de US$ 1,6 bilhão) para o Nepal, um dos maiores compromissos de ajuda já assumidos por Nova Délhi. O anúncio veio após reunião entre o primeiro-ministro indiano, Narendra Modi, e o nepalês Balendra Shah, que faz visita de dois dias à capital indiana.\n\nAs enchentes de agosto, que cientistas atribuem às mudanças climáticas, começaram quando parte de uma geleira desabou e uma torrente de água e lama atingiu as regiões de Rasuwa e Nuwakot, no Nepal, e o Tibete, na China, em 26 de agosto. Mais de 1.300 mortes foram confirmadas e mais de 5.000 pessoas seguem desaparecidas.\n\nO pacote inclui uma doação de US$ 377 milhões para reconstrução e novos projetos de infraestrutura. O gesto reforça os laços da Índia com o vizinho himalaio, onde disputa influência com a China. Em outubro, o fundo de perdas e danos climáticos da ONU havia reservado US$ 20 milhões ao Nepal.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark",
-   "published_at": "2026-11-23T10:07:59-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2291273026-1795436194.jpg?resize=1920%2C1440"
+   "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal",
+   "published_at": "2026-11-23T13:12:55-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=1920%2C1440"
   },
   {
-   "id": "md23-mundo-08",
-   "title": "Premiê do Canadá faz piada com Trump ao lado de imitador",
-   "summary": "O primeiro-ministro canadense Mark Carney dividiu o palco com um falso Donald Trump no tradicional jantar da imprensa parlamentar, em Ottawa. O evento é a versão canadense dos \"roasts\" políticos de Washington.",
+   "id": "td23-mundo-01",
+   "title": "Irã açoita cantora que se apresentou sem hijab, dizem advogados",
+   "summary": "A cantora iraniana Parastoo Ahmadi e quatro integrantes de sua banda e equipe receberam 74 chibatadas cada em Qom, segundo a defesa. Ela fez um show transmitido ao vivo no YouTube em dezembro de 2024 usando vestido sem mangas e sem véu.",
    "highlights": [
-    "Humorista Mark Critch imitou Trump e seu aperto de mão",
-    "Carney brincou com a reforma dourada do Salão Oval",
-    "Piada do opositor Poilievre sobre Katy Perry gerou críticas"
+    "Condenação foi por \"ofensa à decência pública\"",
+    "Também foram proibidos de atividades audiovisuais e de deixar o país por dois anos",
+    "Ativistas classificam açoitamento como tortura"
    ],
-   "body": "O primeiro-ministro do Canadá, Mark Carney, dividiu o palco com um Donald Trump falso e com outra versão de si mesmo no fim de semana, recrutando humoristas para zombar do presidente americano e de políticos canadenses no jantar anual com jornalistas. \"Estou apertando o botão de comédia de emergência\", disse Carney no sábado, quando o humorista Mark McKinney apareceu imitando o premiê, seguido de Mark Critch no papel de Trump, que recriou o famoso aperto de mão vigoroso do presidente.\n\nCarney também brincou com a reforma luxuosa do Salão Oval: \"Esta plateia é difícil. E eu já estive no Salão Oval. Sozinho. Com seu novo decorador de interiores.\" Desde que voltou à Casa Branca, Trump encheu o Salão Oval de detalhes dourados e retratos.\n\nO jantar da Galeria de Imprensa Parlamentar é a versão canadense dos roasts políticos de Washington. O líder conservador Pierre Poilievre fez uma piada sobre o relacionamento do ex-premiê Justin Trudeau com a cantora Katy Perry que foi criticada nas redes como sexista.",
-   "category": "mundo",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/politics/2026/11/23/canadas-prime-minister-roasts-trump-with-help-from-a-trump-impersonator/",
-   "published_at": "2026-11-23T09:33:50-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/M2J4J5JKIEE6FTOVPOJE7C6UIA.jpg?auth=a23745d149a5b2c39cf3cec4d83d03d41eabb805864e3db0b5844ab1c3e8e075&width=700"
-  },
-  {
-   "id": "md23-mundo-05",
-   "title": "Presidente da Nigéria diz que até o palácio sofre falta de água e luz",
-   "summary": "O presidente nigeriano Bola Tinubu contou que o palácio presidencial, Aso Rock, sofre cortes de eletricidade e água, problemas comuns para a população. Candidato à reeleição em janeiro, ele prometeu resolver a questão.",
-   "highlights": [
-    "Tinubu disse que a água acabou enquanto ele se barbeava",
-    "Declaração foi feita num culto em sua homenagem em Lagos",
-    "Orçamento do ano passado previu minirrede solar para o palácio"
-   ],
-   "body": "O presidente da Nigéria, Bola Tinubu, disse que a residência presidencial sofre com cortes de eletricidade e de água, problemas muito comuns para os cidadãos do país. Ele contou que estava se barbeando na semana passada quando o abastecimento de água foi interrompido no palácio, conhecido como Aso Rock, em Abuja.\n\nA revelação foi feita no domingo, num culto especial organizado por familiares em sua homenagem em Lagos. \"Sem luz, sem água, sem eletricidade, sem desenvolvimento. Estamos apenas começando. Nós podemos e vamos fazer isso pela Nigéria\", afirmou Tinubu, que disputa a reeleição em janeiro e prometeu corrigir os problemas.\n\nO Aso Villa funciona como escritório e residência oficial do presidente. No ano passado, o orçamento destinou 10 bilhões de nairas (cerca de US$ 7,2 milhões) para instalar uma minirrede solar no palácio, como parte dos esforços para enfrentar contas de luz altas e o fornecimento instável.",
+   "body": "Autoridades iranianas açoitaram a cantora Parastoo Ahmadi, de 29 anos, três músicos e um produtor, segundo um integrante da equipe de defesa ouvido pela BBC. Cada um recebeu 74 chibatadas na terceira divisão do Escritório de Execução de Penas Criminais de Qom. Em dezembro de 2024, Ahmadi cantou com um vestido sem mangas num show transmitido ao vivo — as leis do Irã proíbem apresentações públicas de mulheres e exigem o uso do véu.\n\nEm junho, um tribunal criminal de Qom condenou Ahmadi e outras oito pessoas por \"ofender a decência pública\" com a publicação de \"material obsceno e indecente\", o que negavam. Além das chibatadas, foram proibidos de exercer atividades audiovisuais e de sair do país por dois anos. No fim de setembro, um tribunal de apelação manteve a sentença.\n\nArtistas iranianos e ativistas de direitos humanos condenaram as penas, afirmando que o açoitamento é punição cruel, desumana e degradante e viola a proibição internacional da tortura. \"Fizemos tudo ao nosso alcance para reverter o veredito\", disse um dos advogados.",
    "category": "mundo",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
-   "published_at": "2026-11-23T09:26:33-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
+   "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o",
+   "published_at": "2026-11-23T13:04:20-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
   },
   {
-   "id": "md23-mundo-06",
-   "title": "Morte de Ian Huntley na prisão foi planejada por semanas, diz acusação",
-   "summary": "O assassino de Soham, Ian Huntley, foi morto por outro detento com uma barra de metal num ataque \"a sangue-frio\" planejado semanas antes, ouviu um tribunal inglês. Anthony Russell, de 44 anos, é julgado pelo crime.",
+   "id": "td23-mundo-10",
+   "title": "Suprema Corte da Dinamarca valida despejos pela \"lei do gueto\"",
+   "summary": "A Suprema Corte dinamarquesa decidiu que o despejo de inquilinos \"não ocidentais\" de um conjunto habitacional, com base na chamada \"lei do gueto\", não foi discriminatório. A decisão reforça a dura política imigratória do país.",
    "highlights": [
-    "Ataque ocorreu em fevereiro na prisão de segurança máxima HMP Frankland",
-    "Huntley matou Holly Wells e Jessica Chapman em 2002",
-    "Russell já cumpria prisão perpétua por homicídios"
+    "Recurso de sete famílias de Helsingor foi rejeitado",
+    "Lei de 2018 permite realocar moradores onde mais da metade é \"não ocidental\"",
+    "Conjuntos sociais devem alugar 60% das casas a preço de mercado até 2030"
    ],
-   "body": "Um preso matou Ian Huntley, o assassino de Soham, com uma pesada barra de metal num ataque \"a sangue-frio\" planejado semanas antes, ouviu o tribunal da coroa de Newcastle. Segundo a acusação, Anthony Russell, de 44 anos, golpeou repetidamente a cabeça de Huntley, de 52, na prisão de segurança máxima HMP Frankland, perto de Durham, pouco depois das 9h de 26 de fevereiro de 2026.\n\nO promotor Matthew Bean disse aos jurados que eles talvez não sintam simpatia por Huntley, que assassinou as meninas Holly Wells e Jessica Chapman em 2002, mas que o caso não trata de seus \"atos terríveis\", e sim da forma como ele morreu.\n\nOs dois homens cumpriam prisão perpétua por homicídio na época. Segundo a acusação, Russell já havia sido condenado pelo assassinato de três pessoas.",
+   "body": "A Suprema Corte da Dinamarca rejeitou nesta segunda-feira o recurso de sete famílias que tiveram seus contratos de aluguel encerrados em 2022 pela proprietária Boliggarden, em Helsingor, ao norte de Copenhague. Elas estavam entre 91 famílias despejadas, a maioria \"não ocidental\", e alegavam discriminação por origem étnica.\n\nA legislação habitacional adotada em 2018 permite realocar moradores de áreas em que mais da metade dos residentes é \"não ocidental\" e obriga os conjuntos habitacionais sociais a mudar o perfil dos moradores, alugando ao menos 60% das unidades a preço de mercado até 2030. O governo apresenta a lei como medida de integração.\n\nO tribunal manteve o entendimento de instâncias inferiores de que o critério \"imigrantes e descendentes de países não ocidentais\" é neutro e não mede origem étnica, já que os dois grupos incluem pessoas de muitas etnias diferentes.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy",
+   "published_at": "2026-11-23T13:00:23-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b048100-1795457280.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "td23-mundo-03",
+   "title": "Tadjiquistão inicia saída do Tribunal Penal Internacional",
+   "summary": "O Tadjiquistão notificou formalmente a ONU de sua decisão de deixar o Tribunal Penal Internacional (TPI), o que preocupou o órgão. É o quarto país a iniciar a saída desde que os EUA pediram, em julho, que nações abandonassem a corte.",
+   "highlights": [
+    "Saída passa a valer em 20 de novembro de 2027",
+    "Venezuela, Chade e Naoero já haviam iniciado o processo",
+    "TPI apontou que o país não prendeu Putin em visita de 2025"
+   ],
+   "body": "O órgão dirigente do Tribunal Penal Internacional manifestou preocupação depois que o Tadjiquistão comunicou à ONU que vai se retirar do Estatuto de Roma, tratado que criou a corte. A saída entra em vigor em 20 de novembro de 2027. O país segue Venezuela, Chade e Naoero (antiga Nauru), que também iniciaram o processo após o apelo americano de julho.\n\nO governo Trump sancionou juízes e promotores do TPI em reação aos mandados de prisão contra o premiê israelense Benjamin Netanyahu e o ex-ministro da Defesa Yoav Gallant por supostos crimes em Gaza, e a uma investigação anterior sobre a conduta de forças americanas no Afeganistão. Em julho, o Departamento de Estado disse que buscaria inviabilizar as operações da corte.\n\nEm março, o TPI concluiu que o Tadjiquistão descumpriu o pedido de prender o presidente russo Vladimir Putin durante uma visita ao país em 2025. Putin é alvo de mandado do tribunal.",
+   "category": "mundo",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court",
+   "published_at": "2026-11-23T12:36:17-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04560c429e-1795446284.jpg?resize=1920%2C1440"
+  },
+  {
+   "id": "td23-mundo-05",
+   "title": "UE propõe novas sanções contra bancos, cripto e esporte da Rússia",
+   "summary": "A Comissão Europeia propôs um novo pacote de sanções contra a Rússia, mirando dezenas de bancos, plataformas de criptomoedas e a participação de atletas russos em eventos esportivos. As medidas ainda precisam do aval dos 27 países do bloco.",
+   "highlights": [
+    "60 bancos russos seriam excluídos do sistema Swift",
+    "Mais 70 navios da \"frota fantasma\" na mira e veto a petroleiros em portos europeus",
+    "Proibição de vistos a russos que lutaram na guerra"
+   ],
+   "body": "A presidente da Comissão Europeia, Ursula von der Leyen, apresentou nesta segunda-feira uma nova rodada de sanções pela guerra na Ucrânia. A proposta prevê retirar 60 bancos russos do sistema de mensagens Swift, endurecer regras contra plataformas de cripto — inclusive para países que ajudem a Rússia a driblar sanções —, criar uma força-tarefa sobre cripto e impedir que equipes e atletas compitam sob a bandeira russa.\n\nO pacote também mira mais 70 navios da frota fantasma usada para transportar petróleo ilícito, proíbe petroleiros dessa frota em portos europeus e veta que europeus ocupem cargos de direção em empresas russas. \"Ex-combatentes russos representam um risco à segurança da Europa\", disse von der Leyen ao propor a proibição de vistos a quem lutou na Ucrânia.\n\nAs medidas precisam ser aprovadas por unanimidade e podem ser alteradas, num processo que costuma levar semanas. O bloco já sancionou mais de 4.700 pessoas e entidades, incluindo o presidente Vladimir Putin.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/23/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-crypto-and-sports-events/",
+   "published_at": "2026-11-23T12:31:53-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/3FAEVY7LGCHEPDIRR5TSQ3ETPU.jpg?auth=1c7cbffef926540633e115d8f0ec58e0f9a39c8c6a86d7fc377e714821cf9921&width=700"
+  },
+  {
+   "id": "td23-mundo-06",
+   "title": "Premiê da Armênia propõe nova Constituição para selar paz com Azerbaijão",
+   "summary": "Nikol Pashinyan apresentou o rascunho de uma nova Constituição armênia, passo exigido pelo Azerbaijão para assinar um tratado de paz. O texto remove referências à região de Karabakh presentes na Declaração de Independência de 1990.",
+   "highlights": [
+    "Pashinyan promete renunciar se a Constituição for rejeitada em referendo",
+    "Convocar o referendo exige dois terços do Parlamento",
+    "Oposição vê o texto como concessão ao Azerbaijão"
+   ],
+   "body": "O primeiro-ministro da Armênia, Nikol Pashinyan, apresentou nesta segunda-feira o rascunho da nova Constituição do país, mais um passo rumo a um acordo de paz com o vizinho e antigo rival Azerbaijão. Em pronunciamento, ele disse que, após a adoção do texto, um tratado será assinado e ratificado, garantindo uma paz \"institucional, duradoura e irreversível\".\n\n\"Estou apostando toda a minha credibilidade política, pessoal e moral nisso\", afirmou Pashinyan, reeleito em julho. Ele prometeu renunciar se a Constituição for rejeitada em referendo e não concorrer em 2031 se ela for aprovada. Para convocar a consulta, precisa de dois terços do Parlamento; seu partido, Contrato Civil, tem 64 das 105 cadeiras, seis a menos que o necessário, e a oposição se recusa a apoiar.\n\nO rascunho reescreve o preâmbulo e retira as menções à Declaração de Independência de 1990, que cita Karabakh (antigo Nagorno-Karabakh). O governo azerbaijano exigia a mudança, por considerar o trecho uma reivindicação sobre seu território.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/world/2026/11/23/armenian-prime-minister-proposes-new-constitution-in-bid-for-peace-with-azerbaijan/",
+   "published_at": "2026-11-23T12:16:22-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/VFW3OHWAHV7ODI4X6BOZG7DLB4.jpg?auth=907a31dcbd7ff1fe5ed187ecb488980305189bbd2f555364e833dbc88e33e639&width=700"
+  },
+  {
+   "id": "td23-mundo-04",
+   "title": "Dados vazados mostram mais de mil suicídios de militares russos na guerra",
+   "summary": "Dados confidenciais da agência estatística russa Rosstat, analisados pelo Guardian, registram mais de 1.000 soldados russos mortos por suicídio desde o início da invasão em larga escala da Ucrânia. Outras 885 mortes por arma de fogo têm \"intenção indeterminada\".",
+   "highlights": [
+    "Números vêm de um acervo de 11 milhões de certidões de óbito",
+    "Juntos, os casos equivalem a cerca de um regimento",
+    "Analistas dizem que os dados quase certamente subestimam o total"
+   ],
+   "body": "Uma análise exclusiva do Guardian sobre um acervo vazado de 11 milhões de certidões de óbito da Rosstat, a agência estatística da Rússia, identificou mais de 1.000 soldados russos registrados como mortos por suicídio desde o início da invasão em larga escala da Ucrânia. Outros 885 militares mortos na Ucrânia ou perto dela tiveram a causa registrada como ferimento por arma de fogo de \"intenção indeterminada\", classificação que, segundo especialistas, pode esconder suicídios.\n\nSomados, os casos equivalem aproximadamente a um regimento russo. Entre eles está o do sargento Alexei Bolgov, de 29 anos, que guardava um quartel na região ocupada de Donetsk e se matou no fim de 2024, segundo relato escrito de seu comandante obtido pelo jornal.\n\nPara analistas, os números quase certamente subestimam o total real, mas oferecem um raro vislumbre da pressão sobre as Forças Armadas russas quase cinco anos depois do início de uma guerra em que perdas pesadas e disciplina dura minaram o moral das tropas.",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
-   "published_at": "2026-11-23T09:19:44-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/066d49301bbbb46ab73a98865546253b13defbda/0_87_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19d9bf6d13e7a0f118f1db8e123a71ed"
+   "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
+   "published_at": "2026-11-23T11:00:51-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/3034b87937184d9bc9b3561e8cd4a6ff98b6556a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbedd1de6c84260c074a84619a0f195b"
   },
   {
-   "id": "md23-mundo-07",
-   "title": "Vinte estudantes de Gaza partem para a Irlanda após vencer batalha por vistos",
-   "summary": "Vinte estudantes de Gaza devem viajar à Irlanda para assumir bolsas em universidades, depois de uma campanha de quatro meses contra a recusa de vistos pelo governo irlandês. O primeiro grupo deve chegar a Dublin na terça-feira.",
+   "id": "td23-miami-08",
+   "title": "Astro dos Hurricanes, Malachi Toney distribui 751 perus em Miami Gardens",
+   "summary": "O recebedor do Miami Hurricanes Malachi Toney, ex-astro da American Heritage, realizou no domingo a segunda edição da distribuição de perus de sua fundação em Miami Gardens. Ao lado da mãe e do irmão, entregou 751 perus e cartões-presente da Publix.",
    "highlights": [
-    "Departamento de Justiça havia negado vistos a mais de 60 estudantes",
-    "Governo recuou após decisão da Alta Corte de Dublin; 48 vistos aprovados",
-    "Grupo sai de Gaza sob controle israelense e passa pela Jordânia"
+    "Mesmo lesionado, Toney participou da ação no parque onde cresceu",
+    "Cartões da Publix ajudam famílias no jantar de Ação de Graças",
+    "Jogador tem apenas 19 anos"
    ],
-   "body": "Vinte estudantes de Gaza vão viajar à Irlanda para assumir bolsas de estudo, depois de vencer uma disputa por vistos que abalou a reputação do governo irlandês como defensor dos palestinos. O grupo deve deixar o território nesta segunda-feira sob rígido controle israelense e seguir pela Jordânia até Dublin; outro grupo deve vir no fim de dezembro.\n\nA saída ocorre após quatro meses de campanha para reverter a decisão do Departamento de Justiça irlandês de negar vistos a mais de 60 estudantes de Gaza que haviam recebido bolsas no país. A medida irritou políticos da oposição, que acusaram o departamento de trair a tradição de solidariedade da Irlanda com os palestinos. O governo recuou na semana passada, depois que a Alta Corte de Dublin mandou reconsiderar a decisão, e o ministro da Justiça, Jim O'Callaghan, aprovou 48 vistos.\n\n\"É uma mistura de sentimentos que ainda não consigo descrever\", disse Amir Alareer, 26 anos, que vai estudar cibersegurança e inteligência artificial na University College Dublin.",
-   "category": "mundo",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
-   "published_at": "2026-11-23T08:03:14-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/2cd7a8a0d8da2334980fddc1373a18d21e480cf7/913_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b31c480eb5e0809a8170c67f5338a44"
-  },
-  {
-   "id": "md23-mundo-02",
-   "title": "Show de Don Toliver em Manchester é evacuado por substância misteriosa",
-   "summary": "Mais de 12 mil pessoas foram retiradas da arena Co-op Live, em Manchester, no domingo à noite, depois que um cheiro forte se espalhou e o público começou a tossir e engasgar. Há especulação de que fosse gás lacrimogêneo, mas as autoridades não confirmaram.",
-   "highlights": [
-    "Polícia declarou incidente grave",
-    "Uma pessoa foi hospitalizada e dezenas foram avaliadas",
-    "Rapper encerra a turnê mundial com show em Londres na terça"
-   ],
-   "body": "Mais de 12 mil pessoas foram evacuadas de uma arena no norte da Inglaterra no domingo à noite, depois que o público do show do rapper americano Don Toliver começou a gritar, engasgar e tossir quando um cheiro forte se espalhou pelo local. A polícia disse que a Co-op Live, em Manchester, foi esvaziada por volta das 22h (17h no horário de Nova York).\n\nNas redes sociais, especula-se que a substância fosse gás lacrimogêneo, mas as autoridades não confirmaram. Toliver deixou o palco e a polícia declarou incidente grave. Segundo o serviço de ambulâncias, uma pessoa foi hospitalizada e dezenas foram avaliadas por sintomas nos olhos e respiratórios; a arena passou por descontaminação completa por precaução.\n\nUm espectador contou ao Manchester Evening News que começou a tossir e sentir coceira nos olhos, e que o público ficou quase uma hora no local antes do anúncio para a saída. Toliver deve encerrar sua turnê mundial com um show em Londres na terça-feira.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/don-toliver-concert-manchester-uk-evacuated-possible-tear-gas/",
-   "published_at": "2026-11-23T07:18:11-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/b42218cd-bb23-4ae2-9964-8906bc499607/thumbnail/1200x630/7d976f8fe210528a8a71985af853d24b/don-toliver-2305940946.jpg"
-  },
-  {
-   "id": "md23-mundo-03",
-   "title": "Polícia procura leoa vista nos arredores de Istambul",
-   "summary": "Policiais e equipes de proteção animal procuram uma leoa vista circulando na periferia de Istambul, informaram autoridades turcas nesta segunda-feira. O animal foi avistado no domingo num bairro nobre cercado por florestas.",
-   "highlights": [
-    "Leoa apareceu em Uskumrukoy, no norte do lado europeu da cidade",
-    "Governo diz que a meta é capturá-la viva",
-    "Promotoria investiga quem é o dono do animal"
-   ],
-   "body": "Policiais e equipes de bem-estar animal de Istambul estão à procura de uma leoa vista nos arredores da cidade, disseram autoridades turcas nesta segunda-feira. Um morador avistou o animal no domingo à noite em Uskumrukoy, bairro nobre na borda norte do lado europeu de Istambul, cercado por florestas; depois, a leoa foi registrada por câmeras de segurança.\n\n\"A localização do leão foi identificada e os cuidados necessários estão sendo tomados para capturá-lo vivo\", disse o gabinete do governador. Não está claro de onde veio o animal; alguns veículos sugerem que ele escapou de uma casa próxima, e a Promotoria-Chefe de Istambul abriu investigação para identificar o dono.\n\nA Diretoria de Parques Nacionais informou que veterinários especializados e equipes com câmeras térmicas ajudam nas buscas, concentradas na área de mata, com apoio de um drone, segundo a agência estatal Anadolu.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
-   "published_at": "2026-11-23T07:02:16-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/3d683708-4d8a-499e-8e84-84fdc6c6d478/thumbnail/1200x630/64cdb7fc85cd06fd4de1d2f8b7effe67/ap26327339472315.jpg"
-  },
-  {
-   "id": "md23-weston-01",
-   "title": "Árvore de Natal do Weston Town Center acende em 29 de novembro",
-   "summary": "A cerimônia de acendimento da árvore de Natal do Weston Town Center será no domingo, 29 de novembro, das 16h às 20h, com Papai Noel e autoridades da cidade. A data é mais de uma semana antes da do ano passado.",
-   "highlights": [
-    "Árvore fica ao pé da torre do relógio, decorada em vermelho e branco",
-    "Em 2025 a cerimônia foi em 7 de dezembro",
-    "Folheto não informa fechamento de ruas nem estacionamento especial"
-   ],
-   "body": "A cerimônia de acendimento da árvore de Natal do Weston Town Center acontece no domingo, 29 de novembro de 2026, das 16h às 20h. Papai Noel se junta a autoridades da cidade de Weston para acender a árvore, segundo o folheto do Town Center. É o primeiro domingo depois do Dia de Ação de Graças e mais de uma semana antes do acendimento do ano passado, em 7 de dezembro de 2025.\n\nA foto do folheto mostra a árvore ao pé da torre do relógio, decorada em vermelho e branco com enfeites de bala de hortelã. O organizador não divulgou programação de atrações nem o horário exato em que as luzes serão acesas.\n\nO Weston Town Center fica perto da I-75 e da Royal Palm Boulevard, com lojas e restaurantes na Main Street, Market Street e Bell Tower Lane. O folheto não lista fechamento de vias, transporte ou estacionamento especial; dúvidas podem ser tiradas com a Weston Leasing, que administra o local, pelo 954-349-5900.",
-   "category": "weston",
-   "source": "Weston Journal",
-   "url": "https://westonjournal.com/weston-town-center-tree-lighting/",
-   "published_at": "2026-11-23T07:20:00-05:00",
-   "image_url": "https://westonjournal.com/img/weston-town-center-tree-lighting.webp"
-  },
-  {
-   "id": "md23-miami-01",
-   "title": "DeSantis marca eleição especial para vaga de Bryan Avila no Senado estadual",
-   "summary": "A primária especial para substituir o vice-governador eleito Bryan Avila no Senado da Flórida será em 26 de janeiro, e a eleição geral em 6 de abril, já com a sessão legislativa de 2027 em andamento. A decisão veio dois dias depois de a ACLU processar o governador.",
-   "highlights": [
-    "Vaga do Distrito 39 está aberta desde 25 de agosto",
-    "Inscrição de candidatos vai de 30 de novembro a 1º de dezembro",
-    "Deputados Alex Rizo e David Borrero, de Hialeah, já anunciaram candidatura"
-   ],
-   "body": "A primária especial para substituir o vice-governador eleito Bryan Avila no Senado estadual da Flórida foi marcada para 26 de janeiro, com a eleição geral especial em 6 de abril, quando a sessão legislativa de 2027 já estará em andamento. O governador Ron DeSantis definiu as datas para o Distrito 39 dois dias depois de a ACLU da Flórida entrar com ação pedindo que a Suprema Corte estadual o obrigasse a convocar a eleição.\n\nA cadeira está vaga desde 25 de agosto, quando Avila renunciou para concorrer como vice na chapa do governador eleito Byron Donalds. O prazo de inscrição vai do meio-dia de 30 de novembro ao meio-dia de 1º de dezembro, e os deputados republicanos Alex Rizo e David Borrero, ambos de Hialeah, já anunciaram que vão concorrer.\n\nO Senado estadual tem hoje 25 republicanos, 13 democratas e um independente. O Distrito 39 tinha mais de 105 mil eleitores republicanos registrados e quase 52 mil democratas na eleição de 3 de novembro.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/florida-gov-ron-desantis-special-election-distric-39-bryan-avila/",
-   "published_at": "2026-11-23T10:12:01-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/d490c255-7887-44df-82d5-2fa747347a01/thumbnail/1200x630/c3578f54cf3c310413f77debc6c68438/cbsmiami-bryan-avila-generic.jpg"
-  },
-  {
-   "id": "md23-miami-04",
-   "title": "Criança cai de vários andares em prédio de North Lauderdale",
-   "summary": "Uma criança caiu de vários andares de um prédio de apartamentos em North Lauderdale no domingo de manhã e foi levada de helicóptero ao hospital. Segundo as autoridades, ela estava consciente e alerta durante o transporte.",
-   "highlights": [
-    "Queda ocorreu num prédio na Hampton Boulevard",
-    "Caso foi atendido pelo Gabinete do Xerife de Broward",
-    "Criança foi transportada de helicóptero"
-   ],
-   "body": "Uma criança sofreu uma queda assustadora num condomínio de apartamentos em North Lauderdale. Segundo o Gabinete do Xerife de Broward (BSO), a vítima caiu de vários andares de um prédio na Hampton Boulevard na manhã de domingo.\n\nA criança foi levada de helicóptero ao hospital. As autoridades disseram que ela estava consciente e alerta durante o transporte.",
+   "body": "Malachi Toney, wide receiver do Miami Hurricanes, voltou ao parque onde cresceu jogando, em Miami Gardens, para a segunda edição do \"Toney’s Foundation Turkey Giveaway\". Mesmo lesionado, ele e o irmão Monroe e a mãe Shatravia entregaram 751 perus e cartões-presente da Publix para garantir o jantar de Ação de Graças de famílias da comunidade.\n\n\"Significa muito. Sou tão novo, não sei o tamanho do impacto que tenho nos jovens, mas até pessoas mais velhas me admiram, e isso é uma bênção\", disse o jogador de 19 anos, que já é uma referência para a comunidade do Sul da Flórida.",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/broward/north-lauderdale-child-fall/",
-   "published_at": "2026-11-23T09:30:12-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-Child-falls-several-stories-at-a-North-Lauderdale-apartment-complex.png"
+   "url": "https://wsvn.com/sports/college/miami-hurricanes/malachi-toney-turkey-giveaway/",
+   "published_at": "2026-11-23T14:39:52-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-Miami-Hurricanes-star-Malachi-Toney-hands-out-turkeys-in-Miami-Gardens-at-his-2nd-Annual-Toney-Foundation-Turkey-Giveaway.png"
   },
   {
-   "id": "md23-miami-02",
-   "title": "Cruzeiro volta a Fort Lauderdale com quase 150 doentes a bordo",
-   "summary": "O navio Caribbean Princess retornou a Port Everglades na madrugada desta segunda-feira com 148 passageiros e tripulantes que relataram uma suspeita de doença gastrointestinal. O CDC monitora o surto, cuja causa segue desconhecida.",
+   "id": "td23-miami-09",
+   "title": "Winterfest Family Fun Day agita Fort Lauderdale antes do desfile de barcos",
+   "summary": "A Esplanade Park, em Fort Lauderdale, recebeu no domingo o Winterfest Family Fun Day, aquecimento para o 55º Seminole Hard Rock Winterfest Boat Parade. O desfile de barcos está marcado para sábado, 12 de dezembro, no Intracoastal.",
    "highlights": [
-    "134 dos 2.936 passageiros e 14 dos 1.132 tripulantes adoeceram",
-    "Sintomas incluem vômito e diarreia",
-    "Princess Cruises diz ter reforçado limpeza e desinfecção"
+    "Teve fotos com Papai Noel e montanha de neve do Broward College",
+    "Música ao vivo da School of Rock",
+    "Ingressos para o desfile estão à venda"
    ],
-   "body": "Um navio de cruzeiro com quase 150 passageiros e tripulantes doentes voltou a Fort Lauderdale na madrugada desta segunda-feira, e especialistas alertam que mais pessoas podem adoecer pela suspeita de doença gastrointestinal a bordo. O Caribbean Princess, da Princess Cruises, saiu de Port Everglades em 11 de novembro para uma viagem de 12 noites, e o surto foi registrado poucos dias depois, segundo o CDC.\n\nAo menos 134 dos 2.936 passageiros e 14 dos 1.132 tripulantes relataram ter adoecido, num total de 148 casos com sintomas como vômito e diarreia. O CDC continua monitorando o surto, cuja causa ainda é desconhecida.\n\nEm nota à CBS News Miami, a Princess Cruises disse que a tripulação respondeu prontamente com protocolos reforçados de higienização em todo o navio. Passageiros ouvidos no desembarque contaram que, depois dos primeiros casos, a limpeza passou a ser constante em todos os ambientes, do cassino à piscina.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/princess-cruises-caribbean-princess-sick-passengers-fort-lauderdale-november-2026/",
-   "published_at": "2026-11-23T09:00:21-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/c8e1d7c2-0437-4c27-84bf-ea958249682a/thumbnail/1200x630/cf98a643dcbcbe4f6f1669f49703337c/cbsmiami-cruise-ship-returns.jpg"
-  },
-  {
-   "id": "md23-miami-05",
-   "title": "Sucesso de \"GTA VI\" faz disparar buscas por voos para Miami",
-   "summary": "O lançamento de \"Grand Theft Auto VI\", ambientado na fictícia Vice City, provocou um salto nas buscas de voos para Miami, principalmente a partir da Europa. Os dados são do site de viagens eSky.",
-   "highlights": [
-    "Buscas da Polônia para Miami subiram 215% em relação a 2025",
-    "Na Bulgária e na Romênia, buscas por voos e hotéis cresceram mais de 500%",
-    "Fãs querem conhecer de perto a inspiração de Vice City"
-   ],
-   "body": "\"Grand Theft Auto VI\" fez enorme sucesso no mundo todo, e agora muita gente quer conhecer Vice City de perto. O jogo provocou um aumento nas buscas por voos para Miami, especialmente a partir da Europa.\n\nSegundo o site de viagens eSky, as buscas da Polônia para Miami subiram 215% em comparação com 2025. Na Bulgária e na Romênia, as pesquisas por voos e hotéis aumentaram mais de 500%.",
+   "body": "Famílias lotaram a Esplanade Park, em Fort Lauderdale, no domingo para o Winterfest Family Fun Day, celebração de fim de ano voltada para crianças e pais. A programação incluiu fotos com o Papai Noel, a montanha de neve do Broward College e música ao vivo da School of Rock.\n\nO evento serve de aquecimento para o 55º Seminole Hard Rock Winterfest Boat Parade, o tradicional desfile de barcos iluminados, que vai percorrer o Intracoastal Waterway no sábado, 12 de dezembro. Ingressos e informações estão disponíveis no site do evento.",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/entertainment/gta-vi-miami-flight-surge/",
-   "published_at": "2026-11-23T08:43:20-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-GTA-VI-success-causes-spike-in-flight-searches-to-Miami.png"
+   "url": "https://wsvn.com/news/local/broward/winterfest-family-fun-day/",
+   "published_at": "2026-11-23T14:18:44-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261123_Winterfest_Family_Fun_Day.png"
   },
   {
-   "id": "md23-miami-08",
-   "title": "Tempo seco dá trégua, mas nova chuva chega antes do Dia de Ação de Graças",
-   "summary": "O sul da Flórida tem nesta segunda-feira uma pausa no padrão de tempestades, com mais sol e máximas perto de recorde, na casa dos 29 °C. A trégua é curta: um novo sistema de chuva chega entre terça e quarta.",
+   "id": "td23-miami-04",
+   "title": "Motorista presa em Key West por atropelamento e fuga alega ser \"republicana\"",
+   "summary": "A polícia de Key West diz que Jennifer Jo Thompson, 53, fez comentários racistas e repetiu que era republicana ao ser presa por dirigir embriagada e fugir após uma batida. O marido, de 72 anos, se expôs em público e urinou na viatura.",
    "highlights": [
-    "Máximas devem ficar na faixa dos 85 °F (cerca de 29 °C)",
-    "Chuva volta no fim de terça e na quarta, com impacto em viagens",
-    "Quinta de Ação de Graças deve ser agradável e com vento"
+    "Batida ocorreu domingo à noite na Duval Street, em frente ao Rum Bar",
+    "Motorista falhou nos testes de sobriedade",
+    "Marido culpou a próstata por urinar na viatura"
    ],
-   "body": "Finalmente o ar mais seco chegou, dando uma pausa no padrão de tempestades deste mês no sul da Flórida. Com muito mais sol e vento de oeste, as máximas desta segunda-feira podem chegar perto de recordes, em meados dos 80 °F (cerca de 29 °C), ajudando a secar o terreno.\n\nA trégua não vai durar muito: o próximo sistema de chuva está previsto para o fim de terça-feira e a quarta-feira, com nuvens aumentando já na terça. A meteorologia do Local 10 alerta que o sistema pode afetar quem tem planos de viagem para o Dia de Ação de Graças.\n\nO sistema deve se afastar no início da quinta-feira, deixando um feriado de Ação de Graças agradável e com vento.",
+   "body": "Segundo a polícia de Key West, por volta das 20h de domingo Jennifer Jo Thompson, de 53 anos, bateu um Cadillac Escalade cinza na picape de um homem em frente ao Rum Bar, no número 1117 da Duval Street, e fugiu. O outro motorista a seguiu até a North Roosevelt Boulevard, onde policiais a pararam perto do shopping Searstown. O marido, Thomas John Fitzsimmons, de 72 anos, estava no carro; o casal mora em Key Haven.\n\nThompson disse que dirigia porque o marido havia sofrido um derrame e que tinha estado num bar em Stock Island. Ela mostrou sinais de embriaguez e falhou nos testes de sobriedade. Durante a prisão, segundo os policiais, fez comentários \"racialmente depreciativos\" e \"enfatizou repetidamente que era republicana\".\n\nFitzsimmons foi em direção aos arbustos dizendo que precisava ir ao banheiro, foi impedido pelos policiais e acabou se expondo em público. Depois, segundo a polícia, urinou dentro da viatura e atribuiu o episódio a problemas de próstata.",
    "category": "miami",
    "source": "Local 10",
-   "url": "https://www.local10.com/weather/2026/11/23/nov-23-finally-some-drier-air-as-we-catch-a-break-from-the-stormy-pattern/",
-   "published_at": "2026-11-23T08:15:33-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/ZVM6A6ZXGBFH5FRLH2CKLR7DDY.jpg?auth=5538de09b666ea5a5147343fa29e64118175bed12961ff44a71e0e9e91fc0d29&width=700"
+   "url": "https://www.local10.com/news/local/2026/11/23/key-west-dui-suspect-touted-being-a-republican-while-husband-blamed-prostate-for-cruiser-urination-police/",
+   "published_at": "2026-11-23T14:15:28-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/PTO35ONBUFCDHEAQDB2N52AHGU.png?auth=53fd22e5a9afe9e754488158f524e184717f704fdc9faf814f0bde94dbd6c02a&width=700"
   },
   {
-   "id": "md23-miami-06",
-   "title": "Pedestre morre atropelado em Miami Gardens; US 441 é fechada",
-   "summary": "Um pedestre morreu atingido por um caminhão-baú que, em seguida, foi atingido por uma picape em Miami Gardens na manhã desta segunda-feira. As pistas sentido norte da US 441 foram fechadas na altura da 199th Street.",
+   "id": "td23-miami-03",
+   "title": "Morador do Sul da Flórida processa executivo de TV venezuelano para limpar o nome",
+   "summary": "Celestino Diaz Fernandez, que responde a acusações criminais na Venezuela, entrou com ação por difamação em Miami-Dade contra Omar Camero Jr. e a Televen International. Ele diz que o ex-investidor de sua rede de arepas usou sua influência para destruir sua reputação.",
    "highlights": [
-    "Vítima atravessava a NW 2nd Avenue fora da faixa de pedestres",
-    "Motoristas permaneceram no local e não se feriram",
-    "Identidade do homem ainda não foi divulgada"
+    "Camero investiu mais de US$ 1 milhão em restaurantes de arepas em Nova York",
+    "Negócio caiu 90% na pandemia e investidor pediu o dinheiro de volta",
+    "Promotores venezuelanos emitiram mandado contra Diaz Fernandez"
    ],
-   "body": "Um pedestre foi atingido e morto por um caminhão-baú que depois foi atingido na traseira por uma picape preta em Miami Gardens, na manhã desta segunda-feira, segundo a polícia. O acidente ocorreu perto da Northwest 199th Street e levou ao fechamento das pistas sentido norte da U.S. 441.\n\nDe acordo com a polícia, a vítima atravessava a Northwest Second Avenue fora de uma faixa de pedestres quando foi atingida. O homem morreu no local e ainda não foi identificado. Os dois motoristas permaneceram no local e não se feriram.\n\nA polícia orienta os motoristas a evitar a região e usar rotas alternativas enquanto investiga as circunstâncias do acidente.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/miami-dade/miami-gardens-us-441-fatal-crash/",
-   "published_at": "2026-11-23T08:11:08-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-Fatal-crash-shuts-down-US-441-northbound-lanes-in-Miami-Gardens.png"
-  },
-  {
-   "id": "md23-miami-07",
-   "title": "Acidente fatal com motociclista fecha a Turnpike perto da Griffin Road",
-   "summary": "Uma motociclista de 44 anos morreu num acidente na Florida Turnpike, ao sul da Griffin Road, em Davie, pouco antes da meia-noite de domingo. As pistas nos dois sentidos foram fechadas temporariamente.",
-   "highlights": [
-    "Ela perdeu o controle e bateu no muro de concreto",
-    "Três veículos no sentido norte atingiram a vítima",
-    "Motorista de um Hyundai ficou ferida"
-   ],
-   "body": "Um acidente fatal fechou temporariamente as pistas norte e sul da Florida Turnpike no início desta segunda-feira, em Broward. Segundo os bombeiros de Davie e a Patrulha Rodoviária da Flórida (FHP), o acidente aconteceu pouco antes da meia-noite de domingo e envolveu uma motociclista, logo ao sul da Griffin Road.\n\nA vítima, de 44 anos, pilotava uma Indian Scout Bobber Sixty 2021 no sentido sul quando \"perdeu o controle\" e bateu no muro de concreto, sendo arremessada para as pistas do sentido norte, segundo a tenente Indiana Miranda, da FHP. Três veículos que seguiam para o norte — um Hyundai 2022, um Mitsubishi Mirage 2024 e um Subaru WRX 2015 — atingiram a mulher, que morreu.\n\nA motorista do Hyundai, de 33 anos, ficou ferida, segundo a FHP.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/traffic/2026/11/23/traffic-alert-crash-closes-turnpike-near-griffin-road-in-broward/",
-   "published_at": "2026-11-23T07:40:42-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-23-2026%2Ft_8595179b0c8f47f1a11c3b0a5f5e4272_name_49813081545_hdtv.jpg?auth=27240a07a2a556f5ba8f4c9eb57ffb5fbb8c9a7dead68b92a6ae4aa41579f963&width=700"
-  },
-  {
-   "id": "md23-miami-10",
-   "title": "SnowFest de Pembroke Pines terá neve e Papai Noel em 5 de dezembro",
-   "summary": "O SnowFest de Pembroke Pines será no sábado, 5 de dezembro, das 16h às 20h, no Charles F. Dodge City Center, com neve, Papai Noel e acendimento da árvore às 18h30. O evento é gratuito, mas exclusivo para moradores e exige ingresso.",
-   "highlights": [
-    "Ingressos retirados pessoalmente com carteira de motorista e conta de serviço da cidade",
-    "Limite de seis ingressos por residência",
-    "Moradores de Weston não podem participar"
-   ],
-   "body": "O SnowFest de Pembroke Pines acontece no sábado, 5 de dezembro de 2026, das 16h às 20h, no Charles F. Dodge City Center, na 601 City Center Way, cerca de 11 km a leste de Weston. Papai Noel e autoridades da cidade fazem a contagem regressiva para o acendimento da árvore às 18h30.\n\nO evento é gratuito, mas só para moradores de Pembroke Pines, e todos precisam de ingresso retirado pessoalmente com carteira de motorista e uma conta de serviço da cidade. O limite é de seis por residência, por ordem de chegada; a retirada começou em 10 de novembro.\n\nMoradores de Weston não podem participar; alternativas abertas a todos na mesma noite incluem o Light Up the Holidays de Sunrise. Dúvidas: Escritório de Eventos Especiais da cidade, 954-392-2116.",
-   "category": "miami",
-   "source": "Weston Journal",
-   "url": "https://westonjournal.com/pembroke-pines-snowfest/",
-   "published_at": "2026-11-23T07:21:00-05:00",
-   "image_url": "https://westonjournal.com/img/og-default.png"
-  },
-  {
-   "id": "md23-miami-09",
-   "title": "Sunrise acende árvore com show de drones em 5 de dezembro",
-   "summary": "O evento gratuito Light Up the Holidays, de Sunrise, será no sábado, 5 de dezembro, das 17h às 21h, no Sunrise Amphitheater. A árvore é acesa às 19h e um show de drones encerra a noite às 21h.",
-   "highlights": [
-    "Local: Sunrise Amphitheater, 10770 W. Oakland Park Blvd.",
-    "Aberto a todos; área Winter Wonderland só para moradores de Sunrise",
-    "Sunrise fica a cerca de 16 km ao norte de Weston"
-   ],
-   "body": "O Light Up the Holidays, evento gratuito da cidade de Sunrise, acontece no sábado, 5 de dezembro de 2026, das 17h às 21h, no Sunrise Amphitheater, na 10770 W. Oakland Park Blvd. A árvore de Natal é acesa às 19h e um show noturno de drones encerra a programação às 21h.\n\nQualquer pessoa pode participar, mas a área Winter Wonderland, dentro do evento, é exclusiva para moradores de Sunrise, que precisam comprovar residência e pegar pulseiras. Famílias de Weston podem aproveitar o palco, o acendimento, a comida e os drones.\n\nA página da cidade não informa estacionamento, transporte ou fechamento de ruas; informações pelo 954-741-2580. Como o show de drones é a última atração, a recomendação é se planejar para voltar tarde.",
-   "category": "miami",
-   "source": "Weston Journal",
-   "url": "https://westonjournal.com/sunrise-light-up-the-holidays/",
-   "published_at": "2026-11-23T07:20:00-05:00",
-   "image_url": "https://westonjournal.com/img/sunrise-light-up-the-holidays.webp"
-  },
-  {
-   "id": "md23-miami-03",
-   "title": "Cirurgião plástico é condenado à morte por matar advogado na Flórida",
-   "summary": "Um juiz da Flórida condenou à morte o cirurgião plástico Tomasz Kosowski pelo assassinato do advogado Steven Cozzi em 2023. O corpo, jogado numa caçamba de lixo nos Everglades, nunca foi encontrado.",
-   "highlights": [
-    "Crime ocorreu no banheiro do escritório de Cozzi em março de 2023",
-    "Promotores mostraram uma \"bolsa do crime\" com pé de cabra e soqueira",
-    "Investigadores rastrearam o réu até a Tamiami Trail, a oeste de Miami"
-   ],
-   "body": "Um juiz da Flórida condenou à morte o cirurgião plástico Tomasz Kosowski por matar o advogado Steven Cozzi no banheiro do escritório da vítima e depois descartar o corpo numa caçamba de lixo nos Everglades, onde nunca foi encontrado. O crime ocorreu em março de 2023, logo depois de os dois participarem de uma teleconferência sobre uma longa e acirrada disputa judicial envolvendo cobranças médicas.\n\nSegundo a promotoria, Kosowski participou da ligação de dentro de uma picape Toyota estacionada do lado de fora e tinha material para o crime, incluindo sacos de lixo, uma seringa com droga paralisante e um carrinho para levar o corpo. Os promotores apresentaram uma bolsa preta chamada de \"bolsa do crime\", com passaportes, pé de cabra, soqueira, celular e máscara.\n\nRegistros de celular e câmeras de vigilância levaram os investigadores até uma área remota a oeste de Miami, na Tamiami Trail (US 41), onde acreditam que Kosowski jogou o corpo numa caçamba depois esvaziada por um caminhão de lixo, cujo motorista notou um cheiro incomum.",
+   "body": "Celestino Diaz Fernandez era dono de uma rede de restaurantes de arepas em Nova York que acabou fechando. Segundo a ação de difamação movida no condado de Miami-Dade, o empresário venezuelano Omar Camero Jr., ligado à família dona de uma rede de TV, investiu mais de US$ 1 milhão no negócio, e todos os sócios assinaram acordo dizendo que nenhum investidor teria direito a reembolso do capital.\n\nA rede abriu três restaurantes até o outono de 2019, mas, meses depois, a pandemia de covid-19 derrubou o movimento em 90%, segundo Diaz Fernandez. De acordo com a ação, Camero passou então a exigir o dinheiro de volta. \"Ele queria o dinheiro de volta e mais dez vezes isso. Me ameaçava: vou te destruir\", afirmou Diaz Fernandez. A disputa foi à arbitragem, mas ambos os lados encerraram o processo sem solução.\n\nDiaz Fernandez sustenta que Camero usou sua influência na Venezuela para arruinar sua reputação, e promotores venezuelanos emitiram um mandado contra ele. Com o processo em Miami, ele tenta limpar seu nome.",
    "category": "miami",
    "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/plastic-surgeon-tomasz-kosowski-death-sentence-killing-lawyer-florida/",
-   "published_at": "2026-11-23T07:00:50-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/27/302cffb0-1fab-4126-ab27-b50f326ae26e/thumbnail/1200x630/6f2a0914619507cb9e857414d830a664/ap23085731949753.jpg"
+   "url": "https://www.cbsnews.com/miami/news/celestino-diaz-fernandez-omar-camero-jr-televen-internationa-miami-dade-venezuela/",
+   "published_at": "2026-11-23T14:08:43-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/ed253a4a-3697-451b-9921-27c2bdee066b/thumbnail/1200x630/e94c71171d7ead70590e9fdfc9451e67/cbsmiami-venezuela-flag-1.jpg"
   },
   {
-   "id": "md23-tecnologia-01",
-   "title": "Nvidia reintegra Jensen Huang como CEO e ação sobe 35%",
-   "summary": "A Nvidia anunciou nesta segunda-feira a volta imediata de Jensen Huang ao cargo de CEO, numa reviravolta no escândalo que derrubou as ações da fabricante de chips. O conselho votou por unanimidade e disse ter ouvido o alto escalão do governo americano.",
+   "id": "td23-miami-07",
+   "title": "BSO procura homem que quebrou janela de consultório em Oakland Park",
+   "summary": "O Gabinete do Xerife de Broward pede ajuda para identificar um homem filmado quebrando com um tijolo a janela anti-furacão de um consultório odontológico em Oakland Park. O prejuízo foi de quase US$ 2 mil.",
    "highlights": [
-    "Conselho diz estar confiante de que a volta \"não representa risco à segurança nacional\"",
-    "Trump disse à CNBC que Huang \"não fez nada de errado\"",
-    "Ação havia perdido quase 33% desde a admissão do caso extraconjugal"
+    "Vandalismo ocorreu por volta de 1h30 de 23 de outubro",
+    "Suspeito usava boné claro, regata branca e bermuda escura",
+    "Denúncias podem render recompensa de até US$ 5 mil"
    ],
-   "body": "A Nvidia anunciou nesta segunda-feira que Jensen Huang foi reintegrado como CEO, com efeito imediato, numa reviravolta dramática no escândalo que derrubou o preço das ações da fabricante de chips e abalou os setores de tecnologia e inteligência artificial. O conselho disse que votou por unanimidade após \"uma série de conversas e reuniões\" com Huang e que \"recebeu contribuições de altos escalões do governo dos Estados Unidos\".\n\nO presidente Donald Trump disse à CNBC que vinha conversando com o conselho \"direta e indiretamente\", que Huang \"não fez nada de errado\" e que falou com ele no domingo, pedindo que prometesse \"trabalhar duro\". Huang havia renunciado no início do mês após reportagens sobre casos extraconjugais, incluindo um com uma suposta espiã chinesa; segundo o New York Times, a mulher, Alice Huang, esteve em contato com um agente do Ministério de Segurança do Estado da China durante parte do relacionamento.\n\nAs ações da Nvidia dispararam 35% após o anúncio. O papel havia perdido quase 33% desde que Huang admitiu o caso.",
+   "body": "Segundo o BSO, o vandalismo aconteceu na madrugada de 23 de outubro perto da Northeast 34th Street com a 12th Avenue, em Oakland Park. Câmeras de segurança mostram um homem pegando um tijolo e estilhaçando a janela anti-furacão dos fundos do consultório pouco depois de 1h30; em seguida, ele seguiu para o sul, em direção a uma agência dos correios.\n\nO suspeito usava boné de cor clara, regata branca e bermuda escura. Quem tiver informações pode falar com o detetive Darrius Palmer, do BSO de Oakland Park, pelo 954-202-3131, ou ligar anonimamente para o Broward County Crime Stoppers (954-493-TIPS), com recompensa de até US$ 5 mil.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/broward-sheriff-searches-oakland-park-vandal/",
+   "published_at": "2026-11-23T13:02:23-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-BSO-searching-for-man-who-vandalized-a-dentist-office-in-Oakland-Park.png"
+  },
+  {
+   "id": "td23-miami-01",
+   "title": "Broward ainda limpa estragos das enchentes e se prepara para marés reais",
+   "summary": "Moradores de Hollywood e outras áreas de Broward atingidas pelas enchentes da semana passada ainda secam casas e carros. Agora temem as marés reais da lua cheia e mais chuva forte prevista para terça e quarta.",
+   "highlights": [
+    "Ventiladores, entulho nas calçadas e carros secando em Hollywood",
+    "Chuva forte prevista para terça e quarta, com marés reais da lua cheia",
+    "Moradora recomenda contratar perito de seguros (public adjuster)"
+   ],
+   "body": "A ameaça de mais chuva preocupa moradores de Broward que ainda limpam os estragos das enchentes da semana passada, especialmente em Hollywood. Na manhã desta segunda, equipes do 7News registraram ventiladores secando paredes, entulho nas calçadas e carros e SUVs ainda arejando. Para muitos, a limpeza está só começando.\n\n\"Fiz uma cirurgia cardíaca na terça, e isso aconteceu na terça à noite\", contou Haya Pomrenze-Tepper, moradora perto da Stirling Road. Ela contratou um perito de seguros independente para cuidar do processo e recomenda que outros façam o mesmo, dizendo que a demolição, o seguro e a burocracia são \"realmente esmagadores\".\n\nAgora, os moradores de Hollywood se preparam para o que vem nesta semana: a lua cheia vai trazer marés reais (king tides), somadas à chuva forte prevista para terça e quarta-feira. \"Ouvir isso não é bom. É muito angustiante, mas também há a sensação de que não tenho controle sobre isso\", disse Pomrenze-Tepper.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/broward-county-storm-cleanup/",
+   "published_at": "2026-11-23T12:39:38-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/261123_Hollywood_post_flooding_debris_cleanup.png"
+  },
+  {
+   "id": "td23-miami-05",
+   "title": "Delicatessen de Aventura é fechada com fezes de roedor e moscas",
+   "summary": "A lista Dirty Dining da semana inclui a Mo’s Bagels & Deli, em Aventura, fechada em 17 de novembro com 33 violações sanitárias, como cerca de 50 fezes de roedores e mais de 20 moscas vivas. Uma Popeyes de Miami e um café em Hollywood também foram interditados.",
+   "highlights": [
+    "Inspeção na Mo’s Bagels foi motivada por denúncia",
+    "Popeyes de Miami tinha mais de 25 moscas perto do tempero do frango",
+    "Todos reabriram após limpeza e nova inspeção"
+   ],
+   "body": "A Mo’s Bagels & Deli, no 2780 NE 187th St., em Aventura, foi fechada em 17 de novembro após inspeção motivada por denúncia que encontrou 33 violações. Entre elas, cerca de 50 fezes de roedores espalhadas por área de lavagem, estoque e atrás das geladeiras, mais de 20 moscas vivas, acúmulo de mofo dentro da máquina de gelo e água parada.\n\nUma unidade da Popeyes em Miami foi interditada em 18 de novembro depois que inspetores acharam mais de 25 moscas perto da estação de tempero do frango, moscas pousando em itens descartáveis e frango mantido em temperatura inadequada. Também entrou na lista o Cafe Aquatica & Rendezvous Reef, dentro do Holiday Inn de Hollywood, fechado em 12 de novembro com 21 fezes de roedores num depósito e alimentos acima da temperatura segura.\n\nSegundo a Local 10, todos os estabelecimentos puderam reabrir depois de fazer a limpeza exigida e passar por nova inspeção.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/23/popular-aventura-deli-had-50-rodent-droppings-live-flies-mold-in-ice-machine-and-more/",
+   "published_at": "2026-11-23T11:44:47-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/4CSVF6MAAJA2XHRR4FPJ2YHG3E.png?auth=11c39b821eacb9a3368afab709dedb7a490dbce39e74582614f9d21c617a386f&width=700"
+  },
+  {
+   "id": "td23-miami-02",
+   "title": "Homem se entrincheira em casa móvel em Pompano Beach após briga doméstica",
+   "summary": "A SWAT do Gabinete do Xerife de Broward cercou uma casa móvel no Holiday Village Mobile Home Park, em Pompano Beach, onde um homem se entrincheirou após uma ocorrência de violência doméstica. O impasse passou de cinco horas.",
+   "highlights": [
+    "Chamado ocorreu pouco antes das 7h de segunda-feira",
+    "Local fica no bloco 1700 da Southwest Sixth Drive, perto da South Dixie Highway",
+    "Não se sabe se o homem está armado"
+   ],
+   "body": "O Gabinete do Xerife de Broward (BSO) recebeu pouco antes das 7h desta segunda-feira um chamado de distúrbio doméstico no Holiday Village Mobile Home Park, no bloco 1700 da Southwest Sixth Drive, perto da South Dixie Highway, em Pompano Beach. A equipe da SWAT foi acionada e o BSO e outras agências cercaram a casa.\n\nSegundo os investigadores, o homem se recusa a se entregar, e o impasse já passava de cinco horas. As autoridades acreditam que ele está sozinho dentro da residência, mas não sabem se está armado. Até a última atualização, não havia mais informações sobre o que motivou a ocorrência.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/pompano-beach-swat-standoff/",
+   "published_at": "2026-11-23T11:14:18-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-BSO-Subject-believed-to-be-barricaded-inside-Pompano-Beach-mobile-home.png"
+  },
+  {
+   "id": "td23-miami-06",
+   "title": "Homem é esfaqueado pelo primo \"zumbi\" em Fort Lauderdale, diz polícia",
+   "summary": "Um homem disse à polícia que caminhava por um bairro de Fort Lauderdale quando o primo, que ele descreveu como \"zumbi\", surgiu do nada, deu uma cabeçada nele e o esfaqueou três vezes. O suspeito, Franklin Denard Fuller, 36, foi preso na sexta-feira.",
+   "highlights": [
+    "Ataque ocorreu em 12 de novembro na NW 9th Street",
+    "Vítima foi levada ao Broward Health Medical Center",
+    "Fuller está preso com fiança de US$ 100 mil"
+   ],
+   "body": "Segundo o mandado de prisão, a vítima caminhava pela Northwest Ninth Street, perto da 12th Avenue, por volta das 15h de 12 de novembro, quando Franklin Denard Fuller \"surgiu do nada\", deu uma cabeçada que abriu um corte acima da sobrancelha e depois o esfaqueou no antebraço, no quadril e nas costelas. Ferida, a vítima correu até o apartamento do tio, pai do suspeito, onde policiais a socorreram até a chegada dos paramédicos.\n\nAos detetives, a vítima disse que \"não havia motivo\" para o ataque e descreveu o primo como um \"zumbi\", conhecido por usar drogas com frequência. Na sexta-feira, policiais viram Fuller limpando as janelas do Fiesta Food Market, na W. Sunrise Blvd., e o prenderam por agressão agravada com arma letal. Na manhã de segunda, ele seguia na cadeia principal de Broward, com fiança de US$ 100 mil.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/news/local/2026/11/23/man-randomly-stabbed-by-zombie-cousin-while-walking-in-fort-lauderdale-police-say/",
+   "published_at": "2026-11-23T10:47:31-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/PVEAREDG6ZAYZF3U7J5KR22NHE.jpg?auth=d736f61199f654539484ed9956d789c9d6053866c7651df1dc9c8765a22ea2b8&width=700"
+  },
+  {
+   "id": "td23-tecnologia-01",
+   "title": "Amazon compra tecnologia da startup de IA Decart e contrata fundadores",
+   "summary": "A Amazon vai adquirir a tecnologia proprietária da startup israelense Decart e contratar seus três fundadores e pesquisadores, num acordo do tipo \"reverse acquihire\". A Decart é conhecida por software que permite rodar modelos de IA em diferentes chips.",
+   "highlights": [
+    "Veículos citam valor de US$ 7,5 bilhões pelos ativos",
+    "Amazon busca alternativas aos chips da Nvidia com Trainium e Inferentia",
+    "Trainium deve ser vendido a terceiros no fim de 2027"
+   ],
+   "body": "Em post no blog nesta segunda-feira, a Amazon informou que vai comprar a \"tecnologia proprietária\" da Decart e contratar os três fundadores da startup, além de seus pesquisadores e engenheiros de IA. Fundada em 2023, a empresa israelense é conhecida pelo Decart Optimization Stack, software que sincroniza modelos de IA entre diferentes chips e facilita a troca de hardware. Vários veículos relataram que a Amazon pagará US$ 7,5 bilhões pelos ativos.\n\n\"Todo salto na IA começa com tirar mais de cada chip\", disse Peter DeSantis, vice-presidente sênior que supervisiona modelos de fundação, chips próprios e computação quântica. Segundo ele, computação mais eficiente significa melhor treinamento, inferência mais rápida e modelos melhores a menor custo.\n\nA Amazon vem investindo em chips próprios de IA diante da demanda gigantesca e da busca por alternativas à Nvidia, posicionando o Trainium e o Inferentia como opções mais baratas. No mês passado, o CEO Andy Jassy disse que o Trainium será vendido externamente pela primeira vez \"no fim de 2027\".",
    "category": "tecnologia",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-   "published_at": "2026-11-23T10:24:42-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1794954719&w=1920&h=1080"
+   "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+   "published_at": "2026-11-23T14:34:38-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080"
   },
   {
-   "id": "md23-tecnologia-07",
-   "title": "BMW iX4 elétrico chega com 428 milhas de autonomia",
-   "summary": "A BMW iniciou a produção em série do novo iX4 elétrico na fábrica de Debrecen, na Hungria. O SUV cupê promete 428 milhas (cerca de 690 km) de autonomia pelo ciclo EPA e recarga ultrarrápida.",
+   "id": "td23-tecnologia-02",
+   "title": "Apple deve lançar HomePod mini 2 e AirPods Max em versões (PRODUCT)RED",
+   "summary": "Segundo a Bloomberg, a Apple prepara versões (PRODUCT)RED do AirPods Max e do HomePod mini 2 para por volta de 1º de dezembro, Dia Mundial de Luta contra a Aids. A empresa não vende hardware RED desde a linha iPhone 14.",
    "highlights": [
-    "Vendas começam em março de 2027, substituindo o X4",
-    "Versão iX4 50 xDrive tem 468 cv e faz 0 a 60 mph em 4,7 s",
-    "Versão M60 terá 603 cv"
+    "HomePod mini terá tela de tecido vermelha",
+    "AirPods Max virá prateado, com Digital Crown vermelha",
+    "Parte da receita costuma ser doada ao combate à Aids"
    ],
-   "body": "O novo BMW iX4 está quase chegando, com 428 milhas (cerca de 690 km) de autonomia pelo padrão EPA, mais de 500 milhas no ciclo WLTP e recarga ultrarrápida. A produção em série começou na fábrica do BMW Group em Debrecen, na Hungria, o segundo modelo totalmente elétrico feito ali, depois do novo iX3.\n\nSegundo a BMW, a fábrica iniciou a produção de um modelo inteiramente novo em menos de dois meses, após adotar turnos de 24 horas para atender a uma demanda acima do esperado.\n\nO iX4 chega às lojas em março de 2027 como substituto elétrico do X4, nas versões iX4 50 xDrive e iX4 40 xDrive, com uma M60 xDrive logo depois. A 50 xDrive tem 468 cv e vai de 0 a 60 mph em 4,7 segundos; a M60 terá 603 cv.",
-   "category": "tecnologia",
-   "source": "Electrek",
-   "url": "https://electrek.co/2026/11/23/bmws-ix4-promises-428-miles-range-and-ultra-fast-charging/",
-   "published_at": "2026-11-23T10:21:00-05:00",
-   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX4-production-launch.jpeg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "md23-tecnologia-02",
-   "title": "CrowdStrike vai comprar a Zscaler por US$ 44 bilhões",
-   "summary": "A CrowdStrike anunciou a compra da Zscaler por US$ 43,9 bilhões, num negócio todo em ações que une duas grandes empresas de segurança digital num momento em que a IA turbina os ciberataques. As ações da Zscaler subiram mais de 20%.",
-   "highlights": [
-    "Acionistas da Zscaler receberão 1,135 ação da CrowdStrike por papel",
-    "Ações da CrowdStrike caíram cerca de 5%",
-    "Conclusão prevista para o 2º semestre do ano fiscal de 2028 da CrowdStrike"
-   ],
-   "body": "A CrowdStrike planeja comprar a Zscaler por US$ 43,9 bilhões, numa transação inteiramente em ações que combina duas grandes empresas de segurança num momento em que a inteligência artificial está turbinando os ataques. As ações da CrowdStrike caíram cerca de 5% no início do pregão desta segunda-feira, enquanto as da Zscaler subiram mais de 20%. Pelo acordo, os acionistas da Zscaler receberão 1,135 ação da CrowdStrike para cada papel.\n\nA aquisição leva a empresa de Austin para o mercado de segurança de redes e ocorre num ano movimentado de fusões no setor, após ataques de grande repercussão como o sofrido pela Hugging Face. \"Com a Zscaler, estamos construindo o sistema operacional da cibersegurança\", disse o CEO George Kurtz, que vê caminho para se tornar \"a maior empresa de segurança de IA que o mundo já viu\".\n\nApagões recentes que afetaram Microsoft, FAA e JPMorgan Chase aumentaram a ansiedade das empresas, que aceleram atualizações de software e de sistemas antigos para evitar que criminosos explorem vulnerabilidades com IA.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-   "published_at": "2026-11-23T09:38:45-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108557320-1795437543594-gettyimages-2306451809-vcg111684299096.jpeg?v=1795437565&w=1920&h=1080"
-  },
-  {
-   "id": "md23-tecnologia-04",
-   "title": "FSD v15 da Tesla deixa visual da direção com cara de GTA",
-   "summary": "A Tesla começou a liberar o Full Self-Driving (Supervised) v15, que descreve como uma reformulação completa do sistema. A novidade principal é o Reality View, uma tela generativa em tempo real comparada aos gráficos de \"GTA VI\".",
-   "highlights": [
-    "Reality View mostra visão aérea fotorrealista e permite tocar para influenciar o carro",
-    "Tesla diz que o modelo evita erros graves 25 vezes mais",
-    "Atualização é para hardware AI4 (HW4); carros com HW3 ficam de fora"
-   ],
-   "body": "A Tesla começou a liberar o Full Self-Driving (Supervised) v15, que chama de reformulação completa de seu sistema de assistência ao motorista de ponta a ponta. O destaque é o Reality View, uma exibição generativa em tempo real que substitui os antigos gráficos de arame por uma visão aérea ao vivo, na qual o motorista vê e pode tocar para influenciar o que o carro planeja fazer.\n\nA perspectiva em terceira pessoa mostra prédios, faixas de pedestres, pessoas e o trânsito com um fotorrealismo logo comparado a \"Grand Theft Auto VI\", lançado dias antes. O próprio Elon Musk postou no X que \"FSD é GTA na vida real\" depois da atualização, liberada no sábado.\n\nPor dentro, o v15 usa um codificador de visão atualizado compartilhado pelos programas FSD, Robotaxi e pelo robô humanoide Optimus. Treinado com milhões de vídeos online, o modelo evita erros graves de direção 25 vezes mais, segundo a Tesla, usando menos poder de computação. A atualização é para carros com o hardware AI4 (HW4) e para o futuro Cybercab, deixando de fora milhões de veículos com HW3.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
-   "published_at": "2026-11-23T09:12:28-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&strip=all&crop=0%2C3.0843968816805%2C100%2C93.831206236639&w=1200"
-  },
-  {
-   "id": "md23-tecnologia-06",
-   "title": "Samsung não deve lançar Galaxy Watch novo em 2027",
-   "summary": "Segundo o ETNews, a Samsung vai adotar um ciclo de lançamento a cada dois anos para seus relógios, e o \"Galaxy Watch 10\" ficaria para 2028. A mudança faz parte de uma reestruturação após dois trimestres de prejuízo na divisão móvel.",
-   "highlights": [
-    "Samsung lança um Galaxy Watch novo todo ano desde 2018",
-    "Vendas do Galaxy Watch 9 ficaram abaixo do esperado",
-    "Galaxy Fit 4 deve sair em 2027 por € 79,90"
-   ],
-   "body": "A Samsung não deve lançar um novo Galaxy Watch em 2027, segundo reportagem do ETNews: a empresa passaria a renovar seus relógios a cada dois anos, empurrando o \"Galaxy Watch 10\" para 2028. O motivo seria uma \"reformulação estrutural para fortalecer a lucratividade\" depois de dois trimestres seguidos de prejuízo na divisão de celulares.\n\nA Samsung lança um Galaxy Watch novo todos os anos desde 2018. O relatório diz que o produto está numa \"fase madura\" do mercado de relógios inteligentes e que as vendas do Galaxy Watch 9 ficaram abaixo do esperado, em parte pelo preço mais alto.\n\nA empresa ainda planeja atualizações de software para o relógio no ano que vem, com melhorias nos recursos de saúde. A pulseira Galaxy Fit 4 também é esperada para 2027, por € 79,90, segundo o Dealabs.",
-   "category": "tecnologia",
-   "source": "9to5Google",
-   "url": "https://9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report/",
-   "published_at": "2026-11-23T08:35:00-05:00",
-   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-11.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "md23-tecnologia-05",
-   "title": "Bancos já bloqueiam agentes de IA antes da chegada da nova Siri",
-   "summary": "Enquanto a Apple trabalha para transformar a Siri num agente capaz de usar apps no iPhone e no Mac, bancos já estão bloqueando esse tipo de ferramenta. Segundo o 9to5Mac, isso pode ser só o começo.",
-   "highlights": [
-    "Claude, ChatGPT, Grok e Muse já ganharam recursos de agente",
-    "Apple deve levar essas funções à Siri no ano que vem, segundo Mark Gurman",
-    "CEO John Ternus estaria pressionando por desenvolvimento mais rápido"
-   ],
-   "body": "Uma das mudanças mais marcantes da IA é a chegada de agentes inteligentes capazes de usar apps do iPhone e do Mac para executar tarefas em nome do usuário. Chatbots de terceiros já fazem isso, e a Apple trabalha para transformar a Siri num agente — mas, antes mesmo de a empresa ter essa chance, bancos já estão bloqueando essas ferramentas, segundo o 9to5Mac.\n\nClaude, ChatGPT, Grok e Muse já ganharam capacidades de agente, e a Apple deve levá-las à Siri em algum momento do ano que vem. Mark Gurman, da Bloomberg, disse neste mês que a empresa quer seguir nessa direção, e o CEO John Ternus estaria pressionando Craig Federighi por um desenvolvimento de software mais rápido, indo \"além das melhorias necessárias na Siri\".\n\nNa semana passada, uma vaga de emprego da Apple, depois apagada, também detalhava planos nessa área. O site avalia que o bloqueio pelos bancos pode ser apenas o início da resistência a agentes de IA.",
+   "body": "A Apple planeja lançar novas versões (PRODUCT)RED do AirPods Max e do HomePod mini 2 \"em torno\" de 1º de dezembro, Dia Mundial de Luta contra a Aids, segundo reportagem da Bloomberg citada pelo 9to5Mac. A parceria com a organização (RED) é antiga, mas a empresa não lança hardware do tipo há um tempo: os últimos iPhones RED foram o iPhone 14 e o 14 Plus, em 2022, e hoje a Apple não vende nenhum produto ou acessório RED.\n\nO novo HomePod mini 2 terá revestimento de tela vermelho. Já o AirPods Max 2 virá em acabamento prateado — cor que a Apple não oferece atualmente para o fone —, com conchas de tecido branco, arco branco e Digital Crown vermelha. Pela parceria, a Apple normalmente doa parte da receita ao combate à Aids.",
    "category": "tecnologia",
    "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/23/as-apple-works-on-ai-agent-features-banks-are-already-blocking-them/",
-   "published_at": "2026-11-23T07:55:35-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/As-Apple-works-on-AI-agent-features-banks-are-already-blocking-them.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://9to5mac.com/2026/11/23/apple-releasing-productred-homepod-mini-and-airpods-max-per-report/",
+   "published_at": "2026-11-23T14:28:09-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/product-red-render-homepod-mini.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "md23-tecnologia-03",
-   "title": "Oregon e Virgínia processam a SpaceX por deepfakes sexuais do Grok",
-   "summary": "Virgínia e Oregon se tornaram os primeiros estados a processar a SpaceX, de Elon Musk, por problemas no gerador de imagens de IA Grok. As ações dizem que a empresa não impediu a criação e o compartilhamento de deepfakes explícitos, inclusive de crianças.",
+   "id": "td23-tecnologia-09",
+   "title": "Nothing revela Ear Note, fones com gravação e transcrição por IA",
+   "summary": "A Nothing apresentou o Ear Note, fones de ouvido cujo estojo com microfone grava e transcreve conversas, com resumos gerados por IA num app. O lançamento está previsto para 8 de dezembro, ainda sem preço definido.",
    "highlights": [
-    "Processos citam leis estaduais de proteção ao consumidor",
-    "Estados acusam a empresa de vender Grok e X como seguros",
-    "X permite acesso de menores a partir de 13 anos"
+    "Estojo tem botão \"Talk\" para gravar",
+    "Fones vão interagir com vários agentes de IA",
+    "Relógio inteligente e óculos com IA da Nothing foram adiados"
    ],
-   "body": "Os processos contra a SpaceX, de Elon Musk, estão se acumulando: Virgínia e Oregon se tornaram os primeiros estados a processar a empresa por problemas com o gerador de imagens de IA Grok. Pesquisas da Internet Watch Foundation, do Center for Countering Digital Hate e de outros grupos apontam que versões do Grok e da rede social X permitiram gerar e distribuir deepfakes explícitos baseados em fotos ou vídeos reais de crianças e de pessoas que não consentiram.\n\nNas ações apresentadas a tribunais estaduais, o procurador-geral do Oregon, Dan Rayfield, e o da Virgínia, Jay Jones, argumentam que a SpaceX não criou salvaguardas para impedir que usuários fizessem e compartilhassem imagens nocivas, especialmente supostos materiais de abuso sexual infantil gerados por IA.\n\nAs queixas também afirmam que a empresa apresentou falsamente o Grok e o X como seguros, o que violaria as leis de proteção ao consumidor dos dois estados. Os procuradores destacam a gravidade do caso porque o X permite o acesso de menores a partir de 13 anos.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-   "published_at": "2026-11-23T07:40:37-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108282790-1774443628624-gettyimages-2265843824-raa-grokaieu260313_np8wx.jpeg?v=1774443657&w=1920&h=1080"
-  },
-  {
-   "id": "md23-tecnologia-08",
-   "title": "Agente de IA Muse, da Meta, poderá fazer compras de Black Friday no Walmart",
-   "summary": "O Walmart passou a permitir que o Muse, agente de IA da Meta, encontre e compre ofertas de Black Friday em nome do usuário. As compras passam por \"Agent Profiles\" na conta do cliente, com limites de gasto e aprovação.",
-   "highlights": [
-    "Recurso usa o Agent Gateway anunciado pelo Walmart no mês passado",
-    "Usuário define limite de gastos e pode aprovar compras",
-    "Amazon e eBay bloqueiam agentes de IA em suas plataformas"
-   ],
-   "body": "O Walmart vai permitir que o Muse, da Meta, faça compras em nome do usuário, encontrando e comprando ofertas de Black Friday por meio do assistente Sparky. A varejista está colocando em funcionamento o Agent Gateway anunciado no mês passado, que ajuda agentes de IA a achar produtos relevantes sem compartilhar o histórico de compras.\n\nO Muse faz as compras pelos \"Agent Profiles\", um espaço dedicado à atividade do agente dentro da conta Walmart do cliente, onde é possível definir limites de gasto, aprovar compras e conferir o histórico de tudo o que o Muse comprou. O pagamento é feito na própria conversa, com um cartão salvo na conta Walmart e os mesmos preços do site.\n\nEnquanto Amazon e eBay bloquearam agentes de IA em suas plataformas, o Walmart diz que o suporte ao Muse é \"só o começo\" e que novas experiências para outros agentes e apps estão \"a caminho\".",
+   "body": "O Ear Note é o novo dispositivo de IA da Nothing: um par de fones com estojo de carregamento equipado com microfone, capaz de gravar e transcrever conversas, com um app para gerenciar gravações, transcrições e resumos feitos por IA — algo parecido com o novo recurso do Apple Watch e com o vestível Bee, da Amazon. O CEO Carl Pei demonstrou o aparelho à Bloomberg e disse que o preço ainda não foi definido para o lançamento de 8 de dezembro.\n\nSegundo a Bloomberg, os fones vão suportar interações com diversos agentes de IA, incluindo um sistema de voz mais básico da própria Nothing. Pei escreveu no X que é \"o primeiro de muitos produtos\" para criar uma \"camada de contexto de hardware para a IA\", usando algo que as pessoas já usam.\n\nA reportagem diz ainda que o smartwatch e os óculos inteligentes com IA que a Nothing planejava estão atrasados, enquanto a empresa terá um calendário de lançamentos de celulares mais agressivo em 2027.",
    "category": "tecnologia",
    "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-   "published_at": "2026-11-23T06:00:00-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+   "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+   "published_at": "2026-11-23T14:04:52-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+   "id": "td23-tecnologia-08",
+   "title": "Google Meet libera vídeo em 1080p para todas as contas na web",
+   "summary": "O Google Meet passará a transmitir e receber vídeo em 1080p por padrão na web, inclusive para contas pessoais gratuitas. Antes, a resolução padrão era 720p e o Full HD exigia o plano Google One de 2 TB.",
+   "highlights": [
+    "Basta ter câmera capaz de gravar em alta definição",
+    "Recurso pode ser desligado em Configurações > Vídeo",
+    "Apps de Android e iOS podem continuar limitados a 720p"
+   ],
+   "body": "O Google anunciou que o 1080p será o padrão do Google Meet na web para todos, incluindo contas do Google Workspace e contas pessoais. Desde 2023, quando o Full HD chegou ao serviço, a resolução maior era exclusiva de assinantes do plano Google One de 2 TB, enquanto o padrão era 720p.\n\nO único requisito é de hardware: dispositivos com câmeras capazes de transmitir em alta definição farão isso automaticamente. A função pode ser desativada em Configurações > Vídeo, e o vídeo aparece em resolução menor se o quadro do usuário for reduzido na tela.\n\nA mudança parece valer apenas para o Meet no navegador; os apps de Android e iOS podem continuar limitados a 720p para quem não assina o Google One. A liberação gradual começou no início do mês e deve ser concluída em breve.",
+   "category": "tecnologia",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/23/google-meet-web-makes-1080p-streaming-free/",
+   "published_at": "2026-11-23T13:19:09-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-meet-1.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td23-tecnologia-10",
+   "title": "App do Threads para iPad será lançado \"muito em breve\"",
+   "summary": "Mais de três anos após a estreia, o Threads, rede social da Meta, vai ganhar um app para iPad. O chefe de design da plataforma, Christopher Clare, mostrou uma primeira imagem e disse que o lançamento está próximo.",
+   "highlights": [
+    "Meta não divulgou data exata",
+    "Primeira versão prioriza o básico; otimizações seguem em andamento",
+    "Instagram levou quase 15 anos para chegar ao iPad"
+   ],
+   "body": "Christopher Clare, chefe de design do Threads, publicou nesta segunda-feira uma primeira imagem do app para iPad e disse que ele chega \"muito em breve\". \"Esse estava no topo da lista de muita gente\", escreveu, prometendo atualizar quando estiver disponível.\n\nSegundo Clare, o Threads priorizou lançar uma \"v1\" do aplicativo, e outras mudanças e otimizações ainda estão em desenvolvimento. Além do \"muito em breve\", a Meta não deu data de lançamento. Mesmo com mais de três anos de espera, o prazo é bem menor que o do Instagram, que levou quase 15 anos para ganhar versão para iPad.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/23/threads-app-for-ipad-launching-very-soon/",
+   "published_at": "2026-11-23T13:06:32-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/924744113_17990077620109474_773078292128629837_n-2.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td23-tecnologia-07",
+   "title": "Modo IA do Google passa a integrar Drive, Wallet e app Gemini",
+   "summary": "O recurso Personal Intelligence do Modo IA da Busca do Google ganhou integração com Google Drive, Google Wallet e o app Gemini. Antes, ele usava apenas Google Fotos, Gmail e Agenda para personalizar respostas.",
+   "highlights": [
+    "Drive permite usar Docs, Planilhas e PDFs nas respostas",
+    "Wallet só lê dados financeiros; não move nem investe dinheiro",
+    "Conexão com o Gemini já pode ser ativada, mas funciona nas próximas semanas"
+   ],
+   "body": "O Personal Intelligence no Modo IA (AI Mode) da Busca do Google está se expandindo. Com o suporte ao Google Drive, as respostas podem levar em conta documentos, planilhas e PDFs do usuário. A integração com o Google Wallet, que já existia no app Gemini, permite planejar metas financeiras, identificar cortes de gastos e otimizar benefícios de cartões, como cashback e pontos — mas o Google ressalta que o recurso só lê as contas e não pode \"mover, gerenciar ou investir\" dinheiro.\n\nA novidade mais interessante é a conexão do app Gemini ao Modo IA: ideias exploradas no Gemini servirão de base para a Busca, e vice-versa. O Modo IA poderá acessar conversas do Gemini, arquivos e mídias compartilhados com o app e locais associados. A opção já pode ser ativada, mas o recurso começa a funcionar nas próximas semanas.",
+   "category": "tecnologia",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/23/ai-mode-wallet-gemini/",
+   "published_at": "2026-11-23T12:36:34-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/AI-Mode-Personal-Intelligence-cover.webp?resize=1200,628"
+  },
+  {
+   "id": "td23-tecnologia-06",
+   "title": "Justiça proíbe SUV BYD Ti7 na UE por copiar o Land Rover Defender",
+   "summary": "Um tribunal holandês proibiu a BYD de vender ou fabricar o SUV Ti7 em toda a União Europeia, concluindo que ele infringe o desenho registrado do Land Rover Defender. Descumprir a ordem custa € 100 mil por dia, até € 10 milhões.",
+   "highlights": [
+    "Decisão reverte vitória inicial da BYD de dez dias antes",
+    "Ações da BYD em Hong Kong chegaram a cair 4%",
+    "Juiz viu no Ti7 todos os elementos dominantes do Defender 110"
+   ],
+   "body": "O juiz de medidas cautelares do Tribunal Distrital de Haia decidiu na sexta-feira, 20 de novembro, em ação movida pela Jaguar Land Rover contra 11 empresas da BYD, que o SUV Ti7 viola o desenho registrado do atual Defender 110. A decisão impede a montadora chinesa de vender ou construir o modelo em qualquer país da UE, sob multa de € 100 mil por dia, limitada a € 10 milhões.\n\nA JLR apresentou seis desenhos registrados, mas bastou um, de abril de 2018. Segundo a sentença, os \"ombros\" arredondados, os cantos arredondados, o painel característico na coluna C, os recortes das caixas de roda, a linha contínua das janelas e a silhueta geral aparecem todos no Ti7. A BYD argumentou que faróis, grade, para-choques, capô e perfil são diferentes, mas o juiz entendeu que isso não muda a impressão geral para um usuário informado.\n\nÉ uma reviravolta em relação a dez dias antes, quando o mesmo tribunal deu à BYD uma vitória inicial no caso. As ações da empresa em Hong Kong chegaram a cair 4% nesta segunda e fecharam em baixa de 1,9%.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/23/byd-ti7-banned-eu-land-rover-defender-design/",
+   "published_at": "2026-11-23T12:18:26-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/byd-ti7-vs-land-rover-defender-110-side-profile.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td23-tecnologia-05",
+   "title": "Toyota prepara Corolla totalmente reformulado, com primeira versão 100% elétrica",
+   "summary": "A 13ª geração do Toyota Corolla, carro mais vendido da história, terá uma plataforma \"multicaminho\" que suporta motores a gasolina, híbridos, híbridos plug-in e, pela primeira vez, 100% elétricos.",
+   "highlights": [
+    "Mais de 57 milhões de Corollas vendidos desde 1966",
+    "Design deve seguir o Corolla Concept mostrado no Japan Mobility Show",
+    "Toyota ainda não revelou bateria nem especificações"
+   ],
+   "body": "A Toyota está preparando a maior transformação da história do Corolla. Vendido em mais de 150 países e escolhido por mais de 57 milhões de motoristas desde a estreia em 1966, o modelo terá na 13ª geração uma nova plataforma \"multipathway\", compatível com motorização a combustão, híbrida, híbrida plug-in e, pela primeira vez, totalmente elétrica.\n\n\"Seja elétrico a bateria, híbrido plug-in, híbrido ou a combustão, vamos fazer carros bonitos que todo mundo queira dirigir\", disse o CEO Koji Sato ao revelar o Corolla Concept no Japan Mobility Show, em outubro do ano passado. A nova geração deve adotar visual semelhante ao do conceito.\n\nA montadora mantém em segredo a maior parte dos detalhes, como bateria e especificações do trem de força. Norihiko Kobayashi, que comanda o programa Corolla desde 2011, disse à Motor.es que a ideia foi dar \"um novo toque\" ao nome.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/23/toyota-corolla-radical-makeover-first-ev/",
+   "published_at": "2026-11-23T12:02:29-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Corolla-Cross-electric-spotted-1.jpeg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td23-tecnologia-03",
+   "title": "iOS 27.3 traz novidades em seis apps do iPhone, incluindo novo Saúde",
+   "summary": "A próxima atualização do iPhone, o iOS 27.3, adiciona recursos em seis apps nativos da Apple. Os destaques são o Selfie Sing no Apple Music, abas verticais no Safari e um app Saúde totalmente reformulado.",
+   "highlights": [
+    "Selfie Sing grava vídeos cantando com letra na tela",
+    "Safari ganha abas verticais, modo escuro adaptativo e Global Privacy Control",
+    "Novo app Saúde só para iPhones compatíveis com Apple Intelligence"
+   ],
+   "body": "O iOS 27.3 deve chegar em breve com mudanças em seis aplicativos da Apple. No Apple Music, o novo Selfie Sing permite gravar vídeos curtos cantando junto com as músicas, com a letra na tela, ideal para compartilhar no TikTok; a visualização de letras em modo paisagem também foi redesenhada, mesclando a arte do álbum ao texto.\n\nO Safari recebe abas verticais e modo escuro adaptativo, além de uma configuração Global Privacy Control que pretende acabar com os pop-ups de consentimento de cookies. O app Saúde passa por uma grande reformulação, apenas para iPhones compatíveis com Apple Intelligence, com aba Insights de dados personalizados, aba Longevity para acompanhar a \"idade de saúde\", vídeos educativos, avaliação de movimento e pedidos de exames que são importados automaticamente.\n\nO app Apple TV também ganha dois novos tipos de vídeos que não exigem assinatura, entre outras mudanças detalhadas pelo 9to5Mac.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/23/ios-27-3-adds-new-features-in-six-iphone-apps-details-here/",
+   "published_at": "2026-11-23T11:06:02-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/app-icons-ios-27-3.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "td23-tecnologia-04",
+   "title": "FSD v15 é a última chance do AI4 da Tesla, e falta poder computacional",
+   "summary": "Elon Musk explicou no X como o FSD v15 usa o computador AI4 dos carros da Tesla, e as postagens indicam que sobra pouca capacidade. Ele também confirmou que os carros não receberão o chip AI5 e que o AI4.5 teve a RAM cortada.",
+   "highlights": [
+    "Visualização Reality View usa só metade de um acelerador TRIP",
+    "Modelo de direção tem cerca de 3 bilhões de parâmetros",
+    "RAM do AI4.5 caiu de 32 GB para 24 GB"
+   ],
+   "body": "Segundo o Electrek, o FSD v15 é a última chance real de a Tesla entregar direção autônoma sem supervisão no computador AI4 presente em milhões de carros. A face mais visível da versão é o Tesla Reality View, renderização ao vivo do entorno com cara de videogame, que Musk descreveu como \"geração de vídeo por IA em tempo real\" usando \"apenas metade de um acelerador TRIP\".\n\nNas postagens seguintes, porém, Musk explicou que meio TRIP foi o que sobrou depois que a empresa moveu um decodificador para a SRAM, e que o acelerador lida basicamente com inteiros de 8 bits. Ele descreveu o Reality View como um modelo de difusão de cerca de 1 bilhão de parâmetros, alimentado pelas mesmas features do encoder de visão que abastece o modelo de 3 bilhões de parâmetros que gera as ações de direção, e admitiu latência \"um pouco alta\" por limitações de computação.\n\nMusk também confirmou que os carros não vão receber o chip de próxima geração AI5 e que o upgrade intermediário AI4.5 teve a memória reduzida de 32 GB para 24 GB. O Electrek observa que a Tesla prometeu por mais de um ano um salto de 10 vezes no tamanho do modelo do FSD.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/",
+   "published_at": "2026-11-23T11:00:53-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&strip=all&resize=1200,628"
   }
  ]
 }
