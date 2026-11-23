@@ -1,696 +1,552 @@
 {
  "version": 2,
- "generated_at": "2026-11-23T06:44:22-05:00",
- "edition": "manha",
+ "generated_at": "2026-11-23T10:43:21-05:00",
+ "edition": "meio-dia",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "mn23-eua-06",
-   "title": "Governo Trump admite na Justiça ter deportado cidadão americano ao México",
-   "summary": "O Departamento de Justiça admitiu em tribunal federal que deportou para o México o cidadão americano Brian José Morales García, de Austin, após concluir erroneamente que ele era imigrante sem documentos. A admissão veio num pedido para arquivar a ação de indenização que ele move.",
+   "id": "md23-eua-01",
+   "title": "Trump diz não ver risco à segurança nacional na volta de Huang à Nvidia",
+   "summary": "O presidente Trump afirmou nesta segunda-feira que o governo \"não tem motivo para acreditar\" que o retorno de Jensen Huang ao comando da Nvidia represente risco à segurança nacional. Huang havia deixado o cargo após revelações de um caso com uma mulher que agências de inteligência suspeitam ser espiã da China.",
    "highlights": [
-    "Morales García nasceu em Denver e foi criado no México",
-    "Foi parado sem documento em abril e deportado em 7 de abril",
-    "Advogados dizem que ele assinou papéis sob ameaça de prisão"
+    "Trump comemorou a decisão do conselho no Truth Social",
+    "Segundo Trump, o secretário de Justiça Todd Blanche não tem provas de conduta ilegal",
+    "Presidente defende que a investigação interna da Nvidia continue"
    ],
-   "body": "O governo Trump admitiu recentemente, em tribunal federal, que deportou um cidadão americano para o México depois que autoridades concluíram erroneamente que ele era imigrante sem documentos. Advogados do Departamento de Justiça fizeram a admissão na sexta-feira ao pedir o arquivamento de uma ação de indenização movida por Brian José Morales García, de Austin, Texas.\n\nNascido em Denver e criado no México, Morales García, de 25 anos, estava como passageiro no carro do chefe, a caminho do trabalho como técnico de ar-condicionado, quando foram parados por policiais perto de Fredericksburg, em 3 de abril. Sem documento consigo, ele disse ter certidão de nascimento e cartão de seguro social em casa, mas os policiais chamaram agentes de imigração. Um agente da Patrulha de Fronteira consultou registros mexicanos que indicavam nascimento no México, e ele foi deportado em 7 de abril.\n\nOs advogados de Morales García, que processaram o governo em 1º de maio, afirmam que ele declarou falsamente ter entrado ilegalmente e assinou papéis de deportação rápida por ameaças de prisão. O caso surge em meio a críticas bipartidárias à campanha de deportações em massa, vista como um dos fatores da derrota republicana nas eleições de 3 de novembro.",
+   "body": "O presidente Donald Trump disse nesta segunda-feira que o governo dos EUA \"não tem motivo para acreditar\" que a volta de Jensen Huang ao cargo de CEO da Nvidia \"represente qualquer risco à segurança nacional\". A declaração foi publicada no Truth Social logo depois de a Nvidia anunciar que seu conselho havia reintegrado Huang, que saiu em meio a um escândalo envolvendo um caso com uma mulher que agências de inteligência americanas suspeitam ter espionado para a China — o que Pequim nega.\n\nTrump afirmou que o secretário de Justiça, Todd Blanche, \"confirmou que o governo dos EUA não possui evidências de que ele tenha praticado qualquer conduta ilegal\". \"O país precisa da liderança de Jensen na Nvidia\", escreveu o presidente, que vinha apoiando o movimento pelo retorno de Huang depois que as ações da empresa despencaram com as denúncias.\n\nApesar do apoio, Trump disse acreditar que a Nvidia deve continuar sua investigação interna, já que Huang foi reintegrado antes de ela terminar. A CBS News procurou o Departamento de Justiça para comentar. Huang transformou a Nvidia numa das empresas mais valiosas do mundo, com chips centrais na disputa entre EUA e China pela liderança em IA.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
+   "published_at": "2026-11-23T10:34:18-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/2226dae3-c729-4132-bbdf-5fd3a31504a6/thumbnail/1200x630/f7a1e54aae2e7e0553c28d53bae576e1/ap26281716799324.jpg"
+  },
+  {
+   "id": "md23-eua-04",
+   "title": "Pequenas transportadoras lutam para sobreviver ao diesel caro",
+   "summary": "A alta do diesel provocada pela guerra entre EUA e Irã pressiona as pequenas empresas de caminhões, que formam a maior parte do setor de transporte rodoviário americano. Com menos reservas que as grandes frotas, muitas absorvem os custos enquanto esperam os fretes se ajustarem.",
+   "highlights": [
+    "Diesel passou de US$ 6 o galão em setembro",
+    "Transportadora de Minnesota criou sobretaxa de combustível de até 12,5%",
+    "Pequenos operadores esperam de três a quatro semanas para repassar custos"
+   ],
+   "body": "Quando o diesel passou de US$ 4 o galão no início da guerra entre EUA e Irã, Kevin Otto achou que daria conta pedindo aos 16 motoristas de sua transportadora em Minnesota que reduzissem a velocidade. Rodar a 65 milhas por hora renderia um pouco mais por galão e economizaria cerca de US$ 7 mil por caminhão. Mas os preços continuaram subindo: depois que o diesel ultrapassou US$ 6 em setembro, ele passou a cobrar pela primeira vez uma sobretaxa de combustível, começando em 5% e chegando a 12,5%.\n\nO diesel alto pressiona as pequenas empresas que formam a maior parte das transportadoras do país. A guerra elevou um dos maiores e menos evitáveis custos diários do setor justamente quando o transporte rodoviário americano, muito fragmentado, dava sinais tímidos de recuperação de anos de demanda fraca e fretes baixos.\n\nAs pequenas transportadoras costumam ter menos proteção financeira que as grandes, que têm mais caixa, compram diesel com desconto por volume e negociam contratos longos com sobretaxas ajustáveis. Muitos pequenos operadores negociam frete carga a carga e precisam absorver os preços na bomba por três a quatro semanas até que as tarifas do mercado spot se ajustem, segundo a DAT Freight & Analytics.",
+   "category": "eua",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/23/small-us-trucking-firms-scramble-to-survive-mounting-diesel-costs/",
+   "published_at": "2026-11-23T10:07:15-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/W67W4TXR6UEIGAN3IMOPTPJUTE.jpg?auth=76072df248915559251332dfdd046dcfce53de9f87b1c1c3fd43bc89a7018084&width=700"
+  },
+  {
+   "id": "md23-eua-02",
+   "title": "Bolsas dos EUA disparam após volta de Huang à Nvidia",
+   "summary": "Os mercados americanos subiram forte nesta segunda-feira, recuperando parte do tombo de sexta-feira que levou o S&P 500 e o Dow à zona de correção. A alta veio depois que a Nvidia anunciou a reintegração de Jensen Huang como CEO.",
+   "highlights": [
+    "Nasdaq subiu 6%, S&P 500 4,2% e Dow 2,1%",
+    "Ação da Nvidia avançou 30% após a abertura",
+    "Analistas veem alta como técnica e seguem cautelosos com o setor de IA"
+   ],
+   "body": "Os mercados financeiros dos EUA dispararam nesta segunda-feira, com as ações de tecnologia se recuperando da forte liquidação de sexta-feira, que havia derrubado o S&P 500 e o Dow Jones para a zona de correção. A retomada veio depois que o conselho da Nvidia anunciou a volta de Jensen Huang como presidente e CEO, menos de duas semanas após sua renúncia. A ação da Nvidia subiu 30% depois da abertura.\n\nO Nasdaq saltou 6%, recuperando terreno depois de cair 1.261 pontos (5,3%) em 20 de novembro, seu segundo pior dia de 2026. O S&P 500 avançou 4,2% e o Dow Jones, 2,1%.\n\nMesmo assim, analistas dizem que os investidores seguem nervosos com a possibilidade de o setor de inteligência artificial estar se desfazendo. \"O sentimento continua bastante sombrio — a maioria vê essa alta como algo meramente técnico, uma reversão parcial de condições extremamente sobrevendidas\", escreveu Adam Crisafulli, da Vital Knowledge. Na sexta-feira, as quedas foram puxadas por temores de desaceleração na construção de data centers e de restrições mais duras à exportação de chips.",
+   "category": "eua",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
+   "published_at": "2026-11-23T10:06:24-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/0bccedb6-e6d9-406b-a46c-becfdde60cac/thumbnail/1200x630/cc2c29cdfd53edb250d6193c3c8b69b6/gettyimages-2305519677.jpg"
+  },
+  {
+   "id": "md23-eua-03",
+   "title": "Trump discursa a um Departamento de Justiça transformado por sua agenda",
+   "summary": "Trump faz nesta segunda-feira seu segundo discurso em menos de dois anos no Departamento de Justiça, órgão que passou a perseguir casos contra adversários do presidente. A Casa Branca diz que o tema será a proteção das famílias americanas.",
+   "highlights": [
+    "Discurso acontece no Grande Salão do prédio do departamento",
+    "Secretário de Justiça Todd Blanche, ex-advogado de Trump, estará ao lado dele",
+    "Democratas que assumem o Congresso podem abrir investigações sobre o órgão"
+   ],
+   "body": "O presidente Donald Trump deve discursar nesta segunda-feira no Departamento de Justiça, seu segundo pronunciamento em menos de dois anos numa agência que, segundo a AP, agiu de forma agressiva para cumprir a agenda da Casa Branca e abrir processos criminais contra adversários do presidente. A Casa Branca informou que a fala, no Grande Salão cerimonial do prédio, será sobre a proteção das famílias americanas.\n\nNão está claro até que ponto o evento servirá para Trump voltar a incentivar processos contra opositores políticos ou retomar antigas queixas contra um departamento que o investigou repetidas vezes na última década. A influência do presidente sobre o órgão é simbolizada por um banner com seu rosto pendurado na fachada do edifício, o que críticos veem como sinal da erosão da independência histórica da instituição.\n\nO discurso ocorre após as amplas derrotas republicanas nas eleições de meio de mandato, que deram aos democratas o controle do Congresso e abrem caminho para investigações sobre desde demissões em massa de agentes e promotores que investigaram Trump até casos politicamente carregados rejeitados por grandes júris e juízes. Trump estará acompanhado do secretário de Justiça Todd Blanche, seu ex-advogado de defesa pessoal.",
+   "category": "eua",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/politics/2026/11/23/trump-will-address-a-justice-department-transformed-by-his-pursuit-of-political-adversaries/",
+   "published_at": "2026-11-23T09:50:50-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/4ETTTK3UGKG5CA7JR3ABZ4P4I4.jpg?auth=49be255cc2f7914e4e07ed4ebf9d7c8203066f6e71c446c5522411a6cecdd4b4&width=700"
+  },
+  {
+   "id": "md23-eua-06",
+   "title": "Trem da Amtrak descarrila após bater em carreta na Louisiana",
+   "summary": "Um trem da Amtrak colidiu com uma carreta numa passagem de nível perto de Lafayette, na Louisiana, no domingo à noite, descarrilando a locomotiva e dois vagões de bagagem. Ao menos cinco passageiros tiveram ferimentos sem risco de morte.",
+   "highlights": [
+    "Trem Sunset Limited ia da Califórnia para Nova Orleans",
+    "Carreta transportava uma escavadeira",
+    "Havia 95 passageiros a bordo e os vagões ficaram de pé"
+   ],
+   "body": "Um trem da Amtrak bateu numa carreta numa passagem de nível no centro-sul da Louisiana no domingo à noite, descarrilando a locomotiva principal e dois vagões de bagagem e ferindo alguns passageiros. Ao menos cinco pessoas tiveram ferimentos que não colocam a vida em risco, segundo as autoridades.\n\nO trem era o Sunset Limited, que viajava da Califórnia para Nova Orleans. Ele colidiu com o caminhão de 18 rodas, que levava uma escavadeira, perto de Lafayette — cerca de 217 km a oeste de Nova Orleans — por volta das 18h15 no horário local. A Amtrak disse que \"todos os vagões de passageiros permaneceram de pé\" e que havia 95 clientes a bordo.\n\nA polícia de Lafayette informou que os ferimentos relatados eram leves e que alguns passageiros foram levados ao hospital. Os bombeiros disseram que equipes de materiais perigosos e resgate garantiram a segurança do local antes de ajudar os feridos e levar os demais passageiros, com suas bagagens, para um lugar seguro.",
    "category": "eua",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
-   "published_at": "2026-11-23T06:00:56-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/2ebec9cf556286a8031011ce464de8efbbfb1bfa/761_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c509b66e4077ef432fe406f3768a0b37"
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/amtrak-derailment-louisiana",
+   "published_at": "2026-11-23T09:32:40-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/1087d91a2299463a2187036d05af742504229e66/300_276_1155_924/master/1155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4aff9d8e156fa6ba388c322f0715e1ac"
   },
   {
-   "id": "mn23-eua-05",
-   "title": "Democratas planejam 12 debates para as prévias presidenciais de 2028",
-   "summary": "O Comitê Nacional Democrata anunciou nesta segunda-feira que fará uma dúzia de debates nas primárias presidenciais de 2028, com o primeiro em junho. O partido espera um campo lotado de pré-candidatos após o forte desempenho nas eleições de meio de mandato.",
+   "id": "md23-eua-05",
+   "title": "Passos rumo ao \"Medicare for All\" entram na agenda democrata",
+   "summary": "Ideias de saúde universal antes vistas como improváveis, como o Medicare for All de Bernie Sanders, ganharam espaço na agenda dos democratas para o novo Congresso. O partido planeja reverter cortes no Medicaid e retomar subsídios do Obamacare nos primeiros 100 dias.",
    "highlights": [
-    "Cada debate terá no máximo 20 candidatos, em duas noites se necessário",
-    "Cinco debates em 2027 e sete em 2028; o último em março de 2028",
-    "Critérios serão parecidos com os de 2020 e detalhados em janeiro"
+    "Jeffries propôs reduzir a idade do Medicare para abaixo de 65 anos",
+    "Plano inclui cobertura odontológica, de visão e aparelhos auditivos",
+    "Democratas assumem o comando em 3 de janeiro de 2027"
    ],
-   "body": "Os democratas planejam uma dúzia de debates nas primárias presidenciais para o que deve ser um campo lotado de candidatos em 2028, com o primeiro marcado para junho, anunciou o Comitê Nacional Democrata (DNC) nesta segunda-feira. O anúncio vem antes de grandes nomes lançarem campanha para suceder Donald Trump e após o partido virar Câmara e Senado nas eleições de meio de mandato.\n\n\"O DNC continua com o pé no acelerador rumo ao ciclo de 2028\", disse o presidente do comitê, Ken Martin. Prevendo muitos pré-candidatos, o DNC limitará cada debate a 20 participantes, divididos em duas noites se necessário. Os critérios serão semelhantes aos de 2020 e incluirão pesquisas e arrecadação de pequenos doadores.\n\nMais detalhes, como datas e locais, serão divulgados em janeiro. O partido já definiu que haverá cinco debates em 2027 e sete em 2028, com o último previsto para março de 2028.",
+   "body": "Ideias de saúde universal que antes pareciam improváveis — defendidas pelo senador Bernie Sanders com o Medicare for All — foram catapultadas para o centro da agenda democrata no novo Congresso, que começa em janeiro. Nos primeiros 100 dias, o partido planeja agir rápido para reverter cortes recentes no Medicaid, que ameaçam deixar milhões sem atendimento, e restabelecer benefícios fiscais para quem compra seguro pelo Affordable Care Act.\n\nMas os democratas têm metas bem mais ambiciosas ao assumir em 3 de janeiro de 2027. O líder Hakeem Jeffries, encaminhado para ser presidente da Câmara, anunciou num discurso pós-eleição a intenção de dar passos rumo ao Medicare for All, incluindo reduzir a idade de elegibilidade ao Medicare para menos de 65 anos, acrescentar cobertura odontológica, de visão e aparelhos auditivos e abrir o programa para crianças.\n\nSanders, que assume a presidência do comitê de saúde do Senado, apresentou sua própria proposta para partes do Medicare for All. Até o ex-presidente Barack Obama incentivou os democratas recém-eleitos a irem além do Obamacare, uma de suas principais realizações.",
    "category": "eua",
-   "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/politics/2026/11/23/democrats-plan-12-debates-for-their-2028-presidential-primary-with-the-first-in-june/",
-   "published_at": "2026-11-23T05:04:27-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/GOCKIVRPABJL7Q7RJFFL6OUQHM.jpg?auth=a2ba518dc5fa17a609e8b0f2fbd54623811b8f1cf681eb86008b17bedb2eee73&width=700"
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/business/2026/11/23/medicare-for-all-was-once-a-long-shot-now-steps-toward-it-are-part-of-the-democratic-agenda/",
+   "published_at": "2026-11-23T07:09:05-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/3QZ2RHUUYW5SALRWGNZBJ3OOWQ.jpg?auth=42de0ad8d896d854b39cda3126f654a0b5c6625c290ff24fec36fddac64401d0&width=700"
   },
   {
-   "id": "mn23-eua-03",
-   "title": "Exército planeja detonar explosivos instáveis em fábrica de Iowa na quarta",
-   "summary": "O Exército dos EUA disse que vai detonar na quarta-feira várias toneladas de explosivos instáveis numa fábrica de munições em Middletown, Iowa, apesar de uma ordem judicial que suspendeu a operação. A força alega que o risco de uma explosão espontânea justifica a medida.",
+   "id": "md23-eua-07",
+   "title": "Americanos culpam governo Trump por apagões de tecnologia",
+   "summary": "Depois da paralisação nacional de voos da FAA e das falhas nos serviços da Microsoft na semana passada, leitores do Guardian em todo o país relataram frustração. Muitos direcionam a raiva ao governo Trump e cobram mais transparência e responsabilização.",
    "highlights": [
-    "Exército invoca exceção emergencial à licença da EPA",
-    "Tribunal federal havia suspendido a detonação por tempo indeterminado",
-    "Moradores temem nuvem de poeira com chumbo em Iowa e Illinois"
+    "Instalação de um roteador causou sobrecarga na rede de telecomunicações da FAA",
+    "Troca de fios de cobre por fibra foi feita pela contratada L3Harris no Arkansas",
+    "Leitores questionam a falta de sistemas de backup"
    ],
-   "body": "O Exército dos EUA anunciou nas redes sociais, no domingo à noite, que pretende realizar na quarta-feira a detonação de várias toneladas de explosivos instáveis numa fábrica de munições em Iowa, \"para permitir condições climáticas ideais e a instalação de todas as medidas de mitigação\". Antes, em documento judicial, havia indicado que faria a operação até terça.\n\nA detonação está sendo planejada apesar de uma ordem da Justiça federal que a suspendeu indefinidamente. Em documentos apresentados no sábado, o Departamento do Exército disse que usará uma exceção emergencial para munições e explosivos prevista na licença da Agência de Proteção Ambiental (EPA), argumentando que uma detonação controlada protege o público de uma ameaça maior: uma explosão descontrolada.\n\nNa sexta-feira, o Tribunal de Apelações do 8º Circuito atendeu a um pedido emergencial de grupos ambientalistas e suspendeu o plano de detonar os explosivos com azida de chumbo na fábrica de Middletown, após protestos de moradores preocupados com partículas tóxicas de chumbo se espalhando numa nuvem de poeira por partes de Iowa e Illinois.",
+   "body": "A suspensão de todos os voos dos EUA pela FAA na semana passada, somada a falhas separadas nos serviços da Microsoft, causou transtornos generalizados no país. Embora voos e aplicativos já tenham voltado ao normal, leitores de todo o país compartilharam suas frustrações com o Guardian, e muitos culpam o governo Trump, questionando sua competência e pedindo mais responsabilização e transparência sobre os sistemas dos quais milhões dependem.\n\nMona Berrier, aposentada de 69 anos na Califórnia, questionou a falta de redundância depois que a instalação de um roteador — durante a troca de fios de cobre por cabos de fibra óptica feita pela contratada L3Harris no Arkansas — provocou uma sobrecarga de dados na infraestrutura de telecomunicações da FAA. \"Acho impossível acreditar que um único roteador colocou o país de joelhos. Não haveria redundância nem plano de contingência. É possível um governo funcionar assim?\", disse.\n\nBerrier contou que o episódio a deixou mais receosa de viajar e expressou uma desconfiança mais ampla em relação ao governo.",
    "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
-   "published_at": "2026-11-22T22:02:31-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/39d7c120-b690-4ce0-9c81-eccbc89fa495/thumbnail/1200x630/e1ae2c52059fd7042c3b4be247490eef/gettyimages-2305973751.jpg"
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/us-tech-outages-flights-microsoft",
+   "published_at": "2026-11-23T07:00:29-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/aa1b35e93c4a8effd14713a671f4238d890247a5/924_730_3248_2598/master/3248.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85a35d2d9f359acb86a5ce5c29a86ee5"
   },
   {
-   "id": "mn23-eua-10",
-   "title": "Morre Tom Jackson, ex-astro dos Broncos e comentarista da ESPN, aos 75 anos",
-   "summary": "Tom Jackson, ex-jogador do Denver Broncos que virou um dos comentaristas de NFL mais queridos da ESPN, morreu aos 75 anos, anunciaram a família e a emissora no domingo. Ele foi presença fixa nos programas de domingo da rede por três décadas.",
+   "id": "md23-mundo-01",
+   "title": "Captura de \"Chapo Isidro\" leva a novas prisões no México",
+   "summary": "O Exército mexicano prendeu oito supostos membros da quadrilha de Fausto Isidro Meza Flores, o \"Chapo Isidro\", após a onda de violência em Sinaloa que se seguiu à captura do chefão. Ele estava na lista dos mais procurados do FBI.",
    "highlights": [
-    "Morte ocorreu na sexta e foi anunciada no \"Sunday NFL Countdown\"",
-    "Família pediu que o anúncio fosse feito pelo amigo Chris Berman",
-    "Chefe da ESPN o chamou de uma das figuras mais influentes da história da rede"
+    "Chapo Isidro foi capturado na sexta em operação com inteligência dos EUA",
+    "Entre os presos há um menor que participou de bloqueios de estradas",
+    "Militares apreenderam armas e veículos blindados improvisados"
    ],
-   "body": "O ex-jogador e famoso comentarista Tom Jackson morreu aos 75 anos, anunciaram sua família e a ESPN no domingo. Jackson ganhou fama no Denver Broncos e depois construiu uma carreira como analista de NFL na ESPN, tornando-se figura central dos programas de domingo da emissora por três décadas, incluindo o \"Sunday NFL Countdown\".\n\nO presidente da ESPN, Jimmy Pitaro, o chamou de \"uma das figuras mais influentes e queridas da história da ESPN\", que unia \"a credibilidade de um jogador All-Pro, a visão de um analista talentoso e um carinho e autenticidade que conectaram gerações de fãs\". Ao lado de Chris Berman, ajudou a tornar o \"NFL Primetime\" um ícone dos fins de semana.\n\nA família informou à ESPN que ele morreu na sexta-feira, mas pediu que a notícia só fosse divulgada no início do \"Sunday NFL Countdown\", pelo amigo e parceiro de bancada Chris Berman.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/",
-   "published_at": "2026-11-22T21:19:17-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/9a7af6fd-990a-4e28-843c-e10c1b97229f/thumbnail/1200x630/9d85571e54e0f865650e6b2a57c3289e/ap26326563618912.jpg"
-  },
-  {
-   "id": "mn23-eua-02",
-   "title": "ICE prende pai e filha no embarque de voo em Seattle",
-   "summary": "Agentes mascarados de imigração prenderam dois passageiros na ponte de embarque de um voo da Alaska Airlines no aeroporto de Seattle-Tacoma, no sábado. A companhia chamou a cena de \"angustiante\" e o voo para Los Angeles atrasou mais de duas horas.",
-   "highlights": [
-    "DHS diz que os dois são mexicanos que ficaram além do prazo do visto",
-    "Filha é acusada de jogar café quente nos agentes",
-    "Parte da tripulação pediu para ser substituída; voo saiu às 11h03"
-   ],
-   "body": "Agentes mascarados do ICE prenderam dois passageiros numa ponte de embarque lotada no aeroporto internacional de Seattle-Tacoma no sábado, durante o movimentado fim de semana anterior ao Dia de Ação de Graças. Vídeos mostram agentes arrastando ao menos uma pessoa enquanto uma mulher gritava que sua filha estava sendo levada e que tinha permissão de trabalho. A Alaska Airlines disse que o ICE não avisou previamente sobre a ação e que reconhece o quanto o episódio foi angustiante para funcionários e passageiros.\n\nSegundo o Departamento de Segurança Interna (DHS), a operação mirava o mexicano Ricardo Larrondo Mendoza, que teria permanecido no país além do prazo do visto. Durante a prisão, uma segunda passageira, identificada como Sofia Hernandez Mejia, também mexicana com visto vencido, teria \"arremessado café quente\" nos agentes; ela foi presa e responderá por agressão a agente federal. Uma fonte do DHS disse à CBS que os dois são pai e filha.\n\nO voo 1306, previsto para as 8h45, só decolou às 11h03. A companhia informou que alguns tripulantes pediram para ser substituídos logo após o incidente e que, no fim, uma tripulação inteiramente nova foi chamada.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
-   "published_at": "2026-11-22T20:55:35-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/3a21ffe4-5d69-4a6e-8269-e58dcf41fb97/thumbnail/1200x630/2f7e4b1b76e50db5af7676e06647cccc/ap26325789842711.jpg"
-  },
-  {
-   "id": "mn23-eua-04",
-   "title": "Falha em sistema da Delta causa atrasos e cancelamentos em todo o país",
-   "summary": "Um problema de rede no sistema de bagagens da Delta Air Lines obrigou equipes a processar malas manualmente e provocou atrasos em todo o país no domingo, em pleno movimento de Ação de Graças. A empresa disse ter resolvido a falha, mas cancelou 202 voos.",
-   "highlights": [
-    "Atlanta, principal hub da Delta, teve programa de atraso em solo",
-    "Só 50% dos voos chegaram no horário no domingo",
-    "Delta oferece remarcação, refeições, hotel e reembolso"
-   ],
-   "body": "Uma falha de rede no sistema de bagagens da Delta Air Lines, que obrigou as equipes a processar malas manualmente, causou atrasos em todo o país durante o movimentado fim de semana de feriado. A companhia informou no domingo que a automação dos cálculos de peso e balanceamento dos voos voltou a funcionar, horas depois de um programa temporário de atraso em solo ser imposto no aeroporto de Hartsfield-Jackson, em Atlanta, seu principal hub.\n\n\"A Delta pede desculpas aos clientes pelo atraso em suas viagens hoje\", disse a empresa, que está remarcando passageiros, oferecendo refeições e hotel quando necessário e reembolso a quem teve voo cancelado e desistiu de viajar. Até a noite de domingo, a Delta havia cancelado 202 voos partindo dos EUA, cerca de 4% do total do dia, e apenas 50% dos voos chegaram no horário — índice muito abaixo dos mais de 80% habituais da companhia.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/",
-   "published_at": "2026-11-22T20:50:57-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/9a77fc21-028e-404f-937f-1c0ccf31d5f9/thumbnail/1200x630/303e45e52332ff21e17bb41f611e2e7f/gettyimages-2267588939.jpg"
-  },
-  {
-   "id": "mn23-eua-01",
-   "title": "Democratas atingem maior maioria na Câmara desde 1992",
-   "summary": "Os democratas garantiram no domingo sua 258ª cadeira na Câmara dos EUA, a maior maioria conquistada por um partido numa eleição geral em três décadas. A marca veio com a vitória de Chuck Hubbard sobre a republicana Virginia Foxx na Carolina do Norte, após recontagem.",
-   "highlights": [
-    "Democratas ganharam 44 cadeiras, quatro a mais que em 2018",
-    "Hubbard venceu Foxx por 330 votos após recontagem",
-    "Republicanos terão ao menos 173 cadeiras; quatro disputas seguem abertas"
-   ],
-   "body": "Os democratas conquistaram no domingo sua 258ª cadeira na Câmara dos Representantes, a maior maioria obtida por qualquer partido na casa numa eleição geral em três décadas. O partido ganhou 44 cadeiras até agora, quatro a mais que as 40 conquistadas na primeira eleição de meio de mandato de Trump, em 2018 — uma onda não vista desde 1992.\n\nA marca foi alcançada depois que o democrata Chuck Hubbard derrotou a deputada republicana Virginia Foxx na Carolina do Norte, por 330 votos após recontagem, segundo o conselho eleitoral do estado. \"Os democratas da Câmara acabam de garantir a maior maioria que qualquer partido teve no Congresso neste século\", escreveu o líder democrata Hakeem Jeffries no X. Ainda há quatro disputas abertas: uma em Minnesota, uma no Tennessee e duas na Louisiana, que vão a segundo turno em dezembro.\n\nOs republicanos terão ao menos 173 cadeiras. Com o Senado também em mãos democratas e um republicano na Casa Branca, o governo será dividido; os democratas preparam uma agenda de 100 dias focada no custo de vida e um amplo programa de fiscalização do governo Trump.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/",
-   "published_at": "2026-11-22T17:13:32-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/22/03b8fd71-baa1-4458-a305-2e37bc15a2e1/thumbnail/1200x630/cfdcad81f8163558b3404d37f9f967b1/gettyimages-2304238022.jpg"
-  },
-  {
-   "id": "mn23-eua-09",
-   "title": "Nove pessoas são baleadas em show na Califórnia central",
-   "summary": "Nove pessoas foram baleadas num show com cerca de 150 pessoas em Strathmore, no condado de Tulare, na Califórnia, no sábado à noite. Um homem de 26 anos está em estado crítico e ninguém foi preso.",
-   "highlights": [
-    "Atiradores abriram fogo contra a plateia por volta das 19h30",
-    "Polícia acredita que ataque \"pode ter ligação com gangues\"",
-    "Três vítimas precisaram de cirurgia; seis tiveram ferimentos leves"
-   ],
-   "body": "Nove pessoas foram baleadas num show na região central da Califórnia, e uma delas está em estado crítico com ferimento no peito, informou o xerife local no domingo. Os disparos começaram por volta das 19h30 de sábado num evento com cerca de 150 pessoas em Strathmore, cidade de cerca de 3 mil habitantes no condado de Tulare. Um número não especificado de suspeitos atirou contra o público, e nenhuma prisão foi anunciada.\n\nUm homem de 26 anos baleado no peito passou por cirurgia e continua em estado crítico; duas vítimas de 19 e 22 anos também foram operadas, e seis tiveram ferimentos leves. As autoridades acreditam que o ataque \"pode ter ligação com gangues\", mas não deram detalhes, e disseram não haver mais ameaça imediata ao público.",
-   "category": "eua",
-   "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/2026/11/22/9-people-shot-at-a-central-california-concert-1-in-critical-condition/",
-   "published_at": "2026-11-22T16:16:05-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/M44RFAW4HRR6NJ5KJJVB6ABT2Y.jpg?auth=c6cdc1d0553c952fac81fd44c3c0b71c3e7b90bf80549e5673bae49c749c61f7&width=700"
-  },
-  {
-   "id": "mn23-eua-08",
-   "title": "Tribunal de apelações declara inconstitucional lei de proteção a grávidas no trabalho",
-   "summary": "O 5º Circuito de Apelações, em Nova Orleans, derrubou por 9 a 8 a Lei de Equidade para Trabalhadoras Grávidas, que exige adaptações no trabalho para gestantes. O tribunal entendeu que a lei foi aprovada sem quórum presencial na Câmara em 2022.",
-   "highlights": [
-    "Decisão invalida a lei no Texas, Louisiana e Mississippi, segundo defensores",
-    "Votação de 2022 usou procuração da era da Covid",
-    "Grupo A Better Balance deve recorrer à Suprema Corte"
-   ],
-   "body": "Um tribunal federal de apelações derrubou a lei que obriga empregadores a oferecer adaptações a trabalhadoras grávidas, afirmando que o Congresso violou a Constituição ao aprová-la em 2022. A decisão do 5º Circuito, com sede em Nova Orleans, foi tomada por 9 votos a 8 na sexta-feira.\n\nSegundo o tribunal, a Lei de Equidade para Trabalhadoras Grávidas é inconstitucional porque a maioria dos deputados não estava fisicamente presente quando ela foi aprovada, dentro de um pacote de gastos em dezembro de 2022, sob regras da pandemia que permitiam voto por procuração. \"'Presença por procuração' não conta\", escreveram os juízes. Defensores da lei dizem que a decisão a invalida no Texas, Louisiana e Mississippi e pode ameaçá-la em outros estados.\n\nO grupo A Better Balance, que liderou a aprovação da lei, disse que a decisão provavelmente será levada à Suprema Corte. Sua presidente, Inimai Chettiar, classificou o julgamento como \"juridicamente frágil e míope\".",
-   "category": "eua",
-   "source": "Local 10 / AP",
-   "url": "https://www.local10.com/business/2026/11/22/appeals-court-says-federal-law-requiring-accommodations-for-pregnant-workers-is-unconstitutional/",
-   "published_at": "2026-11-22T14:44:32-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/PCI4T2YL27QQ5NFIIFCTMERAPM.jpg?auth=1687faae163d0e57eb249df2b98ce670aaf141bcd25764ddcfec0d24b5381753&width=700"
-  },
-  {
-   "id": "mn23-eua-07",
-   "title": "Bessent diz que governo \"precisa de respostas\" da Nvidia sobre chips para a China",
-   "summary": "O secretário do Tesouro, Scott Bessent, disse no \"Face the Nation\" que o governo ainda não recebeu da Nvidia as respostas sobre o cumprimento das restrições de exportação de chips de IA para a China. Ele defendeu que a empresa traga alguém de fora para comandá-la.",
-   "highlights": [
-    "Jensen Huang renunciou após revelações de casos extraconjugais, um deles com suposta espiã",
-    "Bessent havia dado prazo de 10 dias para a Nvidia responder",
-    "CFO Colette Kress assumiu o comando interinamente"
-   ],
-   "body": "O secretário do Tesouro, Scott Bessent, afirmou no domingo que o governo precisa de respostas da Nvidia sobre o cumprimento das restrições de exportação, em meio à crise na fabricante de chips. \"Precisamos de respostas\", disse ele ao programa \"Face the Nation\". Depois que Jensen Huang renunciou ao cargo de CEO em meio a revelações de casos extraconjugais — um deles com uma suposta espiã —, os EUA investigam como a Nvidia pode ter dado à China acesso a chips avançados de IA.\n\nNa semana passada, Bessent mencionou uma possível \"cultura de descumprimento\" na empresa e deu prazo de 10 dias para explicações. No domingo, disse que elas ainda não chegaram: \"Estamos em contato com a gestão temporária, os diretores principais e os advogados. É do interesse da Nvidia agir rápido, porque queremos saber qual era a cultura\".\n\nA diretora financeira, Colette Kress, assumiu o comando após a saída de Huang, mas Bessent tem defendido que a empresa traga alguém de fora. \"Precisamos ver quem era o responsável pela conformidade\", afirmou.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/",
-   "published_at": "2026-11-22T13:48:39-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/c9086ee4-e943-463e-a513-2f52fbb7e081/thumbnail/1200x630/e9361894e48a17663bd5b9e09b4bf86a/cbsn-fusion-bessent-says-trump-administration-has-been-in-touch-with-nvidia-leadership-but-still-needs-answers-thumbnail.jpg"
-  },
-  {
-   "id": "mn23-mundo-03",
-   "title": "Irã promete acabar com bloqueio naval dos EUA \"por todos os meios\"",
-   "summary": "O Irã disse nesta segunda-feira que usará todos os meios à sua disposição para combater o bloqueio naval imposto pelos EUA em retaliação à tentativa iraniana de fechar o Estreito de Hormuz. Teerã afirma que o estreito poderia reabrir em dois dias se Washington aceitar suas exigências.",
-   "highlights": [
-    "Porta-voz Esmaeil Baqaei: \"não vamos tolerar essas ações\"",
-    "EUA impuseram contrabloqueio a portos iranianos e novas sanções",
-    "Hormuz é vital para o abastecimento global de energia"
-   ],
-   "body": "O Irã afirmou nesta segunda-feira que usará todos os meios à sua disposição para enfrentar o bloqueio naval americano, imposto em retaliação ao esforço iraniano de bloquear o Estreito de Hormuz. \"Certamente não vamos tolerar essas ações e usaremos todos os meios disponíveis para combater a agressão dos EUA\", disse o porta-voz da chancelaria, Esmaeil Baqaei, em sua entrevista semanal.\n\nLogo após o início da guerra, o Estreito de Hormuz, vital para o abastecimento global de energia, tornou-se o foco do conflito. Em resposta ao bloqueio iraniano, os EUA impuseram um contrabloqueio aos portos do Irã e anunciaram uma série de sanções econômicas. Teerã diz que o estreito poderia ser reaberto em dois dias, mas apenas se Washington aceitar sua lista de exigências, que inclui o fim do bloqueio.",
+   "body": "Oito supostos membros de uma quadrilha liderada por Fausto Isidro Meza Flores foram presos, informou o Ministério da Defesa do México no domingo, depois que uma onda de violência tomou o estado de Sinaloa após a captura do narcotraficante. Meza Flores, conhecido como \"Chapo Isidro\", foi capturado na sexta-feira numa operação de forças especiais coordenada com a inteligência dos EUA, que provocou pânico em Guasave, com civis fugindo de tiroteios.\n\nAs novas prisões ocorreram durante uma patrulha de forças especiais que \"foi alvo de disparos de membros de um grupo criminoso\" ligado a Chapo Isidro, segundo o ministério. Entre os oito presos da organização Beltrán Leyva há um menor que participou dos bloqueios de 20 de novembro. Os militares também apreenderam armas de alto calibre e seis veículos, dois deles com blindagem improvisada e torre para metralhadoras.\n\nChapo Isidro, de 44 anos, comandava uma organização de tráfico afiliada ao grupo Beltrán Leyva.",
    "category": "mundo",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-   "published_at": "2026-11-23T06:30:37-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg"
+   "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
+   "published_at": "2026-11-23T10:18:20-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/8d3a216a-b007-41d4-aaae-5e0e35a67dc5/thumbnail/1200x630/fbef4429daf27728001ed33722ff5bf7/mexico-screenshot-2026-11-23-093551.png"
   },
   {
-   "id": "mn23-mundo-07",
-   "title": "Greve contra austeridade paralisa voos e trens na Bélgica",
-   "summary": "Centenas de voos foram cancelados e trens e metrô foram suspensos na Bélgica nesta segunda-feira por uma greve contra medidas de austeridade. O aeroporto de Bruxelas não recebe passageiros até as 21h, e mais de 50 mil viajantes foram afetados.",
+   "id": "md23-mundo-04",
+   "title": "Escolas da Alemanha e da Dinamarca recebem ameaças de bomba",
+   "summary": "A polícia investiga ameaças de bomba enviadas por e-mail a escolas da Alemanha e da Dinamarca, incluindo em Berlim e Copenhague. As autoridades alemãs concluíram que as ameaças não representam \"perigo concreto\".",
    "highlights": [
-    "Controladores de voo pararam em Zaventem e Charleroi",
-    "Premiê Bart De Wever ainda não fechou orçamento com aliados",
-    "Grande marcha de protesto é esperada em Bruxelas"
+    "Cerca de 450 escolas foram afetadas na Alemanha",
+    "E-mails quase idênticos afirmam ter colocado explosivos",
+    "Onda segue ameaças falsas enviadas a escolas da Europa no início do mês"
    ],
-   "body": "Centenas de voos foram cancelados e os serviços de trem foram gravemente afetados em toda a Bélgica nesta segunda-feira por causa de uma greve contra medidas de austeridade planejadas. Todo o tráfego aéreo foi suspenso no aeroporto de Zaventem, em Bruxelas, e em Charleroi, base de empresas de baixo custo como a Ryanair; trens e metrô também pararam na capital, onde se espera uma grande marcha de protesto.\n\nNenhum voo decola ou pousa em Bruxelas entre 7h e 21h no horário local por causa da greve dos controladores de tráfego aéreo, e mais de 50 mil viajantes tiveram planos afetados, com mais transtornos previstos para a noite e a terça-feira.\n\nO protesto ocorre enquanto o primeiro-ministro Bart De Wever não consegue fechar com os parceiros de coalizão um orçamento de cortes de gastos. O rei Philippe recusou seu pedido de demissão no início do mês, dando-lhe mais tempo para negociar.",
-   "category": "mundo",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
-   "published_at": "2026-11-23T06:26:12-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "id": "mn23-mundo-01",
-   "title": "Zelensky diz que drones ucranianos afundaram navio de guerra russo na Líbia",
-   "summary": "O presidente ucraniano Volodymyr Zelensky afirmou que a Ucrânia usou sete drones navais para afundar a corveta russa Merkury perto da costa da Líbia no domingo. Forças ucranianas também atingiram o cargueiro russo MV Angara, sancionado por transportar armas.",
-   "highlights": [
-    "Ataque também destruiu um helicóptero militar Ka-27, segundo Zelensky",
-    "Merkury foi comissionada em 2023, durante a invasão",
-    "Outro cargueiro ligado à Rússia pegou fogo no Golfo da Finlândia"
-   ],
-   "body": "O presidente da Ucrânia, Volodymyr Zelensky, disse que seu país esteve por trás do ataque a um navio de guerra russo na costa da Líbia no domingo, afirmando que drones navais ucranianos afundaram a embarcação. Segundo ele, sete drones de fabricação nacional foram usados para afundar a corveta Merkury, um dos navios mais novos da Rússia, comissionado em 2023, e um helicóptero militar Ka-27 foi destruído. \"Respondemos à agressão da Rússia\", escreveu.\n\nForças ucranianas também atingiram no domingo o cargueiro russo MV Angara, que segundo Zelensky era usado por Moscou para transportar armas e está sob sanções dos EUA e internacionais. No sábado, outro cargueiro ligado à Rússia, o Sparta II, foi atingido por drones no Golfo da Finlândia e pegou fogo; Kiev não confirmou nem negou envolvimento, mas os militares finlandeses disseram que provavelmente foi um ataque ucraniano. Toda a tripulação foi resgatada.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
-   "published_at": "2026-11-23T06:15:11-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/cddcf89c-30d3-466a-aa34-bf3d623dbc48/thumbnail/1200x630/188c817cd5519ea6327fd31141954c15/2026-11-22t195244z-1832180370-rc2ysoaiuqgm-rtrmadp-3-libya-port-explosion.jpg"
-  },
-  {
-   "id": "mn23-mundo-04",
-   "title": "Ataques russos matam ao menos 15 na região de Kiev",
-   "summary": "Ao menos 15 pessoas morreram em ataques russos na região de Kiev, incluindo 11 num prédio residencial parcialmente desabado em Dymer. Equipes de resgate procuram 11 pessoas, entre elas duas crianças, sob os escombros.",
-   "highlights": [
-    "Prédio de cinco andares foi atingido em Dymer, 45 km ao norte de Kiev",
-    "Ataque a supermercado em Vyshneve matou três e feriu 15",
-    "Putin havia prometido resposta \"dolorosa\" a ataques ucranianos"
-   ],
-   "body": "Socorristas na Ucrânia correm para encontrar moradores presos sob os escombros de um prédio parcialmente desabado após ataques russos à região de Kiev que mataram ao menos 15 pessoas, dias depois de o presidente russo Vladimir Putin prometer uma resposta \"dolorosa\" a ataques ucranianos. Moscou vem bombardeando a Ucrânia com drones e mísseis todas as noites, enquanto o país se prepara para mais um inverno de guerra.\n\nUm ataque noturno a Dymer, cerca de 45 km ao norte da capital, atingiu um prédio de cinco andares e matou ao menos 11 pessoas, incluindo um adolescente, segundo autoridades regionais. O Serviço de Emergência procura 11 pessoas, entre elas duas crianças; uma mulher de 79 anos e uma criança foram retiradas com vida.\n\nEm Vyshneve, ao sul de Kiev, um ataque russo a um supermercado matou outras três pessoas e feriu 15, incluindo três crianças, informou o prefeito Illya Dikov.",
+   "body": "A polícia investiga ameaças de bomba feitas contra escolas na Alemanha e na Dinamarca, com unidades de Berlim e Copenhague entre os alvos, informaram as autoridades nesta segunda-feira. Os avisos chegaram por e-mail, depois de uma onda de ameaças semelhantes em toda a Europa no início de novembro.\n\nAlém da capital, a polícia alemã disse que escolas nos estados de Baden-Württemberg, Turíngia, Saxônia-Anhalt e Renânia-Palatinado estão entre as 450 afetadas no país. Os investigadores concluíram rapidamente que as ameaças não representavam \"perigo concreto\" e \"não eram sérias\".\n\nAutoridades da Turíngia orientaram as escolas a funcionar normalmente, já que a intenção aparente dos autores era assustar sem agir. Segundo a polícia da Renânia-Palatinado, os e-mails \"em grande parte idênticos\" eram anônimos e afirmavam ter colocado explosivos nos prédios.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine",
-   "published_at": "2026-11-23T04:34:25-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T075010Z_1397359685_RC2JTOA0Y61N_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1795420311.jpg?resize=1200%2C630"
+   "url": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark",
+   "published_at": "2026-11-23T10:07:59-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2291273026-1795436194.jpg?resize=1920%2C1440"
   },
   {
-   "id": "mn23-mundo-06",
-   "title": "Quênia e RD Congo concordam em restabelecer relações diplomáticas",
-   "summary": "Os presidentes do Quênia, William Ruto, e da República Democrática do Congo, Félix Tshisekedi, concordaram em restabelecer plenamente as relações diplomáticas, abaladas desde 2023 pelo conflito no leste congolês. O acordo saiu de uma cúpula em Oyo, no Congo-Brazzaville.",
+   "id": "md23-mundo-08",
+   "title": "Premiê do Canadá faz piada com Trump ao lado de imitador",
+   "summary": "O primeiro-ministro canadense Mark Carney dividiu o palco com um falso Donald Trump no tradicional jantar da imprensa parlamentar, em Ottawa. O evento é a versão canadense dos \"roasts\" políticos de Washington.",
    "highlights": [
-    "RD Congo acusou o Quênia de abrigar líderes de aliança rebelde que inclui o M23",
-    "Kinshasa havia chamado de volta seu embaixador em Nairóbi",
-    "Encontro foi mediado pelo presidente do Togo"
+    "Humorista Mark Critch imitou Trump e seu aperto de mão",
+    "Carney brincou com a reforma dourada do Salão Oval",
+    "Piada do opositor Poilievre sobre Katy Perry gerou críticas"
    ],
-   "body": "O presidente do Quênia, William Ruto, e o da República Democrática do Congo, Félix Tshisekedi, concordaram em restaurar plenamente as relações diplomáticas entre os dois países, após tensões ligadas ao conflito no leste congolês. As relações azedaram em 2023, quando a RD Congo acusou o Quênia de abrigar líderes que lançavam uma aliança rebelde, incluindo o M23, e chamou de volta seu enviado a Nairóbi; depois, Kinshasa se recusou a credenciar o embaixador indicado pelo Quênia.\n\nNo domingo, os dois líderes reafirmaram o compromisso com \"soberania, integridade territorial e não interferência nos assuntos internos\", em comunicado conjunto após cúpula na cidade de Oyo, no Congo-Brazzaville, organizada pelo presidente Denis Sassou Nguesso e mediada pelo togolês Faure Gnassingbé. Ambos também prometeram \"boa vizinhança e solução pacífica de disputas\".",
+   "body": "O primeiro-ministro do Canadá, Mark Carney, dividiu o palco com um Donald Trump falso e com outra versão de si mesmo no fim de semana, recrutando humoristas para zombar do presidente americano e de políticos canadenses no jantar anual com jornalistas. \"Estou apertando o botão de comédia de emergência\", disse Carney no sábado, quando o humorista Mark McKinney apareceu imitando o premiê, seguido de Mark Critch no papel de Trump, que recriou o famoso aperto de mão vigoroso do presidente.\n\nCarney também brincou com a reforma luxuosa do Salão Oval: \"Esta plateia é difícil. E eu já estive no Salão Oval. Sozinho. Com seu novo decorador de interiores.\" Desde que voltou à Casa Branca, Trump encheu o Salão Oval de detalhes dourados e retratos.\n\nO jantar da Galeria de Imprensa Parlamentar é a versão canadense dos roasts políticos de Washington. O líder conservador Pierre Poilievre fez uma piada sobre o relacionamento do ex-premiê Justin Trudeau com a cantora Katy Perry que foi criticada nas redes como sexista.",
+   "category": "mundo",
+   "source": "Local 10 (AP)",
+   "url": "https://www.local10.com/news/politics/2026/11/23/canadas-prime-minister-roasts-trump-with-help-from-a-trump-impersonator/",
+   "published_at": "2026-11-23T09:33:50-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/M2J4J5JKIEE6FTOVPOJE7C6UIA.jpg?auth=a23745d149a5b2c39cf3cec4d83d03d41eabb805864e3db0b5844ab1c3e8e075&width=700"
+  },
+  {
+   "id": "md23-mundo-05",
+   "title": "Presidente da Nigéria diz que até o palácio sofre falta de água e luz",
+   "summary": "O presidente nigeriano Bola Tinubu contou que o palácio presidencial, Aso Rock, sofre cortes de eletricidade e água, problemas comuns para a população. Candidato à reeleição em janeiro, ele prometeu resolver a questão.",
+   "highlights": [
+    "Tinubu disse que a água acabou enquanto ele se barbeava",
+    "Declaração foi feita num culto em sua homenagem em Lagos",
+    "Orçamento do ano passado previu minirrede solar para o palácio"
+   ],
+   "body": "O presidente da Nigéria, Bola Tinubu, disse que a residência presidencial sofre com cortes de eletricidade e de água, problemas muito comuns para os cidadãos do país. Ele contou que estava se barbeando na semana passada quando o abastecimento de água foi interrompido no palácio, conhecido como Aso Rock, em Abuja.\n\nA revelação foi feita no domingo, num culto especial organizado por familiares em sua homenagem em Lagos. \"Sem luz, sem água, sem eletricidade, sem desenvolvimento. Estamos apenas começando. Nós podemos e vamos fazer isso pela Nigéria\", afirmou Tinubu, que disputa a reeleição em janeiro e prometeu corrigir os problemas.\n\nO Aso Villa funciona como escritório e residência oficial do presidente. No ano passado, o orçamento destinou 10 bilhões de nairas (cerca de US$ 7,2 milhões) para instalar uma minirrede solar no palácio, como parte dos esforços para enfrentar contas de luz altas e o fornecimento instável.",
    "category": "mundo",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro",
-   "published_at": "2026-11-23T03:53:01-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1f/live/ec9cfdb0-e71f-11f1-914b-6d226d813a52.jpg"
+   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
+   "published_at": "2026-11-23T09:26:33-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
   },
   {
-   "id": "mn23-mundo-09",
-   "title": "Alcaraz vence Zverev e conquista seu primeiro ATP Finals",
-   "summary": "Carlos Alcaraz derrotou o número 1 do mundo, Alexander Zverev, por 6/2 e 7/6 (9-7) no domingo e conquistou pela primeira vez o ATP Finals. O espanhol de 23 anos entrou para um grupo de apenas quatro homens que venceram os quatro Grand Slams e o torneio de fim de ano.",
+   "id": "md23-mundo-06",
+   "title": "Morte de Ian Huntley na prisão foi planejada por semanas, diz acusação",
+   "summary": "O assassino de Soham, Ian Huntley, foi morto por outro detento com uma barra de metal num ataque \"a sangue-frio\" planejado semanas antes, ouviu um tribunal inglês. Anthony Russell, de 44 anos, é julgado pelo crime.",
    "highlights": [
-    "Alcaraz salvou três set points no tie-break",
-    "Foi sua 14ª vitória seguida e terceiro título consecutivo, após Viena e Paris",
-    "Desde as quartas do US Open, soma quatro títulos e campanha de 22-1"
+    "Ataque ocorreu em fevereiro na prisão de segurança máxima HMP Frankland",
+    "Huntley matou Holly Wells e Jessica Chapman em 2002",
+    "Russell já cumpria prisão perpétua por homicídios"
    ],
-   "body": "O heptacampeão de Grand Slam Carlos Alcaraz superou o número 1 do mundo, Alexander Zverev, por 6/2 e 7/6 (9-7) no domingo e conquistou seu primeiro título do ATP Finals. O espanhol, que voltou no US Open após quatro meses parado por lesão no punho, salvou três set points no tie-break e fechou o ano com a 14ª vitória seguida e o terceiro título consecutivo, depois de Viena e Paris.\n\nAos 23 anos, o mais jovem homem a completar o Grand Slam de carreira garantiu o grande título que lhe faltava, depois de ter sido vice no ano passado. Desde a derrota nas quartas de final do US Open de 2026, ganhou quatro títulos, com 22 vitórias e uma derrota. \"Foi uma semana incrível. Não poderia ter terminado de forma melhor\", disse.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis",
-   "published_at": "2026-11-23T01:15:40-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306383717-1795412365.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mn23-mundo-05",
-   "title": "Incêndio em fábrica de doces na Indonésia deixa 24 mortos",
-   "summary": "A Indonésia confirmou 24 mortes num incêndio numa fábrica de doces em Cikande, na província de Banten, cerca de 50 km a oeste de Jacarta. Cerca de 30 pessoas seguem desaparecidas e vítimas precisarão ser identificadas por DNA.",
-   "highlights": [
-    "Fogo começou no sábado na fábrica da PT Fonusa Agung Mulia",
-    "Relatos preliminares apontam curto-circuito em ar-condicionado",
-    "Governo vai convocar o presidente da empresa"
-   ],
-   "body": "A Indonésia confirmou a morte de 24 pessoas num incêndio que destruiu uma fábrica, enquanto equipes de resgate enfrentam estruturas instáveis para procurar cerca de 30 desaparecidos. O fogo começou no sábado na fábrica de doces PT Fonusa Agung Mulia, em Cikande, província de Banten, a cerca de 50 km de Jacarta; a causa ainda é investigada.\n\nSaid Iqbal, assessor presidencial para questões trabalhistas, disse que a aplicação dos protocolos de segurança está sendo avaliada e que convocará o presidente da empresa. Relatos preliminares indicam que o incêndio pode ter sido causado por um curto-circuito num ar-condicionado. A fábrica pertence à United Family Food, que não comentou.\n\nComo o estado dos corpos impede a identificação visual, as autoridades pediram às famílias amostras de DNA e outras informações para identificar as vítimas.",
+   "body": "Um preso matou Ian Huntley, o assassino de Soham, com uma pesada barra de metal num ataque \"a sangue-frio\" planejado semanas antes, ouviu o tribunal da coroa de Newcastle. Segundo a acusação, Anthony Russell, de 44 anos, golpeou repetidamente a cabeça de Huntley, de 52, na prisão de segurança máxima HMP Frankland, perto de Durham, pouco depois das 9h de 26 de fevereiro de 2026.\n\nO promotor Matthew Bean disse aos jurados que eles talvez não sintam simpatia por Huntley, que assassinou as meninas Holly Wells e Jessica Chapman em 2002, mas que o caso não trata de seus \"atos terríveis\", e sim da forma como ele morreu.\n\nOs dois homens cumpriam prisão perpétua por homicídio na época. Segundo a acusação, Russell já havia sido condenado pelo assassinato de três pessoas.",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-   "published_at": "2026-11-23T00:45:12-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/47cbe1be874ceb93fbcf458afaae7d1de459017b/308_0_3265_2613/master/3265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccbedc62b08fd9bb084717bcd608df50"
+   "url": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
+   "published_at": "2026-11-23T09:19:44-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/066d49301bbbb46ab73a98865546253b13defbda/0_87_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19d9bf6d13e7a0f118f1db8e123a71ed"
   },
   {
-   "id": "mn23-mundo-08",
-   "title": "Relatório aponta que destruição de Gaza criou \"terra devastada tóxica\"",
-   "summary": "Relatório da Oxfam e do Observatório de Conflito e Meio Ambiente (Ceobs) afirma que a ofensiva israelense deixou água envenenada, solo contaminado e ar tóxico em toda a Faixa de Gaza. Os riscos à saúde podem durar gerações.",
+   "id": "md23-mundo-07",
+   "title": "Vinte estudantes de Gaza partem para a Irlanda após vencer batalha por vistos",
+   "summary": "Vinte estudantes de Gaza devem viajar à Irlanda para assumir bolsas em universidades, depois de uma campanha de quatro meses contra a recusa de vistos pelo governo irlandês. O primeiro grupo deve chegar a Dublin na terça-feira.",
    "highlights": [
-    "Metais pesados, resíduos de explosivos, amianto e esgoto contaminam a região",
-    "Oxfam fala em \"crimes ambientais de guerra\"",
-    "Ofensiva matou mais de 74 mil palestinos, segundo o texto"
+    "Departamento de Justiça havia negado vistos a mais de 60 estudantes",
+    "Governo recuou após decisão da Alta Corte de Dublin; 48 vistos aprovados",
+    "Grupo sai de Gaza sob controle israelense e passa pela Jordânia"
    ],
-   "body": "A destruição de Gaza por Israel deixou um legado ambiental devastador, com água envenenada, solo contaminado e ar tóxico ameaçando os sistemas dos quais a população depende para sobreviver, segundo relatório da Oxfam e do Conflict and Environment Observatory (Ceobs). O estudo aponta contaminação generalizada em toda a faixa, com metais pesados, resíduos de explosivos, amianto de prédios destruídos e esgoto.\n\nO diretor-executivo da Oxfam International, Amitabh Behar, disse que os ataques ao meio ambiente de Gaza são \"crimes ambientais de guerra\" e que os palestinos estão expostos a toxinas pelo ar, comida, água e contato com solo e escombros, riscos que persistirão por gerações sem limpeza e recuperação.\n\nSegundo o Guardian, a ofensiva israelense matou mais de 74 mil palestinos e feriu ao menos 175 mil. Uma comissão independente da ONU concluiu que Israel cometeu genocídio em Gaza; a missão israelense em Genebra rejeitou as conclusões, chamando-as de \"farsa difamatória\".",
+   "body": "Vinte estudantes de Gaza vão viajar à Irlanda para assumir bolsas de estudo, depois de vencer uma disputa por vistos que abalou a reputação do governo irlandês como defensor dos palestinos. O grupo deve deixar o território nesta segunda-feira sob rígido controle israelense e seguir pela Jordânia até Dublin; outro grupo deve vir no fim de dezembro.\n\nA saída ocorre após quatro meses de campanha para reverter a decisão do Departamento de Justiça irlandês de negar vistos a mais de 60 estudantes de Gaza que haviam recebido bolsas no país. A medida irritou políticos da oposição, que acusaram o departamento de trair a tradição de solidariedade da Irlanda com os palestinos. O governo recuou na semana passada, depois que a Alta Corte de Dublin mandou reconsiderar a decisão, e o ministro da Justiça, Jim O'Callaghan, aprovou 48 vistos.\n\n\"É uma mistura de sentimentos que ainda não consigo descrever\", disse Amir Alareer, 26 anos, que vai estudar cibersegurança e inteligência artificial na University College Dublin.",
    "category": "mundo",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
-   "published_at": "2026-11-22T23:00:45-05:00",
-   "image_url": "https://i.guim.co.uk/img/media/3f84cee4d3a31ab236a50a7d425bc2b6fc6b6fe8/237_0_2475_1980/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc45482dada91d8db094017e4cadcacb"
+   "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
+   "published_at": "2026-11-23T08:03:14-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/2cd7a8a0d8da2334980fddc1373a18d21e480cf7/913_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b31c480eb5e0809a8170c67f5338a44"
   },
   {
-   "id": "mn23-mundo-02",
-   "title": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
-   "summary": "A conferência do clima da ONU, a COP31, terminou no domingo em Antália, na Turquia, sem acordo final, após o colapso das negociações entre países que querem eliminar os combustíveis fósseis e os que se opõem. Foi a COP mais longa da história.",
+   "id": "md23-mundo-02",
+   "title": "Show de Don Toliver em Manchester é evacuado por substância misteriosa",
+   "summary": "Mais de 12 mil pessoas foram retiradas da arena Co-op Live, em Manchester, no domingo à noite, depois que um cheiro forte se espalhou e o público começou a tossir e engasgar. Há especulação de que fosse gás lacrimogêneo, mas as autoridades não confirmaram.",
    "highlights": [
-    "Guterres disse estar \"profundamente decepcionado\"",
-    "UE rejeitou rascunho que nem mencionava combustíveis fósseis",
-    "EUA não enviaram delegação pelo segundo ano seguido"
+    "Polícia declarou incidente grave",
+    "Uma pessoa foi hospitalizada e dezenas foram avaliadas",
+    "Rapper encerra a turnê mundial com show em Londres na terça"
    ],
-   "body": "A COP31, conferência anual da ONU sobre o clima, terminou no domingo sem acordo final, depois que dias de negociações tensas desmoronaram, principalmente por disputas entre países que defendem eliminar o uso de combustíveis fósseis e outros contrários. As duas semanas de conversas em Antália, na Turquia, entre delegações de quase 200 países passaram do prazo e tornaram-se a COP mais longa da história.\n\nO secretário-geral da ONU, António Guterres, disse estar \"profundamente decepcionado\". \"Pode não haver consenso na sala de negociação. Não há ambiguidade na ciência\", afirmou. Os Estados Unidos não enviaram representantes pelo segundo ano consecutivo, após o governo Trump abandonar o Acordo de Paris.\n\nO impasse se deu quando a União Europeia rejeitou um rascunho que não mencionava os combustíveis fósseis. \"Não vamos endossar um pacto de Antália que nem sequer menciona os combustíveis fósseis, principal causa das mudanças climáticas\", disse o ministro irlandês do Clima, Darragh O'Brien, em nome da UE. O bloco se juntou a países menores ameaçados por extremos climáticos contra produtores de petróleo como a Arábia Saudita.",
+   "body": "Mais de 12 mil pessoas foram evacuadas de uma arena no norte da Inglaterra no domingo à noite, depois que o público do show do rapper americano Don Toliver começou a gritar, engasgar e tossir quando um cheiro forte se espalhou pelo local. A polícia disse que a Co-op Live, em Manchester, foi esvaziada por volta das 22h (17h no horário de Nova York).\n\nNas redes sociais, especula-se que a substância fosse gás lacrimogêneo, mas as autoridades não confirmaram. Toliver deixou o palco e a polícia declarou incidente grave. Segundo o serviço de ambulâncias, uma pessoa foi hospitalizada e dezenas foram avaliadas por sintomas nos olhos e respiratórios; a arena passou por descontaminação completa por precaução.\n\nUm espectador contou ao Manchester Evening News que começou a tossir e sentir coceira nos olhos, e que o público ficou quase uma hora no local antes do anúncio para a saída. Toliver deve encerrar sua turnê mundial com um show em Londres na terça-feira.",
    "category": "mundo",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
-   "published_at": "2026-11-22T20:57:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/3dd375f0-aded-4cf9-bdf2-bf898f7240b3/thumbnail/1200x630/22e429456bb3b5e7b29ccbf65568a042/gettyimages-2306220213.jpg"
+   "url": "https://www.cbsnews.com/news/don-toliver-concert-manchester-uk-evacuated-possible-tear-gas/",
+   "published_at": "2026-11-23T07:18:11-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/b42218cd-bb23-4ae2-9964-8906bc499607/thumbnail/1200x630/7d976f8fe210528a8a71985af853d24b/don-toliver-2305940946.jpg"
   },
   {
-   "id": "mn23-mundo-10",
-   "title": "Polônia diz que Rússia tentou duas vezes matar rapper ucraniano-americano",
-   "summary": "A Dinamarca expulsou um funcionário russo após frustrar um suposto plano para matar em seu território o rapper Albert Vasiliev, o Kyivstoner, que tem cidadania ucraniana e americana. No domingo, a Polônia revelou que ele já havia sido alvo da inteligência russa no verão, em território polonês.",
+   "id": "md23-mundo-03",
+   "title": "Polícia procura leoa vista nos arredores de Istambul",
+   "summary": "Policiais e equipes de proteção animal procuram uma leoa vista circulando na periferia de Istambul, informaram autoridades turcas nesta segunda-feira. O animal foi avistado no domingo num bairro nobre cercado por florestas.",
    "highlights": [
-    "Atentado na Dinamarca estava previsto para 25 de setembro",
-    "Dinamarca deve pedir à UE medidas mais duras, como restringir a entrada de russos",
-    "Von der Leyen diz que ameaças russas estão ficando \"mais reais\""
+    "Leoa apareceu em Uskumrukoy, no norte do lado europeu da cidade",
+    "Governo diz que a meta é capturá-la viva",
+    "Promotoria investiga quem é o dono do animal"
    ],
-   "body": "A Dinamarca expulsou um funcionário russo depois de afirmar ter frustrado um suposto plano para matar um cidadão ucraniano-americano em solo dinamarquês. O caso ganhou nova reviravolta no domingo, quando autoridades polonesas revelaram que o mesmo homem teria sido alvo dos serviços de inteligência de Moscou no verão passado, na Polônia.\n\nO alvo é Albert Vasiliev, rapper conhecido como Kyivstoner, com cidadania ucraniana e americana, segundo a imprensa dinamarquesa; o atentado na Dinamarca estava planejado para 25 de setembro. A Dinamarca deve pedir à União Europeia nesta semana ações mais firmes, talvez restringindo a entrada e circulação de cidadãos russos no bloco, e a Polônia disse que apoiaria a medida.\n\nA presidente da Comissão Europeia, Ursula von der Leyen, afirmou que as ameaças da Rússia estão ficando mais reais e chegando ao território da UE, enquanto o bloco segue apoiando a Ucrânia.",
+   "body": "Policiais e equipes de bem-estar animal de Istambul estão à procura de uma leoa vista nos arredores da cidade, disseram autoridades turcas nesta segunda-feira. Um morador avistou o animal no domingo à noite em Uskumrukoy, bairro nobre na borda norte do lado europeu de Istambul, cercado por florestas; depois, a leoa foi registrada por câmeras de segurança.\n\n\"A localização do leão foi identificada e os cuidados necessários estão sendo tomados para capturá-lo vivo\", disse o gabinete do governador. Não está claro de onde veio o animal; alguns veículos sugerem que ele escapou de uma casa próxima, e a Promotoria-Chefe de Istambul abriu investigação para identificar o dono.\n\nA Diretoria de Parques Nacionais informou que veterinários especializados e equipes com câmeras térmicas ajudam nas buscas, concentradas na área de mata, com apoio de um drone, segundo a agência estatal Anadolu.",
    "category": "mundo",
-   "source": "Local 10 / AP",
-   "url": "https://www.local10.com/news/world/2026/11/22/poland-says-russia-allegedly-twice-tried-to-kill-a-ukrainian-american-rapper/",
-   "published_at": "2026-11-22T15:41:59-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/VBTLHBRRJHMQ74S6XVOAEYRTVI.jpg?auth=5055b411c1ae293dc074c460b37cbd0abe499f3ab64da2e3dfc0b11d98ec8c37&width=700"
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
+   "published_at": "2026-11-23T07:02:16-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/3d683708-4d8a-499e-8e84-84fdc6c6d478/thumbnail/1200x630/64cdb7fc85cd06fd4de1d2f8b7effe67/ap26327339472315.jpg"
   },
   {
-   "id": "mn23-weston-01",
-   "title": "Western vence Cypress Bay por 14 a 0 e encerra campanha invicta dos Lightning",
-   "summary": "O Western, de Davie, venceu o Cypress Bay por 14 a 0 no sábado, em Weston, na semifinal regional da Classe 6A, encerrando a temporada até então invicta dos Lightning com 11-1. O Western enfrenta o Palmetto pelo título da Região 4 na sexta, 27.",
+   "id": "md23-weston-01",
+   "title": "Árvore de Natal do Weston Town Center acende em 29 de novembro",
+   "summary": "A cerimônia de acendimento da árvore de Natal do Weston Town Center será no domingo, 29 de novembro, das 16h às 20h, com Papai Noel e autoridades da cidade. A data é mais de uma semana antes da do ano passado.",
    "highlights": [
-    "Foi a primeira derrota do Cypress Bay na temporada",
-    "Jogo havia sido adiado de sexta para sábado por causa das enchentes",
-    "Final regional será às 19h30 de 27/11, no Palmetto, em Miami"
+    "Árvore fica ao pé da torre do relógio, decorada em vermelho e branco",
+    "Em 2025 a cerimônia foi em 7 de dezembro",
+    "Folheto não informa fechamento de ruas nem estacionamento especial"
    ],
-   "body": "O Western venceu o Cypress Bay por 14 a 0 na noite de sábado, 21 de novembro, em Weston, pela semifinal regional da Classe 6A, segundo a página do jogo no MaxPreps e a chave da FHSAA. Foi a primeira derrota dos Lightning na temporada, que termina com campanha de 11 vitórias e 1 derrota.\n\nO jogo havia sido transferido de sexta para sábado porque as escolas públicas de Broward fecharam na sexta por causa das enchentes, incluindo atividades extracurriculares. O Western, de Davie, agora com 9-3, enfrenta o Palmetto, cabeça de chave número 1, pelo título da Região 4 às 19h30 de sexta-feira, 27 de novembro, no campo do Palmetto, em Miami.",
+   "body": "A cerimônia de acendimento da árvore de Natal do Weston Town Center acontece no domingo, 29 de novembro de 2026, das 16h às 20h. Papai Noel se junta a autoridades da cidade de Weston para acender a árvore, segundo o folheto do Town Center. É o primeiro domingo depois do Dia de Ação de Graças e mais de uma semana antes do acendimento do ano passado, em 7 de dezembro de 2025.\n\nA foto do folheto mostra a árvore ao pé da torre do relógio, decorada em vermelho e branco com enfeites de bala de hortelã. O organizador não divulgou programação de atrações nem o horário exato em que as luzes serão acesas.\n\nO Weston Town Center fica perto da I-75 e da Royal Palm Boulevard, com lojas e restaurantes na Main Street, Market Street e Bell Tower Lane. O folheto não lista fechamento de vias, transporte ou estacionamento especial; dúvidas podem ser tiradas com a Weston Leasing, que administra o local, pelo 954-349-5900.",
    "category": "weston",
    "source": "Weston Journal",
-   "url": "https://westonjournal.com/cypress-bay-western-regional-semifinal/",
-   "published_at": "2026-11-23T00:00:00-05:00",
-   "image_url": "https://westonjournal.com/share/cypress-bay-western-regional-semifinal-1392514789.png"
+   "url": "https://westonjournal.com/weston-town-center-tree-lighting/",
+   "published_at": "2026-11-23T07:20:00-05:00",
+   "image_url": "https://westonjournal.com/img/weston-town-center-tree-lighting.webp"
   },
   {
-   "id": "mn23-weston-02",
-   "title": "Ex-professora assume aulas gratuitas de RCP e segurança contra incêndio em Weston",
-   "summary": "Jessica Blanco é a nova educadora de segurança de Weston pelo Corpo de Bombeiros do Xerifado de Broward (BSO). Ela comandará aulas gratuitas de RCP, cadeirinhas de carro e prevenção de quedas, agendadas pelo telefone 954-389-2015.",
+   "id": "md23-miami-01",
+   "title": "DeSantis marca eleição especial para vaga de Bryan Avila no Senado estadual",
+   "summary": "A primária especial para substituir o vice-governador eleito Bryan Avila no Senado da Flórida será em 26 de janeiro, e a eleição geral em 6 de abril, já com a sessão legislativa de 2027 em andamento. A decisão veio dois dias depois de a ACLU processar o governador.",
    "highlights": [
-    "Blanco tem mais de 26 anos de magistério, a maioria em Broward",
-    "Ela sucede Melanie Brocato, promovida à divisão de treinamento",
-    "Moradores com 65+ podem pedir visita domiciliar gratuita de segurança"
+    "Vaga do Distrito 39 está aberta desde 25 de agosto",
+    "Inscrição de candidatos vai de 30 de novembro a 1º de dezembro",
+    "Deputados Alex Rizo e David Borrero, de Hialeah, já anunciaram candidatura"
    ],
-   "body": "Weston tem uma nova educadora de segurança. Jessica Blanco assumiu a função no Corpo de Bombeiros e Serviços de Emergência do Xerifado de Broward, informou a prefeitura em publicação de boas-vindas. A educadora ensina moradores sobre segurança contra incêndio e preparação para emergências, de palestras em escolas a checagem de cadeirinhas de carro.\n\nBlanco passou mais de 26 anos dando aulas, a maior parte nas escolas públicas de Broward, para alunos do ensino fundamental em Pembroke Pines e Miramar, e trabalha há cinco anos no Xerifado como educadora de segurança. A cidade disse que ela também quer receber moradores de língua espanhola nas aulas. Ela sucede Melanie Brocato, primeira e única educadora do cargo por muitos anos, promovida à divisão de treinamento.\n\nAs aulas são gratuitas, podem ser solicitadas por grupos e abrangem mais de 25 temas. Moradores com 65 anos ou mais também podem agendar uma visita domiciliar gratuita pelo programa Steady Living @Home, para reduzir o risco de quedas. Pedidos pelo telefone 954-389-2015.",
-   "category": "weston",
+   "body": "A primária especial para substituir o vice-governador eleito Bryan Avila no Senado estadual da Flórida foi marcada para 26 de janeiro, com a eleição geral especial em 6 de abril, quando a sessão legislativa de 2027 já estará em andamento. O governador Ron DeSantis definiu as datas para o Distrito 39 dois dias depois de a ACLU da Flórida entrar com ação pedindo que a Suprema Corte estadual o obrigasse a convocar a eleição.\n\nA cadeira está vaga desde 25 de agosto, quando Avila renunciou para concorrer como vice na chapa do governador eleito Byron Donalds. O prazo de inscrição vai do meio-dia de 30 de novembro ao meio-dia de 1º de dezembro, e os deputados republicanos Alex Rizo e David Borrero, ambos de Hialeah, já anunciaram que vão concorrer.\n\nO Senado estadual tem hoje 25 republicanos, 13 democratas e um independente. O Distrito 39 tinha mais de 105 mil eleitores republicanos registrados e quase 52 mil democratas na eleição de 3 de novembro.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/florida-gov-ron-desantis-special-election-distric-39-bryan-avila/",
+   "published_at": "2026-11-23T10:12:01-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/d490c255-7887-44df-82d5-2fa747347a01/thumbnail/1200x630/c3578f54cf3c310413f77debc6c68438/cbsmiami-bryan-avila-generic.jpg"
+  },
+  {
+   "id": "md23-miami-04",
+   "title": "Criança cai de vários andares em prédio de North Lauderdale",
+   "summary": "Uma criança caiu de vários andares de um prédio de apartamentos em North Lauderdale no domingo de manhã e foi levada de helicóptero ao hospital. Segundo as autoridades, ela estava consciente e alerta durante o transporte.",
+   "highlights": [
+    "Queda ocorreu num prédio na Hampton Boulevard",
+    "Caso foi atendido pelo Gabinete do Xerife de Broward",
+    "Criança foi transportada de helicóptero"
+   ],
+   "body": "Uma criança sofreu uma queda assustadora num condomínio de apartamentos em North Lauderdale. Segundo o Gabinete do Xerife de Broward (BSO), a vítima caiu de vários andares de um prédio na Hampton Boulevard na manhã de domingo.\n\nA criança foi levada de helicóptero ao hospital. As autoridades disseram que ela estava consciente e alerta durante o transporte.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/broward/north-lauderdale-child-fall/",
+   "published_at": "2026-11-23T09:30:12-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-Child-falls-several-stories-at-a-North-Lauderdale-apartment-complex.png"
+  },
+  {
+   "id": "md23-miami-02",
+   "title": "Cruzeiro volta a Fort Lauderdale com quase 150 doentes a bordo",
+   "summary": "O navio Caribbean Princess retornou a Port Everglades na madrugada desta segunda-feira com 148 passageiros e tripulantes que relataram uma suspeita de doença gastrointestinal. O CDC monitora o surto, cuja causa segue desconhecida.",
+   "highlights": [
+    "134 dos 2.936 passageiros e 14 dos 1.132 tripulantes adoeceram",
+    "Sintomas incluem vômito e diarreia",
+    "Princess Cruises diz ter reforçado limpeza e desinfecção"
+   ],
+   "body": "Um navio de cruzeiro com quase 150 passageiros e tripulantes doentes voltou a Fort Lauderdale na madrugada desta segunda-feira, e especialistas alertam que mais pessoas podem adoecer pela suspeita de doença gastrointestinal a bordo. O Caribbean Princess, da Princess Cruises, saiu de Port Everglades em 11 de novembro para uma viagem de 12 noites, e o surto foi registrado poucos dias depois, segundo o CDC.\n\nAo menos 134 dos 2.936 passageiros e 14 dos 1.132 tripulantes relataram ter adoecido, num total de 148 casos com sintomas como vômito e diarreia. O CDC continua monitorando o surto, cuja causa ainda é desconhecida.\n\nEm nota à CBS News Miami, a Princess Cruises disse que a tripulação respondeu prontamente com protocolos reforçados de higienização em todo o navio. Passageiros ouvidos no desembarque contaram que, depois dos primeiros casos, a limpeza passou a ser constante em todos os ambientes, do cassino à piscina.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/princess-cruises-caribbean-princess-sick-passengers-fort-lauderdale-november-2026/",
+   "published_at": "2026-11-23T09:00:21-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/c8e1d7c2-0437-4c27-84bf-ea958249682a/thumbnail/1200x630/cf98a643dcbcbe4f6f1669f49703337c/cbsmiami-cruise-ship-returns.jpg"
+  },
+  {
+   "id": "md23-miami-05",
+   "title": "Sucesso de \"GTA VI\" faz disparar buscas por voos para Miami",
+   "summary": "O lançamento de \"Grand Theft Auto VI\", ambientado na fictícia Vice City, provocou um salto nas buscas de voos para Miami, principalmente a partir da Europa. Os dados são do site de viagens eSky.",
+   "highlights": [
+    "Buscas da Polônia para Miami subiram 215% em relação a 2025",
+    "Na Bulgária e na Romênia, buscas por voos e hotéis cresceram mais de 500%",
+    "Fãs querem conhecer de perto a inspiração de Vice City"
+   ],
+   "body": "\"Grand Theft Auto VI\" fez enorme sucesso no mundo todo, e agora muita gente quer conhecer Vice City de perto. O jogo provocou um aumento nas buscas por voos para Miami, especialmente a partir da Europa.\n\nSegundo o site de viagens eSky, as buscas da Polônia para Miami subiram 215% em comparação com 2025. Na Bulgária e na Romênia, as pesquisas por voos e hotéis aumentaram mais de 500%.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/entertainment/gta-vi-miami-flight-surge/",
+   "published_at": "2026-11-23T08:43:20-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-GTA-VI-success-causes-spike-in-flight-searches-to-Miami.png"
+  },
+  {
+   "id": "md23-miami-08",
+   "title": "Tempo seco dá trégua, mas nova chuva chega antes do Dia de Ação de Graças",
+   "summary": "O sul da Flórida tem nesta segunda-feira uma pausa no padrão de tempestades, com mais sol e máximas perto de recorde, na casa dos 29 °C. A trégua é curta: um novo sistema de chuva chega entre terça e quarta.",
+   "highlights": [
+    "Máximas devem ficar na faixa dos 85 °F (cerca de 29 °C)",
+    "Chuva volta no fim de terça e na quarta, com impacto em viagens",
+    "Quinta de Ação de Graças deve ser agradável e com vento"
+   ],
+   "body": "Finalmente o ar mais seco chegou, dando uma pausa no padrão de tempestades deste mês no sul da Flórida. Com muito mais sol e vento de oeste, as máximas desta segunda-feira podem chegar perto de recordes, em meados dos 80 °F (cerca de 29 °C), ajudando a secar o terreno.\n\nA trégua não vai durar muito: o próximo sistema de chuva está previsto para o fim de terça-feira e a quarta-feira, com nuvens aumentando já na terça. A meteorologia do Local 10 alerta que o sistema pode afetar quem tem planos de viagem para o Dia de Ação de Graças.\n\nO sistema deve se afastar no início da quinta-feira, deixando um feriado de Ação de Graças agradável e com vento.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/weather/2026/11/23/nov-23-finally-some-drier-air-as-we-catch-a-break-from-the-stormy-pattern/",
+   "published_at": "2026-11-23T08:15:33-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/ZVM6A6ZXGBFH5FRLH2CKLR7DDY.jpg?auth=5538de09b666ea5a5147343fa29e64118175bed12961ff44a71e0e9e91fc0d29&width=700"
+  },
+  {
+   "id": "md23-miami-06",
+   "title": "Pedestre morre atropelado em Miami Gardens; US 441 é fechada",
+   "summary": "Um pedestre morreu atingido por um caminhão-baú que, em seguida, foi atingido por uma picape em Miami Gardens na manhã desta segunda-feira. As pistas sentido norte da US 441 foram fechadas na altura da 199th Street.",
+   "highlights": [
+    "Vítima atravessava a NW 2nd Avenue fora da faixa de pedestres",
+    "Motoristas permaneceram no local e não se feriram",
+    "Identidade do homem ainda não foi divulgada"
+   ],
+   "body": "Um pedestre foi atingido e morto por um caminhão-baú que depois foi atingido na traseira por uma picape preta em Miami Gardens, na manhã desta segunda-feira, segundo a polícia. O acidente ocorreu perto da Northwest 199th Street e levou ao fechamento das pistas sentido norte da U.S. 441.\n\nDe acordo com a polícia, a vítima atravessava a Northwest Second Avenue fora de uma faixa de pedestres quando foi atingida. O homem morreu no local e ainda não foi identificado. Os dois motoristas permaneceram no local e não se feriram.\n\nA polícia orienta os motoristas a evitar a região e usar rotas alternativas enquanto investiga as circunstâncias do acidente.",
+   "category": "miami",
+   "source": "WSVN 7News",
+   "url": "https://wsvn.com/news/local/miami-dade/miami-gardens-us-441-fatal-crash/",
+   "published_at": "2026-11-23T08:11:08-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-Fatal-crash-shuts-down-US-441-northbound-lanes-in-Miami-Gardens.png"
+  },
+  {
+   "id": "md23-miami-07",
+   "title": "Acidente fatal com motociclista fecha a Turnpike perto da Griffin Road",
+   "summary": "Uma motociclista de 44 anos morreu num acidente na Florida Turnpike, ao sul da Griffin Road, em Davie, pouco antes da meia-noite de domingo. As pistas nos dois sentidos foram fechadas temporariamente.",
+   "highlights": [
+    "Ela perdeu o controle e bateu no muro de concreto",
+    "Três veículos no sentido norte atingiram a vítima",
+    "Motorista de um Hyundai ficou ferida"
+   ],
+   "body": "Um acidente fatal fechou temporariamente as pistas norte e sul da Florida Turnpike no início desta segunda-feira, em Broward. Segundo os bombeiros de Davie e a Patrulha Rodoviária da Flórida (FHP), o acidente aconteceu pouco antes da meia-noite de domingo e envolveu uma motociclista, logo ao sul da Griffin Road.\n\nA vítima, de 44 anos, pilotava uma Indian Scout Bobber Sixty 2021 no sentido sul quando \"perdeu o controle\" e bateu no muro de concreto, sendo arremessada para as pistas do sentido norte, segundo a tenente Indiana Miranda, da FHP. Três veículos que seguiam para o norte — um Hyundai 2022, um Mitsubishi Mirage 2024 e um Subaru WRX 2015 — atingiram a mulher, que morreu.\n\nA motorista do Hyundai, de 33 anos, ficou ferida, segundo a FHP.",
+   "category": "miami",
+   "source": "Local 10",
+   "url": "https://www.local10.com/traffic/2026/11/23/traffic-alert-crash-closes-turnpike-near-griffin-road-in-broward/",
+   "published_at": "2026-11-23T07:40:42-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-23-2026%2Ft_8595179b0c8f47f1a11c3b0a5f5e4272_name_49813081545_hdtv.jpg?auth=27240a07a2a556f5ba8f4c9eb57ffb5fbb8c9a7dead68b92a6ae4aa41579f963&width=700"
+  },
+  {
+   "id": "md23-miami-10",
+   "title": "SnowFest de Pembroke Pines terá neve e Papai Noel em 5 de dezembro",
+   "summary": "O SnowFest de Pembroke Pines será no sábado, 5 de dezembro, das 16h às 20h, no Charles F. Dodge City Center, com neve, Papai Noel e acendimento da árvore às 18h30. O evento é gratuito, mas exclusivo para moradores e exige ingresso.",
+   "highlights": [
+    "Ingressos retirados pessoalmente com carteira de motorista e conta de serviço da cidade",
+    "Limite de seis ingressos por residência",
+    "Moradores de Weston não podem participar"
+   ],
+   "body": "O SnowFest de Pembroke Pines acontece no sábado, 5 de dezembro de 2026, das 16h às 20h, no Charles F. Dodge City Center, na 601 City Center Way, cerca de 11 km a leste de Weston. Papai Noel e autoridades da cidade fazem a contagem regressiva para o acendimento da árvore às 18h30.\n\nO evento é gratuito, mas só para moradores de Pembroke Pines, e todos precisam de ingresso retirado pessoalmente com carteira de motorista e uma conta de serviço da cidade. O limite é de seis por residência, por ordem de chegada; a retirada começou em 10 de novembro.\n\nMoradores de Weston não podem participar; alternativas abertas a todos na mesma noite incluem o Light Up the Holidays de Sunrise. Dúvidas: Escritório de Eventos Especiais da cidade, 954-392-2116.",
+   "category": "miami",
    "source": "Weston Journal",
-   "url": "https://westonjournal.com/weston-new-life-safety-educator/",
-   "published_at": "2026-11-21T19:33:00-05:00",
-   "image_url": "https://westonjournal.com/share/weston-new-life-safety-educator-d6c7d3d363.png"
+   "url": "https://westonjournal.com/pembroke-pines-snowfest/",
+   "published_at": "2026-11-23T07:21:00-05:00",
+   "image_url": "https://westonjournal.com/img/og-default.png"
   },
   {
-   "id": "mn23-weston-03",
-   "title": "Ação de Graças em Weston: o que fecha, lixo e corridas",
-   "summary": "O Dia de Ação de Graças é na quinta, 26 de novembro. Em Weston, a coleta de lixo segue normal, os escritórios da prefeitura fecham do meio-dia de quarta até sexta e os parques fecham às 18h; alunos de Broward têm a semana toda de folga.",
+   "id": "md23-miami-09",
+   "title": "Sunrise acende árvore com show de drones em 5 de dezembro",
+   "summary": "O evento gratuito Light Up the Holidays, de Sunrise, será no sábado, 5 de dezembro, das 17h às 21h, no Sunrise Amphitheater. A árvore é acesa às 19h e um show de drones encerra a noite às 21h.",
    "highlights": [
-    "Prefeitura fechada do meio-dia de 25/11 até 27/11",
-    "Não há corrida de Ação de Graças em Weston; as mais próximas são em Tamarac e Fort Lauderdale",
-    "Caixa de doação de alimentos fica em frente à prefeitura, 24 horas"
+    "Local: Sunrise Amphitheater, 10770 W. Oakland Park Blvd.",
+    "Aberto a todos; área Winter Wonderland só para moradores de Sunrise",
+    "Sunrise fica a cerca de 16 km ao norte de Weston"
    ],
-   "body": "O Dia de Ação de Graças é na quinta-feira, 26 de novembro de 2026. Em Weston, isso significa coleta de lixo normal, escritórios da prefeitura fechados do meio-dia de quarta-feira até sexta-feira, uma semana inteira de folga para os alunos das escolas públicas de Broward e fechamento antecipado dos parques, às 18h.\n\nNão há \"turkey trot\" (corrida de Ação de Graças) na própria cidade; as duas provas de 5 km mais próximas na manhã do feriado são em Tamarac e Fort Lauderdale. A inscrição tardia de Tamarac (US$ 40) está aberta até o meio-dia de 25/11, com retirada de kits na prefeitura de Tamarac de 23 a 25/11; a inscrição adulta em Fort Lauderdale custa agora US$ 65.\n\nA caixa de doação de alimentos da campanha Harvest Drive da cidade fica do lado de fora da prefeitura, aberta 24 horas por dia.",
-   "category": "weston",
+   "body": "O Light Up the Holidays, evento gratuito da cidade de Sunrise, acontece no sábado, 5 de dezembro de 2026, das 17h às 21h, no Sunrise Amphitheater, na 10770 W. Oakland Park Blvd. A árvore de Natal é acesa às 19h e um show noturno de drones encerra a programação às 21h.\n\nQualquer pessoa pode participar, mas a área Winter Wonderland, dentro do evento, é exclusiva para moradores de Sunrise, que precisam comprovar residência e pegar pulseiras. Famílias de Weston podem aproveitar o palco, o acendimento, a comida e os drones.\n\nA página da cidade não informa estacionamento, transporte ou fechamento de ruas; informações pelo 954-741-2580. Como o show de drones é a última atração, a recomendação é se planejar para voltar tarde.",
+   "category": "miami",
    "source": "Weston Journal",
-   "url": "https://westonjournal.com/thanksgiving/",
-   "published_at": "2026-11-20T00:00:00-05:00",
-   "image_url": "https://westonjournal.com/img/thanksgiving.webp"
+   "url": "https://westonjournal.com/sunrise-light-up-the-holidays/",
+   "published_at": "2026-11-23T07:20:00-05:00",
+   "image_url": "https://westonjournal.com/img/sunrise-light-up-the-holidays.webp"
   },
   {
-   "id": "mn23-miami-04",
-   "title": "Semana de Ação de Graças começa tranquila, mas chuva forte volta na quarta",
-   "summary": "O sul da Flórida começa a semana de Ação de Graças com tempo seco e agradável, mas um sistema de baixa pressão no Golfo pode trazer chuva forte e tempestades na quarta-feira. As marés reais (king tides) também voltam de terça a quinta ou sexta.",
+   "id": "md23-miami-03",
+   "title": "Cirurgião plástico é condenado à morte por matar advogado na Flórida",
+   "summary": "Um juiz da Flórida condenou à morte o cirurgião plástico Tomasz Kosowski pelo assassinato do advogado Steven Cozzi em 2023. O corpo, jogado numa caçamba de lixo nos Everglades, nunca foi encontrado.",
    "highlights": [
-    "Segunda seca, com neblina cedo no interior e máximas de 26 a 28 °C",
-    "Previsão de 5 a 10 cm de chuva nas áreas metropolitanas do leste na quarta",
-    "Inundação costeira moderada possível na maré alta de quarta de manhã"
+    "Crime ocorreu no banheiro do escritório de Cozzi em março de 2023",
+    "Promotores mostraram uma \"bolsa do crime\" com pé de cabra e soqueira",
+    "Investigadores rastrearam o réu até a Tamiami Trail, a oeste de Miami"
    ],
-   "body": "O sul da Flórida começa a semana de Ação de Graças de forma tranquila e confortável, mas outra rodada de chuva forte e possíveis tempestades severas pode chegar na quarta-feira. A segunda-feira deve ser seca, com sol e nuvens, neblina em áreas do interior no início do dia e máximas entre o alto dos 70 °F e o início dos 80 °F. Na terça, as nuvens aumentam e pancadas no litoral podem surgir mais tarde.\n\nA quarta-feira é a maior preocupação: um sistema de baixa pressão em formação no Golfo pode trazer chuva forte e trovoadas, com estimativa inicial de 2 a 4 polegadas (5 a 10 cm) nas áreas metropolitanas do leste e volumes maiores localmente. Além disso, as king tides voltam de terça a quinta ou sexta, com possibilidade de inundação costeira leve e moderada perto da maré alta de quarta de manhã.",
+   "body": "Um juiz da Flórida condenou à morte o cirurgião plástico Tomasz Kosowski por matar o advogado Steven Cozzi no banheiro do escritório da vítima e depois descartar o corpo numa caçamba de lixo nos Everglades, onde nunca foi encontrado. O crime ocorreu em março de 2023, logo depois de os dois participarem de uma teleconferência sobre uma longa e acirrada disputa judicial envolvendo cobranças médicas.\n\nSegundo a promotoria, Kosowski participou da ligação de dentro de uma picape Toyota estacionada do lado de fora e tinha material para o crime, incluindo sacos de lixo, uma seringa com droga paralisante e um carrinho para levar o corpo. Os promotores apresentaram uma bolsa preta chamada de \"bolsa do crime\", com passaportes, pé de cabra, soqueira, celular e máscara.\n\nRegistros de celular e câmeras de vigilância levaram os investigadores até uma área remota a oeste de Miami, na Tamiami Trail (US 41), onde acreditam que Kosowski jogou o corpo numa caçamba depois esvaziada por um caminhão de lixo, cujo motorista notou um cheiro incomum.",
    "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/weather-blog/quiet-start-to-thanksgiving-week-but-heavy-rain-and-storms-return-wednesday/",
-   "published_at": "2026-11-23T06:24:13-05:00",
-   "image_url": null
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/plastic-surgeon-tomasz-kosowski-death-sentence-killing-lawyer-florida/",
+   "published_at": "2026-11-23T07:00:50-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/27/302cffb0-1fab-4126-ab27-b50f326ae26e/thumbnail/1200x630/6f2a0914619507cb9e857414d830a664/ap23085731949753.jpg"
   },
   {
-   "id": "mn23-miami-01",
-   "title": "Viatura da polícia de Miami e carro da Waymo colidem; uma pessoa vai ao hospital",
-   "summary": "Uma viatura da polícia de Miami e um carro autônomo da Waymo colidiram no cruzamento da 17th Avenue com a Seventh Street na manhã de domingo. Um ocupante da Waymo foi levado ao hospital.",
+   "id": "md23-tecnologia-01",
+   "title": "Nvidia reintegra Jensen Huang como CEO e ação sobe 35%",
+   "summary": "A Nvidia anunciou nesta segunda-feira a volta imediata de Jensen Huang ao cargo de CEO, numa reviravolta no escândalo que derrubou as ações da fabricante de chips. O conselho votou por unanimidade e disse ter ouvido o alto escalão do governo americano.",
    "highlights": [
-    "Waymo diz que estava parado no semáforo quando foi atingido",
-    "Outro veículo teria batido na viatura e a empurrado contra o Waymo",
-    "Polícia ainda investiga a causa"
+    "Conselho diz estar confiante de que a volta \"não representa risco à segurança nacional\"",
+    "Trump disse à CNBC que Huang \"não fez nada de errado\"",
+    "Ação havia perdido quase 33% desde a admissão do caso extraconjugal"
    ],
-   "body": "Uma viatura da polícia de Miami e um carro da Waymo colidiram no cruzamento da 17th Avenue com a Seventh Street na manhã de domingo. Segundo a polícia, uma das pessoas que estavam no Waymo foi levada ao hospital; seu estado não foi informado. Os airbags do Waymo foram acionados, e um terceiro carro danificado também estava no local.\n\nA Waymo disse que seu veículo estava parado num semáforo quando outro carro bateu na viatura e a empurrou contra ele. \"A segurança de nossos passageiros e de outros usuários da via é nossa prioridade\", afirmou a empresa. A polícia de Miami ainda investiga a causa do acidente.",
-   "category": "miami",
-   "source": "CBS Miami",
-   "url": "https://www.cbsnews.com/miami/news/miami-police-vehicle-waymo-collide-nov-22-2026/",
-   "published_at": "2026-11-23T00:43:26-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/d19cf33b-cb68-4c19-b7ca-8a9a4d2e24f2/thumbnail/1200x630/a75bb66429c845d8f8fc0795d039baa5/5719a0af5f04cdef17cb1dc53cb67cc5.jpg"
-  },
-  {
-   "id": "mn23-miami-07",
-   "title": "Goodman JFS distribui refeições de Ação de Graças em Davie",
-   "summary": "A Goodman Jewish Family Services realizou no domingo, em Davie, uma das maiores distribuições anuais de refeições de Ação de Graças do condado de Broward. Perus e refeições foram entregues em sistema drive-thru a famílias necessitadas.",
-   "highlights": [
-    "Entrega no The Dorit and Ben J. Genet Cupboard",
-    "Distribuição homenageou Howard Kleinberg, ex-participante do Top Chef",
-    "Ação ocorreu dias antes do feriado"
-   ],
-   "body": "Poucos dias antes do Dia de Ação de Graças, perus e refeições festivas foram distribuídos a pessoas necessitadas em Davie. A Goodman Jewish Family Services promoveu na manhã de domingo uma das maiores distribuições anuais de refeições de Ação de Graças do condado de Broward.\n\nOs participantes retiraram as refeições numa fila de drive-thru no The Dorit and Ben J. Genet Cupboard. A distribuição foi feita em memória de Howard Kleinberg, ex-participante do reality Top Chef, do canal Bravo.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/broward/goodman-jfs-hosts-major-thanksgiving-meal-distribution-in-davie/",
-   "published_at": "2026-11-22T22:47:10-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112226-Goodman-JFS-hosts-major-Thanksgiving-meal-distribution-in-Davie.png"
-  },
-  {
-   "id": "mn23-miami-06",
-   "title": "Moradores de Dania Beach enfrentam quintais alagados após dias de chuva",
-   "summary": "Moradores de Dania Beach passaram o domingo limpando e bombeando água de quintais transformados em lagos após dias de chuva. Um deles perdeu mais de 100 itens de sua coleção de memorabilia musical.",
-   "highlights": [
-    "Bairro fica perto do Hard Rock Hotel",
-    "Morador que já teve a casa inundada em 2023 diz que desta vez foi pior",
-    "Itens de coleção destruídos \"não podem ser substituídos\""
-   ],
-   "body": "Para Wilson Garcia, o domingo significou pular o brunch e passar o dia limpando o quintal em Dania Beach. Morador da cidade há quase cinco anos, ele disse nunca ter visto tanta água acumulada; o novo \"lago\" no quintal, ao lado do barco estacionado, surpreende quem passa pelo bairro, que fica perto do Hard Rock Hotel.\n\nNo mesmo quarteirão, o vizinho Ray Pallecek bombeava o que parecia um canal para tirar o excesso de água. Ele já teve a casa inundada em 2023, mas disse que desta vez a quantidade de água e a rapidez com que se acumulou foram assustadoras. A tempestade de vários dias também destruiu mais de 100 peças de memorabilia musical que ele colecionava, itens que, segundo ele, nunca poderão ser substituídos.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/22/dania-beach-residents-tackle-backyard-flooding-after-days-of-rain/",
-   "published_at": "2026-11-22T22:15:27-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-23-2026%2Ft_56d5eb84daea41b08e65e423351eac34_name_49803905985_hdtv.jpg?auth=81a715b020b5fad67bdaa043c5377b11991e2b6d6b4e4c94f4a0d36f6adff767&width=700"
-  },
-  {
-   "id": "mn23-miami-02",
-   "title": "Serviço Meteorológico confirma tornado EF-1 em Palm Beach no sábado",
-   "summary": "Uma equipe do Serviço Nacional de Meteorologia confirmou que a tempestade de sábado à noite no condado de Palm Beach produziu um tornado EF-1. Ele percorreu mais de 7,5 milhas com cerca de 400 metros de largura.",
-   "highlights": [
-    "Ventos estimados no limite inferior da faixa EF-1 (86-110 mph)",
-    "Danos foram principalmente em árvores",
-    "Novo alerta para quarta-feira, véspera de Ação de Graças"
-   ],
-   "body": "A tempestade com alerta de tornado sobre o condado de Palm Beach no sábado à noite produziu de fato um tornado EF-1, concluiu uma equipe do Serviço Nacional de Meteorologia após vistoria ao longo do rastro de danos. Um EF-1 tem ventos estimados entre 86 e 110 mph (138 a 177 km/h); pelos danos, este ficou no limite inferior da faixa, atingindo sobretudo árvores.\n\nO tornado tocou o solo por mais de 7,5 milhas (12 km) e tinha cerca de um quarto de milha de largura, algo considerado muito expressivo para o sul da Flórida. No extremo norte da área vistoriada, o rastro ficou descontínuo, sinal de que ele pode ter subido e tocado o solo novamente. A equipe de meteorologia da CBS Miami emitiu alerta para quarta-feira, quando outro sistema deve atingir a região num dos períodos de viagem mais movimentados do ano.",
-   "category": "miami",
-   "source": "CBS Miami",
-   "url": "https://www.cbsnews.com/miami/news/ef-1-tornado-confirmed-palm-beach-county-11-21-26-storms/",
-   "published_at": "2026-11-22T19:54:08-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/61eaf7ca-f6c1-4ae6-b67b-25edc48a5d6e/thumbnail/1200x630/6dbabbe37b7df9aff46db8cce7cacf42/yevgeniy-romm.png"
-  },
-  {
-   "id": "mn23-miami-09",
-   "title": "Dois homens são baleados dentro de carro com criança em Miami Gardens",
-   "summary": "Dois homens ficaram feridos num tiroteio entre dois veículos em Miami Gardens; uma criança que estava no carro saiu ilesa, segundo a polícia. Os disparos partiram de uma van branca contra um Tesla.",
-   "highlights": [
-    "Ataque ocorreu no quarteirão 16001 da NW 27th Place",
-    "Uma das vítimas tentou revidar, sem conseguir",
-    "Ambos foram baleados nas pernas e estavam conscientes"
-   ],
-   "body": "Um tiroteio envolvendo dois veículos deixou dois homens feridos em Miami Gardens, enquanto uma criança escapou ilesa, informou a polícia. Segundo o relato, os dois homens estavam num Tesla no quarteirão 16001 da NW 27th Place quando alguém numa van branca abriu fogo contra o carro.\n\nUma das vítimas tentou atirar de volta, mas não conseguiu. Os dois sofreram ferimentos a bala nos membros inferiores e foram levados ao hospital pelos bombeiros de Miami-Dade, conscientes e alertas. A polícia ainda não divulgou informações sobre os suspeitos, e a investigação continua.",
-   "category": "miami",
-   "source": "CBS Miami",
-   "url": "https://www.cbsnews.com/miami/news/2-men-shot-miami-gardens-child-unharmed-112226/",
-   "published_at": "2026-11-22T19:30:31-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/41a3bc43-18c0-4b28-8dc7-5f8a4704a306/thumbnail/1200x630/f6c7f92160a1df1bfcd2876c6ef55c68/snapshot-10.jpg"
-  },
-  {
-   "id": "mn23-miami-08",
-   "title": "Coiote é visto em área residencial de Pembroke Pines",
-   "summary": "Um coiote foi avistado no sábado numa área residencial de Pembroke Pines, perto da Southwest Fifth Street. A polícia divulgou foto do animal e a Comissão de Conservação da Vida Selvagem da Flórida (FWC) foi avisada.",
-   "highlights": [
-    "Coiotes existem nos 67 condados da Flórida e caçam principalmente à noite",
-    "Recomendação: não deixar comida para animais de rua",
-    "Manter lixeiras fechadas e vigiar pets, mesmo no quintal"
-   ],
-   "body": "Um coiote foi visto numa área residencial de Pembroke Pines no sábado. A polícia compartilhou uma foto do animal na região da Southwest Fifth Street, e a Comissão de Conservação de Peixes e Vida Selvagem da Flórida (FWC) foi notificada.\n\nCoiotes estão presentes nos 67 condados da Flórida e caçam principalmente à noite. A orientação aos moradores é não deixar comida para animais de rua, manter as lixeiras bem fechadas e vigiar os animais de estimação ao ar livre, inclusive no quintal de casa.",
-   "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/broward/coyote-spotted-in-residential-area-of-pembroke-pines/",
-   "published_at": "2026-11-22T19:29:35-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/PEMBROKE-PINES-COYOTE-SIGHTING.png"
-  },
-  {
-   "id": "mn23-miami-03",
-   "title": "Dolphins perdem para os Bills por 26 a 9",
-   "summary": "O Buffalo Bills venceu o desfalcado Miami Dolphins por 26 a 9 no domingo, com dois sacks de Greg Rousseau. Os Bills chegaram a 9-1, melhor campanha da AFC, e os Dolphins caíram para 1-9.",
-   "highlights": [
-    "Kyle McCord fez sua segunda partida como titular no lugar de Malik Willis",
-    "James Cook marcou e passou de 75 jardas pela nona partida seguida",
-    "Josh Allen lançou um touchdown e sofreu duas interceptações"
-   ],
-   "body": "Greg Rousseau conseguiu dois sacks, incluindo o 10º da temporada, e a defesa do Buffalo compensou o ataque irregular de Josh Allen na vitória de 26 a 9 sobre o desfalcado rival de divisão Miami Dolphins, no domingo. Allen lançou um passe de touchdown de 4 jardas para DJ Moore e sofreu duas interceptações, e os Bills ficaram em três field goals em cinco campanhas dentro das 20 jardas de Miami.\n\nJames Cook marcou numa corrida de 1 jarda e somou 89 jardas, tornando-se o segundo jogador da NFL a marcar touchdown e passar de 75 jardas corridas em nove jogos seguidos. Os Bills chegaram a 9-1, melhor campanha da AFC, com a sexta vitória seguida. Pelo Miami, que caiu para 1-9, o quarterback Kyle McCord fez sua segunda partida como titular, com Malik Willis fora por lesão na virilha.",
-   "category": "miami",
-   "source": "CBS Miami / AP",
-   "url": "https://www.cbsnews.com/miami/news/bills-26-9-win-over-dolphins-112226/",
-   "published_at": "2026-11-22T18:08:13-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/c5d57925-2cc8-46be-8f3d-b5493d6f9528/thumbnail/1200x630/e93077b7631bc2098c959a8efb6dec85/ap26326696953890.jpg"
-  },
-  {
-   "id": "mn23-miami-10",
-   "title": "Polícia investiga morte de homem encontrado em Davie",
-   "summary": "A polícia de Davie investiga a morte de um homem encontrado no domingo no quarteirão 2100 da Southwest 136th Avenue. A identidade e as circunstâncias ainda não foram esclarecidas.",
-   "highlights": [
-    "Policiais atenderam a um chamado sobre uma morte",
-    "Investigadores tentam identificar o homem",
-    "Circunstâncias da morte ainda são apuradas"
-   ],
-   "body": "As autoridades investigam uma morte registrada no domingo em Davie. O local fica na área do quarteirão 2100 da Southwest 136th Avenue, onde policiais do Departamento de Polícia de Davie, ao atender ao chamado, encontraram um homem morto.\n\nOs investigadores trabalham para determinar a identidade do homem e as circunstâncias que levaram à morte. Nenhuma outra informação foi divulgada.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/22/police-investigating-after-finding-deceased-man-in-davie/",
-   "published_at": "2026-11-22T17:09:21-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-22-2026%2Ft_331b0a6f063a4d8ca93ec0499ce6b78e_name_49799812645_hdtv.jpg?auth=274975f4ab29319f31710fc66a85e18118c26157d101e9a0e74a12b7d03e787f&width=700"
-  },
-  {
-   "id": "mn23-miami-05",
-   "title": "Cão policial do BSO baleado em Cooper City se recupera após cirurgia",
-   "summary": "Scuba, cão de 2 anos da unidade K-9 do Xerifado de Broward, recebeu alta após cirurgia depois de ser baleado ao localizar um suspeito de arrombamento em Cooper City. Um policial também foi baleado; o suspeito foi encontrado escondido num lago.",
-   "highlights": [
-    "Scuba levou tiros na perna e no ombro, com trauma no peito e costelas",
-    "Suspeito Michael Whitehead, de 27 anos, foi baleado pelos agentes",
-    "Xerife Gregory Tony chamou a K-9 de \"unidade de elite\""
-   ],
-   "body": "O cão policial Scuba, da unidade K-9 do Xerifado de Broward (BSO), está se recuperando e voltando para casa depois de ser baleado em serviço. O animal de 2 anos é elogiado pelos colegas após uma cirurgia bem-sucedida. \"A K-9 é uma das unidades mais arriscadas que um policial pode integrar. É uma unidade de elite\", disse o xerife Gregory Tony.\n\nNa quinta-feira, agentes atenderam a um chamado de arrombamento em Cooper City, na Southwest 55th Lane. Câmeras mostraram um homem mascarado arrombando carros, e foi Scuba quem rastreou o suspeito até um quintal, onde ele começou a atirar. Scuba e um policial foram baleados; os agentes revidaram e atingiram Michael Whitehead, de 27 anos, encontrado depois escondido num lago. Scuba chegou em estado crítico ao Hollywood Animal Hospital, com tiros na perna e no ombro que causaram trauma no peito e nas costelas.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/news/local/2026/11/22/hes-a-hero-bso-k-9-shot-by-burglary-suspect-recovering-after-surgery/",
-   "published_at": "2026-11-22T17:07:42-05:00",
-   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-22-2026%2Ft_cfbd26f2aedb49d7878c6d9799ae81ad_name_49799800326_hdtv.jpg?auth=cdf7d870a009d8fe29f433850426849efeb09041f81b056d742d3327832dd297&width=700"
-  },
-  {
-   "id": "mn23-tecnologia-01",
-   "title": "Ações da Anthropic e da Nvidia sobem no pré-mercado após semana de queda",
-   "summary": "As ações da Anthropic e da Nvidia subiam no pré-mercado desta segunda-feira, depois de a Nasdaq ter sua pior semana desde 2020. A Anthropic, que estreou na bolsa na quinta, subia 4,47%, e a Nvidia, 8,6%.",
-   "highlights": [
-    "IPO recorde da Anthropic levantou US$ 93,5 bilhões",
-    "Nvidia caiu mais de 40% em um mês após saída de Jensen Huang",
-    "Alphabet, Meta, Amazon, Microsoft e AMD também subiam"
-   ],
-   "body": "As ações da Anthropic e da Nvidia subiam no pré-mercado desta segunda-feira, depois que as ações de IA caíram na pior semana da Nasdaq desde 2020. O laboratório de IA avançava 4,47% às 5h21 (horário de Nova York), antes de seu terceiro dia de negociação após o IPO de quinta-feira; a fabricante de chips subia 8,6%.\n\nA Anthropic levantou um recorde de US$ 93,5 bilhões no IPO e mais US$ 26 bilhões de gigantes de tecnologia que compraram ao preço da oferta. A ação subiu 17% na estreia e fechou em queda de 8,5% na sexta. A recuperação da Nvidia vem após uma queda de mais de 40% em um mês, depois que Jensen Huang foi afastado do comando ao admitir um caso extraconjugal com uma mulher que a inteligência americana acredita ser espiã chinesa.\n\nOutras gigantes também subiam: Alphabet (4,98%), Meta (4,36%), Amazon (3,96%), Microsoft (3,14%), SpaceX (3,94%) e AMD (5,77%). Os investidores seguem nervosos com a avaliação de algumas empresas e modelos de negócio de IA.",
+   "body": "A Nvidia anunciou nesta segunda-feira que Jensen Huang foi reintegrado como CEO, com efeito imediato, numa reviravolta dramática no escândalo que derrubou o preço das ações da fabricante de chips e abalou os setores de tecnologia e inteligência artificial. O conselho disse que votou por unanimidade após \"uma série de conversas e reuniões\" com Huang e que \"recebeu contribuições de altos escalões do governo dos Estados Unidos\".\n\nO presidente Donald Trump disse à CNBC que vinha conversando com o conselho \"direta e indiretamente\", que Huang \"não fez nada de errado\" e que falou com ele no domingo, pedindo que prometesse \"trabalhar duro\". Huang havia renunciado no início do mês após reportagens sobre casos extraconjugais, incluindo um com uma suposta espiã chinesa; segundo o New York Times, a mulher, Alice Huang, esteve em contato com um agente do Ministério de Segurança do Estado da China durante parte do relacionamento.\n\nAs ações da Nvidia dispararam 35% após o anúncio. O papel havia perdido quase 33% desde que Huang admitiu o caso.",
    "category": "tecnologia",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "published_at": "2026-11-23T05:24:25-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108556476-1795186493317-gettyimages-2305372520-AFP_D8394NF.jpeg?v=1795186549&w=1920&h=1080"
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "published_at": "2026-11-23T10:24:42-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1794954719&w=1920&h=1080"
   },
   {
-   "id": "mn23-tecnologia-03",
-   "title": "Idosos adotam direção automatizada da Tesla, apesar de dúvidas sobre segurança",
-   "summary": "Motoristas idosos estão usando o Full Self-Driving (Supervised) da Tesla para continuar dirigindo por mais tempo, mostra reportagem da NPR. Especialistas em segurança, porém, temem que a empresa exagere o que seus carros conseguem fazer.",
+   "id": "md23-tecnologia-07",
+   "title": "BMW iX4 elétrico chega com 428 milhas de autonomia",
+   "summary": "A BMW iniciou a produção em série do novo iX4 elétrico na fábrica de Debrecen, na Hungria. O SUV cupê promete 428 milhas (cerca de 690 km) de autonomia pelo ciclo EPA e recarga ultrarrápida.",
    "highlights": [
-    "Joan Spalding, 89, deixa o Model Y guiar nas estradas de montanha do Colorado",
-    "Assinatura do FSD costuma custar US$ 99 por mês",
-    "Pesquisador do MIT diz que a tecnologia tem \"lacunas de segurança\""
+    "Vendas começam em março de 2027, substituindo o X4",
+    "Versão iX4 50 xDrive tem 468 cv e faz 0 a 60 mph em 4,7 s",
+    "Versão M60 terá 603 cv"
    ],
-   "body": "Joan Spalding dirige há mais de 50 anos pela estrada íngreme e sinuosa que leva à sua casa perto de Denver, no Colorado. Hoje, aos 89 anos, ela mal toca no volante ou nos pedais: diz ao carro aonde quer ir e aperta um botão na tela do seu Tesla Model Y, equipado com o Full Self-Driving (Supervised), assinatura que costuma custar US$ 99 por mês. Cética no início, ela diz que percebeu que o sistema fazia coisas mais seguras do que ela faria.\n\nHá mais motoristas idosos nas ruas do que nunca, e as famílias muitas vezes lutam com a questão de quando é hora de parar de dirigir. Agora, idosos usam a tecnologia para continuar ao volante por mais tempo. Mas especialistas temem que a Tesla esteja vendendo demais o que seus carros fazem. \"Não é uma tecnologia que eu usaria nem que eu recomendaria aos meus familiares. Acho que tem algumas lacunas de segurança\", disse Bryan Reimer, pesquisador do MIT.",
+   "body": "O novo BMW iX4 está quase chegando, com 428 milhas (cerca de 690 km) de autonomia pelo padrão EPA, mais de 500 milhas no ciclo WLTP e recarga ultrarrápida. A produção em série começou na fábrica do BMW Group em Debrecen, na Hungria, o segundo modelo totalmente elétrico feito ali, depois do novo iX3.\n\nSegundo a BMW, a fábrica iniciou a produção de um modelo inteiramente novo em menos de dois meses, após adotar turnos de 24 horas para atender a uma demanda acima do esperado.\n\nO iX4 chega às lojas em março de 2027 como substituto elétrico do X4, nas versões iX4 50 xDrive e iX4 40 xDrive, com uma M60 xDrive logo depois. A 50 xDrive tem 468 cv e vai de 0 a 60 mph em 4,7 segundos; a M60 terá 603 cv.",
    "category": "tecnologia",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-   "published_at": "2026-11-23T05:00:00-05:00",
-   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F3e%2Ff9f234fd46e396a3ec44248615aa%2F11-04-2026-jimena-peck-denver-editorial-photographer-0366-2026-11-olderdrivers.jpg"
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/23/bmws-ix4-promises-428-miles-range-and-ultra-fast-charging/",
+   "published_at": "2026-11-23T10:21:00-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX4-production-launch.jpeg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "mn23-tecnologia-06",
-   "title": "Chefe de IA da Meta alerta que superinteligência está \"chegando\"",
-   "summary": "O diretor de IA da Meta, Alexandr Wang, alertou para o risco de a humanidade perder o controle da IA e disse que uma superinteligência muito superior ao intelecto humano é iminente. O alerta veio após um funcionário da Anthropic anunciar ter usado o Claude para resolver a hipótese de Riemann.",
+   "id": "md23-tecnologia-02",
+   "title": "CrowdStrike vai comprar a Zscaler por US$ 44 bilhões",
+   "summary": "A CrowdStrike anunciou a compra da Zscaler por US$ 43,9 bilhões, num negócio todo em ações que une duas grandes empresas de segurança digital num momento em que a IA turbina os ciberataques. As ações da Zscaler subiram mais de 20%.",
    "highlights": [
-    "Wang diz que o próximo ano terá \"grandes consequências\" para o futuro",
-    "Ele vê modelos \"claramente sobre-humanos\" em se autoaprimorar",
-    "Hipótese de Riemann é um dos problemas mais difíceis da matemática"
+    "Acionistas da Zscaler receberão 1,135 ação da CrowdStrike por papel",
+    "Ações da CrowdStrike caíram cerca de 5%",
+    "Conclusão prevista para o 2º semestre do ano fiscal de 2028 da CrowdStrike"
    ],
-   "body": "O principal executivo de IA da Meta, Alexandr Wang, soou o alarme sobre o risco de a humanidade perder o controle da inteligência artificial, afirmando que uma superinteligência que supera em muito o intelecto humano é iminente. O alerta foi feito no domingo, depois que um funcionário da Anthropic anunciou ter usado o Claude para resolver a hipótese de Riemann, um dos problemas mais difíceis da matemática.\n\nWang disse que o feito supera qualquer conquista humana em \"pura força intelectual\" e mostra que os novos modelos serão \"claramente sobre-humanos\" em se aprimorar, além de acelerar enormemente pesquisas em biologia, armamentos e economia. \"A forma como a humanidade agir no próximo ano terá grandes consequências para o mundo em que viveremos\", afirmou.\n\nWang, de 29 anos, cofundou a Scale AI antes de se tornar o primeiro diretor de IA da Meta, no ano passado. Ele considera improvável que a humanidade consiga controlar uma IA capaz de autoaprimoramento recursivo sem limites.",
-   "category": "tecnologia",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive",
-   "published_at": "2026-11-23T04:08:07-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250527__1540568234__v2__MidRes__HouseSubcommitteeHoldsAHearingOnAIOnTheBattle-1795413716.jpg?resize=1200%2C675"
-  },
-  {
-   "id": "mn23-tecnologia-02",
-   "title": "EUA investigam Alice Huang e a empresa Megaspeed no caso dos chips da Nvidia",
-   "summary": "O diretor de Inteligência Nacional, Jay Clayton, disse que os EUA investigam Alice Huang e sua ex-empresa, a Megaspeed, de Singapura, no caso dos chips da Nvidia. Uma reportagem apontou um sócio dela como peça-chave nas decisões da empresa.",
-   "highlights": [
-    "Alice Huang teria tido relacionamento com o ex-CEO da Nvidia Jensen Huang",
-    "Megaspeed opera data centers no Sudeste Asiático",
-    "Associado chinês Li Ming responde a acusações em Singapura"
-   ],
-   "body": "O diretor de Inteligência Nacional dos EUA, Jay Clayton, afirmou que o país investiga Alice Huang e sua ex-empresa, a Megaspeed International, enquanto uma reportagem identificou um associado dela como tomador de decisões-chave na companhia de Singapura. Alice Huang, com quem o ex-CEO da Nvidia Jensen Huang teria tido um relacionamento, era figura central da Megaspeed, empresa de computação em nuvem que opera data centers no Sudeste Asiático.\n\n\"Há uma investigação em andamento sobre a empresa dela e sobre ela\", disse Clayton à ABC no domingo. \"Os chips da Nvidia são a joia. São o topo absoluto que todo mundo quer, por isso estamos focados nisso.\" Segundo o Wall Street Journal, o chinês Li Ming, hoje em liberdade sob fiança em Singapura, estava \"profundamente envolvido\" nas atividades da Megaspeed; as acusações contra ele em Singapura envolvem supostas declarações falsas à Super Micro Computer, empresa americana ligada à Nvidia.",
+   "body": "A CrowdStrike planeja comprar a Zscaler por US$ 43,9 bilhões, numa transação inteiramente em ações que combina duas grandes empresas de segurança num momento em que a inteligência artificial está turbinando os ataques. As ações da CrowdStrike caíram cerca de 5% no início do pregão desta segunda-feira, enquanto as da Zscaler subiram mais de 20%. Pelo acordo, os acionistas da Zscaler receberão 1,135 ação da CrowdStrike para cada papel.\n\nA aquisição leva a empresa de Austin para o mercado de segurança de redes e ocorre num ano movimentado de fusões no setor, após ataques de grande repercussão como o sofrido pela Hugging Face. \"Com a Zscaler, estamos construindo o sistema operacional da cibersegurança\", disse o CEO George Kurtz, que vê caminho para se tornar \"a maior empresa de segurança de IA que o mundo já viu\".\n\nApagões recentes que afetaram Microsoft, FAA e JPMorgan Chase aumentaram a ansiedade das empresas, que aceleram atualizações de software e de sistemas antigos para evitar que criminosos explorem vulnerabilidades com IA.",
    "category": "tecnologia",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-   "published_at": "2026-11-23T00:08:03-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108547468-1794318020652-gettyimages-2303986898-AFP_D6ZC9G6.jpeg?v=1794530723&w=1920&h=1080"
+   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+   "published_at": "2026-11-23T09:38:45-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108557320-1795437543594-gettyimages-2306451809-vcg111684299096.jpeg?v=1795437565&w=1920&h=1080"
   },
   {
-   "id": "mn23-tecnologia-08",
-   "title": "Kodak SlideTag é porta-retrato digital minúsculo que também é rastreador",
-   "summary": "A Reto, que fabrica a minicâmera Kodak Charmera, lançou o Kodak SlideTag, um pequeno porta-retrato digital em formato de slide que funciona como rastreador Bluetooth. Ele é compatível com o Buscar (Find My) da Apple ou o Find Hub do Google.",
+   "id": "md23-tecnologia-04",
+   "title": "FSD v15 da Tesla deixa visual da direção com cara de GTA",
+   "summary": "A Tesla começou a liberar o Full Self-Driving (Supervised) v15, que descreve como uma reformulação completa do sistema. A novidade principal é o Reality View, uma tela generativa em tempo real comparada aos gráficos de \"GTA VI\".",
    "highlights": [
-    "Preço de US$ 34,99 cada, vendido em caixas-surpresa",
-    "Conjunto com os oito designs retrô custa US$ 279,92",
-    "Nona \"edição secreta\" metálica só nas caixas individuais"
+    "Reality View mostra visão aérea fotorrealista e permite tocar para influenciar o carro",
+    "Tesla diz que o modelo evita erros graves 25 vezes mais",
+    "Atualização é para hardware AI4 (HW4); carros com HW3 ficam de fora"
    ],
-   "body": "Depois de ampliar a coleção Charmera com uma edição inspirada nos anos 2000, a Reto apresentou um sucessor para sua minúscula câmera Kodak: um porta-retrato digital igualmente pequeno para exibir as fotos. O Kodak SlideTag, um pouco menor que um slide de filme clássico, vai além: também funciona como rastreador Bluetooth compatível com a rede Buscar (Find My), da Apple, ou com o Find Hub, do Google.\n\nO SlideTag custará US$ 34,99 cada e, como a Charmera, terá designs retrô distribuídos em caixas-surpresa. A Kodak também vende o conjunto completo com os oito designs por US$ 279,92, mas há uma nona \"edição secreta\", com acabamento metálico, disponível apenas nas caixas individuais.",
+   "body": "A Tesla começou a liberar o Full Self-Driving (Supervised) v15, que chama de reformulação completa de seu sistema de assistência ao motorista de ponta a ponta. O destaque é o Reality View, uma exibição generativa em tempo real que substitui os antigos gráficos de arame por uma visão aérea ao vivo, na qual o motorista vê e pode tocar para influenciar o que o carro planeja fazer.\n\nA perspectiva em terceira pessoa mostra prédios, faixas de pedestres, pessoas e o trânsito com um fotorrealismo logo comparado a \"Grand Theft Auto VI\", lançado dias antes. O próprio Elon Musk postou no X que \"FSD é GTA na vida real\" depois da atualização, liberada no sábado.\n\nPor dentro, o v15 usa um codificador de visão atualizado compartilhado pelos programas FSD, Robotaxi e pelo robô humanoide Optimus. Treinado com milhões de vídeos online, o modelo evita erros graves de direção 25 vezes mais, segundo a Tesla, usando menos poder de computação. A atualização é para carros com o hardware AI4 (HW4) e para o futuro Cybercab, deixando de fora milhões de veículos com HW3.",
    "category": "tecnologia",
    "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display",
-   "published_at": "2026-11-22T22:00:00-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200"
+   "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+   "published_at": "2026-11-23T09:12:28-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&strip=all&crop=0%2C3.0843968816805%2C100%2C93.831206236639&w=1200"
   },
   {
-   "id": "mn23-tecnologia-10",
-   "title": "São Francisco vive boom da IA, mas cresce o medo de um colapso",
-   "summary": "São Francisco, enfraquecida pela pandemia e pelo trabalho remoto, vive um renascimento impulsionado pela IA, com aluguéis e preços de imóveis em alta. Mas cresce a preocupação com uma possível correção forte nas ações de IA, alerta já feito pelo FMI.",
+   "id": "md23-tecnologia-06",
+   "title": "Samsung não deve lançar Galaxy Watch novo em 2027",
+   "summary": "Segundo o ETNews, a Samsung vai adotar um ciclo de lançamento a cada dois anos para seus relógios, e o \"Galaxy Watch 10\" ficaria para 2028. A mudança faz parte de uma reestruturação após dois trimestres de prejuízo na divisão móvel.",
    "highlights": [
-    "OpenAI e Anthropic, que acaba de estrear na Nasdaq, têm sede na cidade",
-    "Escândalo de Jensen Huang derrubou ações de IA",
-    "Nvidia, porém, dobrou o lucro trimestral para US$ 65 bilhões"
+    "Samsung lança um Galaxy Watch novo todo ano desde 2018",
+    "Vendas do Galaxy Watch 9 ficaram abaixo do esperado",
+    "Galaxy Fit 4 deve sair em 2027 por € 79,90"
    ],
-   "body": "Lauren Goldboss, dona de uma pequena empresa de passeio com cães em São Francisco, está contratando e comprando vans graças a um serviço de passeio para cães de escritório popular entre startups de IA. Segundo a BBC, o caso mostra como o boom da IA beneficia outros setores numa cidade que perdeu moradores na pandemia e viu o centro esvaziar com o trabalho remoto. OpenAI e Anthropic — que acaba de estrear na Nasdaq — têm sede ali, e milhares de startups surgiram; aluguéis e imóveis disparam e a vacância de escritórios cai.\n\nMas e se houver uma forte correção nas ações de IA e queda nos investimentos? O FMI foi, no mês passado, a mais recente instituição a alertar para essa possibilidade, e o escândalo envolvendo Jensen Huang, ex-chefe da Nvidia, provocou quedas mais amplas nas ações do setor. Ainda assim, a Nvidia segue muito lucrativa: na quarta-feira informou que seu lucro trimestral dobrou em um ano, para US$ 65 bilhões.\n\nUm funcionário de uma das maiores empresas de IA da cidade, que pediu anonimato, disse à BBC estar \"certo de que o castelo de cartas vai desabar\" e de que isso o afetará.",
-   "category": "tecnologia",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
-   "published_at": "2026-11-22T19:08:00-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "id": "mn23-tecnologia-07",
-   "title": "Autoridades avisam que mais apagões de tecnologia devem vir",
-   "summary": "Depois de uma parada nacional da FAA, uma pane de vários dias no Outlook e uma falha bancária no JPMorgan Chase, autoridades dizem que mais apagões virão. O diretor de Inteligência Nacional, Jay Clayton, e o presidente da Microsoft, Brad Smith, pediram preparo.",
-   "highlights": [
-    "Clayton prevê \"solavancos\" e grande investimento em cibersegurança",
-    "Smith diz que a infraestrutura de informação do mundo está sendo atualizada",
-    "IA facilita achar falhas, tanto para corrigir quanto para invadir"
-   ],
-   "body": "Na última semana, os EUA viram uma suspensão nacional de voos pela FAA, uma pane de vários dias no Outlook que paralisou empresas inteiras e uma falha bancária no JPMorgan Chase — e o consenso é de que haverá mais. \"Os americanos devem estar preparados para muito investimento na modernização de nossos sistemas e em cibersegurança, e para que, a cada salto de tecnologia, haja solavancos no caminho\", disse à CNN o diretor de Inteligência Nacional, Jay Clayton.\n\nO presidente da Microsoft, Brad Smith, fez alerta semelhante no \"Face the Nation\", em tom mais sombrio: \"Temos de estar preparados para os próximos meses, porque isso não se resolve em duas semanas. Toda a infraestrutura de informação do mundo está sendo atualizada agora\".\n\nEmbora não se acredite que as panes recentes tenham sido causadas por ataques, Smith disse que a IA facilitou encontrar falhas, que podem ser usadas para corrigir o código ou, por agentes mal-intencionados, para invadir sistemas. Os últimos meses também tiveram aumento de ataques a sistemas do governo e de empresas, incluindo o USDA, o JPMorgan e supermercados.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-   "published_at": "2026-11-22T17:48:02-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-   "id": "mn23-tecnologia-04",
-   "title": "iOS 27 usa dados móveis para socorrer Wi-Fi fraco",
-   "summary": "O iOS 27 traz o recurso Connectivity Assist, que usa dados celulares para melhorar a conexão quando o Wi-Fi está lento ou inutilizável. A Apple cita exemplos como quintal, garagem, cafés, aeroportos e estádios.",
-   "highlights": [
-    "Recurso detecta Wi-Fi fraco e passa a usar o celular de forma inteligente",
-    "Resolve o iPhone \"preso\" ao Wi-Fi de casa ao sair para o carro",
-    "Explicado pela Apple em documento de suporte"
-   ],
-   "body": "O iOS 27 inclui um recurso que tenta resolver a zona intermediária entre a conexão celular e o Wi-Fi. Em documento de suporte, a Apple explica que o Connectivity Assist usa dados celulares para melhorar a conexão quando o Wi-Fi está lento ou inutilizável, citando exemplos como o quintal ou a garagem, além de \"cafés, aeroportos, estádios e todos os lugares entre eles\".\n\nNa prática, o recurso detecta quando a conexão Wi-Fi está fraca e passa a usar dados móveis para manter o aparelho conectado. Um exemplo citado pelo 9to5Mac é sair de casa e entrar no carro: muitas vezes o iPhone se agarra ao Wi-Fi fraco de casa, dificultando tocar o Apple Music ou abrir rotas no Apple Maps — problema que o Connectivity Assist resolve.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
-   "published_at": "2026-11-22T17:02:43-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-rose.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "mn23-tecnologia-09",
-   "title": "Pixel Weather ganha botão para usuário relatar o tempo e melhorar previsões",
-   "summary": "O Google liberou uma atualização do app Pixel Weather com o recurso \"Relatar o tempo atual\", para usuários compartilharem as condições locais e ajudarem a melhorar as previsões. O app também ganhou ajustes visuais nos alertas.",
-   "highlights": [
-    "Cartões com alertas deixam de ter fundo vermelho forte",
-    "Relato coleta localização e diagnóstico, sem vínculo à conta Google",
-    "Versão 1.1.20261012.x está sendo liberada amplamente"
-   ],
-   "body": "O Google liberou neste fim de semana a atualização mais recente do Pixel Weather, com um novo recurso de relato e pequenos ajustes de interface. Na tela inicial, cidades com alertas meteorológicos ativos deixaram de ter fundo vermelho chamativo; o cartão mantém as cores dinâmicas e apenas o texto do alerta fica em vermelho.\n\nA principal novidade é o \"Relatar o tempo atual\", para \"compartilhar a condição do tempo e melhorar as previsões locais\", com sugestão de enviar um relato quando as condições não parecerem corretas. Segundo o Google, o feedback, a localização do aparelho e alguns dados de diagnóstico serão coletados, mas não associados à conta Google do usuário.",
+   "body": "A Samsung não deve lançar um novo Galaxy Watch em 2027, segundo reportagem do ETNews: a empresa passaria a renovar seus relógios a cada dois anos, empurrando o \"Galaxy Watch 10\" para 2028. O motivo seria uma \"reformulação estrutural para fortalecer a lucratividade\" depois de dois trimestres seguidos de prejuízo na divisão de celulares.\n\nA Samsung lança um Galaxy Watch novo todos os anos desde 2018. O relatório diz que o produto está numa \"fase madura\" do mercado de relógios inteligentes e que as vendas do Galaxy Watch 9 ficaram abaixo do esperado, em parte pelo preço mais alto.\n\nA empresa ainda planeja atualizações de software para o relógio no ano que vem, com melhorias nos recursos de saúde. A pulseira Galaxy Fit 4 também é esperada para 2027, por € 79,90, segundo o Dealabs.",
    "category": "tecnologia",
    "source": "9to5Google",
-   "url": "https://9to5google.com/2026/11/22/pixel-weather-report/",
-   "published_at": "2026-11-22T16:12:41-05:00",
-   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report/",
+   "published_at": "2026-11-23T08:35:00-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-11.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "mn23-tecnologia-05",
-   "title": "MacBook Neo 2 deve chegar por volta de março, com chip A19 Pro",
-   "summary": "Segundo Mark Gurman, da Bloomberg, a Apple mira o ciclo do iOS/macOS 27.4, entre fevereiro e março, para lançar o novo MacBook Neo. O modelo deve trocar o A18 Pro com 8 GB de RAM pelo A19 Pro com 12 GB.",
+   "id": "md23-tecnologia-05",
+   "title": "Bancos já bloqueiam agentes de IA antes da chegada da nova Siri",
+   "summary": "Enquanto a Apple trabalha para transformar a Siri num agente capaz de usar apps no iPhone e no Mac, bancos já estão bloqueando esse tipo de ferramenta. Segundo o 9to5Mac, isso pode ser só o começo.",
    "highlights": [
-    "Mesmo ciclo deve trazer iPhone 18, iPhone 18e, iPad A19 e iPad Air OLED",
-    "Apple planeja lançar novas cores do Neo \"com frequência\"",
-    "iPhone Air 2 e novo iPad Pro devem vir mais tarde no 1º semestre"
+    "Claude, ChatGPT, Grok e Muse já ganharam recursos de agente",
+    "Apple deve levar essas funções à Siri no ano que vem, segundo Mark Gurman",
+    "CEO John Ternus estaria pressionando por desenvolvimento mais rápido"
    ],
-   "body": "Um dos produtos mais queridos da Apple neste ano, o MacBook Neo deve ganhar atualizações anuais, e o próximo modelo pode chegar por volta de março. Segundo Mark Gurman, da Bloomberg, a Apple mira o ciclo de lançamento do iOS/macOS 27.4 para o novo MacBook Neo, junto com o iPad básico com A19, o iPhone 18, o iPhone 18e e o iPad Air com tela OLED. Esse ciclo vai de fevereiro a março, o que não significa necessariamente lançamento no início do período.\n\nO próximo MacBook Neo deve passar do chip A18 Pro com 8 GB de RAM para o A19 Pro com 12 GB. A Apple também pretende apresentar novas cores para o Neo \"com frequência\", embora não esteja claro se isso ocorrerá já nesta geração. A empresa ainda deve lançar o iPhone Air 2 e um novo iPad Pro no primeiro semestre, um pouco depois.",
+   "body": "Uma das mudanças mais marcantes da IA é a chegada de agentes inteligentes capazes de usar apps do iPhone e do Mac para executar tarefas em nome do usuário. Chatbots de terceiros já fazem isso, e a Apple trabalha para transformar a Siri num agente — mas, antes mesmo de a empresa ter essa chance, bancos já estão bloqueando essas ferramentas, segundo o 9to5Mac.\n\nClaude, ChatGPT, Grok e Muse já ganharam capacidades de agente, e a Apple deve levá-las à Siri em algum momento do ano que vem. Mark Gurman, da Bloomberg, disse neste mês que a empresa quer seguir nessa direção, e o CEO John Ternus estaria pressionando Craig Federighi por um desenvolvimento de software mais rápido, indo \"além das melhorias necessárias na Siri\".\n\nNa semana passada, uma vaga de emprego da Apple, depois apagada, também detalhava planos nessa área. O site avalia que o bloqueio pelos bancos pode ser apenas o início da resistência a agentes de IA.",
    "category": "tecnologia",
    "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report/",
-   "published_at": "2026-11-22T10:38:23-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://9to5mac.com/2026/11/23/as-apple-works-on-ai-agent-features-banks-are-already-blocking-them/",
+   "published_at": "2026-11-23T07:55:35-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/As-Apple-works-on-AI-agent-features-banks-are-already-blocking-them.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "md23-tecnologia-03",
+   "title": "Oregon e Virgínia processam a SpaceX por deepfakes sexuais do Grok",
+   "summary": "Virgínia e Oregon se tornaram os primeiros estados a processar a SpaceX, de Elon Musk, por problemas no gerador de imagens de IA Grok. As ações dizem que a empresa não impediu a criação e o compartilhamento de deepfakes explícitos, inclusive de crianças.",
+   "highlights": [
+    "Processos citam leis estaduais de proteção ao consumidor",
+    "Estados acusam a empresa de vender Grok e X como seguros",
+    "X permite acesso de menores a partir de 13 anos"
+   ],
+   "body": "Os processos contra a SpaceX, de Elon Musk, estão se acumulando: Virgínia e Oregon se tornaram os primeiros estados a processar a empresa por problemas com o gerador de imagens de IA Grok. Pesquisas da Internet Watch Foundation, do Center for Countering Digital Hate e de outros grupos apontam que versões do Grok e da rede social X permitiram gerar e distribuir deepfakes explícitos baseados em fotos ou vídeos reais de crianças e de pessoas que não consentiram.\n\nNas ações apresentadas a tribunais estaduais, o procurador-geral do Oregon, Dan Rayfield, e o da Virgínia, Jay Jones, argumentam que a SpaceX não criou salvaguardas para impedir que usuários fizessem e compartilhassem imagens nocivas, especialmente supostos materiais de abuso sexual infantil gerados por IA.\n\nAs queixas também afirmam que a empresa apresentou falsamente o Grok e o X como seguros, o que violaria as leis de proteção ao consumidor dos dois estados. Os procuradores destacam a gravidade do caso porque o X permite o acesso de menores a partir de 13 anos.",
+   "category": "tecnologia",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+   "published_at": "2026-11-23T07:40:37-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108282790-1774443628624-gettyimages-2265843824-raa-grokaieu260313_np8wx.jpeg?v=1774443657&w=1920&h=1080"
+  },
+  {
+   "id": "md23-tecnologia-08",
+   "title": "Agente de IA Muse, da Meta, poderá fazer compras de Black Friday no Walmart",
+   "summary": "O Walmart passou a permitir que o Muse, agente de IA da Meta, encontre e compre ofertas de Black Friday em nome do usuário. As compras passam por \"Agent Profiles\" na conta do cliente, com limites de gasto e aprovação.",
+   "highlights": [
+    "Recurso usa o Agent Gateway anunciado pelo Walmart no mês passado",
+    "Usuário define limite de gastos e pode aprovar compras",
+    "Amazon e eBay bloqueiam agentes de IA em suas plataformas"
+   ],
+   "body": "O Walmart vai permitir que o Muse, da Meta, faça compras em nome do usuário, encontrando e comprando ofertas de Black Friday por meio do assistente Sparky. A varejista está colocando em funcionamento o Agent Gateway anunciado no mês passado, que ajuda agentes de IA a achar produtos relevantes sem compartilhar o histórico de compras.\n\nO Muse faz as compras pelos \"Agent Profiles\", um espaço dedicado à atividade do agente dentro da conta Walmart do cliente, onde é possível definir limites de gasto, aprovar compras e conferir o histórico de tudo o que o Muse comprou. O pagamento é feito na própria conversa, com um cartão salvo na conta Walmart e os mesmos preços do site.\n\nEnquanto Amazon e eBay bloquearam agentes de IA em suas plataformas, o Walmart diz que o suporte ao Muse é \"só o começo\" e que novas experiências para outros agentes e apps estão \"a caminho\".",
+   "category": "tecnologia",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "published_at": "2026-11-23T06:00:00-05:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   }
  ]
 }
