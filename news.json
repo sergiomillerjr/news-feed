@@ -1,632 +1,568 @@
 {
  "version": 2,
- "generated_at": "2026-11-24T06:46:28-05:00",
- "edition": "manha",
+ "generated_at": "2026-11-24T10:45:32-05:00",
+ "edition": "meio-dia",
  "timezone": "America/New_York",
  "items": [
   {
-   "id": "mn24-eua-05",
-   "title": "Trump perdoa os perus Freedom e Feather nesta terça",
-   "summary": "Dois perus da Virgínia Ocidental, Freedom e Feather, recebem nesta terça-feira o tradicional perdão de Ação de Graças do presidente Trump. O público pode votar online em qual deles terá a cerimônia na Casa Branca.",
+   "id": "md24-eua-02",
+   "title": "Confiança do consumidor dos EUA dispara em novembro",
+   "summary": "O índice de confiança do consumidor do Conference Board subiu para 103,3 em novembro, ante 91,9 em outubro. A alta reflete a queda do preço da gasolina e o fim da incerteza eleitoral.",
    "highlights": [
-    "Será o 79º perdão de perus, segundo a Casa Branca",
-    "As duas aves viverão na Universidade Texas A&M",
-    "Tradição virou anual no governo George H.W. Bush, em 1989"
+    "Segunda alta seguida após mínima desde 2014 em setembro",
+    "Confiança subiu entre democratas e independentes e caiu entre republicanos",
+    "Galão de gasolina caiu para US$ 3,61 em média, segundo a AAA"
    ],
-   "body": "Os perus Freedom e Feather serão poupados da mesa de Ação de Graças pelo presidente Donald Trump nesta terça-feira, mas só um deles receberá o perdão cerimonial presencial na Casa Branca — escolhido por votação online do público. As duas aves, nascidas na Virgínia Ocidental, viverão na Universidade Texas A&M.\n\nSegundo a Casa Branca, este será o 79º perdão de perus, embora a tradição só tenha se tornado anual a partir do governo George H.W. Bush, em 1989. Uma das primeiras histórias do tipo remonta a Abraham Lincoln, que poupou uma ave destinada à ceia de Natal após pedido do filho Tad.",
+   "body": "A confiança dos americanos na economia deu um salto neste mês, segundo o Conference Board. É a segunda alta consecutiva depois de o índice cair, em setembro, ao nível mais baixo desde abril de 2014 — pior até que durante a pandemia. Os consumidores também veem melhora no mercado de trabalho.\n\nO resultado mostrou fortes divisões políticas: a confiança subiu muito entre democratas e independentes e recuou levemente entre republicanos. A melhora pode indicar mais consumo nos próximos meses e é um bom sinal para o varejo no início das compras de fim de ano, embora economistas digam que essas pesquisas já não medem o comportamento do consumidor tão bem quanto antes.\n\nOs preços da gasolina seguem em queda rápida: o galão custava em média US$ 3,61 nesta terça-feira, segundo a AAA, 17 centavos a menos que uma semana antes, embora ainda acima do normal para a época.",
    "category": "eua",
-   "source": "Local 10 (AP)",
-   "url": "https://www.local10.com/news/politics/2026/11/24/trump-to-offer-thanksgiving-pardons-for-turkeys-freedom-and-feather-at-the-white-house/",
-   "published_at": "2026-11-24T00:03:48-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/7FDFET5NFUWIRRHES36QWCXKVY.jpg?auth=de2d5d252637c6f6e95667368f843a4e0d2b494ffb42351d4a0a606dfedc6454&width=700"
+   "source": "AP / Local10",
+   "url": "https://www.local10.com/business/2026/11/24/us-consumer-confidence-soars-as-election-uncertainty-ends-gas-prices-fall/",
+   "published_at": "2026-11-24T10:24:56-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/FXFNMFPVERVHK5D2I5P5W52JWQ.jpg?auth=b34bba8b600c575c868985dfa6ba3b1642f58055eed56a07b239fe54d5418f5b&width=700"
   },
   {
-   "id": "mn24-eua-01",
-   "title": "Tribunal libera Exército para detonar explosivos em Iowa",
-   "summary": "Um tribunal federal de apelações recusou-se a bloquear a detonação de cinco toneladas de explosivos com azida de chumbo numa fábrica de munições em Iowa. O Exército diz que a operação ocorre na quarta-feira de manhã, com apoio da governadora Kim Reynolds.",
+   "id": "md24-eua-06",
+   "title": "Trump pode ter ganho até US$ 15 milhões com ações da Nvidia",
+   "summary": "Donald Trump pode ter lucrado até US$ 15 milhões com suas ações da Nvidia após a alta provocada pela volta de Jensen Huang ao comando da empresa. O presidente disse ter \"convencido\" o conselho a reintegrar o CEO.",
    "highlights": [
-    "8º Circuito diz que ambientalistas não mostraram chance de vencer",
-    "Material degradado pode explodir de forma descontrolada",
-    "Trump havia condicionado a operação ao aval do governador eleito"
+    "Declarações indicam até 370 mil ações da Nvidia em 30 de setembro",
+    "Ações subiram 31,5% na segunda, somando cerca de US$ 950 bi em valor",
+    "\"Eu os convenci... eu fiz o acordo\", disse Trump à CNBC"
    ],
-   "body": "O Tribunal de Apelações do 8º Circuito decidiu na segunda-feira não impedir que o Exército detone cinco toneladas de explosivos contendo azida de chumbo numa fábrica de munições em Iowa. Grupos ambientalistas alertavam que a explosão poderia lançar uma nuvem de partículas tóxicas de chumbo sobre a região e que a EPA não teria avaliado bem os riscos.\n\nPara o tribunal, os explosivos degradados representam o risco de uma explosão descontrolada, sem as medidas de segurança previstas na licença. Após a decisão, o Exército afirmou que a governadora Kim Reynolds apoia a operação e o secretário interino Adam Telle disse que a detonação \"extensivamente mitigada\" ocorrerá na quarta-feira de manhã, conforme previsto.\n\nMais cedo, Trump havia dito que o governo não seguiria adiante sem a decisão judicial e sem o aval do governador eleito democrata Rob Sand, que ainda não tomou posse e cuja aprovação não é tecnicamente necessária.",
+   "body": "Huang, cofundador da Nvidia em 1993, havia sido afastado pelo conselho após alegações de três casos extraconjugais, incluindo um com uma suposta espiã chinesa e dois com funcionárias. O conselho o reintegrou depois de uma intervenção do presidente. \"Falei com eles, digamos assim. E eu os convenci… eu fiz o acordo\", disse Trump à CNBC na segunda-feira.\n\nAs declarações financeiras de Trump ao Escritório de Ética Governamental indicam que ele pode ter tido até 370 mil ações da Nvidia em 30 de setembro, segundo informação revelada primeiro pelo Financial Times. Com a alta de 31,5% na segunda, o ganho potencial chegaria a US$ 15 milhões; nesta terça, porém, os papéis voltaram a cair.",
    "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/",
-   "published_at": "2026-11-23T22:21:47-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/92eabf07-5631-4d13-bd7d-555571190eb6/thumbnail/1200x630/dc5fac32e6d2d81a3d442048e904db52/ap26322823699168.jpg"
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+   "published_at": "2026-11-24T10:23:20-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d371a0004e0bee9a09bfd9ada713138"
   },
   {
-   "id": "mn24-eua-03",
-   "title": "Justiça divulga documentos da busca na casa de Ilhan Omar",
-   "summary": "Um tribunal federal divulgou 169 páginas, em grande parte censuradas, sobre a busca realizada no mês passado na casa da deputada Ilhan Omar em Washington. Os papéis mostram debates entre promotores e uma juíza sobre causa provável e prerrogativas constitucionais.",
+   "id": "md24-eua-07",
+   "title": "Ações de IA recuam, mas maioria de Wall Street sobe",
+   "summary": "Ações ligadas à inteligência artificial voltaram a puxar o mercado americano para baixo nesta terça-feira, enquanto a maior parte das ações subia. O S&P 500 caía 0,5% e o Dow Jones ganhava 271 pontos no início do pregão.",
    "highlights": [
-    "Mandado foi pedido em 2 de outubro e assinado em 9 de outubro",
-    "Pedido cita supostas violações \"de 1980 até o presente\"",
-    "Governo apresentou dois pareceres sigilosos à juíza"
+    "Nasdaq recuava 1,3% por volta das 10h05",
+    "S&P 500 caminha para a 8ª queda em 9 dias",
+    "Temor é de bolha nas ações de IA"
    ],
-   "body": "Um tribunal federal liberou na segunda-feira à noite documentos sobre a operação de busca, no mês passado, na casa da deputada democrata Ilhan Omar, de Minnesota, em Washington. A maior parte das 169 páginas está fortemente censurada e reúne trocas entre promotores federais e uma juíza sobre causa provável, prerrogativas constitucionais, execução do mandado e sua divulgação.\n\nSegundo um dos documentos, o governo pediu em 2 de outubro um mandado para buscar registros que seriam provas de violações envolvendo Omar ocorridas \"de 1980 até o presente\" — o trecho sobre quais seriam as violações está censurado. Os promotores apresentaram dois pareceres ex parte, sem a presença da outra parte, antes de a juíza assinar o mandado, em 9 de outubro.",
+   "body": "O S&P 500 chegou a cair 1,4% e, por volta das 10h05 (horário do leste), recuava 0,5%, rumo à oitava perda em nove pregões. Ações de tecnologia lideraram a queda, revertendo a disparada de segunda-feira, e derrubaram o Nasdaq em 1,3%. Ainda assim, a maioria das ações subia, e o Dow Jones avançava 271 pontos, ou 0,5%.\n\nO mercado vem caindo desde a máxima histórica do mês passado. A preocupação é que as ações ligadas à IA tenham subido demais, formando uma possível bolha, o que teria grande impacto no mercado como um todo e nas contas de aposentadoria 401(k), já que o setor se tornou o mais influente de Wall Street.",
    "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/congresswoman-ilhan-omar-house-raid-documents-release/",
-   "published_at": "2026-11-23T21:21:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/a881e000-d5c2-435b-be5f-7f9213cba12d/thumbnail/1200x630/a1f1f525e37771d6654fc7d76d18579d/gettyimages-2299437924.jpg"
+   "source": "AP / Local10",
+   "url": "https://www.local10.com/news/2026/11/24/wall-streets-sugar-high-quickly-disappears-as-nvidia-and-other-ai-stocks-tumble-again/",
+   "published_at": "2026-11-24T10:19:40-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/R5EIPDJLK67DDTNRFYDYI5DSKQ.jpg?auth=fb767890c91b112b5ddeaf2850bd945cd2d82d40c651740b8bcdc3b64a2f842b&width=700"
   },
   {
-   "id": "mn24-eua-04",
-   "title": "Pensilvânia registra 9ª morte por sarampo no ano",
-   "summary": "A Pensilvânia anunciou a nona morte relacionada ao sarampo em 2026, no condado de Centre. O estado tem o maior surto do país, com mais de 1.600 casos, enquanto os EUA perderam o status de país livre da doença.",
+   "id": "md24-eua-01",
+   "title": "Trump dará Medalha da Liberdade a Rudy Giuliani",
+   "summary": "O presidente Trump deve entregar nesta terça-feira a Medalha Presidencial da Liberdade a Rudy Giuliani, seu ex-advogado pessoal na eleição de 2020. A cerimônia está prevista no Salão Oval às 11h (horário do leste).",
    "highlights": [
-    "Virgínia registrou dias antes a morte de uma criança com sarampo",
-    "São as primeiras mortes por sarampo no estado em 35 anos",
-    "Casos no país atingem o maior nível em décadas"
+    "Giuliani, de 82 anos, anunciou a honraria no podcast de Steve Bannon",
+    "Será o terceiro agraciado por Trump no segundo mandato",
+    "Medalha foi criada por Harry Truman em 1945"
    ],
-   "body": "O Departamento de Saúde da Pensilvânia anunciou na segunda-feira a nona morte relacionada ao sarampo neste ano, registrada no condado de Centre, no centro do estado, sem dar mais detalhes sobre o paciente. O anúncio veio três dias depois de a Virgínia informar a morte de uma criança com menos de 5 anos que testou positivo para a doença.\n\nO surto da Pensilvânia é o maior dos EUA, com mais de 1.600 casos, e as mortes deste ano são as primeiras por sarampo no estado em 35 anos. Os EUA haviam eliminado o sarampo em 2000, mas perderam esse status na semana passada, com os casos chegando ao maior patamar em décadas.",
-   "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/pennsylvania-measles-outbreak-death/",
-   "published_at": "2026-11-23T20:26:00-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/a89c5a9f-eb1d-49e6-b155-082eb0558a42/thumbnail/1200x630/8f0c9060ae8560f7d2feefd105be69a3/gettyimages-2305918560.jpg"
-  },
-  {
-   "id": "mn24-eua-02",
-   "title": "Deputado Jimmy Gomez renuncia após relatório de ética",
-   "summary": "O deputado democrata Jimmy Gomez, da Califórnia, anunciou que deixará o Congresso depois que o Comitê de Ética da Câmara apontou \"provas substanciais\" de má conduta sexual contra uma funcionária. A renúncia vale a partir de 1º de dezembro.",
-   "highlights": [
-    "Comitê diz que conduta pode configurar abuso sexual",
-    "Gomez discorda das conclusões, mas diz não ter alternativa",
-    "Ele já sairia em janeiro após perder a reeleição"
-   ],
-   "body": "Jimmy Gomez anunciou na segunda-feira que renunciará ao mandato, logo após o Comitê de Ética da Câmara divulgar relatório segundo o qual há \"provas substanciais\" de que ele fez investidas sexuais indesejadas e teve contato sexual com uma funcionária da Câmara. O comitê afirmou que o comportamento \"poderia constituir abuso sexual\" de nível contravencional.\n\nGomez disse ter \"fortes discordâncias\" com as conclusões, mas que não via \"outra alternativa a não ser renunciar\". A saída vale a partir de 1º de dezembro, para que sua equipe conclua atendimentos a eleitores. Ele já deixaria o cargo no início de janeiro, depois de perder a eleição. A investigação bipartidária havia sido aberta em agosto.",
+   "body": "Rudy Giuliani, ex-prefeito de Nova York, disse na segunda-feira ao podcast \"War Room\", de Steve Bannon, que receberia na Casa Branca a mais alta honraria civil do país. A agenda de Trump prevê uma cerimônia da Medalha da Liberdade no Salão Oval às 11h; não está claro se outras pessoas também serão homenageadas. \"Estou, claro, muito, muito honrado\", afirmou Giuliani.\n\nCriada em 1945 por Harry S. Truman, a medalha reconhece contribuições à segurança ou aos interesses nacionais dos EUA, à paz mundial e a outras áreas. Segundo o Serviço de Pesquisa do Congresso, Trump já concedeu a honraria a 26 pessoas em seus dois mandatos. Giuliani será o terceiro no segundo mandato, depois das homenagens póstumas ao ativista Charlie Kirk e a Welles Crowther, morto nos atentados de 11 de setembro.",
    "category": "eua",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/",
-   "published_at": "2026-11-23T18:23:01-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/e8fead1e-2199-453f-b03f-cdac4f7f0b65/thumbnail/1200x630/eab5d55afb9eaad5979b73f5e8feb4b0/gettyimages-2214317647.jpg"
+   "url": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/",
+   "published_at": "2026-11-24T09:23:43-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/24/edf7d73f-b506-4db2-87c4-e79e3d297621/thumbnail/1200x630/38ed9629b0b4e8500c7e2d4504472bba/gettyimages-2286280485.jpg"
   },
   {
-   "id": "mn24-eua-06",
-   "title": "Diretor de Inteligência Jay Clayton será diretor cibernético interino",
-   "summary": "O diretor de Inteligência Nacional, Jay Clayton, foi escolhido para ocupar interinamente o cargo de diretor nacional de cibersegurança, segundo a Casa Branca. Ele fica no posto até a confirmação de Kirsten Davies pelo Senado.",
+   "id": "md24-eua-05",
+   "title": "Virgínia inclui aborto e casamento gay na Constituição",
+   "summary": "Eleitores da Virgínia aprovaram nas eleições de meio de mandato três emendas constitucionais: direito ao aborto, ao casamento entre pessoas do mesmo sexo e restauração do voto para pessoas com condenações passadas. Organizadoras dizem que agora o foco é a implementação.",
    "highlights": [
-    "Clayton já acumulou o cargo de czar de IA em outubro",
-    "Kirsten Davies é a CIO do Pentágono",
-    "Ela substituirá Sean Cairncross, confirmado em 2025"
+    "Campanhas foram lideradas por mulheres e ativistas negros",
+    "Estado foi a antiga \"capital da Confederação\"",
+    "Grupos querem garantir acesso real ao aborto, não só o direito"
    ],
-   "body": "Jay Clayton, diretor de Inteligência Nacional, vai atuar como diretor nacional de cibersegurança interino enquanto a indicada permanente do governo Trump aguarda confirmação no Senado, disse um funcionário da Casa Branca à CNBC na segunda-feira. Em outubro, Trump já havia adicionado o cargo de czar de inteligência artificial às funções de Clayton.\n\nNa semana passada, a Casa Branca anunciou a escolha de Kirsten Davies, chefe de informação do Pentágono, para comandar o Escritório do Diretor Nacional de Cibersegurança, que assessora o presidente e coordena a política cibernética entre as agências federais. Davies substituirá Sean Cairncross, confirmado em agosto de 2025.",
+   "body": "Segundo o Guardian, progressistas tiveram ganhos históricos no Sul nas eleições de meio de mandato, e a Virgínia aprovou três emendas que protegem liberdades civis que vinham sendo corroídas no segundo mandato de Trump: o direito ao aborto, o casamento entre pessoas do mesmo sexo e a restauração do direito de voto para quem tem condenações criminais no passado.\n\nAs vitórias foram lideradas por mulheres e organizadores negros, que querem aproveitar o embalo. \"Há muito trabalho pela frente para garantir que a emenda seja implementada corretamente\", disse Han Jones, da Virginians for Reproductive Freedom. Desde que a Suprema Corte derrubou Roe v. Wade em 2022, proibições ao aborto se espalharam pelo país, sobretudo no Sul.",
    "category": "eua",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
-   "published_at": "2026-11-23T18:02:18-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108557646-1795458071771-gettyimages-2305212170-AA_18112026_3052810.jpeg?v=1795472368&w=1920&h=1080"
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/virginia-voting-rights-abortion-gay-marriage",
+   "published_at": "2026-11-24T08:30:47-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/4c5604354e661646eaf934e2fd471b9aff7a99cf/93_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1671f94ed999f14cf8fa207db1897739"
   },
   {
-   "id": "mn24-eua-07",
-   "title": "EUA colocam Megaspeed na lista negra após escândalo da Nvidia",
-   "summary": "O governo Trump proibiu a Megaspeed, de Singapura, de comprar chips avançados sem licença, ao incluí-la na Entity List. A empresa é acusada de repassar chips da Nvidia à China, o que nega.",
+   "id": "md24-eua-04",
+   "title": "Tempestades nas duas costas ameaçam viagens de Ação de Graças",
+   "summary": "Sistemas de tempestade nas costas Oeste e Leste dos EUA podem atrapalhar as viagens de milhões de pessoas no feriado de Ação de Graças. A AAA prevê 81,5 milhões de viajantes entre 24 e 30 de novembro.",
    "highlights": [
-    "Caso deu início ao escândalo envolvendo Jensen Huang",
-    "Huang admitiu caso com ex-executiva da Megaspeed",
-    "Empresa já estava na lista \"não vender\" da Nvidia desde 2025"
+    "Tempestades do Pacífico trazem chuva, neve nas montanhas e ressaca",
+    "Nor'easter deve se formar na costa leste no feriado",
+    "Alertas de inundação costeira estão em vigor no oeste"
    ],
-   "body": "O Departamento de Comércio dos EUA incluiu na segunda-feira a Megaspeed, operadora de data centers no Sudeste Asiático sediada em Singapura, na Entity List, o que a impede de comprar tecnologias americanas sensíveis — incluindo chips avançados — sem licença federal. A empresa é acusada de transferir à China chips de IA da Nvidia, o que nega.\n\nOs supostos vínculos da Megaspeed com a China deram início ao escândalo em torno do CEO da Nvidia, Jensen Huang, que admitiu neste mês ter tido um caso com uma ex-executiva da empresa que, segundo agências de inteligência dos EUA, seria um ativo da inteligência chinesa. A Megaspeed já estava na lista interna de \"não vender\" da Nvidia desde junho de 2025, segundo os departamentos de Justiça e Comércio.",
+   "body": "Segundo a AAA, 81,5 milhões de americanos devem viajar pelo menos 80 km (50 milhas) de casa entre terça-feira, 24 de novembro, e segunda, 30. O Serviço Nacional de Meteorologia afirma que uma série de sistemas vindos do Pacífico trará chuva generalizada, neve nas montanhas, ventos fortes e ondas altas à costa oeste nesta semana, com alertas de inundação costeira.\n\nUma forte tempestade deve atingir o noroeste na noite de terça e ao longo de quarta-feira, com chuva particularmente intensa. Na costa leste, uma tempestade ao largo do sudeste deve se intensificar na quarta e subir pelo litoral, transformando-se num poderoso nor'easter no Dia de Ação de Graças, com enchentes, ventos fortes e chuva pesada.",
    "category": "eua",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/",
-   "published_at": "2026-11-23T17:16:20-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/04ac1d54-837b-4a0a-8131-b0085e879d09/thumbnail/1200x630g3/2bb5a0d903d0bac68e7ccbc926b01cce/gettyimages-2303987004.jpg"
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno",
+   "published_at": "2026-11-24T06:40:46-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/81f2/live/d95747e0-e811-11f1-99b6-a35a62fa4264.jpg"
   },
   {
-   "id": "mn24-mundo-10",
-   "title": "Idoso com Alzheimer sobrevive 11 dias perdido na Amazônia",
-   "summary": "Janarino Ferreira dos Santos, de 74 anos, que tem Alzheimer, foi encontrado vivo após 11 dias sozinho numa área de floresta a cerca de 10 km de Macapá. Ele se recupera num hospital da capital do Amapá.",
+   "id": "md24-eua-03",
+   "title": "Democratas ampliam investigação sobre firma de Trump Jr.",
+   "summary": "Democratas do Congresso, liderados por Jamie Raskin, ampliaram a investigação sobre a 1789 Capital, firma de investimentos que tem Donald Trump Jr. como sócio. Eles querem saber se o crescimento da empresa foi impulsionado por influência política.",
    "highlights": [
-    "Sobreviveu comendo frutinhas e bebendo água de fontes naturais",
-    "Fez camas com folhas de açaizeiro para dormir",
-    "Resgatistas seguiram pegadas que andavam em círculos"
+    "Ativos sob gestão teriam saltado de US$ 150 milhões para US$ 3 bilhões",
+    "Investigadores apuram contratos federais e mudanças regulatórias",
+    "Trump Jr. diz que nada tem a ver com o governo"
    ],
-   "body": "Janarino Ferreira dos Santos foi resgatado na sexta-feira por guardas-parque e voluntários numa mata fechada a cerca de 6 milhas (10 km) de Macapá, no Amapá. Segundo os socorristas, ele sobreviveu comendo frutinhas, bebendo água de fontes naturais e montando camas com folhas de açaizeiro para descansar à noite.\n\n\"Quando era mais novo, ele trabalhou na floresta, então sabia se virar\", disse o guarda-parque Aniel Cardoso, que ajudou a encontrá-lo. A equipe localizou o idoso depois de identificar suas pegadas e perceber que ele andava em círculos.",
-   "category": "mundo",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/man-alzheimers-found-alive-11-days-amazon-rainforest/",
-   "published_at": "2026-11-24T06:23:31-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/24/cc5e7e2d-1def-4915-a25f-977ed01f7f00/thumbnail/1200x630g8/87289ca712d8f1fd82588a809c33c304/brazil-screenshot-2026-11-24-060353.png"
+   "body": "Os democratas, liderados pelo deputado Jamie Raskin, de Maryland, provável presidente da Comissão Judiciária da Câmara, estão expandindo a apuração sobre a 1789 Capital, que contratou Donald Trump Jr. como sócio poucos dias após a reeleição de seu pai. Segundo os investigadores, a firma passou de \"uma empresa de capital de risco mediana\", com US$ 150 milhões em ativos, a \"queridinha\" do setor, com US$ 3 bilhões.\n\nA investigação quer determinar se o filho do presidente usou influência política ou informações do governo para obter contratos federais e mudanças regulatórias para empresas ligadas à firma. Trump Jr. disse ao Axios que o momento de sua contratação foi coincidência, pois já trabalhava havia anos com o fundador, Omeed Malik, e que deixa claro aos investidores estrangeiros que não tem relação com o governo.",
+   "category": "eua",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+   "published_at": "2026-11-24T05:00:00-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+210/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg"
   },
   {
-   "id": "mn24-mundo-02",
-   "title": "Explosão em restaurante mata ao menos 6 em Hanói",
-   "summary": "Uma explosão num restaurante lotado no distrito de Dong Da, em Hanói, matou pelo menos seis pessoas e feriu dez na manhã desta terça-feira. O Ministério da Segurança Pública acredita que a causa tenha sido gás de cozinha.",
+   "id": "md24-eua-08",
+   "title": "Médicos lutam para salvar bebês após pais recusarem vitamina K",
+   "summary": "Hospitais americanos relatam casos de recém-nascidos com sangramentos graves depois que os pais recusaram a injeção de vitamina K. Em um hospital de Grand Rapids, Michigan, ao menos uma família por dia, em média, recusa a aplicação.",
    "highlights": [
-    "Explosão ocorreu por volta das 8h no horário local",
-    "Restaurante no térreo de um prédio quase desabou",
-    "Teme-se que haja pessoas presas nos escombros"
+    "Injeção é dada à maioria dos bebês nas primeiras seis horas de vida",
+    "Médica relata bebê que sangrou \"por toda parte\" no dia seguinte ao parto",
+    "Reportagem liga recusas à desinformação sobre vacinas"
    ],
-   "body": "Uma explosão atingiu um restaurante numa área residencial movimentada da capital do Vietnã, Hanói, por volta das 8h desta terça-feira (horário local), matando ao menos seis pessoas e ferindo dez, segundo as autoridades. O impacto estilhaçou janelas, arrancou portas de metal e danificou muito prédios e casas vizinhas.\n\nO restaurante, que funcionava no térreo de um prédio de apartamentos, ficou quase totalmente destruído, segundo fotos do jornal VnExpress. O Ministério da Segurança Pública acredita que a explosão esteja relacionada a gás de cozinha, e equipes de resgate passaram horas procurando possíveis vítimas presas sob os escombros.",
+   "body": "A reportagem, da KFF Health News publicada pela NPR, conta o caso acompanhado pela médica Torrie LeBlanc no sistema Corewell Health, em Grand Rapids: uma bebê nascida no ano passado começou a sangrar subitamente pelos olhos, nariz e reto horas após o parto. Ela foi levada à UTI neonatal, onde recebeu plasma e outros hemoderivados para repor o sangue perdido.\n\nOs pais haviam recusado a injeção de vitamina K, aplicada na maioria dos recém-nascidos nas primeiras seis horas de vida para prevenir sangramentos. No Hospital Butterworth, da Corewell, ao menos uma família por dia, em média, recusa a aplicação — um reflexo, segundo a reportagem, da desinformação sobre vacinas.",
+   "category": "eua",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+   "published_at": "2026-11-24T05:00:00-05:00",
+   "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+360/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2F03%2Feee970f64e34a9a38cece517b242%2Fvitamink-02.jpg"
+  },
+  {
+   "id": "md24-mundo-05",
+   "title": "China investiga chefe do Partido em Xangai, Chen Jining",
+   "summary": "O órgão anticorrupção da China abriu investigação contra Chen Jining, chefe do Partido Comunista em Xangai e membro do Politburo. Ele é o quarto integrante da cúpula investigado desde o ano passado.",
+   "highlights": [
+    "Chen, de 62 anos, é suspeito de \"graves violações de disciplina e leis\"",
+    "Expressão costuma ser eufemismo para corrupção",
+    "Analista vê \"padrão sem precedentes\" na campanha de Xi"
+   ],
+   "body": "Segundo a agência estatal Xinhua, Chen, de 62 anos, é suspeito de \"graves violações de disciplina e leis\". Na campanha anticorrupção do presidente Xi Jinping, três membros do Politburo de 24 integrantes já foram afastados no atual mandato, iniciado em 2022, entre eles os generais Zhang Youxia e He Weidong, da Comissão Militar Central, e Ma Xingrui, secretário provincial do partido.\n\nPara Mingda Qiu, analista sênior do Eurasia Group, a investigação de Chen faz parte de um \"padrão sem precedentes\" na campanha de Xi contra a cúpula do poder chinês.",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six",
-   "published_at": "2026-11-24T06:17:20-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b055acf65abf-1795513039.jpg?resize=1920%2C1440"
+   "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining",
+   "published_at": "2026-11-24T10:26:50-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=1920%2C1440"
   },
   {
-   "id": "mn24-mundo-08",
-   "title": "Otan promete defesa após relatos de satélite nuclear russo",
-   "summary": "O chefe da Otan, Mark Rutte, disse que a aliança se defenderá de ameaças no espaço após reportagens alemãs de que a Rússia prepara o lançamento de um satélite com arma nuclear. O Kremlin desqualificou os relatos.",
+   "id": "md24-mundo-01",
+   "title": "Dois presos após invasão à casa de campo de William e Kate",
+   "summary": "Dois homens foram presos por suspeita de roubo e invasão em Anmer Hall, casa de campo do príncipe William e da princesa Catherine na propriedade de Sandringham. A família não estava no local.",
    "highlights": [
-    "Relatórios citam possível lançamento nos próximos 60 dias",
-    "Merz diz que relatos \"não são novos\", mas chocantes",
-    "Embaixada russa fala em \"campanha de propaganda\""
+    "Polícia de Norfolk atendeu ao chamado na segunda, por volta das 18h",
+    "Cães, drones e helicóptero foram usados nas buscas",
+    "Anmer Hall foi presente de casamento da rainha Elizabeth II"
    ],
-   "body": "Segundo as emissoras públicas alemãs NDR e WDR e o jornal Süddeutsche Zeitung, citando fontes militares e de inteligência anônimas, relatórios de inteligência sobre um possível lançamento russo de um satélite com arma nuclear nos próximos 60 dias circularam entre países da Otan neste mês. Não ficou claro qual país produziu os relatórios.\n\nO secretário-geral da Otan, Mark Rutte, afirmou que a aliança se defenderá de qualquer ameaça no espaço, e o chanceler alemão Friedrich Merz disse que os relatos \"não são novos, mas não deixam de ser chocantes\". O porta-voz do Kremlin, Dmitry Peskov, disse não ter visto os relatórios e que histórias com \"fontes desconhecidas\" não merecem ser levadas a sério.",
+   "body": "A polícia de Norfolk respondeu a relatos de \"atividade suspeita\" em Anmer Hall, na propriedade de Sandringham do rei Charles III, no leste da Inglaterra, na segunda-feira por volta das 18h. Os dois homens foram presos dentro da propriedade por suspeita de roubo e invasão e seguem detidos. William, Kate e os filhos não estavam no local.\n\nO Palácio de Kensington disse que não comenta questões de segurança. A casa de dez quartos, presente de casamento da rainha Elizabeth II, é usada como residência de fim de semana; a família passa a maior parte do tempo em Forest Lodge, em Windsor.",
+   "category": "mundo",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
+   "published_at": "2026-11-24T10:20:00-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/10/84bf62cf-6140-46e4-8b87-283149990932/thumbnail/1200x630g6/d75410464e5faa0c0fe3f24f0983bb8c/gettyimages-2177028126.jpg"
+  },
+  {
+   "id": "md24-mundo-08",
+   "title": "Minas terrestres fazem cada vez mais vítimas na Síria",
+   "summary": "Quase mil crianças foram mortas ou feridas por explosivos na Síria desde a queda de Bashar al-Assad, em dezembro de 2024, segundo a ONU. Famílias que voltam a antigas linhas de frente são as mais atingidas.",
+   "highlights": [
+    "Menina de 11 anos morreu ao cuidar de cabras no noroeste do país",
+    "Irmão de 10 anos ficou gravemente ferido",
+    "Equipes de desminagem já haviam visitado os campos"
+   ],
+   "body": "No domingo, Alaa, de 11 anos, cuidava das cabras da família com os irmãos num campo atrás de casa em Umm Khuzaym, no noroeste da Síria, quando houve um clarão e um estrondo. O pai encontrou a filha morta e o filho Mahmoud, de 10 anos, gravemente ferido.\n\nEsse e outros casos da semana elevam a quase mil o número de crianças mortas ou feridas por artefatos explosivos desde a queda de Assad, segundo o Serviço de Ação contra Minas da ONU (Unmas). Muitas famílias estão voltando a casas e terras que ficavam nas linhas de frente dos 13 anos de guerra civil; o pai de Alaa disse que equipes de desminagem haviam passado várias vezes e que os moradores acreditavam que a área era segura.",
    "category": "mundo",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-   "published_at": "2026-11-24T05:58:51-05:00",
-   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
+   "published_at": "2026-11-24T10:17:28-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg"
   },
   {
-   "id": "mn24-mundo-06",
-   "title": "Ataques israelenses matam 7 em Gaza; médicos alertam para meningite",
-   "summary": "Ao menos sete palestinos, incluindo uma criança e policiais, morreram em ataques aéreos israelenses em Gaza. Autoridades de saúde alertam para um surto de meningite, com 272 casos em outubro.",
+   "id": "md24-mundo-02",
+   "title": "Gisèle Pelicot vai processar editora por envio de imagens íntimas",
+   "summary": "Gisèle Pelicot, francesa que foi drogada e estuprada pelo marido e dezenas de homens, disse que processará a editora Tinard e a autora de um livro. Fotos e vídeos dela nua foram enviados à imprensa para promover a obra.",
    "highlights": [
-    "Casos de meningite foram oito vezes a média mensal",
-    "Drone atingiu área de al-Mawasi, em Khan Younis",
-    "Dezenas de feridos em várias áreas da Faixa"
+    "Livro da psicanalista Sabine Prokhoris questiona se ela foi vítima",
+    "Pelicot, de 73 anos, diz ter sido \"humilhada mais uma vez\"",
+    "Ela rejeita que sua história seja reescrita como cumplicidade"
    ],
-   "body": "Autoridades de saúde de Gaza confirmaram nesta terça-feira a morte de pelo menos sete palestinos em ataques aéreos israelenses. Três pessoas, incluindo uma criança, morreram na área de Wadi Gaza, no centro do território; outros três, que eram policiais, foram mortos por um drone em al-Mawasi, a oeste de Khan Younis, e uma quarta pessoa morreu por ferimentos no campo de refugiados de Jabalia.\n\nAo mesmo tempo, foi emitido um alerta de saúde pública sobre um surto de meningite: os casos chegaram a 272 em outubro, mais de oito vezes a taxa mensal típica, segundo as autoridades de saúde locais.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak",
-   "published_at": "2026-11-24T05:47:41-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b055927c071-1795512615.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mn24-mundo-04",
-   "title": "Coreia do Sul emite alerta aéreo após voo de caças russos",
-   "summary": "A Coreia do Sul enviou caças e emitiu alertas de ataque aéreo para moradores da ilha de Ulleung depois que aviões militares russos se aproximaram de seu espaço aéreo. As aeronaves entraram brevemente na zona de identificação de defesa aérea do país.",
-   "highlights": [
-    "Militares dizem que uma invasão do espaço aéreo era prevista",
-    "Alerta inicial citou por engano um avião norte-coreano",
-    "Episódio ocorreu sobre o mar entre a Coreia e o Japão"
-   ],
-   "body": "Aviões militares russos entraram brevemente nesta terça-feira na zona de identificação de defesa aérea (ADIZ) da Coreia do Sul e \"múltiplas\" aeronaves estiveram \"a ponto\" de entrar no espaço aéreo sobre a ilha de Ulleung, segundo os militares sul-coreanos, que enviaram caças. \"Previa-se uma invasão do espaço aéreo. Por isso, para proteger nossa população, emitimos o alerta preventivamente\", disse o porta-voz do Estado-Maior Conjunto, Jang Do-young.\n\nAs autoridades chegaram a emitir antes um alerta dizendo que um avião norte-coreano havia feito uma incursão — o que seria uma escalada significativa entre as duas Coreias, tecnicamente ainda em guerra — e depois corrigiram a informação.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace",
-   "published_at": "2026-11-24T04:53:55-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0542cecf24-1795506894.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mn24-mundo-05",
-   "title": "Ataque russo mata dois em Zaporizhzhia, na Ucrânia",
-   "summary": "Um ataque aéreo russo a Zaporizhzhia matou duas pessoas e feriu mais de 40, incluindo um bebê. A ofensiva veio um dia depois de Kiev dizer que seus drones afundaram um navio de guerra russo num porto da Líbia.",
-   "highlights": [
-    "Rússia diz ter derrubado 699 drones ucranianos",
-    "Moscou foi alvo de 355 drones durante a noite",
-    "Ucrânia relata 96 drones russos e impactos em 13 locais"
-   ],
-   "body": "O ataque russo ao amanhecer desta terça-feira destruiu uma casa e danificou um prédio de cinco andares em Zaporizhzhia, no sudeste da Ucrânia, segundo autoridades regionais. Duas pessoas morreram e mais de 40 ficaram feridas, entre elas um bebê.\n\nOs dois lados mantiveram ataques de longo alcance com centenas de drones durante a noite. O Ministério da Defesa russo afirmou ter interceptado 699 drones ucranianos sobre sete regiões, a Crimeia ocupada e o Mar Negro, e o prefeito de Moscou, Sergei Sobyanin, disse que 355 drones voaram em direção à capital. Já a Força Aérea ucraniana relatou 96 drones russos, com impactos em 13 locais.",
-   "category": "mundo",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia",
-   "published_at": "2026-11-24T04:51:26-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b054d95ca5e-1795509653.jpg?resize=1920%2C1440"
-  },
-  {
-   "id": "mn24-mundo-09",
-   "title": "Diário do papa Francisco revela visões do diabo e crise espiritual",
-   "summary": "Trechos do diário pessoal do papa Francisco, publicados pelo Vaticano nesta terça-feira, revelam que ele viu as \"portas do inferno\" ao entender a dimensão dos abusos sexuais no clero. O livro também relata uma profunda crise espiritual em 2021-2022.",
-   "highlights": [
-    "Livro é lançado mundialmente em várias línguas",
-    "Obra foi organizada pelo cardeal Víctor Manuel Fernández",
-    "Francisco aparece duro consigo mesmo e confiante em Deus"
-   ],
-   "body": "\"O Diário Privado do Papa Francisco\", publicado pelo Vaticano, mostra que o pontífice argentino teve visões místicas do diabo ao longo de seu ministério e viu as \"portas do inferno\" quando percebeu a profundidade do escândalo de abusos sexuais no clero. O texto também revela uma crise espiritual em 2021-2022, ligada à tentação de exercer o poder de forma onipotente, superada ao se entregar à misericórdia de Deus.\n\nO livro, organizado pelo cardeal Víctor Manuel Fernández, um dos auxiliares mais próximos de Francisco e chefe do órgão doutrinário do Vaticano, oferece uma visão íntima de seus medos, inseguranças e tentações, mostrando-o muito exigente consigo mesmo.",
+   "body": "Em entrevista à BFMTV, Pelicot, de 73 anos, disse estar \"profundamente chocada\" que imagens de sua vida mais íntima tenham sido exibidas e exploradas para fins comerciais. O livro, da psicanalista francesa Sabine Prokhoris, critica o conceito de controle coercitivo e sugere que ela poderia ter sido cúmplice dos atos do marido, apesar de ter sido drogada às escondidas por anos.\n\n\"Acima de tudo, recuso que minha história seja reescrita insinuando que fui cúmplice do que sofri\", afirmou. \"Hoje me vejo humilhada, exposta e ferida mais uma vez. Como se o calvário do julgamento não bastasse.\"",
    "category": "mundo",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/pope-francis-devil-gates-of-hell-visions-diary/",
-   "published_at": "2026-11-24T04:18:41-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/24/5ca5487e-a4f0-421a-a29a-2d38b6f8a846/thumbnail/1200x630/3ebe3c393310d40e53349c2ac487a0b1/2026-11-24t060025z-896752755-rc2ntoapu85i-rtrmadp-3-pope-francis-book.jpg"
+   "url": "https://www.cbsnews.com/news/gisele-pelicot-suing-publisher-nude-images-book-france/",
+   "published_at": "2026-11-24T10:04:12-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/12/19/46fa2afe-84c2-4ea7-a5c7-dce8668c9268/thumbnail/1200x630/b5d6ba3744bd383e4157cfee630d0468/gettyimages-2190030341.jpg"
   },
   {
-   "id": "mn24-mundo-07",
-   "title": "Paquistão terá 1º astronauta em missão chinesa",
-   "summary": "O piloto da Força Aérea paquistanesa Muhammad Zeeshan Ali, de 40 anos, vai voar na missão Shenzhou-24 até a estação espacial chinesa Tiangong. Será a primeira vez que o Paquistão envia um astronauta ao espaço.",
+   "id": "md24-mundo-06",
+   "title": "Projétil atinge torre em Riad e fere 11 pessoas",
+   "summary": "Um projétil não identificado atingiu uma torre no distrito financeiro de Riad, na Arábia Saudita, ferindo 11 pessoas. A coalizão liderada pelos sauditas chamou o caso de \"covarde ataque terrorista\".",
    "highlights": [
-    "Lançamento previsto para quarta-feira, às 8h18 de Pequim",
-    "Primeiro voo conjunto de chineses e estrangeiros no programa",
-    "Ali deve passar cerca de uma semana na estação"
+    "Feridos são sauditas, indianos, nepaleses e egípcios",
+    "É o segundo ataque ao distrito financeiro em menos de uma semana",
+    "Ataque anterior danificou a torre do fundo soberano PIF"
    ],
-   "body": "O Paquistão deve enviar seu primeiro astronauta ao espaço na quarta-feira, quando Muhammad Zeeshan Ali, piloto da Força Aérea, se juntar como especialista de carga útil ao comandante Tang Hongbo e ao engenheiro de voo Wu Yi na missão Shenzhou-24. O lançamento está marcado para 8h18 no horário de Pequim (00h18 GMT) no Centro de Lançamento de Jiuquan.\n\nSegundo a agência espacial tripulada da China (CMSA), será o primeiro voo conjunto de astronautas chineses e estrangeiros no programa espacial do país. Após uma aproximação autônoma de cerca de três horas e meia, a nave deve acoplar ao módulo central Tianhe. Ali ficará cerca de uma semana a bordo, fazendo experimentos com a tripulação chinesa.",
+   "body": "Segundo a Defesa Civil saudita, entre os feridos estão dois sauditas, dois indianos, três nepaleses e quatro egípcios. O porta-voz da coalizão liderada pela Arábia Saudita afirmou no X que o ataque desta terça-feira contra o Distrito Financeiro Rei Abdullah foi \"covarde\" e que as autoridades investigam no local.\n\nÉ o segundo ataque ao distrito financeiro de Riad em menos de uma semana. O anterior danificou a torre do Fundo de Investimento Público (PIF), sede do fundo soberano saudita e o arranha-céu mais alto do país, causando \"danos materiais\".",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station",
-   "published_at": "2026-11-24T02:55:18-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T033008Z_1170236701_RC23UOA7V8F8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU-1795502610.jpg?resize=1920%2C1440"
+   "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+   "published_at": "2026-11-24T09:27:38-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff7b0d-1795128077.jpg?resize=1200%2C630"
   },
   {
-   "id": "mn24-mundo-03",
-   "title": "Sheikh Hasina diz que voltará a Bangladesh em 16 de dezembro",
-   "summary": "A ex-primeira-ministra de Bangladesh Sheikh Hasina, exilada na Índia desde 2024, planeja voltar ao país em 16 de dezembro, disse seu porta-voz. O governo afirma que ela só pode retornar por extradição.",
+   "id": "md24-mundo-07",
+   "title": "Reino Unido impõe sanções aos houthis do Iêmen",
+   "summary": "O governo britânico impôs sanções ao grupo houthi do Iêmen e a quatro de seus principais dirigentes, acusando-os de minar a estabilidade no Oriente Médio e de abusos de direitos humanos.",
    "highlights": [
-    "Hasina foi condenada à morte à revelia pela repressão de 2024",
-    "Ela pede para voltar num avião da companhia nacional",
-    "Data marca o fim da guerra de independência de 1971"
+    "Sancionados incluem o ministro do Interior houthi e o chefe de inteligência",
+    "Promotor é suspeito de permitir violência sexual contra detidas",
+    "Ed Miliband diz que o grupo deve ser responsabilizado"
    ],
-   "body": "Sheikh Hasina, derrubada há mais de dois anos por um levante liderado por estudantes, anunciou por meio do porta-voz que pretende voltar do exílio na Índia em 16 de dezembro, aniversário do fim da guerra de libertação de 1971 contra o Paquistão. Ela pediu ao primeiro-ministro Tarique Rahman que providencie o voo pela companhia aérea nacional.\n\nHasina foi depois condenada à morte por um tribunal de Bangladesh, em sua ausência, por ordenar a repressão violenta ao levante, em que centenas de manifestantes morreram. Ela rejeita o veredicto e diz estar pronta para enfrentar o processo ao voltar. O governo, porém, afirma que o retorno só pode ocorrer por extradição.",
+   "body": "O Reino Unido acusou o grupo, apoiado pelo Irã, de \"tentar deliberadamente minar a estabilidade no Oriente Médio\". Os quatro sancionados — o ministro do Interior houthi Abdulkarim Amir al-Din Hussein al-Houthi, o chefe de segurança e inteligência Abdul Hakim Hashem Ali al-Khaiwani, o juiz Mohammed Moufleh e o promotor Sarim al-Din Muffadal — são acusados de envolvimento em violações de direitos humanos.\n\nSegundo o governo britânico, Muffadal é \"razoavelmente suspeito\" de ter cometido ou permitido violência sexual, incluindo estupro, e tortura de mulheres detidas. O secretário de Relações Exteriores, Ed Miliband, disse que o grupo precisa ser responsabilizado por \"atacar nossos parceiros e civis inocentes\".",
    "category": "mundo",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16",
-   "published_at": "2026-11-24T02:35:02-05:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a50b40e-1783673870-e1785862654761.jpg?resize=1920%2C1440"
+   "url": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials",
+   "published_at": "2026-11-24T07:55:55-05:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b058574b0bc-1795523956.jpg?resize=1920%2C1440"
   },
   {
-   "id": "mn24-mundo-01",
-   "title": "China condena funcionário à morte por espionagem",
-   "summary": "Um funcionário chinês identificado apenas pelo sobrenome Ma foi condenado à morte por espionar para um país estrangeiro e vazar informações \"ultrassecretas\" em troca de dinheiro. Ele teria sido recrutado enquanto trabalhava no exterior.",
+   "id": "md24-mundo-04",
+   "title": "Governador russo de Murmansk é preso por corrupção",
+   "summary": "Andrei Chibis, governador da região russa de Murmansk, foi preso sob acusação de desviar mais de 1 bilhão de rublos destinados a uma rodovia no Ártico. É a primeira detenção de um líder regional em cinco anos.",
    "highlights": [
-    "Recrutador \"Kailin\" se aproximou com pretexto de aprender chinês",
-    "Ma foi ameaçado de denúncia se não colaborasse",
-    "Caso foi divulgado por editora ligada ao órgão de segredos de Estado"
+    "Suspeita envolve também 39 milhões de rublos do orçamento de obras",
+    "Ele deve comparecer ao tribunal na quinta-feira",
+    "Esposa diz que as acusações são \"ridículas\""
    ],
-   "body": "Segundo reportagem publicada na segunda-feira por uma conta da Gold Wall Press, editora ligada à Administração Nacional de Proteção de Segredos de Estado da China, o condenado, identificado só como Ma, foi recrutado por um serviço de inteligência estrangeiro enquanto trabalhava fora do país. Os países envolvidos não foram informados.\n\nO recrutador, chamado de \"Kailin\", encontrava Ma com frequência, inicialmente sob o pretexto de aprender chinês, e foi levando as conversas a temas politicamente sensíveis. Depois, um colega do recrutador ameaçou denunciar Ma às autoridades chinesas caso ele se recusasse a cooperar, e ele aceitou trabalhar para o serviço estrangeiro.",
+   "body": "Chibis, de 47 anos, é suspeito de desvio e apropriação indevida de mais de 1 bilhão de rublos (cerca de US$ 12,2 milhões) reservados para a construção de uma rodovia no Ártico, além de 39 milhões de rublos do orçamento de construção de Murmansk. Ele teria sido detido ao chegar a Moscou na segunda-feira e levado para interrogatório; nega irregularidades, mas não fez comentários públicos.\n\nSua esposa, Yevgenia Chibis, disse que \"quem conhece nossa família entende o quão ridículo isso é\". Chibis foi vice-ministro da Construção e Habitação antes de assumir Murmansk, em 2019 — região estratégica para os militares russos no Ártico.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+   "published_at": "2026-11-24T07:45:43-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
+  },
+  {
+   "id": "md24-mundo-03",
+   "title": "Carro-bomba fere mais de 20 em cidade colombiana",
+   "summary": "Um carro-bomba explodiu diante da sede do governo regional em Villavicencio, no centro da Colômbia, ferindo ao menos 23 pessoas. Nenhum grupo assumiu o ataque.",
+   "highlights": [
+    "Presidente Abelardo de la Espriella culpa o \"narcoterrorismo\"",
+    "Grupos armados intensificaram ataques após ofensiva do governo",
+    "Há três semanas, outro carro-bomba matou quatro em Tolima"
+   ],
+   "body": "A explosão atingiu uma das praças centrais da cidade e danificou vários prédios. O ataque é o mais recente de uma série que usa explosivos contra prédios oficiais e quartéis das forças de segurança. O presidente Abelardo de la Espriella atribuiu o atentado ao \"narcoterrorismo\", sem dar detalhes, e prometeu responder \"com contundência e força\".\n\nGrupos criminosos armados vêm ampliando os ataques no que parece ser uma retaliação à ofensiva ordenada pelo presidente contra eles. Há três semanas, três adultos e um bebê morreram num ataque com carro-bomba perto de um quartel do Exército na província de Tolima.",
+   "category": "mundo",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
+   "published_at": "2026-11-24T06:45:52-05:00",
+   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17c0/live/f8f77110-e811-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "id": "md24-mundo-10",
+   "title": "Leoa de Istambul \"nunca existiu\", dizem autoridades",
+   "summary": "Após 24 horas de buscas por uma leoa que assustou moradores nos arredores de Istambul, autoridades turcas disseram que o animal não era um leão nem outro grande felino. A reviravolta deixou muitos confusos.",
+   "highlights": [
+    "Governo chegou a divulgar vídeos do suposto animal",
+    "Floresta de Belgrado, com cerca de 52 km², foi isolada",
+    "Drones térmicos e armadilhas fotográficas não acharam sinais"
+   ],
+   "body": "O governador de Istambul mobilizou especialistas em bem-estar animal, policiais e comandos do Exército depois que o animal foi \"identificado\" no bairro nobre de Uskumrukoy, e chegou a divulgar dois vídeos. Moradores foram orientados a ficar em casa, e a Floresta de Belgrado, ao norte da cidade, foi isolada.\n\nNa noite de segunda-feira, porém, as autoridades disseram que novas imagens mostravam que não se tratava de um leão. A área foi vasculhada com drones com câmeras térmicas, iscas e armadilhas fotográficas, sem evidências concretas. Muitos sugeriram nas redes que era um cachorro grande, e outros publicaram vídeos de gatos domésticos em tom de piada.",
    "category": "mundo",
    "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/china-spy-sentence-death-ma/",
-   "published_at": "2026-11-24T02:15:30-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/d1eb4d74-0047-49bc-97b4-47254b3f367b/thumbnail/1200x630/1c3a769df59ea13767941259af76058f/gettyimages-476616073.jpg"
+   "url": "https://www.cbsnews.com/news/istanbul-lioness-never-existed-turkish-officials-say-after-24-hour-search-for-her/",
+   "published_at": "2026-11-24T06:40:11-05:00",
+   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/3d683708-4d8a-499e-8e84-84fdc6c6d478/thumbnail/1200x630/64cdb7fc85cd06fd4de1d2f8b7effe67/ap26327339472315.jpg"
   },
   {
-   "id": "mn24-weston-01",
-   "title": "Alerta de enchente em Weston: até 3 polegadas de chuva",
-   "summary": "Um alerta de enchente cobre Weston das 19h desta terça até 1h de quinta-feira, Dia de Ação de Graças. A previsão é de 1 a 3 polegadas de chuva sobre um solo ainda encharcado pelas enchentes da semana passada.",
+   "id": "md24-mundo-09",
+   "title": "UE vai limitar importação de híbridos chineses sem tarifa",
+   "summary": "A União Europeia vai impor, a partir de 1º de dezembro, cotas para a importação sem tarifa de carros híbridos, com foco nos chineses. A medida temporária valerá por 200 dias durante uma investigação.",
    "highlights": [
-    "Cenário extremo do NWS prevê 4 a 6 polegadas",
-    "Quarta-feira é o dia mais crítico, com 90% de chance de chuva",
-    "Escolas de Broward já estão em recesso até sexta"
+    "Cota para a China: 350 mil no primeiro ano, ou cerca de 191 mil em 200 dias",
+    "Japão, Turquia, Coreia do Sul e Reino Unido também terão limites",
+    "Cota equivale a cerca de metade das importações chinesas previstas"
    ],
-   "body": "O Serviço Nacional de Meteorologia em Miami emitiu na segunda-feira um alerta de enchente para a região metropolitana de Broward, incluindo Weston, além das áreas costeiras e metropolitanas de Palm Beach e Miami-Dade. O alerta vale das 19h de terça (24) à 1h de quinta (26). Segundo o NWS, a chuva dos últimos 30 dias chegou a 400% a 600% do normal em partes de Broward e Palm Beach, e \"não será preciso muita chuva\" para causar alagamentos.\n\nA previsão para Weston indica terça nublada e seca, com máxima perto de 81°F, pancadas e trovoadas a partir das 2h da madrugada e, na quarta, 90% de chance de temporais, com possibilidade de tempestades severas. O tempo seco deve voltar no Dia de Ação de Graças.\n\nQuem for viajar na quarta deve prever tempo extra na I-75, na I-595 e na Sawgrass Expressway e não atravessar água parada. Alagamentos em ruas podem ser informados à prefeitura, e os moradores podem se inscrever no sistema ALERT Weston.",
-   "category": "weston",
-   "source": "Weston Journal",
-   "url": "https://westonjournal.com/weston-flood-watch-nov-24-25/",
-   "published_at": "2026-11-23T20:09:00-05:00",
-   "image_url": "https://westonjournal.com/share/weston-flood-watch-nov-24-25-10f0060bf0.png"
+   "body": "A Comissão Europeia anunciou que os limites, permitidos pelas regras da OMC, também se aplicam a híbridos do Japão, Turquia, Coreia do Sul e Reino Unido, mas o objetivo principal é conter as importações da China, que cresceram após um acordo com Pequim em outubro. A UE tenta reduzir seu enorme déficit comercial com o país.\n\nAs cotas do primeiro ano serão de 350 mil veículos para a China, 310 mil para o Japão, 230 mil para a Turquia, 105 mil para a Coreia do Sul e 190 mil para o Reino Unido. O teto chinês equivale a cerca de metade dos híbridos que a China deve exportar ao bloco nos próximos 12 meses.",
+   "category": "mundo",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+   "published_at": "2026-11-24T05:59:40-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f26a7381bbc6cf8a79f020124a3427b"
   },
   {
-   "id": "mn24-weston-02",
-   "title": "Obras fecham faixas na Weston Road e na I-595 à noite",
-   "summary": "A Weston Road tem faixas fechadas à noite entre a Royal Palm Boulevard e a Meridian Parkway para recapeamento. Na I-595, o FDOT lista fechamentos noturnos até esta terça-feira, com pausa no feriado.",
+   "id": "md24-miami-03",
+   "title": "Homem é preso por câmera apontada para quarto de vizinha",
+   "summary": "Um homem de 60 anos foi preso em Miami depois que uma vizinha denunciou que uma câmera no telhado da casa dele estava apontada para o quarto dela. Ele responde por voyeurismo em vídeo.",
    "highlights": [
-    "Weston Road: faixas fechadas das 21h às 6h em dias úteis",
-    "I-595 leste: até quatro faixas fechadas entre 21h e 4h",
-    "FDOT não prevê obras de quarta até o fim do feriado"
+    "Charlie Perez-Acevedo foi preso em 23 de novembro",
+    "Vizinha diz que câmera gravava havia cerca de um mês",
+    "Crime é considerado felony de terceiro grau"
    ],
-   "body": "A empreiteira da prefeitura, Pedrail Systems, retomou a fresagem e o recapeamento da Weston Road entre a Royal Palm Boulevard e a Meridian Parkway, com fechamentos localizados de faixas das 21h às 6h em dias úteis, por várias semanas. Pelas regras da cidade, só pode haver no máximo uma faixa fechada em cada sentido, sem fechamentos totais ou durante o dia e fins de semana sem autorização.\n\nNa I-595 leste, entre a Sawgrass Expressway e a SW 136th Avenue, o FDOT lista até duas faixas internas e duas externas fechadas à noite, das 21h às 4h, até terça-feira (24). A pintura de faixas entre a I-75 e a SW 136th Avenue usa as noites de 22 a 24 de novembro como reserva, e o órgão não lista obras de quarta-feira (25) até o fim do feriado de Ação de Graças.",
-   "category": "weston",
-   "source": "Weston Journal",
-   "url": "https://westonjournal.com/road-construction-and-closures/",
-   "published_at": "2026-11-23T00:00:00-05:00",
-   "image_url": "https://westonjournal.com/img/road-construction-and-closures.webp"
-  },
-  {
-   "id": "mn24-miami-01",
-   "title": "Polícia de Miami Beach prende falso motorista de app com seis drogas",
-   "summary": "A polícia de Miami Beach prendeu um homem de 45 anos acusado de oferecer corridas ilegais em frente a uma boate de South Beach. No carro, os agentes encontraram cetamina, cocaína, MDMA, metanfetamina, heroína e maconha.",
-   "highlights": [
-    "Operação disfarçada mirava falsos motoristas de aplicativo",
-    "Policial pagou US$ 20 em notas marcadas pela corrida",
-    "Prisão ocorreu perto da Washington Avenue com 11th Street"
-   ],
-   "body": "Adrian Manzano, de 45 anos, foi preso na sexta-feira à noite durante uma operação contra motoristas suspeitos de se passar por motoristas de aplicativo, perto da Washington Avenue com a 11th Street, em frente ao Club Twist. Segundo os investigadores, um policial disfarçado aceitou a corrida e Manzano teria dito que tinha várias drogas disponíveis.\n\nDepois que o agente pagou US$ 20 em dinheiro marcado, os policiais fizeram a abordagem e encontraram no carro cetamina, cocaína, MDMA, metanfetamina, heroína e maconha, além das notas marcadas. Vídeo de câmera corporal divulgado pela polícia mostra a prisão.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/miami-beach-police-arrest-man-in-undercover-rideshare-operation-officers-find-six-drugs-in-car/",
-   "published_at": "2026-11-23T23:37:06-05:00",
-   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/c099926e-ba96-427a-9d24-b95859c6edec/thumbnail/1200x630/7af6e60bca95edec5625c6e596be1e32/snapshot-28.jpg"
-  },
-  {
-   "id": "mn24-miami-02",
-   "title": "Venetian Causeway às escuras preocupa moradores antes da Art Basel",
-   "summary": "Motoristas e moradores da Venetian Causeway dizem que trechos da via estão sem iluminação há dias. Eles temem pela segurança com o aumento do tráfego durante a Art Basel e as obras na região.",
-   "highlights": [
-    "Moradores notaram a falta de luz nos últimos dias",
-    "Preocupação maior é com o trânsito da Art Basel",
-    "Pedestres também relatam desconforto à noite"
-   ],
-   "body": "Quem passa pela Venetian Causeway à noite diz que a travessia ficou mais perigosa desde que as luzes se apagaram, deixando trechos da histórica ponte sem iluminação adequada. \"Tem sido preocupante porque está bem escuro\", disse a motorista Carolina Carpaneto à CBS News Miami.\n\nBianca Cutait, que mora na causeway e costuma caminhar pela orla, disse ter notado a diferença quase de imediato e se preocupa com o aumento do tráfego em Miami Beach durante a Art Basel.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/venetian-causeway-streetlights-out-art-basel-miami-dade-county-fpl-power-supply/",
-   "published_at": "2026-11-23T23:15:11-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/24/11b343f5-762c-4fab-99a7-72cf416c2652/thumbnail/1200x630/531367ce2af0042e351417ab5e194ec2/screenshot-2026-11-23-at-11-12-13-pm.png"
-  },
-  {
-   "id": "mn24-miami-07",
-   "title": "Moradora é bloqueada em apps de pagamento por ser confundida com irmã morta",
-   "summary": "Christina Rhau, moradora do Sul da Flórida, perdeu acesso a dois aplicativos de pagamento porque as empresas acharam que ela era a irmã gêmea, que morreu há cinco anos. Ela pediu ajuda ao quadro Help Me Howard.",
-   "highlights": [
-    "As irmãs eram gêmeas fraternas com nomes quase idênticos",
-    "Christine morreu de repente há cinco anos",
-    "Apps usados para guardar e gastar dinheiro foram bloqueados"
-   ],
-   "body": "Christina Rhau e a irmã Christine eram gêmeas fraternas, mas muito parecidas, e tinham nomes quase iguais. Depois que Christine morreu, há cinco anos, Christina conta que suas informações passaram a se \"cruzar\" com as da irmã.\n\nDois aplicativos de pagamento móvel que ela usa para guardar e gastar dinheiro passaram a tratá-la como se fosse a pessoa falecida, bloqueando o acesso. Sem conseguir resolver sozinha, ela recorreu ao quadro Help Me Howard, da WSVN, com o repórter Brandon Beyer.",
+   "body": "Segundo o boletim de prisão, policiais foram chamados para uma briga entre vizinhos. A mulher disse que discutia com frequência com Perez-Acevedo e que ele usava várias câmeras para gravá-la sempre que ela saía de casa, além de gritar obscenidades.\n\nOs policiais localizaram a câmera no telhado e confirmaram o relato. Perez-Acevedo foi levado ao Turner Guilford Knight Correctional Center e acusado de um crime de voyeurismo em vídeo.",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/help-me-howard/mobile-app-mixup-sister-death/",
-   "published_at": "2026-11-23T22:36:50-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-Christina-Rhau-Christine-Rhau-HMH.jpg?quality=60&strip=color"
+   "url": "https://wsvn.com/news/local/man-arrested-video-voyeurism-camera/",
+   "published_at": "2026-11-24T10:25:20-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Charlie-Perez-Acevedo.png"
   },
   {
-   "id": "mn24-miami-08",
-   "title": "Polícia procura idoso de 72 anos desaparecido em Miami-Dade",
-   "summary": "O Gabinete do Xerife de Miami-Dade pede ajuda para encontrar Carl Blair Springer Sr., de 72 anos, visto pela última vez no domingo no noroeste do condado. Ele pode precisar de assistência.",
+   "id": "md24-miami-01",
+   "title": "Sul da Flórida se prepara para nova rodada de enchentes",
+   "summary": "Comunidades de Broward e Miami-Dade ainda limpam os estragos da enchente histórica da semana passada e já se preparam para mais chuva forte. Novas inundações são possíveis a partir da noite desta terça.",
    "highlights": [
-    "Visto no bloco 2000 da NW 51st Street, por volta das 10h",
-    "Usava chapéu Kangol preto, óculos escuros e regata cinza",
-    "Informações: 305-715-3300 ou Crime Stoppers 305-471-8477"
+    "Hollywood abriu dois pontos de distribuição de sacos de areia",
+    "Cada residência pode pegar 10 sacos com ID de Hollywood",
+    "Estação móvel oferece lavadoras, secadoras e chuveiros"
    ],
-   "body": "Carl Blair Springer Sr. foi visto pela última vez por volta das 10h de domingo no bloco 2000 da Northwest 51st Street. Ele usava chapéu preto estilo \"Kango\", óculos escuros pretos, regata cinza, bermuda preta e mocassins azuis. Tem olhos castanhos, cabelos grisalhos, 1,75 m e cerca de 60 kg.\n\nSegundo os detetives, ele não fez contato com amigos ou familiares desde então e pode precisar de ajuda. Informações podem ser passadas ao delegado D. Guzman pelo 305-715-3300 ou ao Crime Stoppers pelo 305-471-TIPS (8477).",
+   "body": "Pilhas de entulho ainda tomam as ruas de Hollywood, uma das cidades mais atingidas, e cerca de uma dúzia de caminhões recolhia detritos na segunda-feira. A prefeitura distribuiu desumidificadores, vassouras e pás e abriu uma estação móvel na North 56th Avenue, entre a Sheridan Street e a Stirling Road, com lavadoras, secadoras e chuveiros.\n\nAntes das novas chuvas, a cidade abriu pontos de sacos de areia nos parques Rotary e Holland, a partir das 8h; cada residência pode retirar 10 sacos apresentando documento com endereço de Hollywood. Na área da U.S. 441 com a Sheridan Street, moradores passaram da limpeza à preparação para possíveis enchentes entre a noite de terça e a quarta-feira.",
+   "category": "miami",
+   "source": "CBS News Miami",
+   "url": "https://www.cbsnews.com/miami/news/south-florida-flooding-forecast-broward-hollywood-miami-dade-november-2026/",
+   "published_at": "2026-11-24T10:02:01-05:00",
+   "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/d8eb5736-f6b6-4547-8fdd-bd2b5a42627f/thumbnail/1200x630/a0fb2b09d7aaa59643e0b136137e64cf/cbsmiami-hollywood-sandbags-2.jpg"
+  },
+  {
+   "id": "md24-miami-05",
+   "title": "Homem é acusado de se expor diante de hospital em Fort Lauderdale",
+   "summary": "Um homem de 69 anos foi preso acusado de se expor no estacionamento do Holy Cross Hospital, em Fort Lauderdale, depois de se recusar a deixar o hospital após receber alta.",
+   "highlights": [
+    "Kevin Dougherty consta como sem-teto no boletim",
+    "Policial o encontrou nu numa maca antes do caso",
+    "Prisão foi feita pela polícia de Fort Lauderdale na segunda"
+   ],
+   "body": "Segundo o boletim de prisão, um policial em serviço extra no hospital, na 4725 N. Federal Highway, foi chamado pela equipe de enfermagem porque um paciente que recebera alta se recusava a sair. O agente encontrou Dougherty deitado nu numa maca e mandou que se vestisse e fosse embora.\n\nPouco depois, o mesmo policial recebeu chamado sobre um homem se expondo no estacionamento e encontrou Dougherty com as calças abaixadas perto da entrada. Ele foi preso na segunda-feira.",
+   "category": "miami",
+   "source": "Local10",
+   "url": "https://www.local10.com/news/local/2026/11/24/man-accused-of-exposing-himself-outside-of-fort-lauderdale-hospital/",
+   "published_at": "2026-11-24T09:54:19-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/CWJ4WNQD4BGODBUPKPK7CSUZ7Q.png?auth=440866b0bb9dc969f255d5376cf750e6e6ef585c2f0ed65ff55f22e4c04866e7&width=700"
+  },
+  {
+   "id": "md24-miami-02",
+   "title": "MIA e FLL têm corrida de Ação de Graças antes das tempestades",
+   "summary": "O movimento de feriado começou nos aeroportos de Miami e Fort Lauderdale, com viajantes tentando embarcar antes de nova rodada de tempestades e enchentes. A AAA recomenda chegar cedo.",
+   "highlights": [
+    "AAA projeta quase 6 milhões de americanos voando até segunda",
+    "Maré de sizígia (king tide) pode agravar enchentes",
+    "Viajantes relataram movimento menor que o esperado na terça cedo"
+   ],
+   "body": "Na manhã desta terça-feira, o clima era de otimismo no Aeroporto Internacional de Miami. \"Esperava que fosse pior, com a correria do feriado, mas não está tão ruim\", disse um viajante. Outro contou que voltava do Brasil para ver a família.\n\nOs passageiros tentam chegar a seus destinos antes de o Sul da Flórida enfrentar mais tempestades e alagamentos, que podem ser agravados pela maré alta de sizígia. A AAA projeta que quase seis milhões de americanos viajarão de avião pelos EUA até segunda-feira e recomenda chegar cedo aos aeroportos.",
    "category": "miami",
    "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/local/miami-dade/miami-dade-missing-man-springer/",
-   "published_at": "2026-11-23T21:26:39-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-210758.png"
+   "url": "https://wsvn.com/news/local/miami-dade/mia-fll-thanksgiving-travel-rush/",
+   "published_at": "2026-11-24T09:02:31-05:00",
+   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112426-Thanksgiving-rush-hits-MIA-and-FLL-ahead-of-looming-storms-AAA-recommending-early-arrivals.png"
   },
   {
-   "id": "mn24-miami-03",
-   "title": "Carro capota perto de escola em Fort Lauderdale após agressão",
-   "summary": "Um carro capotou na noite de domingo perto da Fort Lauderdale High School depois que o motorista, segundo a polícia, fugia de desconhecidos que o agrediram com uma pistola. Vizinhos ligam o caso a um aluguel de temporada sem certificação.",
+   "id": "md24-miami-04",
+   "title": "Ex-funcionário de creche em Pompano Beach confessa abuso de menina",
+   "summary": "Um ex-funcionário de 20 anos de uma creche em Pompano Beach confessou ter tocado de forma inapropriada uma menina de 7 anos, segundo o BSO. Ele foi preso e responde a duas acusações de abuso.",
    "highlights": [
-    "Carro ficou de pé ao lado do campo de futebol da escola",
-    "Motorista não se feriu no acidente",
-    "Vizinhos dizem que o imóvel é um problema recorrente"
+    "Brenard Branch, de Fort Lauderdale, foi preso na segunda",
+    "Caso ocorreu na All My Children Academy, segundo o BSO",
+    "Abuso teria acontecido em duas ocasiões"
    ],
-   "body": "A polícia de Fort Lauderdale investiga um acidente na noite de domingo na NE 17th Court com a NE 7th Avenue, onde um carro terminou virado na vertical em frente ao campo de futebol da Fort Lauderdale High School. O motorista disse aos investigadores que foi agredido com coronhadas de pistola por estranhos e bateu ao tentar fugir; ele não se feriu.\n\nMoradores afirmam que a agressão aconteceu diante de uma casa usada como aluguel de temporada sem certificação, que descrevem como um problema persistente no bairro, sobretudo quando grupos grandes a alugam.",
+   "body": "Segundo o boletim do Gabinete do Xerife de Broward (BSO), os policiais foram chamados à All My Children Academy, na 2601 N. Dixie Highway. A menina contou que Branch a tocou em 20 de novembro durante o programa pós-escola da creche, depois de mandar as outras crianças saírem da sala.\n\nBranch, de 20 anos, responde a duas acusações de atentado lascivo contra vítima menor de 12 anos. Os agentes afirmam que o abuso ocorreu em duas ocasiões diferentes.",
    "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/fort-lauderdale-high-school-car-crash-short-term-rental-pistol-whipped-violation-notice/",
-   "published_at": "2026-11-23T20:49:02-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/ad8d2f2c-85ff-42cb-b704-d951775428d5/thumbnail/1200x630/8e3aa28da32985a22225cf00bd083868/snapshot-26.jpg"
+   "source": "Local10",
+   "url": "https://www.local10.com/news/local/2026/11/24/ex-broward-daycare-worker-confesses-to-touching-7-year-old-girls-vagina-deputies-say/",
+   "published_at": "2026-11-24T09:00:43-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-24-2026%2Ft_b7e4f6a6f9ee4052b9609d827db721f8_name_49834339507_hdtv.jpg?auth=13b42cdb10e9307e5b3601cb5f6ddaa17889a01d7302860223dca97028017e5e&width=700"
   },
   {
-   "id": "mn24-miami-04",
-   "title": "Condomínio de Hollywood vira \"ferro-velho\" após enchente histórica",
-   "summary": "No La Vue at Emerald Pointe, em Hollywood, dezenas de carros ficaram destruídos e apartamentos térreos foram inundados pela enchente da semana passada. Moradores limpam o local e criticam a drenagem.",
+   "id": "md24-miami-06",
+   "title": "Acidente na Turnpike deixa 4 hospitalizados em Miami-Dade",
+   "summary": "Quatro pessoas foram levadas ao hospital após um acidente com vários veículos e dois pedestres na Homestead Extension da Florida's Turnpike, no sudoeste de Miami-Dade, na noite de segunda-feira.",
    "highlights": [
-    "FWC resgatou dezenas de moradores e animais no local",
-    "Caçambas transbordam com colchões e carpetes",
-    "Morador chama a enchente de \"avó de todas as enchentes\""
+    "Acidente ocorreu perto da milha 23 da State Road 821",
+    "Pistas sentido norte ficaram fechadas por cerca de 35 minutos",
+    "Feridos foram levados ao HCA Florida Kendall Hospital"
    ],
-   "body": "A limpeza continuou na segunda-feira em Hollywood, uma das áreas mais atingidas pela enchente histórica da semana passada. No condomínio La Vue at Emerald Pointe, perto da Sheridan Street, carros desmontados, bancos espalhados pelo gramado e portas abertas para secar davam ao local aparência de ferro-velho. As caçambas transbordavam com colchões, carpetes e outros pertences perdidos nos apartamentos térreos, que tiveram água quase na altura do joelho.\n\nNa semana passada, agentes da Comissão de Conservação de Peixes e Vida Selvagem da Flórida (FWC) resgataram dezenas de moradores e animais no condomínio. Orlando Barnett, morador desde 2018, lembra que já houve perdas em enchentes em 2023 e 2024, mas diz que esta foi a pior e que o sistema de drenagem é \"ultrapassado e inadequado\".",
+   "body": "Segundo a Patrulha Rodoviária da Flórida (FHP), a batida envolveu vários veículos e dois pedestres e fechou todas as faixas no sentido norte da rodovia, também chamada de State Road 821, por cerca de 35 minutos. As pistas foram reabertas às 21h15.\n\nOs quatro feridos foram levados ao HCA Florida Kendall Hospital. A FHP não divulgou mais detalhes sobre as vítimas nem sobre as circunstâncias do acidente.",
    "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/hollywood-la-vue-emerald-pointe-flood-cleanup-residents-management-statement/",
-   "published_at": "2026-11-23T20:20:57-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/0a23196e-3350-49e5-8214-f1c1ab474f3f/thumbnail/1200x630/14f67e746841eff712e17f734e426764/snapshot-23.jpg"
+   "source": "Local10",
+   "url": "https://www.local10.com/news/local/2026/11/24/fhp-4-hospitalized-after-crash-on-homestead-extension-of-turnpike-in-southwest-miami-dade/",
+   "published_at": "2026-11-24T07:25:08-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/LW6ISNPTFFHNLP7NM3KSAPMZK4.jpg?auth=021dd25cc9785bc194f1df33cfd78c29259dc83dffe1c69497779c54e05b25cc&width=700"
   },
   {
-   "id": "mn24-miami-10",
-   "title": "Alerta de enchente para Broward e Miami-Dade a partir desta terça",
-   "summary": "Um alerta de enchente foi emitido para boa parte do sudeste da Flórida, incluindo Broward e Miami-Dade, de terça à noite até o fim da noite de quarta. Os modelos indicam de 1 a 3 polegadas de chuva, com volumes maiores em alguns pontos.",
+   "id": "md24-miami-07",
+   "title": "Vídeo mostra cão K-9 do BSO enfrentando suspeito em Cooper City",
+   "summary": "Um vídeo divulgado mostra o momento antes de o cão policial Scuba, do BSO, ser baleado duas vezes por um suspeito de arrombar carros em Cooper City. Um deputado também ficou ferido.",
    "highlights": [
-    "Áreas baixas continuam encharcadas pelo novembro chuvoso",
-    "Marés reais trazem risco de alagamento costeiro",
-    "Sistema que traz a chuva se forma no sul do Golfo"
+    "Suspeito identificado como Michael Whitehead, de 27 anos",
+    "Scuba, de 2 anos, foi baleado na perna e no ombro",
+    "Cirurgia de cerca de 45 minutos no Hollywood Animal Hospital"
    ],
-   "body": "Depois de dois dias para secar, a chuva volta ao Sul da Flórida. Segundo o blog de meteorologia da WSVN, o alerta de enchente entra em vigor na terça à noite e vai até o fim da noite de quarta-feira, com previsão de 1 a 3 polegadas de chuva em geral e volumes maiores em alguns locais.\n\nA emissora lembra que áreas baixas ainda estão saturadas após um novembro muito chuvoso e que o retorno das marés reais (king tides) traz risco de alagamento costeiro nos picos de maré alta ao longo da semana. O distúrbio responsável pela chuva ainda está se formando sobre o sul do Golfo.",
+   "body": "O caso começou na quinta-feira passada na Southwest 55th Lane, onde, segundo os investigadores, um homem mascarado arrombava veículos; câmeras de segurança residenciais registraram os furtos. As autoridades dizem que Whitehead atirou duas vezes no K-9 Scuba e também feriu um deputado do Gabinete do Xerife de Broward.\n\nScuba foi levado em estado crítico ao Hollywood Animal Hospital, com ferimentos que causaram trauma no peito e fraturas nas costelas. A veterinária Jaymie Zweig, que fez a cirurgia, disse que o resultado poderia ter sido muito diferente se a bala tivesse atingido outro ponto.",
    "category": "miami",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/weather-blog/flood-watch-issued/",
-   "published_at": "2026-11-23T20:08:35-05:00",
-   "image_url": null
+   "source": "Local10",
+   "url": "https://www.local10.com/news/local/2026/11/24/video-shows-bso-k-9-scuba-confronting-armed-burglary-suspect-before-being-shot-in-cooper-city/",
+   "published_at": "2026-11-24T06:56:38-05:00",
+   "image_url": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-24-2026%2Ft_7f7353e9f7fd4b57ba279f16ea3d996c_name_49831324341_hdtv.jpg?auth=9e464ee8f6ed1b101fd64f6dd3eeeeca6c9915739ccc4ba70b98e043492a8bc2&width=700"
   },
   {
-   "id": "mn24-miami-09",
-   "title": "Homem em carro roubado bate em viatura do BSO e foge até Dania Beach",
-   "summary": "Um homem de 43 anos em um carro roubado bateu de propósito numa viatura do Gabinete do Xerife de Broward e fugiu de Hollywood até Dania Beach, segundo o boletim. Ele foi preso dentro de um cinema.",
+   "id": "md24-tecnologia-05",
+   "title": "BYD lança novo Tang elétrico por menos de US$ 30 mil",
+   "summary": "A BYD lançou na China a terceira geração do Tang, SUV elétrico de cinco lugares com duas telas de mais de 30 polegadas. O preço inicial é de 187.900 yuans, cerca de US$ 28 mil.",
    "highlights": [
-    "Kia Sorento havia sido roubado no mesmo dia em Hollywood",
-    "Carro pegou fogo na I-95 perto da saída da Griffin Road",
-    "Suspeito foi preso no Regal Dania Pointe"
+    "Preço ficou bem abaixo da pré-venda, de 225 mil yuans",
+    "Três versões, com tração traseira de série",
+    "Usa a segunda geração da bateria Blade LFP"
    ],
-   "body": "Segundo o boletim de prisão, Duane Clarke, morador de Hollywood, dirigia no domingo um Kia Sorento vermelho roubado naquele dia quando deu ré e bateu \"intencionalmente\" no para-choque da viatura de um delegado do BSO, causando danos permanentes. Ele furou uma placa de pare e colidiu com outro veículo.\n\nQuando o carro começou a pegar fogo na I-95, ele bateu numa barreira pouco antes da saída da Griffin Road, correu e entrou no cinema Regal Dania Pointe, na 128 Sunset Drive, onde foi preso pelos delegados.",
-   "category": "miami",
-   "source": "Local 10",
-   "url": "https://www.local10.com/traffic/2026/11/23/man-accused-of-crashing-into-bso-patrol-car-during-chase-in-stolen-car/",
-   "published_at": "2026-11-23T19:07:24-05:00",
-   "image_url": "https://www.local10.com/resizer/v2/2243W2LZHJEVTI3RYTYTRSF4NQ.jpg?auth=697f9f74816057dbaf995ceefe26695f54c929b8e0a0fe115a6cb3e7d45fe448&width=700"
+   "body": "O novo Tang fica abaixo do \"Da Tang\", SUV de sete lugares que é o topo da linha Dynasty. Está disponível nas versões Premium, Laser Premium (207.900 yuans) e Laser Flagship (219.900 yuans); esta pode receber um pacote opcional de tração integral com direção steer-by-wire por 20 mil yuans (cerca de US$ 3 mil).\n\nTodas as versões usam a segunda geração das baterias Blade LFP da BYD. Os modelos de tração traseira têm um único motor de 402 cv (300 kW).",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/24/byd-launches-new-luxury-5-seat-ev-suv-two-30-screens-under-30000/",
+   "published_at": "2026-11-24T10:40:49-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Tang-EV-launch.jpeg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "mn24-miami-05",
-   "title": "Vídeo mostra policial de Miami socando suspeito algemado",
-   "summary": "Um vídeo nas redes sociais mostra um policial de Miami dando cinco socos no rosto de um suspeito durante uma prisão no fim de semana de Halloween. A polícia diz que o agente se defendia após ser mordido na coxa.",
+   "id": "md24-tecnologia-04",
+   "title": "Nuro tira motoristas de segurança de robotáxis da Uber na Califórnia",
+   "summary": "A Nuro começou a testar robotáxis Lucid Gravity sem ninguém no banco do motorista na Baía de São Francisco. Mas o lançamento público, prometido para 2026, ficou para o primeiro trimestre de 2027.",
    "highlights": [
-    "Suspeito, de 22 anos, foi identificado como Gabriel Thomas",
-    "Testemunha diz que ele já estava algemado",
-    "Polícia afirma que o suspeito estava embriagado e agressivo"
+    "Testes em Palo Alto, Mountain View, Los Altos e Sunnyvale",
+    "Frota tem mais de 100 SUVs Gravity entregues pela Lucid",
+    "Funcionários da Uber poderão andar nos carros \"em breve\""
    ],
-   "body": "O vídeo, gravado por Charlene Breed, visitante da região de San Francisco, mostra o policial socando o suspeito cinco vezes até ser puxado por uma colega, enquanto um espectador grita que o homem já está algemado e a multidão diz que ele vai perder o emprego. A polícia respondia a uma queixa de que o suspeito havia apalpado a namorada.\n\nA Polícia de Miami identificou o suspeito como Gabriel Thomas, de 22 anos, e afirma que ele estava embriagado e desordeiro quando mordeu o policial Diaz na parte interna da coxa, o que, segundo a corporação, justificou a reação de defesa.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/miami-police-officer-punches-suspect-video-bite-gabriel-thomas-halloween-weekend/",
-   "published_at": "2026-11-23T18:39:27-05:00",
-   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/59d97711-c8c4-4979-8afa-769b610acc27/thumbnail/1200x630/0c59c94c3f2c2aee6089aa7d370d40e2/snapshot-25.jpg"
+   "body": "É o maior passo até agora da parceria entre Uber, Nuro e Lucid. Os testes sem motorista começam em quatro cidades da Península e do South Bay, com mais cidades da região previstas para o próximo ano.\n\nDesde dezembro de 2025 a Nuro operava os Gravity na Baía de São Francisco e em Houston, sempre com motorista de segurança. Antes de retirá-lo, a empresa diz ter feito testes sem operador em sua pista fechada de Las Vegas, com situações como encontros com pedestres e violações de preferência, além de simulações em larga escala.",
+   "category": "tecnologia",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/24/nuro-lucid-gravity-uber-robotaxi-driverless-testing-bay-area/",
+   "published_at": "2026-11-24T10:32:19-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Lucid-Gravity-Nuro-Uber.jpeg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "mn24-miami-06",
-   "title": "MIA espera Ação de Graças recorde após US$ 14 bi em obras",
-   "summary": "O Aeroporto Internacional de Miami prevê cerca de 1,95 milhão de passageiros no período de Ação de Graças, 1% a mais que no ano passado. Autoridades destacam os resultados de US$ 14 bilhões em investimentos.",
+   "id": "md24-tecnologia-02",
+   "title": "Ações da Anthropic caem abaixo do preço do IPO",
+   "summary": "As ações da Anthropic caíram 8% nesta terça-feira, ficando abaixo do preço de IPO de US$ 83. O papel vem recuando desde a estreia na Nasdaq, na quinta-feira, a US$ 111,50.",
    "highlights": [
-    "Elevadores e escadas rolantes funcionam acima de 95%",
-    "Período de 11 dias deve ser o mais movimentado da história",
-    "Passageiros devem chegar 3 horas antes dos voos"
+    "Anthropic levantou US$ 81,3 bilhões, maior oferta da história",
+    "Metade dos investidores institucionais ficou sem ações no IPO",
+    "Nvidia, AMD, Intel e CoreWeave também caíram"
    ],
-   "body": "Às vésperas do feriado, a prefeita de Miami-Dade, Daniella Levine Cava, afirmou que mais de 95% dos elevadores, escadas rolantes e esteiras do aeroporto estão funcionando, acima do padrão do setor, como resultado de um investimento de US$ 14 bilhões em infraestrutura. O CEO do MIA, Ralph Cutie, disse que o período de 11 dias deve ser \"a temporada de Ação de Graças mais movimentada da história\".\n\nCom tempestades previstas para terça e quarta-feira, os passageiros devem consultar as companhias aéreas sobre mudanças nos voos e chegar três horas antes do embarque nesta semana.",
-   "category": "miami",
-   "source": "CBS News Miami",
-   "url": "https://www.cbsnews.com/miami/news/miami-international-airport-thanksgiving-travel-14-billion-upgrades-2026/",
-   "published_at": "2026-11-23T18:05:08-05:00",
-   "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/e4e336d6-4b4d-4cfe-8298-dadc96f94487/thumbnail/1200x630/a7184c0763f744514ef57adf7b88a542/gettyimages-2167921453.jpg"
-  },
-  {
-   "id": "mn24-tecnologia-01",
-   "title": "Ações da Nvidia caem mais de 5% após rali com volta de Huang",
-   "summary": "As ações da Nvidia recuavam 5,4% no pré-mercado desta terça-feira, depois de subirem 30% na segunda com a recondução de Jensen Huang ao cargo de CEO. Outras fabricantes de chips também caíam.",
-   "highlights": [
-    "Micron, Marvell, AMD e Arm recuavam mais de 3%",
-    "Conselho votou por unanimidade pela volta de Huang",
-    "Trump disse à CNBC: \"Eu fiz o acordo\""
-   ],
-   "body": "As ações da Nvidia caíam 5,4% no pré-mercado às 5h44 (horário de NY) desta terça-feira, um dia depois de fecharem em alta de 30% com a volta de Jensen Huang ao comando. Micron, Marvell Technology, AMD e Arm também recuavam mais de 3%.\n\nHuang renunciou neste mês após admitir um caso extraconjugal e foi reconduzido na segunda-feira. O conselho disse ter votado por unanimidade após \"uma série de conversas e reuniões\" com ele. O presidente Trump afirmou à CNBC que conversou com o conselho antes da reviravolta: \"Eu fiz o acordo\".",
+   "body": "Investidores esperavam que a estreia da Anthropic revitalizasse as ações de IA, que andam voláteis diante de dúvidas sobre a viabilidade de uma infraestrutura de vários trilhões de dólares. A oferta foi bastante disputada e cerca de metade dos investidores institucionais que fizeram pedidos ficou sem papéis, mas, com o mercado oscilando, essas firmas não parecem correr para comprar agora.\n\nNvidia, AMD e Intel, além das \"neoclouds\" CoreWeave, IREN e Nebius, também caíam no pregão. O mercado ainda reage à reintegração de Jensen Huang como CEO da Nvidia, uma reviravolta após sua saída no início do mês.",
    "category": "tecnologia",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-   "published_at": "2026-11-24T05:45:52-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080"
+   "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+   "published_at": "2026-11-24T10:22:29-05:00",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080"
   },
   {
-   "id": "mn24-tecnologia-02",
-   "title": "Signal vai bloquear agentes de IA que leem a tela do celular",
-   "summary": "O Signal vai reforçar proteções contra agentes de IA embutidos nos sistemas, como o Gemini e a Siri com percepção de tela, que podem capturar dados do app. A empresa bloqueará capturas de tela no iOS e ativará segurança de tela no Android.",
+   "id": "md24-tecnologia-01",
+   "title": "Yoshua Bengio alerta: \"corremos rumo a enormes perigos\"",
+   "summary": "Yoshua Bengio, um dos \"padrinhos\" da IA, pede que empresas e governos desacelerem o desenvolvimento de sistemas cada vez mais capazes. Ele defende foco em segurança.",
    "highlights": [
-    "Meredith Whittaker diz que apps não têm ferramentas para se proteger",
-    "Signal já havia barrado o Recall da Microsoft no Windows 11",
-    "Empresa se junta a United Airlines e bancos na restrição a agentes"
+    "Bengio é o cientista vivo mais citado",
+    "Sua ONG LawZero busca IA \"confiável e segura\"",
+    "Ele pede que laboratórios parem de criar modelos mais poderosos"
    ],
-   "body": "O Signal afirmou que agentes de IA integrados aos sistemas móveis, como o Gemini, do Google, e a Siri com reconhecimento do que aparece na tela, podem \"escanear\" as informações exibidas e armazenar dados do aplicativo fora de seu controle. Por isso, vai bloquear capturas de tela no app para iOS e, no Android, ativar a segurança de tela quando detectar um assistente de IA tentando lê-la.\n\n\"É um problema sério que o Signal — e outros desenvolvedores — não tenham ferramentas robustas para impedir que agentes de IA minem a privacidade dos aplicativos\", escreveu Meredith Whittaker, presidente da Signal Foundation. No ano passado, o app adotou restrições semelhantes contra o Recall, recurso de IA do Windows 11.",
+   "body": "Professor da Universidade de Montreal, Bengio é considerado, ao lado de Geoffrey Hinton e Yann LeCun, um dos três \"padrinhos\" da inteligência artificial por seu trabalho pioneiro em redes neurais profundas, base dos modelos atuais.\n\nHoje ele pede urgentemente uma desaceleração. A LawZero, organização sem fins lucrativos da qual é copresidente e diretor científico, desenvolve IA \"projetada para ser confiável e segura\" — na prática, uma dissidência em relação aos modelos lançados por Anthropic e OpenAI. Bengio quer que empresas, governos e funcionários dos laboratórios parem de desenvolver sistemas cada vez mais capazes.",
    "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-   "published_at": "2026-11-24T02:25:41-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108121787-1743022694548-gettyimages-2206472434-porzycki-signalan250326_npuvO.jpeg?v=1743022732&w=1920&h=1080"
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/",
+   "published_at": "2026-11-24T09:50:33-05:00",
+   "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/aa5b81df-bd6d-44df-be35-e2a23b98b8b9/thumbnail/1200x630/cd9521ea8672fbb6f1eebf8cefcd7e2c/yoshua-bengio-headshot-2026-1.jpg"
   },
   {
-   "id": "mn24-tecnologia-10",
-   "title": "Uber testa corridas para crianças de 10 a 12 anos",
-   "summary": "A Uber lançou um programa que permite que crianças de 10 a 12 anos viajem sem os pais. Diferentemente das contas de adolescentes, as crianças não podem pedir corridas sozinhas.",
+   "id": "md24-tecnologia-03",
+   "title": "Tesla e SpaceX correm por acordo de fusão até o fim do ano",
+   "summary": "Tesla e SpaceX trabalham para fechar até 31 de dezembro sua fusão em ações, segundo o Financial Times. O prazo é anterior à posse do novo Congresso, em 3 de janeiro, onde democratas prometem investigar as empresas de Musk.",
    "highlights": [
-    "Pais acompanham a viagem por vídeo ao vivo no app",
-    "Teste ocorre em Austin, Nashville e Madison",
-    "Contas de adolescentes já atendem jovens de 13 a 17 anos"
+    "Grupo combinado valeria cerca de US$ 3,5 trilhões",
+    "Fontes dizem que acordo ainda não está próximo",
+    "Dois negociadores da Tesla desenharam o pacote de US$ 1 tri de Musk"
    ],
-   "body": "O novo programa da Uber permite que crianças de 10 a 12 anos façam corridas sem um responsável, mas, ao contrário das contas para adolescentes de 13 a 17 anos, elas não podem solicitar as viagens por conta própria.\n\nUma transmissão de vídeo ao vivo no aplicativo permite que os pais acompanhem o trajeto. O programa está em teste em três cidades: Austin, Nashville e Madison, no Wisconsin.",
+   "body": "O FT nomeou os conselheiros que negociam por cada lado; dois dos três da Tesla são os mesmos que criaram o pacote de remuneração de US$ 1 trilhão de Elon Musk. Segundo o jornal, as conversas caminham para um possível prazo no fim do ano, embora pessoas próximas digam que um acordo ainda não está perto. A Bloomberg já havia informado que a SpaceX poderia anunciar a operação em dezembro.\n\nA empresa combinada valeria cerca de US$ 3,5 trilhões, de longe a maior fusão da história. O Electrek, que acompanha o caso desde que Musk lançou a ideia em maio, chama o negócio de \"autonegociação\" de Musk.",
    "category": "tecnologia",
-   "source": "WSVN 7News",
-   "url": "https://wsvn.com/news/us-world/uber-tests-child-travel-feature/",
-   "published_at": "2026-11-23T22:27:01-05:00",
-   "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/11/112326-Uber-Kids.png"
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/",
+   "published_at": "2026-11-24T09:43:50-05:00",
+   "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Elon-Musk-the-king-of-self-dealing.png?resize=1200,628"
   },
   {
-   "id": "mn24-tecnologia-03",
-   "title": "FAA investiga drone da Amazon que caiu sobre garagem em Michigan",
-   "summary": "A FAA vai investigar a queda de um drone de entregas MK30 da Amazon em Huntington Woods, perto de Detroit. O aparelho atingiu um cabo de fibra, uma garagem e ficou preso em fios de energia ao decolar.",
+   "id": "md24-tecnologia-07",
+   "title": "Funcionários da OpenAI e Anthropic alertam sobre novos modelos",
+   "summary": "Mais de duas dezenas de funcionários da OpenAI e da Anthropic disseram ao Axios que modelos ainda não lançados estão chegando a um ponto em que talvez não possam ser liberados ou controlados com segurança.",
    "highlights": [
-    "Drone tinha acabado de entregar um pedido de xampu",
-    "Ninguém se feriu, segundo a Amazon",
-    "Amazon diz que incidentes são \"extremamente raros\""
+    "Novos modelos superariam técnicas atuais de controle",
+    "Há debate interno sobre parar de treinar modelos",
+    "Alguns pesquisadores criticam executivos das empresas"
    ],
-   "body": "Segundo a Amazon, um de seus drones MK30 \"pousou na garagem de um morador\" na sexta-feira, durante uma entrega em Huntington Woods, subúrbio ao norte de Detroit, por volta das 16h30. O aparelho havia acabado de deixar um pedido de xampu e teve uma hélice danificada. Um relatório preliminar no site da FAA diz que o drone \"atingiu um cabo de fibra, uma garagem residencial e se enroscou em linhas de energia durante a decolagem\".\n\nO porta-voz da Amazon, Jack Stelzner, disse que não houve feridos, que o drone foi removido e que a empresa está em contato com o morador. \"A segurança é nossa prioridade e incidentes são extremamente raros\", afirmou.",
-   "category": "tecnologia",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
-   "published_at": "2026-11-23T19:56:10-05:00",
-   "image_url": "https://image.cnbcfm.com/api/v1/image/108207077-1759421802812-gettyimages-1732229069-AFP_33YJ8RL.jpeg?v=1766936286&w=1920&h=1080"
-  },
-  {
-   "id": "mn24-tecnologia-04",
-   "title": "Apple Pay ganha nova tela de pagamento no iOS 27",
-   "summary": "A Apple anunciou novos recursos para o Apple Pay, e um dos destaques do iOS 27 é a tela de checkout redesenhada. Ficou mais fácil alternar entre cartões e ver recompensas, saldos e opções de parcelamento.",
-   "highlights": [
-    "Basta deslizar para trocar de cartão no checkout",
-    "Toque mostra grade com todos os cartões disponíveis",
-    "iOS 27 foi liberado para todos na semana passada"
-   ],
-   "body": "Segundo o 9to5Mac, a Apple anunciou recentemente quatro novos recursos para o Apple Pay. Um dos principais é a nova interface de pagamento do iOS 27, que facilita trocar de cartão em compras em sites e aplicativos: é possível deslizar entre os cartões na tela principal ou tocar para ver uma grade com todos eles.\n\nO novo design também mostra melhor informações de cada cartão, como recompensas, saldos e opções de \"compre agora, pague depois\". O iOS 27 foi liberado para todos os usuários na semana passada.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
-   "published_at": "2026-11-23T19:31:59-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "mn24-tecnologia-06",
-   "title": "Kagi lança serviço de e-mail rival do Gmail",
-   "summary": "A Kagi, que já tem um buscador pago e o navegador Orion, abriu a versão beta do Kagi Mail, e-mail \"sem vigilância, sem anúncios\". O serviço oferece 50 GB, calendário e aliases ilimitados.",
-   "highlights": [
-    "Endereço @kagimail.com com suporte a domínios próprios",
-    "Teste grátis de 60 dias antes da cobrança",
-    "Apps móveis nativos só no 3º trimestre de 2027"
-   ],
-   "body": "A Kagi anunciou o beta público do Kagi Mail, novo serviço de e-mail que promete \"nenhuma vigilância, nenhum anúncio, padrões abertos e nenhum aprisionamento\". O usuário recebe um endereço @kagimail.com, com aliases e domínios ilimitados, 50 GB de armazenamento e calendário integrado.\n\nContatos e catálogo de endereços estão previstos para o 1º trimestre de 2027 e apps nativos para celular só no 3º trimestre. O serviço tem teste gratuito de 60 dias antes de passar a ser pago.",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-   "published_at": "2026-11-23T19:02:52-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200"
-  },
-  {
-   "id": "mn24-tecnologia-07",
-   "title": "Navegador Ladybird, com motor próprio, entra em fase de testes",
-   "summary": "O Ladybird, navegador independente com motor criado do zero, foi lançado em versão alfa para macOS e Linux após mais de quatro anos de desenvolvimento. É o primeiro navegador em anos com um motor totalmente novo.",
-   "highlights": [
-    "Hoje os principais navegadores usam só Gecko, Blink e WebKit",
-    "Projeto é mantido por uma organização sem fins lucrativos",
-    "Anúncio foi feito pelo desenvolvedor Andreas Kling"
-   ],
-   "body": "O desenvolvedor Andreas Kling anunciou na segunda-feira o lançamento do Ladybird em alfa para macOS e Linux. Os navegadores mais populares hoje usam apenas três motores: o Gecko (do Firefox), o WebKit (do Safari) e o Blink (do Chrome, Edge e Opera), este último derivado do WebKit.\n\nO Ladybird é apoiado por uma organização sem fins lucrativos cujo objetivo é criar \"um navegador independente, rápido e seguro, que respeite a privacidade do usuário e promova uma web aberta\".",
-   "category": "tecnologia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-   "published_at": "2026-11-23T17:38:09-05:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ladybird-screenshot.webp?quality=90&strip=all&crop=0%2C14.66120255046%2C100%2C70.67759489908&w=1200"
-  },
-  {
-   "id": "mn24-tecnologia-05",
-   "title": "ChatGPT recebe GPT-6.2 Sol; OpenAI aposenta dois modelos",
-   "summary": "A OpenAI levou o GPT-6.2 Sol à aba Chat do ChatGPT, menos de uma semana após estrear em Work e Codex. A empresa também marcou para 23 de dezembro a aposentadoria de dois modelos antigos.",
-   "highlights": [
-    "Versão foi ajustada para conversas do dia a dia",
-    "Melhor em ler detalhes de fotos e seguir instruções na busca",
-    "Lançamento global para Plus, Pro, Business e Enterprise"
-   ],
-   "body": "Segundo a OpenAI, esta versão do Sol foi ajustada para conversas cotidianas: é melhor em identificar detalhes em fotos, como símbolos de uma placa de estacionamento, e em seguir instruções ao pesquisar na web. Ao comparar hotéis, por exemplo, pode pesar uma caminhada mais curta contra uma diária menor, e também pode avisar quando um produto cair de preço.\n\nA distribuição global começou para assinantes Plus, Pro, Business e Enterprise. O GPT-5.6 Sol deixará Chat, Work e Codex em 23 de dezembro, mesma data em que o GPT-5.6 Terra sai do ChatGPT Work e do Codex.",
-   "category": "tecnologia",
-   "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/",
-   "published_at": "2026-11-23T16:51:18-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "id": "mn24-tecnologia-08",
-   "title": "Gemini 4 Carbon chega ao Antigravity para assinantes AI Pro",
-   "summary": "O Google liberou o modelo Gemini 4 Carbon no Antigravity para assinantes do AI Pro (US$ 19,99/mês), antes restrito ao AI Ultra. A empresa também zerou as cotas do Gemini para todos na plataforma.",
-   "highlights": [
-    "Modelo Hydrogen ficará disponível para todos os usuários",
-    "Melhorias de cache ampliaram em 22% o uso da cota",
-    "Orchestrator ganhou nova interface de escolha de modelos"
-   ],
-   "body": "O Google disse que está \"atualizando modelos em todos os planos\": assinantes pagos do AI Pro agora têm acesso ao Carbon, que antes exigia o AI Ultra (US$ 99,99/mês), e o Hydrogen ficará disponível para todos os usuários. A empresa também reiniciou as cotas do Gemini no Antigravity, depois de outro reset no sábado, quando melhorias de cache aumentaram em 22% o que se consegue fazer com a cota.\n\nO Orchestrator do Antigravity também ganhou uma interface melhor para escolher os modelos de Orchestrator e Executor, em Settings > Models > Orchestrator Settings.",
+   "body": "Segundo o relato do Axios citado pelo 9to5Google, embora os modelos públicos GPT e Claude estejam cada vez mais poderosos, os sistemas internos em desenvolvimento começam a superar as soluções técnicas usadas para controlá-los.\n\nIsso gerou debate entre quem acredita que os problemas podem ser resolvidos e quem defende interromper o treinamento de novos modelos. \"Se continuarmos tentando torná-los mais inteligentes que nós… eles conseguirão nos enganar\", disse um dos funcionários.",
    "category": "tecnologia",
    "source": "9to5Google",
-   "url": "https://9to5google.com/2026/11/23/antigravity-gemini-4-carbon/",
-   "published_at": "2026-11-23T16:16:33-05:00",
-   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity.jpg?quality=82&strip=all&resize=1200,628"
+   "url": "https://9to5google.com/2026/11/24/openai-anthropic-new-models-safety-concerns-report/",
+   "published_at": "2026-11-24T09:40:00-05:00",
+   "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/claude-chatgpt-1.jpg?quality=82&strip=all&resize=1200,628"
   },
   {
-   "id": "mn24-tecnologia-09",
-   "title": "Anthropic lança Claude Ship para revisar e aprovar código",
-   "summary": "A Anthropic lançou em beta o Claude Ship, ferramenta que revisa pull requests, corrige problemas e aprova os que a política da equipe permite. O recurso é voltado a quem programa com agentes.",
+   "id": "md24-tecnologia-08",
+   "title": "Meta lança no Reino Unido o agente de IA Muse",
+   "summary": "A Meta lançou no Reino Unido o assistente Muse, que pode fazer compras de Natal, reservar viagens e enviar e-mails pelo usuário. Reguladores britânicos acompanham o lançamento por questões de privacidade.",
    "highlights": [
-    "Combina três agentes: Code Review, PR Steward e Claude Approvals",
-    "Pode ser testado com o comando /ship no Claude Code",
-    "Equipes definem onde roda e o que exige revisão humana"
+    "Muse lidera as lojas de apps gratuitos nos EUA",
+    "Funciona como app ou dentro do WhatsApp",
+    "Falhas já foram relatadas por usuários"
    ],
-   "body": "Segundo a Anthropic, o Claude Ship foi criado para tornar o tratamento de pull requests tão automatizado quanto a programação com agentes. A ferramenta revisa PRs, corrige-os e decide o que está pronto para ser integrado com base nas políticas de cada equipe, que continuam no controle de onde ela roda e de quais mudanças precisam de uma pessoa.\n\nO produto reúne três agentes — Code Review, PR Steward e Claude Approvals — que levam o pull request da revisão à decisão de aprovação. Desenvolvedores podem testá-lo em seus próprios PRs com o novo comando /ship no Claude Code.",
+   "body": "O Muse virou sucesso nos EUA, onde ocupa o primeiro e o segundo lugar entre os apps gratuitos da Google Play e da App Store, com milhões de downloads. O usuário pode dar ao assistente nome, aparência e personalidade e atribuir tarefas como enviar e-mails, reservar viagens ou comprar presentes.\n\nOs reguladores britânicos disseram que acompanham de perto o lançamento por causa de exigências de privacidade e proteção ao consumidor, e há relatos de falhas no funcionamento do agente.",
+   "category": "tecnologia",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+   "published_at": "2026-11-24T09:36:32-05:00",
+   "image_url": "https://i.guim.co.uk/img/media/54771ca72dfba09d32535c72c90ff667400f9d2e/405_0_3242_2593/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5e9c7811f9e60cccfe93b4fd3ed7a56"
+  },
+  {
+   "id": "md24-tecnologia-06",
+   "title": "iPhone 18e pode ganhar novo módulo de câmera",
+   "summary": "Imagens CAD atribuídas a uma fonte confiável sugerem que o iPhone 18e terá um módulo de câmera quase quadrado. Seria uma grande mudança em relação ao 17e, cuja lente única sai direto da carcaça.",
+   "highlights": [
+    "Módulo teria cerca de 28 mm por 35 mm",
+    "Abrigaria câmera, flash LED e microfone traseiro",
+    "Visual lembraria o do iPad Pro com M5"
+   ],
+   "body": "O iPhone 17e foi lançado em março com o mesmo design do 16e; a câmera ganhou recursos, como guardar informação de profundidade para retratos, mas manteve o visual com uma lente saliente e flash embutido ao lado.\n\nSegundo o Engadget, os desenhos do iPhone 18e mostram um ressalto quase quadrado, de cerca de 28 mm por 35 mm, com a câmera traseira, o flash LED e o microfone. O site não publicou as imagens, mas diz que o conjunto lembra o do iPad Pro com M5. Não está claro o que motivaria a mudança.",
    "category": "tecnologia",
    "source": "9to5Mac",
-   "url": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
-   "published_at": "2026-11-23T15:32:31-05:00",
-   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200,628"
+   "url": "https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design/",
+   "published_at": "2026-11-24T08:19:08-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CAD-images-suggest-iPhone-18e-will-have-an-odd-new-camera-design.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "md24-tecnologia-10",
+   "title": "Banco de dados exposto tem 2 bilhões de credenciais",
+   "summary": "Um pesquisador encontrou um banco de dados público, sem senha nem criptografia, com cerca de 2 bilhões de credenciais. Cerca de 400 mil documentos formavam perfis completos de vítimas, suficientes para roubo de identidade.",
+   "highlights": [
+    "Descoberta é do pesquisador Jeremiah Fowler",
+    "Inclui logins de milhares de endereços .onion da dark web",
+    "Pastas individuais vieram de malware mais avançado"
+   ],
+   "body": "Segundo Jeremiah Fowler, o banco reúne grande variedade de dados, incluindo logins de endereços Tor .onion, usados para acessar a dark web — algo que ele diz nunca ter visto em tamanha quantidade em vazamentos. Ele ressalta que organizações legítimas e veículos de imprensa também usam serviços .onion.\n\nO aspecto mais preocupante são os cerca de 400 mil documentos organizados em pastas separadas por vítima, aparentemente gerados por um malware mais sofisticado, com todas as informações necessárias para roubo de identidade.",
+   "category": "tecnologia",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/24/two-billion-credentials-publicly-exposed-including-everything-needed-for-identity-theft/",
+   "published_at": "2026-11-24T06:59:25-05:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Banks-FAA-Microsoft-Apple-–-no-systemic-attack-on-the-US-says-White-House.jpg?quality=82&strip=all&resize=1200,628"
+  },
+  {
+   "id": "md24-tecnologia-09",
+   "title": "Austrália terá lei que pode multar big techs em 5% da receita",
+   "summary": "O governo australiano fechou acordo político para aprovar o Digital Duty of Care Bill, que obriga grandes empresas de tecnologia a prevenir danos online previsíveis. As multas podem chegar a 5% da receita global.",
+   "highlights": [
+    "Lei se inspira no DSA europeu e no Online Safety Act britânico",
+    "Regras valem para jogos, apps e chatbots de IA",
+    "EUA alertam para risco de censura de discurso legal"
+   ],
+   "body": "A proposta estabelece padrões mínimos de segurança para serviços online, incluindo jogos, aplicativos e chatbots de IA, que deverão reduzir proativamente riscos de material e conduta seriamente nocivos. \"Não podemos curar a internet, mas, se você constrói, é responsável pelos riscos\", disse a ministra das Comunicações, Anika Wells.\n\nO governo trabalhista aceitou emendas do Partido Verde para aprovar a lei no Senado, onde nenhum partido tem maioria. Para o líder verde David Shoebridge, o país está \"tomando o poder de volta\" de corporações majoritariamente americanas. Os EUA afirmaram que a lei levará à censura de discurso legal.",
+   "category": "tecnologia",
+   "source": "AP / Local10",
+   "url": "https://www.local10.com/tech/2026/11/24/australia-set-to-pass-a-digital-duty-of-care-law-with-fines-up-to-5-of-tech-giants-global-revenue/",
+   "published_at": "2026-11-24T06:36:18-05:00",
+   "image_url": "https://www.local10.com/resizer/v2/ECICDFAS2R2FZ2WITILJMG55MQ.jpg?auth=a26e132dc4a2ba64d04db783ea877e88910cb4005a052069a707b548baa2b425&width=700"
   }
  ]
 }
